@@ -1,5 +1,7 @@
 # BABILong: a long-context needle-in-a-haystack benchmark for LLMs
 
+Preprint is on [arXiv](https://arxiv.org/abs/2402.10790): "In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss"
+
 ## bAbI + Books = BABILong
 
 **BABILong** is a novel generative benchmark for evaluating the performance of NLP models in
@@ -86,5 +88,19 @@ To submit your results or contributions, please follow these steps:
 By participating, you're not only contributing to the advancement of NLP research but also helping to shape the future of language models' capabilities in handling real-world, complex, long-form content. Let's collaborate to make BABILong a cornerstone for benchmarking the next generation of LLMs!
 
 Join us in this exciting endeavor and let's push the boundaries of what's possible together!
+
+## Citation
+```
+@misc{kuratov2024search,
+      title={In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss}, 
+      author={Yuri Kuratov and Aydar Bulatov and Petr Anokhin and Dmitry Sorokin and Artyom Sorokin and Mikhail Burtsev},
+      year={2024},
+      eprint={2402.10790},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+## References
 
 [1] Weston, Jason, et al. "Towards ai-complete question answering: A set of prerequisite toy tasks." arXiv preprint [arXiv:1502.05698](https://arxiv.org/abs/1502.05698) (2015).
