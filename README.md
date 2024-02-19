@@ -19,7 +19,7 @@ BABILong consists of 20 tasks designed for evaluation of basic aspects of reason
 |------|--------------------------|--------------------|--------------------|
 | qa1  | single supporting fact   | 2                  | 10                 |
 | qa2  | two supporting facts     | 2                  | 68                 |
-| qa3  | three supporting facts   | 2                  | 320                |
+| qa3  | three supporting facts   | 4                  | 320                |
 | qa4  | two arg relations        | 2                  | 2                  |
 | qa5  | three arg relations      | 2                  | 126                |
 | qa6  | yes-no questions         | 2                  | 26                 |
