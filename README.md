@@ -1,6 +1,6 @@
 # BABILong: a long-context needle-in-a-haystack benchmark for LLMs
 
-Preprint is on [arXiv](https://arxiv.org/abs/2402.10790): "In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss"
+Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
 
 ## bAbI + Books = BABILong
 
