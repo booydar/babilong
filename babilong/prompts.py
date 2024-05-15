@@ -124,5 +124,111 @@ DEFAULT_PROMPTS = {
         'post_prompt':
             'Your answer should contain only one word. Do not write anything else after that. '
             'Do not explain your answer.'
+    },
+    'qa6': {
+        'instruction':
+            'I will give you context with the facts about people and their locations hidden in some random text and a '
+            'question. You need to answer the question based only on the information from the facts. '
+            'If a person was in different locations, use the latest location the person was in to answer the question.',
+        'examples':
+            '<example>\n'
+            'John travelled to the hallway. John travelled to the garden. Is John in the garden?\n'
+            'Answer: yes\n'
+            '</example>\n'
+            '<example>\n'
+            'Mary went to the office. Daniel journeyed to the hallway. Mary went to the bedroom. '
+            'Sandra went to the garden. Is Mary in the office?\n'
+            'Answer: no\n'
+            '</example>\n',
+        'post_prompt':
+            'Your answer should contain only one word - $yes$ or $no$. Do not write anything else after that. '
+            'Do not explain your answer.'
+    },
+    'qa7': {
+        'instruction':
+            'I will give you context with the facts about people and objects they carry, hidden in some random text '
+            'and a question. You need to answer the question based only on the information from the facts.',
+        'examples':
+            '<example>\n'
+            'Daniel went to the bedroom. Daniel got the apple there. How many objects is Daniel carrying?\n'
+            'Answer: one\n'
+            '</example>\n'
+            '<example>\n'
+            'Mary grabbed the apple there. Mary gave the apple to John. How many objects is Mary carrying?\n'
+            'Answer: none\n'
+            '</example>\n'
+            '<example>\n'
+            'Sandra travelled to the hallway. Sandra picked up the milk there. Sandra took the apple there. '
+            'Mary travelled to the garden. How many objects is Sandra carrying?\n'
+            'Answer: two\n'
+            '</example>\n',
+        'post_prompt':
+            'Your answer should contain only one word - $none$ or $number_of_objects$. '
+            'Do not write anything else after that. Do not explain your answer.',
+    },
+    'qa8': {
+        'instruction':
+            'I will give you context with the facts about people and objects they carry, hidden in some random text '
+            'and a question. You need to answer the question based only on the information from the facts.',
+        'examples':
+            '<example>\n'
+            'Sandra travelled to the garden. Mary grabbed the milk there. What is Mary carrying?\n'
+            'Answer: milk\n'
+            '</example>\n'
+            '<example>\n'
+            'Mary travelled to the kitchen. Sandra travelled to the office. John travelled to the office. '
+            'Sandra discarded the milk there. What is Sandra carrying?\n'
+            'Answer: nothing\n'
+            '</example>\n'
+            '<example>\n'
+            'Daniel grabbed the apple there. Mary went to the office. Daniel moved to the garden. '
+            'Daniel grabbed the milk there. Mary went to the kitchen. What is Daniel carrying?\n'
+            "Answer: apple,milk\n"
+            "</example>\n",
+        'post_prompt':
+            'Your answer should contain only one or two words: $nothing$ or $object$ or $object_1$, $object_2$. '
+            'Do not write anything else. Do not explain your answer.'
+    },
+    'qa9': {
+        'instruction':
+            'I will give you context with the facts about people and their locations hidden in some random text and '
+            'a question. You need to answer the question based only on the information from the facts. '
+            'If a person was in different locations, use the latest location the person was in to answer the question.',
+        'examples':
+            '<example>\n'
+            'John is not in the bathroom. Sandra is not in the bedroom. Is John in the bathroom?\n'
+            'Answer: no\n'
+            '</example>\n'
+            '<example>\n'
+            'Mary journeyed to the kitchen. John is in the bedroom. Sandra is not in the garden. '
+            'Is Mary in the kitchen?\n'
+            'Answer: yes\n'
+            '</example>\n',
+        'post_prompt':
+            'Your answer should contain only one word - $yes$ or $no$. Do not write anything else. '
+            'Do not explain your answer.'
+    },
+    'qa10': {
+        'instruction':
+            'I will give you context with the facts about people and their locations hidden in some random text and a '
+            'question. You need to answer the question based only on the information from the facts. '
+            'If a person was in different locations, use the latest location the person was in to answer the question.',
+        'examples':
+            '<example>\n'
+            'Bill is in the kitchen. Julie is either in the school or the cinema. Is Bill in the bedroom?\n'
+            'Answer: no\n'
+            '</example>\n'
+            '<example>\n'
+            'Fred is in the bedroom. Mary is either in the school or the cinema. Is Mary in the school?\n'
+            'Answer: maybe\n'
+            '</example>\n'
+            '<example>\n'
+            'Fred is either in the kitchen or the park. Bill moved to the cinema. Is Bill in the cinema?\n'
+            'Answer: yes\n'
+            '</example>\n'
+            '<context>\n',
+        'post_prompt':
+            'Your answer should contain only one word - $yes$ or $no$ or $maybe$. Do not write anything else. '
+            'Do not explain your answer.'
     }
 }
