@@ -1,4 +1,4 @@
-DEFAULT_TEMPLATE = '{instruction}\n{examples}\n{post_prompt}\n\n<context>\n{context}\n</context>\nQuestion: {question}'
+DEFAULT_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}'
 
 
 def get_formatted_input(context, question, examples, instruction, post_prompt, template=DEFAULT_TEMPLATE):
@@ -65,7 +65,7 @@ DEFAULT_PROMPTS = {
             'If a person got an item in the first location and travelled to the second location '
             'the item is also in the second location. '
             'If a person dropped an item in the first location and moved to the second location '
-            'the item remains in the first location',
+            'the item remains in the first location.',
         'examples':
             '<example>\n'
             'John journeyed to the bedroom.Mary grabbed the apple. Mary went back to the bathroom. '
