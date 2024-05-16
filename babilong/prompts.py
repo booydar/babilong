@@ -1,4 +1,4 @@
-DEFAULT_TEMPLATE = '{instruction}\n{examples}\n{post_prompt}\n<context>\n{context}\n</context>\nQuestion: {question}'
+DEFAULT_TEMPLATE = '{instruction}\n{examples}\n{post_prompt}\n\n<context>\n{context}\n</context>\nQuestion: {question}'
 
 
 def get_formatted_input(context, question, examples, instruction, post_prompt, template=DEFAULT_TEMPLATE):
@@ -8,7 +8,7 @@ def get_formatted_input(context, question, examples, instruction, post_prompt, t
     # context - text to use for qa
     # question - question to answer based on context
     formatted_input = template.format(instruction=instruction, examples=examples, post_prompt=post_prompt,
-                                      context=context, question=question)
+                                      context=context.strip(), question=question)
     return formatted_input.strip()
 
 
