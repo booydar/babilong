@@ -34,7 +34,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
     if tokenizer.pad_token_id is None:
         generate_kwargs['pad_token_id'] = tokenizer.eos_token_id
 
-    print('prompt template:\n', DEFAULT_TEMPLATE)
+    print(f'prompt template:\n{DEFAULT_TEMPLATE}')
 
     for task in tqdm(tasks, desc='tasks'):
         prompt_cfg = {
@@ -67,21 +67,31 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
                                                  prompt_cfg['instruction'], prompt_cfg['post_prompt'],
                                                  template=DEFAULT_TEMPLATE)
 
-                if not use_chat_template:
-                    model_inputs = tokenizer(input_text, return_tensors='pt', add_special_tokens=True).to(model.device)
-                else:
-                    input_text = [{'role': 'user', 'content': input_text}]
-                    model_inputs = tokenizer.apply_chat_template(input_text, return_tensors='pt').to(model.device)
-                    model_inputs = {'input_ids': model_inputs}
-
                 if api_url:
+                    # model is running via llamacpp's serve command
                     headers = {'Content-Type': 'application/json'}
                     if generate_kwargs['temperature'] is None:
                         generate_kwargs['temperature'] = 0.0
+
+                    if use_chat_template:
+                        input_text = [{'role': 'user', 'content': input_text}]
+                        model_inputs = tokenizer.apply_chat_template(input_text, tokenize=True,
+                                                                     add_generation_prompt=True)
+                    else:
+                        model_inputs = tokenizer.encode(input_text, add_special_tokens=True)
+
                     request_data = {'prompt': model_inputs, 'temperature': generate_kwargs['temperature']}
                     response = requests.post(api_url, headers=headers, json=request_data).json()
                     output = response['content'].strip()
                 else:
+                    if use_chat_template:
+                        input_text = [{'role': 'user', 'content': input_text}]
+                        model_inputs = tokenizer.apply_chat_template(input_text, return_tensors='pt').to(model.device)
+                        model_inputs = {'input_ids': model_inputs}
+                    else:
+                        model_inputs = tokenizer(input_text, return_tensors='pt',
+                                                 add_special_tokens=True).to(model.device)
+
                     sample_length = model_inputs['input_ids'].shape[1]
                     with torch.no_grad():
                         output = model.generate(**model_inputs, max_new_tokens=15, **generate_kwargs)

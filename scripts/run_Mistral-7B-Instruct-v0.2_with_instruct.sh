@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# CUDA_VISIBLE_DEVICES=0 ./finetune_babilong_baseline.sh
+# CUDA_VISIBLE_DEVICES=0 ./script_name.sh
 set -e
 
 RESULTS_FOLDER="./babilong_evals"
