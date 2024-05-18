@@ -8,21 +8,42 @@ import json
 from pathlib import Path
 import requests
 
+from typing import List
+
 from babilong.prompts import DEFAULT_PROMPTS, DEFAULT_TEMPLATE, get_formatted_input
 
 
-def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_template, api_url,
-         use_instruction, use_examples, use_post_prompt):
+def main(
+    results_folder: str, model_name: str, tasks: List[str], split_names: List[str], dataset_name: str,
+    use_chat_template: bool, api_url: str, use_instruction: bool, use_examples: bool, use_post_prompt: bool
+) -> None:
+    """
+    Main function to get model predictions on babilong and save them.
+
+    Args:
+        results_folder (str): Folder to store results.
+        model_name (str): Name of the model to use.
+        tasks (List[str]): List of tasks to evaluate.
+        split_names (List[str]): List of lengths to evaluate.
+        dataset_name (str): Dataset name from Hugging Face.
+        use_chat_template (bool): Flag to use the tokenizer chat template.
+        api_url (str): API endpoint for llama.cpp.
+        use_instruction (bool): Flag to use instruction in prompt.
+        use_examples (bool): Flag to use examples in prompt.
+        use_post_prompt (bool): Flag to use post_prompt text in prompt.
+    """
 
     dtype = torch.bfloat16
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
     if not api_url:
+        # load the model locally if API is not used
         model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
                                                      device_map='auto', torch_dtype=dtype,
                                                      attn_implementation='flash_attention_2')
         model = model.eval()
 
+    # define generation parameters
     generate_kwargs = {
         'num_beams': 1,
         'do_sample': False,
@@ -37,6 +58,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
     print(f'prompt template:\n{DEFAULT_TEMPLATE}')
 
     for task in tqdm(tasks, desc='tasks'):
+        # configure the prompt
         prompt_cfg = {
             'instruction': DEFAULT_PROMPTS[task]['instruction'] if use_instruction else '',
             'examples': DEFAULT_PROMPTS[task]['examples'] if use_examples else '',
@@ -47,6 +69,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
         prompt_name = '_'.join(prompt_name)
 
         for split_name in tqdm(split_names, desc='lengths'):
+            # load dataset
             data = datasets.load_dataset(dataset_name, split_name)
             task_data = data[task]
 
@@ -63,6 +86,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
                 context = sample['input']
                 question = sample['question']
 
+                # format input text
                 input_text = get_formatted_input(context, question, prompt_cfg['examples'],
                                                  prompt_cfg['instruction'], prompt_cfg['post_prompt'],
                                                  template=DEFAULT_TEMPLATE)
@@ -84,6 +108,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
                     response = requests.post(api_url, headers=headers, json=request_data).json()
                     output = response['content'].strip()
                 else:
+                    # generate output using local model
                     if use_chat_template:
                         input_text = [{'role': 'user', 'content': input_text}]
                         model_inputs = tokenizer.apply_chat_template(input_text, return_tensors='pt').to(model.device)
@@ -99,6 +124,7 @@ def main(results_folder, model_name, tasks, split_names, dataset_name, use_chat_
                     output = tokenizer.decode(output, skip_special_tokens=True).strip()
 
                 df.loc[len(df)] = [target, output]
+                # write results to csv file
                 df.to_csv(outfile)
 
 
