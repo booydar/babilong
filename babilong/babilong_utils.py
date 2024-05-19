@@ -11,10 +11,13 @@ def compare_answers(target, output):
     # take only the first sentence from output
     output = output.split('.')[0]
     # filter responses when model tries to generate examples
-    if '<context>' not in output and '<examlpe>' not in output:
-        # we consider prediction correct if target is in output
-        if target in output:
-            return True
+    output = output.split('<context>')[0]
+    output = output.split('<example>')[0]
+
+    # we consider prediction correct if target is in output
+    if target in output:
+        return True
+
     return False
 
 
