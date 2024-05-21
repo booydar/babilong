@@ -38,21 +38,31 @@ def main(
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
     if not api_url:
         # load the model locally if API is not used
-        model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
-                                                     device_map='auto', torch_dtype=dtype,
-                                                     attn_implementation='flash_attention_2')
+        try:
+            print('trying to load model with flash attention 2...')
+            model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
+                                                         device_map='auto', torch_dtype=dtype,
+                                                         attn_implementation='flash_attention_2')
+        except ValueError as e:
+            print(e)
+            print('trying to load model without flash attention 2...')
+            model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
+                                                         device_map='auto', torch_dtype=dtype)
+
         model = model.eval()
 
     # define generation parameters
     generate_kwargs = {
+        'max_new_tokens': 20,
         'num_beams': 1,
         'do_sample': False,
         'temperature': None,
         'top_p': None,
         'top_k': None,
+        'pad_token_id': tokenizer.pad_token_id
     }
 
-    if tokenizer.pad_token_id is None:
+    if generate_kwargs['pad_token_id'] is None:
         generate_kwargs['pad_token_id'] = tokenizer.eos_token_id
 
     print(f'prompt template:\n{DEFAULT_TEMPLATE}')
@@ -119,7 +129,11 @@ def main(
 
                     sample_length = model_inputs['input_ids'].shape[1]
                     with torch.no_grad():
-                        output = model.generate(**model_inputs, max_new_tokens=15, **generate_kwargs)
+                        output = model.generate(**model_inputs, **generate_kwargs)
+                        # we need to reset memory states between samples for activation-beacon models
+                        if 'activation-beacon' in model.name_or_path and hasattr(model, 'memory'):
+                            model.memory.reset()
+
                     output = output[0][sample_length:]
                     output = tokenizer.decode(output, skip_special_tokens=True).strip()
 
