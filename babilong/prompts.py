@@ -31,7 +31,7 @@ DEFAULT_PROMPTS = {
             '</example>',
         'post_prompt':
             'Always return your answer in the following format: '
-            'The most recent location of ’person’ is ’location’. Do not write anything else after that. '
+            'The most recent location of ’person’ is ’location’. Do not write anything else after that.'
     },
     'qa2': {
         'instruction':
@@ -77,11 +77,11 @@ DEFAULT_PROMPTS = {
             'John went back to the bedroom. John went back to the garden. John went back to the kitchen. '
             'Sandra took the football. Sandra travelled to the garden. Sandra journeyed to the bedroom. '
             'Where was the football before the bedroom?\n'
-            'Answer: Before the kitchen the football was in the garden.\n'
+            'Answer: Before the bedroom the football was in the garden.\n'
             '</example>',
         'post_prompt':
             'Always return your answer in the following format: '
-            'Before the $location_1& the $item$ was in the $location_2$. Do not write anything else after that.'
+            'Before the $location_1$ the $item$ was in the $location_2$. Do not write anything else after that.'
     },
     'qa4': {
         'instruction':
