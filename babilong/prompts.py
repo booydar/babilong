@@ -1,4 +1,6 @@
-DEFAULT_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}'
+SYSTEM_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}'
+USER_TEMPLATE = '<context>\n{context}\n</context>\n\nQuestion: {question}'
+DEFAULT_TEMPLATE = f'{SYSTEM_TEMPLATE}\n\n{USER_TEMPLATE}'
 
 
 def get_formatted_input(context, question, examples, instruction, post_prompt, template=DEFAULT_TEMPLATE):
