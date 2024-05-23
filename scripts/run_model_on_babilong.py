@@ -37,7 +37,7 @@ def main(
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
     if not api_url:
-        # load the model locally if API is not used
+        # load the model locally if llamacpp API is not used
         try:
             print('trying to load model with flash attention 2...')
             model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
@@ -89,7 +89,7 @@ def main(
             cfg_file = f'./{results_folder}/{model_name}/{task}_{split_name}_{prompt_name}.json'
             json.dump({'prompt': prompt_cfg, 'generate_kwargs': generate_kwargs}, open(cfg_file, 'w'), indent=4)
 
-            df = pd.DataFrame({'target': [], 'output': []})
+            df = pd.DataFrame({'target': [], 'output': [], 'question': []})
 
             for sample in tqdm(task_data, desc=f'task: {task} length: {split_name}'):
                 target = sample['target']
@@ -121,7 +121,8 @@ def main(
                     # generate output using local model
                     if use_chat_template:
                         input_text = [{'role': 'user', 'content': input_text}]
-                        model_inputs = tokenizer.apply_chat_template(input_text, return_tensors='pt').to(model.device)
+                        model_inputs = tokenizer.apply_chat_template(input_text, add_generation_prompt=True,
+                                                                     return_tensors='pt').to(model.device)
                         model_inputs = {'input_ids': model_inputs}
                     else:
                         model_inputs = tokenizer(input_text, return_tensors='pt',
@@ -137,7 +138,7 @@ def main(
                     output = output[0][sample_length:]
                     output = tokenizer.decode(output, skip_special_tokens=True).strip()
 
-                df.loc[len(df)] = [target, output]
+                df.loc[len(df)] = [target, output, question]
                 # write results to csv file
                 df.to_csv(outfile)
 
