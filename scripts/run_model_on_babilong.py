@@ -99,7 +99,7 @@ def main(
                 # format input text
                 input_text = get_formatted_input(context, question, prompt_cfg['examples'],
                                                  prompt_cfg['instruction'], prompt_cfg['post_prompt'],
-                                                 template=DEFAULT_TEMPLATE)
+                                                 template=prompt_cfg['template'])
 
                 if api_url:
                     # model is running via llamacpp's serve command
