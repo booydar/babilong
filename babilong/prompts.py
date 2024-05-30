@@ -2,6 +2,16 @@ SYSTEM_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}'
 USER_TEMPLATE = '<context>\n{context}\n</context>\n\nQuestion: {question}'
 DEFAULT_TEMPLATE = f'{SYSTEM_TEMPLATE}\n\n{USER_TEMPLATE}'
 
+CUSTOM_SYSTEM_PROMPTS = {
+    # https://github.com/dvlab-research/LongLoRA/blob/2345c6d030f61ac3a031906386a103a5b05e0e6f/inference.py#L18
+    'LONGLORA_LLAMA2':
+        'You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. '
+        'Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. '
+        'Please ensure that your responses are socially unbiased and positive in nature.\n\n'
+        'If a question does not make any sense, or is not factually coherent, explain why instead of answering '
+        'something not correct. If you don\'t know the answer to a question, please don\'t share false information.'
+}
+
 
 def get_formatted_input(context, question, examples, instruction, post_prompt, template=DEFAULT_TEMPLATE):
     # pre_prompt - general instruction
