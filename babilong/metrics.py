@@ -14,6 +14,7 @@ def preprocess_output(output):
     # filter responses when model tries to generate examples
     output = output.split('<context>')[0]
     output = output.split('<example>')[0]
+    output = output.split('Question')[0]
     return output
 
 
@@ -23,7 +24,7 @@ def compare_answers(target, output, question, task_labels):
     task_labels = {label.lower() for label in task_labels}
 
     # extract labels that were mentioned in the question
-    labels_in_question = {label for label in task_labels if label in question}
+    labels_in_question = {label for label in task_labels if label in question.lower()}
     # extract labels that were mentioned in the model output
     labels_in_output = {label for label in task_labels if label in output}
     # filter labels in the output to exclude mentioned in the question
