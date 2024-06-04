@@ -3,7 +3,11 @@ TASK_LABELS = {
     'qa2': {'bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'},
     'qa3': {'bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'},
     'qa4': {'bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'},
-    'qa5': {'Bill', 'Fred', 'Jeff', 'Mary', 'apple', 'football', 'milk'}
+    'qa5': {'Bill', 'Fred', 'Jeff', 'Mary', 'apple', 'football', 'milk'},
+    'qa6': {'no', 'yes'},
+    'qa7': {'two', 'one', 'none'},
+    'qa9': {'no', 'yes'},
+    'qa10': {'maybe', 'no', 'yes'}
     }
 
 
