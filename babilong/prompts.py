@@ -261,7 +261,7 @@ DEFAULT_PROMPTS = {
             '<example>\n'
             'Sandra moved to the kitchen. After that she went back to the hallway. Sandra moved to the bedroom. '
             'Then she went to the hallway. Mary moved to the bedroom. Afterwards she travelled to the bathroom. '
-            'Where is Sandra\n?'
+            'Where is Sandra?\n'
             'Answer: hallway\n'
             '</example>\n'
             '<context>\n',
@@ -287,7 +287,7 @@ DEFAULT_PROMPTS = {
             '<example>\n'
             'Daniel and Sandra went back to the hallway. Daniel and John moved to the office. Daniel and John moved to the garden. '
             'Daniel and Mary went back to the bathroom. Daniel and John went back to the kitchen. Daniel and Sandra went to the bathroom. '
-            'Where is John\n?'
+            'Where is John?\n'
             'Answer: kitchen\n'
             '</example>\n'
             '<context>\n',
@@ -313,7 +313,7 @@ DEFAULT_PROMPTS = {
             '<example>\n'
             'John and Mary moved to the bathroom. Then they travelled to the office. John and Mary went to the kitchen. '
             'Afterwards they went to the bedroom. John and Sandra moved to the bathroom. Following that they went back to the kitchen. '
-            'Where is Mary\n?'
+            'Where is Mary?\n'
             'Answer: bedroom\n'
             '</example>\n'
             '<context>\n',
