@@ -7,7 +7,7 @@ Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
 **BABILong** is a novel generative benchmark for evaluating the performance of NLP models in
 processing arbitrarily long documents with distributed facts.
 
-Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) as background text. Resulting test samples might have lenghts of **millions of tokens**.
+Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) [2] as background text. Resulting test samples might have lenghts of **millions of tokens**.
 
 <img src="images/babilong_scheme.png" alt="drawing" width="500"/>
 
@@ -104,3 +104,4 @@ Join us in this exciting endeavor and let's push the boundaries of what's possib
 ## References
 
 [1] Weston, Jason, et al. "Towards ai-complete question answering: A set of prerequisite toy tasks." arXiv preprint [arXiv:1502.05698](https://arxiv.org/abs/1502.05698) (2015).
+[2] Rae, Jack W., et al. "Compressive Transformers for Long-Range Sequence Modelling." International Conference on Learning Representations. 2019.
