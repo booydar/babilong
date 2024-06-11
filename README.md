@@ -112,3 +112,7 @@ Join us in this exciting endeavor and let's push the boundaries of what's possib
 
 [1] Weston, Jason, et al. "Towards ai-complete question answering: A set of prerequisite toy tasks." arXiv preprint [arXiv:1502.05698](https://arxiv.org/abs/1502.05698) (2015).
 [2] Rae, Jack W., et al. "Compressive Transformers for Long-Range Sequence Modelling." International Conference on Learning Representations. 2019.
+
+## License
+
+Our code is released under the Apache 2.0 License. We use data from the PG-19 corpora (Rae et al., 2020) ([Apache 2.0 License](https://github.com/google-deepmind/pg19/blob/master/LICENSE)) and the bAbI dataset (Weston et al., 2016) ([BSD License](https://github.com/facebookarchive/bAbI-tasks/blob/master/LICENSE.md)).
