@@ -19,18 +19,18 @@ BABILong consists of 20 tasks designed for evaluation of basic aspects of reason
 
 ### First ten tasks of BABILong
 
- | Task | Name                     | min facts per task | max facts per task |
-|------|--------------------------|--------------------|--------------------|
-| qa1  | single supporting fact   | 2                  | 10                 |
-| qa2  | two supporting facts     | 2                  | 68                 |
-| qa3  | three supporting facts   | 4                  | 320                |
-| qa4  | two arg relations        | 2                  | 2                  |
-| qa5  | three arg relations      | 2                  | 126                |
-| qa6  | yes-no questions         | 2                  | 26                 |
-| qa7  | counting                 | 2                  | 52                 |
-| qa8  | lists-sets               | 2                  | 50                 |
-| qa9  | simple negation          | 2                  | 10                 |
-| qa10 | indefinite knowledge     | 2                  | 10                 |
+ | Task | Name                     | facts per task | supporting facts per task |
+|------|--------------------------|-----------------|---------------------------|
+| qa1  | single supporting fact   | 2 - 10          | 1                         |
+| qa2  | two supporting facts     | 2 - 68          | 2                         |
+| qa3  | three supporting facts   | 4 - 32          | 3                         |
+| qa4  | two arg relations        | 2               | 1                         |
+| qa5  | three arg relations      | 2 - 126         | 1                         |
+| qa6  | yes-no questions         | 2 - 26          | 1                         |
+| qa7  | counting                 | 2 - 52          | 1-10                      |
+| qa8  | lists-sets               | 2 - 50          | 1-8                       |
+| qa9  | simple negation          | 2 - 10          | 1                         |
+| qa10 | indefinite knowledge     | 2 - 10          | 1                         |
 
 ### Play with dataset
 
