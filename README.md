@@ -2,6 +2,10 @@
 
 Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
 
+Hugging Face Dataset [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) 
+
+Hugging Face [Leaderboard](https://huggingface.co/spaces/RMT-team/babilong)
+
 ## bAbI + Books = BABILong
 
 **BABILong** is a novel generative benchmark for evaluating the performance of NLP models in
@@ -64,6 +68,9 @@ Every row shows accuracy in % for GPT-3.5 before and after fine-tuning via API w
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Evaluate your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
 
+Examples for evaluation of other popular LLMs are provided in the `./notebooks` folder. 
+
+You can generate training samples using the README in `./data`.  
 
 ## Join the Challenge: Help Build the BABILong LLM Leaderboard!
 
