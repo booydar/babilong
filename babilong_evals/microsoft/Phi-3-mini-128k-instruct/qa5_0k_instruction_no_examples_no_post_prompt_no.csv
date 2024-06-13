@@ -1,0 +1,330 @@
+Unnamed: 0,target,output,question
+0,football,"A: A football
+B: A car
+C: A house
+D: A bicycle
+E",What did Fred give to Jeff? 
+1,Fred,"Options:
+(A) Fred
+(B) Bill
+(C) Jeff
+(D) Daniel",Who gave the football to Jeff? 
+2,football,"Options:
+(A) milk
+(B) football
+(C) None of the above
+
+Solution",What did Fred give to Jeff? 
+3,Jeff,"Options:
+(A) Jeff
+(B) Bill
+(C) Fred
+(D) Amy
+(",Who did Fred give the football to? 
+4,Fred,"Options:
+(A) Bill
+(B) Fred
+(C) Jeff
+(D) None of the",Who did Jeff give the football to? 
+5,Jeff,,Who gave the apple? 
+6,Bill,"Options:
+(A) Mary
+(B) Jeff
+(C) Fred
+(D) Bill
+(",Who received the apple? 
+7,apple,"Options:
+(A) apple
+(B) football
+(C) None
+
+Solution:
+To",What did Bill give to Fred? 
+8,apple,"Options:
+(A) apple
+(B) football
+(C) None of the above
+
+Solution",What did Bill give to Fred? 
+9,Fred,,Who received the apple? 
+10,Mary,"Options:
+(A) Fred 
+(B) Mary 
+(C) Bill 
+(D",Who received the milk? 
+11,milk,"Options:
+(A) football
+(B) milk
+(C) bedroom
+(D) kitchen",What did Mary give to Bill? 
+12,Bill,"Options:
+(A) Fred
+(B) Mary
+(C) Bill
+(D) No one",Who received the milk? 
+13,Bill,"Options:
+(A) Fred
+(B) Bill
+(C) Jeff
+(D) Mary
+(",Who did Mary give the milk to? 
+14,milk,"Options:
+(A) football
+(B) milk
+(C) bedroom
+(D) kitchen",What did Mary give to Bill? 
+15,Jeff,"Options:
+(A) Jeff
+(B) Mary
+(C) Fred
+(D) Daniel",Who received the football? 
+16,Fred,"Options:
+(A) Mary
+(B) Fred
+(C) Jeff
+(D) Daniel
+(",Who gave the football to Jeff? 
+17,football,"Options:
+(A) The football
+(B) The milk
+(C) The garden
+(D)",What did Fred give to Jeff? 
+18,Jeff,"Options:
+(A) Fred
+(B) Jeff
+(C) Mary
+(D) Bill
+(",Who received the football? 
+19,Mary,,Who gave the milk? 
+20,milk,"Options:
+(A) football
+(B) milk
+(C) water
+(D) Water is not",What did Jeff give to Mary? 
+21,Mary,,Who gave the milk to Jeff? 
+22,Mary,### Response: Mary passed the milk to Jeff.,Who gave the milk to Jeff? 
+23,Bill,"### Solution
+
+In the given context, the statement that specifies the action of giving an apple to",Who gave the apple to Jeff? 
+24,Jeff,"### Response: To determine who gave the apple, we need to follow the sequence of events related to the",Who gave the apple? 
+25,apple,"Options:
+(A) apple
+(B) milk
+(C) The answer cannot be determined
+
+Sol",What did Jeff give to Fred? 
+26,Fred,,Who received the apple? 
+27,Jeff,,Who received the apple? 
+28,Jeff,,Who gave the apple? 
+29,Fred,,Who did Jeff give the apple to? 
+30,Mary,"Options:
+(A) Fred
+(B) Jeff
+(C) Bill
+(D) Mary
+(",Who gave the milk? 
+31,Bill,"Options:
+(A) Fred
+(B) Jeff
+(C) Bill
+(D) Mary
+(",Who gave the milk? 
+32,Bill,"Options:
+(A) Bill
+(B) Mary
+(C) Jeff
+(D) Fred
+(",Who gave the milk to Mary? 
+33,milk,"Options:
+(A) The football
+(B) The apple
+(C) The milk
+(D",What did Bill give to Mary? 
+34,apple,"Options:
+(A) milk
+(B) apple
+(C) None of the above
+
+Solution",What did Mary give to Fred? 
+35,Jeff,"### Response
+
+Fred gave the milk to Jeff.
+
+This information is explicitly stated in",Who did Fred give the milk to? 
+36,Jeff,"### Response: Fred gave the milk to Jeff.
+
+This information is directly obtained from the last sentence",Who did Fred give the milk to? 
+37,milk,"### Response: Jeff gave the milk to Mary.
+
+To arrive at this conclusion, we need to",What did Jeff give to Mary? 
+38,milk,,What did Jeff give to Mary? 
+39,Fred,"[Response]:
+Fred gave the apple to Bill.",Who gave the apple? 
+40,Mary,,Who gave the milk? 
+41,milk,"### Response: Mary gave the milk to Fred. This sequence of events is derived from the context provided,",What did Mary give to Fred? 
+42,Jeff,,Who gave the milk? 
+43,Fred,"### Response: To determine who received the milk, we need to follow the sequence of events related to the",Who received the milk? 
+44,Mary,"Options:
+(A) Mary
+(B) Jeff
+(C) Fred
+(D) Bill",Who gave the milk? 
+45,Bill,"### Solution ###
+
+Mary gave the milk to Bill. This information is explicitly stated in the",Who did Mary give the milk to? 
+46,milk,### Answer: Mary gave the milk to Bill. This information can be deduced from the sequence of events,What did Mary give to Bill? 
+47,Mary,,Who gave the milk? 
+48,Mary,### Answer: Bill gave the milk to Mary. This information can be found in the last few sentences of,Who did Bill give the milk to? 
+49,Bill,"### Response
+
+To determine who gave the milk to Mary, we need to follow the sequence of",Who gave the milk to Mary? 
+50,Mary,,Who gave the apple to Fred? 
+51,Fred,"Options:
+(A) Jeff
+(B) Mary
+(C) Fred
+(D) Bill
+(",Who gave the apple to Mary? 
+52,apple,,What did Fred give to Mary? 
+53,apple,### Answer: Mary gave the apple to Jeff. This sequence of events is detailed in the context provided.,What did Mary give to Jeff? 
+54,apple,### Response: Mary gave the apple to Jeff. This sequence of events is detailed in the context provided.,What did Mary give to Jeff? 
+55,Fred,,Who received the football? 
+56,football,,What did Bill give to Fred? 
+57,Bill,,Who gave the apple? 
+58,Bill,"### Solution ###
+
+Mary gave the apple to Bill. This sequence of events is found in",Who did Mary give the apple to? 
+59,Jeff,"### Solution ###
+
+To find out who Bill gave the apple to, we need to follow the",Who did Bill give the apple to? 
+60,Jeff,,Who did Bill give the apple to? 
+61,Bill,,Who gave the apple to Jeff? 
+62,Jeff,,Who gave the apple to Bill? 
+63,Bill,,Who received the apple? 
+64,Mary,,Who gave the milk? 
+65,Mary,"Options:
+(A) Mary
+(B) Fred
+(C) Jeff
+(D) Bill
+(",Who gave the apple to Bill? 
+66,Bill,"Choice:
+  (A) Bill
+  (B) Fred
+  (C) Jeff
+  (D",Who did Mary give the apple to? 
+67,Mary,"Options:
+(A) Fred
+(B) Jeff
+(C) Mary
+(D) Bill
+(",Who did Bill give the apple to? 
+68,apple,"Options:
+(A) apple
+(B) milk
+(C) football
+(D) grape",What did Bill give to Mary? 
+69,Mary,"Options:
+(A) Fred
+(B) Mary
+(C) Jeff
+(D) Bill
+(",Who did Bill give the apple to? 
+70,apple,,What did Fred give to Jeff? 
+71,Jeff,,Who gave the football? 
+72,Jeff,,Who gave the football? 
+73,apple,,What did Fred give to Bill? 
+74,apple,### Answer: Fred gave the apple to Bill. This sequence of events is derived from the following statements:,What did Fred give to Bill? 
+75,Fred,"A: Fred
+B: Mary
+C: Dan
+D: None of the above",Who gave the football? 
+76,Fred,,Who gave the football? 
+77,Mary,,Who received the football? 
+78,Mary,,Who gave the football? 
+79,football,"Options:
+(A) The football
+(B) The apple
+(C) The milk
+(D)",What did Mary give to Fred? 
+80,milk,,What did Fred give to Jeff? 
+81,milk,"Options:
+(A) football
+(B) milk
+(C) bedroom
+(D) kitchen",What did Fred give to Jeff? 
+82,Fred,"Options:
+(A) Mary
+(B) Bill
+(C) Fred
+(D) Jeff",Who did Jeff give the milk to? 
+83,milk,### Answer: Jeff gave the milk to Fred. This can be determined by following the sequence of events related,What did Jeff give to Fred? 
+84,Jeff,"Options:
+(A) Mary
+(B) Jeff
+(C) Bill
+(D) Fred",Who gave the milk to Fred? 
+85,Fred,"Options:
+(A) Bill
+(B) Mary
+(C) Fred
+(D) John",Who did Mary give the apple to? 
+86,Fred,"Options:
+(A) Bill
+(B) Mary
+(C) Fred
+(D) Bill,",Who gave the apple to Mary? 
+87,Mary,"Choice:
+  (A) Bill
+  (B) Mary
+  (C) Fred
+  (D",Who gave the apple? 
+88,Jeff,"Options:
+(A) Bill
+(B) Mary
+(C) Fred
+(D) Jeff",Who did Mary give the apple to? 
+89,Jeff,,Who received the football? 
+90,football,"Options:
+(A) apple
+(B) football
+(C) hallway
+(D) apple and",What did Mary give to Jeff? 
+91,Mary,,Who received the football? 
+92,Mary,,Who gave the football? 
+93,Jeff,"Options:
+(A) Bill
+(B) Jeff
+(C) Mary
+(D) Fred
+(",Who did Mary give the football to? 
+94,Bill,,Who did Fred give the apple to? 
+95,Jeff,"A. Mary
+B. Jeff
+
+Answer: B
+
+
+Question: Where did Mary grab the apple",Who did Mary give the apple to? 
+96,Mary,"Options:
+(A) Mary
+(B) Jeff
+(C) Fred
+(D) not enough",Who gave the apple to Jeff? 
+97,apple,"Options:
+(A) apple
+(B) banana
+(C) orange
+(D) gra",What did Jeff give to Fred? 
+98,Fred,"Options:
+(A) Mary
+(B) Jeff
+(C) Fred
+(D) Brad
+(",Who did Jeff give the apple to? 
+99,milk,"Options:
+(A) apple
+(B) milk
+(C) None
+
+Solution:",What did Bill give to Mary? 

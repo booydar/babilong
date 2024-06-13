@@ -1,0 +1,15 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about people and their locations hidden in some random text and a question. You need to answer the question based only on the information from the facts. If a person was in different locations, use the latest location the person was in to answer the question.",
+        "examples": "<example>\nBill went back to the cinema yesterday. Julie went to the school this morning. Fred went to the park yesterday. Yesterday Julie went to the office. Where was Julie before the school?\nAnswer: office\n</example>\n<example>\nThis morning Fred went to the kitchen. Fred journeyed to the bedroom yesterday. Mary travelled to the bedroom this morning. Yesterday Mary went to the cinema. Where was Mary before the bedroom?\nAnswer: cinema\n</example>\n<example>\nYesterday Julie went back to the park. Julie went to the bedroom this morning. Bill journeyed to the cinema yesterday. This morning Bill went back to the park. This evening Julie went to the school. This afternoon Julie went back to the park. Where was Julie before the bedroom?\nAnswer: park\n</example>\n<context>\n",
+        "post_prompt": "Your answer should contain only one word - location. Do not write anything else after that. Do not explain your answer.",
+        "template": "{instruction}\n{examples}\n{post_prompt}\nContext: {context}\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null
+    }
+}
