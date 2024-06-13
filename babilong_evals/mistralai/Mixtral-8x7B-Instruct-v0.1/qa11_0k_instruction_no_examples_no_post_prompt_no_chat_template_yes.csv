@@ -1,0 +1,1163 @@
+,target,output,question
+0,kitchen,"At the end of the given context, Mary is in the kitchen.
+
+Here's the",Where is Mary? 
+1,hallway,"Based on the context provided, John is in the hallway after he traveled to the bathroom and then went",Where is John? 
+2,hallway,"Based on the context provided, Sandra is currently in the hallway. The text states that she moved",Where is Sandra? 
+3,kitchen,"The last action Sandra took was traveling to the kitchen, so that's the most likely place",Where is Sandra? 
+4,office,"Based on the context, John is currently in the office. He first went to the garden, then",Where is John? 
+5,hallway,"Based on the context, John's last mentioned destination was the hallway. However, the current location",Where is John? 
+6,office,"Based on the context provided, Mary is currently in the office. The text states ""Mary trav",Where is Mary? 
+7,bedroom,"Based on the context provided, Mary is currently in the bedroom.",Where is Mary? 
+8,hallway,"Sandra is in the hallway.
+
+Here's the sequence of movements for Sandra:",Where is Sandra? 
+9,bedroom,"Based on the information provided in the context, John went back to the bedroom after he went to the",Where is John? 
+10,kitchen,"Based on the information provided in the context, Sandra is currently in the kitchen. She first journey",Where is Sandra? 
+11,hallway,The context doesn't provide information about Mary's current location after she travelled to the hallway,Where is Mary? 
+12,kitchen,"Based on the context provided, John is in the kitchen now. It's mentioned that after traveling",Where is John? 
+13,kitchen,"Based on the context provided, Daniel is currently in the kitchen. He traveled to the bedroom, then",Where is Daniel? 
+14,kitchen,"Based on the context provided, Mary is in the kitchen after she journeyed there following her trip to",Where is Mary? 
+15,garden,"Based on the context provided, Sandra is currently in the garden. She traveled there after going to",Where is Sandra? 
+16,garden,"Based on the information provided in the context, John is currently in the garden. The context states that",Where is John? 
+17,garden,Sandra went back to the garden.,Where is Sandra? 
+18,bedroom,"Based on the information provided in the context, Daniel moved to the garden. There is no further information",Where is Daniel? 
+19,garden,"Based on the context provided, Sandra is currently in the kitchen. She journeyed to the garden",Where is Sandra? 
+20,garden,"Mary is in the garden.
+
+Here's the reasoning:
+
+1. The text",Where is Mary? 
+21,office,"Based on the context provided, Sandra is currently in the office. After traveling to the bedroom and",Where is Sandra? 
+22,garden,"Based on the information provided in the context, Daniel moved to the office and then went to the garden",Where is Daniel? 
+23,hallway,The last information given about Sandra's location is that she went to the bedroom and then to,Where is Sandra? 
+24,garden,"Based on the context provided, Daniel went back to the garden.",Where is Daniel? 
+25,garden,"Based on the context provided, Mary went back to the garden after traveling to the kitchen. Therefore,",Where is Mary? 
+26,garden,"Based on the context provided, John went to the hallway and then journeyed to the garden. Therefore",Where is John? 
+27,hallway,Sandra is in the hallway at the moment. The context shows that she journeyed to the bedroom,Where is Sandra? 
+28,bedroom,"Based on the context provided, John is currently in the bedroom, as it states that he journeyed",Where is John? 
+29,garden,"Based on the context provided, John is currently in the garden, as that was the last location mentioned",Where is John? 
+30,kitchen,"Based on the information provided in the context, Sandra moved to the garden, but there is no",Where is Sandra? 
+31,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first moved to the bathroom",Where is Sandra? 
+32,kitchen,The context does not provide information on Sandra's current location after mentioning that she went back,Where is Sandra? 
+33,bathroom,"Based on the context provided, Sandra went to the bathroom after she went to the bedroom. Therefore",Where is Sandra? 
+34,bedroom,"Based on the context provided, John went to the kitchen and then returned to the bedroom. Therefore,",Where is John? 
+35,bedroom,"Based on the context provided, Daniel journeyed to the kitchen and then to the bedroom, so he",Where is Daniel? 
+36,hallway,The context does not provide the most recent information about Daniel's location. He moved to the kitchen,Where is Daniel? 
+37,bathroom,"Based on the context provided, Daniel went back to the bathroom after he moved to the garden. So",Where is Daniel? 
+38,hallway,Sandra is in the hallway at the moment. The context shows that she journeyed to the bedroom,Where is Sandra? 
+39,bedroom,"Based on the context provided, Sandra is currently in the bedroom, as she moved there after going",Where is Sandra? 
+40,kitchen,The context does not provide information about John's current location after mentioning he travelled to the,Where is John? 
+41,bedroom,"Based on the information provided in the context, John went back to the bedroom after he went to the",Where is John? 
+42,kitchen,"Based on the context provided, John went to the kitchen at the end. After going to the hallway",Where is John? 
+43,bathroom,"Based on the context provided, John is currently in the bathroom. The sentence ""he journeyed to",Where is John? 
+44,bedroom,"Based on the context provided, John is currently in the bedroom. He first went to the kitchen and",Where is John? 
+45,kitchen,"Based on the context, Daniel moved to the kitchen after going back to the garden. So, Daniel",Where is Daniel? 
+46,bathroom,"Based on the context provided, John went back to the bathroom after traveling to the bedroom. So,",Where is John? 
+47,kitchen,"Based on the context, Mary is currently in the kitchen. After going to the hallway, she went",Where is Mary? 
+48,office,"Daniel is in the office. After going to the bathroom, he journeyed to the hallway and then",Where is Daniel? 
+49,garden,"Based on the context provided, Daniel is in the garden. He journeyed to the kitchen, then",Where is Daniel? 
+50,hallway,"Based on the context provided, Sandra is currently in the hallway. She first traveled to the hallway",Where is Sandra? 
+51,office,"Based on the information provided in the context, Sandra is currently in the office after having been in",Where is Sandra? 
+52,hallway,"Based on the context, Daniel eventually went back to the hallway. However, there is no information about",Where is Daniel? 
+53,garden,The context does not provide information on Daniel's current location after he went to the garden. We,Where is Daniel? 
+54,hallway,The context does not provide information about Mary's current location after she travelled to the hallway.,Where is Mary? 
+55,office,"Based on the context, Daniel moved to the bathroom and then he moved to the office. Therefore,",Where is Daniel? 
+56,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She traveled to the bathroom,",Where is Sandra? 
+57,hallway,"Based on the context provided, Sandra is in the hallway. The text states that Mary went to",Where is Sandra? 
+58,kitchen,"John is in the kitchen. The text states that after moving to the bedroom, John went back to",Where is John? 
+59,office,"Based on the information provided in the context, Mary is currently in the office, as she moved back",Where is Mary? 
+60,office,"The final sentence in the context is ""Daniel went back to the bathroom."" So, at the",Where is Daniel? 
+61,kitchen,"Based on the context provided, John moved to the office and then traveled to the kitchen. However,",Where is John? 
+62,bedroom,"Based on the context provided, John's last mentioned location was the office. He journeyed to",Where is John? 
+63,bathroom,"Based on the context provided, John is currently in the bathroom.",Where is John? 
+64,bedroom,"Based on the context provided, Sandra went back to the kitchen and then moved to the bedroom.",Where is Sandra? 
+65,office,"Based on the context provided, Daniel travelled to the bedroom and then went to the office. Therefore",Where is Daniel? 
+66,garden,"Based on the context provided, Sandra is currently in the kitchen. She journeyed to the kitchen",Where is Sandra? 
+67,bathroom,"Based on the context provided, Sandra went to the bedroom and then went to the bathroom. There",Where is Sandra? 
+68,garden,"Based on the information provided in the context, Mary is currently in the garden. Both Sandra and",Where is Mary? 
+69,hallway,"Based on the context provided, Daniel is currently in the hallway. The text states that he moved to",Where is Daniel? 
+70,kitchen,"Based on the context, John is currently in the kitchen. He moved to the garden, then to",Where is John? 
+71,bathroom,"Based on the context provided, Daniel's last mentioned location was the bedroom. He first went to",Where is Daniel? 
+72,office,The context does not provide information about Sandra's current location. It only mentions the sequence,Where is Sandra? 
+73,bedroom,"Based on the context provided, Daniel moved to the kitchen and then went back to the bedroom. Therefore",Where is Daniel? 
+74,hallway,"Based on the context provided, Daniel went back to the hallway after being in the kitchen. So,",Where is Daniel? 
+75,office,The context doesn't provide information about Mary's current location. She could be in any of,Where is Mary? 
+76,office,"Based on the context, Mary is currently in the office. The context indicates that she journeyed to",Where is Mary? 
+77,office,"Mary is in the office at the end of the given context. After moving to the office, going",Where is Mary? 
+78,bedroom,"Based on the context provided, John is in the bedroom after traveling from the garden. This is stated",Where is John? 
+79,garden,"Based on the context provided, Daniel went back to the garden after visiting the bathroom. Therefore, Daniel",Where is Daniel? 
+80,kitchen,"Based on the information provided in the context, John went back to the kitchen after he went to the",Where is John? 
+81,kitchen,"Based on the context provided, John is currently in the kitchen. He moved to the office like Mary",Where is John? 
+82,office,"Based on the information provided in the context, Daniel is in the office after he went to the kitchen",Where is Daniel? 
+83,bedroom,The context does not provide information about Mary's current location after she journeyed to the bedroom.,Where is Mary? 
+84,kitchen,"Based on the information provided in the context, Daniel is currently in the kitchen, as he journeyed",Where is Daniel? 
+85,kitchen,"Based on the context provided, Mary moved to the kitchen after journeying to the bedroom. There is",Where is Mary? 
+86,bathroom,"Based on the information provided in the context, Sandra is currently in the bathroom, as she went",Where is Sandra? 
+87,office,"Based on the context provided, Sandra is currently in the office. She traveled to the bathroom after",Where is Sandra? 
+88,kitchen,"Based on the context provided, Mary is in the kitchen. The text states that Mary moved to the",Where is Mary? 
+89,office,Sandra is in the office at the moment. She moved there after being in the hallway.,Where is Sandra? 
+90,hallway,"Based on the context provided, Sandra is currently in the hallway.
+
+Here's the",Where is Sandra? 
+91,hallway,"Based on the context provided, Mary is currently in the hallway. The sentence ""Mary moved to",Where is Mary? 
+92,bathroom,"Based on the information provided in the context, Sandra is currently in the bathroom. After traveling to",Where is Sandra? 
+93,hallway,The context does not provide information on John's current location after it mentions that he went to,Where is John? 
+94,kitchen,"Based on the context provided, Daniel is in the kitchen after first going to the office and then traveling",Where is Daniel? 
+95,office,"Based on the context provided, after all the movements have been described, Mary is in the office.",Where is Mary? 
+96,bedroom,"Based on the information provided in the context, Sandra is in the bedroom at the moment. The",Where is Sandra? 
+97,hallway,"Based on the context provided, John is currently in the hallway. The sentence ""John went back to",Where is John? 
+98,bedroom,"Based on the context provided, John is currently in the bedroom. He went to the kitchen, then",Where is John? 
+99,hallway,"Based on the context provided, Sandra went to the kitchen and then traveled to the hallway. So",Where is Sandra? 
+100,garden,"Based on the context provided, Sandra is currently in the garden. She first went to the garden",Where is Sandra? 
+101,hallway,"Based on the context provided, John is in the hallway. The sentence ""Afterwards he went back",Where is John? 
+102,bathroom,"Based on the context, Mary went back to the bedroom afterwards. Therefore, at the end of the",Where is Mary? 
+103,kitchen,"Based on the context provided, Daniel is currently in the kitchen. He travelled to the bathroom,",Where is Daniel? 
+104,garden,"Mary is in the garden.
+
+Here's the explanation:
+
+1. We are",Where is Mary? 
+105,bathroom,"Based on the context provided, Daniel is currently in the bathroom because he journeyed there after going to",Where is Daniel? 
+106,hallway,"Daniel is in the hallway, based on the context provided. After traveling to the office, he moved",Where is Daniel? 
+107,bedroom,"Based on the context provided, John went to the hallway and then went to the bedroom. Therefore,",Where is John? 
+108,bedroom,"Based on the context provided, John is currently in the bedroom. He first went back to the office",Where is John? 
+109,bathroom,"Based on the information provided in the context, Daniel is currently in the bathroom. The context states that",Where is Daniel? 
+110,office,"Mary is in the office.
+
+Here's the reasoning:
+1. The text states",Where is Mary? 
+111,office,"Based on the context provided, Sandra moved to the bedroom after going to the bathroom, and then",Where is Sandra? 
+112,office,"Based on the information provided in the context, Mary is currently in the office, as she went there",Where is Mary? 
+113,office,"Based on the context provided, Daniel is in the office at the end of the sequence of movements.",Where is Daniel? 
+114,office,"Based on the context provided, Sandra is currently in the office, as that was the last location",Where is Sandra? 
+115,kitchen,Sandra is in the kitchen based on the given context. She moved to the kitchen after going to,Where is Sandra? 
+116,office,"Mary is in the office based on the sequence of events described. She first went to the kitchen,",Where is Mary? 
+117,office,"Based on the information provided in the context, Daniel is currently at the office, as he went there",Where is Daniel? 
+118,garden,"Based on the context, Mary is currently in the garden. The text states that she travelled to",Where is Mary? 
+119,kitchen,"Sandra is in the kitchen. The text states that after going to the bathroom, Sandra moved",Where is Sandra? 
+120,hallway,"The text does not provide information on Sandra's current location, it only mentions that she",Where is Sandra? 
+121,kitchen,"Based on the context provided, Daniel is currently in the kitchen. He first moved to the hallway,",Where is Daniel? 
+122,office,"Based on the information provided in the context, Mary is currently in the office, as she went back",Where is Mary? 
+123,hallway,"Based on the context provided, Mary went back to the hallway after she moved to the kitchen. Therefore",Where is Mary? 
+124,hallway,"Based on the context, Mary is currently in the hallway. She moved to the office, then traveled",Where is Mary? 
+125,bedroom,The context does not provide information about Mary's current location after she went back to the bedroom.,Where is Mary? 
+126,office,"Based on the context provided, Daniel's last known location was the office. He journeyed to",Where is Daniel? 
+127,office,"Based on the context provided, Sandra traveled to the office after being in the hallway. So,",Where is Sandra? 
+128,bathroom,"Based on the context provided, Sandra is back in the bathroom, since she moved to the hallway",Where is Sandra? 
+129,bedroom,"Based on the information provided in the context, John is in the bedroom after traveling there from the garden",Where is John? 
+130,kitchen,The text does not provide information about Daniel's current location. The events described are in the past,Where is Daniel? 
+131,bathroom,"Based on the context provided, Daniel is currently in the bathroom.",Where is Daniel? 
+132,hallway,"Based on the context provided, Daniel is currently in the hallway. The text states that he travelled",Where is Daniel? 
+133,office,"Based on the information provided in the context, Sandra moved to the office next. However, there",Where is Sandra? 
+134,bedroom,"Based on the context provided, Daniel went back to the bedroom after he moved to the kitchen. Therefore",Where is Daniel? 
+135,bedroom,"Mary is in the bedroom. The text states that after moving to the garden, Mary then traveled to",Where is Mary? 
+136,office,"Based on the context provided, Daniel went to the kitchen and then to the office. There is no",Where is Daniel? 
+137,hallway,"Based on the information provided in the context, Daniel went to the bedroom and then moved to the hallway",Where is Daniel? 
+138,hallway,"Based on the context provided, Daniel moved to the office, but there is no information given that he",Where is Daniel? 
+139,office,"Based on the information provided in the context, Mary is currently in the office, as she went there",Where is Mary? 
+140,office,"Based on the context provided, John moved to the office after he was in the bedroom. Therefore,",Where is John? 
+141,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first journeyed to the",Where is Sandra? 
+142,kitchen,"Based on the context provided, Sandra is currently in the kitchen. She journeyed there after being",Where is Sandra? 
+143,bathroom,"Based on the context, John is currently in the bathroom. He moved to the office, then went",Where is John? 
+144,office,"Based on the context provided, the last location mentioned for Mary was the office. There is no subsequent",Where is Mary? 
+145,bathroom,"Based on the context provided, Daniel travelled to the bathroom after going to the garden. Therefore,",Where is Daniel? 
+146,office,"Based on the context provided, Mary is currently in the office, since she journeyed there after going",Where is Mary? 
+147,office,"Based on the context provided, John is in the office. After moving to the garden, he journey",Where is John? 
+148,bedroom,"Based on the context provided, Sandra is currently in the bedroom. The text states that ""S",Where is Sandra? 
+149,hallway,"Based on the context provided, John moved to the kitchen and then journeyed to the hallway. Therefore",Where is John? 
+150,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The text states that she trav",Where is Sandra? 
+151,kitchen,"Based on the information provided in the context, Sandra is in the kitchen. The context states that",Where is Sandra? 
+152,kitchen,"Daniel is in the kitchen.
+
+Here's the sequence of movements for Daniel according to the",Where is Daniel? 
+153,office,"Based on the context provided, John is currently in the office, since he journeyed back there after",Where is John? 
+154,garden,"Based on the information provided in the context, Sandra is currently in the garden. She went there",Where is Sandra? 
+155,garden,"Based on the information provided in the context, John is currently in the garden. He first traveled to",Where is John? 
+156,garden,"Based on the context provided, Sandra's last mentioned location was the garden. She first went",Where is Sandra? 
+157,bedroom,"Based on the context provided, John is currently in the bedroom.",Where is John? 
+158,bathroom,"Based on the context provided, Daniel is currently in the bathroom. The sentence ""Afterwards he went",Where is Daniel? 
+159,bathroom,"Based on the context, Mary is currently in the bathroom. She first went to the bathroom, then",Where is Mary? 
+160,kitchen,"Based on the context provided, Daniel is currently in the kitchen. He moved to the garden, then",Where is Daniel? 
+161,kitchen,"Based on the context provided, John is currently in the kitchen.
+
+Here's the sequence",Where is John? 
+162,kitchen,"Based on the context provided, John's last known location was the kitchen. After mentioning that",Where is John? 
+163,garden,"John is in the garden.
+
+Here's the sequence of movements for John:
+1",Where is John? 
+164,kitchen,"Based on the context provided, John is currently in the kitchen. He first went to the hallway and",Where is John? 
+165,kitchen,"Based on the context provided, John is currently in the kitchen. He journeyed there after going to",Where is John? 
+166,garden,"Mary is in the garden.
+
+Here's the explanation:
+
+1. We are",Where is Mary? 
+167,garden,"Mary is in the garden.
+
+Here's the sequence of movements for Mary according to the",Where is Mary? 
+168,kitchen,"Daniel is in the kitchen.
+
+Here's the explanation:
+
+1. We are",Where is Daniel? 
+169,bedroom,"Based on the context provided, Daniel's last known location was the bedroom. He went to the",Where is Daniel? 
+170,office,"Daniel is in the office.
+
+Here's the reasoning:
+1. The text states",Where is Daniel? 
+171,hallway,"Mary is in the hallway.
+
+Here's the sequence of events for Mary:
+1",Where is Mary? 
+172,bathroom,"Based on the context provided, Mary moved to the bathroom after going to the kitchen. There is no",Where is Mary? 
+173,bedroom,"Based on the context provided, Sandra is in the bedroom. The text states that John went to",Where is Sandra? 
+174,hallway,"Based on the context provided, Sandra went to the hallway after being in the bedroom. So,",Where is Sandra? 
+175,garden,"Based on the context provided, John moved to the kitchen and then traveled to the garden. Therefore,",Where is John? 
+176,kitchen,The text does not provide information about Daniel's current location. The series of actions described in the,Where is Daniel? 
+177,kitchen,"Based on the context provided, Daniel is currently in the kitchen. The sentence ""Afterwards he trav",Where is Daniel? 
+178,bedroom,The text does not provide information about Sandra's current location after she journeyed to the bedroom,Where is Sandra? 
+179,garden,"Mary is in the garden.
+
+Here's the sequence of movements for Mary based on the",Where is Mary? 
+180,bathroom,The context does not provide information about Mary's current location after she journeyed to the bathroom.,Where is Mary? 
+181,kitchen,"Based on the context provided, Mary moved to the office first and then went back to the kitchen.",Where is Mary? 
+182,hallway,"Sandra is in the bathroom, as stated in the context: ""Sandra went to the bathroom",Where is Sandra? 
+183,hallway,"Based on the context provided, Sandra is in the hallway at the end of the given text.",Where is Sandra? 
+184,bathroom,I can't provide an exact current location of Sandra based on the given context. When the,Where is Sandra? 
+185,bathroom,"Based on the context provided, John moved to the hallway and then moved to the bathroom. Therefore,",Where is John? 
+186,bathroom,"Based on the context provided, Daniel is currently in the bathroom, as that is the last location mentioned",Where is Daniel? 
+187,hallway,"Based on the context provided, Daniel is currently in the hallway. The text mentions that after he",Where is Daniel? 
+188,bathroom,"Based on the context provided, John moved to the bathroom after he was in the hallway. So,",Where is John? 
+189,hallway,"The last information given about Sandra's location is that she moved to the hallway. So,",Where is Sandra? 
+190,kitchen,"The last information given is that Daniel went to the kitchen, but he previously journeyed to the garden",Where is Daniel? 
+191,kitchen,"Based on the context, Daniel is in the kitchen after he went back from the hallway.",Where is Daniel? 
+192,bedroom,"Sandra is in the bathroom right now, as mentioned in the last action related to her in the",Where is Sandra? 
+193,garden,"Based on the information provided in the context, Mary is currently in the garden. She went there after",Where is Mary? 
+194,office,"Based on the context provided, Mary moved to the bathroom after journeying to the garden and then traveled",Where is Mary? 
+195,kitchen,"Based on the context provided, the last location mentioned for John was the kitchen. So, John is",Where is John? 
+196,hallway,"At the end of the given text, Mary is in the hallway.
+
+Here's the",Where is Mary? 
+197,office,"Based on the context provided, Sandra is currently in the office. The text states that Mary went",Where is Sandra? 
+198,bathroom,The context does not provide information about Sandra's location after she went to the bathroom. We,Where is Sandra? 
+199,kitchen,"Based on the context provided, Mary is in the kitchen. The text states that after going back to",Where is Mary? 
+200,bedroom,"Based on the information provided in the context, Sandra is currently in the bedroom, as she went",Where is Sandra? 
+201,hallway,"The last location mentioned for Sandra was the hallway, so that's likely where she is.",Where is Sandra? 
+202,hallway,"Based on the context provided, Sandra is in the hallway. The text states that after Sandra",Where is Sandra? 
+203,bathroom,The context does not provide information on Daniel's current location after he moved to the bathroom.,Where is Daniel? 
+204,bedroom,"Based on the context provided, Sandra went to the garden and then went to the bedroom. Therefore",Where is Sandra? 
+205,bedroom,"Based on the information provided in the context, Sandra moved to the hallway and then went to the",Where is Sandra? 
+206,garden,"Based on the information provided in the context, John is in the garden. The context states that after",Where is John? 
+207,hallway,"Based on the context provided, Sandra is currently in the hallway. She travelled to the bathroom",Where is Sandra? 
+208,kitchen,"Based on the context provided, John's last reported location was the office. However, it'",Where is John? 
+209,garden,"John is in the garden.
+
+Here's the sequence of movements:
+1. Sand",Where is John? 
+210,hallway,"Based on the context provided, Sandra is currently in the hallway. After going to the office,",Where is Sandra? 
+211,bathroom,"Based on the context provided, John is now in the bathroom after moving to the garden and then journey",Where is John? 
+212,hallway,"Based on the context provided, Daniel is currently in the hallway. The text states that he journeyed",Where is Daniel? 
+213,garden,"Based on the context provided, John is currently in the garden. He travelled to the kitchen,",Where is John? 
+214,bedroom,"I don't have real-time tracking information. Based on the context you provided, Daniel went",Where is Daniel? 
+215,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She first went back to the",Where is Sandra? 
+216,kitchen,"Based on the context provided, Daniel went back to the office, so that's where he is",Where is Daniel? 
+217,bedroom,"Based on the context provided, Daniel went back to the bedroom after traveling to the hallway. Therefore,",Where is Daniel? 
+218,garden,"Based on the context provided, John is in the garden after traveling to the bedroom and then the garden",Where is John? 
+219,office,"Based on the context provided, John is currently in the office. He moved to the bathroom after being",Where is John? 
+220,bedroom,"Based on the context provided, Daniel is currently in the bedroom, as that was the last location mentioned",Where is Daniel? 
+221,bathroom,"Based on the context, Daniel moved to the bathroom after he went back to the office. So,",Where is Daniel? 
+222,hallway,"Based on the context provided, John is currently in the hallway. He travelled to the bathroom,",Where is John? 
+223,garden,"The last information given about Sandra is that she went to the garden. So without further information,",Where is Sandra? 
+224,hallway,"Based on the context provided, the last location mentioned for John is the hallway. Therefore, it can",Where is John? 
+225,office,"Based on the context provided, John is currently in the office. He travelled to the kitchen,",Where is John? 
+226,kitchen,"Based on the context, John moved to the garden and then he went back to the kitchen. However",Where is John? 
+227,kitchen,"John is in the kitchen.
+
+Here's the sequence of movements in the context:",Where is John? 
+228,kitchen,"Based on the context, John is currently in the kitchen, as that is the last place he went",Where is John? 
+229,garden,"Based on the context provided, Daniel is in the garden after moving from the kitchen.",Where is Daniel? 
+230,garden,"Based on the context provided, Daniel moved to the hallway and then journeyed to the garden. There",Where is Daniel? 
+231,hallway,Sandra is in the hallway at the moment. We know this because she travelled to the bedroom,Where is Sandra? 
+232,garden,"Based on the context provided, Mary is now in the garden. The sentence ""Then she went back",Where is Mary? 
+233,bathroom,"Based on the context provided, Mary moved to the bathroom after going to the bedroom. So, Mary",Where is Mary? 
+234,kitchen,"Based on the context provided, Mary is currently in the kitchen. The text states that ""Mary",Where is Mary? 
+235,garden,"Based on the context provided, John's last mentioned location was the garden. He first went back",Where is John? 
+236,hallway,"Based on the context provided, Sandra is currently in the hallway. She traveled to the bathroom,",Where is Sandra? 
+237,hallway,Mary is in the hallway after travelling from the office. The hallway is the last location mentioned for Mary,Where is Mary? 
+238,office,"Based on the context, Mary moved to the bathroom first, and then she went back to the office",Where is Mary? 
+239,bathroom,The context does not provide information about Daniel's current location after he went back to the bathroom.,Where is Daniel? 
+240,garden,"Based on the context provided, Daniel went back to the garden after going to the hallway. So,",Where is Daniel? 
+241,hallway,"Based on the context provided, John is in the hallway after first going to the bathroom and then traveling",Where is John? 
+242,garden,"Based on the information provided in the context, Mary is currently in the garden. She first travelled",Where is Mary? 
+243,bedroom,The context does not provide information on Mary's current location. It only mentions that Mary went,Where is Mary? 
+244,garden,"Based on the context provided, Mary went back to the garden after traveling to the kitchen. Therefore,",Where is Mary? 
+245,office,The text does not provide information about Mary's current location. We only know the places she has,Where is Mary? 
+246,kitchen,The context does not provide information about Sandra's current location after she journeyed to the kitchen,Where is Sandra? 
+247,garden,"Based on the information provided in the context, John is currently in the garden. This is because he",Where is John? 
+248,bathroom,I can't provide an exact current location based on the given context. After Mary went to the,Where is Mary? 
+249,hallway,The text does not provide information about Mary's current location after she journeyed to the hallway.,Where is Mary? 
+250,kitchen,The context does not provide information on Daniel's current location after he returned to the kitchen.,Where is Daniel? 
+251,bedroom,"Based on the context provided, John went to the bedroom after he was in the kitchen. Therefore,",Where is John? 
+252,bedroom,"Based on the information provided in the context, John went back to the bedroom after he travelled to",Where is John? 
+253,bedroom,"Based on the context provided, Sandra went back to the bedroom after going to the garden. So",Where is Sandra? 
+254,hallway,"Based on the context provided, Sandra is currently in the hallway. She first went to the bedroom",Where is Sandra? 
+255,hallway,"Based on the context provided, Sandra moved to the hallway after visiting the bathroom. Therefore, Sand",Where is Sandra? 
+256,bathroom,Mary is in the bathroom after moving there from the garden. This update comes from the part of the,Where is Mary? 
+257,bedroom,"Based on the context provided, after Mary went to the bathroom, she went back to the bedroom.",Where is Mary? 
+258,kitchen,"Based on the context provided, Sandra is currently in the kitchen.",Where is Sandra? 
+259,bedroom,"Based on the context provided, Mary is in the bedroom. The text states that John traveled to the",Where is Mary? 
+260,bathroom,"Based on the context provided, Mary moved to the bathroom after going to the office. Therefore, at",Where is Mary? 
+261,hallway,The context does not provide information on John's current location after he went to the kitchen and Sand,Where is John? 
+262,hallway,"Based on the context provided, Sandra went back to the hallway after she went to the kitchen.",Where is Sandra? 
+263,hallway,The text does not provide information about Sandra's current location after she traveled to the hallway.,Where is Sandra? 
+264,hallway,The text does not provide information on Mary's current location after she went to the hallway. The,Where is Mary? 
+265,bedroom,"Based on the context provided, Sandra has travelled to the bedroom. However, it does not",Where is Sandra? 
+266,kitchen,The context does not provide information about Sandra's current location after mentioning that she went back,Where is Sandra? 
+267,garden,"Based on the information provided in the context, Sandra moved to the garden after going to the kitchen",Where is Sandra? 
+268,office,"Based on the context provided, John is in the office at the moment.",Where is John? 
+269,office,"Based on the information provided in the context, Mary is currently in the office, as she traveled there",Where is Mary? 
+270,bathroom,"Based on the context provided, Daniel is currently in the bathroom. The sentence ""Afterwards he went",Where is Daniel? 
+271,garden,"Based on the context provided, Mary is currently in the garden. She first moved to the bathroom,",Where is Mary? 
+272,bedroom,The context does not provide information on Daniel's current location after he moved to the office. Therefore,Where is Daniel? 
+273,bathroom,"Based on the context provided, Daniel moved to the bathroom after journeying from the bedroom. So,",Where is Daniel? 
+274,bathroom,The context doesn't provide information about Sandra's current location at the end of the narrative,Where is Sandra? 
+275,hallway,"Based on the sequence of movements described, after Sandra went back to the hallway, she then went",Where is Sandra? 
+276,office,"Based on the context provided, John's last mentioned location was the office. He journeyed to",Where is John? 
+277,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She traveled there after going to",Where is Sandra? 
+278,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He moved around to the kitchen,",Where is Daniel? 
+279,bedroom,"Based on the context provided, Mary is currently in the bedroom.
+
+Here's the sequence",Where is Mary? 
+280,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen, as she traveled there",Where is Mary? 
+281,garden,"Sandra went back to the garden, so that's where she is.",Where is Sandra? 
+282,bathroom,"The last information given is that John went to the bathroom after being in the bedroom, so based on",Where is John? 
+283,garden,"Based on the information provided in the context, Sandra is currently in the garden. She travelled",Where is Sandra? 
+284,hallway,"Based on the context provided, Mary moved to the bedroom and then journeyed to the hallway. So",Where is Mary? 
+285,kitchen,"Sandra is in the kitchen based on the given context. After moving to the hallway, she journey",Where is Sandra? 
+286,hallway,"Based on the context provided, John is currently in the hallway.
+
+Here's the sequence",Where is John? 
+287,kitchen,"Based on the context provided, Mary is currently in the kitchen. She first went to the office,",Where is Mary? 
+288,garden,"Based on the context provided, Daniel is in the garden. The phrase ""he went back"" suggests",Where is Daniel? 
+289,office,"Based on the context provided, Sandra is currently in the office. The text states that Sandra",Where is Sandra? 
+290,office,"Based on the context provided, John is in the office at the moment. The text states that """,Where is John? 
+291,garden,"Based on the information provided in the context, Mary is currently in the garden. The text states that",Where is Mary? 
+292,hallway,"Based on the context provided, Daniel is currently in the hallway. He travelled to the hallway after",Where is Daniel? 
+293,bathroom,"Based on the context provided, Sandra's last mentioned location was the bathroom. Therefore, she",Where is Sandra? 
+294,bedroom,"Based on the context provided, Sandra is in the bedroom. The text states that Mary travelled",Where is Sandra? 
+295,office,"Based on the context provided, John journeyed to the hallway and then went back to the office.",Where is John? 
+296,garden,Mary went back to the garden after she moved to the kitchen.,Where is Mary? 
+297,hallway,"Based on the sequence of events, after moving to the hallway, John went back to the garden.",Where is John? 
+298,kitchen,"Sandra is in the kitchen at the end of the given text.
+
+Here's the",Where is Sandra? 
+299,kitchen,"John is in the kitchen. The last action related to John is ""Following that he went back",Where is John? 
+300,hallway,"Based on the information provided in the context, Mary went to the kitchen and then to the hallway.",Where is Mary? 
+301,bathroom,"Based on the context provided, Daniel is in the bathroom now. The text states that he journeyed",Where is Daniel? 
+302,garden,"Based on the context provided, Mary is currently in the garden. The sentence ""After that she went",Where is Mary? 
+303,garden,"Based on the context provided, Mary is currently in the garden. She journeyed there twice, after",Where is Mary? 
+304,bedroom,"Based on the context provided, Mary is currently in the bedroom. She traveled to the office, then",Where is Mary? 
+305,bathroom,"Based on the context provided, Sandra moved to the office and then went back to the bathroom.",Where is Sandra? 
+306,kitchen,"Based on the context provided, John went back to the kitchen after he went to the garden. Therefore",Where is John? 
+307,garden,"Based on the context provided, John is currently in the garden. The statement ""Then he travelled",Where is John? 
+308,bedroom,The context does not provide information about Daniel's current location after stating that he went back to the,Where is Daniel? 
+309,kitchen,"Based on the context provided, John is currently in the kitchen. He first went to the garden and",Where is John? 
+310,garden,"Based on the context provided, Sandra moved to the hallway after being in the bathroom. The text",Where is Sandra? 
+311,kitchen,The context does not provide information on where Mary is at the end. It only mentions where she,Where is Mary? 
+312,bedroom,"Based on the information provided in the context, Mary moved to the office first, but we do not",Where is Mary? 
+313,garden,"Based on the context provided, John moved to the garden after he went to the office. There is",Where is John? 
+314,hallway,"Based on the context provided, John is currently in the hallway. This is because he traveled to the",Where is John? 
+315,bathroom,"John is in the bathroom. After moving to the hallway, he journeyed to the bathroom.",Where is John? 
+316,bedroom,"Based on the context provided, John is in the bedroom after having been in the bathroom. However,",Where is John? 
+317,bathroom,"Based on the information provided in the context, after Mary's movements have been described, she went",Where is Mary? 
+318,garden,"Based on the context provided, Sandra is currently in the garden. She travelled there after going",Where is Sandra? 
+319,bathroom,"I don't have real-time information, so I can only answer based on the context you",Where is Sandra? 
+320,garden,"John is in the garden, as mentioned in the context: ""After that he travelled to the",Where is John? 
+321,hallway,"Based on the information provided in the context, Daniel is currently in the hallway, as he traveled there",Where is Daniel? 
+322,bathroom,"Based on the context provided, after all the movements described, Mary is in the bathroom.",Where is Mary? 
+323,hallway,"Based on the context provided, after Mary traveled to the bedroom and then to the hallway, she is",Where is Mary? 
+324,bedroom,"Based on the information provided in the context, Sandra moved to the garden and then journeyed to",Where is Sandra? 
+325,kitchen,"Based on the context provided, Mary is currently in the kitchen. The text states that she first trav",Where is Mary? 
+326,office,"Based on the context provided, Mary is currently in the office, as that is the place she journey",Where is Mary? 
+327,bathroom,"Based on the information provided in the context, Sandra is currently at the office. The text states",Where is Sandra? 
+328,hallway,"Based on the context provided, John's last known location was the hallway. He journeyed to",Where is John? 
+329,kitchen,"Based on the context provided, Daniel is currently in the kitchen. It mentions that he journeyed",Where is Daniel? 
+330,bedroom,"Mary is in the bedroom based on the given context. After moving to the bathroom and the garden,",Where is Mary? 
+331,bedroom,"Based on the information provided in the context, Mary is currently in the bedroom, as that is the",Where is Mary? 
+332,garden,The context does not provide information on Mary's current location at the end of the text. The,Where is Mary? 
+333,garden,"Based on the context provided, John moved to the garden after traveling to the bathroom. So, John",Where is John? 
+334,bathroom,"Based on the context provided, Sandra is in the bathroom right now because she traveled there after going",Where is Sandra? 
+335,hallway,"The last location mentioned for Sandra was the hallway. So, she is currently in the hallway.",Where is Sandra? 
+336,kitchen,"Based on the context provided, Mary is currently in the kitchen. The text states that Mary traveled to",Where is Mary? 
+337,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen, as she traveled there",Where is Mary? 
+338,bedroom,"Based on the information provided in the context, Sandra is currently in the bedroom, as that is",Where is Sandra? 
+339,hallway,The text does not provide information about John's current location. The last action he took was traveling,Where is John? 
+340,hallway,"Based on the context provided, Daniel is currently in the office. After journeying to the hallway,",Where is Daniel? 
+341,hallway,The context does not provide information about Mary's current location after mentioning the movements she made earlier,Where is Mary? 
+342,bedroom,"Based on the information provided in the context, Mary is in the bedroom now, because she went back",Where is Mary? 
+343,kitchen,"Based on the context provided, Mary is currently in the kitchen. She went to the bathroom first and",Where is Mary? 
+344,bathroom,"Based on the context provided, Mary went to the kitchen and then went back to the bathroom. Therefore",Where is Mary? 
+345,garden,"Based on the context provided, John went to the bathroom and then traveled to the garden. So,",Where is John? 
+346,office,"Based on the context provided, Mary is currently in the office. She journeyed to the kitchen after",Where is Mary? 
+347,kitchen,"Based on the context provided, Sandra is currently in the kitchen. She traveled to the garden twice",Where is Sandra? 
+348,office,"Based on the context provided, John's last known location was the office. He journeyed to",Where is John? 
+349,garden,"Based on the given context, Mary is currently in the garden. She first went to the kitchen and",Where is Mary? 
+350,hallway,"Based on the information provided in the context, Daniel is in the hallway. Both sentences indicating Daniel'",Where is Daniel? 
+351,garden,"Mary is in the bedroom at the moment. After going back to the garden from the office, she",Where is Mary? 
+352,hallway,The context does not provide information about Mary's current location after she journeyed to the hallway.,Where is Mary? 
+353,office,"Based on the context provided, Sandra went back to the office after journeying to the bathroom.",Where is Sandra? 
+354,garden,"Mary is in the garden. She first went to the bathroom, and then moved to the garden.",Where is Mary? 
+355,bathroom,"Based on the context provided, John went to the office first and then to the bathroom. However,",Where is John? 
+356,garden,"Based on the context provided, John's last mentioned location was the kitchen. He moved to the",Where is John? 
+357,garden,"Based on the context provided, John is in the garden. He first moved to the hallway and then",Where is John? 
+358,hallway,"Based on the context, Mary journeyed to the hallway after going to the bathroom. So, at",Where is Mary? 
+359,garden,"Based on the context provided, Mary is currently in the garden.
+
+Here's the sequence",Where is Mary? 
+360,hallway,"Based on the information provided in the context, Sandra is currently in the hallway. The sentence """,Where is Sandra? 
+361,office,"Based on the information provided in the context, Sandra is currently in the office, as that is",Where is Sandra? 
+362,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first journeyed to the",Where is Sandra? 
+363,bathroom,The context does not provide information about Sandra's current location after stating that she went back to,Where is Sandra? 
+364,kitchen,"Based on the information provided in the context, after moving to the office and then going to the kitchen",Where is Mary? 
+365,hallway,"Based on the context provided, Mary is currently in the hallway. She traveled there after going back to",Where is Mary? 
+366,bedroom,"Based on the context provided, Daniel is currently in the kitchen. He went back to the kitchen after",Where is Daniel? 
+367,hallway,"Based on the context provided, Sandra moved to the bathroom and then journeyed to the hallway.",Where is Sandra? 
+368,bedroom,"Based on the context provided, Daniel is currently in the bedroom.
+
+Here's the sequence",Where is Daniel? 
+369,garden,"John is in the garden, based on the given context. He first traveled to the bathroom, then",Where is John? 
+370,bedroom,"Based on the context provided, John is currently in the bedroom. He moved there from the office in",Where is John? 
+371,hallway,"Based on the context provided, Mary is in the hallway at the end of the sequence. The sequence",Where is Mary? 
+372,bathroom,"Based on the information provided in the context, after Mary moved to the garden, she then traveled to",Where is Mary? 
+373,garden,"John is in the garden. The text states that after John went to the bathroom, he journeyed",Where is John? 
+374,office,"Based on the context provided, Daniel went back to the office after visiting the hallway. So, Daniel",Where is Daniel? 
+375,hallway,"Based on the context provided, Sandra is currently in the hallway. She moved there after being in",Where is Sandra? 
+376,bathroom,"Based on the context provided, John is currently in the bathroom. The text states that after John traveled",Where is John? 
+377,hallway,"Based on the context provided, Sandra went back to the hallway after she journeyed to the bedroom",Where is Sandra? 
+378,garden,"Mary is in the garden.
+
+Here's the reasoning:
+1. The text states",Where is Mary? 
+379,kitchen,"Based on the context provided, Mary is currently in the kitchen.",Where is Mary? 
+380,hallway,The context does not provide information about John's current location after mentioning that he went back to,Where is John? 
+381,office,The context does not provide information on Mary's current location after she went to the office.,Where is Mary? 
+382,kitchen,"Based on the context provided, Sandra is in the kitchen. The statement says that she went back",Where is Sandra? 
+383,office,"Based on the context provided, Mary is in the office at the moment. The text states that Mary",Where is Mary? 
+384,bathroom,"Based on the context provided, Daniel went to the bathroom after he went back to the office. Therefore",Where is Daniel? 
+385,bedroom,The context does not provide information on Sandra's current location. It only mentions that Sand,Where is Sandra? 
+386,bathroom,"Based on the context provided, Sandra went to the bathroom after she was in the hallway. There",Where is Sandra? 
+387,office,The context does not provide information on Daniel's current location after he journeyed to the office.,Where is Daniel? 
+388,kitchen,"Based on the information provided in the context, Daniel is currently in the kitchen. He moved to the",Where is Daniel? 
+389,kitchen,"Based on the context provided, Daniel journeyed to the office and then moved to the kitchen. We",Where is Daniel? 
+390,kitchen,"Sandra went to the kitchen after being in the garden. This information is found in the sentence """,Where is Sandra? 
+391,hallway,"Based on the information provided in the context, Mary is currently in the hallway. The context states that",Where is Mary? 
+392,kitchen,"Based on the context provided, Daniel's last mentioned location was the kitchen. After moving to the",Where is Daniel? 
+393,office,"Based on the information provided in the context, John is currently in the office. The context states that",Where is John? 
+394,office,"Based on the context provided, Sandra is currently in the office. After traveling to the bathroom,",Where is Sandra? 
+395,kitchen,"Based on the information provided in the context, Sandra is currently in the kitchen. The sentence """,Where is Sandra? 
+396,garden,"Based on the context provided, Daniel went back to the bedroom and then he went to the garden.",Where is Daniel? 
+397,kitchen,The context does not provide information on Daniel's current location after he journeyed to the kitchen.,Where is Daniel? 
+398,kitchen,"Based on the information provided in the context, John is currently in the kitchen.
+
+Here'",Where is John? 
+399,office,"Based on the context provided, Daniel moved to the garden and then journeyed to the office. We",Where is Daniel? 
+400,bedroom,"Based on the information provided in the context, Daniel moved to the office and then went back to the",Where is Daniel? 
+401,bedroom,"Based on the information provided in the context, Daniel went back to the bedroom after travelling to the office",Where is Daniel? 
+402,garden,"The context does not provide information about Mary's current location, it only mentions the places she",Where is Mary? 
+403,bedroom,"Based on the information provided in the context, Mary is currently in the bedroom. The context states that",Where is Mary? 
+404,office,"Based on the context provided, Sandra went back to the office last. So, I would assume",Where is Sandra? 
+405,hallway,"Based on the context provided, Mary is currently in the hallway. The text states that she moved to",Where is Mary? 
+406,office,"Based on the information provided in the context, Sandra moved to the garden. There is no further",Where is Sandra? 
+407,bedroom,"Based on the context provided, John is in the bedroom after he traveled there from the kitchen.",Where is John? 
+408,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The text states that she journey",Where is Sandra? 
+409,garden,"Based on the context provided, Sandra is currently in the garden. She first went to the kitchen",Where is Sandra? 
+410,garden,Sandra is in the garden after travelling from the bathroom to the garden last. The previous actions of,Where is Sandra? 
+411,office,"Based on the context provided, Sandra is currently in the office. The text states that after Sand",Where is Sandra? 
+412,garden,"Based on the information provided in the context, Daniel moved to the office first, and then he went",Where is Daniel? 
+413,kitchen,"Based on the context provided, Sandra went to the kitchen after visiting the bathroom. Therefore, it",Where is Sandra? 
+414,garden,"Based on the information provided in the context, Daniel is currently in the garden. The context states that",Where is Daniel? 
+415,garden,"Based on the context provided, Daniel is in the garden. The text states that John traveled to the",Where is Daniel? 
+416,office,"Based on the information provided in the context, Daniel went back to the office after traveling to the hallway",Where is Daniel? 
+417,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He first went to the bedroom,",Where is Daniel? 
+418,office,"Based on the context provided, Daniel is currently in the office. He first traveled to the hallway,",Where is Daniel? 
+419,kitchen,"Based on the context provided, Sandra went to the hallway and then went to the kitchen. There",Where is Sandra? 
+420,bedroom,"Based on the context, Mary traveled to the kitchen and then traveled to the bedroom. Therefore, Mary",Where is Mary? 
+421,garden,The context does not provide information on John's current location after he journeyed to the kitchen and,Where is John? 
+422,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen. The context states that",Where is Mary? 
+423,bedroom,"Based on the context provided, Mary has traveled to the bedroom. However, the current location of Mary",Where is Mary? 
+424,bathroom,"The context does not provide information on Mary's current location, it only mentions where she went",Where is Mary? 
+425,office,"Based on the context provided, Sandra went back to the office after traveling to the kitchen. Therefore",Where is Sandra? 
+426,bedroom,Mary is in the bedroom based on the information in the context. The context states that John went to,Where is Mary? 
+427,garden,"Based on the context provided, Sandra is currently in the garden. The text states that after John",Where is Sandra? 
+428,office,The context does not provide information about John's current location after he moved to the office. Therefore,Where is John? 
+429,hallway,"Mary is in the hallway.
+
+Here's the sequence of events for Mary:
+1",Where is Mary? 
+430,kitchen,"Mary is in the kitchen.
+
+Based on the context, after Mary journeyed to the bathroom",Where is Mary? 
+431,hallway,"Based on the context provided, Mary is currently in the hallway. After going to the office, she",Where is Mary? 
+432,bedroom,"Based on the context provided, John is currently in the bedroom.",Where is John? 
+433,office,"Based on the information provided in the context, Daniel is currently in the office, as that was his",Where is Daniel? 
+434,office,"Based on the context provided, John is currently in the office. He moved to the bedroom after leaving",Where is John? 
+435,office,"Based on the context provided, John went to the office. Therefore, it can be inferred that",Where is John? 
+436,kitchen,"Based on the information provided in the context, Sandra is currently in the kitchen. She first traveled",Where is Sandra? 
+437,bedroom,"Based on the context provided, John moved to the bedroom after going to the bathroom. So, John",Where is John? 
+438,garden,"Based on the context provided, Mary went back to the garden after she went to the hallway. Therefore",Where is Mary? 
+439,kitchen,"Based on the context provided, Daniel is currently in the kitchen. He first moved to the hallway,",Where is Daniel? 
+440,bedroom,"Based on the context, Mary moved to the kitchen and then traveled to the bedroom. Therefore, Mary",Where is Mary? 
+441,kitchen,"Based on the information provided in the context, John is currently in the kitchen. He moved to the",Where is John? 
+442,garden,"Based on the information provided in the context, Daniel is in the garden. After moving to the hallway",Where is Daniel? 
+443,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first went to the bedroom",Where is Sandra? 
+444,office,"Based on the context provided, John is in the office after having gone there following a visit to the",Where is John? 
+445,office,The context does not provide information on John's current location after he went to the office. Therefore,Where is John? 
+446,kitchen,"Based on the context provided, Mary is currently in the kitchen. She travelled there after going back",Where is Mary? 
+447,hallway,"Daniel moved to the hallway following his visit to the bedroom. Therefore, Daniel is currently in the hallway",Where is Daniel? 
+448,kitchen,"Based on the context provided, John is in the kitchen after having traveled there from the hallway.",Where is John? 
+449,office,The context does not provide information on Daniel's current location after he travelled to the office.,Where is Daniel? 
+450,bathroom,The context doesn't provide information about Sandra's current location at the end of the sequence,Where is Sandra? 
+451,kitchen,"Based on the context provided, John went to the kitchen after he went to the bedroom. There is",Where is John? 
+452,garden,"Mary is in the garden.
+
+Here's the sequence of events:
+1. Daniel",Where is Mary? 
+453,bathroom,"Based on the information provided in the context, Mary moved to the office first, and then she traveled",Where is Mary? 
+454,garden,"Based on the context provided, Sandra is currently in the garden. She traveled there twice, and",Where is Sandra? 
+455,bedroom,"Based on the context provided, Sandra is currently in the bedroom. The text states that Mary moved",Where is Sandra? 
+456,hallway,"Based on the context provided, Sandra moved to the hallway after she went to the kitchen. There",Where is Sandra? 
+457,garden,Daniel is in the garden. The context indicates that Daniel went to the bathroom and then moved to the,Where is Daniel? 
+458,garden,"Based on the information provided in the context, Sandra went back to the garden after she moved to",Where is Sandra? 
+459,hallway,"Based on the context, Daniel is currently in the hallway. After traveling to the bathroom and the kitchen",Where is Daniel? 
+460,kitchen,"Based on the context provided, John is currently in the kitchen. He traveled to the bathroom after going",Where is John? 
+461,hallway,"Based on the information provided in the context, Daniel journeyed to the bedroom. There is no further",Where is Daniel? 
+462,hallway,The context does not provide information about Mary's current location after she moved to the hallway. The,Where is Mary? 
+463,office,The text does not provide information about Sandra's current location. We only know that she traveled,Where is Sandra? 
+464,garden,"Based on the context provided, Mary is currently in the garden. She journeyed there twice, once",Where is Mary? 
+465,kitchen,"Based on the context, John moved to the garden and then journeyed to the kitchen. Therefore,",Where is John? 
+466,garden,"Based on the context, Mary went back to the garden last. Therefore, she is currently in the",Where is Mary? 
+467,bathroom,"Based on the context, Daniel is currently in the bathroom. He first traveled to the office, then",Where is Daniel? 
+468,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first went to the office",Where is Sandra? 
+469,garden,"Mary is in the garden. The text mentions that after going to the hallway, Mary traveled to",Where is Mary? 
+470,kitchen,"Based on the context provided, Mary moved to the kitchen after going back to the garden. So,",Where is Mary? 
+471,office,"Based on the context provided, Mary moved to the office after she moved to the kitchen. The text",Where is Mary? 
+472,hallway,"Based on the context provided, Sandra went back to the hallway. Therefore, that is the most",Where is Sandra? 
+473,hallway,"Based on the information provided in the context, Daniel is in the hallway at the moment. After going",Where is Daniel? 
+474,kitchen,"Sandra went to the bathroom and then moved to the kitchen. So, based on the information provided",Where is Sandra? 
+475,bedroom,"Based on the context provided, John is currently in the bedroom. He travelled there after being in",Where is John? 
+476,hallway,"Based on the context provided, Sandra moved to the bathroom and then went to the hallway. We",Where is Sandra? 
+477,garden,"Based on the context provided, Daniel is in the office. The text states that Daniel moved to the",Where is Daniel? 
+478,bedroom,"Based on the context provided, Daniel is now in the bedroom. The sentence ""Afterwards he journey",Where is Daniel? 
+479,hallway,"Based on the context provided, John is in the hallway after moving back from the bathroom. The movement",Where is John? 
+480,kitchen,The context does not provide information about Daniel's current location after he returned to the kitchen. To,Where is Daniel? 
+481,bathroom,"Based on the information provided in the context, Sandra moved to the bathroom after she was in the",Where is Sandra? 
+482,hallway,"Based on the context provided, Sandra is currently in the hallway. She travelled there after going",Where is Sandra? 
+483,garden,"Mary went back to the garden, so that's where she is.",Where is Mary? 
+484,office,"Based on the context provided, Sandra is currently in the office.
+
+Here's the",Where is Sandra? 
+485,kitchen,"Based on the context provided, Mary is currently in the kitchen. The text states that after Mary trav",Where is Mary? 
+486,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen because that is the last",Where is Mary? 
+487,kitchen,"Based on the context provided, Sandra is currently in the kitchen, as she has moved through the",Where is Sandra? 
+488,hallway,"Based on the context provided, Daniel is currently in the hallway. The sentence ""Afterwards he went",Where is Daniel? 
+489,hallway,"Based on the context provided, Sandra went back to the hallway after she journeyed to the bathroom",Where is Sandra? 
+490,hallway,The text does not provide information about Mary's current location after mentioning she moved to the hallway,Where is Mary? 
+491,kitchen,Sandra is in the kitchen based on the last action mentioned for her in the text. The context,Where is Sandra? 
+492,bathroom,"Based on the context provided, John is in the bathroom after he journeyed there from the garden and",Where is John? 
+493,bathroom,"Based on the context provided, the last location mentioned for Mary was the bathroom. So, Mary is",Where is Mary? 
+494,hallway,"Based on the context provided, Daniel journeyed to the hallway after he traveled to the garden. Therefore",Where is Daniel? 
+495,hallway,"Based on the context provided, Daniel is currently in the office. He traveled to the office after journey",Where is Daniel? 
+496,office,"Based on the context provided, Mary went to the kitchen and then traveled to the office. Therefore,",Where is Mary? 
+497,hallway,"Based on the information provided in the context, John is currently in the hallway. He moved there after",Where is John? 
+498,bedroom,"Based on the information provided in the context, Daniel is currently in the bedroom. The context states that",Where is Daniel? 
+499,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first went to the hallway",Where is Sandra? 
+500,office,"Based on the context, John is currently in the office. He moved there after visiting the bathroom for",Where is John? 
+501,office,"Based on the information provided in the context, Sandra is currently in the office, as she traveled",Where is Sandra? 
+502,hallway,The context does not provide information on Daniel's current location after he went to the hallway. We,Where is Daniel? 
+503,office,"Based on the information provided in the context, John moved to the office last. However, the context",Where is John? 
+504,hallway,"Based on the context provided, Mary is currently in the hallway. The text states that she journeyed",Where is Mary? 
+505,hallway,"Based on the context provided, Sandra is currently in the hallway. She traveled there after going back",Where is Sandra? 
+506,garden,"Based on the context provided, Sandra went back to the garden after she traveled to the hallway.",Where is Sandra? 
+507,hallway,"The last information given is that John went to the hallway. So, based on the context, John",Where is John? 
+508,bathroom,"Based on the sequence of events in the context, after Mary moved to the bathroom, the text does",Where is Mary? 
+509,garden,"Based on the context provided, Mary moved to the office first and then traveled to the garden. The",Where is Mary? 
+510,garden,"John is in the garden. The context shows that after John went back to the bathroom, he then",Where is John? 
+511,garden,"Based on the context provided, Mary is now in the garden. The sentence ""Mary moved to",Where is Mary? 
+512,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He first moved to the hallway,",Where is Daniel? 
+513,hallway,Daniel is in the hallway at the moment. The sequence of actions indicates that he moved to the bedroom,Where is Daniel? 
+514,garden,"Based on the context provided, Sandra went to the garden after she went back to the office.",Where is Sandra? 
+515,bathroom,"Sandra went back to the kitchen after visiting the bathroom the second time. So, currently, Sand",Where is Sandra? 
+516,hallway,"The last location mentioned for John was the hallway, so that is where he is. The sentence about",Where is John? 
+517,hallway,"Based on the context provided, John is in the hallway after having just come from the kitchen. He",Where is John? 
+518,garden,"Based on the context provided, Sandra is currently in the garden. She traveled there after going to",Where is Sandra? 
+519,hallway,The context does not provide information on Daniel's current location after he moved to the hallway. To,Where is Daniel? 
+520,kitchen,"Based on the context provided, John is currently in the kitchen. The text states that he travelled",Where is John? 
+521,office,"Based on the context provided, Daniel is currently in the office. After going to the bathroom and the",Where is Daniel? 
+522,kitchen,"Based on the context provided, Daniel went back to the kitchen after visiting the bathroom. So, at",Where is Daniel? 
+523,bathroom,The text does not provide information on where John is at the end of the given context. After traveling,Where is John? 
+524,bedroom,"Based on the context provided, Daniel is now in the bedroom. The sentence states that Daniel moved to",Where is Daniel? 
+525,hallway,The text does not provide information about Daniel's current location. The events described are in the past,Where is Daniel? 
+526,bedroom,"Based on the context provided, Sandra went back to the bedroom after journeying to the bathroom.",Where is Sandra? 
+527,hallway,The text does not provide information about Daniel's current location after he went back to the hallway the,Where is Daniel? 
+528,bedroom,"Based on the context provided, Daniel is now in the bedroom. The sentence ""Afterwards he journey",Where is Daniel? 
+529,office,"Daniel is in the office. The context states that after Daniel journeyed to the hallway, he moved",Where is Daniel? 
+530,hallway,"Based on the context provided, Mary is currently in the hallway. The sentence ""Afterwards she journey",Where is Mary? 
+531,bathroom,"Based on the context provided, Daniel moved to the bathroom after he travelled to the office. Therefore",Where is Daniel? 
+532,bathroom,The text does not provide information on Mary's current location after she journeyed to the bathroom.,Where is Mary? 
+533,kitchen,"John is in the kitchen.
+
+Here's the sequence of movements in the text:",Where is John? 
+534,bathroom,"Based on the context provided, John is currently in the bathroom. The sentence ""following that he",Where is John? 
+535,bedroom,"Based on the context, Daniel went back to the office and then went to the bedroom. Therefore,",Where is Daniel? 
+536,bathroom,"Based on the context provided, Daniel moved to the bathroom after being in the kitchen. However, the",Where is Daniel? 
+537,bedroom,"Based on the context provided, Daniel is currently in the bedroom.",Where is Daniel? 
+538,bathroom,"Based on the information provided in the context, Daniel is currently in the bathroom. The context states that",Where is Daniel? 
+539,bedroom,"Based on the information provided in the context, Sandra is in the bedroom. This is because she",Where is Sandra? 
+540,garden,"Daniel is in the garden. The text states that after Daniel went back to the office, he then",Where is Daniel? 
+541,hallway,"Based on the context provided, Daniel is currently in the hallway. After going to the kitchen, he",Where is Daniel? 
+542,kitchen,"Based on the context provided, John moved from the bathroom to the kitchen, so it's likely",Where is John? 
+543,garden,"Based on the information provided in the context, Daniel moved to the garden after he went to the bathroom",Where is Daniel? 
+544,kitchen,"Based on the context provided, Daniel is currently in the kitchen. After going to the office, he",Where is Daniel? 
+545,bathroom,"Based on the context provided, Mary is currently in the bathroom.
+
+Here's the sequence",Where is Mary? 
+546,hallway,"Based on the context provided, John is currently in the hallway. He went there after he travelled",Where is John? 
+547,office,"Based on the context provided, John's last known location was the office. He moved to the",Where is John? 
+548,bedroom,"Sandra is in the bedroom now, as the last action related to her was going back to the",Where is Sandra? 
+549,office,"Based on the context provided, Mary is currently in the office. She moved to the kitchen first,",Where is Mary? 
+550,office,"The final sentence in the context is ""Daniel went to the garden."" Therefore, at the end",Where is Daniel? 
+551,garden,"Sandra is in the garden.
+
+Based on the context, after Sandra travelled to",Where is Sandra? 
+552,hallway,"Based on the context provided, John is currently in the hallway. He moved to the hallway after going",Where is John? 
+553,garden,"Based on the context provided, Mary went to the office first and then moved to the garden. No",Where is Mary? 
+554,office,The context does not provide information about Mary's current location. It only mentions the places she,Where is Mary? 
+555,kitchen,The context does not provide information about John's current location other than he went back to the bathroom,Where is John? 
+556,hallway,"Based on the context provided, Sandra is currently in the hallway. The sentence ""After that she",Where is Sandra? 
+557,garden,"Based on the context provided, Sandra moved to the garden after going back to the bathroom. Therefore",Where is Sandra? 
+558,hallway,"Based on the information provided in the context, Sandra traveled to the hallway after going to the garden",Where is Sandra? 
+559,kitchen,"Mary is in the kitchen.
+
+Here's the sequence of movements for Mary according to the",Where is Mary? 
+560,bedroom,"Based on the context provided, John is currently in the bedroom. He first moved to the bathroom and",Where is John? 
+561,garden,"Based on the information provided in the context, Mary is currently in the garden. The context states that",Where is Mary? 
+562,kitchen,"Based on the information provided in the context, Sandra is currently in the kitchen. The context states",Where is Sandra? 
+563,bedroom,"Based on the context provided, John went to the office and then went to the bedroom. Therefore,",Where is John? 
+564,garden,"Based on the context provided, Daniel is currently in the garden. He traveled there after going to the",Where is Daniel? 
+565,bathroom,The context does not provide information about Sandra's current location after she journeyed to the bathroom,Where is Sandra? 
+566,kitchen,"Based on the context, Mary is currently in the kitchen. She went to the office, then to",Where is Mary? 
+567,bedroom,"Based on the context provided, Mary is currently in the bedroom.
+
+Here's the sequence",Where is Mary? 
+568,kitchen,"Based on the context, John is currently in the kitchen.",Where is John? 
+569,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He moved there after going to the",Where is Daniel? 
+570,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She traveled to the bathroom after",Where is Sandra? 
+571,office,"Based on the context provided, John's last mentioned location was the office. He journeyed to",Where is John? 
+572,office,"Based on the context provided, John is in the office after he journeyed to the hallway and then",Where is John? 
+573,bathroom,"Based on the context provided, Daniel traveled to the bathroom after going to the garden. So, Daniel",Where is Daniel? 
+574,bedroom,"Based on the context provided, John has moved through several rooms in the house, but it does not",Where is John? 
+575,hallway,"Based on the context provided, John went to the hallway after he was in the bathroom. Therefore,",Where is John? 
+576,garden,"Based on the context provided, Mary is currently in the garden. She moved to the bathroom, then",Where is Mary? 
+577,bedroom,"Based on the context provided, John moved to the hallway and then went to the bedroom. Therefore,",Where is John? 
+578,hallway,"Based on the context provided, Daniel is currently in the hallway. He travelled to the hallway after",Where is Daniel? 
+579,hallway,"Based on the context provided, John is currently in the hallway. He went to the kitchen, then",Where is John? 
+580,bedroom,"Based on the context provided, Daniel moved to the bedroom after going to the bathroom. Therefore, it",Where is Daniel? 
+581,kitchen,"Based on the context provided, Daniel is in the hallway at the end of the sequence. After going",Where is Daniel? 
+582,hallway,"Based on the information provided in the context, Mary is currently in the hallway. The sentence ""After",Where is Mary? 
+583,bedroom,"Based on the information provided in the context, Sandra traveled to the kitchen and then went to the",Where is Sandra? 
+584,hallway,"The last information given about Mary is that she moved to the hallway. So, Mary is currently in",Where is Mary? 
+585,garden,"Based on the context provided, John is currently in the garden. He journeyed there after moving through",Where is John? 
+586,hallway,"Based on the information provided in the context, after Mary's last mentioned movement, she is in",Where is Mary? 
+587,bathroom,"Based on the context provided, Daniel went back to the bathroom. However, I don't have",Where is Daniel? 
+588,office,"Based on the context provided, Daniel is currently in the office. He first went to the garden,",Where is Daniel? 
+589,garden,"Based on the information provided in the context, Sandra is currently in the garden. After traveling to",Where is Sandra? 
+590,office,"Based on the context provided, Mary is currently in the office.
+
+Here's the sequence",Where is Mary? 
+591,office,The context does not provide information on Mary's current location after she journeyed to the office.,Where is Mary? 
+592,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She moved through the garden,",Where is Sandra? 
+593,office,"Based on the context provided, Sandra is currently in the office.
+
+Here's the",Where is Sandra? 
+594,hallway,"Based on the context provided, Mary is currently in the hallway. The sentence ""Afterwards she journey",Where is Mary? 
+595,bedroom,"Sandra is in the bedroom based on the sequence of movements described in the text.
+
+Here",Where is Sandra? 
+596,kitchen,The context does not provide information on where Mary is at the moment. The last information given is that,Where is Mary? 
+597,kitchen,"At the end of the given context, Mary is in the kitchen.
+
+Here's the",Where is Mary? 
+598,bedroom,"Based on the context provided, Mary is in the bedroom now. The text states that she ""tr",Where is Mary? 
+599,bathroom,"Based on the context provided, Sandra went back to the office. There is no further information given",Where is Sandra? 
+600,bathroom,"I don't have real-time tracking information, so based on the context you provided, I",Where is Sandra? 
+601,garden,"Based on the context provided, Sandra is currently in the garden. After traveling to the bathroom,",Where is Sandra? 
+602,hallway,"Based on the information provided in the context, Daniel is in the hallway. The context states that Sand",Where is Daniel? 
+603,garden,"Based on the context provided, Sandra went back to the garden after she traveled to the bathroom.",Where is Sandra? 
+604,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He first went to the kitchen,",Where is Daniel? 
+605,garden,The text does not provide information on where each person is at the end of the story. It only,Where is Mary? 
+606,office,"Based on the context provided, Daniel journeyed to the garden and then travelled to the office.",Where is Daniel? 
+607,garden,"Based on the context provided, Sandra went to the bathroom and then she went to the garden.",Where is Sandra? 
+608,bathroom,"Based on the context provided, John went back to the bathroom last. Therefore, he is in the",Where is John? 
+609,garden,"Based on the information provided in the context, Mary is currently in the garden. She travelled to",Where is Mary? 
+610,bedroom,"Based on the context provided, John moved to the office and then journeyed to the bedroom. Therefore",Where is John? 
+611,hallway,The context doesn't provide information about Sandra's current location. She was last mentioned to,Where is Sandra? 
+612,hallway,"Based on the context provided, Daniel went to the hallway after being in the garden. Therefore, Daniel",Where is Daniel? 
+613,office,"Based on the context provided, Sandra moved to the hallway and then to the office. Therefore,",Where is Sandra? 
+614,kitchen,Mary is in the kitchen. The last action for Mary indicates that she moved to the kitchen after being,Where is Mary? 
+615,bathroom,"Based on the information provided in the context, Sandra traveled to the bathroom after the garden. However",Where is Sandra? 
+616,bedroom,"Based on the information provided in the context, Daniel is currently in the bedroom. The context states that",Where is Daniel? 
+617,hallway,"Based on the context provided, Sandra travelled to the office and then travelled to the hallway",Where is Sandra? 
+618,garden,The context does not provide information about Sandra's current location after she moved to the garden.,Where is Sandra? 
+619,bathroom,"Based on the context provided, John is in the bathroom. This is because John went to the bedroom",Where is John? 
+620,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She first went to the bathroom",Where is Sandra? 
+621,bedroom,"Based on the information provided in the context, Mary is currently in the bedroom, as she traveled there",Where is Mary? 
+622,kitchen,The context does not provide information on Mary's current location after she travelled to the kitchen.,Where is Mary? 
+623,bathroom,The text does not provide information about Mary's current location. The last place mentioned where Mary traveled,Where is Mary? 
+624,garden,"Based on the information provided in the context, John is currently in the garden. He first traveled to",Where is John? 
+625,hallway,"Based on the context provided, Mary is in the hallway after moving from the bedroom. She has moved",Where is Mary? 
+626,bathroom,"Based on the information provided in the context, Sandra went to the bathroom after she moved to the",Where is Sandra? 
+627,bedroom,"Based on the context provided, Daniel is now in the bedroom. The sentence ""Daniel went back",Where is Daniel? 
+628,bathroom,"Based on the context provided, Daniel is currently in the bathroom. The statement ""Then he went to",Where is Daniel? 
+629,bedroom,The context does not provide information about Mary's current location after she journeyed to the bedroom.,Where is Mary? 
+630,bathroom,Sandra is in the bathroom based on the sequence of events in the context. After traveling to the,Where is Sandra? 
+631,kitchen,"Based on the information provided in the context, John traveled to the kitchen after he was in the garden",Where is John? 
+632,bedroom,"Based on the context provided, John is in the bedroom at the end of the sequence of movements.",Where is John? 
+633,bedroom,"Based on the context provided, John went back to the bedroom after going to the kitchen. Therefore,",Where is John? 
+634,office,"Based on the context provided, Sandra went back to the office after traveling to the bathroom. So",Where is Sandra? 
+635,kitchen,"Based on the context provided, Daniel moved to the bathroom and then to the kitchen. However, there",Where is Daniel? 
+636,kitchen,"Based on the context provided, Sandra is currently in the kitchen. The text states that she moved",Where is Sandra? 
+637,hallway,"Based on the context provided, Daniel moved from the bedroom to the hallway. Therefore, he is currently",Where is Daniel? 
+638,office,"Based on the information provided in the context, Sandra journeyed to the bedroom and then went to",Where is Sandra? 
+639,office,"Based on the context provided, John is currently in the office. He travelled to the bathroom,",Where is John? 
+640,garden,The context does not provide information about Mary's current location after she went to the garden. The,Where is Mary? 
+641,kitchen,"Based on the context provided, John is currently in the kitchen. He first went to the hallway and",Where is John? 
+642,bedroom,"Based on the information provided in the context, Mary moved to the office and then returned to the bedroom",Where is Mary? 
+643,garden,Mary is in the garden. The text states that she went back to the garden after travelling to the,Where is Mary? 
+644,office,"Based on the context provided, Sandra is currently in the office. She moved to the bedroom first",Where is Sandra? 
+645,kitchen,"Based on the information provided in the context, Sandra is currently in the kitchen.
+
+Here",Where is Sandra? 
+646,bedroom,"Based on the context provided, Sandra moved to the garden. There is no information given about her",Where is Sandra? 
+647,bedroom,"Based on the context provided, Sandra went to the office and then went to the bedroom. Therefore",Where is Sandra? 
+648,bathroom,"Based on the information provided in the context, Sandra traveled to the hallway and then went to the",Where is Sandra? 
+649,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He first went there after going to",Where is Daniel? 
+650,kitchen,"Based on the context provided, after Mary moved to the office and then went back to the kitchen,",Where is Mary? 
+651,bathroom,"Based on the context provided, Mary moved to the kitchen and then traveled to the bathroom. There is",Where is Mary? 
+652,bathroom,"Based on the context provided, Mary journeyed to the hallway and then traveled to the bathroom. So",Where is Mary? 
+653,kitchen,"Mary is in the kitchen.
+
+Based on the context, after moving to the bathroom and the",Where is Mary? 
+654,bedroom,"Based on the context, Sandra is currently in the bedroom. She moved to the garden from the",Where is Sandra? 
+655,hallway,"Based on the context provided, Mary is currently in the hallway. The text states that Mary journeyed",Where is Mary? 
+656,kitchen,"Based on the context provided, Sandra is currently in the kitchen. She moved to the bathroom first",Where is Sandra? 
+657,bedroom,"Based on the information provided in the context, John is in the bedroom. The statement ""John went",Where is John? 
+658,bedroom,"Based on the context provided, Mary is in the bedroom in the final scenario. The text states that",Where is Mary? 
+659,hallway,The text does not provide information about Sandra's current location. The last movement mentioned was Sand,Where is Sandra? 
+660,hallway,"Based on the context provided, Daniel is currently in the hallway. He first went to the garden,",Where is Daniel? 
+661,bathroom,The text does not provide information about John's current location. The last actions described for John were,Where is John? 
+662,bedroom,"Based on the context provided, Daniel moved to the bedroom after going to the bathroom. Therefore, it",Where is Daniel? 
+663,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She went there after journeying",Where is Sandra? 
+664,garden,"Based on the context provided, Sandra is now in the garden. The sentence ""Sandra went",Where is Sandra? 
+665,hallway,"John is in the hallway.
+
+Here's the explanation:
+
+1. The text",Where is John? 
+666,office,"The last information given about John is that he went to the office. So, based on the context",Where is John? 
+667,bathroom,"Based on the information provided in the context, John is currently in the bathroom, as that is the",Where is John? 
+668,hallway,"Based on the context provided, Daniel is currently in the hallway. The sequence of locations mentioned indicates that",Where is Daniel? 
+669,bathroom,The context doesn't provide information about Mary's current location. It only mentions the places,Where is Mary? 
+670,kitchen,"Based on the context, after Mary moved to the office, went back to the bedroom, then went",Where is Mary? 
+671,bathroom,The context does not provide information about Daniel's current location after he journeyed to the bathroom.,Where is Daniel? 
+672,garden,"Based on the context provided, Mary went to the garden after she travelled to the office. So",Where is Mary? 
+673,bedroom,"Based on the information provided in the context, Daniel moved to the office and then to the bedroom.",Where is Daniel? 
+674,kitchen,"Based on the context provided, Mary is in the kitchen when the passage ends. The text states that",Where is Mary? 
+675,kitchen,"Based on the information provided in the context, Sandra moved to the bedroom first, but the context",Where is Sandra? 
+676,bedroom,"The last location mentioned for Mary was the bedroom, so based on the information provided in the text,",Where is Mary? 
+677,bedroom,"Based on the information provided in the context, Sandra went to the bathroom and then journeyed to",Where is Sandra? 
+678,garden,"Based on the information provided in the context, Sandra is currently in the kitchen. She traveled there",Where is Sandra? 
+679,garden,"John is in the garden.
+
+Here's the explanation:
+1. Daniel's",Where is John? 
+680,bedroom,"Based on the information provided in the context, Daniel moved to the kitchen, and then he went back",Where is Daniel? 
+681,hallway,"Based on the context provided, Sandra went to the kitchen and then went to the hallway. There",Where is Sandra? 
+682,kitchen,"Based on the context provided, Daniel is currently in the kitchen.",Where is Daniel? 
+683,bedroom,"Daniel is in the bedroom. The text states that he moved to the bedroom twice, with the last",Where is Daniel? 
+684,bathroom,"Daniel is in the bathroom.
+
+Here's the reasoning:
+1. The text states",Where is Daniel? 
+685,garden,"Based on the information provided in the context, Sandra is currently in the kitchen. She traveled to",Where is Sandra? 
+686,kitchen,"Based on the context provided, Daniel is currently in the kitchen. After going back to the bathroom,",Where is Daniel? 
+687,garden,"John is in the garden.
+
+Here's the explanation:
+
+1. The context",Where is John? 
+688,bedroom,The context does not provide information on John's current location after he travelled to the bedroom.,Where is John? 
+689,office,"Based on the context provided, Daniel went to the office after being in the garden. Therefore, Daniel",Where is Daniel? 
+690,bedroom,"Based on the context provided, Sandra is now in the bedroom. The sentence ""Sandra moved",Where is Sandra? 
+691,garden,"The last information given about Sandra is that she went to the garden. So, at the end",Where is Sandra? 
+692,office,"Based on the context provided, Daniel is in the office at the end. After traveling to the kitchen",Where is Daniel? 
+693,hallway,The text does not provide information about Sandra's current location. It only mentions the places,Where is Sandra? 
+694,office,"Based on the information provided in the context, after moving to the kitchen and then going back to the",Where is John? 
+695,office,"Based on the context provided, Daniel is currently in the office. He first went to the garden,",Where is Daniel? 
+696,bathroom,"Based on the information provided in the context, John went to the kitchen and then to the bathroom.",Where is John? 
+697,hallway,"Based on the context provided, Sandra went back to the hallway after she travelled to the kitchen",Where is Sandra? 
+698,bathroom,"Based on the context provided, Sandra is now in the bathroom. She first went to the bedroom",Where is Sandra? 
+699,bathroom,The context does not provide information on Mary's current location after she went to the bathroom. The,Where is Mary? 
+700,bathroom,"Based on the information provided in the context, Daniel is currently in the bathroom. He first traveled to",Where is Daniel? 
+701,bathroom,The context doesn't provide information about Sandra's current location at the end. The last,Where is Sandra? 
+702,office,"Based on the context provided, John journeyed to the office after being in the hallway. Therefore,",Where is John? 
+703,garden,The last information given about Mary is that she travelled to the garden after going back to the bathroom,Where is Mary? 
+704,garden,"Based on the context provided, John went to the garden after he traveled to the office. So,",Where is John? 
+705,garden,"Based on the context, Mary is currently in the garden. She went to the bathroom, then the",Where is Mary? 
+706,garden,"Based on the information provided in the context, Daniel is currently in the garden. He first went to",Where is Daniel? 
+707,bedroom,"Based on the context provided, the last location mentioned for Sandra was the bedroom. So, Sand",Where is Sandra? 
+708,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first went to the office",Where is Sandra? 
+709,kitchen,"The final sentence in the context is ""Daniel went to the garden."" Therefore, at the end",Where is Daniel? 
+710,garden,"Based on the context provided, Sandra is currently in the garden. The sentence ""Afterwards she",Where is Sandra? 
+711,kitchen,The last information given about Daniel is that he went to the bathroom and then went to the kitchen.,Where is Daniel? 
+712,bathroom,"Based on the context provided, Mary went to the bathroom after she was in the hallway. The text",Where is Mary? 
+713,bathroom,"Based on the context provided, Mary moved to the bathroom after she traveled to the bedroom. So,",Where is Mary? 
+714,bathroom,"Based on the information provided in the context, Mary is in the bathroom. The context states that John",Where is Mary? 
+715,bathroom,"Based on the context provided, Daniel's last mentioned location was the kitchen. However, the context",Where is Daniel? 
+716,office,"Based on the information provided in the context, John moved to the office after going back to the bathroom",Where is John? 
+717,kitchen,"Based on the context provided, John is currently in the kitchen. He traveled to the hallway and then",Where is John? 
+718,garden,"Based on the information provided in the context, John is currently in the garden. This is because Daniel",Where is John? 
+719,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She moved to the hallway,",Where is Sandra? 
+720,bathroom,The context does not provide information on Mary's current location after she went to the bathroom. The,Where is Mary? 
+721,bathroom,"Based on the context, Mary traveled to the bathroom after she was in the hallway. The text does",Where is Mary? 
+722,hallway,"Based on the context provided, Daniel is currently in the hallway. He first went to the bedroom,",Where is Daniel? 
+723,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen. She traveled to the",Where is Mary? 
+724,bedroom,"Based on the context provided, John went to the bedroom after traveling to the hallway. There is no",Where is John? 
+725,bathroom,"The last information provided about Sandra's location was that she went to the bathroom. So,",Where is Sandra? 
+726,hallway,"Based on the context, John went to the bedroom first and then moved to the hallway. So,",Where is John? 
+727,office,"Based on the context provided, John went back to the office after visiting the bathroom. Therefore, at",Where is John? 
+728,kitchen,"Based on the context provided, Sandra went to the office, then to the bedroom, and returned",Where is Sandra? 
+729,kitchen,"Based on the context provided, Mary is in the kitchen.",Where is Mary? 
+730,garden,"Based on the context provided, John is currently in the garden. The text states that he journeyed",Where is John? 
+731,office,"Based on the context provided, Daniel traveled to the office after he was in the kitchen. Therefore,",Where is Daniel? 
+732,bedroom,"Based on the sequence of actions, the last thing Mary did was journey to the bedroom. So,",Where is Mary? 
+733,office,"Based on the information provided in the context, Mary is currently in the office after having gone to the",Where is Mary? 
+734,hallway,"John is in the hallway. The text states that after John went to the office, he went back",Where is John? 
+735,garden,The context does not provide information about Sandra's current location at the end. She moved to,Where is Sandra? 
+736,bathroom,The context does not provide information about Mary's current location after she went to the bathroom. It,Where is Mary? 
+737,office,"Based on the information provided in the context, Mary is currently in the office. She first travelled",Where is Mary? 
+738,bathroom,"Based on the context provided, John went back to the bathroom after he journeyed to the garden.",Where is John? 
+739,garden,"Based on the information provided in the context, Daniel moved to the garden next. However, the context",Where is Daniel? 
+740,garden,The context does not provide information about Sandra's current location. It only mentions the places,Where is Sandra? 
+741,bedroom,"Mary is in the bedroom now, based on the sequence of events mentioned in the context.",Where is Mary? 
+742,kitchen,"Sandra is in the kitchen.
+
+Here's the reasoning:
+1. We follow",Where is Sandra? 
+743,office,"Based on the context provided, Mary moved to the office after being in the kitchen. Therefore, Mary",Where is Mary? 
+744,bathroom,"Based on the information provided in the context, Mary moved to the bathroom after she was in the kitchen",Where is Mary? 
+745,hallway,"Based on the context provided, Daniel went to the office and then moved to the hallway. Therefore,",Where is Daniel? 
+746,hallway,"Based on the information provided in the context, Daniel is currently in the hallway. The context states that",Where is Daniel? 
+747,hallway,"Based on the context provided, Daniel is currently in the hallway. He travelled to the bedroom,",Where is Daniel? 
+748,office,"Based on the context provided, Mary is currently in the office. She first went back to the kitchen",Where is Mary? 
+749,kitchen,"Mary is in the kitchen based on the context. After going to the bathroom and the garden, she",Where is Mary? 
+750,hallway,"Based on the context provided, Daniel is now in the hallway. Each sentence in the context indicates a",Where is Daniel? 
+751,kitchen,"Based on the context, John's last known location was the kitchen. After going to the hallway",Where is John? 
+752,bedroom,"Mary is in the bedroom.
+
+Here's the explanation:
+
+1. The text",Where is Mary? 
+753,hallway,"Mary is in the hallway.
+
+Here's the explanation:
+1. The text states",Where is Mary? 
+754,kitchen,"Based on the context provided, Daniel went to the kitchen after he traveled to the bathroom. Therefore,",Where is Daniel? 
+755,garden,"Sandra is in the garden, based on the sequence of events described in the context.",Where is Sandra? 
+756,office,"Based on the context provided, Sandra went to the bathroom and then traveled to the office. There",Where is Sandra? 
+757,garden,"Based on the context provided, Mary is in the garden.",Where is Mary? 
+758,kitchen,"Based on the information provided in the context, Mary journeyed to the hallway and then to the kitchen",Where is Mary? 
+759,bedroom,"Based on the context provided, John moved to the bedroom after being in the kitchen. However, the",Where is John? 
+760,office,"Based on the context provided, Mary travelled to the office after she was in the hallway. Therefore",Where is Mary? 
+761,bathroom,"Based on the information provided in the context, John is in the bathroom after having traveled to the hallway",Where is John? 
+762,bathroom,"Based on the context, Daniel is currently in the bathroom. After going back to the hallway, he",Where is Daniel? 
+763,hallway,"Based on the context provided, Daniel moved to the bedroom, but there is no information given about him",Where is Daniel? 
+764,bedroom,"Based on the information provided in the context, Sandra went from the garden to the bedroom, so",Where is Sandra? 
+765,hallway,"Based on the context provided, Mary has moved to the hallway.",Where is Mary? 
+766,kitchen,"Based on the information provided in the context, after Mary moved to the garden and then returned to the",Where is Mary? 
+767,bedroom,"Based on the context provided, John is currently in the bedroom. He went to the bathroom, then",Where is John? 
+768,hallway,"Based on the context provided, Sandra is in the hallway. The text states that Sandra trav",Where is Sandra? 
+769,office,"Based on the context provided, Sandra is currently in the office, after having visited the bathroom.",Where is Sandra? 
+770,garden,"Based on the context provided, John is currently in the garden. He first traveled to the office,",Where is John? 
+771,garden,"John is in the kitchen.
+
+Here's the explanation:
+
+1. The text",Where is John? 
+772,garden,"Based on the context provided, Daniel is now in the garden. The sentence ""After that he moved",Where is Daniel? 
+773,bedroom,"Daniel journeyed to the garden and then went to the bedroom. Based on the context, Daniel is",Where is Daniel? 
+774,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She traveled there after going to",Where is Sandra? 
+775,bedroom,"Based on the context provided, John is currently in the bedroom, as he traveled there after going to",Where is John? 
+776,bathroom,"Based on the context provided, Sandra moved to the bathroom after being in the bedroom. The text",Where is Sandra? 
+777,garden,"Based on the context provided, Daniel is currently in the garden. He first went back to the bedroom",Where is Daniel? 
+778,bathroom,"Based on the context provided, Daniel moved to the garden and then journeyed to the bathroom. Therefore",Where is Daniel? 
+779,bedroom,"Based on the context provided, Sandra went to the bathroom first, then moved to the office,",Where is Sandra? 
+780,garden,"Based on the context provided, Sandra moved to the hallway and then went back to the garden.",Where is Sandra? 
+781,garden,The given context mentions that Daniel moved to the garden after going to the bathroom and after going to,Where is Daniel? 
+782,office,"Based on the information provided in the context, Sandra is in the office after having travelled to",Where is Sandra? 
+783,bedroom,"Based on the context provided, Daniel went back to the office and then went back to the bedroom.",Where is Daniel? 
+784,garden,"Based on the information provided in the context, Sandra moved to the garden most recently. Without more",Where is Sandra? 
+785,office,"Based on the context provided, Daniel is currently in the office. He first went to the office after",Where is Daniel? 
+786,bedroom,"Based on the context provided, John moved to the office and then journeyed to the bedroom. Therefore",Where is John? 
+787,hallway,The context does not provide information about John's current location after he went back to the hallway.,Where is John? 
+788,office,"Based on the context provided, Daniel is currently in the office. The sentence ""following that he",Where is Daniel? 
+789,hallway,"Based on the context provided, Mary is currently in the hallway. She moved to the kitchen and then",Where is Mary? 
+790,office,"Based on the information provided in the context, John is currently in the office, as he traveled there",Where is John? 
+791,kitchen,"At the end of the given text, Mary is in the kitchen.
+
+Here's the",Where is Mary? 
+792,garden,"Based on the context provided, John is in the garden after moving there from the kitchen. The sentence",Where is John? 
+793,bathroom,"Based on the context provided, Daniel moved to the bathroom after he travelled to the office. There",Where is Daniel? 
+794,bathroom,The context does not provide information about John's current location after he traveled to the bathroom. It,Where is John? 
+795,kitchen,"Based on the context provided, John went to the bedroom and then journeyed to the kitchen. So",Where is John? 
+796,hallway,"Based on the context provided, Sandra is currently in the hallway. She moved to the bedroom at",Where is Sandra? 
+797,bedroom,"Based on the context provided, John is currently in the bedroom. The sentence ""Afterwards he trav",Where is John? 
+798,bathroom,"Based on the context provided, Daniel is currently in the bathroom. He first went to the bathroom,",Where is Daniel? 
+799,kitchen,"Based on the context provided, Daniel is currently in the kitchen. After moving to the hallway, he",Where is Daniel? 
+800,hallway,"Based on the context provided, Sandra is currently in the office. She first moved to the bedroom",Where is Sandra? 
+801,kitchen,"Based on the context, John went to the hallway and then he went to the kitchen. There is",Where is John? 
+802,kitchen,"Mary is in the kitchen.
+
+Here's the reasoning using the given context:
+1",Where is Mary? 
+803,bedroom,"Based on the context provided, Mary is currently in the bedroom, as she travelled there after going",Where is Mary? 
+804,bedroom,The text does not provide information about Daniel's current location. We know the sequence of places he,Where is Daniel? 
+805,kitchen,"Based on the context provided, Sandra went back to the bathroom and then journeyed to the kitchen",Where is Sandra? 
+806,kitchen,"Based on the context provided, the last location mentioned for John is the office. There is no subsequent",Where is John? 
+807,hallway,"Based on the context, John went to the bedroom and then moved to the hallway. So, at",Where is John? 
+808,kitchen,"Based on the context provided, Sandra is in the kitchen at the end of the given text.",Where is Sandra? 
+809,hallway,"Based on the context provided, Mary is currently in the hallway. She moved to the hallway after being",Where is Mary? 
+810,bedroom,"Based on the context provided, Mary is in the bedroom now. After she went to the hallway,",Where is Mary? 
+811,bedroom,"Based on the information provided in the context, John is in the hallway. The context states that John",Where is John? 
+812,bedroom,"Based on the information provided in the context, John went to the kitchen and then went to the bedroom",Where is John? 
+813,garden,"Based on the context provided, John is in the garden. After traveling to the bedroom, he moved",Where is John? 
+814,office,The text does not provide information about Sandra's current location after mentioning that she traveled to,Where is Sandra? 
+815,hallway,"Based on the information provided in the context, Sandra is currently in the hallway. She traveled there",Where is Sandra? 
+816,bathroom,"Based on the context provided, John is currently in the bathroom. He first moved to the hallway and",Where is John? 
+817,bathroom,"Based on the information provided in the context, John is currently in the bathroom. The context states that",Where is John? 
+818,kitchen,"Based on the information provided in the context, Sandra moved to the kitchen after being in the garden",Where is Sandra? 
+819,bathroom,"Based on the context provided, the last location mentioned for John was the bathroom, so he is currently",Where is John? 
+820,hallway,"Based on the context provided, Daniel moved to the hallway after being in the bedroom. There is no",Where is Daniel? 
+821,office,"Based on the context provided, Sandra is currently in the office. She moved to the bedroom first",Where is Sandra? 
+822,bathroom,"Based on the information provided in the context, Sandra moved to the hallway and then returned to the",Where is Sandra? 
+823,bedroom,"Based on the information provided in the context, John is in the bedroom now because he went back there",Where is John? 
+824,kitchen,"Based on the context provided, Mary is in the kitchen after she went back to it following her visit",Where is Mary? 
+825,hallway,"Based on the context provided, Daniel is currently in the hallway. The text states that he traveled to",Where is Daniel? 
+826,bedroom,"Based on the information provided in the context, Mary is currently in the bedroom. The sentence ""After",Where is Mary? 
+827,office,"Based on the information provided in the context, Sandra went back to the office after traveling to the",Where is Sandra? 
+828,office,The context does not provide information about Daniel's current location after he went to the office. The,Where is Daniel? 
+829,office,"I don't have real-time information, so I can only answer based on the context you",Where is Mary? 
+830,office,"Based on the context, John is currently in the office. He first went to the garden, then",Where is John? 
+831,kitchen,"Based on the context provided, Daniel has gone back to the kitchen after traveling to the office. Therefore",Where is Daniel? 
+832,office,"Based on the information provided in the context, John is currently in the office. The context states that",Where is John? 
+833,bedroom,"Based on the context provided, John is currently in the bedroom. He first traveled to the kitchen,",Where is John? 
+834,garden,Sandra is in the garden. The text states that she went to the garden after going back to,Where is Sandra? 
+835,bathroom,The text does not provide information about Daniel's current location. The events described are in the past,Where is Daniel? 
+836,garden,"Based on the information provided in the context, John is currently in the garden. He first journeyed",Where is John? 
+837,office,"Based on the context provided, Sandra traveled to the kitchen and then moved to the office. There",Where is Sandra? 
+838,bathroom,"Based on the context provided, Daniel is currently in the bathroom. He travelled to the bedroom after",Where is Daniel? 
+839,office,"Based on the context provided, Mary went to the office after she went to the kitchen. Therefore,",Where is Mary? 
+840,office,"Based on the context, Daniel is currently in the office. After going to the bathroom, he went",Where is Daniel? 
+841,office,"Based on the context provided, Daniel went to the garden and then moved to the office. Therefore,",Where is Daniel? 
+842,bathroom,"Based on the context provided, Sandra went to the bathroom after she went to the bedroom. Therefore",Where is Sandra? 
+843,kitchen,"Based on the context provided, Daniel went to the kitchen after he traveled from the bathroom. Therefore,",Where is Daniel? 
+844,garden,"Based on the context provided, John is currently in the garden. The text states that Daniel was in",Where is John? 
+845,office,"Based on the information provided in the context, Sandra journeyed to the bedroom. There is no",Where is Sandra? 
+846,kitchen,"Based on the context provided, the last action for Mary was moving to the kitchen. So, Mary",Where is Mary? 
+847,bedroom,"Based on the context provided, Mary is currently in the bedroom. It's mentioned that she journey",Where is Mary? 
+848,bathroom,"Based on the context provided, Daniel moved to the garden first, and then he journeyed to the",Where is Daniel? 
+849,bathroom,"Based on the information provided in the context, John is currently in the bathroom.",Where is John? 
+850,bathroom,"Based on the context provided, Mary is currently in the bathroom. The sentence ""Afterwards she trav",Where is Mary? 
+851,hallway,"Based on the context provided, Daniel is currently in the office. He journeyed to the kitchen,",Where is Daniel? 
+852,hallway,The context does not provide information on John's current location after he journeyed to the hallway.,Where is John? 
+853,bedroom,"Daniel is in the bedroom.
+
+Here's the sequence of movements in the text:",Where is Daniel? 
+854,kitchen,"John went back to the kitchen.
+
+The text states that after Mary traveled to the garden,",Where is John? 
+855,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The text states that she first",Where is Sandra? 
+856,office,"Based on the context provided, John is currently in the office. He first traveled to the garden,",Where is John? 
+857,kitchen,"Based on the context provided, Daniel is currently in the kitchen. The text states that Mary went to",Where is Daniel? 
+858,kitchen,The context does not provide information about John's current location. The last information given was that he,Where is John? 
+859,bedroom,"Sandra is in the bedroom.
+
+Here's the sequence of movements for Sandra based",Where is Sandra? 
+860,office,"Based on the context provided, Sandra is currently in the office. After traveling to the bathroom,",Where is Sandra? 
+861,garden,"Based on the context provided, Sandra is currently in the garden. After going to the bathroom,",Where is Sandra? 
+862,kitchen,"Based on the context provided, Sandra is currently in the kitchen. The text states that after traveling",Where is Sandra? 
+863,office,"Based on the context provided, Mary went back to the office after she went back to the garden.",Where is Mary? 
+864,bathroom,"Based on the context provided, Daniel went back to the bathroom after journeying to the hallway. So",Where is Daniel? 
+865,office,"Based on the information provided in the context, Daniel is currently in the office. The context states that",Where is Daniel? 
+866,garden,"John is in the garden.
+
+Here's the explanation:
+
+1. The context",Where is John? 
+867,bedroom,"Based on the context provided, Sandra moved to the bedroom after she went to the office. Therefore",Where is Sandra? 
+868,bedroom,"Based on the context provided, Daniel went back to the bedroom after he moved to the kitchen. So",Where is Daniel? 
+869,garden,"Sandra is in the garden.
+
+Here's the reasoning:
+
+1. The",Where is Sandra? 
+870,kitchen,"Based on the context provided, John's last mentioned location was the kitchen. He journeyed to",Where is John? 
+871,kitchen,"Based on the context provided, Mary is currently in the kitchen. She moved to the kitchen, then",Where is Mary? 
+872,kitchen,"John is in the kitchen.
+
+Here's the sequence of movements for John in the context",Where is John? 
+873,hallway,"Mary is in the hallway. The last action related to Mary was ""she journeyed to the hallway",Where is Mary? 
+874,hallway,"Based on the context provided, Sandra moved to the bathroom first, and then she journeyed to",Where is Sandra? 
+875,bedroom,"Based on the information provided in the context, John is in the bedroom now. He first traveled to",Where is John? 
+876,bedroom,"Based on the context provided, Sandra went back to the bedroom after traveling to the kitchen. Therefore",Where is Sandra? 
+877,bedroom,"Based on the context provided, Daniel is in the bedroom after having journeyed there from the hallway.",Where is Daniel? 
+878,bedroom,"Based on the context provided, Mary moved to the office and then moved to the bedroom. Therefore,",Where is Mary? 
+879,bathroom,"Based on the information provided in the context, Sandra is currently in the bathroom. She went to",Where is Sandra? 
+880,hallway,"John is in the hallway. The text states that after moving to the bedroom, John went back to",Where is John? 
+881,office,"Based on the context provided, Sandra went back to the office after visiting the kitchen. So at",Where is Sandra? 
+882,kitchen,"Based on the context provided, Sandra is currently in the kitchen. The sentence ""she journeyed",Where is Sandra? 
+883,office,Sandra is in the office at the moment. She travelled there after she moved to the garden,Where is Sandra? 
+884,hallway,"Based on the context provided, Sandra is currently in the hallway. She traveled there after going to",Where is Sandra? 
+885,hallway,"Based on the context provided, Sandra is currently in the hallway. The text states that she first",Where is Sandra? 
+886,office,"Based on the context provided, Daniel is currently in the office. After traveling to the bathroom, he",Where is Daniel? 
+887,bathroom,"Based on the context provided, Daniel is currently in the bathroom. The sentence ""After that he trav",Where is Daniel? 
+888,kitchen,"Based on the context provided, John's last mentioned location was the kitchen. Therefore, it can",Where is John? 
+889,kitchen,"Mary is in the kitchen.
+
+Here's the reasoning:
+1. We are given",Where is Mary? 
+890,bathroom,"Based on the context provided, Mary is in the bathroom after having journeyed there from the hallway.",Where is Mary? 
+891,hallway,"Based on the context provided, Sandra is currently in the hallway. The text states that after traveling",Where is Sandra? 
+892,office,"Based on the context provided, Daniel is currently in the office. Both Daniel and Mary traveled to the",Where is Daniel? 
+893,bathroom,I don't have real-time ability to determine the current location of individuals. Based on the,Where is John? 
+894,hallway,Sandra is in the hallway at the end of the given context. This is because she traveled to,Where is Sandra? 
+895,bedroom,"Based on the context provided, Mary is currently in the bedroom, as that was the last location she",Where is Mary? 
+896,garden,The context does not provide information on Daniel's current location. It only mentions that Daniel went,Where is Daniel? 
+897,kitchen,"Based on the information provided in the context, Mary is currently in the kitchen. She first went to",Where is Mary? 
+898,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The text states that she trav",Where is Sandra? 
+899,hallway,"Based on the context provided, Sandra is currently in the hallway. She was in the bedroom,",Where is Sandra? 
+900,garden,"Based on the information provided in the context, John traveled to the bedroom and then went to the garden",Where is John? 
+901,hallway,"Based on the context provided, Mary is currently in the hallway. She traveled there after being in the",Where is Mary? 
+902,office,"Based on the information provided in the context, Sandra is currently in the office. The context states",Where is Sandra? 
+903,garden,"Based on the context provided, Mary is currently in the garden. She moved to the garden after going",Where is Mary? 
+904,office,"Mary is in the office based on the context provided. She journeyed to the kitchen, then went",Where is Mary? 
+905,garden,"Based on the information provided in the context, John is currently in the garden, as that is the",Where is John? 
+906,garden,"Mary is in the garden. After traveling to the bedroom, the text states that she ""went",Where is Mary? 
+907,garden,"John is in the garden.
+
+Here's the explanation:
+
+1. The text",Where is John? 
+908,bedroom,"Daniel is in the bedroom.
+
+Here's the reasoning:
+1. The text states",Where is Daniel? 
+909,bedroom,"Based on the context provided, John traveled to the garden and then to the bedroom. Therefore, John",Where is John? 
+910,garden,"Mary is in the garden.
+
+The text states that Mary went to the garden after she was",Where is Mary? 
+911,kitchen,John is in the kitchen. The last place mentioned where he traveled to was the kitchen after he journey,Where is John? 
+912,bedroom,"Based on the information provided in the context, John is currently in the bedroom, as that is the",Where is John? 
+913,garden,"Based on the sequence of events described, Sandra is currently in the kitchen. She traveled to the",Where is Sandra? 
+914,hallway,"Based on the context provided, Daniel is currently in the hallway. The phrase ""he went back""",Where is Daniel? 
+915,bedroom,"Based on the context, John went to the kitchen after he moved to the bedroom at the end of",Where is John? 
+916,garden,"Based on the information provided in the context, Mary is currently in the garden. She went there after",Where is Mary? 
+917,office,"Based on the context provided, Mary is currently in the office. She journeyed to the bedroom,",Where is Mary? 
+918,kitchen,"Based on the context provided, John went back to the garden after he traveled to the kitchen. Therefore",Where is John? 
+919,kitchen,"Based on the context provided, Daniel is currently in the kitchen. After traveling to the bedroom, he",Where is Daniel? 
+920,garden,"Based on the information provided in the context, John is currently in the garden. This is because he",Where is John? 
+921,office,"Based on the context provided, Sandra went back to the office after going to the bathroom, so",Where is Sandra? 
+922,hallway,"Based on the context provided, Mary is in the hallway after journeying to the bathroom and then traveling",Where is Mary? 
+923,bathroom,"Based on the context provided, John moved to the bathroom after he moved to the office. So,",Where is John? 
+924,bedroom,"Based on the information provided in the context, Daniel moved to the office and then to the bedroom.",Where is Daniel? 
+925,bedroom,"Based on the context provided, Sandra went to the garden after she went to the bedroom. There",Where is Sandra? 
+926,office,"Based on the information provided in the context, Mary is currently in the office, as she went there",Where is Mary? 
+927,garden,"Sandra went back to the garden.
+
+Here's the sequence of movements for Sandra",Where is Sandra? 
+928,bathroom,"Based on the context provided, the last action for Mary was moving to the bathroom. Therefore, Mary",Where is Mary? 
+929,hallway,"Based on the context provided, Sandra went to the hallway after being in the garden. There is",Where is Sandra? 
+930,kitchen,"The last information given about John is that he travelled to the kitchen. Therefore, based on the",Where is John? 
+931,office,"Based on the information provided in the context, Daniel went back to the office after he was in the",Where is Daniel? 
+932,hallway,"Based on the context provided, John is in the hallway after moving there from the garden. Nobody else",Where is John? 
+933,kitchen,The context does not provide information about John's current location after he moved from the kitchen. It,Where is John? 
+934,kitchen,"Based on the context provided, John is in the kitchen after he went there following the hallway. The",Where is John? 
+935,bathroom,"Based on the context, Daniel is currently in the bathroom. He traveled there after being in the office",Where is Daniel? 
+936,hallway,"Based on the context provided, Sandra is in the hallway. The text states that after Sandra",Where is Sandra? 
+937,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He first journeyed to the office",Where is Daniel? 
+938,bathroom,"Based on the information provided in the context, Mary is currently in the bathroom, as that is the",Where is Mary? 
+939,office,"Based on the context, Daniel is currently in the office. He moved to the office, then went",Where is Daniel? 
+940,bathroom,"Based on the context, Mary moved to the bathroom after going to the office. Therefore, Mary is",Where is Mary? 
+941,office,"Based on the context provided, John is currently in the office. After moving to the hallway and going",Where is John? 
+942,office,"Based on the context provided, Sandra is currently in the office. She moved from the hallway to",Where is Sandra? 
+943,hallway,"Based on the context provided, the last information given about Mary is that she travelled to the hallway",Where is Mary? 
+944,office,"Based on the information provided in the context, John is currently in the office, as he went there",Where is John? 
+945,bedroom,"Based on the context provided, Sandra journeyed to the bedroom after she travelled to the bathroom",Where is Sandra? 
+946,garden,"Sandra is currently in the garden, as stated at the end of the text. She traveled to",Where is Sandra? 
+947,bedroom,"Based on the context provided, Mary is currently in the bedroom. The text states that she moved to",Where is Mary? 
+948,hallway,"Based on the information provided in the context, Mary moved to the hallway after being in the garden.",Where is Mary? 
+949,bathroom,"Based on the context provided, Daniel is currently in the bathroom. He first went to the bedroom,",Where is Daniel? 
+950,office,"Based on the information provided in the context, Sandra is currently in the office. She first went",Where is Sandra? 
+951,garden,"Daniel is in the garden. The text states that Mary went to the bedroom and then the office,",Where is Daniel? 
+952,office,"Based on the context provided, Daniel is currently in the office. He first went to the office,",Where is Daniel? 
+953,bedroom,The context does not provide information about Daniel's current location after he journeyed to the bedroom.,Where is Daniel? 
+954,hallway,"Based on the context provided, Sandra went back to the hallway after her journey to the kitchen.",Where is Sandra? 
+955,kitchen,"Based on the information provided in the context, John is currently in the kitchen. The context states that",Where is John? 
+956,bathroom,"Based on the context provided, Daniel is currently in the bathroom. He went there after going to the",Where is Daniel? 
+957,bedroom,"Based on the information provided in the context, Daniel went back to the bedroom after he travelled to",Where is Daniel? 
+958,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The sentence ""Sandra went",Where is Sandra? 
+959,hallway,"Based on the context provided, Daniel is currently in the hallway. The text states that after he went",Where is Daniel? 
+960,hallway,"Based on the context provided, John is in the hallway after he traveled to the kitchen and then moved",Where is John? 
+961,hallway,The text does not provide information about John's current location after he travelled to the hallway.,Where is John? 
+962,hallway,The context does not provide information on John's current location after he moved to the hallway. The,Where is John? 
+963,office,The context does not provide information on Mary's current location after she went back to the office.,Where is Mary? 
+964,kitchen,"Based on the context, John went back to the kitchen.",Where is John? 
+965,office,"Based on the context provided, Daniel is in the office. After going back to the hallway, he",Where is Daniel? 
+966,hallway,"Based on the context provided, John went to the hallway following his visit to the kitchen. Therefore,",Where is John? 
+967,kitchen,The last location mentioned for Mary was the kitchen. This means that after traveling to the office from the,Where is Mary? 
+968,garden,"Based on the context provided, Mary moved to the garden after traveling to the bathroom. There is no",Where is Mary? 
+969,hallway,"Based on the context provided, Sandra is currently in the hallway. The sentence ""After that she",Where is Sandra? 
+970,bedroom,"John is in the bedroom. The context shows that after John went to the garden, he then journey",Where is John? 
+971,bathroom,"Based on the context provided, Sandra is currently in the bathroom. She first went back to the",Where is Sandra? 
+972,bathroom,"Based on the context provided, John moved to the office first, and then he went to the bathroom",Where is John? 
+973,office,"Based on the information provided in the context, Daniel is currently at the office. The context states that",Where is Daniel? 
+974,bedroom,"Based on the context provided, John is currently in the bedroom. The text states that Mary moved to",Where is John? 
+975,bedroom,The context does not provide information on John's current location after he moved to the bedroom. It,Where is John? 
+976,bathroom,"Based on the context provided, Daniel is currently in the bathroom. The text states that Daniel traveled to",Where is Daniel? 
+977,hallway,"Based on the information provided in the context, Daniel is currently in the hallway. The context states that",Where is Daniel? 
+978,bathroom,"Based on the context, John went to the bathroom after he returned from the garden. So, as",Where is John? 
+979,hallway,"Based on the context provided, Daniel is currently in the hallway. He traveled to the bathroom, then",Where is Daniel? 
+980,bathroom,The text does not provide information about Sandra's current location. We only know the sequence of,Where is Sandra? 
+981,office,"Based on the context provided, Daniel is currently in the office. He traveled to the bathroom and then",Where is Daniel? 
+982,bedroom,"Based on the context provided, Mary is now in the bedroom. The text states that she first went",Where is Mary? 
+983,hallway,"Based on the context provided, Sandra is currently in the hallway. She first moved to the bedroom",Where is Sandra? 
+984,hallway,"Based on the context provided, Sandra is currently in the hallway. She travelled to the garden",Where is Sandra? 
+985,hallway,"Based on the information provided in the context, Sandra is currently in the hallway. She moved there",Where is Sandra? 
+986,kitchen,"Based on the context provided, Daniel's last known location was the kitchen. After going to the",Where is Daniel? 
+987,garden,"John is in the garden.
+
+Here's the explanation:
+
+1. The text",Where is John? 
+988,bedroom,"Based on the context provided, Sandra is currently in the bedroom. She first went to the kitchen",Where is Sandra? 
+989,hallway,"Based on the context provided, John is currently in the hallway. The passage mentions that he traveled",Where is John? 
+990,garden,The text does not provide information about Daniel's current location since it only mentions the places he,Where is Daniel? 
+991,bathroom,"Based on the context provided, Mary is currently in the bathroom. She first went to the office and",Where is Mary? 
+992,garden,"Based on the information provided in the context, Daniel went back to the garden after he was in the",Where is Daniel? 
+993,garden,"Based on the context provided, Sandra is in the garden. The text states that she first moved",Where is Sandra? 
+994,bathroom,The context does not provide information about Sandra's current location after it mentions that she went,Where is Sandra? 
+995,kitchen,"Based on the context provided, Sandra went back to the kitchen after she moved to the garden.",Where is Sandra? 
+996,office,"Based on the information provided in the context, John went back to the office after visiting the bathroom.",Where is John? 
+997,bedroom,"Based on the context provided, Daniel is currently in the bedroom. He moved to the garden, then",Where is Daniel? 
+998,hallway,"Based on the information provided in the context, Daniel is currently in the hallway. The text states that",Where is Daniel? 

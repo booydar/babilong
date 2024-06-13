@@ -1,0 +1,2536 @@
+,target,output,question
+0,hallway,,Where is John? 
+1,bathroom,"Context: Mary was a very beautiful girl, and she was very proud of her beauty.",Where is Mary? 
+2,kitchen,"Label: in the kitchen
+
+Question: What is the name of the man who is",Where is Sandra? 
+3,hallway,,Where is Sandra? 
+4,kitchen,"Context: ""I'm sure I don't know,"" said the young woman,",Where is Sandra? 
+5,hallway,Context: The old man's funeral was the first event which had occurred to,Where is Sandra? 
+6,garden,"Context: ""I have been robbed eighteen times in six months; taken prisoner",Where is Sandra? 
+7,hallway,Label: The garden,Where is Daniel? 
+8,office,"Context: ""I'm going to the mountains,"" said Bray, ""and I",Where is Sandra? 
+9,office,Output: The office.,Where is Daniel? 
+10,kitchen,Label: in the orchard,Where is Mary? 
+11,garden,"Context: ""I'm not going to be a fool, am I?"" she asked",Where is Mary? 
+12,office,"Options:
+- not enough information
+- at the office
+- at the Lizard",Where is Daniel? 
+13,bedroom,Answer: in the garden,Where is Mary? 
+14,bedroom,"Output: been seen slowly wending his way along the banks of the Mississippi,
+</",Where is Mary? 
+15,kitchen,Output: in the kitchen,Where is John? 
+16,garden,"Options:
+
+A. In the garden
+
+B. In the hallway",Where is John? 
+17,kitchen,"Context: John went to the garden. The first example of the
+concave school",Where is John? 
+18,office,"Context: Daniel journeyed to the office. The man jumped after me, and then",Where is Daniel? 
+19,kitchen,"Label: The hallway
+
+
+
+
+CHAPTER XXVII. """,Where is John? 
+20,hallway,"Context: ""I'm glad to see you, Mary,"" said Frank, as he",Where is Mary? 
+21,office,"Context: ""I'm going to see him,"" said John, and he started off",Where is John? 
+22,office,Label: The bathroom,Where is John? 
+23,hallway,"Options:
+- not enough information
+- the office
+- the hallway
+-",Where is Sandra? 
+24,bedroom,"Options:
+- In the office
+- In the bedroom
+- In the garden",Where is Daniel? 
+25,bedroom,"Context: ""Yes,"" he mused, peering at the stage with his keen gray",Where is Sandra? 
+26,bedroom,"Options:
+- the bedroom
+- the garden
+- the kitchen
+- the",Where is Mary? 
+27,kitchen,"Context: The train was running at a speed of about forty miles an hour, and the",Where is Daniel? 
+28,kitchen,"Output: the garden.
+
+<context>
+The switch was not connected, the",Where is Daniel? 
+29,kitchen,"Label: The bathroom
+
+</context>
+
+Question: What is the name",Where is Daniel? 
+30,hallway,"Context: ""I'm going to take a run up to Mt. Clem",Where is Sandra? 
+31,office,"Context: ""I've been thinking that if I sat down seriously to state in",Where is John? 
+32,kitchen,"Context: ""I'm going to marry David,"" he said. ""I'm",Where is Sandra? 
+33,kitchen,"Label: bedroom
+
+Question: What is the name of the person who is in",Where is Sandra? 
+34,bathroom,"Context: The next day, the two of them went to the beach. They had a",Where is Sandra? 
+35,office,"Context: The following is a list of the principal characters in the play.
+
+M",Where is Mary? 
+36,bathroom,"Output: in the bathroom.
+
+Question: What is the name of the person",Where is Mary? 
+37,garden,"Answer: The office
+
+Question: What is the name of the poison which is in",Where is Mary? 
+38,kitchen,"Output: in the hallway.
+
+<context>
+Sandra went to the",Where is Sandra? 
+39,bedroom,"Output: in the hallway
+
+Question: Where is Mary?
+
+Output:",Where is Daniel? 
+40,bathroom,"Context: ""I'm going to the bathroom,"" said Sandra. ""I",Where is Sandra? 
+41,garden,"Context: The boys were in the city of New Orleans, and they had been
+wand",Where is Daniel? 
+42,bathroom,"Label: The cottage cafe.
+
+
+
+
+CHAPTER XX",Where is Sandra? 
+43,hallway,"Options:
+- not enough information
+- in the garden
+- in the hallway",Where is Daniel? 
+44,garden,"Options:
+- not enough information
+- in the garden
+- in the bedroom",Where is Daniel? 
+45,kitchen,"Context: ""I am glad to see you looking so well,"" said Mr. Shack",Where is Mary? 
+46,hallway,"Context: Daniel was a man of about forty years of age, and was a
+f",Where is Daniel? 
+47,bathroom,"Options:
+- not enough information
+- in the bathroom
+- in the bed",Where is Sandra? 
+48,office,"Answer: at the Club
+
+Question: What is the name of the man who is",Where is John? 
+49,bedroom,"Context: ""I'm not going to be a party to any such thing,"" C",Where is John? 
+50,bedroom,Context: John was a very good man and he was a very good father. He was,Where is John? 
+51,office,"Label: The hallway.
+
+Context: The battle of Pittsburg Landing is",Where is John? 
+52,garden,Label: The office.,Where is John? 
+53,garden,Answer: the hallway.,Where is John? 
+54,kitchen,"Label: hallway
+
+
+Question: Where is Mary?
+
+Label: hall",Where is Daniel? 
+55,bedroom,"Label: in the house
+
+
+Context: ""I'm glad to see you",Where is Mary? 
+56,kitchen,"Context: The next day, the two men went to the cave, and found the",Where is Mary? 
+57,hallway,"Context: The next day, the two men went to the cave, and found the Indian",Where is Mary? 
+58,garden,"Context: The old man was sitting in the kitchen, and the boy was sitting
+bes",Where is Daniel? 
+59,hallway,"Output: hallway
+
+
+Question: What is the name of the person who was the",Where is Sandra? 
+60,hallway,Answer: in the hallway,Where is Sandra? 
+61,office,"Context: ""I'm glad I'm that, but there used to be a",Where is Daniel? 
+62,bathroom,"Label: office
+
+<context>
+
+Answer: The next day General W.",Where is Sandra? 
+63,garden,"Options:
+
+- in the hallway
+
+- in the garden
+
+-",Where is Daniel? 
+64,garden,Label: hallway,Where is Daniel? 
+65,kitchen,"Context: The following is a list of the principal persons who have written on
+hort",Where is John? 
+66,kitchen,Context: The following is a list of the most important events in the history of the United,Where is John? 
+67,bathroom,Label: Monmouth House,Where is Daniel? 
+68,office,"Context: Daniel went to the office. He was a man of great learning, and",Where is Daniel? 
+69,office,Context: Daniel went to the bathroom. Daniel went to the bathroom. Daniel went,Where is Daniel? 
+70,garden,Context: The following is the list of the provisions and ammunition of war,Where is Mary? 
+71,hallway,"Context: The Dessave is the chief of the military scattered in the
+country,",Where is Sandra? 
+72,garden,"Label: The hallway
+
+Context: The Dessave de Bitter, who",Where is Mary? 
+73,bedroom,"Label: bedroom
+
+Question: What is the name of the person who is the",Where is Mary? 
+74,bathroom,Context: Mary went to the bedroom. [Footnote 421: 'T,Where is Mary? 
+75,kitchen,Output: in the kitchen,Where is Daniel? 
+76,kitchen,"Context: ""I am afraid I kept you waiting longer than I intended to. Guy seemed",Where is John? 
+77,kitchen,"Label: The office.
+
+
+Question: What is the name of the person who",Where is Daniel? 
+78,hallway,"Answer: in the hallway
+
+
+
+
+_A Selection from the Catalogue of",Where is Daniel? 
+79,office,"Answer: in the office
+
+
+Question: What is the name of the person who",Where is Daniel? 
+80,garden,"Context: John was a man of great courage, and he was not afraid to go to",Where is John? 
+81,bathroom,"Context: John was a man of the world, and he had been a soldier. He",Where is John? 
+82,bedroom,Context: John went to the garden. He was obliged to forfeit his property to,Where is Sandra? 
+83,garden,Answer: in the garden,Where is Mary? 
+84,office,Context: Daniel went to the garden. ----------------------+--------+--------+--------+,Where is Daniel? 
+85,garden,Context: The great feature in the history of the Turanian races is that they,Where is Sandra? 
+86,garden,"Output: the garden.
+
+
+Question: What is the name of the person who",Where is Mary? 
+87,hallway,"Context: ""I have been reading over the record I have written of my life, which",Where is John? 
+88,kitchen,"Context: <context>
+I strove to confine myself to
+these dream",Where is Sandra? 
+89,kitchen,"Label: The kitchen
+
+
+Far different had been the fate of the misgu",Where is Daniel? 
+90,bathroom,"Output: the garden
+
+Question: What is the name of the smith?",Where is Sandra? 
+91,bathroom,Output: bathroom,Where is John? 
+92,hallway,"Context: ""I'm going to the bathroom,"" said the captain. ""I",Where is Sandra? 
+93,bathroom,"Label: bathroom
+
+Context: The next day, when the pirates were assemble",Where is Sandra? 
+94,bathroom,Label: garden,Where is Sandra? 
+95,kitchen,"Context: ""I have been thinking,"" said the old man, ""that I would go",Where is John? 
+96,kitchen,Output: the kitchen,Where is Sandra? 
+97,kitchen,"Options:
+- not enough information
+- the garden
+- the Luxembourg Gardens",Where is Mary? 
+98,bedroom,"Label: bedroom
+
+
+
+
+  TRANSCRIBER'S AM",Where is Mary? 
+99,bedroom,"Context: The Minstrel's harp was silent, and the Minstrel",Where is Mary? 
+100,bedroom,Label: bedroom.,Where is Mary? 
+101,bathroom,"Answer: in the bathroom
+
+Question: What is the name of the saint?",Where is Sandra? 
+102,office,"Context: Mary went to the office. The Bey of Tunis, who is the chief",Where is Mary? 
+103,garden,Label: The garden.,Where is Daniel? 
+104,garden,"Context: The Colonel's face was white, and his lips were tightly closed,",Where is Daniel? 
+105,hallway,"Context: ""I have been thinking,"" said Mary, ""that I will go to the",Where is Mary? 
+106,bedroom,Label: The courtroom,Where is Daniel? 
+107,bathroom,Label: the bathroom,Where is Daniel? 
+108,office,"Context: Daniel travelled to the bathroom. She recognized him at once, but no",Where is Daniel? 
+109,bedroom,Answer: in the bedroom,Where is John? 
+110,bathroom,Context: The Colonel's face was white and set. He had been sitting in the,Where is Daniel? 
+111,bathroom,"Context: The next day was Sunday, and Stephen was to go to church with the",Where is Daniel? 
+112,kitchen,"Label: The barn
+<context>
+It was a sense of the man he",Where is John? 
+113,hallway,"Label: in the hall
+
+
+Question: What is the name of the person who",Where is John? 
+114,kitchen,Answer: In the kitchen.,Where is Mary? 
+115,garden,"Answer: in the garden
+
+Question: What is the name of the giant?",Where is Sandra? 
+116,office,"Context: ""I'm going to see if I can't have
+myself",Where is John? 
+117,kitchen,"Options:
+
+A. at the office
+
+B. at the church",Where is Mary? 
+118,bathroom,"Label: At Baldwick
+
+Context: Daniel went to the bathroom. He was",Where is Daniel? 
+119,office,"Context: Daniel went to the hallway. The Miller platform was a simple
+arrang",Where is Daniel? 
+120,bedroom,"Output: in the bedroom
+
+<context>
+Men of a certain type always",Where is Daniel? 
+121,bathroom,Answer: in the bathroom,Where is Mary? 
+122,bedroom,"Answer: office
+
+Question: What is the name of the man who is a Union",Where is Daniel? 
+123,hallway,Label: Danville,Where is Daniel? 
+124,bedroom,Answer: in the bedroom,Where is Mary? 
+125,office,Label: office,Where is Sandra? 
+126,garden,"Context: The sun was setting, and the air was still and warm, when he came",Where is John? 
+127,garden,"If there is no answer, please output ""Insufficient information to provide an answer.""",Where is Daniel? 
+128,garden,"Output: bedroom.
+
+
+
+
+414. The Gospel of",Where is Sandra? 
+129,bathroom,"Label: bedroom
+
+
+
+
+THE STEAM POWER OF THE",Where is Sandra? 
+130,garden,"Options:
+- not enough information
+- in the garden
+- in the hallway",Where is Sandra? 
+131,hallway,Context: The old man journeyed to the hallway. Mary journeyed to the garden,Where is Mary? 
+132,bathroom,"Options:
+- In the office
+- In the bathroom
+- In the bed",Where is Sandra? 
+133,garden,Context: The man from Denver and the Steel King sat at one of the small,Where is Sandra? 
+134,kitchen,"Context: ""I'm going to have a baby,"" said Mrs. John, as",Where is John? 
+135,bathroom,Label: bathroom,Where is Sandra? 
+136,office,"Context: The following is a conversation between two friends, who are discussing the
+pro",Where is Sandra? 
+137,kitchen,"Context: The old man was sitting in the kitchen, and he was very
+sad",Where is John? 
+138,bathroom,"Context: ""I'm sure you're tired,"" said Eli, as she came",Where is Sandra? 
+139,bathroom,"Context: ""I'm not going to be a fool,"" he said, ""and",Where is John? 
+140,office,Label: in the garden,Where is Mary? 
+141,hallway,"Output: hallway
+
+Question: Where is Mary?
+
+Output: hallway",Where is Mary? 
+142,hallway,Output: the office.,Where is Mary? 
+143,office,"Output: the hotel
+
+
+Context: ""I'm going to have a talk",Where is Sandra? 
+144,bedroom,Label: Hampton,Where is Sandra? 
+145,kitchen,"Context: ""I'm glad to see
+you here,"" said Macloud.",Where is Sandra? 
+146,kitchen,"Options:
+
+A. bedroom
+
+B. kitchen
+
+C. bed",Where is Sandra? 
+147,kitchen,Answer: bedroom,Where is Daniel? 
+148,kitchen,"[Decoration]
+
+
+XXI. _THE MAN OF",Where is Sandra? 
+149,kitchen,,Where is Daniel? 
+150,garden,"Context: Daniel went back to the garden. Santa Clara smiles afar,
+As",Where is Daniel? 
+151,garden,"Context: ""The King,"" says the Queen, ""was very much affected by the",Where is Sandra? 
+152,bathroom,Label: in the woods,Where is Daniel? 
+153,office,,Where is Daniel? 
+154,bedroom,"Context: John went back to the office. ""I'm going to have a talk",Where is John? 
+155,bathroom,"Context: The following is a list of the principal officers of the Bey's camp,",Where is Mary? 
+156,garden,Context: Daniel went to the garden. Daniel journeyed to the bedroom. Daniel went,Where is Daniel? 
+157,bedroom,"Context: The Shoulah are vulgarly considered to be descended
+from the",Where is John? 
+158,office,"Context: The Brownies were in the midst of a great forest, and were
+h",Where is John? 
+159,hallway,,Where is Mary? 
+160,bedroom,Answer: bedroom,Where is Daniel? 
+161,bedroom,"Label: The bathroom
+
+
+
+
+
+""The Snake Charmer""",Where is Daniel? 
+162,bedroom,"Answer: bedroom
+
+
+
+
+[Decoration]
+
+
+XX",Where is Mary? 
+163,garden,"Answer: the garden
+
+
+
+
+[Decoration]
+
+
+XXIX",Where is Mary? 
+164,bathroom,"Label: in the bathroom
+
+Question: What is the name of the man who",Where is Daniel? 
+165,garden,Context: 'The next course Elsie decided on taking was one of three months in Mid,Where is Sandra? 
+166,garden,"Answer: In the garden
+
+
+
+
+CHAPTER VIII
+
+THE W",Where is Sandra? 
+167,garden,"Output: in the garden
+
+
+
+
+CHAPTER X
+
+RUSS",Where is Daniel? 
+168,kitchen,"Label: at home
+
+Context: Daniel went to the garden. My head hath ak",Where is Daniel? 
+169,bedroom,"Options:
+
+A. at home
+
+B. at the office
+
+C",Where is Mary? 
+170,office,"Options:
+
+A. in the office
+
+B. in the kitchen",Where is Daniel? 
+171,office,"Options:
+
+A. office
+
+B. hallway
+
+C. garden",Where is Daniel? 
+172,garden,"Answer: at the Howff
+
+
+Question: What is the name of the",Where is John? 
+173,bathroom,Answer: bathroom,Where is Sandra? 
+174,bathroom,"Context: ""The Bey of Tunis, who is the head of the Moors in",Where is Sandra? 
+175,office,Output: in the office,Where is Sandra? 
+176,kitchen,"Output: in the kitchen
+
+<context>
+The word is, however,",Where is Sandra? 
+177,bedroom,"Answer: in the hallway.
+
+<prompter> What are the key",Where is Sandra? 
+178,office,"Context: ""I have no heart to be a martyr: I have never in my",Where is Sandra? 
+179,office,"Context: The glover was not long in making his way to the camp, where he",Where is Sandra? 
+180,hallway,"Label: The office
+
+
+Far different had been the fate of the misgu",Where is Mary? 
+181,hallway,"Label: The drawing-room in the home of the Minsters.
+
+<context",Where is Mary? 
+182,hallway,"Label: hallway
+
+
+
+
+CHAPTER XXXVII.--THE SH",Where is Daniel? 
+183,hallway,"Context: ""I was in the office,"" said Stephen, ""when the telegram came",Where is Mary? 
+184,bedroom,Context: The anarchic dogma of the sovereignty of peop,Where is Sandra? 
+185,bathroom,"Context: ""I have been thinking,"" said John, ""that I will go to the",Where is John? 
+186,office,"Label: in the bathroom
+
+
+
+
+[Decoration]",Where is Daniel? 
+187,garden,"Output: the garden.
+
+
+                     DEPOSITION OF DR. LIE",Where is Mary? 
+188,kitchen,"Answer: bedroom
+
+Question: What is the name of the person who is a",Where is Sandra? 
+189,office,Output: office,Where is Sandra? 
+190,hallway,"Context: The following is a list of the most important events in the life of Mary,",Where is Mary? 
+191,kitchen,"Options:
+- not enough information
+- the office
+- the hallway
+-",Where is Sandra? 
+192,garden,Context: The pursuit of Pemberton's army brought the Federal army to the,Where is Sandra? 
+193,hallway,"Output: the bride and bridegroom were coming along the road, and the",Where is Sandra? 
+194,hallway,"Label: The hallway
+</context>
+
+Question: What is the name of",Where is Sandra? 
+195,garden,"Context: Mary went to the garden. John went to the office. ""It's",Where is Mary? 
+196,office,"Options:
+- not enough information
+- the battlefield
+- the battlefield at",Where is John? 
+197,kitchen,"Context: The picture shows the men of the Twenty-first Michigan, who had been",Where is Daniel? 
+198,bathroom,Context: Mary was a young woman who was very beautiful. She was also very kind and,Where is Mary? 
+199,bedroom,"Answer: in the bedroom
+
+
+Question: What is the name of the man",Where is John? 
+200,hallway,Output: in the hallway,Where is Mary? 
+201,office,Output: the office.,Where is John? 
+202,office,"Label: office
+
+Context: Daniel went to the office. The Dessave de",Where is Daniel? 
+203,bedroom,"Label: The bedroom
+
+
+
+
+CHAPTER XV.
+
+WH",Where is Sandra? 
+204,hallway,"Answer: in the hallway
+
+Question: What is the name of the person who",Where is Sandra? 
+205,bathroom,"Context: ""I'm not going to marry him at all, Chris."" It was",Where is Sandra? 
+206,kitchen,"Context: ""I'm not very happy the way we are,"" said Joe. """,Where is Mary? 
+207,hallway,Context: The little house across the way sat square in the sun. The shades of,Where is Sandra? 
+208,bathroom,"Answer: bedroom
+
+
+
+
+
+End of Project Gutenberg's",Where is Daniel? 
+209,hallway,"Context: The Minstrel's hand he kindly press'd,--
+""Oh",Where is John? 
+210,bathroom,"Label: The hall
+
+
+Question: What is the name of the man who is",Where is John? 
+211,bedroom,"Context: ""I'm going to begin right at the beginning,"" Mr. Havens",Where is John? 
+212,hallway,"Label: The bedroom
+
+
+
+
+                               CHAPTER XV. “I’",Where is Daniel? 
+213,bedroom,"Options:
+- not enough information
+- in the bathroom
+- in the bed",Where is Mary? 
+214,bathroom,"Output: in the hallway
+
+<context>
+“Here’s where Miguel",Where is Sandra? 
+215,bedroom,Context: The story of Mary's life is a sad one. She was born in,Where is Mary? 
+216,bathroom,"Context: John was a man of great wealth, and he had a son, who was",Where is John? 
+217,hallway,"Output: in the hallway.
+
+
+Towards the end of the session",Where is John? 
+218,hallway,Output: the vestibule,Where is Sandra? 
+219,bathroom,"Options:
+- not enough information
+- in the hallway
+- in the garden",Where is John? 
+220,bathroom,"Options:
+- not enough information
+- in the bathroom
+- in the hall",Where is Mary? 
+221,hallway,"Output: the hallway
+
+
+
+
+THE BATTLE OF GETTY",Where is Daniel? 
+222,kitchen,Answer: hallway,Where is Daniel? 
+223,hallway,Context: The following is a list of the most important events in the life of the,Where is Sandra? 
+224,bedroom,"Context: The Eumenes, who are not so well provided with tools as the Mason",Where is John? 
+225,office,Context: The following is a list of the most important events in the life of John the,Where is John? 
+226,hallway,"Answer: in the hallway
+
+Question: What is the name of the person who",Where is Daniel? 
+227,garden,"Options:
+
+A. In the garden
+
+B. In the bathroom",Where is Sandra? 
+228,bathroom,Answer: bathroom,Where is John? 
+229,bathroom,"Context: The elm loves the vine, the vine forsakes not",Where is John? 
+230,office,"Label: office
+
+<context>
+
+Answer: Daniel went to the office.",Where is Daniel? 
+231,garden,Context: The following is a list of the most important characters in the novel.,Where is Mary? 
+232,hallway,"Context: ""I'm going to leave Jinny with you, Lige,"" said",Where is Daniel? 
+233,office,"Label: The office
+
+
+
+
+
+<context>
+
+The little town",Where is Daniel? 
+234,hallway,Answer: in the garden,Where is John? 
+235,bedroom,"Context: ""I'm going to see her,"" he said. ""I'm",Where is Mary? 
+236,bedroom,"Answer: the kitchen
+
+Question: What is the name of the man who is a",Where is Mary? 
+237,bedroom,Context: Mary went to the bedroom. Daniel journeyed to the bathroom. Daniel,Where is Mary? 
+238,bedroom,"Context: <p>Daniel journeyed to the bathroom.</p>
+
+Answer",Where is Daniel? 
+239,office,"Label: the office
+
+
+Extracted Honey. A couple of copies of",Where is Sandra? 
+240,hallway,"Context: The captain, his head wrapped in his arms, groaned, and rolled",Where is Daniel? 
+241,kitchen,Context: Mary went back to the hallway. But the singular-looking little fellow w,Where is Mary? 
+242,garden,"Output: in the garden
+
+
+The following are the names of the soldiers and sail",Where is Mary? 
+243,garden,"Label: hallway
+
+Context: John went back to the hallway. Daniel went",Where is Mary? 
+244,kitchen,Output: office.,Where is Mary? 
+245,kitchen,"Answer: in the kitchen
+
+
+
+_Transcriber's Note_",Where is John? 
+246,garden,"Context: ""I have been waiting for you,"" said the old soldier, ""for a",Where is Sandra? 
+247,garden,"Context: The following day, the Count de Lavisse, who had been sent to",Where is Sandra? 
+248,garden,"Answer: in the garden
+<context>",Where is Sandra? 
+249,garden,"Output: in the hall
+
+
+
+
+_A Selection from the Catalogue of_",Where is Daniel? 
+250,bedroom,"Label: in the counting room
+
+Context: ""I am glad you have come,",Where is Daniel? 
+251,office,"Context: ""I am glad to see you, Mary,"" said the old man, as",Where is Mary? 
+252,bathroom,"Answer: bathroom
+
+
+
+
+[Illustration: THE PRAIRIE",Where is Daniel? 
+253,bathroom,Output: in the bedroom,Where is Daniel? 
+254,bedroom,"Output: the bedroom
+
+
+
+
+[Illustration: HUMOROUS",Where is John? 
+255,bedroom,"Context: The Earl of Northumberland, who had been in the Tower, was",Where is John? 
+256,office,Output: in the garden.,Where is Sandra? 
+257,office,"Output: in the office
+
+<context>
+Context: The following is a list",Where is Sandra? 
+258,kitchen,"Context: 'The Serbs are wonderful. They are so brave, and so
+pat",Where is Mary? 
+259,garden,Context: 'I have had German measles! The Consul asked me what I meant,Where is Mary? 
+260,garden,"Context: ""I'm going to be a soldier,"" said Sandra, as she",Where is Sandra? 
+261,office,Answer: The cottage,Where is Mary? 
+262,hallway,"Context: The hermit was sitting on the edge of his couch, with his l",Where is Sandra? 
+263,office,"Context: John journeyed to the garden. ""I'm glad you're back",Where is John? 
+264,office,"Context: John journeyed to the office. ""I'm going to see the giant",Where is John? 
+265,bathroom,"Context: The major's story was finished, and the sprite was about to begin",Where is Sandra? 
+266,garden,"Context: ""It was michty tae see him come intae the yair",Where is Sandra? 
+267,bedroom,"Label: garden
+
+Question: What is the name of the man who is a convert",Where is Sandra? 
+268,bathroom,Label: The bathroom,Where is John? 
+269,bedroom,"Answer: in the garden
+
+
+
+
+CHAPTER XXVII. """,Where is Daniel? 
+270,kitchen,"Context: The boy was a stranger to the place, and he had no idea where he",Where is Daniel? 
+271,office,"Options:
+
+A. office
+
+B. Uxmal
+
+C.",Where is Sandra? 
+272,office,Label: The office,Where is Sandra? 
+273,kitchen,"Label: The office
+
+Question: What is the name of the river?",Where is Daniel? 
+274,bathroom,"Label: The bathroom
+
+
+[Footnote 303: The old man",Where is Daniel? 
+275,office,"Answer: in the office
+
+
+Question: What is the name of the man who",Where is Sandra? 
+276,kitchen,Answer: At the parsonage.,Where is Daniel? 
+277,hallway,"Label: bedroom
+
+Context: ""I have been thinking about the Indian boy,""",Where is Mary? 
+278,office,"Label: The office.
+
+
+Context: ""I am glad to see you,",Where is John? 
+279,bathroom,Context: John went to the bedroom. He had been in the bedroom for some,Where is John? 
+280,bathroom,"Label: in the bathroom
+
+
+Question: What is the name of the man",Where is Sandra? 
+281,garden,"Context: Daniel was in the garden. He had been there for some time, and",Where is Daniel? 
+282,office,"Output: in the office
+
+
+
+
+[Illustration]",Where is Sandra? 
+283,office,"Answer: in the office
+
+
+
+
+[Illustration]",Where is Sandra? 
+284,garden,"Label: The garden
+
+
+Question: What is the name of the person who is",Where is John? 
+285,office,Label: Hillerton,Where is John? 
+286,bathroom,"Label: garden
+
+Context: John went to the bedroom. The part shaded",Where is Sandra? 
+287,office,"Options:
+
+A. In the office
+
+B. In the garden",Where is John? 
+288,garden,Label: The garden,Where is Daniel? 
+289,bathroom,"Label: hallway
+
+Question: What is the name of the person who is sitting",Where is Sandra? 
+290,kitchen,"Output: in the kitchen
+
+
+
+
+/Chap. CCL./--",Where is Mary? 
+291,kitchen,"Options:
+- at the beach
+- at the beach
+- at the beach",Where is John? 
+292,bedroom,"Label: bedroom
+
+
+
+
+                              CHAPTER XV. “I wonder how",Where is John? 
+293,kitchen,"Context: ""I'm going to get out of this,"" he said, ""and",Where is Mary? 
+294,kitchen,"Context: ""I was born in the year 1819, in the city",Where is John? 
+295,garden,"Context: ""I have been in the habit of going to the convent of St. Urs",Where is Sandra? 
+296,garden,"Output: The garden
+
+
+Question: What is the name of the person who was",Where is Daniel? 
+297,hallway,Label: garden,Where is John? 
+298,hallway,"Context: ""I have been ill,"" she said; ""but I am better now,",Where is Mary? 
+299,bathroom,"Label: hallway
+
+
+
+XXVIII. THE MAN IN THE W",Where is Mary? 
+300,bathroom,"Output: in the sitting-room
+
+
+    ""I fled and cried out death",Where is Mary? 
+301,bathroom,"Options:
+- at the bathroom
+- at the bathroom
+- at the",Where is Mary? 
+302,bathroom,"Output: the drawing-room
+
+
+
+
+CHAPTER XXXIII.--THE",Where is Mary? 
+303,office,"Context: ""I'm going to the office,"" said John. ""I'll",Where is John? 
+304,hallway,"Context: ""I'm going to see the old lady,"" said Mary, ""and",Where is Mary? 
+305,garden,Answer: in the garden,Where is Daniel? 
+306,bathroom,"Answer: in the bathroom
+
+Question: What is the name of the man who",Where is Daniel? 
+307,office,"Context: ""I'm going to take the spigot out of them whisky",Where is Daniel? 
+308,office,Answer: in a poor tenement,Where is Daniel? 
+309,kitchen,"Context: ""I'm going to have a talk with you, John,"" said the",Where is John? 
+310,garden,"Answer: in the garden
+
+Question: What is the name of the man who is",Where is Daniel? 
+311,garden,"Answer: in the garden
+
+
+Question: What is the name of the man who",Where is Sandra? 
+312,office,"Context: Daniel journeyed to the garden. I have tried it long enough
+to speak",Where is Daniel? 
+313,bedroom,"Label: bedroom
+
+Question: What is the name of the priest who was st",Where is Sandra? 
+314,garden,"Context: John was a young man of about twenty-five years of age, and",Where is John? 
+315,office,Label: in the garden,Where is Mary? 
+316,bedroom,"Context: ""I have been thinking,"" said the old man, ""that I would go",Where is Daniel? 
+317,office,"Context: ""I have been thinking,"" said Mary, ""that I will go to the",Where is Mary? 
+318,office,"Context: The next morning Fred was up early, and after a hasty breakfast
+he",Where is Mary? 
+319,garden,"Label: The garden
+
+<context>
+It was not the city that Fred saw",Where is Daniel? 
+320,garden,"Context: The man who had been in the garden was a burglar, and he had",Where is John? 
+321,kitchen,"Context: The following is a list of the works of Leonardo da Vinci,",Where is Sandra? 
+322,kitchen,"Context: The simple motions are, first, when the neck bends towards the",Where is Sandra? 
+323,garden,"Label: office
+
+
+/The/ student who is desirous of making great",Where is Daniel? 
+324,garden,"Answer: in the garden
+
+
+Question: What is the name of the man who",Where is Daniel? 
+325,bathroom,"Context: ""I have been thinking,"" said the Duke of Rothsay, ""that I",Where is Sandra? 
+326,bedroom,"Context: ""I'm going to see John,"" said he, ""and I'",Where is John? 
+327,garden,"Options:
+
+A. office
+
+B. garden
+
+C. bedroom",Where is Sandra? 
+328,garden,"Output: in the office
+
+Question: Where is Daniel?
+
+Output: in",Where is Sandra? 
+329,bedroom,Context: Daniel went to the bedroom. Daniel went to the bedroom. Daniel went,Where is Daniel? 
+330,kitchen,Output: in the hallway,Where is Sandra? 
+331,office,Label: The cottage at home.,Where is John? 
+332,kitchen,"Label: The hallway.
+
+
+
+
+CHAPTER XIV. THE next",Where is Sandra? 
+333,bedroom,"Options:
+- not enough information
+- the office
+- the bedroom
+-",Where is Daniel? 
+334,bedroom,"Label: office
+
+Question: What is the name of the person who is a native",Where is Daniel? 
+335,office,"Answer: at the station
+
+Question: What is the name of the little girl?",Where is John? 
+336,hallway,"Options:
+- not enough information
+- in the hallway
+- in the N",Where is Daniel? 
+337,office,"Context: The old man's voice was low and tremulous, and his eyes",Where is Sandra? 
+338,hallway,"Output: hallway
+
+
+Question: Where is Daniel?
+
+Output: garden",Where is Sandra? 
+339,hallway,"Label: office
+
+Context: The following sketch concerning one or two of these may tend",Where is Sandra? 
+340,hallway,"Label: hallway
+
+<prompter> What is the name of the person",Where is Mary? 
+341,garden,"Context: The first volume issued to the members of the Camden Society in return
+for",Where is Mary? 
+342,office,Context: Daniel travelled to the office. It was a Sunday evening in advancing summer,Where is Daniel? 
+343,kitchen,Answer: in the kitchen.,Where is Sandra? 
+344,garden,"Label: The nunnery
+
+Context: I was now in the city of St",Where is Sandra? 
+345,office,Label: The bedroom,Where is Mary? 
+346,hallway,"Context: ""I have been detailed as police officer and detective to look after this case",Where is Daniel? 
+347,hallway,"Context: ""I am not going to be a party to any such thing,"" said John",Where is John? 
+348,kitchen,"Options:
+- not enough information
+- in the garden
+- in the hallway",Where is Mary? 
+349,kitchen,"Output: the bathroom
+
+Question: What is the name of the person who published",Where is John? 
+350,bedroom,"Options:
+- not enough information
+- in the bedroom
+- in the water",Where is Sandra? 
+351,garden,"Context: John was a man of about forty years of age, and he was a",Where is John? 
+352,garden,"Context: Sam Weller was standing at the edge of the cliff, looking down",Where is Sandra? 
+353,bedroom,"Label: bedroom
+
+
+
+
+                              CHAPTER XX. “I’m",Where is Sandra? 
+354,bedroom,"Label: bedroom
+
+
+
+
+                             CHAPTER I. The Flying Machine",Where is Sandra? 
+355,bathroom,"Label: The nunnery
+
+Context: The following is the complete text of the",Where is Sandra? 
+356,office,"Context: John was a young man of about twenty-five years of age, and was",Where is John? 
+357,hallway,"Label: The office
+
+<context>
+We left with sad hearts, and soon",Where is Mary? 
+358,garden,"Output: bedroom
+
+
+
+
+THE BROWNIES' SPRING",Where is Mary? 
+359,hallway,"Context: The following is the story of a little girl who was born in a
+h",Where is Mary? 
+360,garden,"Options:
+
+A. In the garden
+
+B. In the kitchen",Where is Daniel? 
+361,bathroom,Answer: Washington,Where is Daniel? 
+362,garden,Context: The next three years were teeming with great events. In less than a,Where is Mary? 
+363,garden,"Options:
+- not enough information
+- at the office
+- at the dinner table",Where is John? 
+364,garden,"Label: The garden
+
+<context>
+
+Answer: Daniel went back to the",Where is Daniel? 
+365,garden,"Context: The Marquess was a man of the world, and had been in the",Where is Sandra? 
+366,garden,"Context: The dish is to their taste and, moreover, plentiful, so",Where is Sandra? 
+367,hallway,"Context: The captain was a man of few words, and, when he spoke, it",Where is Daniel? 
+368,hallway,"Context: The two women were sitting together, talking over the matter,
+and endeavoring",Where is Mary? 
+369,hallway,"Options:
+- not enough information
+- at the hallway
+- at the office",Where is Daniel? 
+370,hallway,"Context: ""I'm glad to see you, ladies, and I'm",Where is Daniel? 
+371,hallway,"Context: The old man was a man of few words, but he had a way of",Where is Daniel? 
+372,garden,Output: the garden.,Where is Mary? 
+373,garden,Output: the garden.,Where is Mary? 
+374,office,"Context: Mary was in the garden.
+
+Answer: Mary was in the garden.",Where is Mary? 
+375,bedroom,"Context: ""I went to see Sir John Chardin, at Turnham Green, the",Where is Mary? 
+376,kitchen,Answer: in the garden,Where is Sandra? 
+377,bathroom,"Label: office
+
+Context: ""I'm going to take a look at the",Where is Sandra? 
+378,bathroom,"Context: ""I'm glad you've come,"" said McFarlane,",Where is Sandra? 
+379,bedroom,Label: The forest,Where is John? 
+380,bathroom,"Context: ""I'm going to have a little fun with you,"" he said,",Where is Mary? 
+381,bedroom,"Context: ""I'm glad you've come,"" said Cissy, """,Where is John? 
+382,bedroom,"Context: ""I am here trying to find out their plans, so we can keep them",Where is Mary? 
+383,office,"Answer: in the hallway
+
+Question: What is the name of the boy who",Where is Sandra? 
+384,office,"Label: bedroom
+
+Question: What is the name of the person who is in",Where is Mary? 
+385,kitchen,"Answer: in the kitchen
+
+Question: What is the first thing to do to our",Where is Sandra? 
+386,office,"Context: ""I'm afraid you will find the Spa very empty just now,""",Where is Mary? 
+387,office,Output: office,Where is John? 
+388,office,Context: The following is a list of the members of the Executive Council of the South African,Where is Mary? 
+389,kitchen,Context: The President had refused interviews to three representatives of influential London newspapers,Where is Sandra? 
+390,kitchen,"Options:
+- not enough information
+- at the battle of Gaines' Mill",Where is Mary? 
+391,hallway,"Options:
+- not enough information
+- the hallway
+- the office
+-",Where is Daniel? 
+392,bathroom,Label: in the bathroom,Where is Mary? 
+393,bedroom,"Answer: in the hallway
+<context>",Where is Mary? 
+394,office,"Label: bedroom
+
+Question: Where is Mary?
+
+Label: bathroom",Where is Sandra? 
+395,office,Context: Daniel moved to the office. Daniel moved to the office. Daniel moved to the,Where is Daniel? 
+396,bedroom,Output: the garden,Where is Daniel? 
+397,office,"Options:
+- not enough information
+- in the bedroom
+- in the garden",Where is Daniel? 
+398,bathroom,"Context: The gnomon, discovered by me in December, last year, in the",Where is Sandra? 
+399,garden,"Options:
+
+A. office
+
+B. garden
+
+C. bedroom",Where is Sandra? 
+400,bedroom,"Context: ""I'm going to see him,"" said John, ""and I'",Where is John? 
+401,garden,"Context: ""I’m glad you’ve come,"" said the girl, with a",Where is John? 
+402,bedroom,"Context: The young man’s mind was in a state of great excitement, and he",Where is John? 
+403,kitchen,"Context: The narthex was a passageway or vestibule, and the n",Where is Sandra? 
+404,office,Label: bedroom,Where is Sandra? 
+405,kitchen,"Context: The play opens in the Deanery drawing-room, with the DEAN,",Where is Daniel? 
+406,hallway,"Context: Daniel went back to the hallway. Still, the clever ones, like the",Where is Daniel? 
+407,bedroom,"Context: The Osmiae are solitary Bees, who build their nests in",Where is Sandra? 
+408,garden,"Label: office
+
+
+Context: The boys were in the office. ""I'",Where is Mary? 
+409,kitchen,"Label: The office
+
+
+Question: What is the name of the person who is",Where is Sandra? 
+410,bedroom,"Context: ""I'm going to take you to the Blackfoot Reserve,"" said the",Where is John? 
+411,garden,"Answer: in the garden
+
+
+Question: What is the name of the man who",Where is Sandra? 
+412,bathroom,"Context: ""I am not afraid of you,"" she said. ""I am not afraid",Where is Sandra? 
+413,hallway,"Label: the hospital
+
+
+
+
+_A Selection from the Catalogue of_ G",Where is Daniel? 
+414,office,"Answer: In the bathroom.
+
+
+
+
+CHAPTER VIII",Where is Sandra? 
+415,bedroom,"Label: in the car
+
+
+
+
+CHAPTER X
+
+THE SC",Where is Daniel? 
+416,bedroom,Answer: in the bedroom,Where is Daniel? 
+417,kitchen,"Output: in the garden.
+
+
+
+
+CHAPTER XVI
+
+THE",Where is John? 
+418,hallway,"Context: ""I'm not going to be a burden to you,"" she said",Where is Sandra? 
+419,bathroom,"Options:
+- at the bathroom
+- in the garden
+- in the hall",Where is Sandra? 
+420,hallway,"Context: ""I'm going to the mountains,"" said Sandra. ""I'",Where is Sandra? 
+421,hallway,Output: hallway,Where is Sandra? 
+422,bathroom,"Label: The bathroom
+
+
+
+
+                              CHAPTER XVII. –––",Where is Sandra? 
+423,hallway,"Context: The Colonel's face was long and thin, and his nose was straight.",Where is Daniel? 
+424,bedroom,Label: The bedroom,Where is Mary? 
+425,kitchen,"Context: ""I have been so weak as to admire a man whom my uncle will",Where is John? 
+426,kitchen,"Context: ""I have been thinking,"" said he, ""that I might as well",Where is John? 
+427,office,Label: office,Where is John? 
+428,bedroom,"Options:
+- not enough information
+- in the garden
+- in the bedroom",Where is Sandra? 
+429,bedroom,"Context: 1, represents the mode of carrying the bombarding frame
+and ammun",Where is Sandra? 
+430,office,"Context: ""I'm going to tell you a story,"" said the sprite, """,Where is John? 
+431,kitchen,"Context: ""I'm going to see if I can't have
+myself",Where is John? 
+432,kitchen,"Label: garden
+
+
+
+
+CHAPTER XIV. THE next day was a",Where is Mary? 
+433,kitchen,"Context: ""I'm going to have a little party to-night,"" said T",Where is Mary? 
+434,office,"Context: ""I'm going to take Vesta to the park,"" he said,",Where is Daniel? 
+435,garden,"Context: ""I have been in Washington for twenty years, and I have never
+known",Where is Sandra? 
+436,kitchen,"Context: ""I'm going to the garden,"" said Mary. ""I'm",Where is Mary? 
+437,bathroom,Output: in the bathroom,Where is John? 
+438,bedroom,"Options:
+- not enough information
+- the bedroom
+- the garden
+-",Where is Daniel? 
+439,garden,"Answer: in the garden
+
+Question: Where is Mary?
+
+Answer: in",Where is John? 
+440,bedroom,"Output: in the bedroom
+
+
+
+
+THE BATTLE OF SP",Where is Sandra? 
+441,hallway,"Context: The next day, after breakfast, Dan went to the counting-room of Bart",Where is Daniel? 
+442,bathroom,"Label: The hallway
+
+Context: ""I am glad to see you, Mr",Where is Daniel? 
+443,garden,"Answer: in the garden
+
+
+
+
+THE SUN'S ROTATION",Where is Mary? 
+444,bedroom,Answer: the garden,Where is Daniel? 
+445,garden,Output: the garden,Where is Daniel? 
+446,bedroom,Answer: in the bedroom,Where is Sandra? 
+447,hallway,"Label: The major
+
+<context>
+One was by getting aboard",Where is Daniel? 
+448,garden,"Answer: in the hallway
+
+Question: What is the name of the Earl of",Where is Daniel? 
+449,kitchen,"Context: ""I have been a soldier, and I know the weight of armour,""",Where is Sandra? 
+450,kitchen,"Label: Butterhill
+
+
+
+
+
+<context>",Where is John? 
+451,kitchen,"Answer: the cave
+
+<context>
+To this, the Parson made no",Where is John? 
+452,kitchen,"Options:
+- not enough information
+- in the office
+- in the bedroom",Where is Sandra? 
+453,garden,Label: garden,Where is Sandra? 
+454,bathroom,"Label: garden
+
+
+Context: ""Padre,"" said Rosendo, when the",Where is Sandra? 
+455,kitchen,"Output: the kitchen
+
+
+
+
+CHAPTER XII
+
+THE LAST",Where is Sandra? 
+456,bedroom,"Output: in the garden
+
+
+_Monday._--I came downst",Where is Mary? 
+457,hallway,Context: John was a very good boy and he was very good to his mother. He,Where is John? 
+458,garden,"Context: ""I'm going to the store,"" he said. ""I'll",Where is John? 
+459,hallway,"Label: hallway
+
+</context>
+
+Question: What is the name of",Where is Sandra? 
+460,bathroom,Output: in the bathroom,Where is Sandra? 
+461,garden,"Context: The next day, after the usual morning prayers, the Abbess came to",Where is Sandra? 
+462,bedroom,Output: at the office,Where is John? 
+463,office,"Context: ""John, I'm going to the picnic at Sucker Brook to",Where is John? 
+464,garden,"Context: John was a very handsome man and was a great favorite with the
+lad",Where is John? 
+465,garden,"Label: in the garden
+
+
+
+
+CHAPTER XXVII. """,Where is Sandra? 
+466,bedroom,"Answer: in the kitchen
+<context>
+""I'm going to take a",Where is Daniel? 
+467,bedroom,Context: Daniel was in the kitchen. He had been in the kitchen for a long time,Where is Daniel? 
+468,bedroom,"Context: ""I'm going to take you to the city,"" said the old man",Where is Sandra? 
+469,office,Answer: in the office,Where is John? 
+470,hallway,"Context: The two young men had been walking together, and had just reached the gate of",Where is Mary? 
+471,office,Label: aft,Where is Mary? 
+472,office,"Options:
+
+A. in the hallway
+
+B. in the office",Where is Mary? 
+473,bathroom,Answer: in the hallway.,Where is John? 
+474,kitchen,"Output: in the park
+
+
+
+
+                              CHAPTER X. –––",Where is John? 
+475,garden,"Answer: In the dull soil
+
+Question: What is the name of the person",Where is John? 
+476,bathroom,"Options:
+- not enough information
+- in the kitchen
+- in the dining",Where is Mary? 
+477,kitchen,"Options:
+- not enough information
+- the kitchen
+- the bedroom
+-",Where is Sandra? 
+478,garden,Label: garden,Where is John? 
+479,bathroom,"Output: bathroom
+
+
+Question: Where is Mary?
+
+Output: hall",Where is John? 
+480,bedroom,"Output: bedroom
+
+Question: What is the name of the person who is in",Where is Sandra? 
+481,bedroom,"Output: 1785, p. 111, and who was",Where is Sandra? 
+482,hallway,"Answer: in the hallway
+
+
+Question: What is the name of the man",Where is Daniel? 
+483,hallway,Answer: hallway,Where is John? 
+484,garden,A: hallway,Where is John? 
+485,bedroom,"Output: in the garden
+
+Question: What is the name of the person who moved",Where is Daniel? 
+486,bathroom,"Context: ""I'm a sight older nor you, mate, an' I'",Where is Sandra? 
+487,hallway,"Context: Daniel went back to the hallway. ""One morning, when the servants returned",Where is Daniel? 
+488,bedroom,"Context: The next day, however, having made up her mind that the poor creature",Where is John? 
+489,bathroom,Answer: office,Where is Daniel? 
+490,kitchen,"Context: ""The train is off,"" said the conductor, as he stepped into the",Where is Daniel? 
+491,bedroom,Answer: the public.,Where is John? 
+492,bedroom,"Output: to Brampton
+
+Context: John went to the kitchen. In other",Where is John? 
+493,garden,Context: John went to the bedroom. John went to the bedroom. John went,Where is John? 
+494,garden,"Context: John went to the bedroom. He was a very good boy, and he",Where is John? 
+495,kitchen,Context: <p>The following is a list of the 100 most common,Where is Mary? 
+496,kitchen,"Context: The boy was by this time awake also, and on his feet. To",Where is Mary? 
+497,bedroom,Context: Mary went to the bedroom. Mary went to the bedroom. Mary went,Where is Sandra? 
+498,hallway,"Options:
+
+A. in the hallway
+
+B. in the bedroom",Where is John? 
+499,hallway,"Context: John went to the office. He was a man of great learning, and",Where is John? 
+500,kitchen,"Output: in the parlor
+
+
+Question: What is the name of the person",Where is Daniel? 
+501,garden,"Output: in the garden
+
+------------------------------------------------------------------------
+
+THE WORLD",Where is Daniel? 
+502,bathroom,"Answer: The garden
+
+Question: What is the name of the country that in historical",Where is Daniel? 
+503,hallway,"Output: hallway
+
+
+The following article is a summary of the article of the",Where is John? 
+504,bathroom,"Context: The Moors are a very superstitious people, and the Arabs",Where is Daniel? 
+505,kitchen,"Label: Tunis
+
+Question: What is the name of the man who was killed",Where is Mary? 
+506,bedroom,"Context: ""I had almost forgotten her when, several years later, in the lobb",Where is Sandra? 
+507,office,"Context: Daniel journeyed to the office. the guards were called in, and the",Where is Daniel? 
+508,office,"Label: The office
+
+
+
+
+CHAPTER II.
+
+The w",Where is Daniel? 
+509,bedroom,"Label: bedroom
+
+
+Question: What is the name of the person who is",Where is Daniel? 
+510,bedroom,Context: The Dessave is also obliged to see that the tithes are paid,Where is John? 
+511,office,"Output: the bedroom.
+
+
+Question: What is the name of the person",Where is Mary? 
+512,bedroom,"Output: in the bedroom.
+
+
+
+
+CHAPTER VIII. THE",Where is Mary? 
+513,bedroom,"Answer: bedroom
+
+Question: What is the name of the man who was a",Where is Mary? 
+514,office,"Label: office
+
+Context: The two fighters drew lots to find out which",Where is Daniel? 
+515,bathroom,"Label: in the bathroom
+
+Context: Mary was a young girl who lived in",Where is Mary? 
+516,bathroom,"Label: The bathroom
+
+
+
+
+[Illustration]",Where is Daniel? 
+517,bedroom,"Context: ""I'm going to have a little girl,"" she said, ""and",Where is Sandra? 
+518,hallway,"Context: The man would report that no dead or
+dying worm had been sight",Where is Daniel? 
+519,garden,Answer: The bathroom,Where is Daniel? 
+520,office,Label: The office.,Where is Sandra? 
+521,office,Answer: the office,Where is Daniel? 
+522,hallway,"Answer: In the garden.
+
+
+Question: What is the name of the man",Where is Daniel? 
+523,hallway,Answer: in the stable,Where is Daniel? 
+524,garden,"Context: ""I'm a Methodist minister, ma'am, and I'",Where is Sandra? 
+525,hallway,"Options:
+
+A. in the garden
+
+B. in the house",Where is Mary? 
+526,office,"Context: ""I'm not going to marry you,"" he said. ""I'",Where is Daniel? 
+527,garden,"Context: ""I'm going to have a little talk with you, Daniel,"" said",Where is Daniel? 
+528,garden,"Answer: The office.
+
+</context>
+
+Question: What is the name",Where is Daniel? 
+529,hallway,"Context: ""The King was in the habit of going to bed at nine o'clock",Where is Mary? 
+530,garden,"Context: The Duke of Wellington, who had been in the habit of attending the",Where is John? 
+531,garden,"Answer: In the House of Commons.
+
+
+/Chap. CCVII",Where is John? 
+532,garden,"Context: John went to the bedroom.
+
+Output: bedroom",Where is John? 
+533,office,Context: The following is a list of the most important works of Leonardo da Vinci,Where is Sandra? 
+534,bathroom,Context: The soldiers of the Republic finished what the soldiers of the Revolution commenced. They,Where is Daniel? 
+535,garden,"Context: ""I have been in countries where the laboring man had meat once a year",Where is Sandra? 
+536,bedroom,Label: The rampart of hills overlooking the Piegan encampment,Where is Sandra? 
+537,hallway,"Answer: the hallway
+
+
+Question: What is the name of the person who",Where is Sandra? 
+538,hallway,"Label: at the office
+
+Context: ""I'm glad to see you,",Where is Sandra? 
+539,bedroom,"Label: bedroom
+
+
+""I'm going to see Rickrose,"" said",Where is Sandra? 
+540,garden,"Context: ""I'm going to take a look at the Point,"" he said.",Where is John? 
+541,office,"Answer: in the office
+
+
+
+
+
+<context>",Where is Mary? 
+542,hallway,"Context: ""I'm going to marry Daniel,"" she said. ""I'm",Where is Daniel? 
+543,hallway,"Context: ""I'm going to see the old man,"" said John, as he",Where is John? 
+544,kitchen,Context: Daniel went to the garden. He was always on the outlook for faults,Where is Daniel? 
+545,garden,Label: in the garden,Where is Sandra? 
+546,kitchen,"Context: ""I'm going to have a little fun with you, Mary,"" he",Where is Mary? 
+547,kitchen,Answer: in the hallway,Where is Mary? 
+548,hallway,"Context: John went back to the hallway. The doctor was a man of
+strong",Where is John? 
+549,bedroom,"Context: Daniel journeyed to the hallway. He was a tall, well-built",Where is Daniel? 
+550,bedroom,"Context: John was a very good man, and he was a very good father. He",Where is John? 
+551,bathroom,"Options:
+
+A. In the field
+
+B. In the jungle",Where is John? 
+552,office,Answer: in the wardroom.,Where is John? 
+553,bedroom,Answer: in the garden,Where is Daniel? 
+554,kitchen,"Options:
+- not enough information
+- in the garden
+- in the bedroom",Where is Daniel? 
+555,hallway,"Label: The hallway
+
+
+Question: What is the name of the person who",Where is Sandra? 
+556,kitchen,"Output: the late William Wood, Esq., it was suggested that they be again",Where is Mary? 
+557,bedroom,Context: Daniel journeyed to the bedroom. He had a stroke of paralysis,Where is Daniel? 
+558,bedroom,Answer: in the parlor,Where is Daniel? 
+559,bedroom,"Answer: in the hallway.
+
+
+
+
+[1] The Moors",Where is Mary? 
+560,garden,"Label: garden
+
+<context>
+
+Answer: The old man will apply",Where is Daniel? 
+561,bedroom,"Context: ""I'm going to take a bath,"" she said, and went into",Where is Sandra? 
+562,garden,"Context: ""I'm going to take a little trip,"" he said, ""and",Where is Sandra? 
+563,kitchen,Label: The ranger's cabin,Where is Daniel? 
+564,bedroom,"Answer: bedroom
+
+Question: What is the name of the person who is a",Where is Sandra? 
+565,bathroom,"Context: The Osmia is a solitary insect, who, when she has found",Where is John? 
+566,bathroom,"Options:
+- not enough information
+- at the beach
+- at the airport",Where is John? 
+567,kitchen,"Output: the hall
+
+
+
+
+[Decoration]
+
+
+XX.",Where is Daniel? 
+568,bedroom,"Output: in the hallway.
+
+
+
+
+[Decoration]",Where is Sandra? 
+569,bedroom,"Answer: in the hallway
+
+Question: What is the name of the person who",Where is Sandra? 
+570,bedroom,"Context: ""I'm glad to see you, Lester,"" she said, """,Where is Daniel? 
+571,bedroom,"Context: The first thing that attracted the attention of the party was the
+beaut",Where is Daniel? 
+572,kitchen,"Context: ""I have been thinking,"" said Aunt Katy, ""that I would",Where is Sandra? 
+573,kitchen,Label: The hallway,Where is John? 
+574,office,"Context: 
+
+A: In the office
+
+B: In the garden",Where is Sandra? 
+575,bathroom,"Context: ""I'm going to see John,"" said the little girl. ""I",Where is John? 
+576,bedroom,"Output: in the direction of the Ganges.
+
+
+
+
+CHAPTER",Where is John? 
+577,hallway,Label: The hallway.,Where is Daniel? 
+578,bedroom,"Label: bedroom
+
+Question: What is the name of the person who is in",Where is Daniel? 
+579,bedroom,Context: Daniel journeyed to the hallway. Daniel journeyed to the hallway.,Where is Daniel? 
+580,hallway,"Answer: in the hallway
+
+
+
+Question: What is the name of the",Where is John? 
+581,hallway,"Context: ""I'm going to take a little trip,"" said Jimmieboy",Where is John? 
+582,garden,"Options:
+
+A. In the garden
+
+B. In the bedroom",Where is Daniel? 
+583,kitchen,Context: Daniel went back to the bedroom. Leonard was soon heard stamping the snow,Where is Daniel? 
+584,bedroom,Answer: in the bedroom,Where is Mary? 
+585,bedroom,"Options:
+
+A. bedroom
+
+B. bathroom
+
+C.",Where is Sandra? 
+586,garden,"Options:
+
+- the bedroom
+
+- the garden
+
+- the hall",Where is Sandra? 
+587,hallway,"Label: The bedroom
+
+Context: Daniel went to the bedroom. As a",Where is Daniel? 
+588,bedroom,"Options:
+- not enough information
+- at the library
+- at the club",Where is John? 
+589,bedroom,"Label: bedroom
+
+
+Question: What is the name of the man who is",Where is Mary? 
+590,office,"Context: The old man was standing up, near the edge of the stage, holding in",Where is Sandra? 
+591,hallway,"Answer: in the office
+
+
+
+
+[Decoration]",Where is Mary? 
+592,office,"Options:
+- not enough information
+- at the office
+- at the park",Where is John? 
+593,garden,"Context: ""I'm going to the office,"" said John. ""I'll",Where is John? 
+594,bathroom,Label: garden,Where is John? 
+595,bathroom,"Answer: in the bathroom
+
+Question: What is the name of the man who",Where is Sandra? 
+596,office,"Label: in the office.
+
+
+
+
+                              CHAPTER XVI. ––",Where is Sandra? 
+597,office,"Label: at home
+
+
+
+
+                               CHAPTER I. ––––",Where is Sandra? 
+598,garden,"Label: The hallway
+
+Question: What is the name of the person who is",Where is Daniel? 
+599,bedroom,Label: bedroom,Where is Daniel? 
+600,bedroom,"Context: ""I'll be with you in a moment,"" said John, as he",Where is John? 
+601,bedroom,"Context: ""I'll be d--n'd if I do,"" said the",Where is Sandra? 
+602,kitchen,"Context: ""I am here, my lord, to get what is mine--mine,""",Where is Mary? 
+603,kitchen,Context: The inspector opened the door and stood aside to allow her to pass. She,Where is Sandra? 
+604,office,"Label: office
+
+
+
+
+                              CHAPTER XIII.
+
+                        THE",Where is John? 
+605,garden,"Context: ""I'm going to take a look at the _Ann_,""",Where is Mary? 
+606,kitchen,"Label: The kitchen
+
+
+
+
+                              CHAPTER XX. “I’m",Where is John? 
+607,hallway,"Label: The parsonage
+
+Question: What is the name of the person who",Where is John? 
+608,garden,"Answer: in the garden
+
+<context>
+""No, I'm not",Where is Sandra? 
+609,bedroom,"Options:
+
+A. in the garden
+
+B. in the hallway",Where is Daniel? 
+610,kitchen,"Output: in the office
+
+
+
+
+/Chap. CLXXXIV./",Where is Daniel? 
+611,office,"Output: in the office
+
+
+/The/ shadows of the flesh colour will",Where is Sandra? 
+612,bathroom,"Context: ""I'm going to have a talk with you,
+Phil,""",Where is Daniel? 
+613,garden,"Context: John journeyed to the office. He was a man of great intellect, of",Where is John? 
+614,bathroom,"Label: bathroom
+
+
+
+
+414. The Gospel of Liber",Where is Sandra? 
+615,office,"Context: ""I am glad you have come,"" said I. ""I have been waiting",Where is Daniel? 
+616,kitchen,"Label: R----
+
+
+
+XXVIII. THE MISSING LIN",Where is Sandra? 
+617,hallway,"Output: in the hallway
+
+Question: What is the name of the poison which",Where is Daniel? 
+618,kitchen,"Answer: the office
+
+Question: What is the name of the person who is in",Where is Mary? 
+619,office,"Label: The office
+
+Question: What is the name of the person who is the",Where is Sandra? 
+620,garden,Label: Monmouth House,Where is John? 
+621,office,Output: in the bedroom,Where is Mary? 
+622,office,"Context: Mary journeyed to the bathroom. She washed her face and hands,",Where is Mary? 
+623,kitchen,"Context: The following is a list of the officers and men of the
+Minnesota",Where is Sandra? 
+624,bathroom,"Context: ""John, John, John, where are you?"" he cried. ""John",Where is John? 
+625,bedroom,"Answer: In the hall.
+
+Question: What is the name of the man who",Where is Daniel? 
+626,bathroom,Answer: In the bathroom.,Where is John? 
+627,bathroom,Context: John went back to the bedroom. Because he is a _share_-,Where is John? 
+628,bedroom,Label: bedroom,Where is John? 
+629,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. I",Where is John? 
+630,bathroom,"Context: The following is a list of the books published by Frank Tousey,",Where is John? 
+631,bedroom,"Context: ""I have been in the Cape for five and a half months, and I",Where is Mary? 
+632,bedroom,"Context: ""I have been in the garden,"" he said. ""On this occasion he",Where is Mary? 
+633,kitchen,"Answer: in the hallway
+
+
+
+Question: What is the name of the",Where is Mary? 
+634,garden,"Answer: in the hallway
+<context>
+of Simes and White, Phil",Where is John? 
+635,garden,"Answer: in the tent
+
+Question: What is the name of the person who is",Where is John? 
+636,garden,"Context: The next morning the battle was renewed. The Confederates were
+driven",Where is Sandra? 
+637,kitchen,"Answer: in the garden
+
+     The following corrections have been made to the original",Where is John? 
+638,hallway,"Context: The following is the text of the letter written by Mary to her father,",Where is Mary? 
+639,bathroom,Label: hallway,Where is Sandra? 
+640,garden,"Context: ""The Chieftain joins him, see--and now,",Where is Daniel? 
+641,garden,"Output: the morning of the 14th of July, and the two physicians",Where is Daniel? 
+642,bedroom,"Context: The Duke of Orleans, who had been in the habit of visiting the",Where is Daniel? 
+643,office,Context: John went back to the bedroom. John went back to the bedroom.,Where is John? 
+644,garden,"Context: The other day there came shoemakers, potters, workers in wood and",Where is Sandra? 
+645,garden,"Answer: the garden
+
+
+
+
+CHAPTER IV. “The Lord is",Where is Mary? 
+646,hallway,"Answer: in the smoking-room
+
+
+
+
+[Illustration]",Where is Sandra? 
+647,office,"Label: The office.
+
+
+
+
+<context>
+“I’m",Where is Sandra? 
+648,kitchen,"Context: ""I'm going to take a look at the newest thing in h",Where is Sandra? 
+649,kitchen,"Context: ""I'm glad you're back,"" she said, with a",Where is Sandra? 
+650,bathroom,"Context: The nunnery was a square of high walls, with a gate in each",Where is Daniel? 
+651,garden,"Context: ""I have been thinking,"" said the girl, ""that I would like to",Where is Sandra? 
+652,kitchen,"Context: The boy was pale and restless, and his eyes without bandage or glass",Where is Daniel? 
+653,kitchen,"Context: ""I'm going to be a great actress,"" she said. ""I",Where is Mary? 
+654,garden,Label: in the garden,Where is Mary? 
+655,bathroom,Answer: in the bathroom,Where is Mary? 
+656,kitchen,"Options:
+- not enough information
+- in the bathroom
+- in the office",Where is John? 
+657,kitchen,"Output: in the garden
+
+<context>
+
+John went to the garden.",Where is John? 
+658,garden,Output: the President had been intercepted by Morris. The letter to Barlow was written,Where is Daniel? 
+659,kitchen,"Label: garden
+
+Question: Where is Mary?
+
+Label: garden",Where is Daniel? 
+660,kitchen,"Context: ""I'm not going to be a part of this,"" she said.",Where is Sandra? 
+661,kitchen,"Output: in the hallway.
+
+Question: Where is John?
+
+Output",Where is Sandra? 
+662,garden,"Context: The riot was the result of a series of events which had been
+pre",Where is John? 
+663,bedroom,"Answer: in the hallway.
+
+Question: What is the name of the mon",Where is Mary? 
+664,bedroom,"Context: ""I'm going to take a little trip,"" he said. ""I",Where is Mary? 
+665,bathroom,"Context: ""I'm going to take a little trip,"" he said, ""and",Where is Mary? 
+666,office,"Context: The boys had been in the air for about an hour when they saw
+the",Where is Daniel? 
+667,office,"Context: John was a very rich man. He had a large family, and he was",Where is John? 
+668,office,Context: John went back to the hallway. Because he offers a horn to every one,Where is John? 
+669,office,"Options:
+- not enough information
+- the garden
+- the hallway
+-",Where is John? 
+670,bedroom,Answer: in the office,Where is John? 
+671,bedroom,"Answer: in the
+
+Context:
+
+""John,"" said Frank, ""I",Where is John? 
+672,office,"Answer: in the mountains
+
+
+
+Question: What is the name of the man",Where is Daniel? 
+673,bathroom,Context: Daniel went to the office. He had been in New Orleans but a few days,Where is Daniel? 
+674,kitchen,Label: office,Where is Mary? 
+675,bathroom,Context: Mary was a little girl who lived in a small village in the mountains. She,Where is Mary? 
+676,office,Context: The man who is in the habit of using alcoholic drinks can not,Where is Mary? 
+677,hallway,"Answer: hallway
+
+Question: What is the name of the instrument that is played",Where is Sandra? 
+678,hallway,"Options:
+
+A. hallway
+
+B. bathroom
+
+C.",Where is Sandra? 
+679,hallway,Context: The next question will be the direction of the bars. The reader will understand at,Where is Sandra? 
+680,kitchen,"Answer: in the direction of the old fort
+
+
+
+
+                             CHAPTER",Where is Daniel? 
+681,kitchen,Context: The Goodwood Plunger knit his eyebrows and closed the,Where is Daniel? 
+682,kitchen,"Context: ""I'm sure I don't know,"" said Mary, with a",Where is Mary? 
+683,office,Context: Mary went back to the garden. Daniel went back to the garden. Daniel went,Where is Mary? 
+684,bathroom,"Context: Daniel went back to the garden. He had been sitting in the
+garden",Where is Daniel? 
+685,garden,"Context: ""I'm glad to see you, Lester,"" said John, """,Where is John? 
+686,bathroom,Label: Wotton,Where is Mary? 
+687,office,"Label: Wotton
+
+Context: Daniel journeyed to the office. My brother",Where is Daniel? 
+688,bathroom,"Context: ""John journeyed to the bathroom.""
+
+Output: the bathroom",Where is John? 
+689,hallway,Label: hallway,Where is John? 
+690,garden,"Label: in the study
+
+</context>
+
+Question: What is the name",Where is Sandra? 
+691,bathroom,Answer: in the garden,Where is Sandra? 
+692,bathroom,"Context: The Prayer Book is a book of prayers, and the Pray",Where is Sandra? 
+693,office,"Options:
+
+A. in the garden
+
+B. in the hallway",Where is Sandra? 
+694,garden,Context: Mary went to the hallway. I had a designe to comprehend all,Where is Mary? 
+695,garden,"Context: Mary was a young girl of about eighteen years of age, and was",Where is Mary? 
+696,garden,Context: Dan was in the habit of selling papers in front of the Astor House,Where is Mary? 
+697,bedroom,"If there is no answer, the answer is ""not set"".",Where is Sandra? 
+698,kitchen,Context: The stage is empty. A door at left opens. A man in a,Where is Sandra? 
+699,bedroom,"Output: bedroom
+
+Question: Where is Mary?
+
+Output: hallway",Where is Daniel? 
+700,hallway,"Context: The following is a list of the characters in the play, and the actors who",Where is Mary? 
+701,hallway,"Output: in the hallway.
+
+<context>
+The inhabitants of this Com",Where is Mary? 
+702,bathroom,"Output: in the hallway
+
+Question: Where is John?
+
+Output:",Where is John? 
+703,bathroom,"Answer: In the hallway.
+
+
+Context: ""I'm glad",Where is John? 
+704,office,"Context: The _only_ reason I can see
+  For praising him is--",Where is John? 
+705,hallway,Context: The following is a list of the most important cities in Morocco. The,Where is Mary? 
+706,hallway,"Label: in the hallway
+
+Context: Mary moved to the hallway. It",Where is Mary? 
+707,bathroom,Label: Tunis,Where is Daniel? 
+708,office,"Options:
+- in the office
+- in the bathroom
+- in the bed",Where is Sandra? 
+709,hallway,"Answer: In the hallway.
+
+Question: What is the name of the person",Where is Mary? 
+710,garden,"Answer: in the bathroom
+
+Question: What is the name of the man who",Where is John? 
+711,garden,Context: Daniel journeyed to the office. It is built as simply as it well can,Where is Sandra? 
+712,kitchen,"Answer: at the office
+</context>
+
+Question: What is the name of",Where is John? 
+713,kitchen,"Answer: The garden
+
+Question: What is the name of the little girl?",Where is Sandra? 
+714,hallway,"Label: in the hallway
+
+
+Question: What is the name of the little",Where is Daniel? 
+715,garden,"Context: The Duke had prepared me for much beauty, but the reality exceeds his report",Where is Sandra? 
+716,hallway,"Label: hallway
+
+
+Context: The Duke of Omnium was a man",Where is Mary? 
+717,office,"Label: in the office
+
+Context: Daniel went to the office. He was a",Where is Daniel? 
+718,hallway,"Context: ""I'm not a bit afraid,"" she said, ""but I'",Where is Mary? 
+719,office,"Context: The boys were astounded by this revelation, but they did not doubt that",Where is Sandra? 
+720,garden,"Answer: in the garden
+
+
+
+
+[Illustration]",Where is Daniel? 
+721,hallway,"Answer: hallway
+
+
+
+
+[Illustration]
+
+
+
+
+[",Where is Sandra? 
+722,garden,"Context: The answer is that he is in the garden.
+
+Answer: The garden",Where is Daniel? 
+723,office,"Context: ""I'm going to have a little fun,"" said the young man,",Where is Sandra? 
+724,office,Output: the bedroom.,Where is Sandra? 
+725,garden,"Output: in the garden
+
+Question: What is the name of the person who went",Where is Sandra? 
+726,office,"Output: London.
+
+(35) The Chronicle of Robert of Glouc",Where is John? 
+727,bathroom,"Output: office.
+
+(43) See the account in the Chronicle of",Where is Mary? 
+728,garden,"Context: Mary went back to the hallway. The Eumenes, who are so",Where is Mary? 
+729,bathroom,Context: Daniel went back to the bathroom. Daniel went back to the bathroom.,Where is Daniel? 
+730,bedroom,"Context: ""I am a stranger to you, but I deem it my duty to",Where is John? 
+731,bedroom,Label: in the bedroom,Where is John? 
+732,hallway,Context: The Rover boys were in the midst of a wild adventure in the j,Where is Sandra? 
+733,office,"Label: bedroom
+
+Context: ""I'm glad to say I have--",Where is Mary? 
+734,bedroom,"Context: Daniel went back to the hallway. ""It looks pretty good,"" said C",Where is Daniel? 
+735,hallway,"Context: ""I'm not in the habit of discussing business with strangers,",Where is John? 
+736,bathroom,"Context: The Duke of Orleans, who had been in the habit of visiting the",Where is Sandra? 
+737,bathroom,"Label: garden
+
+<context>
+The death of the former King at
+once",Where is John? 
+738,bathroom,"Context: The Earl of Warwick, who had been the chief instrument of the
+de",Where is John? 
+739,kitchen,Context: John went back to the garden. Daniel went back to the bedroom. John,Where is John? 
+740,garden,Context: John was a very good man. He was a very good man. He was,Where is John? 
+741,garden,"Context: ""I have been in the habit of taking a great deal of exercise because I",Where is John? 
+742,kitchen,"Label: Nerac
+
+<context>
+""I thought I could not do",Where is Daniel? 
+743,office,"Context: The girl's face was white and drawn, and her eyes were
+st",Where is Sandra? 
+744,bathroom,"Answer: in the hallway
+
+
+Question: What is the name of the man",Where is Daniel? 
+745,bedroom,"Context: ""I have been thinking,"" said the judge, ""that you had better",Where is Daniel? 
+746,bathroom,"Options:
+
+A. In the bathroom
+
+B. In the office",Where is John? 
+747,hallway,"Label: Danville
+
+
+Context: The next morning the boys were up early,",Where is John? 
+748,office,Label: The bathroom,Where is John? 
+749,kitchen,"Answer: On board a ship.
+
+
+Question: What is the name of the",Where is John? 
+750,office,Label: office,Where is Sandra? 
+751,office,Output: in the bedroom,Where is Sandra? 
+752,hallway,"Context: ""I thought she would come,"" he said to himself, with a smile.",Where is Daniel? 
+753,bedroom,Label: bedroom,Where is Mary? 
+754,hallway,"Label: The court-yard
+
+Question: What is the name of the comet",Where is Daniel? 
+755,garden,"Context: The squirrel was sitting on the fence, and the parrot was",Where is Daniel? 
+756,garden,"Context: ""I have been to the tower,"" said Daniel, ""and I have seen",Where is Daniel? 
+757,office,"Label: The office.
+
+
+Question: What is the name of the person who",Where is John? 
+758,kitchen,"Label: garden
+
+Context: Daniel went to the garden. He had been in the",Where is Sandra? 
+759,bathroom,"Context: Mary went to the bathroom.
+
+Answer: in the bathroom",Where is Mary? 
+760,office,"Context: ""I have been thinking,"" said the doctor, ""that I will go to",Where is Sandra? 
+761,bedroom,"Context: ""I have been thinking,"" said Doctor Louis, ""that it would be well",Where is Sandra? 
+762,bathroom,Label: bedroom,Where is Mary? 
+763,garden,"Context: Daniel was a man of colossal ideas, and from the picturesque location",Where is Daniel? 
+764,hallway,"Output: the garden.
+
+
+Insects in Illinois. Forbes, State",Where is Daniel? 
+765,kitchen,"Context: ""Sandra travelled to the kitchen.""",Where is Sandra? 
+766,bathroom,"Context: ""I'm not sure,"" said Daniel, ""but I think I'",Where is Daniel? 
+767,kitchen,"Label: hallway
+
+Question: What is the name of the person who was the",Where is John? 
+768,hallway,"Label: The hallway
+
+
+Context: The Duke of Omnium was a",Where is Daniel? 
+769,bedroom,"Options:
+- not enough information
+- the hospital
+- the ward
+-",Where is John? 
+770,bathroom,"Label: in the barn
+
+
+Question: What is the name of the woman",Where is Daniel? 
+771,bedroom,Label: The park,Where is John? 
+772,office,Output: the same truth. Whatever aids man in the pursuit of the,Where is John? 
+773,office,"Label: bathroom
+
+Question: What is the name of the person who is the",Where is John? 
+774,kitchen,"Options:
+- the park
+- the mansion
+- the garden
+- the",Where is Mary? 
+775,kitchen,Answer: in the kitchen,Where is Daniel? 
+776,bathroom,Answer: in the garden,Where is John? 
+777,bathroom,"Context: The next day, after breakfast, John went to the office, and
+found",Where is John? 
+778,bathroom,Output: in the bathroom,Where is John? 
+779,office,"Output: the bathroom
+
+Question: Where is Mary?
+
+Output: the",Where is Daniel? 
+780,bedroom,"Label: London
+
+
+
+
+                               CHAPTER VI.
+
+             THE RO",Where is John? 
+781,office,"Output: at home
+
+Context: Daniel went to the office. I went to see",Where is Daniel? 
+782,office,Label: The hallway,Where is Daniel? 
+783,bathroom,Label: The bathroom,Where is John? 
+784,hallway,"Output: in the hallway.
+
+Question: Where is Mary?
+
+Output",Where is Sandra? 
+785,office,"Context: John was in the garden.
+
+Answer: in the garden",Where is John? 
+786,office,Label: in the bathroom,Where is John? 
+787,hallway,"Label: the bathroom
+
+
+
+
+CHAPTER VIII. THE OST",Where is Mary? 
+788,hallway,"Label: bedroom
+
+<context>
+Another Osteopathic doctor",Where is Mary? 
+789,garden,"Context: The boy was sent to the office for the money, and he was told to",Where is Sandra? 
+790,garden,"Context: The next day, when the men were at work, Rushton went to",Where is Sandra? 
+791,garden,"Context: The King was seated with his brother Albany, whose affected austerity",Where is Sandra? 
+792,garden,"Context: ""I have been thinking,"" said the Duke, ""that it would be well",Where is Sandra? 
+793,office,Answer: in the garden.,Where is John? 
+794,garden,"Output: in the garden.
+
+
+The preface to the translation of Shandy",Where is Mary? 
+795,office,"Label: the Elysian Fields
+
+Context: The “Sentiment",Where is Daniel? 
+796,office,"Options:
+- not enough information
+- at the office
+- at the castle",Where is Sandra? 
+797,office,"Context: ""I have been thinking,"" said Cyril, ""that I might as well",Where is Mary? 
+798,office,"Context: The following is a narrative of the life of Sarah J. Richardson,",Where is Sandra? 
+799,office,Label: office,Where is Sandra? 
+800,hallway,Context: Daniel moved to the garden. I was indeed surprised to find that those fellows,Where is Sandra? 
+801,bathroom,Answer: in the bathroom,Where is Daniel? 
+802,office,Output: in the chapel,Where is Mary? 
+803,bedroom,"Context: The next day, I was taken to the convent, and there I remained",Where is Sandra? 
+804,office,"Label: at home
+
+
+
+
+GLOSSARY. Acre, a",Where is Mary? 
+805,garden,"Context: ""I'm going to see John,"" said the little girl, ""and",Where is John? 
+806,bedroom,Answer: bedroom,Where is John? 
+807,bedroom,"Answer: in the garden
+
+
+
+
+CHAPTER XIV.--THE M",Where is John? 
+808,hallway,"Label: bedroom
+
+Context: The lawyer had been standing at the window, looking",Where is Daniel? 
+809,hallway,"Label: The Rookery, near Dorking",Where is Daniel? 
+810,garden,Answer: in the garden,Where is Sandra? 
+811,garden,"Context: ""I have been thinking,"" said the Duchess, ""that the best thing",Where is Sandra? 
+812,office,"Context: The Samson Agonistes bears marks of a stronger, but
+also",Where is Daniel? 
+813,hallway,"Context: The priest was in the court-house, and Gabriel Carew was with him",Where is Daniel? 
+814,hallway,"Answer: The hallway.
+
+
+Question: What is the name of the person",Where is Mary? 
+815,office,"Label: Mogador
+
+<context>",Where is Daniel? 
+816,office,"Context: ""I'm going to be married,"" said Mary, ""and I'",Where is Mary? 
+817,kitchen,"Output: the office.
+
+(14) The Assembly of 139",Where is Daniel? 
+818,garden,Context: The king was in the garden. John went to the office. Daniel went to,Where is John? 
+819,office,Context: Daniel went to the bedroom. The necessity of residence in the case of either,Where is Daniel? 
+820,garden,"Context: The next day, the two of them went to the beach. They were",Where is Sandra? 
+821,garden,Answer: In the garden,Where is Sandra? 
+822,bathroom,Label: bathroom,Where is Daniel? 
+823,hallway,"Context: John went to the hallway. The Chinese name for the bell
+is _",Where is John? 
+824,bathroom,"Output: in the office
+
+Question: Where is Daniel?
+
+Output: in",Where is Daniel? 
+825,office,"Output: Morocco
+
+
+
+
+CHAPTER XI. The Moors",Where is Sandra? 
+826,bathroom,"Label: Mogador
+
+
+Question: What is the name of the city that",Where is Mary? 
+827,bedroom,"Output: in the bedroom
+
+Question: What is the name of the person who",Where is Mary? 
+828,bathroom,"Answer: in the kitchen
+
+
+
+
+
+End of the Project Gutenberg",Where is Mary? 
+829,kitchen,Context: Daniel went to the hallway. Daniel went to the hallway. Daniel went,Where is Daniel? 
+830,garden,Answer: in the garden,Where is Mary? 
+831,bathroom,"Output: the liver is usually a secondary affection, although primary cases are not uncommon",Where is Sandra? 
+832,garden,"Context: Mary went to the garden.
+
+Answer: Mary went to the garden.",Where is Mary? 
+833,kitchen,"Output: bedroom
+
+Question: What is the name of the person who is the",Where is Sandra? 
+834,bedroom,"Context: The Boers are a simple people, and their simplicity is reflected in their",Where is Mary? 
+835,bathroom,"Context: ""I'm going to the bathroom,"" said John.
+
+Answer",Where is John? 
+836,bathroom,"Answer: in the bathroom
+<context>
+John, 83",Where is John? 
+837,bathroom,"Answer: in the great court-yard
+<context>",Where is Daniel? 
+838,office,"Answer: in the hallway
+
+
+
+
+THE BROWNIES'",Where is Daniel? 
+839,hallway,"Label: in the garden
+
+
+
+
+THE BROWNIES ON THE C",Where is Sandra? 
+840,garden,"Label: in the garden
+
+
+
+Context:
+
+""I'm going",Where is Sandra? 
+841,garden,"Answer: at the garden
+
+
+
+
+_A Selection from the Catalogue of_",Where is Sandra? 
+842,office,Context: Daniel was a man of great faith and he was a man of prayer. He,Where is Daniel? 
+843,kitchen,"Options:
+
+- not enough information
+
+- in the garden
+
+- in",Where is John? 
+844,kitchen,Context: John went back to the garden. In the 43rd line of the,Where is John? 
+845,bedroom,"Answer: bedroom
+
+Question: What is the name of the person who is being",Where is Sandra? 
+846,bedroom,"Answer: in the garden
+
+Question: What is the name of the person who is",Where is John? 
+847,garden,"Context: John went back to the office. As soon as the ladies entered the house,",Where is Sandra? 
+848,garden,"Context: ""I am glad to see you, my dear,"" said Lady Emily,",Where is Sandra? 
+849,office,"Context: John was a man of the world, and had been a soldier, and had",Where is John? 
+850,bedroom,Answer: He is in the bedroom.,Where is Daniel? 
+851,hallway,Label: in the hallway,Where is Daniel? 
+852,bathroom,Context: Daniel went to the hallway. Daniel went to the hallway. Daniel went,Where is Daniel? 
+853,bedroom,"Context: The Minnesotian and Times, although both Republican papers, never
+cher",Where is Daniel? 
+854,bedroom,Context: Mary went to the bedroom. Daniel went to the hallway. Daniel went,Where is Mary? 
+855,bedroom,Context: The following is a list of the members of the first Territorial Legislature of,Where is Daniel? 
+856,bedroom,Context: Daniel went to the hallway. Early in December the Second regiment moved to Leb,Where is Daniel? 
+857,bedroom,"Label: bedroom
+
+
+
+XI. THE PAPER",Where is John? 
+858,kitchen,Output: in the hallway,Where is Mary? 
+859,office,"Output: bedroom.
+
+<context>
+""The Mahdi's power",Where is Mary? 
+860,bathroom,"Context: The bathroom was a large, square room, with a large, square tub",Where is Mary? 
+861,garden,"Options:
+- the bathroom
+- the garden
+- the hallway
+-",Where is Mary? 
+862,office,Context: Daniel journeyed to the hallway. The following are direct proofs of such resistance,Where is Mary? 
+863,kitchen,"Options:
+- not enough information
+- at the office
+- at the bathroom",Where is Mary? 
+864,hallway,Label: hallway,Where is Mary? 
+865,garden,"Label: The hallway
+
+
+Question: What is the name of the man who",Where is Sandra? 
+866,bedroom,"Label: in the bedroom
+
+Context: ""I'm going to have a",Where is Mary? 
+867,bedroom,"Context: ""I'm glad you're here, anyway,"" she said, as",Where is Mary? 
+868,kitchen,Output: in the garden.,Where is Daniel? 
+869,hallway,Label: hallway,Where is John? 
+870,bedroom,"Context: ""I'm going to have a baby,"" she said, and she held",Where is Mary? 
+871,garden,Output: the office,Where is John? 
+872,hallway,"Output: the hallway
+
+[Illustration]
+
+The _cithara_",Where is John? 
+873,hallway,Output: in the hallway,Where is John? 
+874,garden,"Context: ""I'm going to take a little walk,"" she said, ""and",Where is Mary? 
+875,garden,"Context: The girl's voice stirred the benumbed youth into action again,",Where is John? 
+876,garden,"Output: in the garden
+
+
+
+SCENE I
+
+
+_The",Where is John? 
+877,kitchen,Label: in the kitchen,Where is Daniel? 
+878,hallway,Label: The hallway,Where is Sandra? 
+879,office,"Context: ""I'm going to marry you,"" he said, and the words were",Where is Sandra? 
+880,bedroom,"Context: ""I'm going to marry you,"" he said, and he took her",Where is John? 
+881,hallway,"Context: ""I am afraid I must have misunderstood you,"" said the bishop. """,Where is Daniel? 
+882,office,Context: The Goodwood Plunger had come to Monte Carlo in a very different spirit,Where is Mary? 
+883,office,"Context: ""I'm going to marry her,"" said the young man, ""and",Where is Mary? 
+884,hallway,"Label: hallway
+
+Question: What is the name of the instrument that is similar",Where is John? 
+885,bedroom,Context: The next day he went to the garden. With a desperate effort he turned,Where is John? 
+886,bedroom,"Context: ""I'm afraid you'll spoil the charm, and bring us",Where is Daniel? 
+887,hallway,Output: the office,Where is Daniel? 
+888,office,Label: office,Where is Sandra? 
+889,bedroom,Answer: in the bedroom,Where is Daniel? 
+890,garden,"Label: at the Lizard
+
+
+Question: What is the name of the man",Where is John? 
+891,office,"Context: ""I'm going to see the old man,"" said John. """,Where is John? 
+892,garden,"Context: ""I'm very sorry, Bill,"" ses Ginger, with a w",Where is John? 
+893,hallway,"Context: ""I'm going to marry her,"" he said, with a smile.",Where is Mary? 
+894,office,Context: John went back to the office. The story was out. Jessica sat still,Where is John? 
+895,office,"Context: The following is a list of the most important works of the
+period, with",Where is John? 
+896,garden,"Output: in the garden
+
+
+Question: What is the name of the servant?",Where is Sandra? 
+897,hallway,Output: in the hallway,Where is Sandra? 
+898,garden,"Context: John was in the garden. He was a very great man, and a very",Where is John? 
+899,office,"Context: Daniel went to the office. The weather now so cold, that greater frost",Where is Daniel? 
+900,bathroom,"Context: Daniel was a young man of about twenty-five years of age, and",Where is Daniel? 
+901,bathroom,"Answer: In the office.
+
+
+Question: What is the name of the man",Where is Daniel? 
+902,garden,"Context: John journeyed to the garden. He was a man of great
+intelligence",Where is John? 
+903,office,"Output: hallway
+
+
+Question: What is the name of the person who was",Where is Mary? 
+904,garden,Output: hallway,Where is Sandra? 
+905,garden,"Options:
+- in the garden
+- in the bathroom
+- in the bed",Where is Sandra? 
+906,kitchen,"Options:
+
+- in the garden
+
+- in the bathroom
+
+-",Where is Sandra? 
+907,kitchen,"Context: ""I'm going to the bathroom,"" said Mary. ""I'",Where is Sandra? 
+908,office,"Label: The office
+
+
+Context: The Inspector was a man of few",Where is Daniel? 
+909,office,Label: The garden,Where is Mary? 
+910,bedroom,"Options:
+- not enough information
+- at the parsonage
+- at the",Where is Daniel? 
+911,bedroom,"Label: in the forest
+
+Context: ""I'm not a bit afraid,""",Where is Mary? 
+912,office,"Label: The office
+
+
+Question: What is the name of the man who is",Where is John? 
+913,hallway,"Label: living room
+
+
+Question: What is the name of the person who is",Where is Daniel? 
+914,garden,"Label: garden
+
+Question: What is the name of the person who is a bank",Where is Mary? 
+915,kitchen,Output: in the ladies' parlor,Where is Mary? 
+916,hallway,"Answer: in the hallway
+
+
+
+
+The Deacon's Second W",Where is Sandra? 
+917,garden,"Context: <context>
+
+Answer: in the garden
+
+</context>",Where is Mary? 
+918,garden,Answer: in the garden,Where is Mary? 
+919,bedroom,"Answer: bedroom
+
+Question: Where is Mary?
+
+Answer: office",Where is Daniel? 
+920,bathroom,Context: Daniel went back to the bathroom. About one half of the accidents to,Where is Daniel? 
+921,hallway,Answer: in the hallway.,Where is Mary? 
+922,hallway,"Label: The office
+
+<context>
+
+Answer: He was in the garden",Where is Daniel? 
+923,kitchen,"Answer: in the kitchen
+
+
+
+
+THE BROWNIES' P",Where is Mary? 
+924,bedroom,"Output: bedroom
+
+
+
+
+THE BROWNIES' SWIMM",Where is Daniel? 
+925,bathroom,"Context: ""The Jews of Mogador are a very poor people, and live in",Where is Mary? 
+926,office,"Context: Daniel journeyed to the garden. Afterwards follows two articles on ""disput",Where is Daniel? 
+927,kitchen,Label: Morocco,Where is Daniel? 
+928,office,"Options:
+- The office
+- The garden
+- The bathroom
+- The",Where is Daniel? 
+929,bathroom,"Options:
+
+A. office
+
+B. garden
+
+C. bedroom",Where is Mary? 
+930,office,"Context: Hinze's, for example. From his name you might suppose him to",Where is Sandra? 
+931,office,Label: bedroom,Where is Daniel? 
+932,bedroom,Context: John went back to the bathroom. He had been in the bathroom for,Where is John? 
+933,office,Answer: in the garden,Where is Sandra? 
+934,kitchen,"Answer: in the office.
+
+
+
+
+CARMEN ARIZ",Where is Sandra? 
+935,hallway,"Options:
+- not enough information
+- the schoolhouse
+- the woods
+-",Where is John? 
+936,hallway,Context: The story of the Murdered Billy-goat. Colonel Averitt,Where is John? 
+937,garden,"Context: ""I have been thinking,"" said I, ""that I will go to the",Where is Daniel? 
+938,bedroom,"Context: The next morning the prisoners were ordered to move on. They were
+taken",Where is Sandra? 
+939,bedroom,"Answer: in the hallway
+
+Question: What is the name of the man who",Where is Sandra? 
+940,bedroom,"Options:
+- not enough information
+- in the automobile
+- in the field",Where is John? 
+941,office,"Context: Daniel journeyed to the office. ""The Douglas people are in motion on both",Where is Daniel? 
+942,office,"Context: ""I have been thinking,"" said the King, ""that it would be well",Where is Daniel? 
+943,kitchen,"Options:
+
+A. in the office
+
+B. in the bathroom",Where is John? 
+944,hallway,"Options:
+
+A. office
+
+B. hallway
+
+C. bath",Where is Daniel? 
+945,office,Answer: The office,Where is Sandra? 
+946,bathroom,"Context: ""I'm going to have a little talk with you, Jennie,""",Where is Mary? 
+947,bathroom,"Answer: In the city
+
+
+
+
+[Decoration]",Where is Sandra? 
+948,kitchen,Answer: in the bedroom,Where is Mary? 
+949,bedroom,"Output: bedroom
+
+
+
+
+[Decoration]
+
+
+XXI",Where is Daniel? 
+950,hallway,"Output: the office
+
+
+
+
+[Decoration]
+
+
+XXVI",Where is John? 
+951,kitchen,"Context: John went to the hallway. Barrington, who seldom spoke",Where is John? 
+952,kitchen,Output: garden.,Where is Sandra? 
+953,kitchen,"Label: hallway
+<context>",Where is Mary? 
+954,office,Context: The Duke of Rothsay was obliged to wait the pleasure of the Duke of,Where is Sandra? 
+955,office,"Options:
+- at the office
+- at the hospital
+- at the store",Where is John? 
+956,kitchen,"Context: The battle of Fredericksburg was fought on December 13, 1",Where is John? 
+957,garden,"Options:
+- not enough information
+- in the garden
+- in the bedroom",Where is Sandra? 
+958,kitchen,"Label: The garden
+
+Context: The following day, the 1st of January",Where is Sandra? 
+959,bedroom,"Answer: office
+
+
+Question: What is the name of the person who is a",Where is John? 
+960,hallway,"Context: ""I'm not going to be a fool,"" Mary said to herself.",Where is Mary? 
+961,bathroom,"Answer: Mozambique
+
+
+
+
+[Illustration]",Where is Daniel? 
+962,bathroom,Label: in the hallway,Where is John? 
+963,bedroom,"Context: Mary went to the office. as usual, the Ninety-Third was",Where is Mary? 
+964,garden,"Answer: in the garden.
+
+
+Question: What is the name of the man",Where is Mary? 
+965,garden,"Answer: In the woods
+
+Question: What is the name of the man who was",Where is Daniel? 
+966,bathroom,"Output: in the bathroom
+
+
+
+
+THE BATTLE OF C",Where is Mary? 
+967,bathroom,Label: at the office,Where is Daniel? 
+968,hallway,"Label: hallway
+
+Context: The next day, the 15th,",Where is Mary? 
+969,kitchen,"Context: The following scene occurred at this residence on the morning following
+that of the arrival",Where is Sandra? 
+970,bathroom,"Context: ""I am not sure that I have ever seen him,"" said Adrienne,",Where is Daniel? 
+971,kitchen,"Context: Daniel moved to the bathroom.
+
+Output: the number of deaths",Where is Daniel? 
+972,bathroom,"Label: The bathroom
+
+<context>
+Taking, therefore,
+the",Where is Sandra? 
+973,hallway,"Answer: the bathroom
+
+Question: What is the name of the person who is",Where is Daniel? 
+974,hallway,"Label: The front porch
+
+Question: What is the name of the person who",Where is Daniel? 
+975,bedroom,"Context: The Brownies, when they break their fast,
+                Will eat as long",Where is Daniel? 
+976,office,"Output: in the office
+
+Question: What is the name of the person who is",Where is John? 
+977,office,Context: John went to the office. Thence I went in search of other Truth,Where is John? 
+978,bedroom,"Context: Mary journeyed to the bedroom.
+
+Answer: in the bedroom",Where is Mary? 
+979,hallway,"Label: hallway
+
+Question: What is the name of the person who is the",Where is Sandra? 
+980,kitchen,"Output: in the bedroom
+
+Question: What is the name of the man who",Where is Mary? 
+981,bathroom,Context: Mary went to the bathroom. John went to the bathroom. John went,Where is Mary? 
+982,bedroom,Context: John went to the bathroom. Daniel went to the bedroom. John went,Where is Sandra? 
+983,office,"Label: garden
+
+
+Context: The glover, who was a man of some",Where is Sandra? 
+984,garden,"Context: ""I have little check on my conscience for aught that I have done in",Where is Mary? 
+985,garden,"Context: ""I have sent for him to attend council today, dressed in the ordinary r",Where is Sandra? 
+986,garden,"Options:
+- not enough information
+- in the garden
+- in the bathroom",Where is Sandra? 
+987,office,"Answer: in the bedroom
+
+
+
+
+THE BATTLE OF THE",Where is Mary? 
+988,bathroom,Label: in the children's ward,Where is John? 
+989,bathroom,Label: office,Where is John? 
+990,garden,"Answer: the house
+
+
+
+
+CHAPTER XVI.--THE MILLIN",Where is Sandra? 
+991,kitchen,Context: The girl had listened to this substantial dissertation with more or less comprehension,Where is Sandra? 
+992,garden,"Options:
+- in the garden
+- in the hallway
+- in the bed",Where is John? 
+993,garden,"Answer: The garden.
+
+</context>
+
+Question: What is the name",Where is Daniel? 
+994,garden,Label: garden,Where is Mary? 
+995,kitchen,"Answer: in the kitchen
+
+
+
+
+
+""The Snake Charmer",Where is John? 
+996,hallway,"Context: The chloroform was given by a Dr. B., some special friend",Where is Sandra? 
+997,office,"Output: in the cathedral
+
+
+
+
+CHAPTER IX
+
+THE",Where is Sandra? 
+998,bathroom,"Label: bedroom
+
+
+Question: What is the name of the person who is",Where is Sandra? 
+999,bedroom,Context: John went to the garden. John went to the garden. John went to the,Where is John? 

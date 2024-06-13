@@ -1,0 +1,1010 @@
+,target,output,question
+0,football,"football (Document[119]):""Fred picked up the football there .",What did Fred give to Jeff? 
+1,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football to Jeff? 
+2,football,"football (Document[10]):""Fred picked up the football there . Fred",What did Fred give to Jeff? 
+3,Jeff,"Jeff (Document[119]):""Fred gave the football to Jeff",Who did Fred give the football to? 
+4,Fred,"Fred (Document[129]):""Jeff put down the milk .",Who did Jeff give the football to? 
+5,Jeff,"Jeff (Document[12]):""Jeff (Document[12]",Who gave the apple? 
+6,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+7,apple,"apple (Document[12]):""Bill handed the apple to Fred.""",What did Bill give to Fred? 
+8,apple,"apple (Document[12]):""Bill gave the apple to Fred""",What did Bill give to Fred? 
+9,Fred,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+10,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+11,milk,"milk (Document[11]):""Mary picked up the apple there .",What did Mary give to Bill? 
+12,Bill,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+13,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the milk to? 
+14,milk,"milk (Document[129]):""Mary journeyed to the bed",What did Mary give to Bill? 
+15,Jeff,"Jeff (Document[129]):""Fred (Document[12",Who received the football? 
+16,Fred,"Fred (Document[119]):""Fred (Document[11",Who gave the football to Jeff? 
+17,football,"apple (Document[12]):""Fred got the football there . Fred travel",What did Fred give to Jeff? 
+18,Jeff,"Jeff (Document[12]):""Jeff (Document[12]",Who received the football? 
+19,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+20,milk,"the milk (Document[159]):""Bill went back to the hall",What did Jeff give to Mary? 
+21,Mary,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the milk to Jeff? 
+22,Mary,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the milk to Jeff? 
+23,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+24,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+25,apple,"apple (Document[12]):""Bill journeyed to the hallway .",What did Jeff give to Fred? 
+26,Fred,"Bill (Document[119]):""Bill journeyed to the hall",Who received the apple? 
+27,Jeff,"Bill (Document[129]):""Bill journeyed to the hall",Who received the apple? 
+28,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+29,Fred,"Bill (Document[129]):""Bill journeyed to the hall",Who did Jeff give the apple to? 
+30,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+31,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+32,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Mary? 
+33,milk,"apple (Document[12]):""Bill gave the apple to Mary""",What did Bill give to Mary? 
+34,apple,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+35,Jeff,"Bill (Document[159]):""Bill went to the bathroom",Who did Fred give the milk to? 
+36,Jeff,"Bill (Document[159]):""Fred went back to the garden",Who did Fred give the milk to? 
+37,milk,"apple (Document[159]):""Bill went to the bathroom .",What did Jeff give to Mary? 
+38,milk,"milk (Document[159]):""Fred picked up the apple there",What did Jeff give to Mary? 
+39,Fred,"Bill (Document[159]):""Bill went to the bathroom",Who gave the apple? 
+40,Mary,"Jeff (Document[159]):""Jeff (Document[15",Who gave the milk? 
+41,milk,"milk (Document[159]):""Fred picked up the football there",What did Mary give to Fred? 
+42,Jeff,"Jeff (Document[159]):""Jeff (Document[15",Who gave the milk? 
+43,Fred,"Fred (Document[159]):""Fred received the milk.""",Who received the milk? 
+44,Mary,"Jeff (Document[159]):""Jeff (Document[15",Who gave the milk? 
+45,Bill,"Bill (Document[159]):""Mary went back to the hall",Who did Mary give the milk to? 
+46,milk,"apple (Document[159]):""Mary went back to the hallway",What did Mary give to Bill? 
+47,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+48,Mary,"Mary (Document[159]):""Bill journeyed to the hall",Who did Bill give the milk to? 
+49,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Mary? 
+50,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Fred? 
+51,Fred,"Jeff (Document[129]):""Bill grabbed the apple",Who gave the apple to Mary? 
+52,apple,"apple (Document[159]):""Bill grabbed the apple there",What did Fred give to Mary? 
+53,apple,"apple (Document[159]):""Mary went back to the hallway",What did Mary give to Jeff? 
+54,apple,"apple (Document[159]):""Mary went back to the hallway",What did Mary give to Jeff? 
+55,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+56,football,"apple (Document[12]):""Bill gave the football to Fred.""",What did Bill give to Fred? 
+57,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+58,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+59,Jeff,"Mary (Document[129]):""Bill gave the apple to Mary",Who did Bill give the apple to? 
+60,Jeff,"Fred (Document[159]):""Bill put down the milk .",Who did Bill give the apple to? 
+61,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+62,Jeff,"Jeff (Document[159]):""Bill went back to the hall",Who gave the apple to Bill? 
+63,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+64,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+65,Mary,"Fred (Document[12]):""Bill moved to the bedroom .",Who gave the apple to Bill? 
+66,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the apple to? 
+67,Mary,"Mary (Document[119]):""Bill moved to the bedroom",Who did Bill give the apple to? 
+68,apple,"apple (Document[12]):""Bill went back to the office . Mary",What did Bill give to Mary? 
+69,Mary,"Mary (Document[159]):""Bill went back to the office",Who did Bill give the apple to? 
+70,apple,"apple (Document[159]):""Fred picked up the apple there .",What did Fred give to Jeff? 
+71,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+72,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+73,apple,"apple (Document[159]):""Bill journeyed to the bedroom",What did Fred give to Bill? 
+74,apple,"apple (Document[159]):""Bill went back to the garden .",What did Fred give to Bill? 
+75,Fred,"Mary (Document[129]):""Mary (Document[12",Who gave the football? 
+76,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+77,Mary,"Bill (Document[119]):""Bill (Document[11",Who received the football? 
+78,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+79,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+80,milk,"milk (Document[129]):""Fred journeyed to the bed",What did Fred give to Jeff? 
+81,milk,"milk (Document[159]):""Fred journeyed to the bed",What did Fred give to Jeff? 
+82,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who did Jeff give the milk to? 
+83,milk,"milk (Document[129]):""Jeff went to the hallway",What did Jeff give to Fred? 
+84,Jeff,"Jeff (Document[159]):""Jeff gave the milk to Fred",Who gave the milk to Fred? 
+85,Fred,"Fred (Document[12]):""Mary picked up the apple there .",Who did Mary give the apple to? 
+86,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Mary? 
+87,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+88,Jeff,"Fred (Document[12]):""Mary picked up the apple there .",Who did Mary give the apple to? 
+89,Jeff,"Jeff (Document[129]):""Mary picked up the apple there",Who received the football? 
+90,football,"apple (Document[12]):""Mary journeyed to the bedroom .",What did Mary give to Jeff? 
+91,Mary,"Jeff (Document[159]):""Jeff journeyed to the bed",Who received the football? 
+92,Mary,"Jeff (Document[159]):""Jeff journeyed to the bed",Who gave the football? 
+93,Jeff,"Jeff (Document[159]):""Mary picked up the apple there",Who did Mary give the football to? 
+94,Bill,"Bill (Document[159]):""Fred journeyed to the hall",Who did Fred give the apple to? 
+95,Jeff,"Jeff (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+96,Mary,"Mary (Document[119]):""Mary gave the apple to Jeff",Who gave the apple to Jeff? 
+97,apple,"apple (Document[12]):""Jeff took the football there . Jeff passed",What did Jeff give to Fred? 
+98,Fred,"Fred (Document[12]):""Jeff took the football there . Jeff",Who did Jeff give the apple to? 
+99,milk,"milk (Document[129]):""Bill journeyed to the bed",What did Bill give to Mary? 
+100,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+101,Bill,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+102,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+103,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+104,apple,"apple (Document[159]):""Bill journeyed to the bathroom",What did Mary give to Bill? 
+105,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who received the milk? 
+106,Mary,"Jeff (Document[159]):""Jeff (Document[15",Who gave the milk? 
+107,Jeff,"Jeff (Document[129]):""Mary grabbed the milk",Who did Mary give the milk to? 
+108,football,"football (Document[119]):""Bill journeyed to the bedroom",What did Bill give to Mary? 
+109,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+110,apple,"apple (Document[12]):""Jeff went back to the garden . What",What did Jeff give to Mary? 
+111,apple,"apple (Document[12]):""Jeff picked up the apple there . Jeff",What did Jeff give to Mary? 
+112,Mary,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+113,Mary,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+114,Mary,"Jeff (Document[159]):""Jeff (Document[15",Who received the apple? 
+115,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the milk? 
+116,milk,"milk (Document[129]):""Bill travelled to the office",What did Mary give to Bill? 
+117,Bill,"Bill (Document[129]):""Bill went to the office .",Who did Mary give the milk to? 
+118,milk,"milk (Document[159]):""Bill went to the office .",What did Bill give to Mary? 
+119,Mary,"Mary (Document[159]):""Bill journeyed to the bed",Who did Bill give the milk to? 
+120,milk,"milk (Document[159]):""Bill went back to the hall",What did Mary give to Bill? 
+121,Mary,"Bill (Document[129]):""Bill went back to the hall",Who gave the milk? 
+122,Mary,"Bill (Document[159]):""Bill went back to the hall",Who gave the milk? 
+123,Jeff,"Jeff (Document[129]):""Bill went back to the hall",Who did Bill give the football to? 
+124,Bill,"Bill (Document[159]):""Bill went back to the hall",Who gave the football to Jeff? 
+125,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+126,Jeff,"Jeff (Document[129]):""Bill picked up the football there",Who gave the football to Bill? 
+127,football,"football (Document[129]):""Bill picked up the football there .",What did Jeff give to Bill? 
+128,football,"Bill (Document[159]):""Bill went back to the office",What did Jeff give to Bill? 
+129,apple,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Fred give to Mary? 
+130,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+131,apple,"apple (Document[3]):""Mary gave the apple to Bill.""",What did Mary give to Bill? 
+132,apple,"apple (Document[11]):""Mary gave the apple to Bill.""",What did Mary give to Bill? 
+133,apple,"apple (Document[12]):""Jeff took the apple there . Jeff passed",What did Jeff give to Mary? 
+134,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+135,football,"football (Document[12]):""Bill went back to the bathroom .",What did Fred give to Jeff? 
+136,football,"football (Document[12]):""Fred handed the football to Jeff.""",What did Fred give to Jeff? 
+137,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+138,Fred,"Bill (Document[129]):""Bill went back to the bath",Who did Jeff give the football to? 
+139,football,"football (Document[159]):""Fred handed the football to Mary.""",What did Fred give to Mary? 
+140,football,"football (Document[11]):""Jeff handed the football to Mary.""",What did Jeff give to Mary? 
+141,Mary,"Mary (Document[119]):""Mary (Document[11",Who received the football? 
+142,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Jeff? 
+143,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+144,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+145,Fred,"Fred (Document[119]):""Bill went to the garden .",Who received the apple? 
+146,Fred,"Fred (Document[12]):""Bill went to the garden . Mary",Who received the apple? 
+147,Mary,"Fred (Document[159]):""Bill went to the garden .",Who did Bill give the football to? 
+148,Bill,"Jeff (Document[159]):""Bill went to the garden .",Who gave the football to Mary? 
+149,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+150,Bill,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+151,Jeff,"Fred (Document[12]):""Bill journeyed to the office .",Who gave the apple to Bill? 
+152,Bill,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+153,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+154,apple,"apple (Document[129]):""Bill journeyed to the office .",What did Bill give to Jeff? 
+155,football,"apple (Document[159]):""Bill grabbed the apple there",What did Mary give to Bill? 
+156,football,"apple (Document[159]):""Bill grabbed the apple there",What did Mary give to Bill? 
+157,Mary,"Mary (Document[159]):""Bill journeyed to the office",Who did Bill give the football to? 
+158,football,"apple (Document[159]):""Bill journeyed to the office .",What did Bill give to Mary? 
+159,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+160,Bill,"Bill (Document[12]):""Bill moved to the garden . Jeff",Who did Fred give the apple to? 
+161,apple,"apple (Document[12]):""Bill moved to the garden . Jeff took",What did Fred give to Bill? 
+162,apple,"apple (Document[12]):""Bill moved to the garden . Jeff took",What did Fred give to Bill? 
+163,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+164,Jeff,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+165,Jeff,"Jeff (Document[129]):""Bill grabbed the football",Who received the apple? 
+166,Jeff,"Jeff (Document[129]):""Bill grabbed the football",Who received the apple? 
+167,Jeff,"Jeff (Document[159]):""Bill grabbed the football",Who received the apple? 
+168,apple,"apple (Document[15]):""Mary went back to the garden . Mary",What did Mary give to Jeff? 
+169,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Fred? 
+170,football,"apple (Document[12]):""Mary journeyed to the office . Fred",What did Mary give to Bill? 
+171,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+172,football,"football (Document[12]):""Bill journeyed to the bedroom .",What did Bill give to Mary? 
+173,football,"football (Document[11]):""Bill journeyed to the office . Mary",What did Bill give to Mary? 
+174,Mary,"Bill (Document[129]):""Bill journeyed to the bed",Who did Bill give the football to? 
+175,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Jeff give to Bill? 
+176,football,"apple (Document[12]):""Bill went to the bathroom . Mary",What did Bill give to Mary? 
+177,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+178,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+179,football,"apple (Document[159]):""Bill went to the bathroom .",What did Bill give to Fred? 
+180,Fred,"Fred (Document[119]):""Fred (Document[11",Who gave the milk to Jeff? 
+181,milk,"milk (Document[12]):""Jeff took the milk there . Jeff",What did Jeff give to Mary? 
+182,Mary,"Fred (Document[12]):""Fred (Document[12]",Who received the milk? 
+183,Mary,"Jeff (Document[119]):""Jeff (Document[11",Who gave the milk? 
+184,Fred,"Fred (Document[129]):""Fred (Document[12",Who received the milk? 
+185,football,"apple (Document[12]):""Mary went back to the bedroom .",What did Mary give to Bill? 
+186,football,"apple (Document[12]):""Mary went back to the bedroom .",What did Mary give to Bill? 
+187,football,"apple (Document[12]):""Mary went back to the bedroom .",What did Mary give to Bill? 
+188,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+189,football,"apple (Document[12]):""Bill put down the football . Fred travel",What did Bill give to Mary? 
+190,Fred,"Jeff (Document[159]):""Bill went back to the office",Who gave the football? 
+191,Fred,"Bill (Document[159]):""Bill went back to the office",Who gave the football to Jeff? 
+192,football,"football (Document[159]):""Fred picked up the apple there .",What did Fred give to Jeff? 
+193,apple,"apple (Document[159]):""Bill went back to the office .",What did Bill give to Fred? 
+194,Bill,"Bill (Document[159]):""Bill went back to the office",Who gave the apple to Fred? 
+195,milk,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+196,Mary,"Jeff (Document[159]):""Jeff went back to the garden",Who gave the milk? 
+197,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+198,milk,"milk (Document[159]):""Bill went to the hallway",What did Bill give to Mary? 
+199,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+200,milk,"milk (Document[129]):""Jeff took the milk there .",What did Jeff give to Bill? 
+201,milk,"milk (Document[129]):""Jeff took the football there .",What did Jeff give to Bill? 
+202,milk,"milk (Document[129]):""Jeff took the football there .",What did Jeff give to Bill? 
+203,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+204,Fred,"Fred (Document[159]):""Mary went to the bedroom",Who did Mary give the football to? 
+205,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+206,Fred,"Bill (Document[129]):""Mary journeyed to the hall",Who did Mary give the football to? 
+207,Jeff,"Bill (Document[159]):""Fred journeyed to the hall",Who did Fred give the football to? 
+208,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Jeff? 
+209,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+210,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Jeff? 
+211,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+212,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Fred? 
+213,Jeff,"Jeff (Document[119]):""Jeff went back to the garden",Who gave the milk to Fred? 
+214,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+215,Fred,"Fred (Document[119]):""Fred gave the apple to Mary",Who gave the apple to Mary? 
+216,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+217,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+218,Mary,"Bill (Document[159]):""Fred journeyed to the bed",Who did Fred give the milk to? 
+219,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+220,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Mary? 
+221,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Mary? 
+222,Mary,"Mary (Document[159]):""Mary journeyed to the hall",Who gave the apple to Bill? 
+223,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+224,apple,"apple (Document[159]):""Bill journeyed to the hallway",What did Bill give to Mary? 
+225,football,"football (Document[119]):""Jeff grabbed the football there",What did Jeff give to Fred? 
+226,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football to Fred? 
+227,football,"football (Document[11]):""Jeff grabbed the football there .",What did Jeff give to Fred? 
+228,football,"football (Document[119]):""Jeff grabbed the football there",What did Jeff give to Fred? 
+229,football,"football (Document[129]):""Jeff picked up the football there .",What did Jeff give to Fred? 
+230,apple,"apple (Document[119]):""Bill journeyed to the bedroom",What did Fred give to Bill? 
+231,Bill,"Bill (Document[119]):""Bill (Document[11",Who did Fred give the apple to? 
+232,Fred,"Bill (Document[119]):""Bill (Document[11",Who gave the apple to Bill? 
+233,Fred,"Bill (Document[119]):""Bill (Document[11",Who gave the apple to Bill? 
+234,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+235,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Mary? 
+236,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+237,football,"milk (Document[159]):""Bill journeyed to the bed",What did Bill give to Mary? 
+238,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Mary? 
+239,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+240,Fred,"Fred (Document[12]):""Bill journeyed to the bedroom",Who gave the football to Bill? 
+241,Fred,"Bill (Document[149]):""Bill""
+
+[INST",Who gave the football? 
+242,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the football to Bill? 
+243,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+244,football,"apple (Document[12]):""Bill went to the garden . Fred journey",What did Bill give to Fred? 
+245,football,"apple (Document[12]):""Jeff went back to the garden . Mary",What did Jeff give to Mary? 
+246,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+247,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+248,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+249,Mary,"Mary (Document[129]):""Mary (Document[12",Who gave the apple to Bill? 
+250,apple,"apple (Document[159]):""Mary journeyed to the garden .",What did Mary give to Fred? 
+251,Fred,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+252,Mary,"Fred (Document[159]):""Fred (Document[15",Who gave the apple? 
+253,Jeff,"Fred (Document[159]):""Fred (Document[15",Who received the apple? 
+254,apple,"apple (Document[159]):""Fred went to the office . Fred",What did Fred give to Jeff? 
+255,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+256,Jeff,"Jeff (Document[159]):""Jeff (Document[15",Who gave the milk to Fred? 
+257,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+258,football,"milk (Document[159]):""Bill took the football there .",What did Bill give to Mary? 
+259,Mary,"Bill (Document[159]):""Fred picked up the apple there",Who did Fred give the milk to? 
+260,Jeff,"Jeff (Document[119]):""Jeff (Document[11",Who gave the apple to Mary? 
+261,Fred,"Jeff (Document[119]):""Jeff (Document[11",Who gave the apple to Mary? 
+262,Mary,"Mary (Document[12]):""Mary (Document[12]",Who gave the apple? 
+263,apple,"apple (Document[12]):""Mary gave the apple to Bill""",What did Mary give to Bill? 
+264,apple,"apple (Document[12]):""Mary gave the apple to Bill""",What did Mary give to Bill? 
+265,football,"apple (Document[12]):""Bill journeyed to the bedroom .",What did Fred give to Bill? 
+266,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+267,Fred,"Jeff (Document[129]):""Bill journeyed to the bed",Who gave the football to Bill? 
+268,Mary,"Bill (Document[149]):""Bill (Document[14",Who did Bill give the football to? 
+269,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+270,Mary,"Mary (Document[119]):""Mary received the apple.""",Who received the apple? 
+271,Mary,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+272,apple,"apple (Document[3]):""Mary went to the kitchen . Mary travelled",What did Mary give to Jeff? 
+273,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+274,apple,"apple (Document[159]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+275,Mary,"Mary (Document[159]):""Mary journeyed to the hall",Who received the football? 
+276,Mary,"Mary (Document[159]):""Mary journeyed to the hall",Who received the football? 
+277,football,"apple (Document[159]):""Mary journeyed to the bathroom",What did Mary give to Jeff? 
+278,Mary,"Mary (Document[159]):""Mary journeyed to the hall",Who did Jeff give the football to? 
+279,Mary,"Mary (Document[159]):""Mary journeyed to the garden",Who received the football? 
+280,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+281,apple,"apple (Document[12]):""Mary went back to the garden . Fred",What did Mary give to Fred? 
+282,Fred,"Fred (Document[119]):""Fred (Document[11",Who gave the apple to Mary? 
+283,Fred,"Mary (Document[159]):""Mary (Document[15",Who received the apple? 
+284,apple,"apple (Document[139]):""Fred gave the apple to Mary.""",What did Fred give to Mary? 
+285,Fred,"Fred (Document[159]):""Fred (Document[15",Who gave the apple? 
+286,Fred,"Fred (Document[119]):""Bill went back to the bath",Who gave the apple to Bill? 
+287,Fred,"Fred (Document[159]):""Fred (Document[15",Who gave the apple to Bill? 
+288,apple,"apple (Document[129]):""Fred journeyed to the bedroom",What did Fred give to Bill? 
+289,Bill,"Fred (Document[159]):""Fred (Document[15",Who gave the apple to Mary? 
+290,Mary,"Mary (Document[119]):""Bill journeyed to the bed",Who gave the milk to Bill? 
+291,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+292,Mary,"Mary (Document[119]):""Mary (Document[11",Who gave the milk to Bill? 
+293,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the milk to? 
+294,apple,"apple (Document[129]):""Jeff went back to the hallway",What did Jeff give to Fred? 
+295,milk,"milk (Document[129]):""Mary journeyed to the hall",What did Mary give to Jeff? 
+296,Mary,"Jeff (Document[129]):""Bill journeyed to the bath",Who gave the milk? 
+297,milk,"milk (Document[159]):""Mary journeyed to the hall",What did Mary give to Jeff? 
+298,milk,"milk (Document[159]):""Mary journeyed to the hall",What did Mary give to Jeff? 
+299,Bill,"Bill (Document[159]):""Bill journeyed to the hall",Who gave the milk to Jeff? 
+300,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+301,Fred,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the football to? 
+302,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+303,Mary,"Mary (Document[159]):""Fred went to the bedroom",Who did Fred give the apple to? 
+304,Fred,"Fred (Document[159]):""Fred gave the apple to Mary",Who gave the apple to Mary? 
+305,Jeff,"Jeff (Document[12]):""Jeff (Document[12]",Who gave the apple to Mary? 
+306,Mary,"Mary (Document[129]):""Jeff picked up the apple there",Who did Jeff give the apple to? 
+307,milk,"apple (Document[129]):""Mary put down the apple . Bill",What did Mary give to Fred? 
+308,Fred,"Bill (Document[159]):""Mary put down the apple .",Who did Mary give the milk to? 
+309,Fred,"Bill (Document[159]):""Bill journeyed to the bed",Who received the milk? 
+310,Mary,"Mary (Document[129]):""Mary journeyed to the kitchen",Who gave the football to Bill? 
+311,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+312,football,"apple (Document[119]):""Bill went back to the kitchen .",What did Bill give to Mary? 
+313,apple,"apple (Document[159]):""Bill went back to the kitchen .",What did Bill give to Mary? 
+314,Bill,"Bill (Document[159]):""Bill journeyed to the office",Who did Jeff give the football to? 
+315,milk,"milk (Document[129]):""Jeff gave the milk to Bill",What did Jeff give to Bill? 
+316,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the milk? 
+317,milk,"milk (Document[119]):""Bill journeyed to the bed",What did Jeff give to Bill? 
+318,apple,"apple (Document[139]):""Fred picked up the apple there .",What did Fred give to Mary? 
+319,Fred,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+320,Mary,"Mary (Document[129]):""Mary (Document[12",Who gave the apple? 
+321,apple,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+322,Mary,"Bill (Document[129]):""Jeff moved to the garden .",Who did Jeff give the football to? 
+323,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+324,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+325,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the football to Mary? 
+326,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+327,Jeff,"Bill (Document[129]):""Bill picked up the apple there",Who received the apple? 
+328,apple,"apple (Document[159]):""Bill went back to the garden .",What did Bill give to Jeff? 
+329,apple,"apple (Document[159]):""Bill went back to the garden .",What did Bill give to Jeff? 
+330,apple,"apple (Document[3]):""Bill travelled to the bathroom . Fred",What did Fred give to Mary? 
+331,apple,"apple (Document[12]):""Fred handed the apple to Mary . Mary",What did Fred give to Mary? 
+332,Fred,"Mary (Document[119]):""Mary (Document[11",Who gave the apple? 
+333,Bill,"Mary (Document[129]):""Mary (Document[12",Who received the apple? 
+334,apple,"apple (Document[12]):""Bill went back to the kitchen . Jeff",What did Mary give to Bill? 
+335,Mary,"Bill (Document[159]):""Bill went to the office .",Who gave the apple? 
+336,apple,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+337,apple,"apple (Document[159]):""Bill went to the office . Mary",What did Fred give to Mary? 
+338,apple,"apple (Document[159]):""Fred put down the football . Fred",What did Fred give to Mary? 
+339,Mary,"Bill (Document[159]):""Bill went to the office .",Who did Fred give the apple to? 
+340,apple,"apple (Document[11]):""Bill went back to the kitchen . Mary",What did Fred give to Bill? 
+341,Bill,"Bill (Document[119]):""Bill went back to the kitchen",Who gave the apple to Fred? 
+342,Bill,"Bill (Document[119]):""Bill went back to the kitchen",Who received the apple? 
+343,apple,"apple (Document[12]):""Fred gave the apple to Bill.""",What did Fred give to Bill? 
+344,apple,"apple (Document[12]):""Fred gave the apple to Bill.""",What did Fred give to Bill? 
+345,milk,"milk (Document[159]):""Mary went to the bathroom",What did Mary give to Jeff? 
+346,Mary,"Bill (Document[159]):""Bill went to the kitchen .",Who gave the milk to Jeff? 
+347,Jeff,"Mary (Document[159]):""Mary gave the milk to Fred",Who gave the milk? 
+348,Fred,"Bill (Document[129]):""Bill went to the kitchen .",Who received the milk? 
+349,Jeff,"Bill (Document[159]):""Bill went to the kitchen .",Who gave the milk to Fred? 
+350,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+351,Mary,"Jeff (Document[129]):""Jeff journeyed to the office",Who gave the milk to Bill? 
+352,milk,"milk (Document[129]):""Bill journeyed to the bed",What did Bill give to Jeff? 
+353,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+354,milk,"milk (Document[159]):""Jeff journeyed to the office",What did Jeff give to Bill? 
+355,Bill,"Bill (Document[119]):""Bill""
+
+[INST",Who gave the milk? 
+356,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Fred? 
+357,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Fred? 
+358,apple,"milk (Document[159]):""Fred picked up the apple there",What did Jeff give to Fred? 
+359,Fred,"Fred (Document[159]):""Jeff moved to the bedroom",Who did Jeff give the apple to? 
+360,Mary,"Bill (Document[12]):""Bill (Document[12]",Who received the apple? 
+361,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the apple to? 
+362,apple,"apple (Document[12]):""Mary gave the apple to Bill""",What did Mary give to Bill? 
+363,Mary,"Bill (Document[159]):""Bill went to the office .",Who did Bill give the apple to? 
+364,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+365,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+366,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+367,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+368,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+369,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the football to? 
+370,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+371,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football to Fred? 
+372,Fred,"Bill (Document[159]):""Bill moved to the bedroom",Who gave the football to Mary? 
+373,Jeff,"Fred (Document[159]):""Mary picked up the apple there",Who did Mary give the football to? 
+374,football,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Jeff? 
+375,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+376,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+377,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+378,apple,"apple (Document[159]):""Bill went to the office . Mary",What did Fred give to Bill? 
+379,Fred,"Fred (Document[159]):""Bill moved to the bathroom",Who did Bill give the apple to? 
+380,milk,"milk (Document[129]):""Mary gave the milk to Bill",What did Mary give to Bill? 
+381,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+382,milk,"milk (Document[12]):""Mary gave the milk to Fred""",What did Mary give to Fred? 
+383,milk,"milk (Document[12]):""Fred journeyed to the hallway",What did Fred give to Mary? 
+384,milk,"milk (Document[12]):""Fred journeyed to the hallway",What did Fred give to Mary? 
+385,football,"apple (Document[3]):""Bill handed the football to Mary.""",What did Bill give to Mary? 
+386,Mary,"Mary (Document[129]):""Bill handed the football to Mary",Who did Bill give the football to? 
+387,football,"apple (Document[12]):""Fred handed the football to Mary.""",What did Fred give to Mary? 
+388,Fred,"Fred (Document[129]):""Mary passed the football to Fred",Who did Mary give the football to? 
+389,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+390,Fred,"Jeff (Document[129]):""Bill went to the kitchen .",Who gave the apple? 
+391,apple,"apple (Document[12]):""Bill went to the kitchen . Jeff picked",What did Fred give to Jeff? 
+392,Fred,"Fred (Document[119]):""Bill went to the kitchen .",Who received the apple? 
+393,Fred,"Fred (Document[129]):""Bill went to the kitchen .",Who received the apple? 
+394,Jeff,"Jeff (Document[129]):""Bill went to the kitchen .",Who gave the apple to Fred? 
+395,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+396,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+397,Fred,"Fred (Document[129]):""Bill went to the garden .",Who gave the apple to Bill? 
+398,Fred,"Bill (Document[129]):""Bill went to the garden .",Who did Bill give the apple to? 
+399,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+400,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football to Fred? 
+401,Fred,"Fred (Document[129]):""Mary picked up the football there",Who did Mary give the football to? 
+402,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+403,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+404,apple,"apple (Document[159]):""Fred journeyed to the garden .",What did Fred give to Jeff? 
+405,apple,"apple (Document[159]):""Bill journeyed to the bedroom",What did Fred give to Bill? 
+406,Fred,"Bill (Document[159]):""Bill journeyed to the garden",Who gave the apple? 
+407,Fred,"Bill (Document[159]):""Bill journeyed to the garden",Who received the apple? 
+408,Fred,"Bill (Document[159]):""Bill journeyed to the garden",Who gave the apple to Jeff? 
+409,apple,"apple (Document[159]):""Bill moved to the kitchen . Bill",What did Fred give to Jeff? 
+410,milk,"milk (Document[129]):""Bill put down the milk""",What did Bill give to Jeff? 
+411,Jeff,"Fred (Document[129]):""Bill went to the hallway",Who gave the milk to Bill? 
+412,milk,"milk (Document[129]):""Bill went to the hallway",What did Jeff give to Bill? 
+413,milk,"milk (Document[159]):""Bill went to the hallway",What did Jeff give to Bill? 
+414,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Mary? 
+415,milk,"apple (Document[12]):""Fred journeyed to the office . Jeff",What did Fred give to Jeff? 
+416,milk,"apple (Document[12]):""Jeff picked up the apple there . Jeff",What did Jeff give to Fred? 
+417,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+418,Jeff,"Bill (Document[129]):""Bill went to the office .",Who did Fred give the milk to? 
+419,Jeff,"Jeff (Document[159]):""Jeff journeyed to the office",Who gave the milk to Fred? 
+420,Fred,"Bill (Document[119]):""Bill (Document[11",Who gave the football? 
+421,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+422,football,"apple (Document[12]):""Bill travelled to the hallway .",What did Mary give to Fred? 
+423,football,"apple (Document[12]):""Bill travelled to the hallway .",What did Mary give to Fred? 
+424,Fred,"Jeff (Document[159]):""Bill journeyed to the garden",Who gave the football to Mary? 
+425,apple,"apple (Document[12]):""Fred handed the apple to Bill""",What did Fred give to Bill? 
+426,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+427,apple,"apple (Document[12]):""Fred journeyed to the bedroom .",What did Fred give to Mary? 
+428,Fred,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+429,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+430,Jeff,"Jeff (Document[129]):""Fred gave the apple to Jeff",Who did Fred give the apple to? 
+431,apple,"apple (Document[12]):""Fred gave the apple to Jeff""",What did Fred give to Jeff? 
+432,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the apple to Jeff? 
+433,Jeff,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+434,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+435,apple,"apple (Document[12]):""Bill went back to the garden . Mary",What did Bill give to Mary? 
+436,Mary,"Mary (Document[129]):""Bill went back to the bed",Who did Bill give the apple to? 
+437,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+438,Fred,"Fred (Document[159]):""Bill went back to the bed",Who received the apple? 
+439,Mary,"Mary (Document[129]):""Mary gave the apple to Fred",Who gave the apple to Fred? 
+440,apple,"apple (Document[12]):""Mary went to the hallway . Fred",What did Mary give to Bill? 
+441,Mary,"Mary (Document[119]):""Bill went to the hallway",Who did Bill give the apple to? 
+442,apple,"apple (Document[139]):""Bill went to the hallway .",What did Bill give to Mary? 
+443,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+444,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+445,apple,"apple (Document[3]):""Mary picked up the apple there . Mary gave",What did Mary give to Fred? 
+446,Fred,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+447,milk,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+448,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the milk? 
+449,milk,"milk (Document[119]):""Bill handed the milk there .",What did Bill give to Mary? 
+450,Mary,"Mary (Document[159]):""Mary journeyed to the office",Who gave the apple to Bill? 
+451,apple,"apple (Document[12]):""Mary journeyed to the office . Jeff",What did Mary give to Bill? 
+452,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Fred? 
+453,Fred,"Mary (Document[119]):""Bill went back to the bed",Who gave the apple to Bill? 
+454,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+455,Fred,"Bill (Document[159]):""Mary picked up the apple there",Who did Mary give the milk to? 
+456,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+457,Fred,"Bill (Document[159]):""Mary journeyed to the hall",Who did Mary give the milk to? 
+458,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+459,milk,"apple (Document[159]):""Fred journeyed to the bedroom",What did Fred give to Jeff? 
+460,Mary,"Mary (Document[159]):""Mary went to the hallway",Who gave the milk? 
+461,milk,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+462,Bill,"Bill (Document[159]):""Jeff went back to the bath",Who did Jeff give the football to? 
+463,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Jeff give to Bill? 
+464,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Jeff give to Bill? 
+465,Bill,"Bill (Document[119]):""Bill (Document[11",Who did Fred give the apple to? 
+466,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Fred? 
+467,apple,"apple (Document[12]):""Bill gave the apple to Fred""",What did Bill give to Fred? 
+468,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Fred? 
+469,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Fred? 
+470,Fred,"Mary (Document[159]):""Mary gave the apple to Fred",Who gave the apple? 
+471,apple,"apple (Document[159]):""Mary picked up the apple there .",What did Fred give to Mary? 
+472,Mary,"Fred (Document[159]):""Fred (Document[15",Who received the apple? 
+473,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+474,apple,"apple (Document[159]):""Mary journeyed to the office .",What did Mary give to Bill? 
+475,apple,"apple (Document[12]):""Mary went back to the hallway .",What did Mary give to Fred? 
+476,apple,"apple (Document[12]):""Fred journeyed to the office . Fred",What did Fred give to Bill? 
+477,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the apple to Bill? 
+478,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Fred? 
+479,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the apple to Bill? 
+480,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+481,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+482,apple,"apple (Document[159]):""Fred journeyed to the bedroom",What did Fred give to Bill? 
+483,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+484,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Mary? 
+485,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Fred give the apple to? 
+486,apple,"apple (Document[12]):""Bill journeyed to the bedroom .",What did Fred give to Bill? 
+487,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the apple? 
+488,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Mary? 
+489,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+490,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Mary? 
+491,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+492,milk,"milk (Document[12]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+493,milk,"apple (Document[12]):""Fred went to the hallway . Bill",What did Fred give to Jeff? 
+494,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Jeff? 
+495,Jeff,"Bill (Document[129]):""Fred journeyed to the hall",Who did Fred give the football to? 
+496,football,"apple (Document[12]):""Fred journeyed to the hallway .",What did Fred give to Jeff? 
+497,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+498,football,"milk (Document[129]):""Jeff grabbed the milk",What did Jeff give to Fred? 
+499,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+500,Fred,"Fred (Document[12]):""Fred (Document[12]",Who received the football? 
+501,Jeff,"Fred (Document[119]):""Fred (Document[11",Who gave the football? 
+502,football,"milk (Document[12]):""Fred passed the football to Jeff .",What did Fred give to Jeff? 
+503,Fred,"Jeff (Document[119]):""Jeff (Document[11",Who gave the football? 
+504,football,"milk (Document[12]):""Fred passed the football to Mary.""",What did Fred give to Mary? 
+505,Fred,"Bill (Document[119]):""Bill (Document[11",Who received the football? 
+506,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the football to Fred? 
+507,Bill,"Bill (Document[149]):""Bill (Document[14",Who received the football? 
+508,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+509,Bill,"Bill (Document[159]):""Bill (Document[15",Who did Fred give the football to? 
+510,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+511,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+512,milk,"milk (Document[159]):""Jeff picked up the milk there",What did Jeff give to Fred? 
+513,milk,"milk (Document[159]):""Jeff picked up the milk there",What did Jeff give to Fred? 
+514,Fred,"Jeff (Document[159]):""Bill journeyed to the bed",Who gave the apple to Bill? 
+515,Bill,"Bill (Document[119]):""Bill (Answer: Bill)""",Who gave the apple to Mary? 
+516,Fred,"Bill (Document[159]):""Bill (Answer: Bill)""",Who gave the apple? 
+517,Fred,"Bill (Document[149]):""Bill (Document[14",Who gave the apple to Mary? 
+518,Mary,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+519,apple,"apple (Document[129]):""Fred gave the apple to Mary.""",What did Fred give to Mary? 
+520,apple,"apple (Document[3]):""Mary picked up the apple there . Fred travel",What did Mary give to Fred? 
+521,Mary,"Fred (Document[119]):""Fred (Answer: Fred)""",Who gave the apple? 
+522,Fred,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the milk to? 
+523,milk,"apple (Document[12]):""Mary gave the apple to Fred""",What did Mary give to Fred? 
+524,Mary,"Mary (Document[129]):""Mary gave the milk to Fred",Who gave the milk to Fred? 
+525,milk,"milk (Document[119]):""Mary went to the hallway",What did Mary give to Fred? 
+526,Mary,"Bill (Document[159]):""Bill went to the hallway",Who received the milk? 
+527,Mary,"Bill (Document[159]):""Bill went to the garden .",Who received the milk? 
+528,Mary,"Bill (Document[159]):""Bill went to the hallway",Who received the milk? 
+529,Jeff,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the football to Mary? 
+530,Bill,"Bill (Document[129]):""Bill went to the bathroom",Who gave the apple to Mary? 
+531,apple,"apple (Document[12]):""Bill went to the bathroom . Bill",What did Bill give to Mary? 
+532,Mary,"Mary (Document[159]):""Bill went to the bathroom",Who received the apple? 
+533,apple,"apple (Document[129]):""Bill went to the bathroom .",What did Bill give to Mary? 
+534,Fred,"Bill (Document[129]):""Mary went back to the hall",Who did Mary give the football to? 
+535,milk,"milk (Document[119]):""Fred went back to the office",What did Fred give to Bill? 
+536,Bill,"Bill (Document[129]):""Fred went back to the office",Who did Fred give the milk to? 
+537,Bill,"Bill (Document[129]):""Fred went back to the office",Who did Fred give the milk to? 
+538,Mary,"Fred (Document[159]):""Bill went to the office .",Who did Bill give the milk to? 
+539,Mary,"Fred (Document[159]):""Bill went to the office .",Who did Bill give the milk to? 
+540,Jeff,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+541,Jeff,"Jeff (Document[12]):""Bill picked up the apple there .",Who received the apple? 
+542,apple,"apple (Document[11]):""Bill picked up the apple there . Bill",What did Bill give to Jeff? 
+543,apple,"apple (Document[12]):""Bill picked up the apple there . Bill",What did Bill give to Mary? 
+544,Mary,"Jeff (Document[129]):""Bill picked up the apple there",Who did Bill give the apple to? 
+545,Jeff,"Fred (Document[12]):""Mary picked up the apple there .",Who did Mary give the apple to? 
+546,Jeff,"Mary (Document[129]):""Mary received the apple.""",Who received the apple? 
+547,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+548,Bill,"Mary (Document[159]):""Mary picked up the apple there",Who received the apple? 
+549,Mary,"Mary (Document[159]):""Mary picked up the apple there",Who gave the apple to Bill? 
+550,Mary,"Mary (Document[119]):""Mary went back to the garden",Who gave the milk to Jeff? 
+551,Jeff,"Jeff (Document[159]):""Jeff (Document[15",Who received the milk? 
+552,Mary,"Jeff (Document[129]):""Fred went to the hallway",Who did Fred give the football to? 
+553,Fred,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+554,Mary,"Mary (Document[129]):""Mary journeyed to the bed",Who received the football? 
+555,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+556,Bill,"Bill (Document[12]):""Bill (Document[12]",Who gave the apple? 
+557,apple,"apple (Document[12]):""Bill handed the apple to Fred.""",What did Bill give to Fred? 
+558,apple,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Fred give to Bill? 
+559,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+560,apple,"apple (Document[159]):""Bill went to the office . Mary",What did Fred give to Mary? 
+561,Fred,"Fred (Document[159]):""Fred (Document[15",Who received the apple? 
+562,apple,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Fred? 
+563,football,"apple (Document[159]):""Mary picked up the apple there .",What did Fred give to Mary? 
+564,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+565,apple,"apple (Document[12]):""Jeff picked up the apple there . Mary",What did Jeff give to Mary? 
+566,Mary,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+567,apple,"apple (Document[12]):""Mary gave the apple to Jeff""",What did Mary give to Jeff? 
+568,apple,"apple (Document[12]):""Jeff picked up the apple there . Mary",What did Jeff give to Mary? 
+569,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple to Mary? 
+570,milk,"milk (Document[159]):""Mary picked up the apple there",What did Mary give to Jeff? 
+571,milk,"apple (Document[12]):""Bill grabbed the apple there .",What did Jeff give to Mary? 
+572,milk,"milk (Document[159]):""Mary picked up the apple there",What did Jeff give to Mary? 
+573,Fred,"Mary (Document[159]):""Mary (Document[15",Who received the milk? 
+574,Fred,"Mary (Document[159]):""Mary (Document[15",Who received the milk? 
+575,football,"apple (Document[12]):""Bill journeyed to the hallway .",What did Bill give to Mary? 
+576,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+577,football,"apple (Document[12]):""Mary journeyed to the hallway .",What did Mary give to Fred? 
+578,football,"apple (Document[12]):""Mary journeyed to the hallway .",What did Mary give to Fred? 
+579,Fred,"Fred (Document[159]):""Mary journeyed to the hall",Who did Mary give the football to? 
+580,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the milk to Bill? 
+581,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Fred give the milk to? 
+582,milk,"apple (Document[12]):""Fred gave the apple to Bill.""",What did Fred give to Bill? 
+583,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple to Mary? 
+584,Jeff,"Jeff (Document[129]):""Jeff took the football there .",Who received the apple? 
+585,milk,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+586,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+587,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the milk to? 
+588,Jeff,"Jeff (Document[129]):""Jeff picked up the football there",Who gave the apple to Fred? 
+589,Fred,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+590,milk,"milk (Document[129]):""Bill journeyed to the bed",What did Bill give to Fred? 
+591,milk,"milk (Document[129]):""Bill journeyed to the bed",What did Bill give to Fred? 
+592,milk,"milk (Document[129]):""Bill took the milk there .",What did Bill give to Fred? 
+593,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+594,football,"milk (Document[129]):""Bill took the milk there .",What did Bill give to Fred? 
+595,Jeff,"Fred (Document[12]):""Bill grabbed the milk there",Who gave the milk to Bill? 
+596,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+597,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+598,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+599,milk,"milk (Document[129]):""Jeff took the milk there .",What did Jeff give to Bill? 
+600,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who received the football? 
+601,Mary,"Bill (Document[159]):""Jeff took the football there .",Who did Jeff give the football to? 
+602,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+603,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+604,Jeff,"Jeff (Document[159]):""Bill journeyed to the bath",Who did Bill give the milk to? 
+605,Fred,"Fred (Document[12]):""Mary picked up the apple there .",Who did Mary give the football to? 
+606,Mary,"Jeff (Document[129]):""Jeff went back to the hall",Who gave the football to Fred? 
+607,Fred,"Fred (Document[129]):""Bill journeyed to the bed",Who did Bill give the football to? 
+608,Fred,"Bill (Document[159]):""Bill""
+
+[INST",Who gave the football? 
+609,football,"football (Document[12]):""Fred gave the football to Bill""",What did Fred give to Bill? 
+610,football,"Jeff went back to the garden (Document[10]):""Jeff went",What did Jeff give to Fred? 
+611,Jeff,"Jeff (Document[129]):""Fred journeyed to the bed",Who did Fred give the football to? 
+612,Fred,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+613,Mary,"Jeff (Document[159]):""Jeff (Document[15",Who gave the football? 
+614,Mary,"Jeff (Document[159]):""Jeff gave the football to Mary",Who gave the football? 
+615,football,"football (Document[10]):""Jeff got the football there . Jeff passed",What did Jeff give to Fred? 
+616,Jeff,"Jeff (Document[129]):""Fred gave the football to Jeff",Who did Fred give the football to? 
+617,Fred,"Fred (Document[119]):""Fred (Document[11",Who gave the football to Jeff? 
+618,apple,"apple (Document[129]):""Bill gave the apple to Jeff""",What did Bill give to Jeff? 
+619,apple,"apple (Document[129]):""Jeff picked up the milk there .",What did Jeff give to Bill? 
+620,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+621,Jeff,"Jeff (Document[159]):""Jeff moved to the garden .",Who gave the apple to Fred? 
+622,Fred,"Fred (Document[159]):""Fred (Document[15",Who gave the apple to Bill? 
+623,apple,"apple (Document[159]):""Fred picked up the apple there .",What did Fred give to Bill? 
+624,Bill,"Bill (Document[159]):""Fred journeyed to the bath",Who did Fred give the apple to? 
+625,football,"football (Document[129]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+626,football,"football (Document[159]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+627,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Jeff? 
+628,Jeff,"Fred (Document[159]):""Fred (Document[15",Who received the football? 
+629,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Jeff? 
+630,Fred,"Bill (Document[129]):""Bill journeyed to the bath",Who did Jeff give the football to? 
+631,football,"apple (Document[12]):""Bill went back to the office . Bill",What did Fred give to Jeff? 
+632,Fred,"Bill (Document[119]):""Bill went back to the office",Who gave the football to Jeff? 
+633,football,"football (Document[12]):""Fred gave the football to Jeff""",What did Fred give to Jeff? 
+634,apple,"football (Document[159]):""Jeff went back to the garden .",What did Jeff give to Bill? 
+635,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the milk? 
+636,Jeff,"Bill (Document[129]):""Bill""
+
+[INST",Who gave the milk? 
+637,milk,"milk (Document[129]):""Jeff grabbed the milk",What did Jeff give to Bill? 
+638,football,"milk (Document[10]):""Mary gave the football to Fred""",What did Mary give to Fred? 
+639,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+640,Jeff,"Bill (Document[119]):""Bill (Document[11",Who received the milk? 
+641,Jeff,"Bill (Document[119]):""Bill (Document[11",Who gave the milk? 
+642,Bill,"Bill (Document[129]):""Bill gave the milk to Jeff",Who did Jeff give the milk to? 
+643,Bill,"Bill (Document[129]):""Bill journeyed to the garden",Who did Fred give the milk to? 
+644,milk,"milk (Document[129]):""Bill took the milk there .",What did Fred give to Bill? 
+645,Mary,"Mary (Document[119]):""Mary gave the apple to Bill",Who gave the apple to Bill? 
+646,apple,"apple (Document[12]):""Bill went to the bedroom . Bill",What did Bill give to Mary? 
+647,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Mary? 
+648,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+649,Mary,"Bill (Document[119]):""Bill (Document[11",Who received the apple? 
+650,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+651,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+652,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who did Jeff give the milk to? 
+653,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who did Jeff give the milk to? 
+654,milk,"apple (Document[159]):""Bill went to the kitchen . Mary",What did Jeff give to Bill? 
+655,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+656,Mary,"Fred (Document[159]):""Bill went to the hallway",Who gave the apple to Bill? 
+657,Fred,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the football to Mary? 
+658,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+659,football,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Fred? 
+660,Mary,"Mary (Document[109]):""Mary (Document[10",Who gave the apple to Jeff? 
+661,apple,"apple (Document[3]):""Jeff took the apple there . Jeff handed the",What did Jeff give to Mary? 
+662,apple,"apple (Document[11]):""Mary picked up the apple there . Mary",What did Mary give to Jeff? 
+663,apple,"apple (Document[11]):""Mary picked up the apple there . Mary",What did Mary give to Jeff? 
+664,Fred,"Jeff (Document[129]):""Jeff (Document[12",Who received the football? 
+665,Mary,"Bill (Document[159]):""Bill journeyed to the bed",Who did Bill give the football to? 
+666,Mary,"Fred (Document[139]):""Bill journeyed to the bed",Who did Bill give the football to? 
+667,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Mary? 
+668,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+669,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+670,apple,"apple (Document[12]):""Bill went to the bathroom . Jeff",What did Bill give to Fred? 
+671,apple,"apple (Document[12]):""Bill went to the bathroom . Jeff",What did Fred give to Bill? 
+672,apple,"apple (Document[159]):""Bill went to the bathroom .",What did Bill give to Fred? 
+673,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+674,Jeff,"Fred (Document[129]):""Bill went to the bathroom",Who did Bill give the apple to? 
+675,Mary,"Jeff (Document[129]):""Jeff moved to the hallway",Who gave the apple? 
+676,Mary,"Mary (Document[159]):""Mary received the apple.""",Who received the apple? 
+677,apple,"apple (Document[159]):""Mary journeyed to the garden .",What did Mary give to Jeff? 
+678,Mary,"Jeff (Document[119]):""Jeff gave the apple to Mary",Who gave the apple? 
+679,Mary,"Jeff (Document[159]):""Jeff gave the apple to Mary",Who gave the apple? 
+680,apple,"apple (Document[3]):""Bill got the apple there . Bill passed the",What did Bill give to Mary? 
+681,Mary,"Mary (Document[129]):""Bill got the apple there .",Who did Bill give the apple to? 
+682,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the apple? 
+683,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the apple to Mary? 
+684,apple,"apple (Document[12]):""Bill got the apple there . Bill passed",What did Fred give to Bill? 
+685,football,"milk (Document[129]):""Mary went to the bathroom",What did Mary give to Bill? 
+686,football,"milk (Document[159]):""Mary went to the bathroom",What did Mary give to Bill? 
+687,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+688,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+689,milk,"milk (Document[159]):""Fred journeyed to the hall",What did Fred give to Jeff? 
+690,Mary,"Mary (Document[159]):""Mary picked up the apple there",Who gave the apple to Bill? 
+691,apple,"apple (Document[159]):""Bill journeyed to the bedroom",What did Bill give to Mary? 
+692,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+693,apple,"apple (Document[159]):""Bill journeyed to the bedroom",What did Bill give to Mary? 
+694,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+695,milk,"milk (Document[119]):""Mary went back to the bath",What did Mary give to Fred? 
+696,milk,"milk (Document[119]):""Mary went back to the bath",What did Mary give to Fred? 
+697,milk,"milk (Document[12]):""Mary went back to the bathroom",What did Mary give to Fred? 
+698,Mary,"Mary (Document[159]):""Fred put down the milk there",Who did Fred give the apple to? 
+699,Fred,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+700,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple to Fred? 
+701,apple,"apple (Document[12]):""Bill passed the apple to Fred.""",What did Bill give to Fred? 
+702,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Bill give the apple to? 
+703,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+704,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+705,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+706,football,"apple (Document[12]):""Fred gave Mary the apple.""",What did Fred give to Mary? 
+707,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football to Mary? 
+708,Jeff,"Jeff (Document[129]):""Bill got the apple there .",Who received the apple? 
+709,Jeff,"Bill (Document[129]):""Bill journeyed to the bath",Who did Fred give the apple to? 
+710,Jeff,"Jeff (Document[159]):""Bill went back to the hall",Who gave the apple to Bill? 
+711,apple,"apple (Document[159]):""Jeff went back to the garden .",What did Jeff give to Bill? 
+712,Jeff,"Jeff (Document[129]):""Bill went back to the hall",Who gave the apple to Bill? 
+713,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+714,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+715,apple,"apple (Document[3]):""Mary gave the apple to Fred""",What did Mary give to Fred? 
+716,apple,"apple (Document[12]):""Mary gave the apple to Fred""",What did Mary give to Fred? 
+717,Fred,"Mary (Document[119]):""Mary gave the apple to Bill",Who gave the apple to Bill? 
+718,Fred,"Fred (Document[129]):""Bill went to the garden .",Who did Bill give the apple to? 
+719,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Fred give the apple to? 
+720,apple,"apple (Document[12]):""Bill gave the apple to Jeff.""",What did Bill give to Jeff? 
+721,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+722,milk,"apple (Document[119]):""Jeff picked up the milk there .",What did Jeff give to Bill? 
+723,milk,"apple (Document[12]):""Jeff picked up the milk there . Bill",What did Jeff give to Bill? 
+724,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Jeff give the milk to? 
+725,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+726,football,"apple (Document[12]):""Fred went to the garden . Fred picked",What did Fred give to Mary? 
+727,football,"football (Document[11]):""Fred went to the garden . Fred picked",What did Fred give to Mary? 
+728,Mary,"Mary (Document[129]):""Mary (Document[12",Who gave the football to Fred? 
+729,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Jeff? 
+730,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Bill give the milk to? 
+731,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Bill give the milk to? 
+732,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Fred? 
+733,Fred,"Bill (Document[149]):""Bill (Document[14",Who did Bill give the milk to? 
+734,apple,"milk (Document[119]):""Bill passed the milk to Fred",What did Mary give to Fred? 
+735,Fred,"Bill (Document[129]):""Bill journeyed to the bath",Who did Mary give the milk to? 
+736,Mary,"Mary (Document[129]):""Fred put down the milk .",Who did Fred give the milk to? 
+737,milk,"milk (Document[159]):""Fred put down the milk .",What did Fred give to Mary? 
+738,Fred,"Fred (Document[159]):""Bill journeyed to the bath",Who gave the football to Bill? 
+739,football,"milk (Document[159]):""Fred put down the milk .",What did Fred give to Bill? 
+740,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Fred? 
+741,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+742,milk,"milk (Document[159]):""Mary picked up the apple there",What did Mary give to Fred? 
+743,football,"milk (Document[129]):""Mary picked up the apple there",What did Mary give to Fred? 
+744,football,"milk (Document[129]):""Mary picked up the apple there",What did Mary give to Fred? 
+745,Bill,"Bill (Document[129]):""Bill went to the bedroom",Who did Fred give the milk to? 
+746,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who did Fred give the milk to? 
+747,milk,"apple (Document[159]):""Bill went to the bedroom .",What did Bill give to Mary? 
+748,Bill,"Fred (Document[159]):""Fred gave the milk to Mary",Who gave the milk to Mary? 
+749,milk,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Fred? 
+750,Bill,"Bill (Document[129]):""Bill went back to the office",Who gave the apple to Jeff? 
+751,Jeff,"Jeff (Document[129]):""Bill went back to the office",Who did Bill give the apple to? 
+752,apple,"apple (Document[139]):""Bill went back to the office .",What did Jeff give to Bill? 
+753,Bill,"Bill (Document[159]):""Jeff went back to the garden",Who did Jeff give the football to? 
+754,football,"apple (Document[159]):""Bill went back to the office .",What did Bill give to Jeff? 
+755,Fred,"Fred (Document[12]):""Fred (Document[12]",Who gave the apple to Jeff? 
+756,Jeff,"Jeff (Document[119]):""Fred journeyed to the garden",Who did Fred give the apple to? 
+757,Fred,"Fred (Document[129]):""Fred (Document[12",Who gave the apple to Jeff? 
+758,Fred,"Jeff (Document[119]):""Jeff journeyed to the garden",Who gave the milk? 
+759,Fred,"Jeff (Document[119]):""Jeff journeyed to the garden",Who gave the milk? 
+760,apple,"apple (Document[3]):""Fred gave the apple to Jeff""",What did Fred give to Jeff? 
+761,Jeff,"Fred (Document[12]):""Mary picked up the apple there .",Who did Mary give the apple to? 
+762,Mary,"Fred (Document[12]):""Fred (Document[12]",Who gave the apple? 
+763,Mary,"Mary (Document[159]):""Mary (Document[15",Who gave the apple? 
+764,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+765,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+766,football,"apple (Document[12]):""Fred gave the football to Bill""",What did Fred give to Bill? 
+767,football,"apple (Document[12]):""Fred gave the football to Bill.""",What did Fred give to Bill? 
+768,Bill,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+769,Jeff,"Fred (Document[159]):""Bill journeyed to the bed",Who gave the football to Bill? 
+770,Bill,"Bill (Document[109]):""Bill (Document[10",Who gave the apple? 
+771,Mary,"Mary (Document[129]):""Bill grabbed the apple",Who did Bill give the apple to? 
+772,apple,"apple (Document[11]):""Bill grabbed the apple there .",What did Mary give to Bill? 
+773,apple,"apple (Document[11]):""Bill grabbed the apple there .",What did Bill give to Mary? 
+774,Bill,"Bill (Document[119]):""Bill (Document[11",Who gave the apple to Mary? 
+775,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+776,milk,"milk (Document[159]):""Mary went to the office .",What did Mary give to Fred? 
+777,Fred,"Fred (Document[159]):""Bill went to the hallway",Who did Bill give the apple to? 
+778,apple,"apple (Document[159]):""Fred went to the office . Mary",What did Fred give to Bill? 
+779,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+780,Mary,"Mary (Document[129]):""Bill took the football there .",Who received the football? 
+781,Mary,"Mary (Document[129]):""Bill took the football there .",Who did Bill give the football to? 
+782,apple,"apple (Document[11]):""Jeff picked up the apple there . Jeff",What did Jeff give to Mary? 
+783,Mary,"Mary (Document[119]):""Jeff picked up the apple there",Who did Jeff give the apple to? 
+784,apple,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Fred? 
+785,milk,"milk (Document[11]):""Fred moved to the kitchen . Fred",What did Fred give to Mary? 
+786,milk,"apple (Document[12]):""Fred moved to the kitchen . Fred travel",What did Fred give to Mary? 
+787,milk,"apple (Document[12]):""Fred moved to the kitchen . Fred tra",What did Fred give to Mary? 
+788,milk,"apple (Document[159]):""Bill went to the hallway .",What did Bill give to Mary? 
+789,milk,"apple (Document[159]):""Bill went to the hallway .",What did Bill give to Mary? 
+790,apple,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Fred give to Mary? 
+791,Fred,"Fred (Document[159]):""Fred (Document[15",Who gave the apple to Mary? 
+792,Mary,"Fred (Document[159]):""Fred (Document[15",Who gave the apple? 
+793,Mary,"Mary (Document[159]):""Mary picked up the apple there",Who did Jeff give the apple to? 
+794,Mary,"Mary (Document[159]):""Mary journeyed to the garden",Who received the apple? 
+795,apple,"apple (Document[159]):""Mary moved to the garden . Bill",What did Mary give to Bill? 
+796,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+797,apple,"apple (Document[159]):""Mary journeyed to the office .",What did Mary give to Bill? 
+798,Mary,"Mary (Document[159]):""Mary passed the apple to Bill",Who gave the apple to Bill? 
+799,apple,"apple (Document[159]):""Mary journeyed to the office .",What did Mary give to Bill? 
+800,Jeff,"Jeff (Document[119]):""Jeff (Document[11",Who gave the football to Fred? 
+801,football,"football (Document[10]):""Jeff grabbed the football there .",What did Jeff give to Fred? 
+802,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football to Fred? 
+803,football,"apple (Document[139]):""Mary picked up the apple there .",What did Mary give to Fred? 
+804,Mary,"Fred (Document[159]):""Fred (Document[15",Who received the football? 
+805,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who gave the apple? 
+806,apple,"apple (Document[15]):""Jeff took the apple there . Jeff put",What did Jeff give to Mary? 
+807,apple,"apple (Document[15]):""Jeff took the apple there . Jeff put",What did Jeff give to Mary? 
+808,Jeff,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+809,milk,"apple (Document[159]):""Jeff took the apple there . Jeff",What did Jeff give to Fred? 
+810,Mary,"Bill (Document[129]):""Bill went to the kitchen .",Who gave the football? 
+811,Jeff,"Jeff (Document[129]):""Bill went to the kitchen .",Who gave the football? 
+812,Mary,"Jeff (Document[129]):""Jeff (Document[12",Who gave the football? 
+813,Mary,"Jeff (Document[129]):""Bill went to the kitchen .",Who gave the football to Bill? 
+814,Bill,"Bill (Document[159]):""Bill went to the kitchen .",Who did Mary give the football to? 
+815,milk,"milk (Document[12]):""Bill gave the milk to Jeff""",What did Bill give to Jeff? 
+816,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+817,Bill,"Bill (Document[12]):""Bill (Document[12]",Who gave the milk to Jeff? 
+818,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+819,milk,"milk (Document[159]):""Bill took the milk there .",What did Fred give to Bill? 
+820,football,"apple (Document[12]):""Fred grabbed the milk there .",What did Fred give to Bill? 
+821,Fred,"Fred (Document[129]):""Bill journeyed to the bath",Who did Bill give the football to? 
+822,football,"apple (Document[12]):""Bill went to the bathroom . Fred",What did Bill give to Fred? 
+823,apple,"apple (Document[159]):""Bill went to the bathroom .",What did Bill give to Mary? 
+824,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+825,Bill,"Bill (Document[129]):""Fred went to the office .",Who did Fred give the milk to? 
+826,Bill,"Bill (Document[129]):""Fred went to the office .",Who did Fred give the milk to? 
+827,milk,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Fred give to Bill? 
+828,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+829,milk,"milk (Document[159]):""Bill went back to the bath",What did Bill give to Fred? 
+830,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the apple to Mary? 
+831,Mary,"Mary (Document[159]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+832,Mary,"Mary (Document[159]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+833,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+834,apple,"apple (Document[159]):""Bill journeyed to the bedroom",What did Bill give to Mary? 
+835,Mary,"Bill (Document[159]):""Bill journeyed to the bed",Who did Bill give the football to? 
+836,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+837,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+838,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Bill? 
+839,Bill,"Bill (Document[159]):""Bill (Document[15",Who did Fred give the football to? 
+840,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+841,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+842,Jeff,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+843,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+844,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+845,Fred,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+846,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+847,football,"apple (Document[159]):""Mary journeyed to the hallway",What did Mary give to Fred? 
+848,Bill,"Bill (Document[159]):""Jeff went to the garden .",Who did Jeff give the apple to? 
+849,apple,"apple (Document[159]):""Jeff went to the garden . Bill",What did Jeff give to Bill? 
+850,apple,"apple (Document[3]):""Jeff passed the apple to Mary""",What did Jeff give to Mary? 
+851,apple,"apple (Document[3]):""Jeff passed the apple to Mary""",What did Jeff give to Mary? 
+852,Mary,"Mary (Document[129]):""Mary picked up the apple there",Who did Jeff give the apple to? 
+853,football,"apple (Document[12]):""Jeff went back to the garden . Mary",What did Jeff give to Mary? 
+854,Mary,"Mary (Document[159]):""Mary went to the garden .",Who did Jeff give the football to? 
+855,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Fred? 
+856,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+857,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+858,milk,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Fred give to Mary? 
+859,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+860,milk,"apple (Document[12]):""Jeff took the milk there . Jeff passed",What did Jeff give to Mary? 
+861,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+862,milk,"milk (Document[11]):""Jeff went back to the garden .",What did Jeff give to Mary? 
+863,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+864,Jeff,"Mary (Document[159]):""Mary journeyed to the office",Who gave the apple? 
+865,Mary,"Bill (Document[119]):""Bill went to the kitchen .",Who gave the milk to Fred? 
+866,milk,"milk (Document[129]):""Bill went to the kitchen .",What did Fred give to Mary? 
+867,milk,"milk (Document[129]):""Bill went to the kitchen .",What did Mary give to Fred? 
+868,Mary,"Mary (Document[119]):""Fred journeyed to the hall",Who did Fred give the milk to? 
+869,Mary,"Bill (Document[129]):""Bill went to the kitchen .",Who gave the milk? 
+870,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the milk to Mary? 
+871,Bill,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+872,Mary,"Mary (Document[129]):""Bill went to the garden .",Who did Bill give the football to? 
+873,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+874,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+875,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+876,Mary,"Mary (Document[129]):""Bill went to the garden .",Who did Bill give the football to? 
+877,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+878,football,"apple (Document[12]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+879,Fred,"Bill (Document[129]):""Bill (Document[12",Who did Mary give the football to? 
+880,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+881,Jeff,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+882,milk,"apple (Document[159]):""Bill journeyed to the bedroom",What did Bill give to Fred? 
+883,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Fred? 
+884,milk,"apple (Document[159]):""Bill journeyed to the bedroom",What did Bill give to Fred? 
+885,Bill,"Bill (Document[159]):""Bill (Document[15",Who received the apple? 
+886,Bill,"Bill (Document[159]):""Jeff went back to the garden",Who did Jeff give the apple to? 
+887,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who received the apple? 
+888,Jeff,"Jeff (Document[119]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+889,Jeff,"Jeff (Document[119]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+890,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+891,apple,"apple (Document[12]):""Mary gave the apple to Fred.""",What did Mary give to Fred? 
+892,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+893,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+894,Fred,"Fred (Document[159]):""Bill journeyed to the office",Who did Bill give the apple to? 
+895,Fred,"Bill (Document[119]):""Bill (Document[11",Who gave the apple? 
+896,Fred,"Fred (Document[129]):""Mary picked up the milk there",Who did Mary give the apple to? 
+897,Fred,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+898,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the football? 
+899,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the football? 
+900,Jeff,"Fred (Document[159]):""Fred (Document[15",Who received the apple? 
+901,apple,"apple (Document[159]):""Fred picked up the apple there .",What did Fred give to Jeff? 
+902,Jeff,"Jeff (Document[129]):""Fred picked up the apple there .",Who did Fred give the apple to? 
+903,apple,"apple (Document[159]):""Fred picked up the apple there .",What did Fred give to Jeff? 
+904,Fred,"Fred (Document[159]):""Fred (Document[15",Who received the apple? 
+905,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk to Fred? 
+906,milk,"apple (Document[12]):""Bill went to the bedroom . Fred",What did Fred give to Bill? 
+907,Fred,"Fred (Document[159]):""Bill went to the bedroom",Who did Bill give the milk to? 
+908,Bill,"Bill (Document[159]):""Bill (Answer: Bill)""",Who gave the milk to Fred? 
+909,Fred,"Bill (Document[159]):""Bill (Answer: Bill)""",Who gave the milk? 
+910,milk,"football (Document[119]):""Bill journeyed to the bedroom",What did Fred give to Jeff? 
+911,Jeff,"Bill (Document[129]):""Bill (Document[12",Who did Fred give the milk to? 
+912,Mary,"Bill (Document[159]):""Bill (Document[15",Who received the milk? 
+913,Jeff,"Fred (Document[159]):""Fred gave the milk to Jeff",Who gave the milk? 
+914,milk,"Bill (Document[159]):""Bill journeyed to the bed",What did Jeff give to Mary? 
+915,football,"apple (Document[12]):""Fred journeyed to the hallway .",What did Fred give to Mary? 
+916,Mary,"Mary (Document[129]):""Fred journeyed to the hall",Who received the football? 
+917,Mary,"Mary (Document[159]):""Mary (Document[15",Who gave the football? 
+918,Mary,"Fred (Document[12]):""Fred (Document[12]",Who gave the football? 
+919,Fred,"Fred (Document[159]):""Fred gave the football to Jeff",Who gave the football to Jeff? 
+920,Mary,"Mary (Document[119]):""Mary (Document[11",Who gave the apple to Fred? 
+921,Fred,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+922,Fred,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+923,Mary,"Fred (Document[129]):""Fred (Document[12",Who gave the apple? 
+924,football,"apple (Document[12]):""Jeff took the football there . Jeff handed",What did Jeff give to Mary? 
+925,Mary,"Fred (Document[129]):""Fred (Document[12",Who gave the milk? 
+926,Bill,"Bill (Document[129]):""Fred went back to the garden",Who did Fred give the milk to? 
+927,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the apple? 
+928,milk,"apple (Document[12]):""Fred went back to the garden . Fred",What did Fred give to Bill? 
+929,apple,"apple (Document[129]):""Bill went back to the bedroom",What did Bill give to Fred? 
+930,apple,"apple (Document[12]):""Mary gave the apple to Fred""",What did Mary give to Fred? 
+931,Mary,"Mary (Document[159]):""Mary gave the apple to Fred",Who gave the apple? 
+932,apple,"apple (Document[159]):""Mary went back to the bedroom",What did Mary give to Fred? 
+933,Jeff,"Mary (Document[159]):""Mary gave the apple to Fred",Who gave the apple to Fred? 
+934,Jeff,"Mary (Document[159]):""Mary gave the apple to Fred",Who gave the apple? 
+935,Fred,"Fred (Document[129]):""Bill went to the garden .",Who did Bill give the apple to? 
+936,Bill,"Bill (Document[119]):""Bill (Bill went to",Who gave the apple? 
+937,apple,"apple (Document[159]):""Bill went to the garden . Bill",What did Fred give to Bill? 
+938,Bill,"Bill (Document[129]):""Bill went to the garden .",Who did Fred give the apple to? 
+939,Bill,"Bill (Document[129]):""Bill (Bill went to",Who received the apple? 
+940,football,"apple (Document[12]):""Fred went to the bathroom . Jeff",What did Jeff give to Bill? 
+941,football,"apple (Document[12]):""Bill gave the football to Jeff.""",What did Bill give to Jeff? 
+942,Bill,"Bill (Document[129]):""Bill (Document[12",Who gave the football to Jeff? 
+943,apple,"apple (Document[12]):""Fred went to the bathroom . Jeff",What did Fred give to Mary? 
+944,Fred,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+945,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the apple to Jeff? 
+946,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who did Jeff give the apple to? 
+947,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who received the apple? 
+948,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the apple? 
+949,Jeff,"Jeff (Document[129]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+950,Fred,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the milk to Jeff? 
+951,Jeff,"Jeff (Document[129]):""Jeff (Document[12",Who received the milk? 
+952,Fred,"Bill (Document[129]):""Bill went back to the bed",Who did Jeff give the milk to? 
+953,Jeff,"Jeff (Document[129]):""Fred journeyed to the garden",Who did Fred give the milk to? 
+954,milk,"milk (Document[129]):""Fred journeyed to the hall",What did Jeff give to Fred? 
+955,milk,"milk (Document[129]):""Mary picked up the milk there",What did Mary give to Bill? 
+956,Mary,"Mary (Document[119]):""Bill went to the hallway",Who did Bill give the milk to? 
+957,Bill,"Bill (Document[12]):""Bill (Document[12]",Who gave the milk to Mary? 
+958,Mary,"Bill (Document[139]):""Bill (Document[13",Who gave the football? 
+959,Mary,"Bill (Document[129]):""Bill (Document[12",Who received the football? 
+960,apple,"apple (Document[159]):""Fred picked up the apple there .",What did Fred give to Jeff? 
+961,Jeff,"Bill (Document[139]):""Fred journeyed to the hall",Who did Fred give the apple to? 
+962,Fred,"Bill (Document[159]):""Bill (Document[15",Who gave the apple to Jeff? 
+963,Fred,"Fred (Document[159]):""Fred (Document[15",Who gave the apple? 
+964,Fred,"Jeff (Document[119]):""Jeff (Document[11",Who gave the apple? 
+965,Fred,"Bill (Document[129]):""Bill (Document[12",Who received the apple? 
+966,Mary,"Mary (Document[159]):""Mary journeyed to the bed",Who gave the apple to Fred? 
+967,Fred,"Fred (Document[129]):""Mary journeyed to the bed",Who did Mary give the apple to? 
+968,apple,"apple (Document[159]):""Mary journeyed to the bedroom",What did Mary give to Fred? 
+969,Fred,"Mary (Document[159]):""Mary gave the apple to Fred",Who gave the apple? 
+970,Bill,"Bill (Document[129]):""Bill journeyed to the office",Who received the milk? 
+971,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the milk? 
+972,Bill,"Bill (Document[159]):""Bill journeyed to the office",Who gave the milk to Mary? 
+973,Mary,"Bill (Document[159]):""Bill journeyed to the office",Who gave the milk to Jeff? 
+974,Fred,"Bill (Document[159]):""Bill""
+
+[INST",Who gave the football? 
+975,football,"milk (Document[119]):""Bill journeyed to the bath",What did Jeff give to Bill? 
+976,football,"milk (Document[11]):""Bill journeyed to the bathroom",What did Jeff give to Bill? 
+977,Jeff,"Bill (Document[129]):""Bill journeyed to the bath",Who did Mary give the milk to? 
+978,milk,"milk (Document[12]):""Mary went to the bathroom .",What did Mary give to Jeff? 
+979,Mary,"Bill (Document[119]):""Bill (Document[11",Who received the football? 
+980,milk,"milk (Document[159]):""Fred went back to the hall",What did Fred give to Mary? 
+981,Fred,"Bill (Document[129]):""Bill went to the bedroom",Who gave the milk? 
+982,Fred,"Bill (Document[159]):""Bill went to the bedroom",Who gave the milk to Mary? 
+983,Fred,"Bill (Document[129]):""Bill went to the bedroom",Who received the milk? 
+984,Fred,"Mary (Document[159]):""Mary (Document[15",Who gave the milk? 
+985,Jeff,"Bill (Document[129]):""Bill (Document[12",Who received the milk? 
+986,Fred,"Fred (Document[129]):""Fred gave the milk to Jeff",Who gave the milk? 
+987,Fred,"Fred (Document[129]):""Fred went back to the garden",Who gave the milk to Jeff? 
+988,Fred,"Fred (Document[129]):""Fred gave the milk to Jeff",Who gave the milk? 
+989,Bill,"Fred (Document[159]):""Fred went back to the garden",Who received the milk? 
+990,apple,"apple (Document[12]):""Bill went back to the garden . Fred",What did Bill give to Fred? 
+991,Fred,"Fred (Document[129]):""Bill went to the hallway",Who did Bill give the apple to? 
+992,Bill,"Bill (Document[159]):""Bill (Document[15",Who gave the apple? 
+993,football,"football (Document[159]):""Jeff went back to the office .",What did Jeff give to Mary? 
+994,Jeff,"Jeff (Document[159]):""Jeff gave the football to Mary",Who gave the football to Mary? 
+995,Bill,"Bill (Document[119]):""Bill (Document[11",Who received the football? 
+996,Fred,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+997,football,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Bill? 
+998,football,"apple (Document[159]):""Fred journeyed to the bedroom",What did Mary give to Bill? 

@@ -1,0 +1,3282 @@
+Unnamed: 0,target,output,question
+0,football,"Answer: The football.
+
+Context: Fred picked up the football there. Fred gave the football to Jeff.",What did Fred give to Jeff? 
+1,Fred,"Answer: Fred gave the football to Jeff.
+
+Context: Fred picked up the football there. Fred gave the",Who gave the football to Jeff? 
+2,football,"Answer: The football.
+
+Context: Fred picked up the football there. Fred gave the football to Jeff.",What did Fred give to Jeff? 
+3,Jeff,"Answer: Jeff
+
+Context: Fred picked up the football there. Fred gave the football to Jeff. Bill went",Who did Fred give the football to? 
+4,Fred,"Answer: Fred
+
+Question: Who did Fred give the football to?
+
+Answer: Jeff
+
+Question",Who did Jeff give the football to? 
+5,Jeff,"Answer: Jeff
+
+Context: Mary moved to the hallway. Jeff moved to the garden. Jeff got the apple",Who gave the apple? 
+6,Bill,"Answer: Bill
+
+Context: Mary moved to the hallway. Jeff moved to the garden. Jeff got the apple",Who received the apple? 
+7,apple,"Answer: The apple.
+
+Context: Mary moved to the hallway. Jeff moved to the garden. Jeff got",What did Bill give to Fred? 
+8,apple,"Answer: The apple.
+
+Context: Mary moved to the hallway. Jeff moved to the garden. Jeff got",What did Bill give to Fred? 
+9,Fred,"Answer: Fred
+
+Context: Mary moved to the hallway. Jeff moved to the garden. Jeff got the apple",Who received the apple? 
+10,Mary,"Answer: Mary
+
+Context: Fred journeyed to the bedroom. Fred got the milk there. Fred went back",Who received the milk? 
+11,milk,"Answer: The milk.
+
+Context: Fred journeyed to the bedroom. Fred got the milk there. Fred",What did Mary give to Bill? 
+12,Bill,"Answer: Mary
+
+Context: Fred journeyed to the bedroom. Fred got the milk there. Fred went back",Who received the milk? 
+13,Bill,"Answer: Bill
+
+Question: Who did Bill hand the milk to?
+
+Answer: Mary
+
+Question",Who did Mary give the milk to? 
+14,milk,"Answer: The milk.
+
+Context: Fred journeyed to the bedroom. Fred got the milk there. Fred",What did Mary give to Bill? 
+15,Jeff,"Answer: Jeff
+
+Context: Fred got the football there. Fred travelled to the garden. Fred passed the football",Who received the football? 
+16,Fred,"Answer: Fred gave the football to Jeff.
+
+Context: Fred got the football there. Fred travelled to the",Who gave the football to Jeff? 
+17,football,"Answer: The football.
+
+Context: Fred got the football there. Fred travelled to the garden. Fred passed",What did Fred give to Jeff? 
+18,Jeff,"Answer: Jeff
+
+Question: Who gave the football to Jeff?
+
+Answer: Fred
+
+Question:",Who received the football? 
+19,Mary,"Answer: Mary
+
+Question: Who took the apple?
+
+Answer: Bill
+
+Question: Who took",Who gave the milk? 
+20,milk,Answer: milk,What did Jeff give to Mary? 
+21,Mary,"Answer: Mary
+
+Context: Fred travelled to the kitchen. Bill travelled to the office. Mary travelled to the",Who gave the milk to Jeff? 
+22,Mary,Answer: Mary,Who gave the milk to Jeff? 
+23,Bill,Answer: Bill,Who gave the apple to Jeff? 
+24,Jeff,"Answer: Bill
+
+Context: Fred travelled to the kitchen. Bill travelled to the office. Mary travelled to the",Who gave the apple? 
+25,apple,"Answer: apple
+
+Question: What did Jeff get?
+
+Answer: apple
+
+Question: What did",What did Jeff give to Fred? 
+26,Fred,Answer: Fred,Who received the apple? 
+27,Jeff,"Answer: Jeff
+
+### 1.2.2.2. The Garden¶
+
+Context: Bill",Who received the apple? 
+28,Jeff,"Answer: Jeff
+
+Context: Bill travelled to the garden. Jeff travelled to the garden. Bill travelled to the",Who gave the apple? 
+29,Fred,"Answer: Fred
+
+Context: Bill travelled to the garden. Jeff travelled to the garden. Bill travelled to the",Who did Jeff give the apple to? 
+30,Mary,"Answer: Mary gave the milk.
+
+Context: Fred grabbed the football there. Jeff picked up the apple there",Who gave the milk? 
+31,Bill,"Answer: Mary gave the milk.
+
+Context: Fred grabbed the football there. Jeff picked up the apple there",Who gave the milk? 
+32,Bill,"Answer: Bill
+
+Context: Fred grabbed the football there. Jeff picked up the apple there. Bill took the",Who gave the milk to Mary? 
+33,milk,"Answer: The milk.
+
+Context: Fred grabbed the football there. Jeff picked up the apple there. Bill",What did Bill give to Mary? 
+34,apple,"Answer: The apple.
+
+Context: Fred grabbed the football there. Jeff picked up the apple there. Bill",What did Mary give to Fred? 
+35,Jeff,Answer: Jeff,Who did Fred give the milk to? 
+36,Jeff,"Answer: Jeff
+
+### 10.1.2. The Game of Life¶
+
+The Game",Who did Fred give the milk to? 
+37,milk,"Answer: The milk.
+
+Context: Bill went to the bathroom. Mary went back to the garden. Mary",What did Jeff give to Mary? 
+38,milk,"Answer: The milk.
+
+Context: Bill went to the bathroom. Mary went back to the garden. Mary",What did Jeff give to Mary? 
+39,Fred,"Answer: Fred
+
+Context: Bill went to the bathroom. Mary went back to the garden. Mary went back",Who gave the apple? 
+40,Mary,Answer: Fred,Who gave the milk? 
+41,milk,"Answer: The milk.
+
+Context: Fred picked up the football there. Jeff travelled to the hallway. Bill",What did Mary give to Fred? 
+42,Jeff,Answer: Mary,Who gave the milk? 
+43,Fred,Answer: Fred,Who received the milk? 
+44,Mary,Answer: Fred,Who gave the milk? 
+45,Bill,"Answer: Bill
+
+Context: Mary went back to the hallway. Mary went back to the bathroom. Mary went",Who did Mary give the milk to? 
+46,milk,"Answer: The milk.
+
+Context: Mary went back to the hallway. Mary went back to the bathroom.",What did Mary give to Bill? 
+47,Mary,"Answer: Bill gave the milk.
+
+Context: Mary went back to the hallway. Mary went back to the",Who gave the milk? 
+48,Mary,"Answer: Mary
+
+Context: Mary went back to the hallway. Mary went back to the bathroom. Mary went",Who did Bill give the milk to? 
+49,Bill,"Answer: Bill
+
+Context: Mary went back to the hallway. Mary went back to the bathroom. Mary went",Who gave the milk to Mary? 
+50,Mary,"Answer: Mary
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen. Fred went to",Who gave the apple to Fred? 
+51,Fred,"Answer: Fred
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen. Fred went to",Who gave the apple to Mary? 
+52,apple,"Answer: The apple.
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen. Fred",What did Fred give to Mary? 
+53,apple,"Answer: The apple.
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen. Fred",What did Mary give to Jeff? 
+54,apple,"Answer: The apple.
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen. Fred",What did Mary give to Jeff? 
+55,Fred,"Answer: Fred
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved to the",Who received the football? 
+56,football,"Answer: The football.
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved",What did Bill give to Fred? 
+57,Bill,"Answer: Bill
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved to the",Who gave the apple? 
+58,Bill,"Answer: Bill
+
+### 1.2.2.2. The Blocks World¶
+
+The Blocks",Who did Mary give the apple to? 
+59,Jeff,"Answer: Mary
+
+### 1.2.2.2. The Blocks World¶
+
+The Blocks",Who did Bill give the apple to? 
+60,Jeff,"Answer: Jeff
+
+Context: Mary travelled to the kitchen. Jeff travelled to the garden. Mary picked up the",Who did Bill give the apple to? 
+61,Bill,"Answer: Bill
+
+Context: Mary travelled to the kitchen. Jeff travelled to the garden. Mary picked up the",Who gave the apple to Jeff? 
+62,Jeff,"Answer: Bill gave the apple to Bill.
+
+Context: Mary travelled to the kitchen. Jeff travelled to the",Who gave the apple to Bill? 
+63,Bill,"Answer: Bill
+
+### 10.1.2.2. The 2-D Grid World",Who received the apple? 
+64,Mary,"Answer: Mary
+
+Context: Mary travelled to the kitchen. Jeff travelled to the garden. Mary picked up the",Who gave the milk? 
+65,Mary,"Answer: Mary
+
+Context: Bill moved to the bedroom. Fred went to the hallway. Jeff went to the",Who gave the apple to Bill? 
+66,Bill,"Answer: Bill
+
+Context: Bill moved to the bedroom. Fred went to the hallway. Jeff went to the",Who did Mary give the apple to? 
+67,Mary,"Answer: Mary
+
+Context: Bill moved to the bedroom. Fred went to the hallway. Jeff went to the",Who did Bill give the apple to? 
+68,apple,"Answer: The apple.
+
+Context: Bill moved to the bedroom. Fred went to the hallway. Jeff went",What did Bill give to Mary? 
+69,Mary,"Answer: Mary
+
+Question: Who did Fred give the apple to?
+
+Answer: Mary
+
+Question",Who did Bill give the apple to? 
+70,apple,"Answer: The apple.
+
+Context: Bill travelled to the bathroom. Jeff journeyed to the garden. Mary",What did Fred give to Jeff? 
+71,Jeff,"Answer: Jeff
+
+Context: Bill travelled to the bathroom. Jeff journeyed to the garden. Mary journeyed",Who gave the football? 
+72,Jeff,"Answer: Jeff
+
+Context: Bill travelled to the bathroom. Jeff journeyed to the garden. Mary journeyed",Who gave the football? 
+73,apple,"Answer: apple
+
+Context: Bill travelled to the bathroom. Jeff journeyed to the garden. Mary journeyed",What did Fred give to Bill? 
+74,apple,"Answer: apple
+
+Context: Bill travelled to the bathroom. Jeff journeyed to the garden. Mary journeyed",What did Fred give to Bill? 
+75,Fred,"Answer: Fred gave the football.
+
+Context: Fred took the football there. Fred journeyed to the hallway",Who gave the football? 
+76,Fred,"Answer: Fred gave the football.
+
+Context: Fred took the football there. Fred journeyed to the hallway",Who gave the football? 
+77,Mary,"Answer: Mary
+
+Context: Fred took the football there. Fred journeyed to the hallway. Fred passed the",Who received the football? 
+78,Mary,"Answer: Mary gave the football.
+
+Context: Fred took the football there. Fred journeyed to the hallway",Who gave the football? 
+79,football,"Answer: The football.
+
+Context: Fred took the football there. Fred journeyed to the hallway. Fred",What did Mary give to Fred? 
+80,milk,"Answer: The milk.
+
+Context: Fred moved to the garden. Jeff went back to the garden. Mary",What did Fred give to Jeff? 
+81,milk,"Answer: The milk.
+
+Context: Fred moved to the garden. Jeff went back to the garden. Mary",What did Fred give to Jeff? 
+82,Fred,"Answer: Fred
+
+### 1.1.2.2. The Game of Life¶
+
+The",Who did Jeff give the milk to? 
+83,milk,"Answer: The milk.
+
+Question: What did Fred give to Jeff?
+
+Answer: The football.",What did Jeff give to Fred? 
+84,Jeff,"Answer: Jeff
+
+Context: Fred moved to the garden. Jeff went back to the garden. Mary travelled to",Who gave the milk to Fred? 
+85,Fred,"Answer: Fred
+
+Context: Bill went back to the kitchen. Bill took the apple there. Bill passed the",Who did Mary give the apple to? 
+86,Fred,"Answer: Fred.
+
+Context: Bill went back to the kitchen. Bill took the apple there. Bill passed",Who gave the apple to Mary? 
+87,Mary,"Answer: Mary gave the apple.
+
+Context: Bill went back to the kitchen. Bill took the apple there",Who gave the apple? 
+88,Jeff,"Answer: Jeff
+
+Context: Bill went back to the kitchen. Bill took the apple there. Bill passed the",Who did Mary give the apple to? 
+89,Jeff,"Answer: Jeff
+
+Context: Bill went back to the kitchen. Bill took the apple there. Bill passed the",Who received the football? 
+90,football,"Answer: The football.
+
+Context: Fred travelled to the hallway. Bill grabbed the apple there. Jeff went",What did Mary give to Jeff? 
+91,Mary,Answer: Mary,Who received the football? 
+92,Mary,Answer: Jeff,Who gave the football? 
+93,Jeff,"Answer: Jeff
+
+Question: Who did Jeff give the football to?
+
+Answer: Mary
+
+Question",Who did Mary give the football to? 
+94,Bill,Answer: Bill,Who did Fred give the apple to? 
+95,Jeff,"Answer: Jeff
+
+Context: Mary grabbed the apple there. Mary gave the apple to Jeff.
+
+Question",Who did Mary give the apple to? 
+96,Mary,"Answer: Mary gave the apple to Jeff.
+
+Context: Mary grabbed the apple there. Mary gave the apple",Who gave the apple to Jeff? 
+97,apple,"Answer: The apple.
+
+Context: Mary grabbed the apple there. Mary gave the apple to Jeff. Jeff",What did Jeff give to Fred? 
+98,Fred,"Answer: Fred
+
+Context: Mary grabbed the apple there. Mary gave the apple to Jeff. Jeff moved to",Who did Jeff give the apple to? 
+99,milk,"Answer: The milk.
+
+Context: Mary grabbed the apple there. Mary gave the apple to Jeff. Jeff",What did Bill give to Mary? 
+100,Bill,"Answer: Bill
+
+Context: Bill moved to the bedroom. Jeff went to the office. Jeff went to the",Who did Mary give the apple to? 
+101,Bill,"Answer: Bill
+
+Context: Bill moved to the bedroom. Jeff went to the office. Jeff went to the",Who received the apple? 
+102,Fred,"Answer: Bill
+
+Context: Bill moved to the bedroom. Jeff went to the office. Jeff went to the",Who gave the apple? 
+103,Bill,"Answer: Mary
+
+Context: Bill moved to the bedroom. Jeff went to the office. Jeff went to the",Who gave the apple? 
+104,apple,"Answer: apple
+
+Question: What did Bill do with the apple?
+
+Answer: put down",What did Mary give to Bill? 
+105,Jeff,"Answer: Jeff
+
+Context: Mary grabbed the milk there. Mary gave the milk to Jeff.
+
+Question",Who received the milk? 
+106,Mary,"Answer: Mary
+
+Context: Mary grabbed the milk there. Mary gave the milk to Jeff. Mary moved to",Who gave the milk? 
+107,Jeff,"Answer: Jeff
+
+Context: Mary grabbed the milk there. Mary gave the milk to Jeff. Mary moved to",Who did Mary give the milk to? 
+108,football,"Answer: The football.
+
+Context: Mary grabbed the milk there. Mary gave the milk to Jeff. Mary",What did Bill give to Mary? 
+109,Mary,"Answer: Bill
+
+Context: Mary grabbed the milk there. Mary gave the milk to Jeff. Mary moved to",Who gave the football? 
+110,apple,"Answer: The apple.
+
+Context: Mary journeyed to the bedroom. Fred went back to the kitchen.",What did Jeff give to Mary? 
+111,apple,"Answer: The apple.
+
+Context: Mary journeyed to the bedroom. Fred went back to the kitchen.",What did Jeff give to Mary? 
+112,Mary,"Answer: Jeff gave the apple.
+
+Context: Mary journeyed to the bedroom. Fred went back to the",Who gave the apple? 
+113,Mary,"Answer: Jeff
+
+Context: Mary journeyed to the bedroom. Fred went back to the kitchen. Mary grabbed",Who gave the apple? 
+114,Mary,Answer: Mary,Who received the apple? 
+115,Bill,"Answer: Bill
+
+Context: Bill travelled to the office. Fred moved to the hallway. Bill moved to the",Who gave the milk? 
+116,milk,"Answer: The milk.
+
+Context: Bill travelled to the office. Fred moved to the hallway. Bill moved",What did Mary give to Bill? 
+117,Bill,"Answer: Bill
+
+### 1.2.2.2. The ""Who"" Question¶",Who did Mary give the milk to? 
+118,milk,"Answer: The milk.
+
+Context: Bill travelled to the office. Fred moved to the hallway. Bill moved",What did Bill give to Mary? 
+119,Mary,"Answer: Mary
+
+Question: Who did Mary give the milk to?
+
+Answer: Bill
+
+Question",Who did Bill give the milk to? 
+120,milk,"Answer: The milk.
+
+Context: Bill went back to the hallway. Jeff moved to the garden. Mary",What did Mary give to Bill? 
+121,Mary,"Answer: Mary
+
+Context: Bill went back to the hallway. Jeff moved to the garden. Mary journeyed",Who gave the milk? 
+122,Mary,"Answer: Mary gave the milk.
+
+Context: Bill went back to the hallway. Jeff moved to the garden",Who gave the milk? 
+123,Jeff,"Answer: Jeff
+
+Context: Bill went back to the hallway. Jeff moved to the garden. Mary journeyed",Who did Bill give the football to? 
+124,Bill,"Answer: Bill
+
+Question: Who grabbed the milk?
+
+Answer: Mary
+
+Question: Who grabbed",Who gave the football to Jeff? 
+125,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the garden. Fred took the apple there. Jeff went to",Who received the football? 
+126,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the garden. Fred took the apple there. Jeff went to",Who gave the football to Bill? 
+127,football,"Answer: The football.
+
+Context: Mary journeyed to the garden. Fred took the apple there. Jeff",What did Jeff give to Bill? 
+128,football,"Answer: The football.
+
+Context: Mary journeyed to the garden. Fred took the apple there. Jeff",What did Jeff give to Bill? 
+129,apple,"Answer: The apple.
+
+Context: Mary journeyed to the garden. Fred took the apple there. Jeff",What did Fred give to Mary? 
+130,Bill,"Answer: Bill
+
+Context: Mary got the apple there. Mary passed the apple to Bill.
+
+Question",Who received the apple? 
+131,apple,"Answer: The apple.
+
+Context: Mary got the apple there. Mary passed the apple to Bill. Bill",What did Mary give to Bill? 
+132,apple,"Answer: The apple.
+
+Context: Mary got the apple there. Mary passed the apple to Bill. Bill",What did Mary give to Bill? 
+133,apple,"Answer: The apple.
+
+Context: Mary got the apple there. Mary passed the apple to Bill. Bill",What did Jeff give to Mary? 
+134,Fred,"Answer: Mary
+
+Context: Mary got the apple there. Mary passed the apple to Bill. Bill gave the",Who gave the apple? 
+135,football,"Answer: The football.
+
+Context: Bill went back to the bathroom. Mary went to the bathroom. Bill",What did Fred give to Jeff? 
+136,football,"Answer: The football.
+
+Context: Bill went back to the bathroom. Mary went to the bathroom. Bill",What did Fred give to Jeff? 
+137,Jeff,"Answer: Fred
+
+Context: Bill went back to the bathroom. Mary went to the bathroom. Bill went to",Who gave the football? 
+138,Fred,"Answer: Fred
+
+Context: Bill went back to the bathroom. Mary went to the bathroom. Bill went to",Who did Jeff give the football to? 
+139,football,"Answer: The football.
+
+Context: Bill went back to the bathroom. Mary went to the bathroom. Bill",What did Fred give to Mary? 
+140,football,"Answer: The football.
+
+Context: Fred took the milk there. Jeff got the football there. Fred left",What did Jeff give to Mary? 
+141,Mary,"Answer: Mary
+
+Context: Fred took the milk there. Jeff got the football there. Fred left the milk",Who received the football? 
+142,football,"Answer: The football.
+
+Context: Fred took the milk there. Jeff got the football there. Fred left",What did Mary give to Jeff? 
+143,Jeff,"Answer: Jeff
+
+Context: Fred took the milk there. Jeff got the football there. Fred left the milk",Who gave the football? 
+144,Bill,"Answer: Bill
+
+Context: Fred took the milk there. Jeff got the football there. Fred left the milk",Who received the apple? 
+145,Fred,"Answer: Fred
+
+Context: Bill went to the garden. Mary journeyed to the hallway. Jeff picked up",Who received the apple? 
+146,Fred,"Answer: Fred
+
+Context: Bill went to the garden. Mary journeyed to the hallway. Jeff picked up",Who received the apple? 
+147,Mary,Answer: Mary,Who did Bill give the football to? 
+148,Bill,Answer: Bill,Who gave the football to Mary? 
+149,Fred,Answer: Fred,Who received the football? 
+150,Bill,"Answer: Bill
+
+Context: Mary journeyed to the kitchen. Mary took the milk there. Jeff moved to",Who received the apple? 
+151,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the kitchen. Mary took the milk there. Jeff moved to",Who gave the apple to Bill? 
+152,Bill,"Answer: Bill
+
+### 1.2.2.2. The Blocks World¶
+
+The Blocks",Who received the apple? 
+153,Bill,"Answer: Bill
+
+### 1.2.2.2. The Blocks World¶
+
+The blocks",Who gave the apple to Jeff? 
+154,apple,"Answer: apple
+
+Question: What did Bill do with the apple?
+
+Answer: gave
+
+Question",What did Bill give to Jeff? 
+155,football,"Answer: The football.
+
+Context: Bill grabbed the apple there. Bill journeyed to the office. Mary",What did Mary give to Bill? 
+156,football,"Answer: The football.
+
+Context: Bill grabbed the apple there. Bill journeyed to the office. Mary",What did Mary give to Bill? 
+157,Mary,"Answer: Mary
+
+Context: Bill grabbed the apple there. Bill journeyed to the office. Mary travelled to",Who did Bill give the football to? 
+158,football,"Answer: The football.
+
+Context: Bill grabbed the apple there. Bill journeyed to the office. Mary",What did Bill give to Mary? 
+159,Bill,"Answer: Bill
+
+Context: Bill grabbed the apple there. Bill journeyed to the office. Mary travelled to",Who received the apple? 
+160,Bill,"Answer: Bill
+
+Context: Bill moved to the garden. Jeff took the football there. Mary journeyed to",Who did Fred give the apple to? 
+161,apple,"Answer: The apple.
+
+Context: Bill moved to the garden. Jeff took the football there. Mary journey",What did Fred give to Bill? 
+162,apple,"Answer: The apple.
+
+Context: Bill moved to the garden. Jeff took the football there. Mary journey",What did Fred give to Bill? 
+163,Fred,"Answer: Fred gave the apple to Bill.
+
+Context: Bill moved to the garden. Jeff took the football",Who gave the apple? 
+164,Jeff,Answer: Jeff,Who received the apple? 
+165,Jeff,"Answer: Jeff
+
+Context: Bill grabbed the football there. Bill got the milk there. Bill discarded the milk",Who received the apple? 
+166,Jeff,"Answer: Jeff
+
+Context: Bill grabbed the football there. Bill got the milk there. Bill discarded the milk",Who received the apple? 
+167,Jeff,Answer: Mary,Who received the apple? 
+168,apple,"Answer: The apple.
+
+Context: Bill grabbed the football there. Bill got the milk there. Bill discarded",What did Mary give to Jeff? 
+169,Bill,"Answer: Bill
+
+Context: Bill grabbed the football there. Bill got the milk there. Bill discarded the milk",Who gave the milk to Fred? 
+170,football,"Answer: The football.
+
+Context: Mary journeyed to the office. Jeff journeyed to the garden.",What did Mary give to Bill? 
+171,Bill,"Answer: Bill
+
+Context: Mary handed the football to Bill.
+
+Question: What did Mary do with",Who did Mary give the football to? 
+172,football,"Answer: The football.
+
+Context: Fred journeyed to the kitchen. Jeff went to the garden. Mary",What did Bill give to Mary? 
+173,football,"Answer: The football.
+
+Context: Fred journeyed to the kitchen. Jeff went to the garden. Mary",What did Bill give to Mary? 
+174,Mary,"Answer: Mary
+
+Question: Who did Mary hand the football to?
+
+Answer: Bill
+
+Question",Who did Bill give the football to? 
+175,football,"Answer: The football.
+
+Context: Jeff went to the bathroom. Jeff went to the kitchen. Jeff went",What did Jeff give to Bill? 
+176,football,"Answer: The football.
+
+Context: Mary got the apple there. Mary discarded the apple. Mary grabbed the",What did Bill give to Mary? 
+177,Mary,"Answer: Bill
+
+Context: Mary got the apple there. Mary discarded the apple. Mary grabbed the apple there",Who received the football? 
+178,Bill,"Answer: Bill
+
+Question: Who took the apple?
+
+Answer: Mary
+
+Question: Who went",Who gave the football? 
+179,football,"Answer: The football.
+
+Context: Bill gave the football to Fred. Bill went to the bathroom. Mary",What did Bill give to Fred? 
+180,Fred,"Answer: Jeff gave the milk to Jeff.
+
+Context: Jeff took the milk there. Jeff put down the",Who gave the milk to Jeff? 
+181,milk,"Answer: The milk.
+
+Context: Jeff took the milk there. Jeff put down the milk. Fred took",What did Jeff give to Mary? 
+182,Mary,"Answer: Mary
+
+Context: Jeff took the milk there. Jeff put down the milk. Fred took the milk",Who received the milk? 
+183,Mary,"Answer: Mary gave the milk.
+
+Context: Jeff took the milk there. Jeff put down the milk.",Who gave the milk? 
+184,Fred,"Answer: Mary.
+
+Context: Jeff took the milk there. Jeff put down the milk. Fred took the",Who received the milk? 
+185,football,"Answer: The football.
+
+Context: Mary went back to the bedroom. Jeff picked up the milk there.",What did Mary give to Bill? 
+186,football,"Answer: The football.
+
+Context: Mary went back to the bedroom. Jeff picked up the milk there.",What did Mary give to Bill? 
+187,football,"Answer: The football.
+
+Context: Mary went back to the bedroom. Jeff picked up the milk there.",What did Mary give to Bill? 
+188,Bill,"Answer: Mary gave the football to Bill.
+
+Context: Mary went back to the bedroom. Jeff picked up",Who gave the football? 
+189,football,"Answer: The football.
+
+Context: Mary went back to the bedroom. Jeff picked up the milk there.",What did Bill give to Mary? 
+190,Fred,"Answer: Jeff
+
+### 1.2.10. Example 10
+
+Context: Bill",Who gave the football? 
+191,Fred,"Answer: Fred
+
+### Scenario 10
+
+Context: Bill went back to the office. Bill",Who gave the football to Jeff? 
+192,football,"Answer: The football.
+
+Context: Bill went back to the office. Bill moved to the garden. Fred",What did Fred give to Jeff? 
+193,apple,Answer: apple,What did Bill give to Fred? 
+194,Bill,"Answer: Bill
+
+### 10.10.2.2. The 100-",Who gave the apple to Fred? 
+195,milk,"Answer: The milk.
+
+Context: Mary moved to the kitchen. Mary travelled to the hallway. Bill travelled",What did Mary give to Bill? 
+196,Mary,"Answer: Bill
+
+Context: Mary moved to the kitchen. Mary travelled to the hallway. Bill travelled to the",Who gave the milk? 
+197,Bill,"Answer: Mary
+
+Context: Mary moved to the kitchen. Mary travelled to the hallway. Bill travelled to the",Who gave the milk? 
+198,milk,"Answer: The milk.
+
+Context: Mary moved to the kitchen. Mary travelled to the hallway. Bill travelled",What did Bill give to Mary? 
+199,Mary,"Answer: Bill
+
+Context: Mary moved to the kitchen. Mary travelled to the hallway. Bill travelled to the",Who gave the milk? 
+200,milk,"Answer: The milk.
+
+Context: Mary went to the bedroom. Mary went back to the office. Jeff",What did Jeff give to Bill? 
+201,milk,"Answer: The milk.
+
+Context: Mary went to the bedroom. Mary went back to the office. Jeff",What did Jeff give to Bill? 
+202,milk,"Answer: The milk.
+
+Context: Mary went to the bedroom. Mary went back to the office. Jeff",What did Jeff give to Bill? 
+203,Mary,"Answer: Mary gave the football to Fred.
+
+Context: Mary went to the bedroom. Mary went back to",Who gave the football? 
+204,Fred,"Answer: Fred
+
+## 10.10.2.2.2.2.2.",Who did Mary give the football to? 
+205,Fred,Answer: Fred,Who received the football? 
+206,Fred,"Answer: Fred
+
+Context: Mary journeyed to the hallway. Bill went back to the kitchen. Jeff went",Who did Mary give the football to? 
+207,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the hallway. Bill went back to the kitchen. Jeff went",Who did Fred give the football to? 
+208,Fred,"Answer: Jeff
+
+Question: Who took the football?
+
+Answer: Mary
+
+Question: Who went",Who gave the football to Jeff? 
+209,Jeff,"Answer: Fred
+
+Question: Who got the milk?
+
+Answer: Bill
+
+Question: Who went",Who gave the football to Fred? 
+210,Fred,"Answer: Fred
+
+Context: Jeff went back to the garden. Bill went to the office. Bill went to",Who gave the milk to Jeff? 
+211,Fred,"Answer: Jeff gave the milk.
+
+Context: Jeff went back to the garden. Bill went to the office",Who gave the milk? 
+212,Jeff,"Answer: Fred gave the milk to Fred.
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk to Fred? 
+213,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk to Fred? 
+214,Fred,"Answer: Fred gave the milk to Bill.
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk? 
+215,Fred,Answer: Fred,Who gave the apple to Mary? 
+216,Mary,Answer: Mary,Who received the apple? 
+217,Bill,"Answer: Mary
+
+### Scenario 10
+
+Context: Mary travelled to the office. Mary moved",Who received the apple? 
+218,Mary,"Answer: Mary
+
+### Scenario 10
+
+Context: Mary travelled to the office. Mary moved",Who did Fred give the milk to? 
+219,Mary,"Answer: Fred
+
+Question: Who took the apple?
+
+Answer: Fred
+
+Question: Who took",Who gave the apple? 
+220,Bill,"Answer: Bill
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who gave the apple to Mary? 
+221,Bill,"Answer: Bill
+
+Context: Jeff went back to the kitchen. Fred travelled to the bathroom. Mary moved to",Who gave the apple to Mary? 
+222,Mary,"Answer: Mary
+
+Context: Jeff went back to the kitchen. Fred travelled to the bathroom. Mary moved to",Who gave the apple to Bill? 
+223,Bill,"Answer: Bill
+
+Context: Jeff went back to the kitchen. Fred travelled to the bathroom. Mary moved to",Who did Mary give the apple to? 
+224,apple,"Answer: apple
+
+Context: Jeff went back to the kitchen. Fred travelled to the bathroom. Mary moved to",What did Bill give to Mary? 
+225,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Jeff handed the football to Fred.",What did Jeff give to Fred? 
+226,Jeff,"Answer: Jeff
+
+Context: Jeff grabbed the football there. Jeff handed the football to Fred. Fred passed the",Who gave the football to Fred? 
+227,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Jeff handed the football to Fred. Fred",What did Jeff give to Fred? 
+228,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Jeff handed the football to Fred. Fred",What did Jeff give to Fred? 
+229,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Jeff handed the football to Fred. Fred",What did Jeff give to Fred? 
+230,apple,"Answer: The apple.
+
+Context: Fred picked up the apple there. Fred gave the apple to Bill.",What did Fred give to Bill? 
+231,Bill,"Answer: Bill
+
+Context: Fred picked up the apple there. Fred gave the apple to Bill. Bill gave",Who did Fred give the apple to? 
+232,Fred,"Answer: Fred
+
+Context: Fred picked up the apple there. Fred gave the apple to Bill. Bill gave",Who gave the apple to Bill? 
+233,Fred,"Answer: Fred
+
+Context: Fred picked up the apple there. Fred gave the apple to Bill. Bill gave",Who gave the apple to Bill? 
+234,Fred,"Answer: Fred gave the apple to Bill.
+
+Context: Fred picked up the apple there. Fred gave the",Who gave the apple? 
+235,Bill,Answer: Bill,Who gave the football to Mary? 
+236,Bill,Answer: Mary,Who gave the football? 
+237,football,"Answer: The football.
+
+Context: Jeff went to the kitchen. Bill went to the kitchen. Jeff journey",What did Bill give to Mary? 
+238,Bill,Answer: Bill,Who gave the football to Mary? 
+239,Bill,Answer: Bill,Who gave the football? 
+240,Fred,"Answer: Fred
+
+Context: Mary went to the bathroom. Fred journeyed to the hallway. Fred journeyed",Who gave the football to Bill? 
+241,Fred,"Answer: Bill
+
+Context: Mary went to the bathroom. Fred journeyed to the hallway. Fred journeyed",Who gave the football? 
+242,Fred,"Answer: Fred
+
+Context: Mary went to the bathroom. Fred journeyed to the hallway. Fred journeyed",Who gave the football to Bill? 
+243,Bill,"Answer: Bill
+
+Context: Mary went to the bathroom. Fred journeyed to the hallway. Fred journeyed",Who gave the football to Fred? 
+244,football,"Answer: The football.
+
+Context: Mary went to the bathroom. Fred journeyed to the hallway. Fred",What did Bill give to Fred? 
+245,football,"Answer: The football.
+
+Context: Jeff went back to the garden. Mary journeyed to the garden.",What did Jeff give to Mary? 
+246,Mary,"Answer: Jeff gave the football.
+
+Context: Jeff went back to the garden. Mary journeyed to the",Who gave the football? 
+247,Mary,"Answer: Mary gave the football.
+
+Question: Who took the milk?
+
+Answer: Mary took the",Who gave the football? 
+248,Bill,"Answer: Mary gave the apple.
+
+Context: Jeff went back to the garden. Mary journeyed to the",Who gave the apple? 
+249,Mary,"Answer: Mary
+
+Context: Jeff went back to the garden. Mary journeyed to the garden. Jeff took",Who gave the apple to Bill? 
+250,apple,"Answer: The apple.
+
+Context: Jeff went back to the office. Jeff went to the bedroom. Mary",What did Mary give to Fred? 
+251,Fred,Answer: Mary,Who received the apple? 
+252,Mary,"Answer: Fred
+
+### 10.1.10.10. Exercise 10.",Who gave the apple? 
+253,Jeff,"Answer: Jeff
+
+### 1.2.2.2. 2.1.2.2",Who received the apple? 
+254,apple,Answer: apple,What did Fred give to Jeff? 
+255,Fred,Answer: Fred,Who received the milk? 
+256,Jeff,Answer: Jeff,Who gave the milk to Fred? 
+257,Jeff,"Answer: Jeff
+
+Question: Who took the milk?
+
+Answer: Jeff
+
+Question: Who took",Who gave the milk? 
+258,football,"Answer: The football.
+
+Context: Mary moved to the office. Jeff went to the garden. Jeff took",What did Bill give to Mary? 
+259,Mary,"Answer: Mary
+
+Question: Who did Jeff hand the milk to?
+
+Answer: Fred
+
+Question",Who did Fred give the milk to? 
+260,Jeff,"Answer: Jeff gave the apple to Mary.
+
+Context: Jeff grabbed the apple there. Jeff gave the apple",Who gave the apple to Mary? 
+261,Fred,"Answer: Jeff
+
+Context: Jeff grabbed the apple there. Jeff gave the apple to Mary. Mary gave the",Who gave the apple to Mary? 
+262,Mary,"Answer: Mary gave the apple.
+
+Context: Jeff grabbed the apple there. Jeff gave the apple to Mary",Who gave the apple? 
+263,apple,"Answer: The apple.
+
+Context: Jeff grabbed the apple there. Jeff gave the apple to Mary. Mary",What did Mary give to Bill? 
+264,apple,"Answer: The apple.
+
+Context: Jeff grabbed the apple there. Jeff gave the apple to Mary. Mary",What did Mary give to Bill? 
+265,football,"Answer: The football.
+
+Context: Jeff moved to the bedroom. Jeff moved to the office. Mary got",What did Fred give to Bill? 
+266,Fred,"Answer: Fred
+
+Context: Jeff moved to the bedroom. Jeff moved to the office. Mary got the apple",Who gave the football? 
+267,Fred,"Answer: Fred
+
+Context: Jeff moved to the bedroom. Jeff moved to the office. Mary got the apple",Who gave the football to Bill? 
+268,Mary,"Answer: Bill gave the football to Fred.
+
+Context: Jeff moved to the bedroom. Jeff moved to the",Who did Bill give the football to? 
+269,Mary,"Answer: Bill
+
+Context: Jeff moved to the bedroom. Jeff moved to the office. Mary got the apple",Who gave the football? 
+270,Mary,"Answer: Mary
+
+Context: Mary went to the kitchen. Mary travelled to the bathroom. Bill went to the",Who received the apple? 
+271,Mary,"Answer: Jeff
+
+Context: Mary went to the kitchen. Mary travelled to the bathroom. Bill went to the",Who gave the apple? 
+272,apple,"Answer: The apple.
+
+Context: Mary went to the kitchen. Mary travelled to the bathroom. Bill went",What did Mary give to Jeff? 
+273,Bill,"Answer: Bill
+
+## 10.10.2. Code
+
+The following code implements the",Who gave the apple to Jeff? 
+274,apple,"Answer: apple
+
+### 1.2.2.2. Example 2¶
+
+Context:",What did Jeff give to Fred? 
+275,Mary,Answer: Mary,Who received the football? 
+276,Mary,Answer: Jeff,Who received the football? 
+277,football,"Answer: The football.
+
+Context: Fred journeyed to the bathroom. Bill went back to the kitchen.",What did Mary give to Jeff? 
+278,Mary,"Answer: Mary
+
+Question: Who did Mary give the football to?
+
+Answer: Jeff
+
+Question",Who did Jeff give the football to? 
+279,Mary,"Answer: Mary
+
+### 10.1.2.2. The ""Who"" Question¶",Who received the football? 
+280,Fred,"Answer: Fred
+
+Context: Mary moved to the office. Bill got the milk there. Bill discarded the milk",Who gave the apple? 
+281,apple,"Answer: The apple.
+
+Context: Mary moved to the office. Bill got the milk there. Bill discarded",What did Mary give to Fred? 
+282,Fred,"Answer: Fred
+
+### 1.2.2.2. The 2-Dimensional Grid¶",Who gave the apple to Mary? 
+283,Fred,"Answer: Fred
+
+### 1.2.2.2. The 2-SAT Problem¶",Who received the apple? 
+284,apple,"Answer: The apple.
+
+Context: Mary moved to the office. Bill got the milk there. Bill discarded",What did Fred give to Mary? 
+285,Fred,"Answer: Bill
+
+Question: Who took the apple?
+
+Answer: Fred
+
+Question: Who took",Who gave the apple? 
+286,Fred,"Answer: Fred
+
+Question: Who took the apple from the office?
+
+Answer: Fred
+
+Question",Who gave the apple to Bill? 
+287,Fred,"Answer: Fred
+
+Context: Mary moved to the hallway. Jeff went back to the bathroom. Jeff travelled to",Who gave the apple to Bill? 
+288,apple,Answer: apple,What did Fred give to Bill? 
+289,Bill,Answer: Bill,Who gave the apple to Mary? 
+290,Mary,"Answer: Mary
+
+Context: Jeff went back to the hallway. Bill picked up the milk there. Bill gave",Who gave the milk to Bill? 
+291,Bill,"Answer: Mary
+
+Context: Jeff went back to the hallway. Bill picked up the milk there. Bill gave",Who gave the milk? 
+292,Mary,"Answer: Mary
+
+Context: Jeff went back to the hallway. Bill picked up the milk there. Bill gave",Who gave the milk to Bill? 
+293,Bill,"Answer: Bill
+
+Context: Jeff went back to the hallway. Bill picked up the milk there. Bill gave",Who did Mary give the milk to? 
+294,apple,"Answer: The apple.
+
+Context: Jeff went back to the hallway. Bill picked up the milk there.",What did Jeff give to Fred? 
+295,milk,"Answer: The milk.
+
+Context: Mary journeyed to the hallway. Mary travelled to the bathroom. Jeff",What did Mary give to Jeff? 
+296,Mary,Answer: Jeff,Who gave the milk? 
+297,milk,"Answer: The milk.
+
+Context: Mary journeyed to the hallway. Mary travelled to the bathroom. Jeff",What did Mary give to Jeff? 
+298,milk,"Answer: The milk.
+
+Context: Mary journeyed to the hallway. Mary travelled to the bathroom. Jeff",What did Mary give to Jeff? 
+299,Bill,Answer: Bill,Who gave the milk to Jeff? 
+300,football,"Answer: The football.
+
+Context: Fred went to the bedroom. Fred took the football there. Fred put",What did Mary give to Fred? 
+301,Fred,"Answer: Fred
+
+Context: Fred went to the bedroom. Fred took the football there. Fred put down the",Who did Mary give the football to? 
+302,Mary,"Answer: Mary
+
+Context: Fred went to the bedroom. Fred took the football there. Fred put down the",Who gave the football to Fred? 
+303,Mary,"Answer: Mary
+
+### 1.10.2.2. Example 2¶
+
+Context",Who did Fred give the apple to? 
+304,Fred,"Answer: Mary gave the apple to Fred.
+
+Question: Who took the milk?
+
+Answer: Mary",Who gave the apple to Mary? 
+305,Jeff,"Answer: Jeff
+
+Context: Fred moved to the hallway. Jeff journeyed to the garden. Fred took the",Who gave the apple to Mary? 
+306,Mary,"Answer: Mary
+
+Context: Fred moved to the hallway. Jeff journeyed to the garden. Fred took the",Who did Jeff give the apple to? 
+307,milk,"Answer: The milk.
+
+Context: Fred moved to the hallway. Jeff journeyed to the garden. Fred",What did Mary give to Fred? 
+308,Fred,"Answer: Fred
+
+Context: Fred moved to the hallway. Jeff journeyed to the garden. Fred took the",Who did Mary give the milk to? 
+309,Fred,Answer: Fred,Who received the milk? 
+310,Mary,"Answer: Mary gave the football to Bill.
+
+Context: Mary journeyed to the kitchen. Mary went to",Who gave the football to Bill? 
+311,Bill,"Answer: Bill
+
+Context: Mary journeyed to the kitchen. Mary went to the bedroom. Mary moved to",Who gave the football? 
+312,football,"Answer: The apple.
+
+Context: Mary journeyed to the kitchen. Mary went to the bedroom. Mary",What did Bill give to Mary? 
+313,apple,"Answer: The apple.
+
+Context: Mary journeyed to the kitchen. Mary went to the bedroom. Mary",What did Bill give to Mary? 
+314,Bill,"Answer: Bill
+
+### 1.10.2.2. Example 2¶
+
+Context",Who did Jeff give the football to? 
+315,milk,"Answer: The milk.
+
+Context: Fred picked up the apple there. Bill went back to the office.",What did Jeff give to Bill? 
+316,Bill,"Answer: Bill received the milk.
+
+Context: Fred picked up the apple there. Bill went back to the",Who received the milk? 
+317,milk,"Answer: The milk.
+
+Context: Fred picked up the apple there. Bill went back to the office.",What did Jeff give to Bill? 
+318,apple,"Answer: The apple.
+
+Context: Fred picked up the apple there. Bill went back to the office.",What did Fred give to Mary? 
+319,Fred,"Answer: Fred
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who did Mary give the apple to? 
+320,Mary,"Answer: Bill
+
+Context: Jeff moved to the garden. Mary picked up the apple there. Mary travelled to",Who gave the apple? 
+321,apple,"Answer: The apple.
+
+Context: Jeff moved to the garden. Mary picked up the apple there. Mary",What did Mary give to Bill? 
+322,Mary,Answer: Mary,Who did Jeff give the football to? 
+323,Mary,Answer: Jeff,Who received the football? 
+324,Mary,Answer: Mary,Who received the football? 
+325,Bill,"Answer: Bill
+
+Question: Who took the milk?
+
+Answer: Fred
+
+Question: Who went",Who gave the football to Mary? 
+326,Bill,"Answer: Bill
+
+Question: Who took the milk?
+
+Answer: Fred
+
+Question: Who went",Who gave the football? 
+327,Jeff,"Answer: Jeff
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who received the apple? 
+328,apple,"Answer: The apple.
+
+Question: What did Fred take?
+
+Answer: The milk.",What did Bill give to Jeff? 
+329,apple,"Answer: apple
+
+Question: What did Bill take from the garden?
+
+Answer: apple
+
+Question",What did Bill give to Jeff? 
+330,apple,"Answer: The apple.
+
+Context: Bill travelled to the bathroom. Fred picked up the apple there. Mary",What did Fred give to Mary? 
+331,apple,"Answer: The apple.
+
+Context: Bill travelled to the bathroom. Fred picked up the apple there. Mary",What did Fred give to Mary? 
+332,Fred,"Answer: Fred gave the apple to Mary.
+
+Context: Bill travelled to the bathroom. Fred picked up the",Who gave the apple? 
+333,Bill,"Answer: Mary
+
+Explanation: Mary received the apple from Bill in the kitchen.
+
+Problem",Who received the apple? 
+334,apple,"Answer: The apple.
+
+Context: Bill travelled to the bathroom. Fred picked up the apple there. Mary",What did Mary give to Bill? 
+335,Mary,"Answer: Fred
+
+Context: Bill went to the office. Mary moved to the office. Fred took the football",Who gave the apple? 
+336,apple,"Answer: The football.
+
+Context: Bill went to the office. Mary moved to the office. Fred took",What did Mary give to Fred? 
+337,apple,"Answer: The apple.
+
+Context: Bill went to the office. Mary moved to the office. Fred took",What did Fred give to Mary? 
+338,apple,"Answer: The apple.
+
+Context: Bill went to the office. Mary moved to the office. Fred took",What did Fred give to Mary? 
+339,Mary,"Answer: Mary
+
+Context: Bill went to the office. Mary moved to the office. Fred took the football",Who did Fred give the apple to? 
+340,apple,"Answer: The apple.
+
+Context: Bill went back to the kitchen. Mary got the football there. Fred",What did Fred give to Bill? 
+341,Bill,"Answer: Fred gave the apple to Bill.
+
+Context: Bill went back to the kitchen. Mary got the",Who gave the apple to Fred? 
+342,Bill,"Answer: Bill
+
+Context: Bill went back to the kitchen. Mary got the football there. Fred went to",Who received the apple? 
+343,apple,"Answer: The apple.
+
+Context: Bill went back to the kitchen. Mary got the football there. Fred",What did Fred give to Bill? 
+344,apple,"Answer: The apple.
+
+Context: Bill went back to the kitchen. Mary got the football there. Fred",What did Fred give to Bill? 
+345,milk,"Answer: milk
+
+Context: Bill went to the kitchen. Fred moved to the bedroom. Jeff went to the",What did Mary give to Jeff? 
+346,Mary,"Answer: Fred
+
+Context: Bill went to the kitchen. Fred moved to the bedroom. Jeff went to the",Who gave the milk to Jeff? 
+347,Jeff,"Answer: Fred
+
+Context: Bill went to the kitchen. Fred moved to the bedroom. Jeff went to the",Who gave the milk? 
+348,Fred,"Answer: Fred
+
+Context: Bill went to the kitchen. Fred moved to the bedroom. Jeff went to the",Who received the milk? 
+349,Jeff,"Answer: Jeff
+
+Context: Bill went to the kitchen. Fred moved to the bedroom. Jeff went to the",Who gave the milk to Fred? 
+350,Jeff,"Answer: Jeff
+
+Context: Jeff travelled to the kitchen. Fred went back to the bathroom. Bill grabbed the",Who gave the milk? 
+351,Mary,Answer: Mary,Who gave the milk to Bill? 
+352,milk,"Answer: The milk.
+
+Context: Jeff travelled to the kitchen. Fred went back to the bathroom. Bill",What did Bill give to Jeff? 
+353,Bill,Answer: Bill,Who received the milk? 
+354,milk,"Answer: milk
+
+Question: What did Mary hand to Bill?
+
+Answer: milk
+
+Question:",What did Jeff give to Bill? 
+355,Bill,"Answer: Fred gave the milk.
+
+Context: Jeff moved to the bedroom. Fred journeyed to the kitchen",Who gave the milk? 
+356,Bill,"Answer: Bill
+
+Context: Jeff moved to the bedroom. Fred journeyed to the kitchen. Fred took the",Who gave the milk to Fred? 
+357,Bill,"Answer: Bill
+
+Context: Jeff moved to the bedroom. Fred journeyed to the kitchen. Fred took the",Who gave the milk to Fred? 
+358,apple,"Answer: The apple.
+
+Context: Jeff moved to the bedroom. Fred journeyed to the kitchen. Fred",What did Jeff give to Fred? 
+359,Fred,"Answer: Fred
+
+### 1.10.2.2. Example 2¶
+
+Context",Who did Jeff give the apple to? 
+360,Mary,"Answer: Mary
+
+Context: Mary moved to the bathroom. Jeff journeyed to the kitchen. Jeff picked up",Who received the apple? 
+361,Bill,"Answer: Bill
+
+Context: Mary moved to the bathroom. Jeff journeyed to the kitchen. Jeff picked up",Who did Mary give the apple to? 
+362,apple,"Answer: The apple.
+
+Context: Mary moved to the bathroom. Jeff journeyed to the kitchen. Jeff",What did Mary give to Bill? 
+363,Mary,"Answer: Mary
+
+Context: Mary moved to the bathroom. Jeff journeyed to the kitchen. Jeff picked up",Who did Bill give the apple to? 
+364,Bill,"Answer: Mary
+
+Context: Mary moved to the bathroom. Jeff journeyed to the kitchen. Jeff picked up",Who received the apple? 
+365,Jeff,Answer: Bill,Who received the apple? 
+366,Jeff,"Answer: Fred gave the apple.
+
+Context: Jeff moved to the hallway. Jeff picked up the football there",Who gave the apple? 
+367,Bill,Answer: Bill,Who received the football? 
+368,Bill,"Answer: Bill
+
+### **_Chapter 10_**
+
+**1.** Context: Jeff moved to",Who received the football? 
+369,Bill,"Answer: Bill
+
+Context: Jeff moved to the hallway. Jeff picked up the football there. Bill journeyed",Who did Mary give the football to? 
+370,Fred,"Answer: Fred
+
+Context: Bill moved to the bedroom. Mary took the football there. Mary dropped the football",Who did Mary give the football to? 
+371,Mary,"Answer: Mary
+
+Context: Bill moved to the bedroom. Mary took the football there. Mary dropped the football",Who gave the football to Fred? 
+372,Fred,Answer: Fred,Who gave the football to Mary? 
+373,Jeff,Answer: Jeff,Who did Mary give the football to? 
+374,football,"Answer: The football.
+
+Context: Bill moved to the bedroom. Mary took the football there. Mary dropped",What did Mary give to Jeff? 
+375,Fred,"Answer: Fred
+
+Context: Bill moved to the bathroom. Mary went to the bathroom. Jeff journeyed to",Who received the apple? 
+376,Fred,"Answer: Fred
+
+Context: Bill moved to the bathroom. Mary went to the bathroom. Jeff journeyed to",Who gave the apple? 
+377,Bill,"Answer: Fred
+
+Context: Bill moved to the bathroom. Mary went to the bathroom. Jeff journeyed to",Who gave the apple? 
+378,apple,"Answer: apple
+
+Context: Bill moved to the bathroom. Mary went to the bathroom. Jeff journeyed to",What did Fred give to Bill? 
+379,Fred,"Answer: Fred
+
+### 1.1.2.2. The ""Who"" Question¶",Who did Bill give the apple to? 
+380,milk,"Answer: The milk.
+
+Context: Mary got the milk there. Mary gave the milk to Bill.",What did Mary give to Bill? 
+381,Bill,"Answer: Mary gave the milk.
+
+Context: Mary got the milk there. Mary gave the milk to Bill",Who gave the milk? 
+382,milk,"Answer: The milk.
+
+Context: Mary got the milk there. Mary gave the milk to Bill. Jeff",What did Mary give to Fred? 
+383,milk,"Answer: The milk.
+
+Context: Mary got the milk there. Mary gave the milk to Bill. Jeff",What did Fred give to Mary? 
+384,milk,"Answer: The milk.
+
+Context: Mary got the milk there. Mary gave the milk to Bill. Jeff",What did Fred give to Mary? 
+385,football,"Answer: The football.
+
+Context: Mary moved to the kitchen. Bill grabbed the football there. Jeff journey",What did Bill give to Mary? 
+386,Mary,"Answer: Mary
+
+Context: Mary moved to the kitchen. Bill grabbed the football there. Jeff journeyed to",Who did Bill give the football to? 
+387,football,"Answer: The football.
+
+Context: Mary moved to the kitchen. Bill grabbed the football there. Jeff journey",What did Fred give to Mary? 
+388,Fred,"Answer: Fred
+
+Context: Mary moved to the kitchen. Bill grabbed the football there. Jeff journeyed to",Who did Mary give the football to? 
+389,Mary,"Answer: Mary gave the football to Fred.
+
+Context: Mary moved to the kitchen. Bill grabbed the football",Who gave the football? 
+390,Fred,"Answer: Jeff gave the apple.
+
+Context: Bill went to the kitchen. Jeff picked up the apple there",Who gave the apple? 
+391,apple,"Answer: The apple.
+
+Context: Bill went to the kitchen. Jeff picked up the apple there. Jeff",What did Fred give to Jeff? 
+392,Fred,"Answer: Fred
+
+Context: Bill went to the kitchen. Jeff picked up the apple there. Jeff gave the",Who received the apple? 
+393,Fred,"Answer: Fred
+
+Context: Bill went to the kitchen. Jeff picked up the apple there. Jeff gave the",Who received the apple? 
+394,Jeff,"Answer: Jeff
+
+Context: Bill went to the kitchen. Jeff picked up the apple there. Jeff gave the",Who gave the apple to Fred? 
+395,Mary,"Answer: Mary gave the apple.
+
+Question: Who journeyed?
+
+Answer: Mary journeyed.",Who gave the apple? 
+396,Bill,"Answer: Bill
+
+Question: Who journeyed to the hallway?
+
+Answer: Jeff
+
+Question:",Who did Mary give the apple to? 
+397,Fred,"Answer: Fred
+
+Context: Mary grabbed the apple there. Jeff went back to the bedroom. Bill went to",Who gave the apple to Bill? 
+398,Fred,"Answer: Fred
+
+Context: Mary grabbed the apple there. Jeff went back to the bedroom. Bill went to",Who did Bill give the apple to? 
+399,Fred,"Answer: Fred
+
+### Example 2
+
+Context: Mary grabbed the apple there. Jeff went back to",Who received the apple? 
+400,Mary,"Answer: Mary
+
+Context: Mary picked up the football there. Mary gave the football to Fred.",Who gave the football to Fred? 
+401,Fred,"Answer: Fred
+
+Context: Mary picked up the football there. Mary gave the football to Fred. Mary moved",Who did Mary give the football to? 
+402,Fred,"Answer: Fred
+
+Context: Mary picked up the football there. Mary gave the football to Fred. Mary moved",Who did Mary give the football to? 
+403,Fred,"Answer: Fred
+
+Context: Mary picked up the football there. Mary gave the football to Fred. Mary moved",Who gave the apple to Jeff? 
+404,apple,"Answer: The apple.
+
+Context: Mary picked up the football there. Mary gave the football to Fred.",What did Fred give to Jeff? 
+405,apple,"Answer: apple
+
+### Scenario 10
+
+Context: Bill moved to the kitchen. Bill moved",What did Fred give to Bill? 
+406,Fred,"Answer: Fred
+
+### Scenario 10
+
+Context: Bill moved to the kitchen. Bill moved",Who gave the apple? 
+407,Fred,Answer: Fred,Who received the apple? 
+408,Fred,"Answer: Fred
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who gave the apple to Jeff? 
+409,apple,Answer: apple,What did Fred give to Jeff? 
+410,milk,"Answer: The milk.
+
+Context: Mary moved to the hallway. Jeff moved to the office. Jeff grabbed",What did Bill give to Jeff? 
+411,Jeff,Answer: Jeff,Who gave the milk to Bill? 
+412,milk,"Answer: The milk.
+
+Context: Mary moved to the hallway. Jeff moved to the office. Jeff grabbed",What did Jeff give to Bill? 
+413,milk,"Answer: The milk.
+
+Context: Mary moved to the hallway. Jeff moved to the office. Jeff grabbed",What did Jeff give to Bill? 
+414,Jeff,Answer: Jeff,Who gave the milk to Mary? 
+415,milk,"Answer: The milk.
+
+Context: Jeff took the apple there. Jeff went to the bathroom. Jeff picked",What did Fred give to Jeff? 
+416,milk,"Answer: The milk.
+
+Context: Jeff took the apple there. Jeff went to the bathroom. Jeff picked",What did Jeff give to Fred? 
+417,Fred,"Answer: Fred
+
+### Exercise 10
+
+Context: Jeff took the apple there. Jeff went to",Who received the milk? 
+418,Jeff,Answer: Jeff,Who did Fred give the milk to? 
+419,Jeff,Answer: Jeff,Who gave the milk to Fred? 
+420,Fred,"Answer: Fred
+
+Context: Bill travelled to the hallway. Fred grabbed the football there. Fred went back to",Who gave the football? 
+421,Fred,Answer: Mary,Who received the football? 
+422,football,"Answer: The football.
+
+Context: Bill travelled to the hallway. Fred grabbed the football there. Fred went",What did Mary give to Fred? 
+423,football,"Answer: The football
+
+Context: Bill travelled to the hallway. Fred grabbed the football there. Fred went back",What did Mary give to Fred? 
+424,Fred,"Answer: Fred
+
+Question: Who was the last person to be in the office?
+
+Answer: Mary",Who gave the football to Mary? 
+425,apple,"Answer: apple
+
+Context: Jeff journeyed to the bedroom. Jeff went back to the bathroom. Bill went",What did Fred give to Bill? 
+426,Fred,Answer: Bill,Who received the apple? 
+427,apple,"Answer: apple
+
+Question: What did Jeff do?
+
+Answer: Jeff journeyed to the garden.",What did Fred give to Mary? 
+428,Fred,"Answer: Fred
+
+## 10.10.2. Solution
+
+The solution to this problem",Who received the apple? 
+429,Mary,"Answer: Fred
+
+### 1.2.2.2.2. 2.2.2",Who gave the apple? 
+430,Jeff,"Answer: Jeff
+
+Context: Jeff went back to the hallway. Fred journeyed to the bathroom. Mary moved",Who did Fred give the apple to? 
+431,apple,"Answer: The apple.
+
+Context: Jeff went back to the hallway. Fred journeyed to the bathroom.",What did Fred give to Jeff? 
+432,Fred,"Answer: Fred
+
+Context: Jeff went back to the hallway. Fred journeyed to the bathroom. Mary moved",Who gave the apple to Jeff? 
+433,Jeff,"Answer: Fred
+
+Context: Jeff went back to the hallway. Fred journeyed to the bathroom. Mary moved",Who received the apple? 
+434,Mary,"Answer: Mary
+
+Context: Jeff went back to the hallway. Fred journeyed to the bathroom. Mary moved",Who received the football? 
+435,apple,"Answer: The apple.
+
+Context: Jeff went back to the garden. Mary travelled to the office. Bill",What did Bill give to Mary? 
+436,Mary,"Answer: Mary
+
+Context: Jeff went back to the garden. Mary travelled to the office. Bill went back",Who did Bill give the apple to? 
+437,Fred,"Answer: Mary gave the apple.
+
+Context: Jeff went back to the garden. Mary travelled to the office",Who gave the apple? 
+438,Fred,Answer: Fred,Who received the apple? 
+439,Mary,"Answer: Mary
+
+Context: Jeff went back to the garden. Mary travelled to the office. Bill went back",Who gave the apple to Fred? 
+440,apple,Answer: apple,What did Mary give to Bill? 
+441,Mary,"Answer: Mary
+
+Context: Mary moved to the garden. Fred travelled to the bathroom. Fred went to the",Who did Bill give the apple to? 
+442,apple,"Answer: apple
+
+Context: Mary moved to the garden. Fred travelled to the bathroom. Fred went to the",What did Bill give to Mary? 
+443,Mary,"Answer: Mary
+
+Context: Mary moved to the garden. Fred travelled to the bathroom. Fred went to the",Who gave the apple? 
+444,Mary,"Answer: Mary
+
+Context: Mary moved to the garden. Fred travelled to the bathroom. Fred went to the",Who gave the apple? 
+445,apple,"Answer: The apple.
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred.",What did Mary give to Fred? 
+446,Fred,"Answer: Fred
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred. Mary moved",Who did Mary give the apple to? 
+447,milk,"Answer: The milk.
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred.",What did Mary give to Bill? 
+448,Bill,"Answer: Mary.
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred. Mary",Who received the milk? 
+449,milk,"Answer: The milk.
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred.",What did Bill give to Mary? 
+450,Mary,"Answer: Mary
+
+Context: Mary journeyed to the office. Jeff journeyed to the office. Mary journey",Who gave the apple to Bill? 
+451,apple,"Answer: The apple.
+
+Context: Mary journeyed to the office. Jeff journeyed to the office.",What did Mary give to Bill? 
+452,Bill,"Answer: Bill
+
+Context: Mary journeyed to the office. Jeff journeyed to the office. Mary journey",Who gave the apple to Fred? 
+453,Fred,"Answer: Fred gave the apple to Bill.
+
+Context: Mary journeyed to the office. Jeff journeyed",Who gave the apple to Bill? 
+454,Bill,"Answer: Fred
+
+Context: Mary journeyed to the office. Jeff journeyed to the office. Mary journey",Who received the apple? 
+455,Fred,"Answer: Fred
+
+## 10.10.2. Solution
+
+The solution to the problem",Who did Mary give the milk to? 
+456,Mary,"Answer: Mary gave the milk.
+
+Context: Jeff journeyed to the garden. Bill picked up the apple",Who gave the milk? 
+457,Fred,"Answer: Fred
+
+Context: Jeff journeyed to the garden. Bill picked up the apple there. Jeff went",Who did Mary give the milk to? 
+458,Mary,"Answer: Mary gave the milk.
+
+Context: Jeff journeyed to the garden. Bill picked up the apple",Who gave the milk? 
+459,milk,"Answer: The milk.
+
+Context: Jeff journeyed to the garden. Bill picked up the apple there.",What did Fred give to Jeff? 
+460,Mary,"Answer: Mary gave the milk.
+
+Context: Mary went to the hallway. Jeff went back to the bathroom",Who gave the milk? 
+461,milk,"Answer: The milk.
+
+Context: Mary went to the hallway. Jeff went back to the bathroom. Mary",What did Mary give to Bill? 
+462,Bill,"Answer: Bill
+
+### 1.2.2.2. The 2-D Grid¶",Who did Jeff give the football to? 
+463,football,"Answer: The football.
+
+Context: Mary went to the hallway. Jeff went back to the bathroom. Mary",What did Jeff give to Bill? 
+464,football,"Answer: The football.
+
+Context: Mary went to the hallway. Jeff went back to the bathroom. Mary",What did Jeff give to Bill? 
+465,Bill,"Answer: Bill
+
+Context: Fred grabbed the apple there. Bill handed the apple to Fred.
+
+Question",Who did Fred give the apple to? 
+466,Bill,"Answer: Bill
+
+Context: Fred grabbed the apple there. Fred handed the apple to Bill. Bill gave the",Who gave the apple to Fred? 
+467,apple,"Answer: The apple.
+
+Context: Fred grabbed the apple there. Fred handed the apple to Bill. Bill",What did Bill give to Fred? 
+468,Bill,"Answer: Bill
+
+Context: Fred grabbed the apple there. Fred handed the apple to Bill. Bill gave the",Who gave the apple to Fred? 
+469,Jeff,"Answer: Bill
+
+Context: Fred grabbed the apple there. Fred handed the apple to Bill. Bill gave the",Who gave the apple to Fred? 
+470,Fred,"Answer: Mary gave the apple.
+
+Context: Mary moved to the office. Mary journeyed to the bathroom",Who gave the apple? 
+471,apple,"Answer: The apple.
+
+Context: Mary moved to the office. Mary journeyed to the bathroom. Fred",What did Fred give to Mary? 
+472,Mary,"Answer: Mary
+
+Question: Who dropped the apple?
+
+Answer: Mary
+
+Question: Who picked",Who received the apple? 
+473,Mary,"Answer: Mary gave the apple.
+
+Question: Who got the apple?
+
+Answer: Mary got the",Who gave the apple? 
+474,apple,"Answer: The apple.
+
+Context: Mary moved to the office. Mary journeyed to the bathroom. Fred",What did Mary give to Bill? 
+475,apple,"Answer: The apple.
+
+Context: Jeff travelled to the garden. Jeff journeyed to the bedroom. Fred",What did Mary give to Fred? 
+476,apple,"Answer: The milk.
+
+Context: Jeff travelled to the garden. Jeff journeyed to the bedroom. Fred",What did Fred give to Bill? 
+477,Fred,"Answer: Fred
+
+Context: Jeff travelled to the garden. Jeff journeyed to the bedroom. Fred journeyed",Who gave the apple to Bill? 
+478,Bill,"Answer: Bill
+
+Context: Jeff travelled to the garden. Jeff journeyed to the bedroom. Fred journeyed",Who gave the apple to Fred? 
+479,Fred,"Answer: Bill
+
+Question: Who took the apple there?
+
+Answer: Mary
+
+Question: Who",Who gave the apple to Bill? 
+480,Fred,"Answer: Bill
+
+Context: Mary grabbed the football there. Jeff moved to the garden. Mary moved to the",Who gave the apple? 
+481,Fred,"Answer: Fred
+
+Context: Mary grabbed the football there. Jeff moved to the garden. Mary moved to the",Who gave the apple? 
+482,apple,Answer: apple,What did Fred give to Bill? 
+483,Bill,Answer: Bill,Who gave the apple? 
+484,Bill,"Answer: Bill
+
+Question: Who picked up the apple?
+
+Answer: Bill
+
+Question: Who",Who gave the apple to Mary? 
+485,Bill,"Answer: Bill
+
+Context: Mary went to the hallway. Fred picked up the football there. Fred picked up",Who did Fred give the apple to? 
+486,apple,"Answer: The apple.
+
+Context: Mary went to the hallway. Fred picked up the football there. Fred",What did Fred give to Bill? 
+487,Bill,"Answer: Bill
+
+Context: Mary went to the hallway. Fred picked up the football there. Fred picked up",Who gave the apple? 
+488,Bill,"Answer: Bill
+
+Context: Mary went to the hallway. Fred picked up the football there. Fred picked up",Who gave the apple to Mary? 
+489,Bill,"Answer: Bill
+
+Context: Mary went to the hallway. Fred picked up the football there. Fred picked up",Who gave the apple? 
+490,Bill,"Answer: Bill
+
+Question: Who picked up the apple?
+
+Answer: Bill
+
+Question: Who",Who gave the apple to Mary? 
+491,Mary,"Answer: Mary
+
+Context: Fred travelled to the bedroom. Jeff travelled to the office. Fred went to the",Who received the apple? 
+492,milk,"Answer: milk
+
+Question: What did Bill give to Mary?
+
+Answer: apple
+
+Question:",What did Jeff give to Fred? 
+493,milk,"Answer: The milk.
+
+Context: Fred travelled to the bedroom. Jeff travelled to the office. Fred went",What did Fred give to Jeff? 
+494,Fred,"Answer: Fred
+
+Question: Who picked up the apple?
+
+Answer: Bill
+
+Question: Who",Who gave the milk to Jeff? 
+495,Jeff,"Answer: Jeff
+
+Context: Jeff grabbed the milk there. Mary moved to the office. Bill journeyed to",Who did Fred give the football to? 
+496,football,"Answer: The football.
+
+Context: Jeff grabbed the milk there. Mary moved to the office. Bill journey",What did Fred give to Jeff? 
+497,Fred,"Answer: Fred
+
+### 1.2.2.2.2. 2.2.2",Who received the football? 
+498,football,"Answer: The football.
+
+Context: Jeff grabbed the milk there. Mary moved to the office. Bill journey",What did Jeff give to Fred? 
+499,Mary,"Answer: Mary
+
+### 1.2.2.2. The ""Who"" Question¶",Who received the milk? 
+500,Fred,"Answer: Fred
+
+Context: Jeff took the football there. Jeff passed the football to Fred.
+
+Question",Who received the football? 
+501,Jeff,"Answer: Jeff
+
+Question: Who got the milk?
+
+Answer: Bill
+
+Question: Who travelled",Who gave the football? 
+502,football,"Answer: The football.
+
+Context: Jeff took the football there. Jeff passed the football to Fred. Jeff",What did Fred give to Jeff? 
+503,Fred,"Answer: Jeff
+
+Context: Jeff took the football there. Jeff passed the football to Fred. Jeff got the",Who gave the football? 
+504,football,"Answer: The football.
+
+Context: Jeff took the football there. Jeff passed the football to Fred. Jeff",What did Fred give to Mary? 
+505,Fred,"Answer: Fred
+
+Context: Fred travelled to the bedroom. Bill journeyed to the bedroom. Bill got the",Who received the football? 
+506,Bill,"Answer: Bill
+
+Context: Fred travelled to the bedroom. Bill journeyed to the bedroom. Bill got the",Who gave the football to Fred? 
+507,Bill,Answer: Bill,Who received the football? 
+508,Bill,"Answer: Fred
+
+Explanation: Fred received the football from Bill.
+
+# 10.",Who received the football? 
+509,Bill,"Answer: Bill
+
+Question: Who did Bill give the football to?
+
+Answer: Fred
+
+Question",Who did Fred give the football to? 
+510,Fred,"Answer: Fred
+
+Context: Fred went back to the bedroom. Mary travelled to the bathroom. Mary got the",Who received the milk? 
+511,Jeff,"Answer: Jeff
+
+Context: Fred went back to the bedroom. Mary travelled to the bathroom. Mary got the",Who received the milk? 
+512,milk,"Answer: The milk.
+
+Context: Fred went back to the bedroom. Mary travelled to the bathroom. Mary",What did Jeff give to Fred? 
+513,milk,"Answer: The milk.
+
+Context: Fred went back to the bedroom. Mary travelled to the bathroom. Mary",What did Jeff give to Fred? 
+514,Fred,"Answer: Jeff
+
+Context: Fred went back to the bedroom. Mary travelled to the bathroom. Mary got the",Who gave the apple to Bill? 
+515,Bill,"Answer: Bill
+
+Context: Mary went to the hallway. Jeff moved to the hallway. Fred journeyed to",Who gave the apple to Mary? 
+516,Fred,"Answer: Mary
+
+Context: Mary went to the hallway. Jeff moved to the hallway. Fred journeyed to",Who gave the apple? 
+517,Fred,"Answer: Fred
+
+Context: Mary went to the hallway. Jeff moved to the hallway. Fred journeyed to",Who gave the apple to Mary? 
+518,Mary,"Answer: Mary
+
+Context: Mary went to the hallway. Jeff moved to the hallway. Fred journeyed to",Who received the apple? 
+519,apple,"Answer: The apple.
+
+Context: Mary went to the hallway. Jeff moved to the hallway. Fred journey",What did Fred give to Mary? 
+520,apple,"Answer: The apple.
+
+Context: Mary picked up the apple there. Fred travelled to the bedroom. Mary",What did Mary give to Fred? 
+521,Mary,"Answer: Mary gave the apple.
+
+Context: Mary picked up the apple there. Fred travelled to the bedroom",Who gave the apple? 
+522,Fred,"Answer: Fred
+
+Context: Mary picked up the apple there. Fred travelled to the bedroom. Mary handed the",Who did Mary give the milk to? 
+523,milk,"Answer: The apple.
+
+Context: Mary picked up the apple there. Fred travelled to the bedroom. Mary",What did Mary give to Fred? 
+524,Mary,"Answer: Mary
+
+Context: Mary picked up the apple there. Fred travelled to the bedroom. Mary handed the",Who gave the milk to Fred? 
+525,milk,"Answer: The milk.
+
+Context: Mary moved to the bathroom. Fred moved to the bedroom. Jeff travelled",What did Mary give to Fred? 
+526,Mary,"Answer: Mary
+
+Context: Mary moved to the bathroom. Fred moved to the bedroom. Jeff travelled to the",Who received the milk? 
+527,Mary,Answer: Mary,Who received the milk? 
+528,Mary,"Answer: Mary
+
+Question: Who received the apple?
+
+Answer: Fred
+
+Question: Who received",Who received the milk? 
+529,Jeff,Answer: Jeff,Who gave the football to Mary? 
+530,Bill,"Answer: Mary gave the apple to Mary.
+
+Context: Bill went to the bathroom. Bill journeyed to",Who gave the apple to Mary? 
+531,apple,"Answer: The apple.
+
+Context: Bill went to the bathroom. Bill journeyed to the hallway. Fred",What did Bill give to Mary? 
+532,Mary,"Answer: Mary
+
+Context: Bill went to the bathroom. Bill journeyed to the hallway. Fred journeyed",Who received the apple? 
+533,apple,"Answer: The apple.
+
+Context: Bill went to the bathroom. Bill journeyed to the hallway. Fred",What did Bill give to Mary? 
+534,Fred,"Answer: Fred
+
+Question: Who did Mary give the apple to?
+
+Answer: Bill
+
+Question",Who did Mary give the football to? 
+535,milk,"Answer: milk
+
+Context: Fred went back to the office. Mary moved to the bedroom. Fred grabbed the",What did Fred give to Bill? 
+536,Bill,"Answer: Bill
+
+### 1.2.2.2. The 2-agent version¶",Who did Fred give the milk to? 
+537,Bill,Answer: Bill,Who did Fred give the milk to? 
+538,Mary,"Answer: Fred
+
+### 1.2.2.2. The 2-D Grid World¶",Who did Bill give the milk to? 
+539,Mary,Answer: Mary,Who did Bill give the milk to? 
+540,Jeff,"Answer: Jeff
+
+Context: Bill picked up the apple there. Bill journeyed to the bedroom. Bill travelled",Who received the apple? 
+541,Jeff,"Answer: Jeff
+
+Question: What did Bill do with the apple?
+
+Answer: Bill handed the apple",Who received the apple? 
+542,apple,"Answer: The apple.
+
+Context: Bill picked up the apple there. Bill journeyed to the bedroom.",What did Bill give to Jeff? 
+543,apple,"Answer: The apple.
+
+Context: Bill picked up the apple there. Bill journeyed to the bedroom.",What did Bill give to Mary? 
+544,Mary,"Answer: Mary
+
+Question: What did Bill do with the apple?
+
+Answer: He gave it to",Who did Bill give the apple to? 
+545,Jeff,"Answer: Jeff
+
+Context: Jeff moved to the hallway. Jeff picked up the apple there. Jeff moved to",Who did Mary give the apple to? 
+546,Jeff,"Answer: Mary
+
+Context: Jeff moved to the hallway. Jeff picked up the apple there. Jeff moved to",Who received the apple? 
+547,Jeff,"Answer: Jeff
+
+Question: Who did Jeff give the apple to?
+
+Answer: Mary
+
+Question",Who did Mary give the apple to? 
+548,Bill,"Answer: Mary
+
+### 1.2.2.2. The ""Who"" Question¶",Who received the apple? 
+549,Mary,"Answer: Mary
+
+Question: Who picked up the apple?
+
+Answer: Mary
+
+Question: Who",Who gave the apple to Bill? 
+550,Mary,"Answer: Mary
+
+Context: Mary went back to the garden. Fred went to the hallway. Jeff got the",Who gave the milk to Jeff? 
+551,Jeff,"Answer: Jeff
+
+Context: Mary went back to the garden. Fred went to the hallway. Jeff got the",Who received the milk? 
+552,Mary,"Answer: Mary
+
+Context: Mary went back to the garden. Fred went to the hallway. Jeff got the",Who did Fred give the football to? 
+553,Fred,"Answer: Mary gave the football.
+
+Context: Mary went back to the garden. Fred went to the hallway",Who gave the football? 
+554,Mary,"Answer: Mary
+
+## 10.10.2. Discussion
+
+The first thing to notice",Who received the football? 
+555,Bill,"Answer: Fred gave the apple.
+
+Context: Fred took the apple there. Fred moved to the garden.",Who gave the apple? 
+556,Bill,"Answer: Fred gave the apple.
+
+Context: Fred took the apple there. Fred moved to the garden.",Who gave the apple? 
+557,apple,"Answer: The apple.
+
+Context: Fred took the apple there. Fred moved to the garden. Fred handed",What did Bill give to Fred? 
+558,apple,"Answer: The apple.
+
+Context: Fred took the apple there. Fred moved to the garden. Fred handed",What did Fred give to Bill? 
+559,Fred,"Answer: Bill
+
+Context: Fred took the apple there. Fred moved to the garden. Fred handed the apple",Who received the apple? 
+560,apple,"Answer: The apple.
+
+Context: Mary travelled to the office. Jeff travelled to the hallway. Bill journey",What did Fred give to Mary? 
+561,Fred,"Answer: Mary
+
+### 1.2.2.2. 2.1.2.2",Who received the apple? 
+562,apple,"Answer: The apple.
+
+Context: Mary travelled to the office. Jeff travelled to the hallway. Bill journey",What did Mary give to Fred? 
+563,football,"Answer: The football.
+
+Context: Mary travelled to the office. Jeff travelled to the hallway. Bill journey",What did Fred give to Mary? 
+564,Fred,"Answer: Fred
+
+### 1.2.2.2.2. 2.1.2",Who received the football? 
+565,apple,"Answer: The apple.
+
+Context: Jeff picked up the apple there. Mary travelled to the hallway. Jeff",What did Jeff give to Mary? 
+566,Mary,"Answer: Jeff
+
+Question: Who travelled to the garden?
+
+Answer: Fred
+
+Question: Who",Who gave the apple? 
+567,apple,"Answer: The apple.
+
+Context: Jeff picked up the apple there. Mary travelled to the hallway. Jeff",What did Mary give to Jeff? 
+568,apple,"Answer: The apple.
+
+Context: Jeff picked up the apple there. Mary travelled to the hallway. Jeff",What did Jeff give to Mary? 
+569,Jeff,"Answer: Jeff
+
+Question: Who gave the apple to Jeff?
+
+Answer: Mary
+
+Question:",Who gave the apple to Mary? 
+570,milk,"Answer: The milk.
+
+Context: Bill grabbed the apple there. Bill travelled to the bedroom. Fred moved",What did Mary give to Jeff? 
+571,milk,"Answer: The milk.
+
+Context: Bill grabbed the apple there. Bill travelled to the bedroom. Fred moved",What did Jeff give to Mary? 
+572,milk,"Answer: The milk.
+
+Context: Bill grabbed the apple there. Bill travelled to the bedroom. Fred moved",What did Jeff give to Mary? 
+573,Fred,Answer: Fred,Who received the milk? 
+574,Fred,Answer: Fred,Who received the milk? 
+575,football,"Answer: The football.
+
+Context: Mary journeyed to the hallway. Fred journeyed to the garden.",What did Bill give to Mary? 
+576,Mary,Answer: Mary,Who gave the football to Fred? 
+577,football,"Answer: The football
+
+Context: Mary journeyed to the hallway. Fred journeyed to the garden. Jeff",What did Mary give to Fred? 
+578,football,"Answer: The football.
+
+Context: Mary journeyed to the hallway. Fred journeyed to the garden.",What did Mary give to Fred? 
+579,Fred,"Answer: Fred
+
+Context: Mary journeyed to the hallway. Fred journeyed to the garden. Jeff took",Who did Mary give the football to? 
+580,Fred,"Answer: Fred
+
+Context: Mary got the football there. Fred got the milk there. Jeff got the apple",Who gave the milk to Bill? 
+581,Bill,"Answer: Bill
+
+Context: Mary got the football there. Fred got the milk there. Jeff got the apple",Who did Fred give the milk to? 
+582,milk,"Answer: The milk.
+
+Context: Mary got the football there. Fred got the milk there. Jeff got",What did Fred give to Bill? 
+583,Jeff,"Answer: Jeff
+
+Context: Mary got the football there. Fred got the milk there. Jeff got the apple",Who gave the apple to Mary? 
+584,Jeff,"Answer: Mary
+
+Context: Mary got the football there. Fred got the milk there. Jeff got the apple",Who received the apple? 
+585,milk,"Answer: The milk.
+
+Context: Jeff picked up the football there. Fred grabbed the apple there. Jeff",What did Mary give to Bill? 
+586,Mary,"Answer: Mary gave the milk.
+
+Context: Jeff picked up the football there. Fred grabbed the apple there",Who gave the milk? 
+587,Bill,"Answer: Bill
+
+Context: Jeff picked up the football there. Fred grabbed the apple there. Jeff left the",Who did Mary give the milk to? 
+588,Jeff,"Answer: Jeff
+
+Context: Jeff picked up the football there. Fred grabbed the apple there. Jeff left the",Who gave the apple to Fred? 
+589,Fred,"Answer: Jeff
+
+Context: Jeff picked up the football there. Fred grabbed the apple there. Jeff left the",Who gave the apple? 
+590,milk,"Answer: The milk.
+
+Context: Jeff journeyed to the office. Mary went to the hallway. Jeff",What did Bill give to Fred? 
+591,milk,"Answer: The football.
+
+Context: Jeff journeyed to the office. Mary went to the hallway. Jeff",What did Bill give to Fred? 
+592,milk,"Answer: The football.
+
+Context: Jeff journeyed to the office. Mary went to the hallway. Jeff",What did Bill give to Fred? 
+593,Fred,Answer: Bill,Who received the football? 
+594,football,"Answer: The football.
+
+Context: Jeff journeyed to the office. Mary went to the hallway. Jeff",What did Bill give to Fred? 
+595,Jeff,"Answer: Jeff gave the milk to Bill.
+
+Context: Jeff took the milk there. Jeff journeyed to",Who gave the milk to Bill? 
+596,Jeff,"Answer: Jeff
+
+Context: Jeff took the milk there. Jeff journeyed to the bedroom. Jeff put down",Who received the milk? 
+597,Bill,"Answer: Bill
+
+Context: Jeff took the milk there. Jeff journeyed to the bedroom. Jeff put down",Who received the milk? 
+598,Jeff,"Answer: Bill gave the milk.
+
+Context: Jeff took the milk there. Jeff journeyed to the bedroom",Who gave the milk? 
+599,milk,"Answer: The milk.
+
+Context: Jeff took the milk there. Jeff journeyed to the bedroom. Jeff",What did Jeff give to Bill? 
+600,Jeff,Answer: Jeff,Who received the football? 
+601,Mary,"Answer: Mary
+
+Question: Who did Mary give the football to?
+
+Answer: Jeff
+
+Question",Who did Jeff give the football to? 
+602,Jeff,"Answer: Mary
+
+Question: Who got the milk?
+
+Answer: Jeff
+
+Question: Who journey",Who gave the football? 
+603,Jeff,"Answer: Mary
+
+Question: Who got the milk?
+
+Answer: Jeff
+
+Question: Who journey",Who gave the football? 
+604,Jeff,"Answer: Jeff
+
+Question: Who did Jeff give the milk to?
+
+Answer: Bill
+
+Question",Who did Bill give the milk to? 
+605,Fred,"Answer: Fred
+
+Context: Jeff went back to the hallway. Fred moved to the garden. Mary travelled to",Who did Mary give the football to? 
+606,Mary,"Answer: Mary
+
+Context: Jeff went back to the hallway. Fred moved to the garden. Mary travelled to",Who gave the football to Fred? 
+607,Fred,"Answer: Fred
+
+Context: Jeff went back to the hallway. Fred moved to the garden. Mary travelled to",Who did Bill give the football to? 
+608,Fred,"Answer: Bill
+
+Context: Jeff went back to the hallway. Fred moved to the garden. Mary travelled to",Who gave the football? 
+609,football,"Answer: The football.
+
+Context: Jeff went back to the hallway. Fred moved to the garden. Mary",What did Fred give to Bill? 
+610,football,"Answer: The football.
+
+Context: Bill went back to the hallway. Mary moved to the bedroom. Fred",What did Jeff give to Fred? 
+611,Jeff,"Answer: Fred gave the football to Jeff.
+
+Context: Bill went back to the hallway. Mary moved to",Who did Fred give the football to? 
+612,Fred,"Answer: Fred gave the football to Jeff.
+
+Context: Bill went back to the hallway. Mary moved to",Who gave the football? 
+613,Mary,"Answer: Jeff gave the football.
+
+Context: Bill went back to the hallway. Mary moved to the bedroom",Who gave the football? 
+614,Mary,"Answer: Jeff gave the football to Mary.
+
+Context: Bill went back to the hallway. Mary moved to",Who gave the football? 
+615,football,"Answer: The football.
+
+Context: Jeff got the football there. Jeff passed the football to Fred.",What did Jeff give to Fred? 
+616,Jeff,"Answer: Jeff
+
+Context: Jeff got the football there. Jeff passed the football to Fred. Fred gave the",Who did Fred give the football to? 
+617,Fred,"Answer: Fred gave the football to Jeff.
+
+Context: Jeff got the football there. Jeff passed the football",Who gave the football to Jeff? 
+618,apple,"Answer: The apple.
+
+Context: Jeff got the football there. Jeff passed the football to Fred. Fred",What did Bill give to Jeff? 
+619,apple,"Answer: The apple.
+
+Context: Jeff got the football there. Jeff passed the football to Fred. Fred",What did Jeff give to Bill? 
+620,Jeff,Answer: Jeff,Who gave the apple? 
+621,Jeff,"Answer: Jeff
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who gave the apple to Fred? 
+622,Fred,"Answer: Fred
+
+### 1.10.2.2. Example 2¶
+
+Context",Who gave the apple to Bill? 
+623,apple,"Answer: The apple.
+
+Question: What did Jeff take from the office?
+
+Answer: The milk",What did Fred give to Bill? 
+624,Bill,"Answer: Bill
+
+### 1.2.2.2. 2.2.2.2",Who did Fred give the apple to? 
+625,football,"Answer: The football.
+
+Context: Fred journeyed to the kitchen. Fred travelled to the garden. Mary",What did Jeff give to Fred? 
+626,football,"Answer: The football.
+
+Context: Fred journeyed to the kitchen. Fred travelled to the garden. Mary",What did Jeff give to Fred? 
+627,Fred,"Answer: Bill
+
+Question: Who moved to the kitchen?
+
+Answer: Mary
+
+Question: Who",Who gave the football to Jeff? 
+628,Jeff,Answer: Jeff,Who received the football? 
+629,Fred,"Answer: Jeff gave the football to Fred.
+
+Context: Fred journeyed to the kitchen. Fred travelled to",Who gave the football to Jeff? 
+630,Fred,"Answer: Fred
+
+Context: Bill went back to the office. Bill went back to the hallway. Bill went",Who did Jeff give the football to? 
+631,football,"Answer: The football.
+
+Context: Bill went back to the office. Bill went back to the hallway.",What did Fred give to Jeff? 
+632,Fred,"Answer: Jeff gave the football to Fred.
+
+Context: Bill went back to the office. Bill went back",Who gave the football to Jeff? 
+633,football,"Answer: The football.
+
+Context: Bill went back to the office. Bill went back to the hallway.",What did Fred give to Jeff? 
+634,apple,"Answer: apple
+
+Question: What did Mary do?
+
+Answer: journeyed
+
+Question: What",What did Jeff give to Bill? 
+635,Jeff,"Answer: Jeff gave the milk.
+
+Context: Jeff grabbed the milk there. Jeff gave the milk to Bill",Who gave the milk? 
+636,Jeff,"Answer: Jeff
+
+Context: Jeff grabbed the milk there. Jeff gave the milk to Bill. Jeff went back",Who gave the milk? 
+637,milk,"Answer: The milk.
+
+Context: Jeff grabbed the milk there. Jeff gave the milk to Bill. Jeff",What did Jeff give to Bill? 
+638,football,"Answer: The football.
+
+Context: Jeff grabbed the milk there. Jeff gave the milk to Bill. Jeff",What did Mary give to Fred? 
+639,Mary,"Answer: Mary
+
+Context: Jeff grabbed the milk there. Jeff gave the milk to Bill. Jeff went back",Who received the football? 
+640,Jeff,"Answer: Jeff
+
+Context: Bill took the milk there. Fred moved to the hallway. Bill moved to the",Who received the milk? 
+641,Jeff,"Answer: Bill gave the milk.
+
+Context: Bill took the milk there. Fred moved to the hallway.",Who gave the milk? 
+642,Bill,"Answer: Bill
+
+Context: Bill took the milk there. Fred moved to the hallway. Bill moved to the",Who did Jeff give the milk to? 
+643,Bill,"Answer: Bill
+
+Question: Who did Bill give the milk to?
+
+Answer: Jeff
+
+Question",Who did Fred give the milk to? 
+644,milk,"Answer: The milk.
+
+Context: Bill took the milk there. Fred moved to the hallway. Bill moved",What did Fred give to Bill? 
+645,Mary,"Answer: Mary gave the apple to Bill.
+
+Context: Mary took the apple there. Mary dropped the apple",Who gave the apple to Bill? 
+646,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Mary dropped the apple there. Bill went",What did Bill give to Mary? 
+647,Bill,"Answer: Bill
+
+Question: Where did Mary get the apple?
+
+Answer: There
+
+Question:",Who gave the apple to Mary? 
+648,Bill,"Answer: Bill
+
+Context: Mary took the apple there. Mary dropped the apple there. Bill went to the",Who did Mary give the apple to? 
+649,Mary,"Answer: Mary
+
+Context: Mary took the apple there. Mary dropped the apple there. Bill went to the",Who received the apple? 
+650,Bill,"Answer: Bill
+
+Context: Fred travelled to the bedroom. Fred moved to the office. Fred journeyed to",Who gave the apple? 
+651,Bill,Answer: Bill,Who received the milk? 
+652,Bill,"Answer: Bill
+
+Question: Who did Mary give the football to?
+
+Answer: Bill
+
+Question",Who did Jeff give the milk to? 
+653,Bill,"Answer: Bill
+
+### 1.2.2.2. 2.1.2.2",Who did Jeff give the milk to? 
+654,milk,"Answer: The milk.
+
+Context: Fred travelled to the bedroom. Fred moved to the office. Fred journey",What did Jeff give to Bill? 
+655,Bill,"Answer: Bill
+
+Context: Bill travelled to the kitchen. Jeff travelled to the kitchen. Bill travelled to the",Who did Mary give the apple to? 
+656,Mary,"Answer: Mary
+
+Question: Who took the apple from the kitchen?
+
+Answer: Mary
+
+Question",Who gave the apple to Bill? 
+657,Fred,"Answer: Fred
+
+Context: Bill travelled to the kitchen. Jeff travelled to the kitchen. Bill travelled to the",Who gave the football to Mary? 
+658,Mary,"Answer: Fred
+
+Context: Bill travelled to the kitchen. Jeff travelled to the kitchen. Bill travelled to the",Who gave the football? 
+659,football,"Answer: The football.
+
+Context: Bill travelled to the kitchen. Jeff travelled to the kitchen. Bill travelled",What did Mary give to Fred? 
+660,Mary,"Answer: Mary
+
+Context: Mary took the apple there. Mary handed the apple to Jeff.
+
+Question",Who gave the apple to Jeff? 
+661,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Mary handed the apple to Jeff. Mary",What did Jeff give to Mary? 
+662,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Mary handed the apple to Jeff. Mary",What did Mary give to Jeff? 
+663,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Mary handed the apple to Jeff. Mary",What did Mary give to Jeff? 
+664,Fred,"Answer: Jeff
+
+Question: Who received the apple?
+
+Answer: Mary
+
+Question: Who received",Who received the football? 
+665,Mary,Answer: Mary,Who did Bill give the football to? 
+666,Mary,Answer: Mary,Who did Bill give the football to? 
+667,Bill,"Answer: Mary gave the football to Mary.
+
+Context: Fred grabbed the milk there. Bill got the football",Who gave the football to Mary? 
+668,Jeff,Answer: Jeff,Who gave the football to Fred? 
+669,Fred,Answer: Jeff,Who gave the football? 
+670,apple,"Answer: The apple.
+
+Context: Bill travelled to the garden. Mary travelled to the bedroom. Jeff went",What did Bill give to Fred? 
+671,apple,"Answer: The apple.
+
+Context: Bill travelled to the garden. Mary travelled to the bedroom. Jeff went",What did Fred give to Bill? 
+672,apple,"Answer: apple
+
+Question: What did Fred give to Bill?
+
+Answer: apple
+
+Question:",What did Bill give to Fred? 
+673,Bill,Answer: Bill,Who gave the apple? 
+674,Jeff,"Answer: Fred
+
+### 1.1.2.2.2. 2.1.2",Who did Bill give the apple to? 
+675,Mary,"Answer: Jeff
+
+Context: Jeff moved to the hallway. Jeff travelled to the kitchen. Bill moved to the",Who gave the apple? 
+676,Mary,Answer: Mary,Who received the apple? 
+677,apple,"Answer: The apple.
+
+Context: Jeff moved to the hallway. Jeff travelled to the kitchen. Bill moved",What did Mary give to Jeff? 
+678,Mary,"Answer: Jeff
+
+Question: Who took the apple?
+
+Answer: Mary
+
+Question: Who passed",Who gave the apple? 
+679,Mary,"Answer: Jeff
+
+Question: Who took the apple?
+
+Answer: Mary
+
+Question: Who passed",Who gave the apple? 
+680,apple,"Answer: The apple.
+
+Context: Bill got the apple there. Bill passed the apple to Mary.",What did Bill give to Mary? 
+681,Mary,"Answer: Mary
+
+Context: Bill got the apple there. Bill passed the apple to Mary. Mary passed the",Who did Bill give the apple to? 
+682,Bill,"Answer: Bill gave the apple.
+
+Context: Bill got the apple there. Bill passed the apple to Mary",Who gave the apple? 
+683,Bill,"Answer: Bill
+
+Context: Bill got the apple there. Bill passed the apple to Mary. Mary passed the",Who gave the apple to Mary? 
+684,apple,"Answer: The apple.
+
+Context: Bill got the apple there. Bill passed the apple to Mary. Mary",What did Fred give to Bill? 
+685,football,"Answer: The football.
+
+Context: Mary moved to the kitchen. Fred went to the bedroom. Mary went",What did Mary give to Bill? 
+686,football,"Answer: The football.
+
+Context: Mary moved to the kitchen. Fred went to the bedroom. Mary went",What did Mary give to Bill? 
+687,Mary,"Answer: Bill
+
+Context: Mary moved to the kitchen. Fred went to the bedroom. Mary went back to",Who gave the football? 
+688,Jeff,"Answer: Fred gave the milk.
+
+Context: Mary moved to the kitchen. Fred went to the bedroom.",Who gave the milk? 
+689,milk,"Answer: The milk.
+
+Context: Mary moved to the kitchen. Fred went to the bedroom. Mary went",What did Fred give to Jeff? 
+690,Mary,Answer: Mary,Who gave the apple to Bill? 
+691,apple,"Answer: apple
+
+Question: What did Mary give to Bill?
+
+Answer: apple
+
+Question:",What did Bill give to Mary? 
+692,Bill,"Answer: Bill
+
+### 10.1.2.2. The 2-D Grid World",Who did Mary give the apple to? 
+693,apple,"Answer: The apple.
+
+Context: Jeff got the football there. Fred travelled to the office. Mary moved",What did Bill give to Mary? 
+694,Mary,"Answer: Bill
+
+### Scenario 10
+
+Context: Jeff got the football there. Fred travelled",Who received the apple? 
+695,milk,Context: Mary went back to the bathroom. Mary journeyed to the bedroom. Mary took the milk there. Mary,What did Mary give to Fred? 
+696,milk,"Answer: The milk.
+
+Context: Mary went back to the bathroom. Mary journeyed to the bedroom.",What did Mary give to Fred? 
+697,milk,"Answer: The milk.
+
+Context: Mary went back to the bathroom. Mary journeyed to the bedroom.",What did Mary give to Fred? 
+698,Mary,"Answer: Mary
+
+Context: Mary went back to the bathroom. Mary journeyed to the bedroom. Mary took",Who did Fred give the apple to? 
+699,Fred,"Answer: Fred
+
+Context: Mary went back to the bathroom. Mary journeyed to the bedroom. Mary took",Who received the apple? 
+700,Bill,"Answer: Bill
+
+Context: Jeff moved to the bedroom. Mary took the football there. Bill grabbed the apple",Who gave the apple to Fred? 
+701,apple,"Answer: apple
+
+Context: Jeff moved to the bedroom. Mary took the football there. Bill grabbed the apple",What did Bill give to Fred? 
+702,Fred,"Answer: Fred
+
+Context: Jeff moved to the bedroom. Mary took the football there. Bill grabbed the apple",Who did Bill give the apple to? 
+703,Fred,Answer: Bill,Who received the apple? 
+704,Mary,Answer: Mary,Who gave the football to Fred? 
+705,Fred,"Answer: Mary gave the football.
+
+Context: Bill got the apple there. Mary travelled to the bedroom.",Who gave the football? 
+706,football,"Answer: The football.
+
+Context: Bill got the apple there. Mary travelled to the bedroom. Mary picked",What did Fred give to Mary? 
+707,Fred,"Answer: Bill
+
+Context: Bill got the apple there. Mary travelled to the bedroom. Mary picked up the",Who gave the football to Mary? 
+708,Jeff,Answer: Jeff,Who received the apple? 
+709,Jeff,"Answer: Jeff
+
+Question: Who did Mary hand the football to?
+
+Answer: Fred
+
+Question",Who did Fred give the apple to? 
+710,Jeff,"Answer: Jeff
+
+Context: Mary travelled to the office. Jeff went back to the garden. Fred travelled to",Who gave the apple to Bill? 
+711,apple,"Answer: The apple.
+
+Context: Mary travelled to the office. Jeff went back to the garden. Fred",What did Jeff give to Bill? 
+712,Jeff,"Answer: Jeff
+
+Context: Mary travelled to the office. Jeff went back to the garden. Fred travelled to",Who gave the apple to Bill? 
+713,Bill,"Answer: Bill
+
+## 10.10.2. Discussion¶
+
+The above example shows",Who received the apple? 
+714,Bill,"Answer: Jeff
+
+Context: Mary travelled to the office. Jeff went back to the garden. Fred travelled to",Who gave the apple? 
+715,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Bill went to the garden. Bill went",What did Mary give to Fred? 
+716,apple,"Answer: The apple.
+
+Context: Mary took the apple there. Bill went to the garden. Bill went",What did Mary give to Fred? 
+717,Fred,"Answer: Fred
+
+Context: Mary took the apple there. Bill went to the garden. Bill went to the",Who gave the apple to Bill? 
+718,Fred,"Answer: Fred
+
+Context: Mary took the apple there. Bill went to the garden. Bill went to the",Who did Bill give the apple to? 
+719,Bill,"Answer: Bill
+
+Context: Mary took the apple there. Bill went to the garden. Bill went to the",Who did Fred give the apple to? 
+720,apple,Answer: apple,What did Bill give to Jeff? 
+721,Jeff,Answer: Bill,Who gave the apple? 
+722,milk,"Answer: The milk.
+
+Context: Jeff travelled to the bedroom. Bill picked up the football there. Fred",What did Jeff give to Bill? 
+723,milk,"Answer: The milk.
+
+Context: Jeff travelled to the bedroom. Bill picked up the football there. Fred",What did Jeff give to Bill? 
+724,Bill,"Answer: Bill
+
+Question: Who did Bill give the milk to?
+
+Answer: Jeff
+
+Question",Who did Jeff give the milk to? 
+725,football,"Answer: The football.
+
+Context: Fred went to the garden. Fred picked up the football there. Mary",What did Mary give to Fred? 
+726,football,"Answer: The football.
+
+Context: Fred went to the garden. Fred picked up the football there. Mary",What did Fred give to Mary? 
+727,football,"Answer: The football.
+
+Context: Fred went to the garden. Fred picked up the football there. Mary",What did Fred give to Mary? 
+728,Mary,"Answer: Mary
+
+Context: Fred went to the garden. Fred picked up the football there. Mary moved to",Who gave the football to Fred? 
+729,Bill,"Answer: Bill
+
+Question: Who gave the football to Mary?
+
+Answer: Fred
+
+Question:",Who gave the milk to Jeff? 
+730,Fred,"Answer: Fred
+
+Context: Jeff went back to the office. Fred went back to the hallway. Bill picked",Who did Bill give the milk to? 
+731,Fred,"Answer: Fred
+
+Context: Jeff went back to the office. Fred went back to the hallway. Bill picked",Who did Bill give the milk to? 
+732,Bill,"Answer: Bill
+
+Context: Jeff went back to the office. Fred went back to the hallway. Bill picked",Who gave the milk to Fred? 
+733,Fred,"Answer: Fred
+
+Question: What did Mary pick up?
+
+Answer: apple
+
+Question: What",Who did Bill give the milk to? 
+734,apple,"Answer: apple
+
+Question: What did Bill do with the milk?
+
+Answer: passed it to Fred",What did Mary give to Fred? 
+735,Fred,"Answer: Fred
+
+Context: Bill journeyed to the bathroom. Mary travelled to the bathroom. Fred took the",Who did Mary give the milk to? 
+736,Mary,"Answer: Mary
+
+Context: Bill journeyed to the bathroom. Mary travelled to the bathroom. Fred took the",Who did Fred give the milk to? 
+737,milk,"Answer: The milk.
+
+Context: Bill journeyed to the bathroom. Mary travelled to the bathroom. Fred",What did Fred give to Mary? 
+738,Fred,"Answer: Fred
+
+Context: Bill journeyed to the bathroom. Mary travelled to the bathroom. Fred took the",Who gave the football to Bill? 
+739,football,"Answer: The football.
+
+Context: Bill journeyed to the bathroom. Mary travelled to the bathroom. Fred",What did Fred give to Bill? 
+740,Mary,"Answer: Mary
+
+Context: Jeff went back to the office. Jeff travelled to the bedroom. Mary took the",Who gave the milk to Fred? 
+741,Fred,"Answer: Fred
+
+Context: Jeff went back to the office. Jeff travelled to the bedroom. Mary took the",Who received the milk? 
+742,milk,"Answer: The milk.
+
+Context: Jeff went back to the office. Jeff travelled to the bedroom. Mary",What did Mary give to Fred? 
+743,football,"Answer: The football.
+
+Context: Jeff went back to the office. Jeff travelled to the bedroom. Mary",What did Mary give to Fred? 
+744,football,"Answer: The football.
+
+Context: Jeff went back to the office. Jeff travelled to the bedroom. Mary",What did Mary give to Fred? 
+745,Bill,"Answer: Bill
+
+### Problem 10
+
+Context: Bill travelled to the hallway. Bill went to",Who did Fred give the milk to? 
+746,Bill,"Answer: Bill
+
+Question: Who did Fred take the milk to?
+
+Answer: Bill
+
+Question",Who did Fred give the milk to? 
+747,milk,"Answer: The milk.
+
+Context: Bill travelled to the hallway. Bill went to the bedroom. Fred went",What did Bill give to Mary? 
+748,Bill,"Answer: Bill
+
+### Problem 10
+
+Context: Bill travelled to the hallway. Bill went to",Who gave the milk to Mary? 
+749,milk,"Answer: The milk.
+
+Context: Bill travelled to the hallway. Bill went to the bedroom. Fred went",What did Mary give to Fred? 
+750,Bill,"Answer: Jeff gave the apple to Jeff.
+
+Context: Bill went back to the office. Jeff went to",Who gave the apple to Jeff? 
+751,Jeff,"Answer: Jeff
+
+Context: Bill went back to the office. Jeff went to the bedroom. Jeff took the",Who did Bill give the apple to? 
+752,apple,"Answer: The apple.
+
+Context: Bill went back to the office. Jeff went to the bedroom. Jeff",What did Jeff give to Bill? 
+753,Bill,"Answer: Bill
+
+Question: Who did Bill give the apple to?
+
+Answer: Jeff
+
+Question",Who did Jeff give the football to? 
+754,football,"Answer: The apple.
+
+Context: Bill went back to the office. Jeff went to the bedroom. Jeff",What did Bill give to Jeff? 
+755,Fred,"Answer: Fred gave the apple to Jeff.
+
+Context: Jeff journeyed to the garden. Fred went to",Who gave the apple to Jeff? 
+756,Jeff,"Answer: Jeff
+
+Context: Jeff journeyed to the garden. Fred went to the office. Fred went to",Who did Fred give the apple to? 
+757,Fred,"Answer: Fred
+
+Context: Jeff journeyed to the garden. Fred went to the office. Fred went to",Who gave the apple to Jeff? 
+758,Fred,"Answer: Jeff
+
+Question: Who took the apple?
+
+Answer: Fred
+
+Question: Who took",Who gave the milk? 
+759,Fred,"Answer: Jeff
+
+Question: Who took the apple?
+
+Answer: Fred
+
+Question: Who took",Who gave the milk? 
+760,apple,"Answer: apple
+
+Context: Jeff travelled to the kitchen. Fred got the apple there. Mary went to the",What did Fred give to Jeff? 
+761,Jeff,"Answer: Jeff
+
+Context: Jeff travelled to the kitchen. Fred got the apple there. Mary went to the",Who did Mary give the apple to? 
+762,Mary,"Answer: Mary
+
+Context: Jeff travelled to the kitchen. Fred got the apple there. Mary went to the",Who gave the apple? 
+763,Mary,"Answer: Jeff
+
+Context: Jeff travelled to the kitchen. Fred got the apple there. Mary went to the",Who gave the apple? 
+764,Jeff,"Answer: Jeff
+
+Context: Jeff travelled to the kitchen. Fred got the apple there. Mary went to the",Who did Mary give the apple to? 
+765,Fred,"Answer: Fred
+
+Context: Mary grabbed the milk there. Bill moved to the office. Bill picked up the",Who received the football? 
+766,football,"Answer: The football.
+
+Context: Mary grabbed the milk there. Bill moved to the office. Bill picked",What did Fred give to Bill? 
+767,football,"Answer: The football.
+
+Context: Mary grabbed the milk there. Bill moved to the office. Bill picked",What did Fred give to Bill? 
+768,Bill,"Answer: Bill
+
+Question: Who left the milk?
+
+Answer: Mary
+
+Question: Who journey",Who received the football? 
+769,Jeff,"Answer: Fred
+
+Question: Who took the apple?
+
+Answer: Jeff
+
+Question: Who left",Who gave the football to Bill? 
+770,Bill,"Answer: Mary gave the apple.
+
+Context: Bill grabbed the apple there. Bill handed the apple to Mary",Who gave the apple? 
+771,Mary,"Answer: Mary
+
+Context: Bill grabbed the apple there. Bill handed the apple to Mary. Jeff went back",Who did Bill give the apple to? 
+772,apple,"Answer: The apple.
+
+Context: Bill grabbed the apple there. Bill handed the apple to Mary. Jeff",What did Mary give to Bill? 
+773,apple,"Answer: The apple.
+
+Context: Bill grabbed the apple there. Bill handed the apple to Mary. Jeff",What did Bill give to Mary? 
+774,Bill,"Answer: Bill
+
+Context: Bill grabbed the apple there. Bill handed the apple to Mary. Jeff went back",Who gave the apple to Mary? 
+775,Mary,"Answer: Bill gave the milk.
+
+Context: Fred went to the office. Mary went back to the kitchen",Who gave the milk? 
+776,milk,"Answer: The milk.
+
+Context: Fred went to the office. Mary went back to the kitchen. Jeff",What did Mary give to Fred? 
+777,Fred,"Answer: Fred
+
+### Scenario 10
+
+Context: Fred went to the office. Mary went",Who did Bill give the apple to? 
+778,apple,"Answer: The apple.
+
+Context: Fred went to the office. Mary went back to the kitchen. Jeff",What did Fred give to Bill? 
+779,Bill,"Answer: Bill
+
+### Example 2
+
+Context: Fred went to the office. Mary went back to",Who received the apple? 
+780,Mary,"Answer: Mary
+
+Context: Jeff travelled to the bedroom. Fred journeyed to the bathroom. Fred travelled to",Who received the football? 
+781,Mary,"Answer: Mary
+
+Context: Jeff travelled to the bedroom. Fred journeyed to the bathroom. Fred travelled to",Who did Bill give the football to? 
+782,apple,"Answer: The apple.
+
+Context: Jeff travelled to the bedroom. Fred journeyed to the bathroom. Fred",What did Jeff give to Mary? 
+783,Mary,"Answer: Mary
+
+Question: Who did Jeff give the milk to?
+
+Answer: No one",Who did Jeff give the apple to? 
+784,apple,"Answer: apple
+
+Question: What did Jeff pick up?
+
+Answer: apple
+
+Question: What",What did Mary give to Fred? 
+785,milk,"Answer: The milk.
+
+Context: Fred moved to the kitchen. Fred travelled to the bathroom. Bill went",What did Fred give to Mary? 
+786,milk,"Answer: The milk.
+
+Context: Fred moved to the kitchen. Fred travelled to the bathroom. Bill went",What did Fred give to Mary? 
+787,milk,"Answer: The milk.
+
+Context: Fred moved to the kitchen. Fred travelled to the bathroom. Bill went",What did Fred give to Mary? 
+788,milk,"Answer: The milk.
+
+Context: Fred moved to the kitchen. Fred travelled to the bathroom. Bill went",What did Bill give to Mary? 
+789,milk,"Answer: The milk.
+
+Context: Fred moved to the kitchen. Fred travelled to the bathroom. Bill went",What did Bill give to Mary? 
+790,apple,"Answer: The apple.
+
+Context: Bill journeyed to the garden. Mary went to the hallway. Fred",What did Fred give to Mary? 
+791,Fred,"Answer: Fred
+
+Context: Bill journeyed to the garden. Mary went to the hallway. Fred moved to",Who gave the apple to Mary? 
+792,Mary,"Answer: Fred
+
+Question: Who picked up the apple?
+
+Answer: Mary
+
+Question: Who",Who gave the apple? 
+793,Mary,"Answer: Mary
+
+Context: Bill journeyed to the garden. Mary went to the hallway. Fred moved to",Who did Jeff give the apple to? 
+794,Mary,"Answer: Mary
+
+Context: Bill journeyed to the garden. Mary went to the hallway. Fred moved to",Who received the apple? 
+795,apple,Answer: apple,What did Mary give to Bill? 
+796,Mary,Answer: Bill,Who received the apple? 
+797,apple,"Answer: The apple.
+
+Context: Fred moved to the garden. Bill went back to the garden. Bill",What did Mary give to Bill? 
+798,Mary,Answer: Mary,Who gave the apple to Bill? 
+799,apple,"Answer: apple
+
+### Difficulty: Medium
+
+Context: Fred moved to the garden. Bill went back",What did Mary give to Bill? 
+800,Jeff,"Answer: Jeff
+
+Context: Jeff grabbed the football there. Mary journeyed to the hallway. Fred went to",Who gave the football to Fred? 
+801,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Mary journeyed to the hallway. Fred",What did Jeff give to Fred? 
+802,Jeff,"Answer: Jeff
+
+Question: Who picked up the apple?
+
+Answer: Bill
+
+Question: Who",Who gave the football to Fred? 
+803,football,"Answer: The football.
+
+Context: Jeff grabbed the football there. Mary journeyed to the hallway. Fred",What did Mary give to Fred? 
+804,Mary,"Answer: Mary
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who received the football? 
+805,Jeff,"Answer: Mary gave the apple.
+
+Context: Mary moved to the garden. Jeff took the apple there.",Who gave the apple? 
+806,apple,"Answer: The apple.
+
+Context: Mary moved to the garden. Jeff took the apple there. Jeff put",What did Jeff give to Mary? 
+807,apple,"Answer: The apple.
+
+Context: Mary moved to the garden. Jeff took the apple there. Jeff put",What did Jeff give to Mary? 
+808,Jeff,Answer: Fred,Who received the milk? 
+809,milk,"Answer: The milk.
+
+Context: Jeff moved to the kitchen. Bill went to the kitchen. Mary moved",What did Jeff give to Fred? 
+810,Mary,"Answer: Jeff gave the football.
+
+Context: Bill went to the kitchen. Mary went to the bedroom.",Who gave the football? 
+811,Jeff,"Answer: Jeff gave the football.
+
+Context: Bill went to the kitchen. Mary went to the bedroom.",Who gave the football? 
+812,Mary,"Answer: Mary
+
+Explanation: Mary is the only person who is mentioned as passing the football to Bill",Who gave the football? 
+813,Mary,"Answer: Mary
+
+Explanation: Mary is the only person who gave the football to Bill.",Who gave the football to Bill? 
+814,Bill,"Answer: Mary gave the football to Bill.
+
+Context: Bill went to the kitchen. Mary went to the",Who did Mary give the football to? 
+815,milk,"Answer: The milk.
+
+Context: Mary travelled to the bedroom. Bill took the milk there. Mary grabbed",What did Bill give to Jeff? 
+816,Jeff,Answer: Jeff,Who received the milk? 
+817,Bill,"Answer: Bill
+
+Context: Mary travelled to the bedroom. Bill took the milk there. Mary grabbed the football",Who gave the milk to Jeff? 
+818,Bill,"Answer: Fred
+
+Context: Mary travelled to the bedroom. Bill took the milk there. Mary grabbed the football",Who received the milk? 
+819,milk,"Answer: The milk.
+
+Context: Mary travelled to the bedroom. Bill took the milk there. Mary grabbed",What did Fred give to Bill? 
+820,football,"Answer: The football.
+
+Context: Fred grabbed the milk there. Fred went back to the bathroom. Mary",What did Fred give to Bill? 
+821,Fred,"Answer: Fred
+
+Context: Fred grabbed the milk there. Fred went back to the bathroom. Mary journeyed",Who did Bill give the football to? 
+822,football,"Answer: The football.
+
+Context: Fred grabbed the milk there. Fred went back to the bathroom. Mary",What did Bill give to Fred? 
+823,apple,"Answer: The apple.
+
+Context: Fred grabbed the milk there. Fred went back to the office. Mary",What did Bill give to Mary? 
+824,Mary,"Answer: Bill
+
+Context: Fred grabbed the milk there. Fred went back to the office. Mary journeyed",Who received the apple? 
+825,Bill,Answer: Bill,Who did Fred give the milk to? 
+826,Bill,"Answer: Bill
+
+### Problem 10
+
+Context: Jeff went to the office. Mary took the",Who did Fred give the milk to? 
+827,milk,"Answer: milk
+
+### Scenario 10
+
+Context: Jeff went to the office. Mary took",What did Fred give to Bill? 
+828,Mary,"Answer: Bill
+
+Context: Jeff went to the office. Mary took the apple there. Bill went to the",Who gave the milk? 
+829,milk,"Answer: The milk.
+
+Context: Jeff went to the office. Mary took the apple there. Bill went",What did Bill give to Fred? 
+830,Bill,Answer: Bill,Who gave the apple to Mary? 
+831,Mary,"Answer: Mary
+
+### 1.2.2.2. The 2-D Grid World¶",Who did Bill give the apple to? 
+832,Mary,Answer: Mary,Who did Bill give the apple to? 
+833,Bill,"Answer: Mary
+
+Context: Fred moved to the kitchen. Jeff grabbed the football there. Jeff left the football",Who gave the apple? 
+834,apple,"Answer: apple
+
+Question: What did Bill give to Mary?
+
+Answer: apple
+
+Question:",What did Bill give to Mary? 
+835,Mary,"Answer: Mary
+
+Context: Jeff went back to the office. Fred got the milk there. Fred left the",Who did Bill give the football to? 
+836,Mary,Answer: Mary,Who gave the football to Fred? 
+837,Fred,"Answer: Fred
+
+Question: Who did Bill give the football to?
+
+Answer: Mary
+
+Question",Who did Mary give the football to? 
+838,Fred,"Answer: Fred
+
+Question: Who got the milk?
+
+Answer: Jeff
+
+Question: Who moved",Who gave the football to Bill? 
+839,Bill,Answer: Bill,Who did Fred give the football to? 
+840,Jeff,"Answer: Jeff
+
+Context: Mary travelled to the office. Bill moved to the hallway. Fred travelled to the",Who received the apple? 
+841,Jeff,"Answer: Bill
+
+Context: Mary travelled to the office. Bill moved to the hallway. Fred travelled to the",Who gave the apple? 
+842,Jeff,"Answer: Bill
+
+Context: Mary travelled to the office. Bill moved to the hallway. Fred travelled to the",Who gave the apple? 
+843,Mary,"Answer: Mary
+
+## 10.10.2. Discussion¶
+
+The following are some",Who received the apple? 
+844,Mary,"Answer: Mary
+
+Context: Mary travelled to the office. Bill moved to the hallway. Fred travelled to the",Who gave the apple? 
+845,Fred,"Answer: Fred
+
+### Scenario 10
+
+Context: Mary travelled to the hallway. Bill went",Who received the football? 
+846,Mary,"Answer: Fred
+
+### Scenario 10
+
+Context: Mary travelled to the hallway. Bill went",Who gave the football? 
+847,football,"Answer: The football.
+
+Context: Mary travelled to the hallway. Bill went back to the garden. Fred",What did Mary give to Fred? 
+848,Bill,"Answer: Bill
+
+## Chapter 10
+
+## The Future of AI
+
+In this chapter,",Who did Jeff give the apple to? 
+849,apple,Answer: apple,What did Jeff give to Bill? 
+850,apple,"Answer: apple
+
+Context: Mary went to the garden. Jeff went back to the garden. Jeff grabbed the",What did Jeff give to Mary? 
+851,apple,"Answer: The apple.
+
+Context: Mary went to the garden. Jeff went back to the garden. Jeff",What did Jeff give to Mary? 
+852,Mary,"Answer: Mary
+
+Context: Mary went to the garden. Jeff went back to the garden. Jeff grabbed the",Who did Jeff give the apple to? 
+853,football,"Answer: The football.
+
+Context: Mary went to the garden. Jeff went back to the garden. Jeff",What did Jeff give to Mary? 
+854,Mary,"Answer: Mary
+
+Context: Mary went to the garden. Jeff went back to the garden. Jeff grabbed the",Who did Jeff give the football to? 
+855,football,"Answer: The football.
+
+Context: Jeff journeyed to the garden. Mary travelled to the bedroom. Jeff",What did Mary give to Fred? 
+856,Mary,Answer: Mary,Who gave the football? 
+857,Mary,"Answer: Mary
+
+### 10.1.2.2.2. 2.2.",Who gave the football to Fred? 
+858,milk,"Answer: The milk.
+
+Context: Jeff journeyed to the garden. Mary travelled to the bedroom. Jeff",What did Fred give to Mary? 
+859,Fred,Answer: Fred,Who gave the milk? 
+860,milk,"Answer: The milk.
+
+Context: Bill moved to the garden. Mary travelled to the bathroom. Fred moved",What did Jeff give to Mary? 
+861,Mary,"Answer: Jeff
+
+Context: Bill moved to the garden. Mary travelled to the bathroom. Fred moved to the",Who received the milk? 
+862,milk,"Answer: The milk.
+
+Context: Bill moved to the garden. Mary travelled to the bathroom. Fred moved",What did Jeff give to Mary? 
+863,Jeff,"Answer: Jeff
+
+### 1.2.2.2. The 2-D Grid World¶",Who did Mary give the apple to? 
+864,Jeff,"Answer: Mary
+
+Question: Who took the milk?
+
+Answer: Mary
+
+Question: Who took",Who gave the apple? 
+865,Mary,"Answer: Mary
+
+Context: Bill went to the kitchen. Jeff went back to the bedroom. Fred went back",Who gave the milk to Fred? 
+866,milk,"Answer: The milk.
+
+Context: Bill went to the kitchen. Jeff went back to the bedroom. Fred",What did Fred give to Mary? 
+867,milk,"Answer: The milk.
+
+Context: Bill went to the kitchen. Jeff went back to the bedroom. Fred",What did Mary give to Fred? 
+868,Mary,"Answer: Mary
+
+Context: Bill went to the kitchen. Jeff went back to the bedroom. Fred went back",Who did Fred give the milk to? 
+869,Mary,"Answer: Fred gave the milk.
+
+Context: Bill went to the kitchen. Jeff went back to the bedroom",Who gave the milk? 
+870,Bill,"Answer: Mary gave the milk to Bill.
+
+Context: Mary took the milk there. Mary went back to",Who gave the milk to Mary? 
+871,Bill,"Answer: Bill.
+
+Context: Mary took the milk there. Mary went back to the garden. Fred went",Who did Mary give the football to? 
+872,Mary,"Answer: Mary
+
+Context: Mary took the milk there. Mary went back to the garden. Fred went to",Who did Bill give the football to? 
+873,Mary,"Answer: Jeff
+
+Context: Mary took the milk there. Mary went back to the garden. Fred went to",Who gave the football? 
+874,Mary,"Answer: Mary gave the milk.
+
+Question: Who gave the football?
+
+Answer: Jeff gave the",Who gave the milk? 
+875,Mary,"Answer: Mary
+
+Context: Jeff travelled to the garden. Mary went to the garden. Mary journeyed to",Who received the football? 
+876,Mary,"Answer: Mary
+
+Context: Jeff travelled to the garden. Mary went to the garden. Mary journeyed to",Who did Bill give the football to? 
+877,football,"Answer: The football.
+
+Context: Jeff travelled to the garden. Mary went to the garden. Mary journey",What did Mary give to Bill? 
+878,football,"Answer: The football.
+
+Context: Jeff travelled to the garden. Mary went to the garden. Mary journey",What did Mary give to Bill? 
+879,Fred,"Answer: Bill
+
+Question: Who did Bill pass the football to?
+
+Answer: Mary
+
+Question",Who did Mary give the football to? 
+880,Jeff,"Answer: Jeff
+
+Question: Who got the apple?
+
+Answer: Mary
+
+Question: Who got",Who gave the apple? 
+881,Jeff,"Answer: Jeff
+
+Question: Who got the apple?
+
+Answer: Mary
+
+Question: Who got",Who gave the apple? 
+882,milk,"Answer: The milk.
+
+Context: Mary got the apple there. Mary went back to the office. Mary",What did Bill give to Fred? 
+883,Bill,"Answer: Bill
+
+Question: Who got the apple?
+
+Answer: Mary
+
+Question: Who got",Who gave the milk to Fred? 
+884,milk,"Answer: The milk.
+
+Context: Bill got the milk there. Bill went back to the hallway. Fred",What did Bill give to Fred? 
+885,Bill,Answer: Bill,Who received the apple? 
+886,Bill,"Answer: Bill
+
+Context: Fred moved to the garden. Mary journeyed to the bedroom. Bill moved to",Who did Jeff give the apple to? 
+887,Jeff,Answer: Jeff,Who received the apple? 
+888,Jeff,"Answer: Jeff
+
+Context: Fred moved to the garden. Mary journeyed to the bedroom. Bill moved to",Who did Bill give the apple to? 
+889,Jeff,"Answer: Jeff
+
+Context: Fred moved to the garden. Mary journeyed to the bedroom. Bill moved to",Who did Bill give the apple to? 
+890,Bill,"Answer: Bill
+
+Context: Jeff moved to the bedroom. Jeff journeyed to the office. Jeff went to",Who gave the apple? 
+891,apple,"Answer: The apple.
+
+Context: Jeff moved to the bedroom. Jeff journeyed to the office. Jeff",What did Mary give to Fred? 
+892,Fred,Answer: Fred,Who received the apple? 
+893,Mary,"Answer: Mary
+
+Question: Who grabbed the milk?
+
+Answer: Fred
+
+Question: Who grabbed",Who gave the apple? 
+894,Fred,"Answer: Fred
+
+Question: Who did Fred give the apple to?
+
+Answer: Bill
+
+Question",Who did Bill give the apple to? 
+895,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: Mary picked up the milk there. Mary put down",Who gave the apple? 
+896,Fred,"Answer: Fred
+
+Context: Mary picked up the milk there. Mary put down the milk. Mary grabbed the",Who did Mary give the apple to? 
+897,Fred,"Answer: Mary
+
+Context: Mary picked up the milk there. Mary put down the milk. Mary grabbed the",Who received the apple? 
+898,Mary,"Answer: Mary
+
+### Scenario 10
+
+Context: Mary picked up the milk there. Mary",Who received the football? 
+899,Bill,"Answer: Bill
+
+### Scenario 10
+
+Context: Mary picked up the milk there. Mary",Who gave the football? 
+900,Jeff,"Answer: Jeff
+
+### 10.2.2.2. The second example: The party¶",Who received the apple? 
+901,apple,"Answer: The apple.
+
+Question: What did Bill take from the kitchen?
+
+Answer: The milk",What did Fred give to Jeff? 
+902,Jeff,"Answer: Jeff
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who did Fred give the apple to? 
+903,apple,"Answer: The apple.
+
+Context: Jeff went back to the bathroom. Jeff travelled to the hallway. Bill",What did Fred give to Jeff? 
+904,Fred,"Answer: Jeff
+
+### Example 2
+
+Context: Jeff went back to the bathroom. Jeff travelled to",Who received the apple? 
+905,Bill,Answer: Bill,Who gave the milk to Fred? 
+906,milk,"Answer: milk
+
+Question: What did Bill give to Fred?
+
+Answer: milk
+
+Question:",What did Fred give to Bill? 
+907,Fred,"Answer: Fred
+
+Question: Who did Fred give the milk to?
+
+Answer: Bill
+
+Question",Who did Bill give the milk to? 
+908,Bill,"Answer: Bill
+
+### 1.2.10. Exercise 10
+
+Context: Mary",Who gave the milk to Fred? 
+909,Fred,Answer: Bill,Who gave the milk? 
+910,milk,"Answer: The milk.
+
+Context: Jeff journeyed to the office. Mary went back to the hallway.",What did Fred give to Jeff? 
+911,Jeff,"Answer: Jeff
+
+Question: Who grabbed the football?
+
+Answer: Bill
+
+Question: Who travelled",Who did Fred give the milk to? 
+912,Mary,Answer: Mary,Who received the milk? 
+913,Jeff,Answer: Fred,Who gave the milk? 
+914,milk,"Answer: The milk.
+
+Context: Jeff journeyed to the office. Mary went back to the hallway.",What did Jeff give to Mary? 
+915,football,"Answer: The football.
+
+Context: Fred travelled to the kitchen. Jeff journeyed to the hallway. Fred",What did Fred give to Mary? 
+916,Mary,"Answer: Mary
+
+Context: Fred travelled to the kitchen. Jeff journeyed to the hallway. Fred took the",Who received the football? 
+917,Mary,"Answer: Mary
+
+Context: Fred travelled to the kitchen. Jeff journeyed to the hallway. Fred took the",Who gave the football? 
+918,Mary,"Answer: Mary
+
+Context: Fred travelled to the kitchen. Jeff journeyed to the hallway. Fred took the",Who gave the football? 
+919,Fred,Answer: Fred,Who gave the football to Jeff? 
+920,Mary,"Answer: Mary gave the apple to Fred.
+
+Context: Mary picked up the apple there. Fred handed the",Who gave the apple to Fred? 
+921,Fred,"Answer: Fred.
+
+Context: Mary picked up the apple there. Mary handed the apple to Fred. Fred",Who did Mary give the apple to? 
+922,Fred,"Answer: Fred
+
+Question: Who did Mary give the apple to?
+
+Answer: Fred
+
+Question",Who did Mary give the apple to? 
+923,Mary,"Answer: Mary gave the apple.
+
+Question: Who dropped the apple?
+
+Answer: Fred dropped the",Who gave the apple? 
+924,football,"Answer: The football.
+
+Context: Mary picked up the apple there. Mary handed the apple to Fred.",What did Jeff give to Mary? 
+925,Mary,"Answer: Fred
+
+Context: Mary journeyed to the bathroom. Mary moved to the hallway. Mary went to",Who gave the milk? 
+926,Bill,"Answer: Mary
+
+Context: Mary journeyed to the bathroom. Mary moved to the hallway. Mary went to",Who did Fred give the milk to? 
+927,Fred,"Answer: Fred
+
+Context: Mary journeyed to the bathroom. Mary moved to the hallway. Mary went to",Who gave the apple? 
+928,milk,"Answer: The apple.
+
+Context: Mary journeyed to the bathroom. Mary moved to the hallway. Mary",What did Fred give to Bill? 
+929,apple,"Answer: The apple.
+
+Context: Mary journeyed to the bathroom. Mary moved to the hallway. Mary",What did Bill give to Fred? 
+930,apple,"Answer: The apple.
+
+Context: Fred went back to the hallway. Bill journeyed to the bedroom.",What did Mary give to Fred? 
+931,Mary,"Answer: Mary gave the apple.
+
+Context: Fred went back to the hallway. Bill journeyed to the",Who gave the apple? 
+932,apple,"Answer: The apple.
+
+Context: Fred went back to the hallway. Bill journeyed to the bedroom.",What did Mary give to Fred? 
+933,Jeff,"Answer: Mary
+
+Context: Fred went back to the hallway. Bill journeyed to the bedroom. Jeff travelled",Who gave the apple to Fred? 
+934,Jeff,"Answer: Mary gave the apple to Fred.
+
+Question: Who took the apple?
+
+Answer: Fred",Who gave the apple? 
+935,Fred,"Answer: Fred
+
+Context: Bill went to the garden. Bill picked up the apple there. Mary travelled to",Who did Bill give the apple to? 
+936,Bill,"Answer: Bill
+
+Context: Bill went to the garden. Bill picked up the apple there. Mary travelled to",Who gave the apple? 
+937,apple,"Answer: apple
+
+Question: What did Bill give to Fred?
+
+Answer: apple
+
+Question:",What did Fred give to Bill? 
+938,Bill,"Answer: Bill
+
+### 1.2.2.2.2. 2.2.2",Who did Fred give the apple to? 
+939,Bill,"Answer: Bill
+
+## 10.10.2.2.2.2.2.",Who received the apple? 
+940,football,"Answer: The football.
+
+Context: Fred went to the bathroom. Jeff journeyed to the office. Fred",What did Jeff give to Bill? 
+941,football,"Answer: The football.
+
+Context: Fred went to the bathroom. Jeff journeyed to the office. Fred",What did Bill give to Jeff? 
+942,Bill,"Answer: Bill
+
+Question: Who got the apple?
+
+Answer: Fred
+
+Question: Who moved",Who gave the football to Jeff? 
+943,apple,"Answer: The apple.
+
+Context: Fred went to the bathroom. Jeff journeyed to the office. Fred",What did Fred give to Mary? 
+944,Fred,"Answer: Fred
+
+Context: Fred went to the bathroom. Jeff journeyed to the office. Fred travelled to",Who did Mary give the apple to? 
+945,Bill,"Answer: Bill
+
+Context: Bill journeyed to the bedroom. Jeff went to the bathroom. Bill went to",Who gave the apple to Jeff? 
+946,Bill,"Answer: Bill
+
+Context: Bill journeyed to the bedroom. Jeff went to the bathroom. Bill went to",Who did Jeff give the apple to? 
+947,Bill,"Answer: Jeff
+
+Context: Bill journeyed to the bedroom. Jeff went to the bathroom. Bill went to",Who received the apple? 
+948,Bill,"Answer: Bill
+
+Context: Bill journeyed to the bedroom. Jeff went to the bathroom. Bill went to",Who gave the apple? 
+949,Jeff,"Answer: Jeff
+
+Context: Bill journeyed to the bedroom. Jeff went to the bathroom. Bill went to",Who did Bill give the apple to? 
+950,Fred,"Answer: Fred did.
+
+Context: Bill went back to the bedroom. Mary went to the office. Jeff",Who gave the milk to Jeff? 
+951,Jeff,"Answer: Jeff.
+
+Context: Bill went back to the bedroom. Mary went to the office. Jeff journey",Who received the milk? 
+952,Fred,"Answer: Fred
+
+Context: Bill went back to the bedroom. Mary went to the office. Jeff journeyed",Who did Jeff give the milk to? 
+953,Jeff,"Answer: Jeff
+
+Context: Bill went back to the bedroom. Mary went to the office. Jeff journeyed",Who did Fred give the milk to? 
+954,milk,"Answer: The milk.
+
+Context: Bill went back to the bedroom. Mary went to the office. Jeff",What did Jeff give to Fred? 
+955,milk,"Answer: The milk.
+
+Context: Fred travelled to the garden. Bill went to the hallway. Mary picked",What did Mary give to Bill? 
+956,Mary,"Answer: Mary
+
+Context: Fred travelled to the garden. Bill went to the hallway. Mary picked up the",Who did Bill give the milk to? 
+957,Bill,"Answer: Bill
+
+Context: Fred travelled to the garden. Bill went to the hallway. Mary picked up the",Who gave the milk to Mary? 
+958,Mary,"Answer: Fred
+
+Context: Fred travelled to the garden. Bill went to the hallway. Mary picked up the",Who gave the football? 
+959,Mary,"Answer: Fred
+
+Question: Who received the milk?
+
+Answer: Bill
+
+Question: Who received",Who received the football? 
+960,apple,"Answer: apple
+
+Context: Mary journeyed to the kitchen. Fred journeyed to the hallway. Jeff took",What did Fred give to Jeff? 
+961,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the kitchen. Fred journeyed to the hallway. Jeff took",Who did Fred give the apple to? 
+962,Fred,"Answer: Fred
+
+Context: Mary journeyed to the kitchen. Fred journeyed to the hallway. Jeff took",Who gave the apple to Jeff? 
+963,Fred,"Answer: Jeff
+
+Context: Mary journeyed to the kitchen. Fred journeyed to the hallway. Jeff took",Who gave the apple? 
+964,Fred,"Answer: Jeff
+
+Context: Mary journeyed to the kitchen. Fred journeyed to the hallway. Jeff took",Who gave the apple? 
+965,Fred,"Answer: Fred
+
+Context: Mary journeyed to the bedroom. Jeff travelled to the hallway. Fred travelled to",Who received the apple? 
+966,Mary,"Answer: Mary gave the apple to Fred.
+
+Context: Mary journeyed to the bedroom. Jeff travelled to",Who gave the apple to Fred? 
+967,Fred,"Answer: Fred
+
+Context: Mary journeyed to the bedroom. Jeff travelled to the hallway. Fred travelled to",Who did Mary give the apple to? 
+968,apple,"Answer: The apple.
+
+Context: Mary journeyed to the bedroom. Jeff travelled to the hallway. Fred",What did Mary give to Fred? 
+969,Fred,"Answer: Fred
+
+Context: Mary journeyed to the bedroom. Jeff travelled to the hallway. Fred travelled to",Who gave the apple? 
+970,Bill,"Answer: Bill
+
+Context: Bill moved to the office. Jeff moved to the hallway. Mary went to the",Who received the milk? 
+971,Bill,"Answer: Mary gave the milk.
+
+Context: Bill moved to the office. Jeff moved to the hallway.",Who gave the milk? 
+972,Bill,"Answer: Bill
+
+Explanation: Bill gave the milk to Mary.
+
+Question: Who took the",Who gave the milk to Mary? 
+973,Mary,"Answer: Mary
+
+##  **_The Case of the Missing Money_**
+
+Context: Bill went to",Who gave the milk to Jeff? 
+974,Fred,"Answer: Bill
+
+## 10.10.2. Solution
+
+The solution to this problem",Who gave the football? 
+975,football,"Answer: The milk.
+
+Context: Bill travelled to the garden. Bill moved to the hallway. Bill journey",What did Jeff give to Bill? 
+976,football,"Answer: The football.
+
+Context: Bill travelled to the garden. Bill moved to the hallway. Bill journey",What did Jeff give to Bill? 
+977,Jeff,"Answer: Jeff
+
+Context: Bill travelled to the garden. Bill moved to the hallway. Bill journeyed to",Who did Mary give the milk to? 
+978,milk,"Answer: The milk.
+
+Context: Bill travelled to the garden. Bill moved to the hallway. Bill journey",What did Mary give to Jeff? 
+979,Mary,"Answer: Mary
+
+### 1.2.2.2. The Game of Life¶
+
+The",Who received the football? 
+980,milk,"Answer: The milk.
+
+Context: Bill went to the bedroom. Jeff went to the bedroom. Mary took",What did Fred give to Mary? 
+981,Fred,"Answer: Fred gave the milk.
+
+Context: Bill went to the bedroom. Jeff went to the bedroom.",Who gave the milk? 
+982,Fred,"Answer: Fred
+
+Context: Bill went to the bedroom. Jeff went to the bedroom. Mary took the milk",Who gave the milk to Mary? 
+983,Fred,Answer: Fred,Who received the milk? 
+984,Fred,"Answer: Mary gave the milk.
+
+Context: Bill went to the bedroom. Jeff went to the bedroom.",Who gave the milk? 
+985,Jeff,"Answer: Jeff
+
+Context: Fred went back to the garden. Fred took the milk there. Jeff travelled to",Who received the milk? 
+986,Fred,"Answer: Fred gave the milk.
+
+Context: Fred went back to the garden. Fred took the milk there",Who gave the milk? 
+987,Fred,"Answer: Fred
+
+Context: Fred went back to the garden. Fred took the milk there. Jeff travelled to",Who gave the milk to Jeff? 
+988,Fred,"Answer: Fred
+
+Context: Fred went back to the garden. Fred took the milk there. Jeff travelled to",Who gave the milk? 
+989,Bill,Answer: Bill,Who received the milk? 
+990,apple,"Answer: The apple.
+
+Context: Mary went to the kitchen. Bill went back to the hallway. Jeff",What did Bill give to Fred? 
+991,Fred,"Answer: Fred
+
+Context: Mary went to the kitchen. Bill went back to the hallway. Jeff moved to",Who did Bill give the apple to? 
+992,Bill,"Answer: Fred
+
+Context: Mary went to the kitchen. Bill went back to the hallway. Jeff moved to",Who gave the apple? 
+993,football,"Answer: The football
+
+Context: Mary went to the kitchen. Bill went back to the hallway. Jeff moved",What did Jeff give to Mary? 
+994,Jeff,"Answer: Jeff
+
+### 1.2.2.2. Example 2¶
+
+Context:",Who gave the football to Mary? 
+995,Bill,Answer: Bill,Who received the football? 
+996,Fred,"Answer: Fred
+
+Context: Fred journeyed to the bedroom. Bill moved to the bedroom. Fred went to",Who gave the football? 
+997,football,"Answer: The football.
+
+Context: Fred journeyed to the bedroom. Bill moved to the bedroom. Fred",What did Mary give to Bill? 
+998,football,"Answer: The football.
+
+Context: Fred journeyed to the bedroom. Bill moved to the bedroom. Fred",What did Mary give to Bill? 

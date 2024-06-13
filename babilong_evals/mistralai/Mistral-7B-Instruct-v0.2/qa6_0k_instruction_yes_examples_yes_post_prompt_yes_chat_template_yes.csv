@@ -1,0 +1,1150 @@
+,target,output,question
+0,no,Answer: no.,Is John in the kitchen? 
+1,no,No.,Is John in the kitchen? 
+2,yes,Yes.,Is John in the garden? 
+3,yes,Yes. (Daniel travelled to the bathroom in the context.),Is Daniel in the bathroom? 
+4,no,Yes,Is Daniel in the bedroom? 
+5,no,Answer: no.,Is Daniel in the office? 
+6,no,No.,Is Daniel in the hallway? 
+7,yes,Yes.,Is Daniel in the hallway? 
+8,no,No.,Is John in the kitchen? 
+9,yes,Yes.,Is Daniel in the hallway? 
+10,yes,Yes.,Is John in the hallway? 
+11,no,No.,Is John in the bedroom? 
+12,yes,Yes.,Is Sandra in the garden? 
+13,yes,Yes,Is Mary in the kitchen? 
+14,yes,Yes.,Is Mary in the kitchen? 
+15,yes,Yes.,Is John in the hallway? 
+16,yes,Yes.,Is John in the hallway? 
+17,no,No.,Is Daniel in the kitchen? 
+18,no,No.,Is John in the bathroom? 
+19,no,Yes,Is Daniel in the bedroom? 
+20,yes,Yes.,Is Mary in the bedroom? 
+21,no,No.,Is Mary in the kitchen? 
+22,yes,Yes,Is Daniel in the bathroom? 
+23,no,No.,Is Sandra in the bedroom? 
+24,no,No.,Is John in the bedroom? 
+25,yes,Yes.,Is John in the office? 
+26,yes,Yes.,Is Mary in the garden? 
+27,yes,Yes,Is John in the office? 
+28,no,Answer: yes (based on the latest location John was in),Is John in the office? 
+29,yes,Yes.,Is Mary in the hallway? 
+30,yes,Yes.,Is John in the garden? 
+31,no,Answer: no.,Is John in the bathroom? 
+32,no,No.,Is Sandra in the bedroom? 
+33,no,No.,Is Sandra in the bedroom? 
+34,no,Yes.,Is Sandra in the garden? 
+35,no,Answer: no.,Is Mary in the kitchen? 
+36,yes,Yes.,Is Sandra in the garden? 
+37,yes,Yes.,Is Mary in the garden? 
+38,yes,Yes,Is Mary in the garden? 
+39,no,No.,Is Mary in the office? 
+40,yes,Yes.,Is John in the kitchen? 
+41,no,No.,Is John in the hallway? 
+42,no,Yes.,Is Sandra in the kitchen? 
+43,no,No.,Is Mary in the bathroom? 
+44,yes,"Yes
+
+<context>
+John went back to the kitchen. Mary got the football there.",Is Mary in the office? 
+45,yes,$no$,Is Daniel in the office? 
+46,yes,Yes.,Is Daniel in the hallway? 
+47,no,No.,Is Mary in the bathroom? 
+48,yes,Yes.,Is Mary in the kitchen? 
+49,yes,Yes.,Is John in the kitchen? 
+50,yes,Yes.,Is Mary in the kitchen? 
+51,yes,Yes.,Is Mary in the kitchen? 
+52,yes,Yes.,Is Daniel in the kitchen? 
+53,yes,Yes. (Based on the latest location Mary was in.),Is Mary in the garden? 
+54,yes,No.,Is Sandra in the kitchen? 
+55,no,Answer: no.,Is John in the bathroom? 
+56,no,No.,Is Mary in the bedroom? 
+57,yes,Yes.,Is Mary in the bathroom? 
+58,no,No.,Is Mary in the bedroom? 
+59,no,"Yes
+
+<context>
+John travelled to the office. Daniel picked up the football there",Is Mary in the office? 
+60,no,No.,Is John in the garden? 
+61,no,No.,Is Daniel in the bedroom? 
+62,no,No.,Is Sandra in the office? 
+63,no,No.,Is Mary in the office? 
+64,yes,Yes.,Is Mary in the kitchen? 
+65,yes,Yes.,Is John in the kitchen? 
+66,yes,Yes.,Is John in the kitchen? 
+67,yes,Yes.,Is Sandra in the garden? 
+68,no,Yes.,Is Sandra in the kitchen? 
+69,no,Answer: No. (John was last in the bathroom.),Is John in the garden? 
+70,no,No.,Is Sandra in the bedroom? 
+71,yes,Yes.,Is Mary in the bedroom? 
+72,no,No.,Is Sandra in the bathroom? 
+73,yes,Yes.,Is Mary in the garden? 
+74,no,No.,Is John in the garden? 
+75,yes,Yes.,Is Daniel in the bathroom? 
+76,yes,Yes.,Is Mary in the bedroom? 
+77,yes,Yes.,Is John in the bedroom? 
+78,no,No.,Is Mary in the bathroom? 
+79,yes,Yes.,Is Sandra in the office? 
+80,yes,Yes,Is Sandra in the office? 
+81,no,No.,Is Sandra in the bedroom? 
+82,yes,Yes.,Is Daniel in the bathroom? 
+83,yes,Yes.,Is Mary in the hallway? 
+84,no,"Yes
+
+Question: Is Daniel in the bathroom? [
+Yes
+
+Question: Is Sand",Is John in the bedroom? 
+85,no,Answer: no.,Is John in the bathroom? 
+86,yes,Yes.,Is Sandra in the office? 
+87,no,No.,Is Sandra in the kitchen? 
+88,yes,Yes,Is Sandra in the hallway? 
+89,yes,Yes.,Is Mary in the bathroom? 
+90,yes,Yes.,Is Mary in the bathroom? 
+91,no,No.,Is Mary in the kitchen? 
+92,no,Answer: no.,Is Mary in the office? 
+93,no,Yes.,Is Mary in the bathroom? 
+94,yes,Yes.,Is Mary in the kitchen? 
+95,no,Answer: no.,Is Mary in the bedroom? 
+96,no,Yes.,Is Mary in the hallway? 
+97,yes,Answer: yes. (Based on the latest location John was in.),Is John in the bedroom? 
+98,yes,Yes.,Is Daniel in the kitchen? 
+99,no,No.,Is Daniel in the garden? 
+100,no,No.,Is John in the hallway? 
+101,no,"No.
+
+<context>
+John took the apple there. John went to the bathroom.",Is John in the hallway? 
+102,no,"Answer: no.
+
+John was last seen in the office.",Is John in the bathroom? 
+103,no,"Answer: no.
+
+John was last seen in the office. Therefore, the answer to the",Is John in the bathroom? 
+104,no,No.,Is John in the bedroom? 
+105,no,Answer: no.,Is Mary in the kitchen? 
+106,no,No.,Is John in the hallway? 
+107,no,Yes.,Is John in the kitchen? 
+108,no,No.,Is Sandra in the bathroom? 
+109,no,Yes.,Is John in the hallway? 
+110,no,Answer: no.,Is Daniel in the office? 
+111,no,No.,Is Daniel in the bedroom? 
+112,yes,Yes.,Is Daniel in the kitchen? 
+113,yes,Yes.,Is Daniel in the kitchen? 
+114,yes,Yes.,Is John in the hallway? 
+115,no,Answer: no.,Is Daniel in the office? 
+116,yes,Yes.,Is Daniel in the hallway? 
+117,yes,Yes,Is Sandra in the bedroom? 
+118,yes,Yes,Is Sandra in the bedroom? 
+119,no,No.,Is Daniel in the bathroom? 
+120,no,Answer: no.,Is John in the office? 
+121,yes,Yes.,Is John in the kitchen? 
+122,yes,Yes.,Is Daniel in the office? 
+123,no,No.,Is Daniel in the bedroom? 
+124,yes,Yes.,Is Sandra in the garden? 
+125,no,No.,Is Sandra in the garden? 
+126,no,No.,Is Sandra in the hallway? 
+127,no,No.,Is Mary in the hallway? 
+128,no,No.,Is John in the kitchen? 
+129,no,No.,Is Mary in the hallway? 
+130,no,$no$,Is Sandra in the garden? 
+131,yes,Yes.,Is Daniel in the bathroom? 
+132,no,No.,Is Sandra in the bedroom? 
+133,yes,Yes.,Is John in the garden? 
+134,no,No.,Is John in the hallway? 
+135,no,Answer: no.,Is John in the office? 
+136,no,No.,Is John in the bathroom? 
+137,no,No.,Is Mary in the office? 
+138,no,Yes.,Is John in the hallway? 
+139,no,No.,Is Mary in the kitchen? 
+140,no,Answer: no.,Is Daniel in the kitchen? 
+141,yes,Yes.,Is Daniel in the garden? 
+142,no,No.,Is Daniel in the bedroom? 
+143,no,Answer: no.,Is John in the bathroom? 
+144,yes,Yes.,Is John in the office? 
+145,yes,Yes.,Is John in the kitchen? 
+146,no,No.,Is John in the hallway? 
+147,yes,Yes.,Is Mary in the hallway? 
+148,no,No.,Is Mary in the bedroom? 
+149,no,No.,Is John in the kitchen? 
+150,yes,Yes,Is Sandra in the bathroom? 
+151,yes,Yes.,Is Sandra in the garden? 
+152,no,No.,Is Sandra in the hallway? 
+153,yes,Yes.,Is Daniel in the hallway? 
+154,no,No.,Is Daniel in the garden? 
+155,no,Answer: no.,Is John in the bedroom? 
+156,no,No.,Is John in the garden? 
+157,no,No.,Is Sandra in the bedroom? 
+158,no,$no$,Is Mary in the bathroom? 
+159,no,Yes.,Is Sandra in the kitchen? 
+160,yes,Answer: no. (Daniel was in the kitchen most recently before the question was asked.),Is Daniel in the office? 
+161,yes,Yes. The latest location Mary was in was the bedroom.,Is Mary in the bedroom? 
+162,yes,Yes. (Daniel's latest location was in the kitchen.),Is Daniel in the kitchen? 
+163,yes,Yes.,Is John in the office? 
+164,yes,Yes.,Is John in the bedroom? 
+165,no,Answer: no.,Is Mary in the bathroom? 
+166,yes,Yes.,Is Mary in the garden? 
+167,no,No.,Is Mary in the hallway? 
+168,yes,No.,Is Sandra in the kitchen? 
+169,yes,Yes.,Is Daniel in the hallway? 
+170,yes,Yes.,Is John in the hallway? 
+171,no,No.,Is John in the kitchen? 
+172,no,$no$,Is John in the kitchen? 
+173,no,Yes.,Is John in the hallway? 
+174,no,Yes.,Is Daniel in the office? 
+175,yes,Yes.,Is Sandra in the kitchen? 
+176,yes,Yes,Is Sandra in the kitchen? 
+177,no,Yes.,Is John in the kitchen? 
+178,no,$no$,Is Sandra in the garden? 
+179,no,No.,Is Daniel in the kitchen? 
+180,yes,Yes.,Is Daniel in the bedroom? 
+181,yes,Yes.,Is John in the bedroom? 
+182,yes,Yes.,Is John in the office? 
+183,yes,No.,Is John in the office? 
+184,no,No.,Is Mary in the garden? 
+185,yes,Yes.,Is Daniel in the garden? 
+186,yes,Yes,Is Mary in the kitchen? 
+187,yes,Yes,Is Daniel in the kitchen? 
+188,yes,Yes.,Is John in the bathroom? 
+189,no,"Yes
+
+Question: Is Mary in the bathroom? [
+Yes
+
+Question: Is John",Is Daniel in the garden? 
+190,yes,Yes.,Is Sandra in the garden? 
+191,no,"Answer: no.
+
+<context>
+John travelled to the kitchen. John travelled",Is Sandra in the garden? 
+192,yes,No.,Is Sandra in the bedroom? 
+193,yes,No.,Is Mary in the office? 
+194,yes,No.,Is Mary in the office? 
+195,yes,Yes.,Is John in the kitchen? 
+196,yes,Yes.,Is Daniel in the office? 
+197,no,No.,Is Daniel in the hallway? 
+198,no,No.,Is Mary in the kitchen? 
+199,yes,Yes.,Is John in the office? 
+200,yes,Yes.,Is John in the bathroom? 
+201,yes,Yes.,Is John in the bathroom? 
+202,no,No.,Is John in the garden? 
+203,no,No.,Is Sandra in the bedroom? 
+204,no,No.,Is John in the garden? 
+205,yes,Yes.,Is Sandra in the garden? 
+206,yes,No.,Is Sandra in the office? 
+207,no,No.,Is Sandra in the office? 
+208,yes,Yes.,Is Daniel in the bedroom? 
+209,yes,Yes.,Is Daniel in the bedroom? 
+210,yes,Yes.,Is Sandra in the garden? 
+211,no,No.,Is Daniel in the garden? 
+212,no,Answer: no.,Is John in the bathroom? 
+213,no,No.,Is John in the garden? 
+214,no,No.,Is John in the kitchen? 
+215,no,Answer: no.,Is Daniel in the bathroom? 
+216,yes,Yes.,Is Mary in the hallway? 
+217,no,Answer: no.,Is John in the kitchen? 
+218,no,Answer: no.,Is Mary in the office? 
+219,yes,Yes.,Is Mary in the kitchen? 
+220,yes,Yes.,Is Mary in the kitchen? 
+221,no,No.,Is Mary in the hallway? 
+222,no,Yes.,Is Daniel in the hallway? 
+223,yes,Yes.,Is Daniel in the hallway? 
+224,yes,Yes.,Is Daniel in the hallway? 
+225,yes,Yes.,Is John in the garden? 
+226,yes,Yes.,Is John in the garden? 
+227,no,No.,Is John in the bedroom? 
+228,yes,Yes.,Is John in the bathroom? 
+229,no,No.,Is Mary in the hallway? 
+230,no,Answer: no.,Is Daniel in the office? 
+231,yes,Yes.,Is Daniel in the kitchen? 
+232,no,No.,Is Sandra in the bathroom? 
+233,yes,"No. (Daniel put down the football in the last location mentioned, which was not the kitchen",Is Daniel in the kitchen? 
+234,yes,Yes.,Is Sandra in the hallway? 
+235,yes,Yes.,Is Sandra in the kitchen? 
+236,no,No. (Sandra went back to the garden after being in the kitchen.),Is Sandra in the kitchen? 
+237,no,No.,Is John in the bathroom? 
+238,no,Yes,Is Sandra in the kitchen? 
+239,no,Yes.,Is Mary in the bathroom? 
+240,no,No.,Is Sandra in the hallway? 
+241,no,No.,Is Sandra in the hallway? 
+242,yes,Yes.,Is Sandra in the kitchen? 
+243,no,No.,Is Daniel in the bathroom? 
+244,no,No.,Is Daniel in the bedroom? 
+245,yes,Yes.,Is John in the hallway? 
+246,yes,Yes.,Is Sandra in the bathroom? 
+247,yes,Yes,Is Sandra in the office? 
+248,no,$no$,Is Sandra in the garden? 
+249,yes,Yes.,Is Sandra in the bedroom? 
+250,yes,Yes.,Is John in the office? 
+251,yes,Yes.,Is John in the office? 
+252,no,No.,Is Mary in the bathroom? 
+253,yes,Yes.,Is Mary in the hallway? 
+254,yes,Yes.,Is Mary in the hallway? 
+255,yes,Yes. The context states that Daniel went to the garden.,Is Daniel in the garden? 
+256,yes,No.,Is Sandra in the office? 
+257,yes,Yes.,Is Mary in the bathroom? 
+258,no,No.,Is Mary in the garden? 
+259,yes,Yes.,Is John in the bathroom? 
+260,no,No.,Is Sandra in the garden? 
+261,yes,Yes.,Is Sandra in the bathroom? 
+262,yes,Yes.,Is Daniel in the hallway? 
+263,no,No.,Is Sandra in the bedroom? 
+264,no,No.,Is Sandra in the bedroom? 
+265,yes,Yes.,Is John in the kitchen? 
+266,no,No.,Is John in the garden? 
+267,no,No.,Is Daniel in the kitchen? 
+268,yes,Yes.,Is Sandra in the garden? 
+269,no,Yes.,Is John in the hallway? 
+270,yes,Yes.,Is Daniel in the bathroom? 
+271,no,Yes.,Is Mary in the hallway? 
+272,no,"No.
+
+<context>
+Mary journeyed to the garden. Daniel went to the",Is Mary in the bedroom? 
+273,yes,Yes.,Is Mary in the hallway? 
+274,no,No. (Sandra moved to the hallway.),Is Sandra in the bedroom? 
+275,yes,Yes.,Is Daniel in the bathroom? 
+276,yes,Yes.,Is Sandra in the bathroom? 
+277,yes,Yes.,Is Sandra in the bathroom? 
+278,no,No.,Is Sandra in the bathroom? 
+279,no,No.,Is Sandra in the hallway? 
+280,yes,No.,Is Sandra in the bedroom? 
+281,no,No.,Is Sandra in the kitchen? 
+282,yes,Yes.,Is John in the bedroom? 
+283,yes,Yes.,Is John in the bedroom? 
+284,yes,Yes.,Is John in the office? 
+285,yes,Yes.,Is Daniel in the office? 
+286,no,Yes.,Is Daniel in the hallway? 
+287,no,No.,Is Mary in the office? 
+288,yes,Yes.,Is John in the hallway? 
+289,no,No.,Is Mary in the hallway? 
+290,yes,Yes.,Is Daniel in the bathroom? 
+291,no,Answer: no.,Is Sandra in the office? 
+292,yes,Yes,Is Sandra in the hallway? 
+293,no,Answer: no.,Is Mary in the office? 
+294,no,No.,Is Mary in the bedroom? 
+295,no,Answer: no.,Is Sandra in the office? 
+296,yes,Yes,Is Sandra in the garden? 
+297,no,"Answer: no.
+
+Mary moved to the bedroom after being in the bathroom. Therefore,",Is Mary in the bathroom? 
+298,no,Yes,Is Sandra in the garden? 
+299,yes,Yes.,Is Sandra in the bedroom? 
+300,yes,Yes.,Is John in the bedroom? 
+301,no,"Answer: $no$.
+
+John was last in the bedroom. Therefore, the answer is based",Is John in the office? 
+302,yes,Yes.,Is Sandra in the garden? 
+303,yes,Yes.,Is Daniel in the hallway? 
+304,no,No.,Is Sandra in the kitchen? 
+305,yes,Yes.,Is John in the bedroom? 
+306,no,No. (Daniel journeyed to the garden after going back to the bedroom.),Is Daniel in the bedroom? 
+307,yes,Yes.,Is John in the bedroom? 
+308,no,Yes.,Is Daniel in the garden? 
+309,no,Yes.,Is Daniel in the garden? 
+310,yes,Yes.,Is Sandra in the hallway? 
+311,no,Yes.,Is Mary in the hallway? 
+312,yes,Yes.,Is Sandra in the kitchen? 
+313,no,No.,Is Mary in the bathroom? 
+314,yes,Yes.,Is John in the hallway? 
+315,no,No.,Is Sandra in the hallway? 
+316,yes,Yes.,Is Sandra in the garden? 
+317,no,No.,Is Mary in the bedroom? 
+318,no,No.,Is Daniel in the kitchen? 
+319,yes,Yes.,Is Sandra in the bathroom? 
+320,yes,Yes.,Is Sandra in the hallway? 
+321,no,No.,Is Sandra in the hallway? 
+322,no,"No.
+
+<context>
+John went to the kitchen. Sandra travelled to the",Is Mary in the bedroom? 
+323,yes,Yes.,Is Sandra in the hallway? 
+324,no,No.,Is Sandra in the garden? 
+325,no,Answer: no.,Is John in the office? 
+326,no,No.,Is John in the hallway? 
+327,no,No.,Is John in the bathroom? 
+328,no,No.,Is Mary in the kitchen? 
+329,no,No.,Is John in the bathroom? 
+330,yes,Yes.,Is John in the garden? 
+331,no,No.,Is Sandra in the hallway? 
+332,yes,Yes,Is Sandra in the office? 
+333,yes,Yes,Is Mary in the office? 
+334,yes,Yes,Is Daniel in the hallway? 
+335,yes,Yes.,Is John in the kitchen? 
+336,no,No.,Is John in the bedroom? 
+337,no,Yes.,Is Daniel in the kitchen? 
+338,yes,Yes.,Is Daniel in the hallway? 
+339,no,No.,Is Sandra in the office? 
+340,no,No.,Is Sandra in the hallway? 
+341,yes,Yes.,Is Mary in the bedroom? 
+342,no,"No.
+
+(Mary was last in the bedroom.)",Is Mary in the bathroom? 
+343,no,No.,Is Daniel in the kitchen? 
+344,yes,Yes.,Is John in the garden? 
+345,no,Answer: no.,Is John in the bedroom? 
+346,no,Answer: no.,Is John in the bedroom? 
+347,no,"Answer: no.
+
+John was last in the bedroom. Therefore, the answer is no,",Is John in the garden? 
+348,no,No.,Is Daniel in the bedroom? 
+349,no,"Yes
+
+Question: Is Mary in the garden? [
+Answer: Yes
+
+Question",Is John in the hallway? 
+350,yes,Yes.,Is John in the bathroom? 
+351,yes,Yes.,Is Daniel in the bathroom? 
+352,yes,Yes.,Is John in the garden? 
+353,yes,Yes.,Is John in the garden? 
+354,no,Yes.,Is John in the bedroom? 
+355,no,Answer: no.,Is Mary in the kitchen? 
+356,yes,Yes.,Is Sandra in the bedroom? 
+357,yes,Yes.,Is Sandra in the garden? 
+358,no,No.,Is Sandra in the bedroom? 
+359,yes,Yes.,Is Mary in the bathroom? 
+360,yes,Yes.,Is Mary in the office? 
+361,no,No.,Is Mary in the bedroom? 
+362,no,No.,Is John in the bedroom? 
+363,yes,Yes.,Is Daniel in the office? 
+364,yes,No.,Is Mary in the garden? 
+365,no,Answer: no.,Is Mary in the bathroom? 
+366,no,No.,Is Sandra in the hallway? 
+367,yes,Yes. The context states that Daniel went back to the office.,Is Daniel in the office? 
+368,no,No.,Is John in the hallway? 
+369,no,Yes.,Is Mary in the bedroom? 
+370,no,Answer: no.,Is Daniel in the bedroom? 
+371,no,No.,Is Daniel in the kitchen? 
+372,yes,Yes.,Is Daniel in the garden? 
+373,no,Yes.,Is Daniel in the hallway? 
+374,no,Yes.,Is Daniel in the garden? 
+375,no,Answer: no.,Is Mary in the bathroom? 
+376,yes,Yes.,Is Mary in the kitchen? 
+377,no,No.,Is Mary in the bedroom? 
+378,no,Yes,Is Mary in the garden? 
+379,yes,Yes.,Is John in the garden? 
+380,yes,Yes.,Is Sandra in the garden? 
+381,yes,No.,Is Sandra in the bedroom? 
+382,no,No.,Is John in the bedroom? 
+383,yes,Yes.,Is Daniel in the bathroom? 
+384,no,Yes.,Is Daniel in the hallway? 
+385,no,No.,Is Daniel in the bedroom? 
+386,yes,Yes.,Is John in the hallway? 
+387,no,No.,Is Daniel in the bathroom? 
+388,yes,Yes.,Is Daniel in the hallway? 
+389,yes,Yes.,Is Sandra in the kitchen? 
+390,no,Answer: no.,Is Daniel in the bathroom? 
+391,no,No.,Is Mary in the garden? 
+392,no,No.,Is Sandra in the office? 
+393,no,No.,Is John in the office? 
+394,no,Yes.,Is John in the kitchen? 
+395,no,Answer: no.,Is John in the kitchen? 
+396,no,No.,Is Mary in the hallway? 
+397,yes,Yes.,Is Sandra in the hallway? 
+398,yes,Yes.,Is Mary in the bedroom? 
+399,yes,"Yes
+
+<context>
+John journeyed to the bathroom. Daniel picked up the football there",Is Sandra in the office? 
+400,yes,Yes.,Is Mary in the kitchen? 
+401,yes,Yes.,Is Mary in the garden? 
+402,yes,Yes.,Is Mary in the hallway? 
+403,yes,Yes.,Is Mary in the hallway? 
+404,no,No.,Is Mary in the bathroom? 
+405,yes,Yes.,Is John in the garden? 
+406,yes,No.,Is John in the garden? 
+407,yes,Yes.,Is Mary in the hallway? 
+408,no,No.,Is Mary in the bedroom? 
+409,no,No.,Is Mary in the office? 
+410,yes,Yes.,Is Daniel in the office? 
+411,yes,Yes.,Is Mary in the kitchen? 
+412,no,No. (Daniel was last seen in the office.),Is Daniel in the bedroom? 
+413,no,No.,Is Sandra in the garden? 
+414,yes,Yes.,Is John in the kitchen? 
+415,no,No.,Is Mary in the garden? 
+416,no,Answer: no.,Is John in the bedroom? 
+417,yes,Yes.,Is Sandra in the bathroom? 
+418,no,$no$,Is Mary in the garden? 
+419,yes,Yes.,Is Sandra in the garden? 
+420,yes,Yes.,Is John in the garden? 
+421,no,No.,Is John in the bedroom? 
+422,yes,Yes.,Is John in the bathroom? 
+423,no,Yes. (John's latest location was in the hallway.),Is John in the hallway? 
+424,yes,Yes.,Is John in the hallway? 
+425,no,Answer: no.,Is Daniel in the bedroom? 
+426,no,No.,Is Mary in the office? 
+427,no,No.,Is Mary in the office? 
+428,yes,Yes.,Is Sandra in the garden? 
+429,no,Answer: no.,Is John in the office? 
+430,no,Answer: no.,Is Daniel in the bedroom? 
+431,no,No.,Is Daniel in the bathroom? 
+432,yes,Yes.,Is Daniel in the office? 
+433,yes,Yes.,Is Sandra in the garden? 
+434,no,No.,Is Daniel in the garden? 
+435,yes,Yes.,Is Mary in the office? 
+436,yes,Yes.,Is Mary in the office? 
+437,yes,Yes. (Daniel went to the garden.),Is Daniel in the garden? 
+438,yes,No.,Is Sandra in the bedroom? 
+439,yes,Yes.,Is Sandra in the kitchen? 
+440,yes,$yes$,Is John in the bathroom? 
+441,no,No.,Is Daniel in the office? 
+442,yes,"No. (Daniel moved to the garden but the latest location for John, who has the football",Is Daniel in the garden? 
+443,no,No.,Is Daniel in the office? 
+444,yes,Yes.,Is Daniel in the bathroom? 
+445,no,Answer: no.,Is Mary in the bathroom? 
+446,no,No.,Is Daniel in the garden? 
+447,no,No.,Is Daniel in the hallway? 
+448,no,No.,Is John in the bathroom? 
+449,no,No.,Is John in the kitchen? 
+450,yes,Yes.,Is Sandra in the hallway? 
+451,no,No.,Is Sandra in the office? 
+452,yes,"Answer: no.
+
+<context>
+John travelled to the kitchen. John travelled",Is Mary in the bedroom? 
+453,no,Yes.,Is Sandra in the office? 
+454,no,No.,Is Sandra in the kitchen? 
+455,no,Answer: no.,Is John in the bedroom? 
+456,yes,Yes,Is Sandra in the bedroom? 
+457,no,$no$,Is Sandra in the garden? 
+458,no,No.,Is John in the bedroom? 
+459,yes,Yes.,Is Mary in the office? 
+460,no,Answer: $no$.,Is John in the kitchen? 
+461,no,No.,Is Sandra in the garden? 
+462,yes,Yes.,Is Daniel in the bathroom? 
+463,no,No.,Is Sandra in the hallway? 
+464,yes,No.,Is Sandra in the kitchen? 
+465,yes,Yes.,Is Sandra in the office? 
+466,yes,Yes.,Is Sandra in the office? 
+467,yes,Yes,Is Sandra in the bathroom? 
+468,no,No.,Is Sandra in the hallway? 
+469,yes,Yes.,Is John in the bedroom? 
+470,no,No.,Is Daniel in the bathroom? 
+471,no,No.,Is Daniel in the bedroom? 
+472,yes,"No.
+
+<context>
+Sarah travelled to the kitchen. Sarah travelled",Is John in the bathroom? 
+473,yes,Yes,Is Mary in the bathroom? 
+474,yes,Yes.,Is Mary in the garden? 
+475,yes,"No.
+
+<context>
+John travelled to the kitchen. John travelled to the",Is Sandra in the office? 
+476,yes,"Answer: yes (from the latest location Daniel was in)
+
+However, it's important",Is Daniel in the garden? 
+477,no,No.,Is Daniel in the bathroom? 
+478,no,Yes.,Is Daniel in the office? 
+479,no,No.,Is Mary in the hallway? 
+480,yes,Yes.,Is John in the bedroom? 
+481,no,No.,Is Sandra in the hallway? 
+482,no,"No.
+
+John went to the bedroom and did not go to the garden. The latest location",Is John in the garden? 
+483,no,No.,Is Daniel in the bedroom? 
+484,no,Yes.,Is John in the garden? 
+485,yes,Yes.,Is Daniel in the kitchen? 
+486,yes,Yes.,Is Mary in the office? 
+487,yes,Yes.,Is Daniel in the garden? 
+488,no,No.,Is John in the office? 
+489,yes,Yes.,Is Daniel in the garden? 
+490,yes,Yes.,Is John in the kitchen? 
+491,no,Answer: no.,Is John in the office? 
+492,yes,Yes.,Is John in the bathroom? 
+493,yes,Yes.,Is Mary in the office? 
+494,yes,Yes.,Is Daniel in the office? 
+495,no,Answer: no.,Is Daniel in the bathroom? 
+496,yes,Yes.,Is Sandra in the kitchen? 
+497,yes,No. (Daniel was last in the kitchen.),Is Daniel in the garden? 
+498,yes,Yes.,Is Mary in the garden? 
+499,no,Answer: no.,Is Mary in the office? 
+500,no,No.,Is Sandra in the hallway? 
+501,yes,Yes.,Is Mary in the kitchen? 
+502,yes,Yes,Is Mary in the office? 
+503,yes,Yes,Is Mary in the office? 
+504,yes,Yes.,Is Sandra in the kitchen? 
+505,yes,Yes.,Is Sandra in the bedroom? 
+506,no,Answer: no.,Is Sandra in the office? 
+507,yes,Yes,Is Sandra in the kitchen? 
+508,yes,Yes.,Is John in the hallway? 
+509,yes,Yes.,Is Daniel in the bathroom? 
+510,no,No.,Is Sandra in the kitchen? 
+511,no,No.,Is Daniel in the bathroom? 
+512,no,No.,Is Mary in the bedroom? 
+513,yes,Yes,Is Mary in the bathroom? 
+514,no,No.,Is Mary in the bedroom? 
+515,yes,Yes.,Is Sandra in the bathroom? 
+516,no,No.,Is Daniel in the bedroom? 
+517,yes,Yes.,Is Sandra in the bathroom? 
+518,yes,Yes.,Is Sandra in the bathroom? 
+519,no,No.,Is Sandra in the office? 
+520,no,No.,Is Daniel in the kitchen? 
+521,no,No.,Is Daniel in the office? 
+522,no,$no$,Is John in the garden? 
+523,yes,Yes.,Is Sandra in the garden? 
+524,no,Yes.,Is Mary in the garden? 
+525,no,No.,Is Sandra in the bedroom? 
+526,yes,Yes,Is Sandra in the office? 
+527,no,No.,Is Mary in the hallway? 
+528,yes,Yes,Is Sandra in the bathroom? 
+529,no,"Answer: no.
+
+(Note: The latest location Sandra was in was the bedroom.)",Is Sandra in the office? 
+530,yes,No.,Is Mary in the kitchen? 
+531,yes,No.,Is Mary in the kitchen? 
+532,yes,Yes.,Is Mary in the bedroom? 
+533,yes,Yes.,Is Mary in the kitchen? 
+534,yes,Yes.,Is Mary in the hallway? 
+535,no,Answer: no.,Is Mary in the bathroom? 
+536,yes,Yes.,Is Mary in the kitchen? 
+537,no,No. (Daniel was last in the bathroom.),Is Daniel in the office? 
+538,yes,Yes.,Is Daniel in the office? 
+539,yes,Yes.,Is Mary in the hallway? 
+540,no,No.,Is Daniel in the hallway? 
+541,yes,No.,Is John in the kitchen? 
+542,yes,Yes.,Is John in the kitchen? 
+543,yes,Yes.,Is John in the hallway? 
+544,yes,"Yes
+
+Question: Is Daniel in the kitchen? [
+Yes
+
+Question: Is John",Is Sandra in the bedroom? 
+545,no,No.,Is Sandra in the bedroom? 
+546,no,No.,Is Sandra in the kitchen? 
+547,yes,Yes,Is Sandra in the office? 
+548,yes,Yes.,Is Sandra in the bedroom? 
+549,yes,Yes,Is Sandra in the office? 
+550,yes,Yes.,Is Daniel in the bedroom? 
+551,no,No.,Is Daniel in the garden? 
+552,yes,Yes,Is Sandra in the kitchen? 
+553,yes,Yes,Is Mary in the hallway? 
+554,no,"No.
+
+Mary was last in the garden when she picked up the football and grabbed the",Is Mary in the kitchen? 
+555,no,Answer: no.,Is Mary in the bathroom? 
+556,yes,Yes.,Is Mary in the bedroom? 
+557,no,"Answer: no.
+
+John was in the bedroom earlier, but he moved to the bathroom after",Is John in the bedroom? 
+558,no,Yes.,Is Mary in the kitchen? 
+559,no,No.,Is Mary in the hallway? 
+560,no,Answer: no.,Is Sandra in the office? 
+561,no,Answer: no.,Is Sandra in the office? 
+562,no,No.,Is John in the bedroom? 
+563,no,Yes.,Is John in the office? 
+564,yes,Yes.,Is John in the garden? 
+565,yes,Yes.,Is Mary in the kitchen? 
+566,no,No.,Is Mary in the hallway? 
+567,yes,Yes.,Is Mary in the office? 
+568,no,No.,Is Sandra in the hallway? 
+569,no,Yes,Is Sandra in the bathroom? 
+570,no,Answer: no.,Is Daniel in the bathroom? 
+571,yes,Yes,Is Mary in the bedroom? 
+572,no,"No.
+
+Daniel was last seen in the kitchen.",Is Daniel in the garden? 
+573,no,Answer: no.,Is Mary in the office? 
+574,no,No. (John went back to the kitchen.),Is John in the garden? 
+575,yes,Yes.,Is Sandra in the office? 
+576,no,No.,Is Sandra in the bathroom? 
+577,yes,Yes,Is Mary in the bathroom? 
+578,no,Yes.,Is John in the hallway? 
+579,no,No.,Is John in the kitchen? 
+580,no,Answer: no.,Is John in the kitchen? 
+581,no,No.,Is Mary in the bedroom? 
+582,no,"No.
+
+The latest location Mary was in was the kitchen.",Is Mary in the hallway? 
+583,yes,Yes.,Is Sandra in the garden? 
+584,yes,No. (Sandra travelled to the bedroom after the latest mention of her being in the garden,Is Sandra in the bedroom? 
+585,yes,Yes.,Is Sandra in the bedroom? 
+586,no,No.,Is Sandra in the office? 
+587,no,No.,Is Sandra in the office? 
+588,no,Yes.,Is John in the bathroom? 
+589,yes,Yes.,Is John in the bedroom? 
+590,yes,Yes.,Is Sandra in the hallway? 
+591,no,No.,Is Sandra in the kitchen? 
+592,yes,Yes.,Is Mary in the hallway? 
+593,no,No.,Is Sandra in the bathroom? 
+594,no,No.,Is Daniel in the office? 
+595,yes,Yes.,Is Mary in the kitchen? 
+596,yes,Yes.,Is Mary in the kitchen? 
+597,yes,Yes.,Is Daniel in the hallway? 
+598,yes,Yes.,Is John in the hallway? 
+599,no,No.,Is Mary in the kitchen? 
+600,yes,No.,Is Sandra in the office? 
+601,no,No.,Is Mary in the bedroom? 
+602,yes,Yes.,Is Mary in the office? 
+603,no,Yes.,Is Mary in the kitchen? 
+604,yes,Yes,Is Sandra in the bedroom? 
+605,yes,Yes,Is Sandra in the bathroom? 
+606,yes,Yes,Is Sandra in the office? 
+607,no,No.,Is Sandra in the hallway? 
+608,yes,Yes,Is Mary in the hallway? 
+609,yes,Yes,Is Mary in the hallway? 
+610,yes,Yes.,Is John in the kitchen? 
+611,yes,Yes,Is Sandra in the hallway? 
+612,no,Answer: No. (Daniel went to the kitchen after being in the bathroom.),Is Daniel in the bathroom? 
+613,no,No.,Is Daniel in the garden? 
+614,no,No.,Is Sandra in the office? 
+615,no,No.,Is Daniel in the garden? 
+616,yes,Yes.,Is Daniel in the kitchen? 
+617,yes,No.,Is Daniel in the kitchen? 
+618,yes,Yes.,Is John in the bathroom? 
+619,no,Answer: no.,Is John in the office? 
+620,no,Answer: no.,Is Sandra in the bedroom? 
+621,yes,"Answer: yes.
+
+<context>
+Sandra travelled to the garden. Daniel trav",Is Mary in the office? 
+622,no,No.,Is Mary in the bedroom? 
+623,yes,Yes.,Is John in the hallway? 
+624,yes,"No. (Sandra was in the hallway when she moved to the bedroom, but the question asks",Is Sandra in the bedroom? 
+625,yes,Yes.,Is Daniel in the bathroom? 
+626,yes,Yes,Is Sandra in the office? 
+627,no,"No.
+
+<context>
+John travelled to the kitchen. John travelled to the",Is John in the bedroom? 
+628,no,No.,Is Sandra in the bathroom? 
+629,yes,Yes.,Is John in the garden? 
+630,no,No.,Is Sandra in the bedroom? 
+631,no,No.,Is Mary in the bedroom? 
+632,no,No.,Is Mary in the office? 
+633,no,"No.
+
+(The latest location Sandra was in was the bathroom.)",Is Sandra in the kitchen? 
+634,no,No.,Is Mary in the hallway? 
+635,yes,Yes,Is John in the kitchen? 
+636,no,No.,Is John in the bedroom? 
+637,yes,"Yes
+
+Question: Is John in the garden? [
+Answer: No.",Is Daniel in the bedroom? 
+638,no,$no$,Is Daniel in the garden? 
+639,no,No.,Is Daniel in the kitchen? 
+640,yes,Yes.,Is John in the hallway? 
+641,yes,Yes.,Is John in the hallway? 
+642,no,"No.
+
+(Sandra was in the bathroom when she took the apple and went back there",Is Sandra in the hallway? 
+643,yes,Yes,Is Daniel in the bathroom? 
+644,no,Yes.,Is Sandra in the hallway? 
+645,yes,Yes. The last location mentioned for Mary was the garden.,Is Mary in the garden? 
+646,yes,"Yes. The context states that Mary moved to the garden. Therefore, the answer is ""yes.""",Is Mary in the garden? 
+647,yes,Yes.,Is Daniel in the kitchen? 
+648,no,Answer: yes. (John was last seen in the office.),Is John in the office? 
+649,no,No. (Daniel moved to the kitchen and later went back to the garden.),Is Daniel in the bedroom? 
+650,yes,Yes.,Is Daniel in the kitchen? 
+651,yes,Yes.,Is Daniel in the office? 
+652,yes,Yes.,Is Sandra in the bedroom? 
+653,no,"Yes
+
+Question: Is Daniel in the office? [
+
+Answer: Yes",Is Mary in the bedroom? 
+654,yes,Yes.,Is John in the kitchen? 
+655,no,No.,Is Mary in the bedroom? 
+656,yes,Yes.,Is Daniel in the garden? 
+657,yes,Yes.,Is Mary in the kitchen? 
+658,no,Yes,Is Mary in the bedroom? 
+659,no,Yes.,Is Daniel in the bedroom? 
+660,no,Answer: no.,Is Mary in the kitchen? 
+661,yes,Yes.,Is Mary in the garden? 
+662,yes,Yes.,Is Mary in the garden? 
+663,yes,Yes,Is John in the hallway? 
+664,yes,Yes.,Is Daniel in the garden? 
+665,yes,Yes.,Is John in the garden? 
+666,yes,Yes.,Is John in the garden? 
+667,yes,"No.
+
+<context>
+Sandra went back to the bathroom. John moved to the",Is Mary in the office? 
+668,yes,Yes,Is Sandra in the hallway? 
+669,no,Yes.,Is John in the kitchen? 
+670,no,Answer: no.,Is John in the bedroom? 
+671,no,Answer: no.,Is John in the office? 
+672,no,No.,Is Sandra in the office? 
+673,no,No.,Is Sandra in the kitchen? 
+674,yes,Yes.,Is Mary in the hallway? 
+675,yes,Yes.,Is Daniel in the bedroom? 
+676,no,No.,Is Sandra in the hallway? 
+677,no,No.,Is Sandra in the kitchen? 
+678,no,Yes,Is Sandra in the bathroom? 
+679,no,No.,Is Sandra in the office? 
+680,no,Answer: no.,Is John in the garden? 
+681,yes,Yes.,Is John in the hallway? 
+682,yes,Yes.,Is John in the hallway? 
+683,no,Answer: no.,Is John in the office? 
+684,no,Yes.,Is Daniel in the bathroom? 
+685,yes,Yes.,Is Mary in the kitchen? 
+686,yes,Yes.,Is Mary in the kitchen? 
+687,no,No. (John went back to the office after being in the kitchen area where he grabbed the apple,Is John in the kitchen? 
+688,no,No.,Is Sandra in the garden? 
+689,yes,Yes.,Is Sandra in the kitchen? 
+690,no,Answer: no.,Is Daniel in the office? 
+691,no,No.,Is Daniel in the office? 
+692,no,"No. (Based on the latest location of Sandra, which is the bathroom.)",Is Sandra in the bedroom? 
+693,yes,Yes.,Is Sandra in the hallway? 
+694,yes,"Answer: no.
+
+Mary moved to the office after John journeyed there, but she",Is Mary in the office? 
+695,no,No.,Is Daniel in the garden? 
+696,yes,Yes,Is Sandra in the office? 
+697,no,No.,Is Mary in the bathroom? 
+698,no,No. (John was last in the office.),Is John in the bedroom? 
+699,no,No.,Is Mary in the hallway? 
+700,yes,Yes.,Is Daniel in the bathroom? 
+701,no,No.,Is John in the kitchen? 
+702,yes,No.,Is John in the bedroom? 
+703,no,Answer: no.,Is John in the bathroom? 
+704,no,No.,Is Daniel in the bedroom? 
+705,no,No.,Is John in the hallway? 
+706,no,No.,Is Mary in the garden? 
+707,yes,Yes.,Is Daniel in the kitchen? 
+708,no,Yes,Is Sandra in the bathroom? 
+709,yes,Yes.,Is Daniel in the kitchen? 
+710,yes,Yes.,Is John in the office? 
+711,yes,Yes.,Is John in the office? 
+712,yes,Yes.,Is Daniel in the bedroom? 
+713,yes,Yes.,Is Mary in the bathroom? 
+714,yes,Yes.,Is Daniel in the office? 
+715,no,Answer: no.,Is John in the office? 
+716,yes,Yes.,Is Sandra in the garden? 
+717,no,"Answer: no.
+
+(Sandra was last in the bathroom.)",Is Sandra in the garden? 
+718,yes,Yes,Is Sandra in the kitchen? 
+719,yes,Yes,Is Sandra in the bathroom? 
+720,yes,No.,Is Daniel in the office? 
+721,no,No.,Is John in the office? 
+722,yes,"Yes (but the latest location for John is the garden)
+
+Answer: yes. (",Is John in the office? 
+723,no,No.,Is Sandra in the hallway? 
+724,yes,Yes.,Is Sandra in the kitchen? 
+725,yes,Yes.,Is Daniel in the bathroom? 
+726,yes,Yes.,Is Sandra in the kitchen? 
+727,yes,Yes.,Is Daniel in the garden? 
+728,yes,Yes.,Is Daniel in the bathroom? 
+729,yes,Yes.,Is Daniel in the garden? 
+730,yes,Yes.,Is John in the hallway? 
+731,yes,Yes.,Is Daniel in the hallway? 
+732,yes,Yes.,Is John in the garden? 
+733,no,No.,Is Mary in the bedroom? 
+734,yes,Yes.,Is Sandra in the hallway? 
+735,no,No.,Is Mary in the kitchen? 
+736,yes,"No.
+
+<context>
+John moved to the kitchen. Mary went to the office.",Is Sandra in the office? 
+737,no,No.,Is Mary in the kitchen? 
+738,no,No.,Is Mary in the hallway? 
+739,no,No. (Daniel was last in the bedroom.),Is Daniel in the office? 
+740,no,Answer: no.,Is John in the kitchen? 
+741,no,No.,Is Daniel in the bathroom? 
+742,no,No.,Is Daniel in the bedroom? 
+743,no,$no$,Is Daniel in the kitchen? 
+744,yes,Yes.,Is Sandra in the bedroom? 
+745,no,No.,Is Mary in the garden? 
+746,no,No.,Is Sandra in the bathroom? 
+747,yes,No.,Is Daniel in the kitchen? 
+748,no,Yes. (Daniel went to the bedroom and later went back to the bedroom.),Is Daniel in the bedroom? 
+749,yes,Yes.,Is John in the garden? 
+750,yes,Yes.,Is Mary in the bedroom? 
+751,yes,Yes.,Is Mary in the bedroom? 
+752,yes,Yes.,Is Sandra in the garden? 
+753,no,No. (John moved to the bathroom.),Is John in the bedroom? 
+754,yes,Yes.,Is Sandra in the garden? 
+755,yes,Yes.,Is John in the hallway? 
+756,no,Answer: no.,Is John in the office? 
+757,yes,Yes.,Is John in the hallway? 
+758,no,Yes.,Is Daniel in the kitchen? 
+759,no,Yes.,Is Daniel in the kitchen? 
+760,yes,Yes.,Is John in the office? 
+761,yes,Yes.,Is Mary in the kitchen? 
+762,no,Yes.,Is Daniel in the kitchen? 
+763,no,Yes,Is Daniel in the kitchen? 
+764,yes,Yes.,Is John in the hallway? 
+765,no,No.,Is John in the hallway? 
+766,no,No.,Is Sandra in the bedroom? 
+767,no,Answer: no.,Is Daniel in the office? 
+768,yes,Yes.,Is John in the hallway? 
+769,yes,Yes.,Is John in the hallway? 
+770,no,Answer: no.,Is Mary in the garden? 
+771,no,No.,Is John in the garden? 
+772,no,Yes.,Is Mary in the bedroom? 
+773,yes,Yes.,Is Daniel in the bedroom? 
+774,yes,Yes.,Is Mary in the garden? 
+775,no,No.,Is Sandra in the bathroom? 
+776,no,Answer: no.,Is John in the bedroom? 
+777,no,Yes.,Is Mary in the garden? 
+778,no,No.,Is Sandra in the office? 
+779,yes,"Yes
+
+<context>
+Mary travelled to the garden. Sandra journeyed to",Is Sandra in the office? 
+780,no,Answer: no.,Is Mary in the bathroom? 
+781,yes,Yes.,Is John in the office? 
+782,yes,Yes.,Is Mary in the hallway? 
+783,yes,"No.
+
+(Sandra travelled to the kitchen, but the latest location for John,",Is Sandra in the kitchen? 
+784,no,No.,Is John in the kitchen? 
+785,yes,"No. (Based on the latest location Sandra was in, which was the hallway.)",Is Sandra in the bedroom? 
+786,yes,Yes.,Is Daniel in the bedroom? 
+787,yes,Yes.,Is John in the bathroom? 
+788,no,No.,Is John in the garden? 
+789,no,Answer: no.,Is John in the office? 
+790,no,No. (Daniel was last in the bathroom.),Is Daniel in the hallway? 
+791,yes,Yes,Is Daniel in the bathroom? 
+792,no,No.,Is Mary in the hallway? 
+793,no,No.,Is John in the garden? 
+794,no,Yes.,Is John in the kitchen? 
+795,yes,Answer: yes.,Is Daniel in the bedroom? 
+796,yes,Yes.,Is Mary in the bedroom? 
+797,no,"No.
+
+The latest location Mary was in was the bedroom.",Is Mary in the garden? 
+798,yes,Yes.,Is Daniel in the garden? 
+799,no,No.,Is Daniel in the office? 
+800,yes,Yes.,Is John in the bedroom? 
+801,yes,Yes.,Is John in the bedroom? 
+802,yes,Yes.,Is Sandra in the hallway? 
+803,yes,Yes.,Is Mary in the kitchen? 
+804,no,No.,Is John in the garden? 
+805,no,No.,Is Sandra in the bedroom? 
+806,no,"No.
+
+The latest location Sandra was in was the office.",Is Sandra in the garden? 
+807,yes,"No.
+
+<context>
+Daniel moved to the kitchen. Sandra journeyed to",Is Sandra in the office? 
+808,no,No. (John was last in the garden.),Is John in the office? 
+809,no,No.,Is John in the bathroom? 
+810,yes,Yes.,Is Sandra in the garden? 
+811,yes,Yes,Is Daniel in the bedroom? 
+812,yes,"No.
+
+<context>
+John travelled to the hallway. John travelled to the",Is Sandra in the bedroom? 
+813,yes,Yes,Is John in the bedroom? 
+814,yes,Yes.,Is Sandra in the bathroom? 
+815,no,No.,Is Daniel in the garden? 
+816,yes,"Yes
+
+<context>
+Sandra picked up the apple there. Daniel went back to the",Is Daniel in the office? 
+817,yes,Yes. (Daniel went back to the office.),Is Daniel in the office? 
+818,yes,Yes.,Is John in the hallway? 
+819,yes,Yes.,Is John in the garden? 
+820,no,Answer: no.,Is Mary in the office? 
+821,no,No.,Is Daniel in the kitchen? 
+822,no,No.,Is Daniel in the bedroom? 
+823,yes,Yes,Is Sandra in the bedroom? 
+824,yes,Yes.,Is Sandra in the bedroom? 
+825,yes,Yes.,Is Sandra in the hallway? 
+826,no,Answer: no.,Is John in the bedroom? 
+827,no,No.,Is John in the garden? 
+828,no,No.,Is John in the kitchen? 
+829,yes,Yes.,Is John in the garden? 
+830,yes,Yes.,Is Daniel in the office? 
+831,no,No.,Is Daniel in the bathroom? 
+832,yes,Yes.,Is Sandra in the garden? 
+833,no,No.,Is Daniel in the bathroom? 
+834,yes,Yes.,Is John in the bedroom? 
+835,no,No.,Is John in the hallway? 
+836,no,No.,Is Daniel in the kitchen? 
+837,no,No.,Is Daniel in the hallway? 
+838,yes,Yes.,Is Sandra in the bathroom? 
+839,no,No.,Is Daniel in the office? 
+840,no,No.,Is Daniel in the kitchen? 
+841,no,No.,Is Sandra in the hallway? 
+842,no,No.,Is Sandra in the garden? 
+843,no,No.,Is Mary in the garden? 
+844,no,No.,Is John in the kitchen? 
+845,yes,Yes.,Is John in the hallway? 
+846,yes,Yes.,Is Sandra in the kitchen? 
+847,no,No.,Is Sandra in the garden? 
+848,yes,Yes.,Is Sandra in the bathroom? 
+849,no,No.,Is Sandra in the garden? 
+850,yes,Yes.,Is Mary in the kitchen? 
+851,yes,"Yes
+
+<context>
+John travelled to the hallway. John travelled to the garden",Is Mary in the kitchen? 
+852,yes,Yes.,Is Sandra in the garden? 
+853,yes,No.,Is Mary in the office? 
+854,no,Yes.,Is Sandra in the garden? 
+855,no,Answer: no.,Is Daniel in the kitchen? 
+856,no,Answer: no.,Is John in the office? 
+857,yes,Yes. The last location Sandra was in was the garden.,Is Sandra in the garden? 
+858,yes,Yes. (The latest location Sandra was in was the garden.),Is Sandra in the garden? 
+859,yes,"Yes
+
+Question: Is Mary in the office?
+
+Answer: Yes",Is Sandra in the bathroom? 
+860,no,Answer: no.,Is Daniel in the garden? 
+861,yes,Yes.,Is Daniel in the hallway? 
+862,no,"No.
+
+<context>
+John travelled to the kitchen. John travelled to the",Is Mary in the kitchen? 
+863,yes,Yes,Is Mary in the bathroom? 
+864,yes,Yes.,Is Mary in the hallway? 
+865,no,No.,Is Sandra in the kitchen? 
+866,yes,"Yes
+
+<context>
+John went to the office. Sandra went to the bathroom.",Is Sandra in the bedroom? 
+867,yes,Yes.,Is Sandra in the garden? 
+868,no,Yes,Is Sandra in the bedroom? 
+869,no,Yes,Is Mary in the bedroom? 
+870,yes,Yes.,Is John in the bedroom? 
+871,yes,No.,Is Sandra in the office? 
+872,no,No.,Is John in the kitchen? 
+873,no,No.,Is Sandra in the hallway? 
+874,yes,"Yes
+
+<context>
+Mary travelled to the kitchen. John went to the bedroom",Is Sandra in the office? 
+875,no,Answer: no.,Is Daniel in the kitchen? 
+876,no,No.,Is Sandra in the kitchen? 
+877,no,Yes,Is Sandra in the kitchen? 
+878,yes,Yes.,Is Sandra in the garden? 
+879,no,No.,Is Daniel in the office? 
+880,no,Answer: no.,Is Sandra in the office? 
+881,no,No.,Is John in the bedroom? 
+882,no,No.,Is Sandra in the office? 
+883,no,No.,Is John in the bathroom? 
+884,yes,Yes.,Is Mary in the hallway? 
+885,no,No.,Is John in the garden? 
+886,no,No.,Is John in the bedroom? 
+887,no,No.,Is Daniel in the bedroom? 
+888,no,No.,Is Daniel in the bathroom? 
+889,yes,Yes.,Is Mary in the bathroom? 
+890,no,Answer: no.,Is Mary in the bathroom? 
+891,no,No.,Is Daniel in the bathroom? 
+892,yes,Yes.,Is Sandra in the kitchen? 
+893,yes,Yes.,Is John in the garden? 
+894,no,No. (Sandra moved to the kitchen.),Is Sandra in the garden? 
+895,no,Answer: no.,Is John in the kitchen? 
+896,no,No.,Is John in the bathroom? 
+897,yes,"Answer: no.
+
+John was last in the bedroom when he went back there after being in",Is John in the garden? 
+898,yes,Yes.,Is Mary in the bedroom? 
+899,yes,"Yes
+
+Question: Is John in the bathroom? [
+Answer: No.",Is Mary in the bedroom? 
+900,no,No.,Is Mary in the hallway? 
+901,no,No.,Is Sandra in the bathroom? 
+902,yes,Yes.,Is Mary in the bathroom? 
+903,yes,Yes.,Is John in the bathroom? 
+904,yes,Yes,Is Mary in the office? 
+905,yes,Yes.,Is Daniel in the kitchen? 
+906,no,No.,Is Daniel in the bedroom? 
+907,no,Yes.,Is John in the kitchen? 
+908,no,No.,Is John in the bedroom? 
+909,no,No.,Is John in the garden? 
+910,no,Yes.,Is John in the office? 
+911,no,No.,Is Daniel in the garden? 
+912,no,No.,Is John in the hallway? 
+913,yes,Yes.,Is Sandra in the kitchen? 
+914,yes,Yes.,Is Sandra in the bedroom? 
+915,yes,Yes.,Is John in the kitchen? 
+916,yes,Yes,Is Sandra in the bedroom? 
+917,yes,Yes,Is Mary in the bathroom? 
+918,no,No.,Is Sandra in the garden? 
+919,no,Yes.,Is John in the kitchen? 
+920,yes,Yes.,Is Mary in the office? 
+921,yes,Yes.,Is Daniel in the garden? 
+922,yes,Yes.,Is Daniel in the bathroom? 
+923,yes,Yes.,Is Daniel in the bathroom? 
+924,no,No.,Is Daniel in the office? 
+925,no,Answer: no.,Is Mary in the office? 
+926,yes,Yes.,Is Mary in the bedroom? 
+927,yes,Yes.,Is John in the garden? 
+928,yes,Yes.,Is John in the garden? 
+929,no,No.,Is Mary in the hallway? 
+930,yes,Yes.,Is Sandra in the bedroom? 
+931,no,No.,Is Sandra in the kitchen? 
+932,yes,Yes.,Is Mary in the bathroom? 
+933,no,No.,Is Mary in the office? 
+934,yes,Yes.,Is Sandra in the garden? 
+935,yes,Yes.,Is Mary in the office? 
+936,no,No.,Is Mary in the kitchen? 
+937,no,No.,Is Mary in the kitchen? 
+938,yes,Yes.,Is Mary in the bathroom? 
+939,no,No.,Is Sandra in the garden? 
+940,no,Yes.,Is Daniel in the bedroom? 
+941,no,No. (The latest location Daniel was in was the kitchen.),Is Daniel in the bathroom? 
+942,no,"Yes
+
+Question: Is Mary in the kitchen? [
+Answer: Yes",Is Daniel in the bedroom? 
+943,no,Yes.,Is John in the hallway? 
+944,yes,Yes,Is John in the office? 
+945,no,No.,Is Daniel in the bathroom? 
+946,yes,Yes.,Is Daniel in the office? 
+947,no,No.,Is Daniel in the hallway? 
+948,yes,Yes.,Is Daniel in the office? 
+949,no,Yes.,Is Mary in the bedroom? 
+950,yes,No.,Is Mary in the bedroom? 
+951,no,No.,Is Mary in the bathroom? 
+952,no,Yes.,Is John in the hallway? 
+953,yes,Yes.,Is John in the garden? 
+954,yes,Yes.,Is Sandra in the kitchen? 
+955,yes,Yes.,Is John in the hallway? 
+956,no,No.,Is John in the bedroom? 
+957,yes,Yes,Is Sandra in the office? 
+958,yes,Yes,Is John in the office? 
+959,yes,Yes,Is Daniel in the office? 
+960,no,Answer: no.,Is John in the office? 
+961,yes,No.,Is Sandra in the office? 
+962,yes,Yes.,Is Sandra in the bedroom? 
+963,yes,Yes.,Is Sandra in the bedroom? 
+964,yes,Yes.,Is Daniel in the bathroom? 
+965,no,Answer: no.,Is John in the office? 
+966,yes,Yes.,Is John in the kitchen? 
+967,no,No.,Is Sandra in the office? 
+968,yes,Yes.,Is Sandra in the bathroom? 
+969,yes,Yes.,Is Sandra in the kitchen? 
+970,yes,No.,Is Mary in the office? 
+971,yes,No.,Is Mary in the office? 
+972,no,No.,Is Sandra in the office? 
+973,no,No.,Is Sandra in the bathroom? 
+974,yes,Yes.,Is Sandra in the garden? 
+975,yes,No.,Is John in the kitchen? 
+976,yes,Yes.,Is John in the kitchen? 
+977,yes,Yes. The last location Daniel was in was the office.,Is Daniel in the office? 
+978,yes,Yes.,Is John in the hallway? 
+979,no,No.,Is John in the bathroom? 
+980,no,No.,Is Mary in the hallway? 
+981,yes,Yes.,Is Daniel in the kitchen? 
+982,no,No.,Is Sandra in the kitchen? 
+983,yes,Yes.,Is John in the bathroom? 
+984,no,Yes.,Is Sandra in the garden? 
+985,yes,Yes,Is Sandra in the kitchen? 
+986,no,No. (John was last in the garden.),Is John in the hallway? 
+987,yes,Yes.,Is Daniel in the garden? 
+988,no,No.,Is Sandra in the bathroom? 
+989,yes,"Yes (but this is her latest location, not where she is currently)
+
+Answer:",Is Mary in the office? 
+990,yes,Answer: yes.,Is Daniel in the hallway? 
+991,no,No.,Is Daniel in the kitchen? 
+992,no,No.,Is Sandra in the garden? 
+993,yes,Yes.,Is Sandra in the bathroom? 
+994,no,Yes,Is Sandra in the bedroom? 
+995,no,No.,Is Mary in the bedroom? 
+996,no,No.,Is Sandra in the kitchen? 
+997,no,No.,Is Mary in the bedroom? 
+998,yes,Yes.,Is Sandra in the garden? 
+999,yes,Yes.,Is Mary in the garden? 

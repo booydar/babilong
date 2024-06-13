@@ -1,0 +1,1417 @@
+,target,output,question
+0,bedroom,hallway,What is the bathroom east of?
+1,bedroom,bedroom,What is west of the kitchen?
+2,bathroom,"bathroom. However, the context also mentions that the hallway is north of",What is north of the garden?
+3,bedroom,bedroom,What is south of the kitchen?
+4,bedroom,bedroom,What is east of the kitchen?
+5,garden,The hallway.,What is the bathroom west of?
+6,kitchen,kitchen,What is east of the bedroom?
+7,bathroom,The question does not provide enough information to determine if the garden is south of,What is the garden south of?
+8,kitchen,kitchen,What is south of the office?
+9,office,"garden (based on the context provided, there is no explicit statement that the",What is east of the hallway?
+10,garden,"garden
+
+Explanation: The context mentions that ""The garden",What is north of the office?
+11,garden,"The garden. (However, the context does mention that Stephen and Colonel C",What is south of the kitchen?
+12,bathroom,"bathroom
+
+Explanation: The context states that ""The bedroom is",What is east of the kitchen?
+13,garden,garden (based on the given context),What is west of the kitchen?
+14,garden,"office
+
+Explanation: The text states that ""The bedroom is",What is north of the bedroom?
+15,garden,The text does not provide information about what is east of the hallway.,What is east of the hallway?
+16,hallway,hallway,What is east of the office?
+17,office,kitchen,What is south of the bathroom?
+18,garden,"kitchen
+
+Explanation: The text states that ""The bedroom is",What is the bedroom north of?
+19,garden,There is no information given in the context about the kitchen being west of anything,What is the kitchen west of?
+20,garden,hallway,What is the office east of?
+21,garden,kitchen,What is the bathroom south of?
+22,bathroom,"bathroom
+
+Answer:
+bathroom",What is north of the bedroom?
+23,bathroom,The text does not provide information about the bedroom being south of any location.,What is the bedroom south of?
+24,hallway,"office
+
+Answer: office.",What is the bedroom west of?
+25,office,office,What is east of the bathroom?
+26,office,hallway,What is north of the bedroom?
+27,hallway,hallway,What is west of the bathroom?
+28,garden,"office
+
+Explanation: Based on the context provided, the bathroom",What is the bathroom north of?
+29,garden,garden,What is north of the office?
+30,bedroom,bedroom,What is east of the kitchen?
+31,kitchen,The kitchen is not mentioned to be east or west of the bathroom in the,What is the bathroom east of?
+32,bathroom,"bathroom
+
+<context>
+<example>
+The hallway is south",What is north of the garden?
+33,kitchen,hallway,What is the bedroom west of?
+34,bedroom,hallway,What is the kitchen south of?
+35,garden,The context does not provide information about the location of the bathroom in relation to,What is the bathroom east of?
+36,office,office,What is south of the hallway?
+37,bedroom,The bedroom.,What is north of the bathroom?
+38,bedroom,office,What is the bathroom east of?
+39,office,The context does not provide information about what is north of the bedroom.,What is north of the bedroom?
+40,bathroom,"bathroom. However, based on the context provided, it appears that there is",What is south of the kitchen?
+41,bedroom,bedroom,What is west of the office?
+42,kitchen,kitchen,What is the garden south of?
+43,garden,The context does not provide information about the location of the bedroom in relation to,What is south of the bedroom?
+44,garden,hallway,What is the office south of?
+45,hallway,I cannot determine the answer based on the given context as there is no information,What is the office east of?
+46,garden,garden,What is south of the office?
+47,garden,bathroom,What is west of the bedroom?
+48,garden,"garden (based on the given context)
+
+However, it's",What is east of the hallway?
+49,garden,hallway,What is the office south of?
+50,bedroom,"garden (based on the context provided, the bedroom being south of the hallway",What is the hallway north of?
+51,garden,garden,What is north of the bathroom?
+52,hallway,"kitchen
+
+Answer:
+
+The bedroom is north of the kitchen",What is the bedroom north of?
+53,bathroom,bathroom,What is east of the garden?
+54,bathroom,bathroom,What is west of the bedroom?
+55,garden,"garden
+
+Explanation: The text states that ""The garden is",What is east of the hallway?
+56,hallway,"kitchen. (However, the context states that the bedroom is north of the",What is the bedroom east of?
+57,kitchen,kitchen,What is west of the hallway?
+58,hallway,hallway,What is south of the bedroom?
+59,kitchen,"kitchen
+
+Explanation: The text states that ""The bathroom is",What is the garden north of?
+60,hallway,"kitchen
+
+Answer:
+
+<context>
+Van D",What is the bedroom north of?
+61,bedroom,bedroom (based on the information provided in the context),What is south of the hallway?
+62,kitchen,"garden (based on the context provided, the garden is north of the hallway",What is the hallway north of?
+63,hallway,hallway,What is west of the bedroom?
+64,bedroom,"office. (However, there is no direct statement in the context that the",What is east of the garden?
+65,office,"The bedroom is north of the kitchen. (Based on the given context,",What is the bedroom north of?
+66,bathroom,hallway,What is the bedroom north of?
+67,office,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is the garden south of?
+68,kitchen,garden,What is the bathroom west of?
+69,garden,bathroom,What is the hallway east of?
+70,bathroom,bathroom,What is south of the bedroom?
+71,kitchen,office,What is the garden south of?
+72,garden,The given context does not provide any information about the bedroom being south of anything,What is the bedroom south of?
+73,bathroom,bathroom,What is north of the office?
+74,bathroom,There is no information given in the context about what the hallway is north of,What is the hallway north of?
+75,bedroom,"bedroom
+
+Explanation: The text states that the bedroom is south",What is south of the hallway?
+76,bedroom,bathroom,What is the hallway east of?
+77,bathroom,"garden
+
+Explanation: The context mentions that the bathroom is",What is north of the office?
+78,kitchen,kitchen,What is east of the garden?
+79,hallway,office (based on the information that the office is south of the kitchen),What is the kitchen south of?
+80,garden,garden,What is west of the office?
+81,office,The context does not provide information about the bedroom being west of any specific location,What is the bedroom west of?
+82,kitchen,kitchen,What is the hallway south of?
+83,garden,The text does not provide information about the location of the office being west of,What is the office west of?
+84,bathroom,bathroom,What is north of the hallway?
+85,office,"office
+
+Explanation: The context states that ""The office is",What is west of the garden?
+86,office,office,What is west of the garden?
+87,garden,garden,What is east of the bathroom?
+88,bathroom,bathroom,What is north of the office?
+89,kitchen,The context does not provide information about the bedroom being west of anything else.,What is the bedroom west of?
+90,office,"office
+
+Explanation: Based on the context provided, the bathroom",What is the bathroom south of?
+91,office,"office (based on the given context, there is no information provided that the",What is east of the bedroom?
+92,bedroom,bedroom,What is south of the office?
+93,bathroom,The context does not provide information about the location of the garden in relation to,What is the garden west of?
+94,garden,hallway,What is the bedroom west of?
+95,hallway,"kitchen. (Based on the given context, the garden is north of the",What is north of the garden?
+96,bedroom,"bathroom
+
+Explanation: The text mentions that the bathroom is",What is the kitchen west of?
+97,kitchen,kitchen,What is west of the bedroom?
+98,bathroom,There is no information given in the context about what the kitchen is north of,What is the kitchen north of?
+99,garden,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is the office north of?
+100,bedroom,"bedroom
+
+<context>
+<example>
+The hallway is south",What is east of the hallway?
+101,kitchen,The text does not provide information about the location of the hallway in relation to,What is south of the hallway?
+102,bedroom,bathroom,What is the office west of?
+103,bathroom,garden (based on the first part of the context) or bathroom (based,What is the kitchen north of?
+104,hallway,The context does not provide information about the location of the bedroom in relation to,What is west of the bedroom?
+105,bedroom,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is west of the kitchen?
+106,office,hallway,What is the kitchen south of?
+107,bathroom,"bedroom
+
+Explanation: The text states that ""The bedroom is",What is west of the garden?
+108,bedroom,bedroom,What is the bathroom south of?
+109,bathroom,The context does not provide information about the kitchen being west of anything.,What is the kitchen west of?
+110,garden,The text does not provide information about the direction of the hallway in relation to,What is the hallway west of?
+111,hallway,"bathroom. (However, the text does not provide this information directly, it",What is the kitchen south of?
+112,office,office.,What is south of the bathroom?
+113,hallway,bedroom,What is the office west of?
+114,bedroom,There is no information given in the context about what the kitchen is north of,What is the kitchen north of?
+115,office,hallway,What is the garden east of?
+116,bedroom,office,What is the hallway south of?
+117,bedroom,"bedroom (based on the given context, the bedroom is west of the garden",What is the garden west of?
+118,hallway,hallway,What is north of the office?
+119,office,office. (The text mentions that the office is west of the hallway,What is west of the hallway?
+120,bedroom,The given context does not provide information about the bathroom being north of any specific,What is the bathroom north of?
+121,kitchen,kitchen,What is the hallway north of?
+122,office,office,What is east of the bathroom?
+123,bathroom,bathroom,What is north of the hallway?
+124,bathroom,hallway,What is the bedroom north of?
+125,kitchen,kitchen,What is west of the garden?
+126,bathroom,bathroom,What is north of the kitchen?
+127,hallway,The given context does not provide information about the bedroom being east of anything.,What is the bedroom east of?
+128,garden,The given context does not provide any information about the bedroom being south of anything,What is the bedroom south of?
+129,hallway,hallway,What is east of the bathroom?
+130,garden,hallway,What is the bedroom east of?
+131,kitchen,kitchen.,What is south of the bathroom?
+132,kitchen,kitchen,What is east of the garden?
+133,bathroom,office,What is the hallway east of?
+134,office,The given context does not provide information about the location of the hallway being east,What is the hallway east of?
+135,kitchen,"kitchen (based on the given context, the kitchen is west of the garden",What is the garden east of?
+136,bathroom,The given context does not provide any information about the bedroom being south of any,What is the bedroom south of?
+137,hallway,The given context does not provide any information about the garden being east of any,What is the garden east of?
+138,kitchen,kitchen,What is south of the hallway?
+139,hallway,hallway,What is west of the kitchen?
+140,kitchen,"kitchen
+
+<context>
+A. E. B.",What is north of the garden?
+141,office,"bathroom.
+
+Explanation: The text states that ""The bathroom",What is the kitchen west of?
+142,bathroom,The text does not provide information about what is north of the kitchen.,What is the kitchen north of?
+143,bathroom,bathroom,What is east of the kitchen?
+144,bathroom,bathroom,What is east of the garden?
+145,kitchen,kitchen,What is the office south of?
+146,hallway,The text does not provide information about what is north of the kitchen.,What is the kitchen north of?
+147,hallway,There is no information provided in the context about the bedroom being west of any,What is the bedroom west of?
+148,bathroom,The context does not provide information about the location of the office in relation to,What is the office west of?
+149,hallway,hallway,What is the office south of?
+150,bathroom,"bathroom
+
+Explanation: The text states that ""the bathroom is",What is north of the hallway?
+151,garden,hallway,What is the bathroom east of?
+152,kitchen,kitchen,What is the bathroom east of?
+153,hallway,hallway,What is south of the kitchen?
+154,hallway,hallway,What is south of the office?
+155,garden,There is no information provided in the context about the bedroom being west of anything,What is the bedroom west of?
+156,office,office,What is south of the bedroom?
+157,bathroom,"bathroom. However, it's important to note that the context mentions",What is north of the garden?
+158,garden,office,What is the bedroom east of?
+159,bedroom,"bedroom (based on the context given, there is no explicit statement that the",What is south of the kitchen?
+160,hallway,"bedroom
+
+Explanation: Based on the context provided, the office",What is the office south of?
+161,bathroom,bathroom,What is north of the garden?
+162,hallway,hallway,What is east of the bathroom?
+163,hallway,I cannot determine the answer to your question based on the given context. The,What is the office east of?
+164,bathroom,"garden (based on the context provided, the garden is explicitly stated to be",What is the office west of?
+165,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is west of the bedroom?
+166,office,office,What is north of the hallway?
+167,garden,"The office is north of the kitchen, according to the context provided.",What is the office north of?
+168,kitchen,"kitchen (based on the context provided)
+
+However, it's",What is west of the hallway?
+169,bedroom,The given context does not provide information about the garden being south of any location,What is the garden south of?
+170,hallway,"office
+
+Explanation: Based on the context provided, the bedroom",What is the bedroom north of?
+171,bathroom,The text does not provide information about the location of the hallway being west of,What is the hallway west of?
+172,kitchen,kitchen.,What is north of the garden?
+173,hallway,"garden
+
+Explanation: The text states that ""The hallway is",What is the bathroom north of?
+174,bathroom,bathroom,What is south of the office?
+175,office,office,What is east of the bathroom?
+176,hallway,garden,What is the bedroom west of?
+177,hallway,kitchen,What is the office south of?
+178,kitchen,kitchen,What is south of the office?
+179,bathroom,office,What is the garden south of?
+180,hallway,"kitchen
+
+Answer:
+
+The bedroom is north of the kitchen",What is the bedroom north of?
+181,bathroom,"bathroom (based on the given context, there is no explicit statement that the",What is east of the hallway?
+182,bedroom,I cannot answer that question based on the given context as there is no information,What is the hallway west of?
+183,bathroom,bathroom,What is south of the garden?
+184,bedroom,"garden (based on the given context, there is no information provided that the",What is the office west of?
+185,bathroom,bathroom,What is west of the bedroom?
+186,garden,bathroom,What is the office west of?
+187,garden,"garden
+
+Explanation: The context states that ""The hallway is",What is south of the bedroom?
+188,kitchen,kitchen,What is south of the office?
+189,hallway,hallway,What is east of the bathroom?
+190,bathroom,I cannot answer that question based on the given context as there is no information,What is the kitchen east of?
+191,bathroom,The context does not provide information about what the office is east of.,What is the office east of?
+192,bedroom,hallway,What is the office south of?
+193,office,hallway,What is the kitchen south of?
+194,bedroom,hallway,What is east of the garden?
+195,office,office,What is east of the bathroom?
+196,kitchen,kitchen,What is north of the hallway?
+197,office,The text does not provide information about the location of the kitchen in relation to,What is the kitchen south of?
+198,garden,garden,What is south of the hallway?
+199,kitchen,"kitchen (based on the context provided, the kitchen is north of the bathroom",What is the bathroom south of?
+200,bedroom,garden (based on the context given earlier about the hallway being north of the,What is the hallway south of?
+201,hallway,hallway,What is east of the garden?
+202,office,"office
+
+Explanation: The context states that ""the hallway is",What is the bathroom north of?
+203,kitchen,The text does not provide information about the location of the hallway in relation to,What is west of the hallway?
+204,office,garden,What is the bathroom east of?
+205,garden,bathroom,What is the bedroom east of?
+206,garden,hallway,What is the office north of?
+207,garden,"garden (based on the given context, the hallway is south of the garden",What is the office north of?
+208,garden,"garden (based on the given context)
+
+However, it's",What is south of the office?
+209,bathroom,"bathroom. (Based on the context provided, the kitchen is south of the",What is south of the kitchen?
+210,office,office,What is south of the bedroom?
+211,kitchen,kitchen (based on the given context),What is the office east of?
+212,office,"office (based on the context provided)
+
+However, it's",What is west of the bedroom?
+213,hallway,hallway,What is the bedroom south of?
+214,hallway,The text does not provide information about the location of the kitchen in relation to,What is the kitchen south of?
+215,bedroom,"bathroom
+
+Explanation: The context states that ""the hallway is",What is west of the hallway?
+216,bedroom,bedroom,What is west of the office?
+217,hallway,hallway,What is east of the bathroom?
+218,office,"bathroom (However, the context does not provide enough information to determine this with",What is the garden south of?
+219,hallway,hallway,What is east of the office?
+220,office,"office
+
+Explanation: The context mentions that ""he went",What is south of the bedroom?
+221,kitchen,"kitchen (based on the given context)
+
+However, it's",What is west of the bedroom?
+222,kitchen,"bathroom
+
+Explanation: The context mentions that ""The garden",What is west of the garden?
+223,bedroom,The context does not provide information about the bathroom being west of any location.,What is the bathroom west of?
+224,kitchen,"garden
+
+Explanation: The context states that ""The garden is",What is the office west of?
+225,hallway,kitchen,What is the garden east of?
+226,hallway,hallway,What is north of the kitchen?
+227,kitchen,"bedroom
+
+<context>
+Many of the phrases, familiar to our",What is the garden north of?
+228,hallway,"kitchen
+
+Answer:
+
+The garden is north of the kitchen",What is the garden north of?
+229,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is west of the bedroom?
+230,garden,"garden (based on the given context)
+
+However, it's",What is north of the hallway?
+231,garden,I cannot answer that question based on the given context. The context does not,What is the hallway west of?
+232,hallway,office,What is the bathroom east of?
+233,bedroom,bathroom,What is the kitchen south of?
+234,bathroom,The text provided does not contain the answer to the question. There is no,What is the office west of?
+235,kitchen,bathroom,What is east of the bedroom?
+236,office,office,What is east of the bedroom?
+237,bathroom,bathroom,What is east of the kitchen?
+238,bedroom,"bedroom
+
+<context>
+The bedroom is west of the kitchen.",What is west of the kitchen?
+239,office,There is no information given in the context that the kitchen is north of anything,What is the kitchen north of?
+240,garden,"garden
+
+<context>
+<example>
+The hallway is south",What is north of the bedroom?
+241,bathroom,"The kitchen is east of the hallway. Therefore, the answer is: hallway",What is east of the kitchen?
+242,office,office,What is north of the garden?
+243,bedroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is the hallway south of?
+244,office,Answer: There is no information given about the kitchen being west of anything in,What is the kitchen west of?
+245,garden,"garden
+
+(Based on the given context, the bedroom is south of",What is south of the bedroom?
+246,garden,garden,What is west of the office?
+247,kitchen,"kitchen
+
+Explanation: The text mentions that ""The kitchen",What is the garden north of?
+248,office,hallway,What is west of the kitchen?
+249,bedroom,The text does not provide enough information to determine if the hallway is west of,What is the hallway west of?
+250,office,office.,What is south of the bathroom?
+251,kitchen,"kitchen
+
+Despite the lengthy context, the only relevant information for",What is west of the bedroom?
+252,office,kitchen,What is the hallway north of?
+253,bedroom,bedroom,What is east of the hallway?
+254,office,office.,What is south of the bathroom?
+255,hallway,hallway,What is the bedroom north of?
+256,bathroom,The question does not provide enough information to determine if the garden is east of,What is the garden east of?
+257,kitchen,The hallway.,What is the bathroom north of?
+258,kitchen,office,What is west of the bedroom?
+259,garden,I cannot answer that question based on the given context. The context does not,What is the hallway east of?
+260,kitchen,kitchen,What is south of the garden?
+261,hallway,The text does not provide information about the bedroom being east of any location.,What is the bedroom east of?
+262,garden,The context does not provide information about the location of the office in relation to,What is west of the office?
+263,office,"office
+
+Explanation: The context mentions that the office is",What is north of the kitchen?
+264,garden,garden (based on the given context),What is the office north of?
+265,kitchen,kitchen,What is north of the office?
+266,garden,hallway,What is south of the bedroom?
+267,hallway,"kitchen
+
+Answer:
+
+The garden is north of the kitchen",What is the garden north of?
+268,garden,kitchen,What is the bedroom east of?
+269,bedroom,"bedroom (based on the given context)
+
+Explanation: In",What is west of the hallway?
+270,bathroom,bedroom,What is east of the hallway?
+271,kitchen,The given context does not provide information about the bedroom being south of anything.,What is the bedroom south of?
+272,hallway,hallway,What is east of the garden?
+273,kitchen,"kitchen
+
+Answer:
+
+The text does not provide information about",What is the hallway south of?
+274,office,kitchen,What is the bathroom east of?
+275,bedroom,"bathroom. (Based on the context provided, the bathroom is south of the",What is the garden south of?
+276,bathroom,The text does not provide information about the kitchen being west of anything.,What is the kitchen west of?
+277,bathroom,"The bathroom is east of the garden. However, the text mentions this",What is east of the garden?
+278,bedroom,bedroom,What is south of the bathroom?
+279,office,"kitchen (based on the first part of the context)
+
+However,",What is the bedroom west of?
+280,hallway,"kitchen
+
+<answer>
+kitchen
+</answer>",What is north of the garden?
+281,hallway,hallway,What is west of the office?
+282,hallway,hallway,What is east of the bathroom?
+283,kitchen,"kitchen (however, the given context does not explicitly state that the kitchen",What is west of the bedroom?
+284,garden,"garden (based on the given context, the garden is north of the office",What is north of the office?
+285,garden,"garden (based on the given context, the garden is south of the hallway",What is the hallway south of?
+286,hallway,The given context does not provide any information about the garden being east of any,What is the garden east of?
+287,bathroom,bathroom,What is east of the bedroom?
+288,garden,garden,What is east of the office?
+289,office,"hallway
+
+Answer: hallway",What is the garden west of?
+290,garden,"kitchen.
+
+Explanation: The context mentions that ""the",What is east of the bathroom?
+291,garden,There is no information given in the context about the bedroom being west of anything,What is the bedroom west of?
+292,garden,garden,What is west of the kitchen?
+293,office,office.,What is west of the bathroom?
+294,bathroom,The office is south of the bedroom.,What is south of the bedroom?
+295,bathroom,"bathroom (from the first example given in the text)
+
+Answer",What is south of the bedroom?
+296,bathroom,hallway,What is the kitchen south of?
+297,office,office,What is east of the kitchen?
+298,hallway,The context does not provide information about the location of the kitchen in relation to,What is north of the kitchen?
+299,kitchen,"office
+
+Explanation: Based on the context provided, the bathroom",What is the bathroom east of?
+300,hallway,hallway,What is west of the bathroom?
+301,office,office.,What is south of the hallway?
+302,bathroom,kitchen,What is the hallway west of?
+303,bedroom,bedroom,What is east of the bathroom?
+304,garden,"garden
+
+Explanation: The context states that ""The garden is",What is the office south of?
+305,bedroom,bedroom,What is east of the office?
+306,bedroom,bedroom,What is north of the hallway?
+307,garden,The text does not provide information about the location of the office in relation to,What is the office east of?
+308,kitchen,Answer: nothing is mentioned about the hallway being west of anything in the context,What is the hallway west of?
+309,garden,"garden
+
+Explanation: The context states that ""The garden is",What is west of the bathroom?
+310,garden,There is no information provided in the context about the kitchen being west of anything,What is the kitchen west of?
+311,bedroom,"garden (based on the context provided, the bedroom is east of the office",What is the office west of?
+312,bathroom,bathroom,What is east of the garden?
+313,bathroom,bathroom,What is east of the kitchen?
+314,kitchen,"kitchen (based on the example provided in the context, the question should be",What is the garden north of?
+315,kitchen,"kitchen (based on the given context)
+
+However, it's",What is west of the hallway?
+316,office,office,What is east of the garden?
+317,office,office,What is the hallway west of?
+318,bedroom,bedroom,What is east of the garden?
+319,hallway,The given context does not provide any information about the garden being east of any,What is the garden east of?
+320,bedroom,"The office is east of the bedroom. Therefore, there is no information given",What is the office west of?
+321,hallway,office,What is the bathroom west of?
+322,bathroom,"office
+
+<context>
+Although groaning in spirit over the",What is the bedroom north of?
+323,garden,The context does not provide information about what the bedroom is east of.,What is the bedroom east of?
+324,bathroom,The given context does not provide information about the garden being west of anything.,What is the garden west of?
+325,hallway,hallway,What is south of the garden?
+326,hallway,hallway,What is south of the office?
+327,kitchen,The question does not provide enough information to determine if the garden is east of,What is the garden east of?
+328,bathroom,hallway,What is the garden west of?
+329,office,hallway,What is the bathroom west of?
+330,hallway,hallway,What is west of the garden?
+331,bathroom,bathroom,What is south of the hallway?
+332,hallway,bathroom,What is the bedroom east of?
+333,kitchen,The text does not provide information about the location of a bedroom in relation to,What is the bedroom south of?
+334,kitchen,"kitchen
+
+Explanation: The context states that ""The garden is",What is the garden south of?
+335,bathroom,bathroom,What is west of the office?
+336,garden,"garden. (Based on the context provided, the kitchen is south of the",What is south of the bathroom?
+337,bathroom,"bathroom. However, the text also mentions that the bathroom is west of",What is west of the garden?
+338,bathroom,bathroom,What is north of the office?
+339,garden,garden,What is east of the office?
+340,bathroom,bathroom,What is west of the kitchen?
+341,office,The question does not provide enough information to determine if the garden is south of,What is the garden south of?
+342,hallway,"bathroom. However, based on the context provided, it is not explicitly stated",What is west of the bedroom?
+343,bedroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is south of the hallway?
+344,garden,"garden (based on the given context, the garden is east of the kitchen",What is the hallway east of?
+345,hallway,hallway,What is north of the kitchen?
+346,garden,garden,What is west of the office?
+347,bathroom,kitchen,What is the office west of?
+348,bathroom,"Answer: office. (However, the text states that the garden is south",What is the garden north of?
+349,garden,"garden (based on the given context, the kitchen is north of the garden",What is the office south of?
+350,garden,The context does not provide information about the location of the hallway in relation to,What is the hallway north of?
+351,hallway,office,What is the kitchen west of?
+352,bathroom,bathroom,What is north of the hallway?
+353,bedroom,"garden (based on the context provided, there is a mistake in the question",What is the kitchen north of?
+354,bathroom,office,What is the kitchen south of?
+355,bedroom,bedroom,What is north of the office?
+356,hallway,hallway,What is east of the bathroom?
+357,kitchen,kitchen,What is south of the hallway?
+358,hallway,hallway,What is west of the office?
+359,bedroom,kitchen,What is the office north of?
+360,kitchen,office,What is north of the garden?
+361,hallway,hallway,What is the garden east of?
+362,bathroom,hallway,What is the kitchen west of?
+363,garden,kitchen,What is the hallway east of?
+364,bedroom,bedroom,What is south of the office?
+365,bathroom,The text does not provide information about the location of the office being west of,What is the office west of?
+366,hallway,hallway,What is east of the bedroom?
+367,garden,"kitchen (based on the context provided, the bedroom is west of the kitchen",What is west of the bedroom?
+368,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is the bathroom west of?
+369,bathroom,"hallway or bathroom (based on the given context, there are conflicting statements",What is north of the bedroom?
+370,bathroom,The text does not provide information about the garden being south of anything.,What is the garden south of?
+371,bathroom,The text does not provide information about the hallway being west of any location.,What is the hallway west of?
+372,office,"bathroom. However, the context does not provide enough information to answer the question",What is the hallway east of?
+373,office,office,What is east of the kitchen?
+374,bathroom,bathroom,What is north of the kitchen?
+375,office,The context does not provide information about the location of the bathroom in relation to,What is west of the bathroom?
+376,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is the office west of?
+377,garden,"garden
+
+Explanation: The context states that ""The bedroom is",What is south of the bedroom?
+378,garden,"garden
+
+Explanation: The context states that ""The garden is",What is north of the kitchen?
+379,office,The context does not provide information about what is south of the bedroom.,What is the bedroom south of?
+380,kitchen,"garden (based on the given context, the garden is north of the office",What is the office north of?
+381,hallway,The context does not provide information about what the bedroom is west of. Therefore,What is the bedroom west of?
+382,bathroom,bathroom,What is west of the office?
+383,bedroom,bedroom (based on the context provided),What is the garden south of?
+384,office,"office.
+
+Explanation: The context states that ""The office",What is north of the bathroom?
+385,bedroom,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is east of the garden?
+386,bathroom,I cannot answer that question based on the given context as there is no information,What is the kitchen east of?
+387,bedroom,"The bedroom is north of the garden. Therefore, the garden is not mentioned",What is the garden south of?
+388,bedroom,"bedroom (based on the given context, the bedroom is north of the office",What is the office south of?
+389,hallway,hallway,What is south of the bedroom?
+390,kitchen,kitchen,What is the hallway north of?
+391,bathroom,bathroom,What is north of the garden?
+392,kitchen,"kitchen (based on the earlier mention in the text)
+
+However,",What is west of the garden?
+393,garden,garden (based on the given context),What is south of the hallway?
+394,bedroom,"bathroom
+
+<context>
+The bathroom is east of the office.",What is the office east of?
+395,bathroom,The hallway.,What is the garden south of?
+396,bedroom,"garden (based on the context provided, there is no information given about the",What is the office west of?
+397,bedroom,bedroom,What is west of the bathroom?
+398,kitchen,kitchen,What is west of the office?
+399,hallway,hallway,What is north of the garden?
+400,office,office,What is south of the bathroom?
+401,garden,"garden (based on the context provided, the garden is mentioned as being west",What is west of the office?
+402,hallway,"garden
+
+Explanation: The text states that ""The hallway is",What is the bedroom east of?
+403,bathroom,The text does not provide information about the location of the office to the west,What is the office west of?
+404,bedroom,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is north of the garden?
+405,hallway,"garden (based on the given context, the hallway is south of the bedroom",What is the bedroom north of?
+406,bathroom,office (based on the context provided),What is west of the hallway?
+407,bedroom,"garden (based on the given context, the only mention of the bathroom being",What is the bathroom east of?
+408,bedroom,kitchen,What is the office east of?
+409,garden,garden,What is south of the bathroom?
+410,bathroom,bathroom,What is north of the office?
+411,hallway,hallway,What is north of the kitchen?
+412,office,office,What is the bathroom south of?
+413,bathroom,"kitchen
+
+<answer>
+kitchen
+</answer>",What is the bedroom north of?
+414,kitchen,kitchen,What is the bathroom west of?
+415,garden,office,What is the hallway north of?
+416,hallway,hallway,What is south of the bathroom?
+417,bathroom,"bathroom
+
+Explanation:
+The context states that ""The bathroom",What is the hallway north of?
+418,hallway,hallway,What is the office south of?
+419,office,bedroom,What is the hallway east of?
+420,kitchen,office,What is east of the bathroom?
+421,hallway,hallway,What is north of the office?
+422,kitchen,The given context does not provide any information about the bedroom being west of any,What is the bedroom west of?
+423,office,office.,What is the garden west of?
+424,garden,I cannot answer that question based on the given context as there is no information,What is the kitchen east of?
+425,office,"office (or bathroom, as the context mentions both, but only one",What is the bedroom south of?
+426,bathroom,kitchen,What is the hallway south of?
+427,office,garden,What is north of the bathroom?
+428,hallway,The given context does not provide information about the garden being north of anything.,What is the garden north of?
+429,bedroom,"The garden is given as west of the kitchen in the context, so the",What is the kitchen east of?
+430,kitchen,kitchen,What is east of the bedroom?
+431,bedroom,bedroom.,What is south of the bathroom?
+432,kitchen,kitchen,What is the hallway south of?
+433,kitchen,"kitchen
+
+Explanation: Based on the context provided, the office",What is west of the office?
+434,garden,bedroom,What is north of the kitchen?
+435,bathroom,The text does not provide information about what is south of the bedroom. Therefore,What is the bedroom south of?
+436,garden,garden,What is west of the kitchen?
+437,bathroom,hallway,What is the bedroom east of?
+438,bedroom,The given context does not provide information about the bathroom being west of any specific,What is the bathroom west of?
+439,garden,garden,What is the office south of?
+440,bathroom,I cannot determine the answer based on the given context as the text does not,What is the kitchen east of?
+441,kitchen,The text does not provide information about the location of the hallway being east of,What is the hallway east of?
+442,bedroom,"hallway. (However, the context provided does not mention the office being south",What is south of the office?
+443,bedroom,office,What is the garden south of?
+444,bathroom,bathroom,What is south of the office?
+445,bedroom,bedroom,What is east of the bathroom?
+446,office,office,What is the kitchen east of?
+447,bathroom,garden (based on the given context),What is the kitchen south of?
+448,garden,The text does not provide information about the location of the hallway in relation to,What is west of the hallway?
+449,garden,The bedroom.,What is the bathroom south of?
+450,hallway,hallway,What is north of the office?
+451,hallway,hallway,What is south of the bathroom?
+452,office,office,What is south of the bedroom?
+453,garden,garden,What is east of the hallway?
+454,bedroom,"bedroom (However, the context does not provide this information directly. It ment",What is the office south of?
+455,kitchen,"kitchen (based on the given context, there seems to be a mistake in",What is west of the hallway?
+456,kitchen,"kitchen (based on the context given, there seems to be a mistake in",What is south of the garden?
+457,bedroom,bedroom,What is east of the hallway?
+458,bedroom,bedroom,What is south of the kitchen?
+459,kitchen,"kitchen
+
+Answer:
+
+The hallway is west of the kitchen",What is the hallway west of?
+460,bedroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is west of the hallway?
+461,kitchen,"bathroom
+
+Answer:
+
+The garden is east of the bathroom",What is the garden west of?
+462,hallway,hallway,What is east of the bathroom?
+463,office,"office
+
+Explanation: Based on the context provided, the office",What is west of the garden?
+464,garden,"garden.
+
+<context>
+Once established at Jebel G",What is west of the bathroom?
+465,office,The given text does not provide any information about the garden being north of anything,What is the garden north of?
+466,garden,garden. (Based on the fact that the garden is west of the office,What is west of the office?
+467,office,hallway,What is the bedroom east of?
+468,kitchen,kitchen,What is south of the bedroom?
+469,hallway,kitchen,What is the bathroom north of?
+470,bedroom,bedroom (This is incorrect based on the context provided. The bedroom is actually,What is west of the kitchen?
+471,office,office,What is west of the garden?
+472,bathroom,bathroom,What is east of the hallway?
+473,bathroom,The text does not provide information about the garden being west of anything else.,What is the garden west of?
+474,bedroom,kitchen,What is east of the office?
+475,hallway,"hallway
+
+Explanation: The context does not provide any information about",What is the office west of?
+476,bathroom,The information provided in the context does not mention the location of the bedroom in,What is the bedroom south of?
+477,kitchen,"kitchen
+
+Explanation: Based on the context provided, the kitchen",What is west of the bathroom?
+478,office,"office
+
+Explanation: The context mentions that ""The office",What is the garden north of?
+479,kitchen,"kitchen. However, the given context does not provide any information about a garden",What is north of the garden?
+480,bedroom,"bedroom (from the first part of the text)
+
+or",What is west of the kitchen?
+481,bathroom,bathroom,What is south of the hallway?
+482,hallway,"hallway
+
+Question: What is north of the hallway?
+
+An",What is north of the kitchen?
+483,garden,"garden
+
+Explanation: In the context provided, it is mentioned",What is north of the office?
+484,bedroom,The text does not provide information about the kitchen being east of any location.,What is the kitchen east of?
+485,garden,"garden
+
+Explanation: The context states that ""The garden is",What is east of the hallway?
+486,bedroom,bedroom,What is south of the hallway?
+487,hallway,hallway,What is east of the kitchen?
+488,bathroom,"kitchen
+
+Explanation: The context states that ""The office is",What is the office south of?
+489,hallway,"bathroom
+
+Explanation: The text states that ""The bathroom is",What is the bedroom south of?
+490,hallway,The context does not provide information about the location of the bathroom in relation to,What is north of the bathroom?
+491,garden,garden,What is east of the bathroom?
+492,garden,garden,What is south of the kitchen?
+493,office,office,What is south of the garden?
+494,bedroom,hallway,What is the office west of?
+495,hallway,The context does not provide information about what is north of the bedroom. Therefore,What is north of the bedroom?
+496,office,office,What is north of the bedroom?
+497,bedroom,kitchen.,What is the office north of?
+498,kitchen,garden or kitchen (depending on the specific location mentioned in the text),What is the office east of?
+499,hallway,There is no information given in the context about the bathroom being south of anything,What is the bathroom south of?
+500,garden,garden,What is east of the hallway?
+501,office,office.,What is east of the kitchen?
+502,bedroom,bedroom,What is north of the garden?
+503,hallway,The question does not provide enough information to determine the location of the bathroom in,What is the bathroom east of?
+504,bedroom,Answer: Nothing in the context is stated to be west of the hallway.,What is the hallway west of?
+505,garden,"garden
+
+Explanation: The context mentions that ""The garden",What is west of the bathroom?
+506,bedroom,bedroom,What is north of the office?
+507,bedroom,kitchen,What is the hallway north of?
+508,bathroom,Answer: Nothing in the context suggests that the garden is north of anything.,What is the garden north of?
+509,office,"bathroom
+
+<context>
+The hallway is south of the kitchen.",What is the hallway east of?
+510,kitchen,"kitchen (based on the text given in the context)
+
+However,",What is south of the bedroom?
+511,hallway,"garden (based on the context provided, the office is west of the garden",What is the office east of?
+512,hallway,bedroom,What is the garden north of?
+513,garden,"garden
+
+Explanation: The context states that ""The office is",What is north of the office?
+514,garden,kitchen,What is the hallway north of?
+515,bathroom,"The office is north of the bedroom (based on the given context, the",What is the office north of?
+516,garden,"garden (based on the given context, the example provided does not apply here",What is west of the hallway?
+517,office,office,What is the bathroom south of?
+518,office,office,What is north of the hallway?
+519,hallway,hallway,What is east of the bathroom?
+520,bathroom,"bathroom. However, the context does not provide information about the location of a",What is south of the bedroom?
+521,hallway,hallway,What is west of the bathroom?
+522,kitchen,"The bedroom is north of the kitchen. Therefore, the bedroom is not south",What is the bedroom south of?
+523,garden,"garden. However, the text mentions that Attilia was speaking about Rome",What is west of the bedroom?
+524,garden,kitchen.,What is the office north of?
+525,garden,"garden. However, the context mentions that the bathroom is south of the",What is north of the bathroom?
+526,office,office,What is south of the garden?
+527,bathroom,"The bathroom is not mentioned in the context provided. Therefore, I cannot answer",What is west of the garden?
+528,garden,The given context does not provide information about the bedroom being east of any location,What is the bedroom east of?
+529,hallway,hallway.,What is south of the office?
+530,kitchen,"kitchen (based on the first context provided)
+
+However, it'",What is the garden south of?
+531,hallway,hallway,What is west of the bedroom?
+532,office,The text does not provide information about the bedroom being west of any specific location,What is the bedroom west of?
+533,kitchen,The given context does not provide any information about the garden being east of anything,What is the garden east of?
+534,garden,There is no information given in the context about the bedroom being south of anything,What is the bedroom south of?
+535,kitchen,I cannot determine the answer to that question based on the given context. The,What is the hallway east of?
+536,garden,kitchen,What is the hallway east of?
+537,bedroom,hallway,What is the garden south of?
+538,bedroom,bedroom,What is east of the garden?
+539,kitchen,The text does not provide information about what the hallway is west of. Therefore,What is the hallway west of?
+540,hallway,The given context does not provide any information about the bedroom being east of any,What is the bedroom east of?
+541,hallway,The hallway.,What is the bathroom south of?
+542,garden,garden (This context does not provide information about the location of the kitchen.),What is north of the kitchen?
+543,garden,The context does not provide information about the location of the garden in relation to,What is east of the kitchen?
+544,office,"garden (based on the given context, the garden is mentioned as being north",What is the bathroom north of?
+545,hallway,I cannot directly answer the question as the text does not provide information about the,What is the office east of?
+546,hallway,"office
+
+Explanation: In the context provided, it is mentioned",What is the bedroom east of?
+547,office,office,What is north of the hallway?
+548,bedroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is west of the kitchen?
+549,hallway,hallway,What is south of the bathroom?
+550,office,office,What is east of the hallway?
+551,bathroom,bedroom,What is the hallway east of?
+552,hallway,kitchen,What is north of the bedroom?
+553,bedroom,"bedroom (based on the given context, the bedroom is north of the garden",What is the garden south of?
+554,office,"office
+
+Explanation: The context states that ""The office is",What is south of the bedroom?
+555,bathroom,hallway,What is east of the garden?
+556,kitchen,"kitchen
+
+Explanation: Based on the context provided, the kitchen",What is west of the garden?
+557,bathroom,There is no information given in the context about what the bedroom is east of,What is the bedroom east of?
+558,garden,office,What is the bathroom south of?
+559,kitchen,office,What is the garden west of?
+560,bedroom,"bedroom
+
+<context>
+The bathroom is north of the bedroom.",What is the kitchen south of?
+561,kitchen,kitchen,What is east of the office?
+562,hallway,hallway,What is west of the bathroom?
+563,hallway,"The hallway is east of the garden. Therefore, the garden is not west",What is the garden west of?
+564,bedroom,"garden
+
+Explanation: The context states that ""The garden is",What is the kitchen west of?
+565,kitchen,"kitchen (based on the given context, the fact that the kitchen is east",What is the office west of?
+566,bathroom,hallway,What is the bedroom west of?
+567,bathroom,bathroom,What is west of the hallway?
+568,bedroom,bedroom,What is north of the garden?
+569,kitchen,kitchen,What is south of the bathroom?
+570,kitchen,"kitchen (based on the context from the text provided)
+
+Explan",What is the office east of?
+571,bathroom,bathroom.,What is north of the office?
+572,hallway,hallway,What is north of the office?
+573,bedroom,bedroom,What is west of the garden?
+574,office,bedroom,What is the kitchen west of?
+575,bathroom,"garden (based on the context provided, the bedroom is west of the garden",What is the bedroom west of?
+576,office,"kitchen.
+
+Explanation: The context states that ""The kitchen",What is the bathroom south of?
+577,hallway,The context does not provide information about what is north of the bathroom.,What is north of the bathroom?
+578,garden,office,What is the kitchen south of?
+579,kitchen,office,What is the hallway south of?
+580,office,The context provided does not contain any information about the bedroom being west of any,What is the bedroom west of?
+581,hallway,The hallway.,What is the garden east of?
+582,kitchen,office,What is the bedroom south of?
+583,office,"kitchen (based on the given context, the hallway is east of the office",What is the hallway west of?
+584,hallway,"kitchen
+
+Answer:
+kitchen.",What is the bedroom north of?
+585,garden,"garden
+
+Explanation: The context states that the garden is west",What is west of the bedroom?
+586,hallway,hallway,What is south of the office?
+587,kitchen,"kitchen. However, the context provided does not mention the garden being south of",What is south of the garden?
+588,office,The text does not provide information about the bedroom being east of anything.,What is the bedroom east of?
+589,office,office,What is south of the kitchen?
+590,bathroom,There is no information provided in the context about the kitchen being west of anything,What is the kitchen west of?
+591,hallway,"garden (based on the given context, the office is south of the garden",What is the office north of?
+592,bathroom,bathroom,What is east of the kitchen?
+593,office,office,What is east of the hallway?
+594,kitchen,"kitchen (based on the given context)
+
+However, it's",What is west of the bedroom?
+595,garden,bedroom,What is the office west of?
+596,bedroom,bedroom,What is east of the office?
+597,office,office.,What is west of the bathroom?
+598,bathroom,Answer: No information is given about what is west of the kitchen in the,What is the kitchen west of?
+599,bathroom,"bedroom (based on the context provided, the bedroom is south of the garden",What is the garden south of?
+600,hallway,hallway,What is east of the office?
+601,kitchen,"hallway
+
+Explanation: The text states that the bathroom is north",What is the bathroom south of?
+602,hallway,hallway,What is north of the bedroom?
+603,garden,"garden
+
+Explanation: The text mentions that the garden is",What is north of the office?
+604,bedroom,"bathroom. (Based on the context provided, the kitchen is south of the",What is south of the kitchen?
+605,hallway,"kitchen (based on the context given in the example texts, there is no",What is west of the garden?
+606,office,I cannot answer that question based on the given context. The context only ment,What is the kitchen west of?
+607,kitchen,kitchen,What is north of the bedroom?
+608,hallway,The given context does not provide information about the bedroom being south of any location,What is the bedroom south of?
+609,hallway,hallway,What is west of the kitchen?
+610,kitchen,kitchen,What is the bedroom north of?
+611,office,The given context does not provide information about what the bedroom is north of.,What is the bedroom north of?
+612,hallway,hallway,What is east of the office?
+613,hallway,"The office is north of the hallway. (However, the context provided does",What is the office north of?
+614,hallway,office,What is east of the bedroom?
+615,garden,hallway,What is the office east of?
+616,office,"The office.
+
+Explanation: The text states that ""The",What is north of the bedroom?
+617,kitchen,"The bedroom is north of the garden. (However, the text provided incorrect",What is north of the bedroom?
+618,hallway,hallway,What is south of the office?
+619,bathroom,The question does not provide enough information to determine what the office is west of,What is the office west of?
+620,bedroom,kitchen,What is the garden east of?
+621,office,"office
+
+Answer: office.",What is the kitchen south of?
+622,kitchen,garden,What is the office south of?
+623,garden,garden,What is north of the office?
+624,bathroom,The bathroom is west of the kitchen.,What is west of the kitchen?
+625,office,office,What is east of the bedroom?
+626,office,Answer: nothing mentioned in the context is north of the garden.,What is the garden north of?
+627,bathroom,bathroom,What is east of the bedroom?
+628,office,"The bedroom. (The text states that ""The bedroom is south of the",What is the bathroom south of?
+629,garden,"garden
+
+<context>
+<example>
+The hallway is south",What is east of the kitchen?
+630,bathroom,"bathroom
+
+<context>
+<example>
+The hallway is south",What is east of the kitchen?
+631,bathroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is the office north of?
+632,bathroom,bathroom.,What is west of the hallway?
+633,bedroom,"garden (based on the given context, the garden is explicitly stated to be",What is the office east of?
+634,bedroom,"bathroom.
+
+(Note: The context provided does not mention the location",What is east of the office?
+635,bedroom,bedroom (from an earlier statement in the context),What is the kitchen north of?
+636,bedroom,office,What is the kitchen west of?
+637,kitchen,bathroom.,What is the garden east of?
+638,kitchen,The office is west of the bedroom. (This information was given in the,What is the office east of?
+639,kitchen,kitchen,What is east of the bedroom?
+640,bedroom,kitchen,What is the garden east of?
+641,office,bedroom,What is the hallway east of?
+642,office,The text does not provide information about the bedroom being east of anything.,What is the bedroom east of?
+643,garden,"garden (based on the given context, the garden is explicitly stated to be",What is east of the hallway?
+644,garden,"bedroom (based on the context provided, the bathroom is stated to be west",What is the bathroom west of?
+645,office,"office
+
+Explanation: The context states that ""The office is",What is west of the bedroom?
+646,bedroom,office,What is the hallway east of?
+647,bathroom,bathroom,What is east of the bedroom?
+648,garden,"garden
+
+Explanation: Based on the context provided, the bedroom",What is north of the bedroom?
+649,hallway,hallway,What is south of the bedroom?
+650,office,garden (based on the given context),What is the hallway north of?
+651,garden,"garden
+
+(Based on the context provided, the bedroom is north of",What is east of the bedroom?
+652,kitchen,kitchen.,What is south of the hallway?
+653,hallway,hallway,What is west of the garden?
+654,hallway,hallway.,What is west of the bathroom?
+655,office,There is no information provided in the context about the kitchen being west of anything,What is the kitchen west of?
+656,bedroom,"Answer: bathroom (based on the given context, the information provided states that",What is the garden north of?
+657,kitchen,"kitchen. However, based on the context provided, it is not mentioned in",What is east of the garden?
+658,garden,"bedroom
+
+<context>
+As we see that heads a while after",What is south of the hallway?
+659,garden,"garden
+
+<context>
+And this made me fear, lest",What is east of the kitchen?
+660,kitchen,"office
+
+Explanation: In the context provided, it is mentioned",What is the garden east of?
+661,office,office,What is west of the bathroom?
+662,bedroom,hallway,What is south of the office?
+663,bathroom,bathroom,What is east of the garden?
+664,office,"bedroom (based on the context provided, the bedroom is south of the garden",What is the garden south of?
+665,kitchen,"bedroom (However, the text does not directly state that the hallway is north",What is the hallway north of?
+666,garden,"garden (based on the given context, the garden is south of the office",What is the office north of?
+667,garden,bathroom,What is the office east of?
+668,hallway,The office.,What is the garden south of?
+669,hallway,"bedroom (However, the context does not provide this information directly. It can",What is north of the garden?
+670,bathroom,"bathroom (however, the context does not provide this information, it was",What is west of the garden?
+671,garden,"garden (based on the given context)
+
+However, it's",What is east of the bedroom?
+672,kitchen,"kitchen
+
+Answer:
+kitchen.",What is the garden north of?
+673,kitchen,The context does not provide information about the garden being south of anything.,What is the garden south of?
+674,kitchen,The context provided does not give any information about the bedroom being west of anything,What is the bedroom west of?
+675,bedroom,bedroom (There is a mistake in the context you provided. The bedroom is,What is the garden west of?
+676,garden,garden (based on the context provided),What is north of the kitchen?
+677,bedroom,office,What is north of the bathroom?
+678,garden,"bathroom
+
+Explanation: In the context provided, it is stated",What is the bedroom south of?
+679,office,office,What is south of the bedroom?
+680,hallway,hallway,What is east of the office?
+681,office,office,What is south of the kitchen?
+682,garden,"bathroom. (However, the context does not provide enough information to determine this",What is the hallway south of?
+683,office,office,What is north of the hallway?
+684,office,"office (based on the context provided, there is no clear indication of what",What is the hallway east of?
+685,garden,"garden
+
+Explanation: The context mentions that ""The garden",What is east of the bathroom?
+686,hallway,hallway,What is east of the office?
+687,office,office,What is west of the bathroom?
+688,kitchen,"kitchen
+
+Explanation: Based on the context provided, the garden",What is north of the garden?
+689,bedroom,bedroom,What is north of the bathroom?
+690,office,office.,What is south of the garden?
+691,bathroom,bedroom,What is south of the kitchen?
+692,garden,"garden
+
+Explanation: The context states that ""The garden is",What is west of the bathroom?
+693,kitchen,kitchen,What is the hallway south of?
+694,office,"office
+
+Explanation: The context mentions that the hallway is",What is west of the bedroom?
+695,office,There is no information provided in the context about the location of the bathroom in,What is the bathroom west of?
+696,kitchen,bathroom,What is the office north of?
+697,bedroom,"bedroom (based on the context provided, the bedroom is east of the hallway",What is the hallway west of?
+698,office,The given context does not provide information about the bathroom being north of any location,What is the bathroom north of?
+699,kitchen,"kitchen (based on the context provided, the kitchen is west of the bedroom",What is the bedroom east of?
+700,office,office,What is west of the kitchen?
+701,office,office,What is east of the bedroom?
+702,bedroom,hallway,What is north of the kitchen?
+703,bedroom,bedroom,What is south of the office?
+704,bedroom,bedroom,What is east of the kitchen?
+705,hallway,hallway,What is east of the office?
+706,kitchen,"kitchen. However, the text provided contains some errors as the context states that",What is north of the garden?
+707,hallway,garden (This is based on the given context that the garden is south of,What is the office south of?
+708,garden,The text does not provide information about the location of the hallway in relation to,What is the hallway west of?
+709,office,"bedroom (based on the context provided, the bedroom is stated to be north",What is the hallway north of?
+710,bathroom,bathroom,What is north of the kitchen?
+711,bathroom,The office is west of the hallway.,What is the office east of?
+712,garden,The given context does not provide information about the bathroom being south of any specific,What is the bathroom south of?
+713,hallway,kitchen,What is the bedroom north of?
+714,bedroom,bedroom,What is east of the office?
+715,bedroom,"office (based on the context provided)
+
+However, it's",What is the garden south of?
+716,bathroom,"kitchen. However, the given context is from a play script, and the",What is north of the hallway?
+717,garden,bathroom,What is the hallway east of?
+718,kitchen,kitchen,What is west of the hallway?
+719,garden,garden,What is west of the bathroom?
+720,hallway,hallway,What is north of the bathroom?
+721,hallway,hallway,What is south of the kitchen?
+722,kitchen,kitchen,What is south of the hallway?
+723,hallway,bedroom,What is the garden west of?
+724,bedroom,bedroom,What is east of the hallway?
+725,hallway,hallway,What is the kitchen south of?
+726,bedroom,office,What is the hallway north of?
+727,kitchen,office,What is the bathroom west of?
+728,hallway,hallway,What is south of the garden?
+729,bedroom,bedroom (based on the context provided by Jane's statement),What is east of the garden?
+730,bedroom,bedroom,What is south of the office?
+731,bedroom,bedroom (based on the context provided),What is north of the bathroom?
+732,kitchen,hallway,What is the office west of?
+733,hallway,hallway,What is west of the garden?
+734,bathroom,There is no information given in the context about the bedroom being south of anything,What is the bedroom south of?
+735,kitchen,kitchen,What is north of the hallway?
+736,garden,garden,What is west of the bathroom?
+737,bedroom,bedroom,What is west of the kitchen?
+738,kitchen,bathroom,What is the office west of?
+739,garden,"garden (based on the given context, the garden is north of the hallway",What is the hallway south of?
+740,hallway,office,What is the garden east of?
+741,bathroom,garden (based on the given context),What is the bedroom west of?
+742,kitchen,"kitchen
+
+Explanation: The text states that ""The kitchen is",What is north of the bedroom?
+743,bathroom,bathroom,What is west of the bedroom?
+744,office,bedroom (based on the context provided),What is the hallway south of?
+745,bathroom,hallway,What is south of the kitchen?
+746,garden,There is no information given in the context about the bathroom being east of anything,What is the bathroom east of?
+747,garden,"garden
+
+Explanation: The given context mentions that ""The",What is east of the kitchen?
+748,bedroom,bedroom (based on the given context),What is west of the office?
+749,bedroom,Answer: nothing is mentioned in the context about the hallway being west of anything,What is the hallway west of?
+750,bedroom,bedroom,What is east of the bathroom?
+751,bathroom,bathroom.,What is the office south of?
+752,office,office.,What is east of the kitchen?
+753,bedroom,bedroom,What is north of the garden?
+754,bathroom,"bathroom
+
+[1] The context mentions ""these wars""",What is west of the bedroom?
+755,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is north of the hallway?
+756,kitchen,office,What is the hallway west of?
+757,kitchen,"The kitchen is given as being west of the bathroom in the context, so",What is the bathroom east of?
+758,bathroom,bathroom,What is the office west of?
+759,bathroom,office,What is the kitchen east of?
+760,garden,bathroom,What is north of the bedroom?
+761,bedroom,"bedroom
+
+Explanation: Based on the context provided, the garden",What is the garden west of?
+762,kitchen,kitchen.,What is south of the hallway?
+763,office,"office
+
+Explanation: The text states that ""The office is",What is the garden north of?
+764,hallway,The given context does not provide information about the bathroom being north of any location,What is the bathroom north of?
+765,hallway,hallway,What is south of the bedroom?
+766,bedroom,"bathroom (based on the given context, the bedroom is west of the garden",What is the garden east of?
+767,hallway,The given context does not provide information about the bedroom being north of anything.,What is the bedroom north of?
+768,bathroom,"bathroom
+
+Explanation: The context states that ""The bathroom is",What is west of the garden?
+769,hallway,bathroom,What is the kitchen east of?
+770,office,"garden (based on the given context, the hallway is west of the garden",What is west of the hallway?
+771,bathroom,hallway,What is the garden south of?
+772,garden,"garden (based on the given context, the bedroom is south of the office",What is the office north of?
+773,office,"office
+
+Explanation: The context does not provide any information about",What is the bathroom south of?
+774,bathroom,"bedroom
+
+Explanation: The context states that the bedroom is east",What is east of the garden?
+775,bathroom,bathroom,What is south of the kitchen?
+776,kitchen,kitchen,What is west of the bathroom?
+777,office,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is the garden north of?
+778,hallway,hallway,What is north of the office?
+779,bathroom,"kitchen (based on the context provided, there is no information given about the",What is the bedroom south of?
+780,hallway,hallway,What is north of the bathroom?
+781,kitchen,"garden (however, the given context does not mention the bathroom being east",What is the bathroom east of?
+782,hallway,"garden (based on the given context, the garden is west of the bathroom",What is the bathroom west of?
+783,garden,bedroom,What is the bathroom north of?
+784,bathroom,hallway,What is the kitchen north of?
+785,hallway,"office
+
+Explanation: The context states that ""The hallway is",What is the garden north of?
+786,hallway,kitchen,What is north of the garden?
+787,bathroom,The context does not provide information about the location of the bedroom in relation to,What is west of the bedroom?
+788,kitchen,office,What is the bedroom north of?
+789,office,"kitchen
+
+Answer:
+
+The bedroom is north of the kitchen",What is the bedroom north of?
+790,bedroom,There is no information given about what the kitchen is east of in the context,What is the kitchen east of?
+791,hallway,office.,What is south of the bathroom?
+792,kitchen,office.,What is west of the hallway?
+793,kitchen,Answer: Nothing in the context indicates that the garden is north of anything.,What is the garden north of?
+794,office,"office. (Based on the context provided, the bathroom is west of the",What is west of the bathroom?
+795,bathroom,"bathroom
+
+Explanation: The context states that ""The bathroom is",What is the office north of?
+796,garden,The text does not provide information about the bathroom being east of any location.,What is the bathroom east of?
+797,kitchen,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is the garden west of?
+798,bedroom,The given context does not provide information about the garden being north of anything.,What is the garden north of?
+799,hallway,bathroom,What is the garden west of?
+800,kitchen,"kitchen
+
+Answer:
+
+The context does not provide information about",What is the office north of?
+801,office,The context does not provide information about what is west of the kitchen.,What is west of the kitchen?
+802,kitchen,The text does not provide information about the location of the hallway being west of,What is the hallway west of?
+803,kitchen,kitchen,What is south of the office?
+804,office,The information provided does not indicate what the hallway is north of.,What is the hallway north of?
+805,garden,garden,What is east of the kitchen?
+806,hallway,hallway,What is east of the garden?
+807,hallway,bathroom,What is the bedroom south of?
+808,garden,garden,What is east of the hallway?
+809,hallway,The given context does not provide information about what the bedroom is east of.,What is the bedroom east of?
+810,hallway,hallway,What is east of the office?
+811,bathroom,bathroom,What is the office north of?
+812,kitchen,The given context does not provide information about the garden being south of any location,What is the garden south of?
+813,bathroom,The given context does not provide any information about the garden being north of anything,What is the garden north of?
+814,bedroom,"bedroom
+
+Explanation: The context states that ""The bedroom is",What is west of the kitchen?
+815,office,Answer: There is no information given in the context about what the kitchen is,What is the kitchen west of?
+816,hallway,hallway,What is north of the kitchen?
+817,garden,garden,What is north of the bathroom?
+818,bedroom,"The bathroom. (However, the text does not provide this information directly,",What is the kitchen north of?
+819,bedroom,"bedroom.
+
+Explanation: The context states that ""The bedroom",What is south of the bathroom?
+820,kitchen,"kitchen
+
+Explanation: The context states that ""The kitchen is",What is west of the bedroom?
+821,garden,"The bedroom. (The text states that ""The garden is east of the",What is the bathroom west of?
+822,bedroom,"bathroom. (Based on the context provided, the kitchen is stated to be",What is the kitchen south of?
+823,garden,I cannot answer that question based on the given context as there is no information,What is the hallway west of?
+824,bathroom,kitchen,What is west of the garden?
+825,bedroom,bedroom,What is east of the bathroom?
+826,office,The context does not provide information about the garden being west of anything specific.,What is the garden west of?
+827,bathroom,bathroom,What is south of the bedroom?
+828,kitchen,"kitchen
+
+Explanation: The context states that ""The bedroom is",What is east of the bedroom?
+829,bedroom,"garden (based on the given context, the bathroom is north of the garden",What is the bathroom north of?
+830,hallway,hallway,What is south of the bedroom?
+831,kitchen,kitchen,What is east of the hallway?
+832,bathroom,bathroom,What is west of the office?
+833,office,hallway,What is the garden south of?
+834,kitchen,hallway,What is the garden east of?
+835,bathroom,There is no information provided in the context about the kitchen being west of anything,What is the kitchen west of?
+836,bathroom,The text does not provide information about the location of the hallway being west of,What is the hallway west of?
+837,bathroom,kitchen,What is the bedroom east of?
+838,office,bathroom,What is the bedroom south of?
+839,bedroom,bedroom,What is north of the hallway?
+840,kitchen,hallway,What is south of the office?
+841,bedroom,The given context does not provide information about the bathroom being east of any location,What is the bathroom east of?
+842,bedroom,"kitchen. However, the context provided does not directly state that the office is",What is the office south of?
+843,kitchen,Answer: None of the given facts mention the hallway being west of any location,What is the hallway west of?
+844,office,"office
+
+Explanation: The context states that ""The office is",What is east of the garden?
+845,garden,"kitchen
+
+<answer>
+kitchen
+</answer>",What is the bedroom west of?
+846,bedroom,bedroom,What is east of the office?
+847,office,office,What is north of the kitchen?
+848,bedroom,office,What is the bathroom north of?
+849,bathroom,kitchen,What is the hallway north of?
+850,hallway,"garden (based on the given context, the hallway is north of the garden",What is the kitchen north of?
+851,hallway,"bedroom (based on the given context, the bedroom is stated to be north",What is the kitchen north of?
+852,garden,office,What is the hallway south of?
+853,bathroom,bathroom,What is east of the garden?
+854,bathroom,There is no information given in the context about the garden being west of anything,What is the garden west of?
+855,hallway,There is no information provided in the context about the bedroom being west of anything,What is the bedroom west of?
+856,bedroom,bedroom,What is east of the kitchen?
+857,kitchen,kitchen,What is east of the office?
+858,garden,The text does not provide information about the location of the office being east of,What is the office east of?
+859,bathroom,hallway,What is the office east of?
+860,bedroom,bedroom,What is west of the hallway?
+861,office,office.,What is east of the bathroom?
+862,bathroom,"bathroom. However, the context does not provide enough information to answer the question",What is north of the garden?
+863,bedroom,bedroom,What is north of the garden?
+864,kitchen,The text does not provide information about what is west of the office.,What is west of the office?
+865,hallway,The given context does not provide information about the bedroom being south of any specific,What is the bedroom south of?
+866,hallway,There is no information provided in the context about the bedroom being west of any,What is the bedroom west of?
+867,garden,"bedroom (based on the given context, the bedroom is west of the kitchen",What is the kitchen west of?
+868,garden,bathroom,What is the kitchen east of?
+869,office,office,What is south of the garden?
+870,hallway,"garden (based on the given context, the garden is north of the office",What is the office north of?
+871,kitchen,"kitchen. (Based on the context provided, the kitchen is stated to be",What is south of the hallway?
+872,garden,The question asks for the location that is south of the hallway. Based on,What is the hallway south of?
+873,kitchen,"kitchen
+
+Answer:
+kitchen",What is west of the hallway?
+874,hallway,hallway,What is east of the garden?
+875,garden,The context does not provide information about what is west of the bedroom.,What is west of the bedroom?
+876,bathroom,kitchen,What is the office south of?
+877,kitchen,kitchen.,What is south of the bedroom?
+878,bedroom,bedroom,What is west of the kitchen?
+879,garden,"garden (based on the given context, the garden is mentioned as being south",What is south of the bedroom?
+880,hallway,hallway,What is north of the kitchen?
+881,bathroom,bathroom,What is east of the office?
+882,office,office.,What is west of the garden?
+883,bathroom,"bathroom
+
+Explanation: The context states that ""The bathroom is",What is north of the garden?
+884,bedroom,The given context does not provide information about the bathroom being east of any specific,What is the bathroom east of?
+885,bathroom,bathroom,What is west of the kitchen?
+886,garden,The text does not provide information about the location of the office to the west,What is the office west of?
+887,bathroom,"bathroom
+
+<context>
+<example>
+The hallway is south",What is north of the kitchen?
+888,kitchen,office,What is the hallway north of?
+889,hallway,The text does not provide information about the location of the kitchen in relation to,What is the kitchen south of?
+890,hallway,hallway,What is east of the bedroom?
+891,hallway,hallway,What is north of the garden?
+892,office,office,What is north of the bathroom?
+893,kitchen,The given context does not provide information about the garden being north of anything.,What is the garden north of?
+894,kitchen,"kitchen (based on the given context)
+
+However, it's",What is west of the hallway?
+895,bathroom,I cannot find any information in the context that specifies what the office is,What is the office east of?
+896,garden,"garden
+
+Explanation: The text mentions that ""The garden",What is north of the hallway?
+897,kitchen,"kitchen. (Based on the context provided, the kitchen is mentioned as being",What is east of the bathroom?
+898,kitchen,kitchen.,What is south of the hallway?
+899,hallway,hallway,What is west of the office?
+900,bedroom,"garden (based on the given fact: ""The garden is north of the",What is the office north of?
+901,hallway,The context does not provide information about what is west of the kitchen.,What is west of the kitchen?
+902,office,bedroom,What is the bathroom west of?
+903,garden,kitchen,What is the bedroom south of?
+904,kitchen,"kitchen
+
+Explanation: The context states that ""The bedroom is",What is the bathroom east of?
+905,office,The office.,What is south of the bathroom?
+906,kitchen,The text does not provide information about the bedroom being east of any specific location,What is the bedroom east of?
+907,office,"office
+
+Answer:
+
+The text does not provide enough information",What is the hallway west of?
+908,bedroom,bedroom,What is the office east of?
+909,bathroom,bathroom,What is south of the bedroom?
+910,bedroom,"bedroom (based on the information given, the bedroom is north of the garden",What is the garden south of?
+911,hallway,hallway,What is north of the office?
+912,kitchen,"kitchen (based on the given context, the fact that the kitchen is west",What is west of the office?
+913,hallway,hallway,What is east of the garden?
+914,garden,answer: bedroom.,What is the office north of?
+915,kitchen,The question does not provide enough information to determine what the garden is south of,What is the garden south of?
+916,garden,"garden
+
+<explanation>
+The context mentions that """,What is north of the office?
+917,bathroom,hallway,What is south of the bedroom?
+918,bathroom,"kitchen
+
+Answer: I apologize for the mistake in my previous",What is east of the hallway?
+919,kitchen,The context does not provide information about what is west of the garden.,What is west of the garden?
+920,office,"bedroom (based on the context provided, the hallway is south of the bedroom",What is the hallway north of?
+921,hallway,"bedroom (Based on the context provided, the furniture in Rob Roy's",What is north of the garden?
+922,office,"office
+
+Explanation: The context states that ""The office is",What is south of the kitchen?
+923,bathroom,bathroom,What is the garden west of?
+924,bathroom,I cannot answer that question based on the given context. The text does not,What is the kitchen east of?
+925,garden,The text does not provide information about the location of anything being south of the,What is the kitchen south of?
+926,hallway,hallway,What is the bathroom north of?
+927,bedroom,"The bedroom. (Based on the context provided, the bathroom is north of",What is south of the bathroom?
+928,bathroom,hallway,What is the bedroom north of?
+929,kitchen,"The question asks for the location that is north of the garden. However,",What is the garden north of?
+930,office,The given context does not provide any information about the garden being north of anything,What is the garden north of?
+931,bathroom,"bathroom. (Based on the context provided, the bathroom is described as being",What is south of the garden?
+932,bathroom,"garden
+
+Explanation: Based on the context provided, the bedroom",What is the bedroom west of?
+933,hallway,hallway,What is west of the kitchen?
+934,bedroom,"bedroom
+
+Explanation: Based on the context provided, the bedroom",What is the garden east of?
+935,office,"office
+
+Answer: office",What is the kitchen north of?
+936,kitchen,kitchen,What is north of the hallway?
+937,garden,"bedroom.
+
+Explanation: The text states that ""The bedroom",What is the kitchen north of?
+938,kitchen,The context does not provide information about what is south of the bedroom.,What is south of the bedroom?
+939,bedroom,"bedroom (However, based on the context provided, it is not clear that",What is the garden east of?
+940,garden,"garden (based on the context provided, there is no explicit statement that the",What is south of the hallway?
+941,kitchen,hallway,What is the bathroom west of?
+942,office,"garden (based on the given context, the garden is east of the kitchen",What is the kitchen east of?
+943,bathroom,bathroom,What is east of the garden?
+944,bathroom,bedroom (based on the given context),What is the garden north of?
+945,office,office (based on the context provided),What is the garden north of?
+946,bedroom,bedroom,What is north of the hallway?
+947,bathroom,No information is given in the context about what is north of the kitchen.,What is the kitchen north of?
+948,office,office,What is the hallway north of?
+949,bedroom,"garden (based on the context provided, the information about the location of the",What is the office north of?
+950,bathroom,bathroom,What is the hallway south of?
+951,bathroom,"garden (based on the given context, the fact that the garden is west",What is the bedroom west of?
+952,garden,garden (based on the context provided in the first illustration),What is east of the bathroom?
+953,garden,hallway,What is the office north of?
+954,kitchen,kitchen,What is north of the office?
+955,office,office,What is east of the hallway?
+956,hallway,hallway,What is the office east of?
+957,kitchen,The context does not provide information about what is east of the garden. Therefore,What is the garden east of?
+958,office,office,What is north of the garden?
+959,office,kitchen,What is the bedroom west of?
+960,garden,bedroom,What is north of the kitchen?
+961,bedroom,kitchen,What is the garden east of?
+962,kitchen,kitchen,What is east of the office?
+963,garden,office,What is the kitchen east of?
+964,bathroom,garden (based on the given context),What is the hallway south of?
+965,garden,The given context does not provide information about the bedroom being south of anything.,What is the bedroom south of?
+966,bathroom,hallway,What is west of the garden?
+967,kitchen,kitchen,What is east of the office?
+968,office,"office
+
+Explanation: The text states that ""The office is",What is the garden south of?
+969,office,"bedroom
+
+Explanation: Based on the context provided, the hallway",What is the hallway west of?
+970,bathroom,"bathroom
+
+Explanation: The context states that ""The bathroom is",What is east of the garden?
+971,garden,"bathroom (based on the given context, there is no information provided that the",What is the hallway east of?
+972,garden,office,What is the kitchen east of?
+973,kitchen,office,What is north of the hallway?
+974,kitchen,kitchen,What is west of the hallway?
+975,bathroom,"bathroom.
+
+Explanation: The context mentions that ""The",What is south of the bedroom?
+976,bedroom,"bathroom. (However, the text also mentions that the kitchen is north",What is the kitchen south of?
+977,bathroom,"bathroom
+
+However, based on the context provided, it seems there was",What is west of the bedroom?
+978,office,"garden
+
+Explanation: Based on the context provided, the garden",What is west of the hallway?
+979,kitchen,kitchen,What is east of the hallway?
+980,garden,garden,What is north of the office?
+981,bedroom,bedroom,What is north of the garden?
+982,bathroom,kitchen,What is the bedroom south of?
+983,hallway,hallway,What is north of the office?
+984,hallway,hallway,What is south of the bathroom?
+985,office,The given context does not provide information about the bedroom being west of any location,What is the bedroom west of?
+986,kitchen,"kitchen
+
+Answer:
+
+kitchen.",What is the garden south of?
+987,hallway,office,What is the garden west of?
+988,office,office,What is west of the hallway?
+989,hallway,The context does not provide information about the location of the office being west of,What is the office west of?
+990,bedroom,The text does not provide information about the location of the hallway being east of,What is the hallway east of?
+991,bedroom,kitchen,What is the hallway south of?
+992,hallway,The text does not provide information about the garden being east of anything.,What is the garden east of?
+993,bedroom,"bathroom
+
+Explanation: Based on the context provided, the hallway",What is the hallway north of?
+994,hallway,hallway,What is east of the bedroom?
+995,hallway,hallway,What is west of the bathroom?
+996,kitchen,"bedroom
+
+<context>
+<example>
+The hallway is south",What is north of the garden?
+997,kitchen,"porch
+
+Explanation: Based on the context provided, the porch",What is west of the bedroom?
+998,kitchen,kitchen,What is north of the bedroom?

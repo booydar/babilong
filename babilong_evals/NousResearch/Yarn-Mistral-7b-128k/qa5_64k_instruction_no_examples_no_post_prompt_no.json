@@ -1,0 +1,17 @@
+{
+    "prompt": {
+        "instruction": "",
+        "examples": "",
+        "post_prompt": "",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": 0.0,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}

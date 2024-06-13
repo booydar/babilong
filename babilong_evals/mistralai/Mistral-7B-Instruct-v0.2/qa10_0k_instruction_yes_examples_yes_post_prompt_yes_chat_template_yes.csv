@@ -1,0 +1,1229 @@
+,target,output,question
+0,no,Answer: no.,Is Bill in the bedroom? 
+1,yes,No.,Is Bill in the bedroom? 
+2,no,Answer: no.,Is Bill in the park? 
+3,yes,"Answer: no.
+
+(Note: Fred was last seen at the cinema.)",Is Fred in the park? 
+4,yes,Yes.,Is Bill in the office? 
+5,no,Answer: no.,Is Fred in the office? 
+6,yes,Yes,Is Julie in the cinema? 
+7,yes,"Maybe. The latest information indicates that Julie was at the school, but it is also mentioned that she",Is Julie in the school? 
+8,no,Answer: no.,Is Bill in the office? 
+9,yes,"Maybe (based on the latest information, Julie was at the park earlier but it's not clear",Is Julie in the park? 
+10,no,Answer: no.,Is Bill in the bedroom? 
+11,no,Answer: no.,Is Julie in the bedroom? 
+12,maybe,No. (Based on the latest information about Julie being in the school.),Is Julie in the bedroom? 
+13,yes,Yes.,Is Bill in the school? 
+14,yes,Yes.,Is Julie in the school? 
+15,no,Answer: no.,Is Julie in the kitchen? 
+16,yes,Yes.,Is Julie in the bedroom? 
+17,no,No.,Is Julie in the kitchen? 
+18,maybe,Maybe. The context states that Mary is either in the office or the kitchen. We don't,Is Mary in the kitchen? 
+19,maybe,No.,Is Mary in the kitchen? 
+20,maybe,"Maybe. The context only states that Fred is either in the office or the park, and it does",Is Fred in the park? 
+21,no,No.,Is Fred in the school? 
+22,yes,Yes. (Fred went to the bedroom.),Is Fred in the bedroom? 
+23,no,Answer: no.,Is Mary in the kitchen? 
+24,yes,"Maybe. At the beginning of the context, Mary was either in the school or the bedroom. Later",Is Mary in the office? 
+25,no,Answer: no.,Is Julie in the school? 
+26,yes,No.,Is Julie in the kitchen? 
+27,no,Answer: no.,Is Mary in the office? 
+28,no,Answer: no.,Is Mary in the office? 
+29,no,Answer: no.,Is Fred in the cinema? 
+30,yes,Answer: no.,Is Fred in the kitchen? 
+31,no,"Answer: no.
+
+<context>
+Fred is in the kitchen. Bill moved to",Is Bill in the school? 
+32,yes,Yes. (Based on the latest location Bill was in before the question was asked.),Is Bill in the cinema? 
+33,yes,Answer: no.,Is Julie in the kitchen? 
+34,no,"Answer: no.
+
+(Fred was last in the cinema.)",Is Fred in the kitchen? 
+35,no,Answer: no.,Is Mary in the school? 
+36,yes,"Yes. (Despite the contradictory statement about Mary being in the park, the latest location",Is Mary in the office? 
+37,yes,Yes. (Mary was last mentioned as being in the office.),Is Mary in the office? 
+38,no,Answer: no.,Is Julie in the school? 
+39,maybe,"Maybe. The context states that Mary is currently in the kitchen, but it also mentions that she",Is Mary in the school? 
+40,no,Answer: no.,Is Bill in the cinema? 
+41,maybe,"Maybe. The context states that Bill is either in the school or the school, which could be interpreted",Is Bill in the school? 
+42,no,Answer: no.,Is Julie in the park? 
+43,no,Answer: no.,Is Julie in the office? 
+44,no,Answer: no.,Is Mary in the park? 
+45,no,Answer: no.,Is Fred in the park? 
+46,no,Answer: no.,Is Bill in the park? 
+47,yes,Yes,Is Fred in the cinema? 
+48,yes,Yes. (Fred was last seen in the cinema.),Is Fred in the cinema? 
+49,no,"Answer: no.
+
+(Note: Based on the latest information given, Mary is in the",Is Mary in the bedroom? 
+50,no,Answer: no.,Is Fred in the cinema? 
+51,maybe,"Maybe (He could be in either bedroom based on the context)
+
+However, since the latest",Is Fred in the bedroom? 
+52,yes,"Maybe. Fred was previously in the school, but the most recent information indicates that he is in the",Is Fred in the school? 
+53,yes,Yes.,Is Mary in the kitchen? 
+54,yes,"Maybe. Fred was stated to be in the school at one point in the context, but it is",Is Fred in the school? 
+55,yes,Yes.,Is Julie in the school? 
+56,no,No.,Is Fred in the school? 
+57,no,Answer: no.,Is Fred in the school? 
+58,yes,Yes.,Is Bill in the office? 
+59,yes,"Maybe. Mary was previously in the kitchen, but she also travelled to another location. Without knowing",Is Mary in the kitchen? 
+60,maybe,Maybe. We don't have enough information to determine for sure if Julie is in the school or,Is Julie in the school? 
+61,maybe,"Maybe. The context states that Julie is either in the school or the office, and no new information",Is Julie in the school? 
+62,no,Answer: no.,Is Mary in the bedroom? 
+63,maybe,Maybe. The latest information about Julie's location is that she is either in the bedroom or the,Is Julie in the school? 
+64,no,Yes.,Is Bill in the park? 
+65,yes,Yes.,Is Mary in the park? 
+66,maybe,"Maybe.
+
+<context>
+Mary went back to the park. Fred is in the",Is Mary in the school? 
+67,yes,Yes.,Is Mary in the office? 
+68,no,Answer: no.,Is Julie in the bedroom? 
+69,no,Answer: no.,Is Fred in the office? 
+70,yes,"Answer: yes.
+
+<context>
+Bill travelled to the kitchen. Julie went to",Is Bill in the kitchen? 
+71,yes,Yes,Is Julie in the kitchen? 
+72,no,No. (The latest location Julie was in was the park.),Is Julie in the kitchen? 
+73,yes,Yes,Is Fred in the kitchen? 
+74,yes,Yes.,Is Mary in the park? 
+75,yes,"Maybe. The context states that Julie went to the school, but it does not specify that she is",Is Julie in the school? 
+76,no,Answer: no.,Is Julie in the kitchen? 
+77,no,Answer: no.,Is Fred in the office? 
+78,no,"Maybe. The context states that Mary was in the office, but it also mentions that she was",Is Mary in the school? 
+79,yes,Yes.,Is Mary in the park? 
+80,maybe,"Answer: maybe.
+
+Julie could still be in the kitchen based on the context provided",Is Julie in the kitchen? 
+81,no,No.,Is Julie in the kitchen? 
+82,maybe,Maybe. We don't know for sure as Fred could be in the office as well.,Is Fred in the cinema? 
+83,no,Answer: no.,Is Fred in the school? 
+84,no,"Maybe. The latest information about Mary's location is that she is in the bedroom, but the",Is Mary in the school? 
+85,no,Answer: no.,Is Mary in the cinema? 
+86,yes,Yes.,Is Mary in the school? 
+87,yes,Answer: no.,Is Fred in the office? 
+88,maybe,"Maybe.
+
+<context>
+Fred is either in the school or the cinema. Mary",Is Mary in the park? 
+89,maybe,"Maybe. The context states that Fred is either in the cinema or the bedroom, and we don'",Is Fred in the cinema? 
+90,yes,Yes.,Is Fred in the kitchen? 
+91,yes,"Answer: no.
+
+<context>
+Fred is either in the kitchen or the park",Is Mary in the bedroom? 
+92,no,Answer: no.,Is Julie in the cinema? 
+93,yes,Answer: yes. (The latest information about Julie is that she went to the office.),Is Julie in the office? 
+94,yes,Yes.,Is Bill in the bedroom? 
+95,no,Answer: no.,Is Mary in the office? 
+96,yes,Yes.,Is Mary in the school? 
+97,no,"Maybe.
+
+<context>
+Mary travelled to the park. Mary travelled to",Is Julie in the school? 
+98,yes,Yes.,Is Julie in the kitchen? 
+99,no,Answer: no.,Is Julie in the cinema? 
+100,yes,Answer: yes.,Is Fred in the park? 
+101,no,Yes.,Is Bill in the park? 
+102,maybe,Maybe. We don't know for sure which location Mary is currently in based on the given context,Is Mary in the cinema? 
+103,yes,No. (Bill is currently in the bedroom.),Is Bill in the office? 
+104,no,Yes,Is Julie in the office? 
+105,no,Answer: no.,Is Mary in the bedroom? 
+106,no,Answer: no.,Is Bill in the school? 
+107,yes,No. (Bill went to the bedroom before going to the kitchen.),Is Bill in the bedroom? 
+108,no,Yes.,Is Mary in the school? 
+109,no,"Maybe.
+
+<context>
+Mary went back to the office. Bill is either in",Is Mary in the kitchen? 
+110,yes,Answer: no. (Fred cannot be in two places at the same time based on the given,Is Fred in the school? 
+111,yes,No. (Fred was in the bedroom most recently.),Is Fred in the school? 
+112,yes,"Maybe. The latest location Mary was in was the kitchen, but the context states that she also trav",Is Mary in the park? 
+113,no,No.,Is Fred in the kitchen? 
+114,yes,"Yes. (However, the most recent information about Fred being in the bedroom or the park does not",Is Fred in the bedroom? 
+115,yes,Answer: yes.,Is Julie in the cinema? 
+116,no,Answer: no.,Is Mary in the cinema? 
+117,yes,Yes.,Is Mary in the school? 
+118,no,Yes.,Is Mary in the school? 
+119,yes,No.,Is Mary in the bedroom? 
+120,no,Answer: no.,Is Julie in the school? 
+121,yes,Answer: yes.,Is Mary in the school? 
+122,yes,Yes,Is Julie in the school? 
+123,yes,Yes. (Based on the latest location Bill was in before the question was asked.),Is Bill in the park? 
+124,no,Answer: no.,Is Julie in the park? 
+125,yes,Yes.,Is Mary in the office? 
+126,no,Answer: no.,Is Julie in the park? 
+127,yes,Yes.,Is Mary in the office? 
+128,yes,Yes.,Is Mary in the school? 
+129,no,No.,Is Fred in the kitchen? 
+130,no,Answer: no.,Is Bill in the park? 
+131,yes,Yes.,Is Fred in the school? 
+132,no,Answer: no.,Is Fred in the kitchen? 
+133,maybe,"Maybe. Fred was last seen in the bedroom, but he also could be in the cinema. The",Is Fred in the cinema? 
+134,maybe,"Maybe. Fred was last seen in the bedroom, but he was also reported to be either in the",Is Fred in the cinema? 
+135,no,No.,Is Fred in the park? 
+136,yes,"No.
+
+<context>
+Fred moved to the school. Fred is in the bedroom",Is Fred in the bedroom? 
+137,no,Yes. (Fred's latest location is at the school.),Is Fred in the school? 
+138,no,Answer: no.,Is Bill in the cinema? 
+139,yes,Yes.,Is Julie in the park? 
+140,yes,Yes.,Is Mary in the park? 
+141,yes,Yes,Is Fred in the bedroom? 
+142,no,Answer: no.,Is Bill in the school? 
+143,yes,Yes.,Is Mary in the office? 
+144,no,Answer: no.,Is Bill in the cinema? 
+145,no,Answer: no.,Is Mary in the bedroom? 
+146,maybe,No.,Is Fred in the kitchen? 
+147,maybe,No.,Is Fred in the kitchen? 
+148,yes,Yes.,Is Bill in the cinema? 
+149,yes,Yes.,Is Bill in the cinema? 
+150,yes,Yes.,Is Bill in the office? 
+151,yes,"Answer: no.
+
+<context>
+Mary went to the office. Bill moved to",Is Fred in the kitchen? 
+152,yes,Yes.,Is Bill in the kitchen? 
+153,no,Answer: no.,Is Mary in the school? 
+154,no,Answer: no.,Is Mary in the school? 
+155,yes,"Yes (Mary was mentioned as being in the school in the context, so the answer is """,Is Mary in the school? 
+156,no,"Answer: no.
+
+<context>
+Mary is in the office. Mary is in",Is Mary in the office? 
+157,no,Answer: no.,Is Mary in the bedroom? 
+158,maybe,Maybe. The latest information only states that Fred is either in the kitchen or the office. It does,Is Fred in the kitchen? 
+159,maybe,"Yes. (Based on the latest information, Bill is in the cinema.)",Is Bill in the cinema? 
+160,no,Answer: no.,Is Mary in the cinema? 
+161,no,Answer: no.,Is Julie in the kitchen? 
+162,yes,"Maybe (based on the latest location Fred was in, which was the cinema, but there was also",Is Fred in the park? 
+163,yes,Yes,Is Julie in the park? 
+164,no,Answer: no. (Fred was last seen in the cinema.),Is Fred in the bedroom? 
+165,maybe,Yes.,Is Fred in the school? 
+166,yes,Yes.,Is Julie in the school? 
+167,yes,Yes.,Is Bill in the school? 
+168,yes,No.,Is Bill in the bedroom? 
+169,no,"Answer: no.
+
+(Note: Based on the latest location of Bill, which is the",Is Bill in the park? 
+170,yes,Yes.,Is Julie in the school? 
+171,no,Answer: no.,Is Fred in the park? 
+172,maybe,Maybe. We don't know for sure which location Fred is currently in based on the given context,Is Fred in the bedroom? 
+173,yes,Yes.,Is Julie in the cinema? 
+174,no,Yes.,Is Julie in the school? 
+175,yes,Yes.,Is Fred in the kitchen? 
+176,maybe,"Maybe.
+
+<context>
+Mary moved to the kitchen. Fred moved to the kitchen",Is Bill in the cinema? 
+177,yes,"Maybe.
+
+<context>
+Mary moved to the kitchen. Fred moved to the kitchen",Is Mary in the school? 
+178,no,Yes (Mary was in the office when the question was asked),Is Mary in the office? 
+179,yes,"Maybe.
+
+<context>
+Mary moved to the kitchen. Fred moved to the kitchen",Is Mary in the school? 
+180,yes,"Yes. (Based on the latest information, Mary is now in the bedroom.)",Is Mary in the bedroom? 
+181,no,Answer: no.,Is Julie in the office? 
+182,yes,Yes.,Is Fred in the kitchen? 
+183,maybe,"Maybe. The context states that Bill is either in the bedroom or the bedroom, which means he could",Is Bill in the bedroom? 
+184,no,"Maybe. The context states that Bill is either in the bedroom or the bedroom, but it does not",Is Bill in the cinema? 
+185,yes,"Yes.
+
+<context>
+Fred is in the park. Mary journeyed to the",Is Fred in the park? 
+186,no,Answer: no.,Is Julie in the park? 
+187,no,Answer: no.,Is Julie in the office? 
+188,yes,Yes.,Is Bill in the bedroom? 
+189,yes,Yes.,Is Julie in the school? 
+190,no,Answer: no.,Is Fred in the cinema? 
+191,yes,No.,Is Bill in the kitchen? 
+192,yes,Yes.,Is Julie in the school? 
+193,yes,Yes (Julie travelled to the school),Is Julie in the school? 
+194,no,Answer: no.,Is Bill in the cinema? 
+195,yes,"Answer: yes. (However, since the question asks for the answer based only on the information from",Is Julie in the kitchen? 
+196,no,No.,Is Fred in the kitchen? 
+197,maybe,No.,Is Fred in the office? 
+198,yes,Yes.,Is Julie in the cinema? 
+199,yes,"Maybe. The latest information about Mary's location is that she went back to the cinema, but",Is Mary in the office? 
+200,no,Answer: no.,Is Mary in the cinema? 
+201,no,Answer: no.,Is Mary in the office? 
+202,no,"Answer: no.
+
+<context>
+Bill is in the school. Mary travelled to",Is Fred in the cinema? 
+203,yes,"Answer: maybe (Bill was in the office at some point, but we don't know if",Is Bill in the office? 
+204,yes,"Maybe. Fred was previously in the bedroom, but the most recent information indicates he is now in the",Is Fred in the bedroom? 
+205,no,Answer: no.,Is Bill in the bedroom? 
+206,no,Answer: no.,Is Fred in the park? 
+207,yes,"Maybe. The latest information about Mary's location is that she is in the bedroom, but the",Is Mary in the school? 
+208,no,Yes. (Based on the latest location Mary was in before the question was asked.),Is Mary in the bedroom? 
+209,no,"Maybe. The latest information about Fred's location is that he journeyed to the school, but",Is Fred in the school? 
+210,no,Answer: no.,Is Bill in the cinema? 
+211,no,Answer: no.,Is Julie in the bedroom? 
+212,yes,Yes,Is Mary in the office? 
+213,yes,Yes.,Is Bill in the cinema? 
+214,no,Yes,Is Julie in the office? 
+215,no,Answer: no.,Is Mary in the office? 
+216,yes,Yes.,Is Mary in the bedroom? 
+217,no,Answer: no.,Is Mary in the kitchen? 
+218,maybe,Maybe. The latest information about Fred's location is that he is either in the cinema or the,Is Fred in the kitchen? 
+219,yes,"Yes. (Based on the latest information given, Bill is currently in the cinema.)",Is Bill in the cinema? 
+220,no,Answer: no.,Is Mary in the cinema? 
+221,no,Answer: no.,Is Bill in the kitchen? 
+222,yes,No. (Bill was last in the cinema.),Is Bill in the office? 
+223,maybe,Answer: maybe. The latest information about Julie's location is that she could be in the office,Is Julie in the bedroom? 
+224,no,"Maybe. The context states that Julie is either in the office or the bedroom, but we don'",Is Julie in the office? 
+225,maybe,Maybe. We don't know for sure as we only have information about Mary's location and,Is Bill in the school? 
+226,yes,Yes.,Is Mary in the cinema? 
+227,no,Yes.,Is Bill in the cinema? 
+228,no,Answer: no.,Is Bill in the office? 
+229,maybe,"Answer: no.
+
+(Note: Based on the latest location of Bill, which is the",Is Bill in the park? 
+230,yes,Yes,Is Julie in the kitchen? 
+231,no,Answer: no.,Is Fred in the park? 
+232,no,Answer: no.,Is Mary in the bedroom? 
+233,no,Answer: no.,Is Fred in the school? 
+234,no,Yes.,Is Fred in the kitchen? 
+235,no,Answer: no.,Is Fred in the bedroom? 
+236,no,Answer: no.,Is Fred in the cinema? 
+237,no,Answer: no.,Is Bill in the office? 
+238,yes,Yes. (Fred's latest location was at the cinema.),Is Fred in the cinema? 
+239,yes,Yes.,Is Mary in the office? 
+240,yes,"Yes. (Answer should be a single word: ""Yes"")",Is Julie in the office? 
+241,yes,Yes,Is Mary in the office? 
+242,yes,Yes,Is Mary in the bedroom? 
+243,yes,Yes.,Is Bill in the cinema? 
+244,yes,Yes.,Is Bill in the cinema? 
+245,no,Answer: no.,Is Julie in the office? 
+246,maybe,Answer: maybe. The latest information we have about Julie is that she could be in the school or,Is Julie in the bedroom? 
+247,yes,"Maybe. The latest location Bill was in was the bedroom, but we don't know if he",Is Bill in the bedroom? 
+248,no,Answer: no.,Is Mary in the office? 
+249,yes,Yes.,Is Bill in the school? 
+250,no,Answer: no.,Is Fred in the cinema? 
+251,no,Answer: no.,Is Julie in the kitchen? 
+252,yes,Yes.,Is Fred in the park? 
+253,yes,No.,Is Mary in the kitchen? 
+254,no,Answer: no.,Is Mary in the school? 
+255,maybe,"Maybe. We don't know for sure where Bill is, only that he could be in the",Is Bill in the office? 
+256,no,Answer: no.,Is Bill in the bedroom? 
+257,yes,Answer: no.,Is Bill in the bedroom? 
+258,yes,No.,Is Bill in the bedroom? 
+259,no,Answer: no.,Is Bill in the park? 
+260,no,Answer: no.,Is Fred in the cinema? 
+261,no,No.,Is Bill in the kitchen? 
+262,no,Answer: no.,Is Julie in the school? 
+263,no,No.,Is Bill in the kitchen? 
+264,yes,No. (Bill is currently in the bedroom.),Is Bill in the kitchen? 
+265,no,Answer: no.,Is Bill in the school? 
+266,maybe,Maybe. We don't know for sure if Bill was in the bedroom before or after Julie went,Is Bill in the bedroom? 
+267,maybe,Maybe. We don't know for sure if Bill was in the bedroom before or after Mary traveled,Is Bill in the bedroom? 
+268,yes,Yes.,Is Fred in the park? 
+269,no,Answer: no.,Is Fred in the school? 
+270,yes,Yes.,Is Mary in the park? 
+271,no,Answer: no.,Is Bill in the kitchen? 
+272,maybe,Maybe. The latest information we have about Bill is that he could be in the cinema or the school,Is Bill in the school? 
+273,no,"Maybe. Bill could be in the school based on the context provided, but there is also a possibility",Is Bill in the school? 
+274,no,Yes.,Is Mary in the kitchen? 
+275,no,Answer: no.,Is Fred in the school? 
+276,yes,Yes.,Is Julie in the cinema? 
+277,no,Answer: no.,Is Julie in the office? 
+278,yes,Yes.,Is Fred in the cinema? 
+279,no,No.,Is Fred in the kitchen? 
+280,yes,Yes.,Is Bill in the kitchen? 
+281,no,Answer: no.,Is Bill in the cinema? 
+282,maybe,"Maybe. The context states that Bill is either in the bedroom or the cinema, and we don'",Is Bill in the cinema? 
+283,maybe,"Maybe.
+
+<context>
+Fred is either in the school or the school. Bill",Is Mary in the cinema? 
+284,yes,Yes.,Is Mary in the office? 
+285,yes,Answer: no.,Is Bill in the kitchen? 
+286,yes,"Yes.
+
+<context>
+Fred is in the school. Bill went back to the",Is Bill in the school? 
+287,yes,Yes. (Based on the latest information about Bill being in the school.),Is Bill in the school? 
+288,yes,"Answer: no.
+
+<context>
+Fred is in the school. Bill went back",Is Bill in the office? 
+289,no,Yes,Is Fred in the school? 
+290,maybe,"Yes. The context states that Fred is either in the cinema or the cinema, and since Bill went",Is Fred in the cinema? 
+291,maybe,"Yes. The context states that Fred is either in the cinema or the cinema, and since Bill was",Is Fred in the cinema? 
+292,no,Maybe. We don't know for sure which location Mary is currently in based on the given context,Is Mary in the cinema? 
+293,yes,No.,Is Mary in the bedroom? 
+294,no,Answer: no.,Is Fred in the school? 
+295,no,Answer: no.,Is Mary in the kitchen? 
+296,yes,Yes.,Is Julie in the park? 
+297,yes,Yes.,Is Julie in the park? 
+298,yes,Yes,Is Fred in the bedroom? 
+299,maybe,Yes.,Is Bill in the kitchen? 
+300,yes,"Maybe (She was in the park before moving to the kitchen, but the latest information is that she",Is Mary in the park? 
+301,maybe,No.,Is Mary in the bedroom? 
+302,yes,Yes.,Is Fred in the park? 
+303,maybe,"No. (Bill is either in the kitchen or the school, but the latest location for Bill is",Is Bill in the school? 
+304,yes,Yes,Is Mary in the kitchen? 
+305,no,Answer: no.,Is Julie in the office? 
+306,no,Answer: no.,Is Julie in the school? 
+307,yes,Yes. The latest location Mary was in was the cinema.,Is Mary in the cinema? 
+308,no,Answer: no.,Is Mary in the park? 
+309,yes,"Answer: no.
+
+(Note: Based on the latest information given, Bill is currently in",Is Bill in the park? 
+310,no,Answer: no.,Is Fred in the park? 
+311,yes,Yes (based on the latest location Bill was in),Is Bill in the school? 
+312,yes,Yes.,Is Fred in the cinema? 
+313,no,Answer: no.,Is Mary in the school? 
+314,no,No. (Bill was at the school when Fred was in the park.),Is Bill in the park? 
+315,maybe,"Maybe.
+
+<context>
+Fred is in the bedroom. Mary is in the school",Is Mary in the school? 
+316,yes,Yes.,Is Mary in the bedroom? 
+317,maybe,"Maybe. Since we don't know which location Bill moved to last, we can't be",Is Bill in the bedroom? 
+318,no,Answer: no.,Is Julie in the bedroom? 
+319,maybe,Answer: no.,Is Julie in the bedroom? 
+320,no,Answer: no.,Is Fred in the cinema? 
+321,maybe,Yes.,Is Fred in the park? 
+322,yes,Yes,Is Julie in the bedroom? 
+323,no,Answer: no.,Is Mary in the kitchen? 
+324,no,Yes.,Is Bill in the cinema? 
+325,no,Answer: no.,Is Bill in the bedroom? 
+326,no,Answer: no.,Is Mary in the school? 
+327,yes,Yes.,Is Bill in the cinema? 
+328,no,Answer: no.,Is Fred in the school? 
+329,yes,"Maybe. (Note: The latest location for Bill is the bedroom, but we cannot be certain that",Is Bill in the bedroom? 
+330,yes,Yes. (Based on the latest information about Mary being in the cinema.),Is Mary in the cinema? 
+331,no,Answer: no.,Is Fred in the office? 
+332,yes,"Yes
+
+<context>
+Fred is in the school. Mary is in the cinema.",Is Mary in the cinema? 
+333,yes,Yes.,Is Julie in the office? 
+334,no,Maybe (since the latest information states that Mary is either in the bedroom or the park),Is Mary in the school? 
+335,no,Answer: no.,Is Mary in the office? 
+336,no,No.,Is Mary in the bedroom? 
+337,no,"Maybe. The latest information we have about Julie is that she moved to the kitchen, but we don",Is Julie in the cinema? 
+338,maybe,"Maybe. The latest information we have about Julie is that she moved to the kitchen, but the question",Is Julie in the school? 
+339,maybe,"Maybe (based on the latest information, Fred is either in the bedroom or the office)",Is Fred in the bedroom? 
+340,yes,"Answer: no.
+
+<context>
+Sarah is in the kitchen. Mark is",Is Fred in the bedroom? 
+341,yes,No. (Fred's latest location was the school.),Is Fred in the bedroom? 
+342,no,Yes.,Is Bill in the school? 
+343,no,Answer: no.,Is Fred in the cinema? 
+344,yes,Yes (based on the latest location information for Mary),Is Mary in the kitchen? 
+345,no,Answer: no.,Is Mary in the kitchen? 
+346,no,Answer: no.,Is Mary in the bedroom? 
+347,yes,Yes. (The latest location for Fred was the bedroom.),Is Fred in the bedroom? 
+348,no,"Answer: no.
+
+Mary moved to the park before she went to the school, so",Is Mary in the cinema? 
+349,no,Answer: no.,Is Bill in the cinema? 
+350,maybe,Yes.,Is Bill in the office? 
+351,maybe,"Yes. (Based on the latest information, Bill is in the office.)",Is Bill in the office? 
+352,yes,Yes (based on the latest information about Fred being in the bedroom),Is Fred in the bedroom? 
+353,no,No. (Bill is currently in the bedroom.),Is Bill in the kitchen? 
+354,no,No. (Bill is currently in the bedroom.),Is Bill in the kitchen? 
+355,yes,Yes.,Is Julie in the park? 
+356,yes,Answer: no.,Is Bill in the office? 
+357,yes,Yes. (Fred's latest location was at the office.),Is Fred in the office? 
+358,maybe,Maybe. Since the latest information about Julie's location is that she is either in the office or,Is Julie in the office? 
+359,yes,No. (Mary was in the park when the question was asked.),Is Mary in the bedroom? 
+360,no,Answer: no.,Is Bill in the cinema? 
+361,yes,"Answer: yes.
+
+<context>
+Mary is in the cinema. Bill moved to",Is Mary in the cinema? 
+362,yes,Yes,Is Julie in the office? 
+363,no,"Answer: no.
+
+<context>
+Mary is in the cinema. Bill moved to",Is Mary in the school? 
+364,no,No.,Is Fred in the park? 
+365,no,Answer: no.,Is Mary in the school? 
+366,no,Answer: no.,Is Julie in the school? 
+367,yes,Yes.,Is Fred in the school? 
+368,no,No.,Is Fred in the kitchen? 
+369,yes,Yes.,Is Bill in the school? 
+370,yes,Yes.,Is Julie in the park? 
+371,yes,"Maybe. The most recent location Julie was in was the park, but she had previously been at the",Is Julie in the school? 
+372,yes,"Maybe. The context states that Julie moved to the park, but later travelled to the school.",Is Julie in the school? 
+373,no,Answer: no.,Is Bill in the bedroom? 
+374,no,Answer: no. (Bill is currently in the bedroom.),Is Bill in the kitchen? 
+375,no,Answer: no.,Is Fred in the park? 
+376,yes,Yes.,Is Mary in the cinema? 
+377,yes,Yes,Is Julie in the park? 
+378,yes,Answer: no.,Is Mary in the kitchen? 
+379,no,"Maybe. The last location mentioned for Mary was the school, but it was also mentioned earlier that she",Is Mary in the school? 
+380,yes,Yes. (The latest location for Bill is the office.),Is Bill in the office? 
+381,yes,Yes,Is Fred in the cinema? 
+382,no,"Answer: no.
+
+<context>
+Bill went to the park. Bill is in the",Is Fred in the cinema? 
+383,no,Answer: no.,Is Mary in the cinema? 
+384,no,"Answer: no.
+
+<context>
+Bill went to the park. Bill is in the",Is Fred in the park? 
+385,yes,Yes.,Is Julie in the school? 
+386,yes,Yes,Is Julie in the bedroom? 
+387,maybe,Maybe. The latest information about Fred's location is that he is either in the bedroom or the,Is Fred in the school? 
+388,no,Answer: no.,Is Bill in the cinema? 
+389,maybe,Maybe. The context states that Bill could be in the school or the kitchen. We don't,Is Bill in the school? 
+390,yes,Yes.,Is Julie in the office? 
+391,no,Yes. (Answer based on the latest location Julie was in before the question was asked),Is Julie in the park? 
+392,no,Answer: no.,Is Mary in the school? 
+393,yes,Yes.,Is Fred in the school? 
+394,maybe,Maybe. The latest information about Bill's location is that he is either in the park or the,Is Bill in the park? 
+395,no,Answer: no.,Is Julie in the cinema? 
+396,no,Answer: no.,Is Mary in the kitchen? 
+397,yes,Answer: no.,Is Julie in the park? 
+398,yes,No.,Is Mary in the kitchen? 
+399,no,"Maybe. The latest information about Julie's location is that she is in the kitchen, but the",Is Julie in the cinema? 
+400,yes,Answer: no.,Is Fred in the kitchen? 
+401,yes,"Yes. (Even though the latest location for Fred is the kitchen, the question asks about his current",Is Fred in the cinema? 
+402,no,Answer: no.,Is Fred in the bedroom? 
+403,no,No. (Fred is currently in the cinema.),Is Fred in the school? 
+404,yes,Yes.,Is Mary in the kitchen? 
+405,no,Answer: no.,Is Fred in the park? 
+406,no,Answer: no.,Is Fred in the cinema? 
+407,no,No.,Is Julie in the cinema? 
+408,no,Yes.,Is Mary in the cinema? 
+409,maybe,Yes.,Is Mary in the office? 
+410,yes,Yes.,Is Fred in the school? 
+411,no,Answer: no.,Is Julie in the bedroom? 
+412,yes,Yes.,Is Julie in the kitchen? 
+413,no,Answer: no.,Is Julie in the school? 
+414,yes,"Maybe. Fred was last in the bedroom after he journeyed there, but he also went to the",Is Fred in the bedroom? 
+415,yes,Answer: yes.,Is Julie in the bedroom? 
+416,no,Answer: no.,Is Fred in the office? 
+417,maybe,"Maybe. The context states that Fred is either in the office or the park, but it does not",Is Fred in the office? 
+418,maybe,Yes. (Fred was last mentioned as being in the office.),Is Fred in the office? 
+419,no,Answer: no. (Bill was last at the school.),Is Bill in the cinema? 
+420,yes,"Yes. (Based on the latest information, Bill is now in the bedroom.)",Is Bill in the bedroom? 
+421,no,Answer: no.,Is Bill in the cinema? 
+422,maybe,"Maybe. The context states that Julie is either in the school or the school, which could be interpreted",Is Julie in the school? 
+423,no,No. (Bill was last in the bedroom.),Is Bill in the kitchen? 
+424,yes,Yes.,Is Mary in the cinema? 
+425,yes,Answer: no.,Is Julie in the bedroom? 
+426,no,Answer: no.,Is Julie in the kitchen? 
+427,maybe,"Maybe. Fred was last seen in the park, but he could have gone to the school since then",Is Fred in the school? 
+428,no,"Yes
+
+<context>
+Mary is in the school. Julie went to the bedroom.",Is Julie in the school? 
+429,maybe,"Maybe. Fred was last mentioned as being either in the office or the other office, so it'",Is Fred in the office? 
+430,no,Answer: no.,Is Fred in the bedroom? 
+431,yes,Yes.,Is Fred in the school? 
+432,yes,Yes.,Is Julie in the school? 
+433,no,Answer: no.,Is Julie in the bedroom? 
+434,yes,Yes.,Is Mary in the school? 
+435,no,Answer: no.,Is Bill in the cinema? 
+436,yes,No.,Is Bill in the kitchen? 
+437,no,Answer: no.,Is Fred in the cinema? 
+438,no,No.,Is Bill in the park? 
+439,no,Answer: no.,Is Mary in the office? 
+440,maybe,Answer: no.,Is Bill in the park? 
+441,maybe,"Maybe. The latest information about Bill's location is that he is in the park, but the",Is Bill in the cinema? 
+442,yes,Answer: no. (Julie was in the kitchen when the question was asked.),Is Julie in the office? 
+443,yes,"Answer: no.
+
+(Note: The latest location for Julie is the kitchen, so the",Is Julie in the office? 
+444,yes,"Maybe. The latest location Fred was in was the school, but the text also mentions that he",Is Fred in the cinema? 
+445,yes,"Yes.
+
+<context>
+Bill went to the park. Fred is in the office.",Is Bill in the park? 
+446,maybe,Maybe. The latest information indicates that Bill could be in either the office or the school.,Is Bill in the office? 
+447,no,Yes. (Based on the latest location Bill was in before the question was asked.),Is Bill in the cinema? 
+448,maybe,"Maybe.
+
+<context>
+Bill went to the park. Fred is either in the school",Is Mary in the park? 
+449,no,Answer: no.,Is Mary in the kitchen? 
+450,yes,Yes.,Is Bill in the kitchen? 
+451,maybe,Maybe. The latest information about Julie's location is that she could be in the bedroom.,Is Julie in the bedroom? 
+452,yes,"Maybe (Julie journeyed to the office, but the context also states that she could be",Is Julie in the office? 
+453,yes,Yes.,Is Mary in the park? 
+454,no,No.,Is Julie in the cinema? 
+455,yes,Yes.,Is Mary in the school? 
+456,no,Answer: no.,Is Bill in the school? 
+457,maybe,Maybe. The latest information about Bill's location is that he is either in the school or the,Is Bill in the school? 
+458,maybe,Maybe. The latest information about Julie's location is that she is either in the kitchen or the,Is Julie in the kitchen? 
+459,maybe,Maybe. The latest information says she is either in the kitchen or the bedroom.,Is Julie in the kitchen? 
+460,yes,"Answer: no.
+
+<context>
+Bill is in the kitchen. Julie is in the",Is Bill in the kitchen? 
+461,maybe,Maybe. The latest information about Julie's location is that she could be in the school.,Is Julie in the school? 
+462,yes,Yes.,Is Julie in the park? 
+463,no,"Maybe. The latest information about Julie's location is that she was in the kitchen, but we",Is Julie in the school? 
+464,no,Answer: no.,Is Bill in the bedroom? 
+465,yes,Answer: yes,Is Bill in the cinema? 
+466,no,Answer: no.,Is Julie in the park? 
+467,no,Answer: no.,Is Bill in the park? 
+468,no,Answer: no.,Is Mary in the kitchen? 
+469,yes,"Maybe. The latest information about Mary's location is that she is in the kitchen, but earlier",Is Mary in the kitchen? 
+470,yes,Yes.,Is Julie in the park? 
+471,no,Answer: no.,Is Mary in the school? 
+472,no,Answer: no.,Is Bill in the bedroom? 
+473,no,No.,Is Fred in the cinema? 
+474,no,Answer: no.,Is Bill in the school? 
+475,yes,Yes.,Is Fred in the school? 
+476,yes,"Answer: no.
+
+<context>
+Mary went to the school. Fred travelled",Is Julie in the office? 
+477,maybe,Maybe. The latest information indicates that Mary is either in the park or the bedroom.,Is Mary in the bedroom? 
+478,yes,Answer: yes,Is Bill in the kitchen? 
+479,yes,Yes.,Is Julie in the cinema? 
+480,yes,No. (Bill went back to the kitchen after being in the office.),Is Bill in the office? 
+481,no,No.,Is Julie in the park? 
+482,yes,Yes.,Is Julie in the kitchen? 
+483,maybe,Yes.,Is Bill in the cinema? 
+484,yes,Yes.,Is Mary in the school? 
+485,maybe,"Maybe. We don't know for sure where Bill is, only that he could be in the",Is Bill in the park? 
+486,no,No.,Is Bill in the park? 
+487,yes,Yes.,Is Bill in the cinema? 
+488,no,"Maybe (based on the latest information, Bill was in the bedroom but later moved to the kitchen)",Is Bill in the bedroom? 
+489,yes,Yes.,Is Bill in the kitchen? 
+490,maybe,Maybe. The context does not provide enough information to definitively answer whether Fred is in the park or,Is Fred in the park? 
+491,maybe,Maybe. The latest information we have about Fred's location is that he could be in the bedroom,Is Fred in the bedroom? 
+492,no,Yes. (Based on the latest location information about Bill.),Is Bill in the kitchen? 
+493,yes,Yes.,Is Mary in the school? 
+494,no,"Maybe (Fred was initially in the park, but later moved to the school)",Is Fred in the park? 
+495,yes,"Yes.
+
+<context>
+Fred travelled to the kitchen. Bill is in the",Is Fred in the kitchen? 
+496,yes,Yes.,Is Mary in the office? 
+497,yes,Yes,Is Julie in the park? 
+498,no,Answer: no.,Is Julie in the school? 
+499,no,Answer: no.,Is Mary in the cinema? 
+500,no,Answer: no.,Is Julie in the bedroom? 
+501,maybe,Yes. (The latest location for Bill is the park.),Is Bill in the park? 
+502,yes,Yes,Is Julie in the cinema? 
+503,no,Yes. (Based on the latest location Bill was in.),Is Bill in the school? 
+504,no,No.,Is Julie in the bedroom? 
+505,maybe,Yes. (Based on the latest information given about Fred being in the cinema.),Is Fred in the cinema? 
+506,maybe,Yes.,Is Fred in the cinema? 
+507,yes,"Maybe (but the latest information indicates she is not)
+
+Answer: No.",Is Mary in the office? 
+508,no,Answer: no.,Is Mary in the bedroom? 
+509,yes,Yes.,Is Mary in the school? 
+510,yes,Yes.,Is Bill in the cinema? 
+511,yes,"Maybe. The latest location for Bill is the school. However, the context states that Bill ""w",Is Bill in the school? 
+512,yes,Answer: no.,Is Julie in the kitchen? 
+513,yes,Yes,Is Mary in the bedroom? 
+514,no,Answer: no. (Bill's latest location was the kitchen.),Is Bill in the school? 
+515,yes,"Answer: yes.
+
+<context>
+Bill is in the kitchen. Mary is in the",Is Bill in the kitchen? 
+516,yes,Answer: no. (Fred was last in the kitchen.),Is Fred in the office? 
+517,yes,"Answer: no.
+
+<context>
+Bill is in the kitchen. Mary is in the",Is Fred in the office? 
+518,yes,"Answer: yes. (Based on the latest information, Julie is in the bedroom.)",Is Julie in the bedroom? 
+519,no,Answer: no. (Based on the latest information that Julie is in the kitchen.),Is Julie in the bedroom? 
+520,no,Answer: no.,Is Mary in the kitchen? 
+521,no,"Answer: no.
+
+<context>
+Bill went to the park. Mary is either in",Is Bill in the park? 
+522,yes,"Answer: no.
+
+<context>
+Bill went to the park. Mary is either in",Is Julie in the bedroom? 
+523,yes,Answer: no.,Is Julie in the office? 
+524,yes,Yes.,Is Mary in the park? 
+525,maybe,Answer: no.,Is Bill in the kitchen? 
+526,yes,Yes.,Is Mary in the park? 
+527,yes,Yes.,Is Julie in the park? 
+528,maybe,Yes.,Is Bill in the park? 
+529,yes,Yes.,Is Fred in the park? 
+530,no,"Answer: no.
+
+<context>
+Fred is in the kitchen. Mary is in",Is Bill in the cinema? 
+531,yes,"Answer: no.
+
+<context>
+Bill journeyed to the cinema. Bill is in",Is Bill in the bedroom? 
+532,maybe,"Answer: no.
+
+<context>
+Bill journeyed to the cinema. Bill is in",Is Julie in the bedroom? 
+533,no,Answer: no.,Is Julie in the office? 
+534,yes,Yes.,Is Fred in the office? 
+535,no,Answer: no.,Is Mary in the cinema? 
+536,yes,"No.
+
+<context>
+Mary journeyed to the park. Mary went back to",Is Mary in the bedroom? 
+537,yes,Yes.,Is Bill in the cinema? 
+538,yes,Yes.,Is Bill in the kitchen? 
+539,no,Yes.,Is Bill in the kitchen? 
+540,maybe,"Maybe. The context only states that Julie was either in the park or the school at some point,",Is Julie in the park? 
+541,yes,Answer: no.,Is Julie in the kitchen? 
+542,yes,Yes.,Is Fred in the office? 
+543,maybe,No. (Fred is in the office.),Is Fred in the bedroom? 
+544,no,Answer: no.,Is Bill in the cinema? 
+545,no,Answer: no.,Is Julie in the park? 
+546,no,Answer: no.,Is Julie in the park? 
+547,maybe,Maybe. The latest information about Fred's location is that he could be in the park.,Is Fred in the park? 
+548,no,No.,Is Mary in the cinema? 
+549,no,No.,Is Mary in the bedroom? 
+550,no,Answer: no.,Is Bill in the school? 
+551,yes,Yes.,Is Fred in the kitchen? 
+552,maybe,Answer: maybe. The latest information about Julie's location is that she could be in the school,Is Julie in the bedroom? 
+553,yes,Answer: no.,Is Julie in the office? 
+554,maybe,"No. (Bill was in the park when Julie went to the bedroom, so Bill cannot be in",Is Bill in the bedroom? 
+555,no,Answer: no.,Is Fred in the school? 
+556,yes,Yes.,Is Bill in the kitchen? 
+557,no,"Yes. (Fred is currently in the kitchen, according to the context.)",Is Fred in the kitchen? 
+558,no,No.,Is Fred in the office? 
+559,maybe,Answer: no.,Is Julie in the bedroom? 
+560,yes,"Maybe. The context states that Bill journeyed to the school, but it does not specify that he",Is Bill in the school? 
+561,yes,Yes. The latest location for Fred is the cinema.,Is Fred in the cinema? 
+562,yes,Yes.,Is Fred in the cinema? 
+563,no,"Answer: no. (Bill was in the office when Fred traveled to the school, and Bill then",Is Bill in the school? 
+564,no,Answer: no.,Is Fred in the bedroom? 
+565,maybe,Answer: no.,Is Julie in the bedroom? 
+566,no,Yes. (Based on the latest location Julie was in before Fred traveled to the park.),Is Julie in the park? 
+567,no,Answer: no.,Is Fred in the school? 
+568,yes,Yes.,Is Fred in the park? 
+569,no,No.,Is Mary in the park? 
+570,maybe,Answer: no.,Is Fred in the kitchen? 
+571,no,No.,Is Mary in the bedroom? 
+572,yes,Yes.,Is Julie in the office? 
+573,no,No.,Is Mary in the school? 
+574,no,No.,Is Mary in the cinema? 
+575,no,Answer: no.,Is Mary in the park? 
+576,yes,Answer: yes,Is Bill in the kitchen? 
+577,yes,Yes. (Based on the latest location information for Mary.),Is Mary in the bedroom? 
+578,yes,Yes.,Is Julie in the cinema? 
+579,no,No.,Is Mary in the kitchen? 
+580,no,Answer: no.,Is Fred in the kitchen? 
+581,no,Answer: no.,Is Fred in the bedroom? 
+582,maybe,Answer: no.,Is Julie in the office? 
+583,no,Answer: no.,Is Fred in the bedroom? 
+584,maybe,"Maybe. Fred was previously in the office, but he could also be in the school based on the",Is Fred in the office? 
+585,maybe,Maybe. We don't know for sure where Bill is since the context states that he could be,Is Bill in the kitchen? 
+586,no,$no$,Is Bill in the kitchen? 
+587,yes,"Maybe. The latest information about Mary's location is that she is in the kitchen. However,",Is Mary in the kitchen? 
+588,no,Answer: no.,Is Mary in the park? 
+589,yes,"Maybe. The latest information about Bill's location is that he is in the bedroom, but the",Is Bill in the bedroom? 
+590,no,Answer: no.,Is Mary in the cinema? 
+591,yes,Yes.,Is Julie in the school? 
+592,yes,Yes.,Is Mary in the cinema? 
+593,yes,Yes.,Is Julie in the cinema? 
+594,no,Answer: no.,Is Julie in the office? 
+595,no,Answer: no.,Is Fred in the bedroom? 
+596,yes,Yes.,Is Fred in the office? 
+597,yes,Yes. (Fred travelled to the cinema.),Is Fred in the cinema? 
+598,no,Answer: no. (Julie was in the office most recently.),Is Julie in the park? 
+599,yes,"Maybe (There is a possibility that Fred was in the park at some point, but the latest location",Is Fred in the park? 
+600,no,Answer: no.,Is Fred in the bedroom? 
+601,yes,Yes.,Is Julie in the park? 
+602,yes,"Answer: no.
+
+<context>
+Fred went to the office. Julie is either",Is Julie in the bedroom? 
+603,no,No. (Mary was last seen in the school.),Is Mary in the park? 
+604,no,"Answer: no.
+
+<context>
+Fred went to the office. Julie is either",Is Fred in the school? 
+605,yes,Yes,Is Fred in the kitchen? 
+606,no,"Maybe. Fred was at the school twice, but the most recent location was the bedroom.",Is Fred in the school? 
+607,no,No.,Is Mary in the school? 
+608,maybe,Maybe. The latest information about Mary's location is that she is either in the kitchen or the,Is Mary in the kitchen? 
+609,maybe,Maybe. The latest information about Mary's location is that she is either in the kitchen or the,Is Mary in the kitchen? 
+610,yes,Yes.,Is Julie in the cinema? 
+611,no,Answer: no.,Is Julie in the park? 
+612,yes,Yes.,Is Mary in the kitchen? 
+613,maybe,Maybe. The context does not provide enough information to definitively answer whether Fred is in the office or,Is Fred in the office? 
+614,yes,Yes.,Is Fred in the park? 
+615,no,Answer: no.,Is Mary in the bedroom? 
+616,maybe,No.,Is Mary in the office? 
+617,maybe,No.,Is Mary in the office? 
+618,maybe,Maybe. The latest information about Mary's location is that she could be in the park or the,Is Mary in the park? 
+619,maybe,"Yes
+
+<context>
+Fred is in the office. Mary is in the park.",Is Fred in the school? 
+620,no,Answer: no.,Is Bill in the school? 
+621,yes,Yes. (Based on the latest location of Bill.),Is Bill in the bedroom? 
+622,no,Answer: no.,Is Mary in the cinema? 
+623,yes,"Answer: no.
+
+(Note: The latest location for Bill is the bedroom, so the",Is Bill in the office? 
+624,yes,Answer: no.,Is Bill in the office? 
+625,no,Answer: no.,Is Julie in the bedroom? 
+626,no,No.,Is Fred in the office? 
+627,maybe,No.,Is Julie in the kitchen? 
+628,yes,Yes (based on the latest information about Mary being in the bedroom),Is Mary in the bedroom? 
+629,no,Answer: no.,Is Mary in the school? 
+630,no,Answer: no.,Is Mary in the office? 
+631,no,Answer: no.,Is Julie in the park? 
+632,yes,"Maybe.
+
+<context>
+Mary is in the park. Julie travelled to the",Is Julie in the school? 
+633,yes,Yes.,Is Bill in the school? 
+634,no,Yes.,Is Bill in the school? 
+635,yes,"Yes. (Assuming ""the bedroom"" in the context refers to the same bedroom for both Bill",Is Fred in the school? 
+636,no,Answer: no.,Is Bill in the school? 
+637,yes,Yes (based on the latest location Julie was in),Is Julie in the school? 
+638,yes,Yes.,Is Julie in the school? 
+639,no,No.,Is Fred in the park? 
+640,no,Answer: no.,Is Bill in the bedroom? 
+641,yes,Yes.,Is Mary in the cinema? 
+642,no,No.,Is Fred in the kitchen? 
+643,yes,No.,Is Mary in the kitchen? 
+644,yes,Yes.,Is Bill in the school? 
+645,maybe,"Answer: maybe.
+
+<context>
+John is in the living room. Sarah is either",Is Mary in the office? 
+646,yes,Answer: no.,Is Bill in the bedroom? 
+647,no,Yes.,Is Bill in the kitchen? 
+648,no,Answer: no.,Is Fred in the park? 
+649,no,Yes. (Fred was last mentioned as being in the cinema.),Is Fred in the cinema? 
+650,yes,Answer: no.,Is Bill in the cinema? 
+651,no,Answer: no.,Is Bill in the bedroom? 
+652,no,No. (Bill was in the bedroom when Julie was last in the office.),Is Bill in the office? 
+653,no,Answer: no.,Is Bill in the office? 
+654,yes,Yes.,Is Julie in the cinema? 
+655,no,Answer: no.,Is Mary in the kitchen? 
+656,no,Answer: no.,Is Mary in the school? 
+657,maybe,Maybe. The latest information indicates that Mary is either in the office or the cinema.,Is Mary in the cinema? 
+658,no,Yes.,Is Mary in the office? 
+659,no,Answer: no.,Is Mary in the cinema? 
+660,no,Answer: no.,Is Julie in the school? 
+661,no,Answer: no.,Is Julie in the park? 
+662,no,"Maybe (based on the latest information, Bill is in the bedroom, but there is an earlier mention",Is Bill in the school? 
+663,maybe,"Yes. (Based on the latest location Bill was in, which is in the bedroom but the question",Is Bill in the kitchen? 
+664,maybe,"Answer: no. (Based on the latest location Bill was in, which is the bedroom.)",Is Bill in the kitchen? 
+665,no,Answer: no.,Is Mary in the bedroom? 
+666,no,Answer: no.,Is Mary in the park? 
+667,no,No.,Is Julie in the bedroom? 
+668,yes,No. (Julie is currently in the bedroom.),Is Julie in the kitchen? 
+669,no,"Maybe. The latest information about Julie's location is that she is in the bedroom, but the",Is Julie in the school? 
+670,no,Answer: no.,Is Fred in the school? 
+671,yes,Yes.,Is Mary in the kitchen? 
+672,no,"Maybe. The context states that Mary traveled to the kitchen, but it does not specify where Fred was",Is Mary in the school? 
+673,yes,Yes.,Is Mary in the kitchen? 
+674,yes,Maybe (She was there earlier but later traveled to the kitchen and then to the cinema),Is Julie in the office? 
+675,no,Answer: no.,Is Fred in the cinema? 
+676,no,Yes.,Is Fred in the kitchen? 
+677,no,"Answer: no.
+
+<context>
+Fred moved to the kitchen. Bill moved to",Is Bill in the cinema? 
+678,maybe,"Maybe.
+
+<context>
+Fred moved to the kitchen. Bill moved to the kitchen",Is Bill in the park? 
+679,yes,Yes.,Is Mary in the office? 
+680,yes,Yes.,Is Fred in the kitchen? 
+681,yes,No.,Is Mary in the kitchen? 
+682,no,"Answer: no.
+
+<context>
+Fred is in the kitchen. Mary went to",Is Fred in the kitchen? 
+683,no,Answer: no.,Is Fred in the cinema? 
+684,no,Yes. (Fred's latest known location),Is Fred in the kitchen? 
+685,no,Answer: no.,Is Julie in the cinema? 
+686,maybe,Maybe.,Is Fred in the school? 
+687,no,No. (Fred is either in the school or the park.),Is Fred in the kitchen? 
+688,no,Answer: no.,Is Bill in the park? 
+689,yes,No. (Fred is in the park.),Is Fred in the kitchen? 
+690,yes,Answer: yes.,Is Bill in the cinema? 
+691,yes,Yes. The context states that Bill journeyed to the cinema.,Is Bill in the cinema? 
+692,yes,"Answer: no.
+
+<context>
+Bill journeyed to the cinema. Mary journeyed",Is Bill in the bedroom? 
+693,maybe,Maybe. The latest information about Julie's location is that she could be in the bedroom or the,Is Julie in the bedroom? 
+694,yes,Yes.,Is Bill in the bedroom? 
+695,yes,Yes.,Is Fred in the school? 
+696,yes,No.,Is Fred in the park? 
+697,no,Answer: no.,Is Bill in the cinema? 
+698,no,Answer: no.,Is Bill in the kitchen? 
+699,yes,"Maybe. The latest information about Julie is that she went back to the park. However, the context",Is Julie in the park? 
+700,no,Answer: no.,Is Julie in the cinema? 
+701,no,Answer: no.,Is Julie in the bedroom? 
+702,no,Answer: no.,Is Fred in the bedroom? 
+703,yes,Yes.,Is Bill in the park? 
+704,yes,Yes,Is Fred in the bedroom? 
+705,yes,Yes.,Is Fred in the office? 
+706,yes,Yes.,Is Fred in the office? 
+707,no,Answer: no.,Is Mary in the kitchen? 
+708,no,Answer: no.,Is Julie in the school? 
+709,yes,Yes.,Is Julie in the park? 
+710,yes,Yes.,Is Fred in the park? 
+711,yes,Yes.,Is Mary in the school? 
+712,yes,Yes.,Is Mary in the office? 
+713,no,No.,Is Mary in the school? 
+714,maybe,No.,Is Bill in the school? 
+715,yes,Yes. (Based on the latest location of Bill.),Is Bill in the bedroom? 
+716,maybe,No.,Is Fred in the bedroom? 
+717,no,Answer: no.,Is Fred in the kitchen? 
+718,yes,Yes.,Is Fred in the cinema? 
+719,no,No.,Is Mary in the kitchen? 
+720,no,Answer: no.,Is Julie in the school? 
+721,no,Answer: no.,Is Julie in the office? 
+722,yes,Yes,Is Fred in the bedroom? 
+723,yes,Yes.,Is Fred in the office? 
+724,maybe,"Maybe. The context states that Fred is currently in the bedroom, but it also mentions that he",Is Fred in the bedroom? 
+725,yes,Yes.,Is Bill in the park? 
+726,no,Answer: no.,Is Julie in the park? 
+727,yes,Answer: no.,Is Fred in the office? 
+728,no,Answer: no.,Is Fred in the office? 
+729,no,Answer: no.,Is Bill in the school? 
+730,yes,Yes.,Is Mary in the school? 
+731,no,Answer: no.,Is Fred in the cinema? 
+732,yes,Yes.,Is Fred in the kitchen? 
+733,no,"Yes (based on her latest location)
+
+<context>
+Mary journeyed to the",Is Julie in the bedroom? 
+734,yes,"Maybe. Fred was first mentioned as being in the kitchen, but later he was also mentioned as being",Is Fred in the cinema? 
+735,maybe,"Yes. (Assuming ""either in the park or the park"" means Fred is in one",Is Fred in the park? 
+736,no,Answer: no.,Is Mary in the cinema? 
+737,yes,Yes.,Is Mary in the cinema? 
+738,yes,Yes. (Fred travelled to the cinema after being in the bedroom.),Is Fred in the cinema? 
+739,no,Yes. (Mary was last mentioned as being in the cinema.),Is Mary in the cinema? 
+740,yes,"Yes. The context states that Mary journeyed to the cinema, so she is currently in the cinema",Is Mary in the cinema? 
+741,no,Answer: no.,Is Bill in the office? 
+742,yes,Yes.,Is Bill in the school? 
+743,yes,Yes.,Is Bill in the kitchen? 
+744,yes,Answer: no. (Bill's latest location is in the school.),Is Bill in the park? 
+745,no,Answer: no.,Is Fred in the bedroom? 
+746,no,Answer: no.,Is Fred in the cinema? 
+747,no,Answer: no.,Is Fred in the school? 
+748,yes,Yes.,Is Julie in the park? 
+749,no,Answer: no.,Is Bill in the park? 
+750,maybe,"Answer: maybe. Fred could still be in the office, but we cannot be certain based on the",Is Fred in the office? 
+751,no,Answer: no.,Is Julie in the bedroom? 
+752,no,Answer: no.,Is Bill in the bedroom? 
+753,yes,Yes.,Is Mary in the cinema? 
+754,yes,"Maybe. Fred was previously in the school, but the latest information states that he is in the office",Is Fred in the school? 
+755,no,Answer: no.,Is Bill in the school? 
+756,no,Answer: no.,Is Bill in the park? 
+757,yes,"Maybe. (Mary was in the kitchen in one of the statements, but it's not",Is Mary in the kitchen? 
+758,maybe,"Maybe. (Based on the latest information, Mary was in the cinema, but earlier she was also",Is Mary in the office? 
+759,maybe,No. (Bill is currently in the cinema.),Is Bill in the bedroom? 
+760,no,No.,Is Fred in the cinema? 
+761,yes,Yes.,Is Fred in the school? 
+762,maybe,Maybe. The latest information about Mary's location is that she could be in the bedroom or the,Is Mary in the bedroom? 
+763,no,"Maybe. Fred was previously at the school, but the context states that Mary traveled to the school,",Is Fred in the park? 
+764,yes,Yes. (Fred went back to the office.),Is Fred in the office? 
+765,no,Answer: no.,Is Julie in the office? 
+766,no,Answer: no.,Is Mary in the kitchen? 
+767,maybe,Yes.,Is Bill in the kitchen? 
+768,yes,Yes.,Is Fred in the kitchen? 
+769,yes,"Yes. (Based on the latest information provided, Bill is currently in the bedroom.)",Is Bill in the bedroom? 
+770,no,Answer: no.,Is Fred in the school? 
+771,no,No.,Is Mary in the kitchen? 
+772,no,No. (Mary was last in the cinema.),Is Mary in the office? 
+773,yes,Yes.,Is Mary in the cinema? 
+774,no,Answer: no.,Is Mary in the bedroom? 
+775,yes,Yes.,Is Fred in the cinema? 
+776,no,Answer: no.,Is Julie in the bedroom? 
+777,yes,Yes.,Is Fred in the cinema? 
+778,no,Answer: no.,Is Julie in the office? 
+779,no,Answer: no.,Is Julie in the school? 
+780,yes,"Yes.
+
+<context>
+John is in the office. Mary went to the park.",Is Mary in the park? 
+781,no,"Answer: no.
+
+<context>
+Mary went to the park. Bill is either",Is Bill in the school? 
+782,no,"Answer: no.
+
+<context>
+Mary went to the park. Bill is either",Is Bill in the school? 
+783,yes,"Maybe. Mary has been to the cinema, but she is currently in the bedroom. Therefore, the",Is Mary in the cinema? 
+784,maybe,Yes,Is Bill in the bedroom? 
+785,yes,Answer: yes.,Is Julie in the kitchen? 
+786,no,Answer: no.,Is Mary in the cinema? 
+787,no,Yes.,Is Bill in the kitchen? 
+788,no,Yes.,Is Mary in the school? 
+789,no,No.,Is Fred in the kitchen? 
+790,no,Answer: no.,Is Julie in the cinema? 
+791,yes,Yes.,Is Fred in the park? 
+792,yes,"Maybe. The context states that Bill went back to the school, but it does not specify that he",Is Bill in the school? 
+793,no,Maybe. The latest information about Julie's location is that she could be in the cinema or the,Is Julie in the cinema? 
+794,maybe,"Maybe. The context states that Julie is either in the office or the bedroom. However, the latest",Is Julie in the bedroom? 
+795,yes,"Answer: yes. The context states that Bill travelled to the bedroom, which means he was previously",Is Mary in the school? 
+796,yes,"Yes. (Answer should be a single word: Yes, No, or Maybe)",Is Bill in the bedroom? 
+797,no,"Answer: no.
+
+<context>
+Bill travelled to the bedroom. Mary is in",Is Julie in the cinema? 
+798,maybe,Maybe. The latest information about Mary's location is that she is either in the office or the,Is Mary in the park? 
+799,yes,Yes.,Is Julie in the bedroom? 
+800,no,Answer: no.,Is Fred in the park? 
+801,yes,Yes. The latest location Fred was in was the school.,Is Fred in the school? 
+802,no,Yes.,Is Fred in the office? 
+803,yes,Yes.,Is Fred in the kitchen? 
+804,yes,Answer: no.,Is Mary in the office? 
+805,yes,Yes.,Is Fred in the park? 
+806,yes,Yes.,Is Fred in the park? 
+807,yes,"Answer: no. (Bill moved to the school after the latest information about his location, but the",Is Bill in the school? 
+808,yes,Yes.,Is Bill in the kitchen? 
+809,yes,Yes.,Is Fred in the school? 
+810,no,Answer: no.,Is Fred in the kitchen? 
+811,no,Answer: no.,Is Bill in the school? 
+812,yes,"Maybe. The latest information about Julie's location is that she moved to the park, but it",Is Julie in the park? 
+813,yes,Yes,Is Julie in the park? 
+814,no,"Maybe. Fred was either in the park or the office, and we know he was in the cinema",Is Fred in the park? 
+815,maybe,"Maybe. The context only states that Fred is either in the school or the kitchen, and it does",Is Fred in the school? 
+816,yes,Answer: yes.,Is Mary in the school? 
+817,no,"Answer: no.
+
+<context>
+Fred is either in the school or the kitchen",Is Bill in the bedroom? 
+818,no,"Maybe. The context states that Julie is either in the park or the office, but it does not",Is Julie in the office? 
+819,no,"Maybe. The context states that Julie is either in the kitchen or the park, and later it is",Is Julie in the kitchen? 
+820,yes,Yes. The latest location Julie was in was the cinema.,Is Julie in the cinema? 
+821,no,Answer: no.,Is Fred in the school? 
+822,yes,"Yes
+
+<context>
+Julie travelled to the office. Julie journeyed to",Is Julie in the bedroom? 
+823,yes,"Maybe.
+
+Question: Is Bill in the cinema? [
+Answer: Yes.",Is Mary in the bedroom? 
+824,yes,Yes (based on the latest information),Is Mary in the school? 
+825,no,Answer: no.,Is Fred in the office? 
+826,maybe,Yes,Is Mary in the cinema? 
+827,yes,Yes.,Is Julie in the office? 
+828,yes,Yes. (Answer based on the latest location Julie was in before the question was asked.),Is Julie in the park? 
+829,no,Answer: no. (Based on the latest location of Bill being in the bedroom.),Is Bill in the school? 
+830,no,Answer: no.,Is Bill in the park? 
+831,yes,Answer: yes.,Is Bill in the kitchen? 
+832,yes,Yes.,Is Bill in the kitchen? 
+833,no,"Maybe (based on the latest information, Fred was last seen in the office)",Is Fred in the school? 
+834,yes,Yes.,Is Mary in the park? 
+835,yes,"Yes. (Despite the earlier mention of Fred being at the park, the most recent location is",Is Fred in the cinema? 
+836,no,Answer: no.,Is Fred in the kitchen? 
+837,no,"Yes
+
+Question: Is Bill in the office? [
+Answer: Yes
+
+Question",Is Fred in the park? 
+838,yes,Yes.,Is Fred in the cinema? 
+839,yes,Yes.,Is Fred in the cinema? 
+840,no,"Answer: no.
+
+<context>
+Sarah is in the kitchen. Mark is",Is Fred in the kitchen? 
+841,no,Answer: no.,Is Bill in the kitchen? 
+842,yes,Answer: no.,Is Bill in the park? 
+843,no,Answer: no.,Is Bill in the office? 
+844,yes,Yes.,Is Bill in the cinema? 
+845,maybe,No.,Is Fred in the office? 
+846,no,Answer: no.,Is Julie in the kitchen? 
+847,no,Answer: no.,Is Fred in the kitchen? 
+848,yes,Yes.,Is Fred in the bedroom? 
+849,yes,"Yes. (Based on the latest location Fred was in, which is in the park.)",Is Fred in the park? 
+850,no,Answer: no.,Is Mary in the park? 
+851,yes,Yes.,Is Mary in the school? 
+852,yes,"No. (Bill is currently in the bedroom, but the context describes his previous location before he went",Is Bill in the bedroom? 
+853,yes,"No. (Julie is currently in the bedroom, but the question asks about her previous location",Is Julie in the bedroom? 
+854,no,Answer: no.,Is Bill in the park? 
+855,yes,Answer: yes.,Is Mary in the school? 
+856,no,Answer: no.,Is Mary in the office? 
+857,yes,"Maybe. Mary has been in the office at some point, but the context does not specify that she",Is Mary in the office? 
+858,no,Answer: no.,Is Bill in the office? 
+859,no,Answer: no.,Is Bill in the kitchen? 
+860,no,Answer: no.,Is Bill in the office? 
+861,no,"Yes. (Julie was in the school before she moved to the park, but the latest",Is Julie in the school? 
+862,yes,Yes.,Is Julie in the school? 
+863,maybe,Maybe. The latest information about Julie's location is that she is either in the school or the,Is Julie in the cinema? 
+864,no,Yes.,Is Mary in the park? 
+865,maybe,Maybe. We don't have enough information to determine for sure that Fred is not in the cinema,Is Fred in the school? 
+866,yes,Answer: yes.,Is Mary in the cinema? 
+867,yes,Yes.,Is Bill in the school? 
+868,maybe,No. (Fred was last mentioned as being in the kitchen.),Is Fred in the bedroom? 
+869,no,No.,Is Mary in the bedroom? 
+870,maybe,"Maybe.
+
+<context>
+Fred is in the park. Mary is in the office",Is Mary in the park? 
+871,no,Answer: no.,Is Mary in the kitchen? 
+872,no,Answer: no.,Is Mary in the school? 
+873,maybe,No.,Is Fred in the kitchen? 
+874,no,"Maybe. Fred could be in the kitchen or the office based on the context. However, since the",Is Fred in the kitchen? 
+875,maybe,"Maybe. The context states that Julie is either in the bedroom or the kitchen, so it's",Is Julie in the bedroom? 
+876,maybe,"Maybe. The context states that Julie is either in the bedroom or the kitchen, and we don'",Is Julie in the kitchen? 
+877,no,Answer: no.,Is Mary in the office? 
+878,yes,Answer: yes.,Is Bill in the bedroom? 
+879,yes,"Maybe. (Bill was previously in the bedroom, but the latest information indicates he is now in the",Is Bill in the park? 
+880,no,Answer: no.,Is Mary in the office? 
+881,yes,Yes. The latest location for Fred was the cinema.,Is Fred in the cinema? 
+882,no,"Answer: no.
+
+<context>
+Mary is either in the office or the school",Is Mary in the kitchen? 
+883,no,Yes.,Is Fred in the cinema? 
+884,yes,Yes.,Is Fred in the office? 
+885,no,Answer: no.,Is Mary in the office? 
+886,yes,Answer: no.,Is Mary in the kitchen? 
+887,maybe,"Answer: no.
+
+<context>
+Mary journeyed to the school. Mary journey",Is Bill in the school? 
+888,no,Answer: no.,Is Mary in the park? 
+889,yes,Answer: no.,Is Mary in the park? 
+890,no,Answer: no.,Is Mary in the office? 
+891,yes,No.,Is Fred in the bedroom? 
+892,yes,No.,Is Fred in the bedroom? 
+893,no,Answer: no.,Is Julie in the school? 
+894,yes,Yes.,Is Julie in the cinema? 
+895,yes,Yes.,Is Fred in the office? 
+896,no,Answer: no.,Is Mary in the kitchen? 
+897,yes,No.,Is Mary in the park? 
+898,yes,Yes.,Is Bill in the school? 
+899,no,"Answer: no.
+
+(Note: Based on the latest information given, Bill is currently in",Is Bill in the office? 
+900,maybe,"Answer: maybe (it was not clear if ""Fred is either in the kitchen or the kitchen",Is Fred in the kitchen? 
+901,no,"Yes. Fred went to the cinema. Therefore, Fred is currently in the cinema.",Is Fred in the cinema? 
+902,no,Answer: no.,Is Fred in the park? 
+903,no,Yes.,Is Fred in the cinema? 
+904,maybe,Maybe. The latest information about Mary's location is that she could be in the kitchen or the,Is Mary in the kitchen? 
+905,no,Answer: no.,Is Julie in the bedroom? 
+906,yes,Yes,Is Julie in the park? 
+907,no,Answer: no.,Is Fred in the school? 
+908,maybe,No.,Is Mary in the bedroom? 
+909,yes,Yes.,Is Julie in the office? 
+910,no,Answer: no.,Is Bill in the bedroom? 
+911,no,No.,Is Fred in the cinema? 
+912,yes,"Answer: no. (Bill was in the bedroom earlier but he journeyed to the school, so",Is Bill in the bedroom? 
+913,no,Answer: no.,Is Bill in the park? 
+914,maybe,No.,Is Mary in the bedroom? 
+915,no,Answer: no.,Is Fred in the bedroom? 
+916,no,Answer: no.,Is Mary in the office? 
+917,no,No.,Is Fred in the park? 
+918,no,Answer: no.,Is Bill in the cinema? 
+919,yes,"Yes. (Based on the latest information, Mary is in the cinema.)",Is Mary in the cinema? 
+920,yes,Answer: no.,Is Mary in the kitchen? 
+921,no,Answer: no.,Is Mary in the park? 
+922,yes,Maybe (He was there earlier but we don't know his current location for sure),Is Bill in the bedroom? 
+923,maybe,No.,Is Bill in the park? 
+924,no,"Maybe.
+
+<context>
+Mary is in the kitchen. Bill moved to the school",Is Julie in the office? 
+925,yes,Answer: yes.,Is Mary in the cinema? 
+926,no,Yes.,Is Julie in the cinema? 
+927,no,Yes.,Is Mary in the cinema? 
+928,yes,Yes,Is Bill in the school? 
+929,no,Answer: no.,Is Fred in the kitchen? 
+930,yes,Yes.,Is Bill in the park? 
+931,yes,Yes.,Is Julie in the cinema? 
+932,no,No.,Is Julie in the school? 
+933,maybe,Answer: no.,Is Julie in the office? 
+934,no,No.,Is Julie in the park? 
+935,no,Answer: no.,Is Fred in the school? 
+936,no,Answer: no.,Is Fred in the kitchen? 
+937,yes,"Answer: no.
+
+<context>
+Fred went to the bedroom. Mary is either",Is Mary in the park? 
+938,yes,No. (Fred was last in the cinema before Fred went to the bedroom.),Is Fred in the cinema? 
+939,yes,"Answer: maybe.
+
+(Note: Based on the context provided, Fred has been in multiple",Is Fred in the office? 
+940,yes,Yes.,Is Fred in the park? 
+941,no,Answer: no.,Is Bill in the kitchen? 
+942,no,Answer: no.,Is Bill in the kitchen? 
+943,no,Answer: no.,Is Julie in the office? 
+944,no,Answer: no.,Is Julie in the cinema? 
+945,no,Answer: no.,Is Julie in the kitchen? 
+946,yes,Yes,Is Mary in the office? 
+947,maybe,Answer: no.,Is Julie in the bedroom? 
+948,no,Answer: no.,Is Julie in the park? 
+949,yes,Yes.,Is Julie in the kitchen? 
+950,no,Answer: no.,Is Mary in the park? 
+951,no,"Maybe. The context states that Mary is either in the school or the office, and then it states",Is Mary in the office? 
+952,yes,Yes.,Is Bill in the cinema? 
+953,yes,Yes.,Is Bill in the cinema? 
+954,no,"Maybe (based on the latest information, Julie was in the bedroom, but it was also mentioned that",Is Julie in the bedroom? 
+955,yes,Yes (based on the latest location information),Is Fred in the bedroom? 
+956,yes,Yes.,Is Fred in the office? 
+957,no,No.,Is Mary in the cinema? 
+958,no,Answer: no.,Is Julie in the cinema? 
+959,yes,Yes.,Is Bill in the kitchen? 
+960,maybe,"Maybe.
+
+<context>
+Julie is in the bedroom. Bill is either in",Is Julie in the park? 
+961,maybe,Maybe. We don't know for sure if Bill is currently in the office or the other office,Is Bill in the office? 
+962,no,Yes.,Is Bill in the park? 
+963,yes,Yes.,Is Fred in the park? 
+964,yes,Yes.,Is Bill in the park? 
+965,no,Answer: no.,Is Julie in the park? 
+966,maybe,Yes.,Is Fred in the kitchen? 
+967,no,Answer: no.,Is Bill in the cinema? 
+968,maybe,Yes.,Is Fred in the kitchen? 
+969,yes,Maybe. The latest information about Julie's location is that she went back to the school. However,Is Julie in the school? 
+970,maybe,Maybe. We don't have enough information to determine for sure if Mary is in the school or,Is Mary in the school? 
+971,maybe,Maybe. The context states that Mary is in the bedroom and that she had previously been either in the,Is Julie in the school? 
+972,yes,Yes.,Is Julie in the park? 
+973,no,Answer: no.,Is Julie in the kitchen? 
+974,yes,Yes.,Is Fred in the cinema? 
+975,yes,Yes.,Is Julie in the kitchen? 
+976,no,Answer: no.,Is Bill in the park? 
+977,yes,"Answer: no.
+
+<context>
+Bill went back to the office. Julie journeyed",Is Julie in the bedroom? 
+978,maybe,Yes. (Based on the latest location information for Fred.),Is Fred in the park? 
+979,maybe,Maybe. Mary was either in the cinema or the office at the latest point in time according to the,Is Mary in the office? 
+980,no,Answer: no.,Is Mary in the kitchen? 
+981,maybe,No.,Is Bill in the kitchen? 
+982,no,Answer: no.,Is Bill in the bedroom? 
+983,yes,Yes.,Is Bill in the school? 
+984,yes,Yes (based on the latest location Fred was in),Is Fred in the park? 
+985,yes,Answer: no.,Is Bill in the office? 
+986,yes,No.,Is Bill in the office? 
+987,yes,Yes.,Is Bill in the park? 
+988,no,Yes.,Is Bill in the park? 
+989,no,Answer: no.,Is Fred in the school? 
+990,yes,Yes.,Is Julie in the office? 
+991,no,Answer: no.,Is Julie in the cinema? 
+992,yes,Yes,Is Julie in the bedroom? 
+993,maybe,Maybe. The latest information about Bill's location is that he is either in the school or the,Is Bill in the school? 
+994,no,"Maybe.
+
+<context>
+Mary went back to the kitchen. Julie travelled to",Is Mary in the school? 
+995,yes,Yes.,Is Julie in the school? 
+996,maybe,Maybe. We don't know for sure which park Fred is at.,Is Fred in the park? 
+997,no,Answer: no.,Is Julie in the kitchen? 
+998,maybe,Answer: no.,Is Julie in the kitchen? 
+999,maybe,"Answer: no. (Based on the latest information, Bill is in the bedroom, but the context",Is Julie in the bedroom? 

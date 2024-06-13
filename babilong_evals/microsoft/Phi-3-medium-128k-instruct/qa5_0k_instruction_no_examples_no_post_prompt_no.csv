@@ -1,0 +1,3762 @@
+Unnamed: 0,target,output,question
+0,football,"Answer: Fred gave the football to Jeff.
+
+Explanation: The context clearly states that Fred picked up",What did Fred give to Jeff? 
+1,Fred,"A) Fred
+B) Bill
+C) Jeff
+D) Not enough information
+
+Answer: A) Fred",Who gave the football to Jeff? 
+2,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: What did Jeff do",What did Fred give to Jeff? 
+3,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Sandra
+E: Sam",Who did Fred give the football to? 
+4,Fred,"Answer: Jeff gave the football to Fred.
+
+Explanation: The text states that ""Jeff gave",Who did Jeff give the football to? 
+5,Jeff,"Answer: Jeff gave the apple.
+
+Context: Mary went to the garden. Jeff went back to the bedroom",Who gave the apple? 
+6,Bill,"Answers: Bill
+
+Context: John moved to the garden. Mary moved to the bedroom. Mary found",Who received the apple? 
+7,apple,"Answers:
+
+
+### response ###
+
+Bill gave the apple to Fred.",What did Bill give to Fred? 
+8,apple,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred travel to",What did Bill give to Fred? 
+9,Fred,"Answers: Bill, Fred
+
+
+Story Context: John moved to the hallway. Jeff moved to the",Who received the apple? 
+10,Mary,"Answer: Mary received the milk.
+
+Follow-up Question 1: Where did Mary go after receiving",Who received the milk? 
+11,milk,"Answers:
+- The milk
+- The football
+- The apple
+- The bedroom
+- The",What did Mary give to Bill? 
+12,Bill,"Answer: Bill received the milk.
+
+Follow-up Question 1: Who gave the milk to Bill",Who received the milk? 
+13,Bill,"Answer: Mary gave the milk to Bill.
+
+Follow-up Question 1: Where did Mary pass",Who did Mary give the milk to? 
+14,milk,"Answer: Mary gave the milk to Bill.
+
+Follow-up Question 1: Where did Mary give",What did Mary give to Bill? 
+15,Jeff,"Answers:
+- Jeff
+- Bill
+- Fred
+- Mary
+
+[Response]: Jeff received the",Who received the football? 
+16,Fred,"A: Fred
+B: Mary
+C: Bill
+D: John
+E: Rob
+F: Sam",Who gave the football to Jeff? 
+17,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred and",What did Fred give to Jeff? 
+18,Jeff,"A: Fred
+B: Jeff
+C: Mary
+D: Bill
+E: Bob
+F: Sam",Who received the football? 
+19,Mary,"Answer: Mary gave the milk.
+
+Explanation: In the given context, Mary is the one who",Who gave the milk? 
+20,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Mary? 
+21,Mary,"Answer: Mary gave the milk to Jeff.
+
+Explanation: The text states that ""Mary passed",Who gave the milk to Jeff? 
+22,Mary,"Answer: Mary gave the milk to Jeff.
+
+Explanation: The text states that ""Mary passed",Who gave the milk to Jeff? 
+23,Bill,"Answer: Bill gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Bill",Who gave the apple to Jeff? 
+24,Jeff,"Answer: Jeff gave the apple.
+
+Explanation: The text states that ""Bill travelled to",Who gave the apple? 
+25,apple,"Answer: Jeff gave the apple to Fred.
+
+Context: Bill travelled to the garden. Jeff travelled to",What did Jeff give to Fred? 
+26,Fred,"Answer: Fred received the apple.
+
+Follow-up Question 1: Where did Fred receive the apple",Who received the apple? 
+27,Jeff,"Answer: Fred received the apple.
+
+Follow-up Question 1: Who discarded the milk?",Who received the apple? 
+28,Jeff,"Answer: Jeff gave the apple.
+
+Follow-up Question 1: Who did Jeff pass the apple",Who gave the apple? 
+29,Fred,"Answer: Jeff gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred disc",Who did Jeff give the apple to? 
+30,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Where did Mary get the",Who gave the milk? 
+31,Bill,"Answer: Bill gave the milk.
+
+
+Follow-up Question 1: Who picked up the apple",Who gave the milk? 
+32,Bill,"Answers:
+Bill
+Mary
+Fred
+Jeff
+
+Answer: Bill gave the milk",Who gave the milk to Mary? 
+33,milk,"Answer: Bill gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred pick",What did Bill give to Mary? 
+34,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Mary give to Fred? 
+35,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred pick up",Who did Fred give the milk to? 
+36,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred pick",Who did Fred give the milk to? 
+37,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+38,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+39,Fred,"Answer: Fred gave the apple.
+
+
+Follow-up Question 1: Where did Fred get the",Who gave the apple? 
+40,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Jeff journeyed to",Who gave the milk? 
+41,milk,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Fred? 
+42,Jeff,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Jeff passed the milk",Who gave the milk? 
+43,Fred,"Answer: Fred received the milk.
+
+Follow-up Question 1: Who discarded the milk?",Who received the milk? 
+44,Mary,"Answer: Mary gave the milk.
+
+Follow-up Question 1: Who discarded the milk?",Who gave the milk? 
+45,Bill,"Answer: Mary gave the milk to Bill.
+
+
+Reasoning: The text states ""Mary gra",Who did Mary give the milk to? 
+46,milk,"Answer: Mary gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Bill",What did Mary give to Bill? 
+47,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Who was in the kitchen",Who gave the milk? 
+48,Mary,"Answer: Bill gave the milk to Mary.
+
+Follow-up Question 1: Where did Bill get",Who did Bill give the milk to? 
+49,Bill,"Answer: Bill gave the milk to Mary.
+
+Explanation: In the given context, it is mentioned",Who gave the milk to Mary? 
+50,Mary,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where did Mary get the",Who gave the apple to Fred? 
+51,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Fred gave the apple to",Who gave the apple to Mary? 
+52,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Mary? 
+53,apple,"Answer: Mary gave the apple to Jeff.
+
+Follow-up Question 1: Where did Mary drop",What did Mary give to Jeff? 
+54,apple,"Answer: Mary gave the apple to Jeff.
+
+Follow-up Question 1: Where did Mary drop",What did Mary give to Jeff? 
+55,Fred,"Answers: Fred, Bill, Jeff, Mary, John
+
+Question: Where did Fred travel to?",Who received the football? 
+56,football,"Answer: Bill gave the football to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Bill give to Fred? 
+57,Bill,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Who took the apple?",Who gave the apple? 
+58,Bill,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary leave",Who did Mary give the apple to? 
+59,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill get",Who did Bill give the apple to? 
+60,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill pick",Who did Bill give the apple to? 
+61,Bill,"Answer: Bill gave the apple to Jeff.
+
+Explanation: The text states ""Bill gave the",Who gave the apple to Jeff? 
+62,Jeff,"Answer: Jeff gave the apple to Bill.
+
+
+Follow-up Question 1: Who was in",Who gave the apple to Bill? 
+63,Bill,"Answer: Bill received the apple.
+
+Explanation: The text mentions that ""Bill gave the apple",Who received the apple? 
+64,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Who took the football after",Who gave the milk? 
+65,Mary,"Answers: 
+- Mary
+- Fred
+- Jeff
+- Bill
+- Sam
+- Anne",Who gave the apple to Bill? 
+66,Bill,"Answer: Mary gave the apple to Bill.
+
+Context: Jeff went to the garden. Bill went back to the",Who did Mary give the apple to? 
+67,Mary,"Answer: Bill gave the apple to Mary.
+
+Context: Bill went to the bedroom. Fred went to",Who did Bill give the apple to? 
+68,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+69,Mary,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill and",Who did Bill give the apple to? 
+70,apple,"Answer: Fred gave the apple to Jeff.
+
+Context: Bill travelled to the bathroom. Jeff journeyed",What did Fred give to Jeff? 
+71,Jeff,"Answer: Jeff gave the football.
+
+Follow-up Question 1: Who picked up the apple after",Who gave the football? 
+72,Jeff,"Answer: Jeff gave the football.
+
+Explanation: The text states ""Jeff took the football there",Who gave the football? 
+73,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred pick up",What did Fred give to Bill? 
+74,apple,"Answer: Fred gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Bill? 
+75,Fred,"Answer: Fred gave the football.
+
+
+Following the context, Fred is the one who took the",Who gave the football? 
+76,Fred,"Answer: Fred gave the football.
+
+Fred took the football and then passed it to Mary. Therefore,",Who gave the football? 
+77,Mary,"Answer: Mary received the football.
+
+Explanation: The text states that ""Fred passed the football",Who received the football? 
+78,Mary,"Answer: Fred gave the football.
+
+Explanation: The text states that ""Fred passed the football",Who gave the football? 
+79,football,"Answers:
+
+
+### Response ###
+
+Mary gave the football to Fred. This is evident",What did Mary give to Fred? 
+80,milk,"Answer: Fred gave the milk to Jeff.
+
+
+Question: Where did Fred go after he left the football?",What did Fred give to Jeff? 
+81,milk,"Answer: Fred gave the milk to Jeff.
+
+
+Question: Where did Fred travel to after moving to the garden",What did Fred give to Jeff? 
+82,Fred,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred get the",Who did Jeff give the milk to? 
+83,milk,"Answer: Jeff gave the milk to Fred.
+
+
+Question: Where did Fred move after he left the football?",What did Jeff give to Fred? 
+84,Jeff,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred get the",Who gave the milk to Fred? 
+85,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: The man gave the kitten to the woman.",Who did Mary give the apple to? 
+86,Fred,"Answers: Fred, Bill
+
+Context: Mary went to the garden. Bill went to the garden. Bill",Who gave the apple to Mary? 
+87,Mary,Answer: The last person who gave the apple was Mary. She handed the apple to Jeff before she got the football,Who gave the apple? 
+88,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Explanation: The passage states that Mary handed the apple",Who did Mary give the apple to? 
+89,Jeff,"Answer: Jeff received the football.
+
+Explanation: The text states that ""Mary got the football",Who received the football? 
+90,football,"Answers:
+
+
+### Response ###
+
+Mary gave the football to Jeff. This is stated",What did Mary give to Jeff? 
+91,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who discarded the apple?",Who received the football? 
+92,Mary,"Answer: Mary gave the football.
+
+Follow-up Question 1: Who received the football from Mary",Who gave the football? 
+93,Jeff,"Answers: Jeff, Fred, Bill, Mary
+
+Question: Where did Fred travel to?
+Ans",Who did Mary give the football to? 
+94,Bill,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",Who did Fred give the apple to? 
+95,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Context: The apple was given to Mary by Jeff.",Who did Mary give the apple to? 
+96,Mary,"Answer: Mary gave the apple to Jeff.
+
+Context: Mary grabbed the apple there. Mary gave",Who gave the apple to Jeff? 
+97,apple,"A) The apple
+B) The bedroom
+C) The bathroom
+D) None of the above",What did Jeff give to Fred? 
+98,Fred,"Answer: Jeff gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred go",Who did Jeff give the apple to? 
+99,milk,"Answer: Bill gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Bill give to Mary? 
+100,Bill,"Answer: Mary gave the apple to Bill.
+
+Context: Jeff moved to the hallway. Jeff travelled to",Who did Mary give the apple to? 
+101,Bill,"Answer: Bill received the apple.
+
+Follow-up Question 1: Where did Bill put down the",Who received the apple? 
+102,Fred,"Answer: Mary gave the apple.
+
+
+Follow-up Question 1: Where did Mary pick up",Who gave the apple? 
+103,Bill,"Answer: Fred gave the apple.
+
+
+Follow-up Question 1: Who took the apple from",Who gave the apple? 
+104,apple,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+105,Jeff,"Answer: Jeff received the milk.
+
+Context: The following paragraphs each describe a set of seven objects arranged in",Who received the milk? 
+106,Mary,"Answer: Mary gave the milk.
+
+Context: Information:  - Jeff is in the hallway.",Who gave the milk? 
+107,Jeff,"Answer: Mary gave the milk to Jeff.
+
+Context: Information:  - Jeff is a boy who lives",Who did Mary give the milk to? 
+108,football,"Answer: Bill gave the football to Mary.
+
+
+Context: Mary grabbed the milk there. Mary gave",What did Bill give to Mary? 
+109,Mary,"Answer: Mary gave the football.
+
+
+Follow-up Question 1: Who received the football from",Who gave the football? 
+110,apple,"Answer: Jeff gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Mary? 
+111,apple,"Answer: Jeff gave the apple to Mary.
+
+Follow-up Question 1: Where did Jeff pick",What did Jeff give to Mary? 
+112,Mary,"Answer: Mary gave the apple.
+
+
+Follow-up Question 1: Who received the apple from",Who gave the apple? 
+113,Mary,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who received the apple from Mary",Who gave the apple? 
+114,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+115,Bill,"Answer: Bill gave the milk.
+
+
+Follow-up Question 1: Where did Bill grab the",Who gave the milk? 
+116,milk,"Answer: Mary gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Bill",What did Mary give to Bill? 
+117,Bill,"Answer: Mary gave the milk to Bill.
+
+Explanation: The text states, ""Mary gave",Who did Mary give the milk to? 
+118,milk,"Answer: Bill gave the milk to Mary.
+
+
+Question: Where did Mary travel to after discarding the apple",What did Bill give to Mary? 
+119,Mary,"Answer: Bill gave the milk to Mary.
+
+Follow-up Question 1: Where did Mary put",Who did Bill give the milk to? 
+120,milk,"A:
+
+A: The milk
+B: The football
+C: The apple
+D: The milk and",What did Mary give to Bill? 
+121,Mary,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+E: Daniel
+F: Alice",Who gave the milk? 
+122,Mary,"A: Bill
+B: Mary
+C: Jeff
+D: Fred
+E: George
+F: Anne",Who gave the milk? 
+123,Jeff,"A: Jeff
+B: Fred
+C: Mary
+D: Bill
+E: Sam
+F: George",Who did Bill give the football to? 
+124,Bill,"Answers:
+Bill
+Mary
+Fred
+Jeff
+
+Answer: Bill gave the football",Who gave the football to Jeff? 
+125,Jeff,"Answer: Jeff received the football.
+
+Follow-up Question 1: Where did Jeff take the football",Who received the football? 
+126,Jeff,"Answer: Jeff gave the football to Bill.
+
+Context: Mary journeyed to the garden. Fred took the apple",Who gave the football to Bill? 
+127,football,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff go",What did Jeff give to Bill? 
+128,football,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff go",What did Jeff give to Bill? 
+129,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Mary? 
+130,Bill,"Answer: Bill received the apple.
+
+Context: The apple was in the basket. Mary took the apple from",Who received the apple? 
+131,apple,"Answer: Mary gave the apple to Bill.
+
+Context: Mary got the apple there. Mary passed the apple",What did Mary give to Bill? 
+132,apple,"Answer: Mary gave the apple to Bill.
+
+Context: In the bedroom, John and Mary were talking",What did Mary give to Bill? 
+133,apple,"Answer: Jeff gave the apple to Mary.
+
+
+Context: Mary got the apple there. Mary passed the",What did Jeff give to Mary? 
+134,Fred,"A: Jeff
+B: Bill
+C: Fred
+D: Mary
+E: John
+F: Sam",Who gave the apple? 
+135,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Jeff? 
+136,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Jeff? 
+137,Jeff,"Answer: Jeff gave the football.
+
+Explanation: The text mentions that ""Jeff gave the football",Who gave the football? 
+138,Fred,"Answer: Jeff gave the football to Fred.
+
+Follow-up Question 1: Where did Fred grab",Who did Jeff give the football to? 
+139,football,"Answer: Fred gave the football to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+140,football,"Answer: Jeff gave the football to Mary.
+
+Follow-up Question 1: Where did Fred leave",What did Jeff give to Mary? 
+141,Mary,"Answer: Mary received the football.
+
+Explanation: The text states that ""Jeff handed the football",Who received the football? 
+142,football,"Answer: Mary gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred travel",What did Mary give to Jeff? 
+143,Jeff,"Answer: Jeff gave the football.
+
+Explanation: The text mentions that ""Jeff handed the football",Who gave the football? 
+144,Bill,"Answer: Bill received the apple.
+
+Explanation: The text states that ""Bill got the apple",Who received the apple? 
+145,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Sandra
+F: John",Who received the apple? 
+146,Fred,"A: Fred
+B: Jeff
+C: Mary
+D: Bill
+E: Sandra
+F: John",Who received the apple? 
+147,Mary,"Answer: Bill gave the football to Mary.
+
+
+Follow-up Question 1: Where did Mary",Who did Bill give the football to? 
+148,Bill,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary put",Who gave the football to Mary? 
+149,Fred,"Answer: Fred received the football.
+
+Explanation: The football was initially grabbed by Bill in",Who received the football? 
+150,Bill,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who initially had the apple?",Who received the apple? 
+151,Jeff,"Answer: Jeff gave the apple to Bill.
+
+Follow-up Question 1: Where did Jeff go after",Who gave the apple to Bill? 
+152,Bill,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who gave the apple to Jeff",Who received the apple? 
+153,Bill,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill get",Who gave the apple to Jeff? 
+154,apple,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill get",What did Bill give to Jeff? 
+155,football,"Answer: Mary gave the football to Bill.
+
+
+Question: Where did Fred travel to after the garden?",What did Mary give to Bill? 
+156,football,"Answer: Mary gave the football to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+157,Mary,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary get",Who did Bill give the football to? 
+158,football,"Answer: Bill gave the football to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Bill give to Mary? 
+159,Bill,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who discarded the apple?",Who received the apple? 
+160,Bill,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred grab",Who did Fred give the apple to? 
+161,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Bill? 
+162,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred move",What did Fred give to Bill? 
+163,Fred,"Answer: Fred gave the apple.
+
+Explanation: The text states ""Fred gave the apple to",Who gave the apple? 
+164,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who discarded the apple?",Who received the apple? 
+165,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Where did Mary get the apple",Who received the apple? 
+166,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who initially had the apple?",Who received the apple? 
+167,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Where did Mary pass the apple",Who received the apple? 
+168,apple,"Answer: Mary gave the apple to Jeff.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Jeff? 
+169,Bill,"Answer: Bill gave the milk to Fred.
+
+Follow-up Question 1: Where did Bill get",Who gave the milk to Fred? 
+170,football,"Answers:
+
+
+### Response ###
+
+Mary gave the football to Bill.",What did Mary give to Bill? 
+171,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+E: Alice
+F: Bob",Who did Mary give the football to? 
+172,football,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary go",What did Bill give to Mary? 
+173,football,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Bill and",What did Bill give to Mary? 
+174,Mary,"A: Bill gave the football to Mary.
+
+Context: Jeff journeyed to the kitchen. Fred went to the",Who did Bill give the football to? 
+175,football,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff take",What did Jeff give to Bill? 
+176,football,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Bill get",What did Bill give to Mary? 
+177,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who discarded the milk?",Who received the football? 
+178,Bill,"Answer: Bill gave the football.
+
+Follow-up Question 1: Who took the football from Bill",Who gave the football? 
+179,football,"Answer: Bill gave the football to Fred.
+
+Follow-up Question 1: Where did Fred put",What did Bill give to Fred? 
+180,Fred,"Answer: Fred gave the milk to Jeff.
+
+Context: Jeff took the milk there. Jeff put down the milk",Who gave the milk to Jeff? 
+181,milk,"Answer: Jeff gave the milk to Mary.
+
+
+In the given context, we are told that Jeff took",What did Jeff give to Mary? 
+182,Mary,"Answer: Mary received the milk.
+
+Explanation: The text mentions that ""Jeff gave the milk",Who received the milk? 
+183,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states ""Jeff gave the milk to",Who gave the milk? 
+184,Fred,"A: Fred
+B: Mary
+C: Jeff
+D: Bill
+E: Sam
+F: George",Who received the milk? 
+185,football,"Answer: Mary gave the football to Bill.
+
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Bill? 
+186,football,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Bill? 
+187,football,"Answer: Mary gave the football to Bill.
+
+
+Question: Where did Mary go after giving the football to Bill",What did Mary give to Bill? 
+188,Bill,"Answer: Mary gave the football.
+
+Follow-up Question 1: Who received the football?",Who gave the football? 
+189,football,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Bill get",What did Bill give to Mary? 
+190,Fred,"Answer: Jeff gave the football.
+
+
+Follow-up Question 1: Who took the football after",Who gave the football? 
+191,Fred,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred pick",Who gave the football to Jeff? 
+192,football,"Answer: Fred gave the football to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+193,apple,"Answer: Bill gave Fred the apple.
+
+
+Follow-up Question 1: Where did Bill and",What did Bill give to Fred? 
+194,Bill,"Answer: Bill gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Bill",Who gave the apple to Fred? 
+195,milk,"Answer: Mary gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+196,Mary,"Answer: Mary gave the milk.
+
+
+Complete detailed textbook-level solution:
+
+To determine who",Who gave the milk? 
+197,Bill,"Answer: Bill gave the milk.
+
+
+Complete detailed textbook-level solution:
+
+To determine who",Who gave the milk? 
+198,milk,"Answer: Bill gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Bill give to Mary? 
+199,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Who did Mary give the",Who gave the milk? 
+200,milk,"Answer: Jeff gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Jeff take",What did Jeff give to Bill? 
+201,milk,"Answer: Jeff gave the milk to Bill.
+
+Explanation: The text states that ""Jeff took",What did Jeff give to Bill? 
+202,milk,"Answer: Jeff gave the milk to Bill.
+
+Explanation: The text states that ""Jeff took",What did Jeff give to Bill? 
+203,Mary,"Answer: Mary gave the football.
+
+Explanation: The text states ""Mary got the football there",Who gave the football? 
+204,Fred,"Answer: Mary gave the football to Fred.
+
+Explanation: The text states, ""Mary gave",Who did Mary give the football to? 
+205,Fred,"Answer: Fred
+
+Question: Where did Fred travel after receiving the football?
+Answer: The garden
+
+Question",Who received the football? 
+206,Fred,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Fred go",Who did Mary give the football to? 
+207,Jeff,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred and",Who did Fred give the football to? 
+208,Fred,"Answer: Mary gave the football to Jeff.
+
+Explanation: The text states ""Mary gave the",Who gave the football to Jeff? 
+209,Jeff,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary drop the",Who gave the football to Fred? 
+210,Fred,"A) Bill
+B) Fred
+C) Mary
+D) Jeff
+E) Cannot determine
+
+Correct",Who gave the milk to Jeff? 
+211,Fred,"Answer: Fred gave the milk.
+
+
+Follow-up Question 1: Where did Fred pick up",Who gave the milk? 
+212,Jeff,"A) Jeff
+B) Mary
+C) Bill
+D) Fred
+E) None of them
+F)",Who gave the milk to Fred? 
+213,Jeff,"Answer: Jeff
+
+Context: Jeff went back to the garden. Bill went to the office. Bill went to the",Who gave the milk to Fred? 
+214,Fred,"Answer: Jeff gave the milk.
+
+Explanation: The text states that ""Fred picked up the",Who gave the milk? 
+215,Fred,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred grab",Who gave the apple to Mary? 
+216,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Where did Mary receive the apple",Who received the apple? 
+217,Bill,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+218,Mary,"Answer: Fred passed the milk to Mary.
+
+
+Follow-up Question 1: Where did Fred",Who did Fred give the milk to? 
+219,Mary,"Answer: Fred gave the apple.
+
+
+Follow-up Question 1: Who received the apple?",Who gave the apple? 
+220,Bill,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary",Who gave the apple to Mary? 
+221,Bill,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary",Who gave the apple to Mary? 
+222,Mary,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Mary",Who gave the apple to Bill? 
+223,Bill,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Mary",Who did Mary give the apple to? 
+224,apple,"Answer: Bill gave the apple to Mary.
+
+
+Question: What did Mary do with the apple after Bill",What did Bill give to Mary? 
+225,football,"Answer: Jeff gave the football to Fred.
+
+
+Context: Jeff grabbed the football there. Jeff",What did Jeff give to Fred? 
+226,Jeff,"Answer: Jeff gave the football to Fred.
+
+
+Context: Jeff grabbed the football there. Jeff",Who gave the football to Fred? 
+227,football,"Answer: Jeff gave the football to Fred.
+
+
+Context: Jeff grabbed the football there. Jeff",What did Jeff give to Fred? 
+228,football,"Answer: Jeff gave the football to Fred.
+
+
+Context: Jeff grabbed the football there. Jeff",What did Jeff give to Fred? 
+229,football,"Answer: Jeff gave the football to Fred.
+
+
+Context: Jeff grabbed the football there. Jeff",What did Jeff give to Fred? 
+230,apple,"Helpful Answer: Fred gave the apple to Bill.
+
+Context: The apple is now in the box.",What did Fred give to Bill? 
+231,Bill,"Answer: Fred gave the apple to Bill.
+
+Context: Fred picked up the apple there. Fred gave the",Who did Fred give the apple to? 
+232,Fred,"A: Fred
+B: Bill
+C: Cannot be determined
+
+
+# Response
+
+The context states",Who gave the apple to Bill? 
+233,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Who did Fred give",Who gave the apple to Bill? 
+234,Fred,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Who received the apple from Fred",Who gave the apple? 
+235,Bill,"Answers: Bill
+
+Question: Where did Fred travel to?
+Answers: garden
+
+Question",Who gave the football to Mary? 
+236,Bill,"Answer: Bill gave the football.
+
+
+Question: Who went to the garden?
+
+Answer: Jeff",Who gave the football? 
+237,football,"Answer: Bill gave the football to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+238,Bill,"A: Bill
+B: Mary
+C: Jeff
+D: Fred
+Please eliminate two incorrect options first, then",Who gave the football to Mary? 
+239,Bill,"Answer: Bill gave the football.
+
+
+Question: Who went to the garden?
+
+Answer: Mary",Who gave the football? 
+240,Fred,"Answers: 
+
+[Response]:
+Fred passed the football to Bill.",Who gave the football to Bill? 
+241,Fred,"Answer: Fred gave the football.
+
+Explanation: The text states ""Fred gave the football to",Who gave the football? 
+242,Fred,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred take the",Who gave the football to Bill? 
+243,Bill,Answers: (A) Bill  (B) Jeff  (C) Mary  (D) Fred,Who gave the football to Fred? 
+244,football,"Answer: Bill gave the football to Fred.
+
+Explanation: The text states, ""Bill gave",What did Bill give to Fred? 
+245,football,"Answer: Jeff gave the football to Mary.
+
+Explanation: The text states that ""Jeff handed",What did Jeff give to Mary? 
+246,Mary,"Answer: Jeff gave the football.
+
+Context: Jeff went back to the garden. Mary journeyed to the",Who gave the football? 
+247,Mary,"Answer: Jeff gave the football.
+
+Follow-up Question 1: Who took the football from Jeff",Who gave the football? 
+248,Bill,"A: Bill
+B: Mary
+C: Jeff
+D: Fred
+E: Sam
+F: George",Who gave the apple? 
+249,Mary,"Answers:
+A: Jeff
+B: Fred
+C: Mary
+D: Bill
+E: Sand",Who gave the apple to Bill? 
+250,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Fred? 
+251,Fred,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+252,Mary,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who received the apple from Mary",Who gave the apple? 
+253,Jeff,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+254,apple,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Jeff? 
+255,Fred,"Answer: Fred received the milk.
+
+Follow-up Question 1: Where did Fred receive the milk",Who received the milk? 
+256,Jeff,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Jeff get the",Who gave the milk to Fred? 
+257,Jeff,"Answer: Jeff handed the milk to Fred.
+
+
+Follow-up Question 1: Where did Jeff",Who gave the milk? 
+258,football,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Bill disc",What did Bill give to Mary? 
+259,Mary,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred get the",Who did Fred give the milk to? 
+260,Jeff,"A) Jeff
+B) Mary
+C) John
+D) Cannot be determined
+
+Answer: A) Jeff",Who gave the apple to Mary? 
+261,Fred,"Options:
+(A) Jeff
+(B) Fred
+(C) Cannot be determined
+
+
+Complete",Who gave the apple to Mary? 
+262,Mary,"Answer: Mary gave the apple.
+
+Context: Jeff grabbed the apple there. Jeff gave the apple",Who gave the apple? 
+263,apple,"Answer: Mary gave the apple to Bill.
+
+Context: Jeff grabbed the apple there. Jeff gave",What did Mary give to Bill? 
+264,apple,"Answer: Mary gave the apple to Bill.
+
+
+Context: Jeff grabbed the apple there. Jeff",What did Mary give to Bill? 
+265,football,"Answers:
+
+
+### Response ###
+
+Fred gave the football to Bill.",What did Fred give to Bill? 
+266,Fred,"Answer: Fred gave the football.
+
+
+Follow-up Question 1: Where did Fred get the",Who gave the football? 
+267,Fred,"Answers: 
+A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E:",Who gave the football to Bill? 
+268,Mary,"Answer: Bill gave the football to Mary.
+
+Context: Jeff moved to the kitchen. Mary went to the garden",Who did Bill give the football to? 
+269,Mary,"Answer: Mary gave the football.
+
+
+Follow-up Question 1: Who discarded the milk",Who gave the football? 
+270,Mary,"A: Mary
+B: Bill
+C: Jeff
+D: John
+E: Alice
+F: Bob",Who received the apple? 
+271,Mary,"Answer: Mary gave the apple.
+
+Explanation: The text states that ""Mary passed the apple",Who gave the apple? 
+272,apple,"Answer: Mary gave the apple to Jeff.
+
+Explanation: The text states that ""Jeff gra",What did Mary give to Jeff? 
+273,Bill,"Choices:
+ (A) Bill
+ (B) Mary
+
+Answer: (A) Bill
+
+Ex",Who gave the apple to Jeff? 
+274,apple,"Answer: Jeff gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Fred? 
+275,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who gave the football to Mary",Who received the football? 
+276,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who gave the football to Mary",Who received the football? 
+277,football,"Answer: Mary gave the football to Jeff.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Jeff? 
+278,Mary,"Answer: Jeff gave the football to Mary.
+
+
+Question: Where did Fred go after he went back to",Who did Jeff give the football to? 
+279,Mary,"Answer: Mary received the football.
+
+
+Follow-up Question 1: Who initially had the football",Who received the football? 
+280,Fred,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Where did Fred take the apple",Who gave the apple? 
+281,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Mary move",What did Mary give to Fred? 
+282,Fred,"Choices:
+ (A) Fred
+ (B) Jeff
+
+
+### Response ###
+
+The text",Who gave the apple to Mary? 
+283,Fred,"Answer: Fred received the apple.
+
+Explanation: The text mentions that ""Fred took the apple",Who received the apple? 
+284,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Mary? 
+285,Fred,"Answer: The apple was given by Fred.
+
+Follow-up Question 1: Where did Fred take",Who gave the apple? 
+286,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",Who gave the apple to Bill? 
+287,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",Who gave the apple to Bill? 
+288,apple,"Answers:
+- apple
+- football
+- apple and football
+
+[Response]: Fred gave both the",What did Fred give to Bill? 
+289,Bill,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Who was the",Who gave the apple to Mary? 
+290,Mary,Knowledge: Jeff went back to the hallway. Bill picked up the milk there. Bill gave the milk to,Who gave the milk to Bill? 
+291,Bill,"Answers:
+- Jeff
+- Bill
+- Mary
+- Cannot determine
+
+Correct Answer: Bill",Who gave the milk? 
+292,Mary,"Answers: Jeff, Bill, Mary, John
+Explain why each one is or is not the correct answer",Who gave the milk to Bill? 
+293,Bill,"Answer: Mary gave the milk to Bill.
+
+Explanation: The text states that ""Mary passed",Who did Mary give the milk to? 
+294,apple,"Answer: Jeff gave the apple to Fred.
+
+
+Question: Where did Fred go after picking up the football",What did Jeff give to Fred? 
+295,milk,"Answer: Mary gave the milk to Jeff.
+
+
+Question: Where did Jeff get the milk?
+Answer:",What did Mary give to Jeff? 
+296,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Mary got the milk",Who gave the milk? 
+297,milk,"Answer: Mary gave the milk to Jeff.
+
+
+Question: Where did Jeff drop the milk?
+Answer:",What did Mary give to Jeff? 
+298,milk,"Answer: Mary gave the milk to Jeff.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Jeff? 
+299,Bill,"Answer: Bill gave the milk to Jeff.
+
+Context: Mary journeyed to the hallway. Mary travelled",Who gave the milk to Jeff? 
+300,football,"Answers:
+
+
+### Response ###
+
+Mary gave the football to Fred. This is evident",What did Mary give to Fred? 
+301,Fred,"Answer: Mary gave the football to Fred.
+
+Context: Jeff went to the hallway. Mary went back to",Who did Mary give the football to? 
+302,Mary,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary pick",Who gave the football to Fred? 
+303,Mary,"Answer: Fred gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Fred",Who did Fred give the apple to? 
+304,Fred,"A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E: Sandra
+F:",Who gave the apple to Mary? 
+305,Jeff,"Answers:
+1. Jeff
+2. Fred
+3. Bill
+4. Sandra
+5.",Who gave the apple to Mary? 
+306,Mary,"Answers:
+
+
+### Response ###
+
+Jeff gave the apple to Mary. This is evident",Who did Jeff give the apple to? 
+307,milk,"Answer: Mary gave the milk to Fred.
+
+
+Question: Where did Fred go after he moved to the hall",What did Mary give to Fred? 
+308,Fred,"Answer: Mary gave the milk to Fred.
+
+Context: Jeff moved to the hallway. Bill went back to",Who did Mary give the milk to? 
+309,Fred,"Answer: Mary received the milk.
+
+Explanation: The text states that ""Fred gave the milk",Who received the milk? 
+310,Mary,"Answer: Mary gave the football to Bill.
+
+Context: Mary journeyed to the kitchen. Mary went to the",Who gave the football to Bill? 
+311,Bill,"Answer: Mary gave the football.
+
+Follow-up Question 1: Where did Mary give the football",Who gave the football? 
+312,football,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill take",What did Bill give to Mary? 
+313,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+314,Bill,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff pick",Who did Jeff give the football to? 
+315,milk,"A:
+
+A: The apple
+B: The milk
+C: The football
+D: The book",What did Jeff give to Bill? 
+316,Bill,"Answer: Bill received the milk.
+
+Explanation: The text states that ""Jeff grabbed",Who received the milk? 
+317,milk,"A:
+
+A: The milk
+B: The apple
+C: The football
+D: The book",What did Jeff give to Bill? 
+318,apple,"Answer: Fred gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+319,Fred,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where did Mary travel",Who did Mary give the apple to? 
+320,Mary,"Answers: Bill, Fred, Jeff, Jeff gave the apple to Bill.
+B: Context: Jeff moved",Who gave the apple? 
+321,apple,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary pick",What did Mary give to Bill? 
+322,Mary,"Answer: Jeff gave the football to Mary.
+
+Follow-up Question 1: Where did Jeff grab",Who did Jeff give the football to? 
+323,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who initially had the football?",Who received the football? 
+324,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Who initially had the football?",Who received the football? 
+325,Bill,"Answers: Bill, Fred, Jeff, Mary, Sandra
+Categories: Preposition Knowledge/Com",Who gave the football to Mary? 
+326,Bill,"Answer: Bill gave the football.
+
+
+Follow-up Question 1: Where did Bill pick up",Who gave the football? 
+327,Jeff,"Answer: Jeff received the apple.
+
+
+Question: Who discarded the milk?
+
+Answer: Fred",Who received the apple? 
+328,apple,"Answer: Bill gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Jeff? 
+329,apple,"Answer: Bill gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Jeff? 
+330,apple,"A: The apple
+B: The milk
+C: The football
+D: The apple and the milk
+E",What did Fred give to Mary? 
+331,apple,"Answer: Fred gave the apple to Mary.
+
+Context: Bill travelled to the bathroom. Fred picked",What did Fred give to Mary? 
+332,Fred,"Answer: Mary gave the apple.
+
+Context: Bill travelled to the bathroom. Fred picked up the",Who gave the apple? 
+333,Bill,"Answer: Mary received the apple.
+
+Explanation: The sequence of events shows that Fred initially picked up",Who received the apple? 
+334,apple,"Answer: Mary gave the apple to Bill.
+
+Explanation: The text states that ""Mary passed",What did Mary give to Bill? 
+335,Mary,"Answer: Mary gave the apple.
+
+
+Follow-up Question 1: Where did Mary pick up",Who gave the apple? 
+336,apple,"Answer: Mary gave Fred the apple.
+
+
+Question: Where did Bill go after the garden?
+Answer:",What did Mary give to Fred? 
+337,apple,"Answer: Fred gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+338,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred and",What did Fred give to Mary? 
+339,Mary,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred and",Who did Fred give the apple to? 
+340,apple,"Answers:
+- apple
+- milk
+- football
+- banana
+
+[Response]: Fred gave",What did Fred give to Bill? 
+341,Bill,"Answer: Bill gave the apple to Fred.
+
+Context: Mary went to the hallway. Fred travelled to",Who gave the apple to Fred? 
+342,Bill,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who gave the apple to Bill",Who received the apple? 
+343,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",What did Fred give to Bill? 
+344,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",What did Fred give to Bill? 
+345,milk,"Answers: 
+- the milk
+- the football
+- the apple
+- the book
+- the",What did Mary give to Jeff? 
+346,Mary,"A) Bill
+B) Mary
+C) Fred
+D) Jeff
+E) Cannot determine
+
+Correct",Who gave the milk to Jeff? 
+347,Jeff,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Mary grabbed",Who gave the milk? 
+348,Fred,"Answer: Fred received the milk.
+
+Explanation: The sequence of events shows that Mary grabbed",Who received the milk? 
+349,Jeff,"Answers: Jeff, Bill, Mary, Fred
+
+Question: Where did Fred travel to after dropping the",Who gave the milk to Fred? 
+350,Jeff,"A: Jeff
+B: Fred
+C: Bill
+D: Mary
+E: Bob
+F: Sam",Who gave the milk? 
+351,Mary,"Answers: Jeff, Fred, Bill, Mary, Bob
+
+Question: Where did Jeff travel to after he",Who gave the milk to Bill? 
+352,milk,"Answer: Bill gave the milk to Jeff.
+
+Follow-up Question 1: Where did Bill go after",What did Bill give to Jeff? 
+353,Bill,"Answer: Mary received the milk.
+
+Explanation: The text states that ""Jeff gave the milk",Who received the milk? 
+354,milk,"Answer: Jeff gave the milk to Bill.
+
+Follow-up Question 1: Where did Mary go",What did Jeff give to Bill? 
+355,Bill,"Answer: Fred gave the milk.
+
+Context: Jeff moved to the bedroom. Fred journeyed to the kitchen",Who gave the milk? 
+356,Bill,"Answer: Bill gave the milk to Fred.
+
+Context: Jeff moved to the bedroom. Fred journeyed to",Who gave the milk to Fred? 
+357,Bill,"Answer: Bill gave the milk to Fred.
+
+Context: Jeff moved to the bedroom. Fred journeyed to",Who gave the milk to Fred? 
+358,apple,"Answer: Jeff gave the apple to Fred.
+
+
+Question: Where did Fred leave the milk?
+Answer:",What did Jeff give to Fred? 
+359,Fred,"Answer: Jeff gave the apple to Fred.
+
+
+Question: Where did Fred leave the milk?
+Answer:",Who did Jeff give the apple to? 
+360,Mary,"Answer: Mary
+
+Context: Mary went to the garden. Jeff went to the hallway. Bill went to the",Who received the apple? 
+361,Bill,"Answer: Mary gave the apple to Bill.
+
+Context: Mary went to the garden. Jeff went to the hall",Who did Mary give the apple to? 
+362,apple,"Answer: Mary gave the apple to Bill.
+
+
+Question: Where is the football?
+Answer: The football",What did Mary give to Bill? 
+363,Mary,"Answer: Bill gave the apple to Mary.
+
+Explanation: The text states that ""Mary gave",Who did Bill give the apple to? 
+364,Bill,"Answer: Bill received the apple.
+
+Explanation: The text mentions that ""Mary handed the apple",Who received the apple? 
+365,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Where did Fred get the apple",Who received the apple? 
+366,Jeff,"A: Jeff
+B: Fred
+C: Mary
+D: Bill
+E: George
+F: Sam",Who gave the apple? 
+367,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+Please, eliminate two incorrect options first,",Who received the football? 
+368,Bill,"Answers: Jeff, Bill, Mary
+
+
+Story Context:
+Jeff moved to the hallway.",Who received the football? 
+369,Bill,"A: Bill
+B: Fred
+C: Jeff
+D: George
+Please eliminate two incorrect options first, then",Who did Mary give the football to? 
+370,Fred,"Answer: Mary gave the football to Fred.
+
+Context: Mary went to the garden. Sandra travelled to",Who did Mary give the football to? 
+371,Mary,"Answer: Mary gave the football to Fred.
+
+Context: Mary went back to the kitchen. Mary moved to the",Who gave the football to Fred? 
+372,Fred,"Answer: Fred gave the football to Mary.
+
+
+Question: Where did Fred leave the apple?
+Answer:",Who gave the football to Mary? 
+373,Jeff,"Answer: Mary gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred discard",Who did Mary give the football to? 
+374,football,"Answer: Mary gave the football to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Mary give to Jeff? 
+375,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+Please, eliminate two incorrect options first,",Who received the apple? 
+376,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Who discarded the",Who gave the apple? 
+377,Bill,"Answer: Bill gave the apple.
+
+Explanation: The text mentions that ""Bill passed the apple",Who gave the apple? 
+378,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred and Bill",What did Fred give to Bill? 
+379,Fred,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Bill get",Who did Bill give the apple to? 
+380,milk,"Answer: Mary gave the milk to Bill.
+
+Context: The following paragraphs each describe a set of seven",What did Mary give to Bill? 
+381,Bill,"Answer: Bill gave the milk.
+
+
+In the given context, it is mentioned that ""Bill gave",Who gave the milk? 
+382,milk,"Answer: Mary gave the milk to Fred.
+
+Context: In the bedroom, Mary found the milk.",What did Mary give to Fred? 
+383,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred move",What did Fred give to Mary? 
+384,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred move",What did Fred give to Mary? 
+385,football,"A: football
+B: apple
+C: milk
+D: stone
+E: sandwich
+
+
+#",What did Bill give to Mary? 
+386,Mary,,Who did Bill give the football to? 
+387,football,"Answer: Fred gave the football to Mary.
+
+Explanation: The text states that ""Fred handed",What did Fred give to Mary? 
+388,Fred,"Answer: Mary gave the football to Fred.
+
+Explanation: The text states that ""Mary handed",Who did Mary give the football to? 
+389,Mary,"Answer: The football was given by Mary.
+
+Explanation: The text states that ""Mary handed",Who gave the football? 
+390,Fred,"A) Bill
+B) Jeff
+C) Fred
+D) None of the above
+
+Answer: B)",Who gave the apple? 
+391,apple,"A)
+
+apple
+B)
+
+milk
+C)
+
+sandwich
+D)",What did Fred give to Jeff? 
+392,Fred,"A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E: Sam
+F: George",Who received the apple? 
+393,Fred,"Options:
+(A) Bill
+(B) Jeff
+(C) Fred
+(D) Mary",Who received the apple? 
+394,Jeff,"Choices:
+(A) Bill
+(B) Jeff
+(C) Fred
+(D) Mary",Who gave the apple to Fred? 
+395,Mary,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Where did Mary give the apple",Who gave the apple? 
+396,Bill,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary go",Who did Mary give the apple to? 
+397,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get the",Who gave the apple to Bill? 
+398,Fred,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Bill go",Who did Bill give the apple to? 
+399,Fred,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who gave the apple to Bill",Who received the apple? 
+400,Mary,"A) John
+B) Mary
+C) Fred
+D) Cannot be determined
+
+Answer: B) Mary",Who gave the football to Fred? 
+401,Fred,"Answer: Mary gave the football to Fred.
+
+Context: Information:  -   Objects attacked:",Who did Mary give the football to? 
+402,Fred,"A: Fred
+B: Bill
+C: John
+D: Sandra
+E: Cannot determine
+
+Cor",Who did Mary give the football to? 
+403,Fred,"Answer: Fred handed the apple to Jeff.
+
+Follow-up Question 1: Where did Fred grab the",Who gave the apple to Jeff? 
+404,apple,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Jeff? 
+405,apple,"Answer: Fred gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Bill? 
+406,Fred,"Answer: Fred gave the apple.
+
+
+Follow-up Question 1: Where did Fred pick up",Who gave the apple? 
+407,Fred,"Answer: Fred received the apple.
+
+Follow-up Question 1: Where did Fred give the apple",Who received the apple? 
+408,Fred,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred pick up",Who gave the apple to Jeff? 
+409,apple,"Answer: Fred gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+410,milk,"Answer: Bill gave the milk to Jeff.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Jeff? 
+411,Jeff,"Answers: Jeff
+
+Label the following with either ""negative"" or ""positive"".
+I bought this",Who gave the milk to Bill? 
+412,milk,"Answer: Jeff gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Jeff give to Bill? 
+413,milk,"Answer: Jeff gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Jeff give to Bill? 
+414,Jeff,"A: Jeff
+B: Bill
+C: Fred
+D: Mary
+E: George
+F: Anne",Who gave the milk to Mary? 
+415,milk,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred and",What did Fred give to Jeff? 
+416,milk,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred travel",What did Jeff give to Fred? 
+417,Fred,"Answer: Fred received the milk.
+
+Explanation: The text states that ""Jeff passed the milk",Who received the milk? 
+418,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred move",Who did Fred give the milk to? 
+419,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Fred
+E: Mary and Fred
+F",Who gave the milk to Fred? 
+420,Fred,"Answer: Fred gave the football.
+
+Follow-up Question 1: Who received the football?",Who gave the football? 
+421,Fred,"Answer: Mary received the football.
+
+Explanation: The text states that ""Fred handed the football",Who received the football? 
+422,football,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary go",What did Mary give to Fred? 
+423,football,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary go",What did Mary give to Fred? 
+424,Fred,"Choices:
+(A) Bill
+(B) Mary
+(C) Jeff
+(D) Fred",Who gave the football to Mary? 
+425,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Bill? 
+426,Fred,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who gave the apple to Bill",Who received the apple? 
+427,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Mary? 
+428,Fred,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+429,Mary,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who received the apple from Mary",Who gave the apple? 
+430,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Context: Jeff went back to the hallway. Fred journeyed",Who did Fred give the apple to? 
+431,apple,"Answer: Fred gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+432,Fred,"Answer: Fred handed the apple to Jeff.
+
+Follow-up Question 1: Where did Jeff disc",Who gave the apple to Jeff? 
+433,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who discarded the apple?",Who received the apple? 
+434,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Where did Mary receive the football",Who received the football? 
+435,apple,"Answer: Bill gave an apple to Mary.
+
+Context: Jeff went back to the garden. Mary travelled to",What did Bill give to Mary? 
+436,Mary,"A: Mary
+B: Fred
+C: Bill
+D: Jeff
+E: Sam
+F: George",Who did Bill give the apple to? 
+437,Fred,"A: Fred
+B: Mary
+C: Bill
+D: Jeff
+E: Sandra
+F:",Who gave the apple? 
+438,Fred,"Answers: Fred, Mary
+
+
+Story Context: Jeff went back to the garden. Mary travelled to",Who received the apple? 
+439,Mary,"A: Mary
+B: Jeff
+C: Bill
+D: Fred
+E: Alice
+F: Bob",Who gave the apple to Fred? 
+440,apple,"Answer: Mary gave the apple to Bill.
+
+
+Question: Where did Mary go after she moved to the garden",What did Mary give to Bill? 
+441,Mary,"Answer: Bill gave the apple to Mary.
+
+Explanation: The text states that ""Mary got",Who did Bill give the apple to? 
+442,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+443,Mary,"Answer: Mary gave the apple.
+
+Explanation: The text states that ""Mary got the apple",Who gave the apple? 
+444,Mary,"Answer: Mary gave the apple.
+
+Explanation: The text states that ""Mary got the apple",Who gave the apple? 
+445,apple,"Answer: Mary gave the apple to Fred.
+
+Context: The apple is red. The apple is on the",What did Mary give to Fred? 
+446,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: Mary went to the kitchen. Mary took the football",Who did Mary give the apple to? 
+447,milk,"Answer: Mary gave the milk to Bill.
+
+Context: The man went to the garden.
+
+Question",What did Mary give to Bill? 
+448,Bill,"Answer: Bill received the milk.
+
+Context: Mary took the football there. Mary passed the football to Fred",Who received the milk? 
+449,milk,"Answer: Bill gave the milk to Mary.
+
+
+Follow-up Question 1: What did Mary",What did Bill give to Mary? 
+450,Mary,"Answers:
+
+
+### response ###
+
+Mary gave the apple to Bill. This is infer",Who gave the apple to Bill? 
+451,apple,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Bill go",What did Mary give to Bill? 
+452,Bill,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Bill get the",Who gave the apple to Fred? 
+453,Fred,"Answer: Fred gave the apple to Bill.
+
+Context: Mary journeyed to the office. Jeff journeyed to",Who gave the apple to Bill? 
+454,Bill,"Answer: Bill received the apple.
+
+Explanation: The text mentions that ""Mary passed the apple",Who received the apple? 
+455,Fred,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Mary take",Who did Mary give the milk to? 
+456,Mary,"Answer: Mary gave the milk.
+
+
+Context: Jeff journeyed to the garden. Bill picked up the",Who gave the milk? 
+457,Fred,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred leave",Who did Mary give the milk to? 
+458,Mary,"Answer: Mary gave the milk.
+
+
+Question: Who went to the bathroom?
+
+Answer:",Who gave the milk? 
+459,milk,"Answer: Fred gave the milk to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+460,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Where did Mary take the",Who gave the milk? 
+461,milk,"Answer: Mary gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+462,Bill,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Fred pick",Who did Jeff give the football to? 
+463,football,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff pick",What did Jeff give to Bill? 
+464,football,"Answer: Jeff gave the football to Bill.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Bill? 
+465,Bill,"Answer: Fred gave the apple to Bill.
+
+Context: Fred grabbed the apple there. Fred handed",Who did Fred give the apple to? 
+466,Bill,"A) Fred
+B) Bill
+C) Jeff
+D) Not enough information
+
+Answer: B) Bill",Who gave the apple to Fred? 
+467,apple,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: What did Fred do",What did Bill give to Fred? 
+468,Bill,"Answer: Bill gave the apple to Fred.
+
+Explanation: The text states that ""Bill handed",Who gave the apple to Fred? 
+469,Jeff,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+E: Sam
+F: George",Who gave the apple to Fred? 
+470,Fred,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who received the apple?",Who gave the apple? 
+471,apple,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Mary? 
+472,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+473,Mary,"Answer: Mary gave the apple.
+
+
+Follow-up Question 1: Who did Mary give the",Who gave the apple? 
+474,apple,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Bill disc",What did Mary give to Bill? 
+475,apple,"Answer: Mary gave an apple to Fred.
+
+Follow-up Question 1: Where did Mary take",What did Mary give to Fred? 
+476,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Bill? 
+477,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred take the",Who gave the apple to Bill? 
+478,Bill,"Answer: Mary gave the apple to Fred.
+
+Explanation: The text states ""Mary took the",Who gave the apple to Fred? 
+479,Fred,"Answer: Fred gave the apple to Bill.
+
+Explanation: The text states that ""Fred handed",Who gave the apple to Bill? 
+480,Fred,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Where did Fred grab the apple",Who gave the apple? 
+481,Fred,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Who received the apple from",Who gave the apple? 
+482,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred grab",What did Fred give to Bill? 
+483,Bill,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Who discarded the apple",Who gave the apple? 
+484,Bill,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Who discarded the",Who gave the apple to Mary? 
+485,Bill,"Answer: Fred gave the apple to Bill.
+
+Context: Mary went to the hallway. Fred picked up",Who did Fred give the apple to? 
+486,apple,"A: football
+B: apple
+C: milk
+D: microwave
+E: orange
+Correct",What did Fred give to Bill? 
+487,Bill,"Answer: Bill gave the apple to Mary.
+
+
+Following the context, we can see that Fred",Who gave the apple? 
+488,Bill,"Answers:
+Bill
+
+### Response
+In the given context, it is mentioned that ""B",Who gave the apple to Mary? 
+489,Bill,"A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E: Sam
+F: George",Who gave the apple? 
+490,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+E: George
+F: Anne",Who gave the apple to Mary? 
+491,Mary,"A: Mary
+B: Bill
+C: Jeff
+D: Fred
+Please, eliminate two incorrect options first,",Who received the apple? 
+492,milk,"A) The apple
+B) The milk
+C) The football
+D) The apple and the milk
+E",What did Jeff give to Fred? 
+493,milk,"Answer: Fred gave the milk to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+494,Fred,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Jeff go",Who gave the milk to Jeff? 
+495,Jeff,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred pick up",Who did Fred give the football to? 
+496,football,"Answer: Fred gave the football to Jeff.
+
+
+Question: Where did Fred go after he picked up the football",What did Fred give to Jeff? 
+497,Fred,"Answer: Fred received the football.
+
+Explanation: The football was initially picked up by Fred in the",Who received the football? 
+498,football,"Answer: Jeff gave the football to Fred.
+
+Follow-up Question 1: Where did Fred drop",What did Jeff give to Fred? 
+499,Mary,"Answer: Mary received the milk.
+
+Follow-up Question 1: Who initially had the milk?",Who received the milk? 
+500,Fred,"A: Fred
+B: Jeff
+C: Sandra
+D: Mary
+E: Cannot be determined",Who received the football? 
+501,Jeff,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Sandra
+F: Sam",Who gave the football? 
+502,football,"A: football
+B: apple
+C: milk
+D: nothing
+E: sandwich
+F: book",What did Fred give to Jeff? 
+503,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Sam
+F: George",Who gave the football? 
+504,football,"Answer: Fred gave the football to Mary.
+
+Follow-up Question 1: Where did Mary disc",What did Fred give to Mary? 
+505,Fred,"Answers:
+- Fred
+- Bill
+- Jeff
+- Mary
+
+[Response]: The passage states",Who received the football? 
+506,Bill,"Answers:
+
+
+### Response ###
+
+The football was given to Fred by Bill. This is",Who gave the football to Fred? 
+507,Bill,"Answer: Bill received the football.
+
+Follow-up Question 1: Who passed the football to Bill",Who received the football? 
+508,Bill,"Answer: Bill received the football.
+
+Explanation: The text mentions that ""Bill gave the football",Who received the football? 
+509,Bill,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where was Fred when",Who did Fred give the football to? 
+510,Fred,"Answer: Fred received the milk.
+
+Follow-up Question 1: Where did Fred receive the milk",Who received the milk? 
+511,Jeff,"Answer: Fred received the milk.
+
+Follow-up Question 1: Who passed the milk to Fred",Who received the milk? 
+512,milk,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Mary put",What did Jeff give to Fred? 
+513,milk,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred go",What did Jeff give to Fred? 
+514,Fred,"Answer: Fred gave the apple to Bill.
+
+
+Question: Where did Fred go after he discarded the milk",Who gave the apple to Bill? 
+515,Bill,"Answer: Bill gave the apple to Mary.
+
+Context: Mary went to the hallway. Jeff moved to the",Who gave the apple to Mary? 
+516,Fred,"Answer: Fred gave the apple to Mary.
+
+
+Follow-up Question 1: Who initially had",Who gave the apple? 
+517,Fred,"Answer: Fred gave the apple to Mary.
+
+Context: Jeff went to the bedroom. Mary moved to the",Who gave the apple to Mary? 
+518,Mary,"Answer: Mary received the apple.
+
+Explanation: The text mentions that ""Bill gave the apple",Who received the apple? 
+519,apple,"Answer: Fred gave the apple to Mary.
+
+Explanation: The text states that ""Bill gave",What did Fred give to Mary? 
+520,apple,"Answer: Mary gave Fred the apple.
+
+Context: Information:  - The bear is not in the house",What did Mary give to Fred? 
+521,Mary,"Answers:
+- Mary gave the apple to Fred.
+- Fred gave the apple to Mary.",Who gave the apple? 
+522,Fred,"Answer: Mary gave the milk to Fred.
+
+Context: In the town it's a tradition to give",Who did Mary give the milk to? 
+523,milk,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred go",What did Mary give to Fred? 
+524,Mary,"Answer: Mary gave the milk to Fred.
+
+Context: Mary picked up the apple there. Fred travelled",Who gave the milk to Fred? 
+525,milk,"Answer: Mary gave the milk to Fred.
+
+
+Question: Where did Jeff go after the bedroom?",What did Mary give to Fred? 
+526,Mary,"Answer: Mary received the milk.
+
+Follow-up Question 1: Who passed the milk to Mary",Who received the milk? 
+527,Mary,"Answer: Mary received the milk.
+
+Follow-up Question 1: Who passed the milk to Mary",Who received the milk? 
+528,Mary,"Answer: Mary received the milk.
+
+Explanation: The text states that ""Bill handed the milk",Who received the milk? 
+529,Jeff,"Answer: Jeff gave the football to Mary.
+
+
+Follow-up Question 1: Where did Mary",Who gave the football to Mary? 
+530,Bill,"Answer: Bill gave the apple to Mary.
+
+Context: Mary went back to the hallway. Bill went back",Who gave the apple to Mary? 
+531,apple,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill and",What did Bill give to Mary? 
+532,Mary,"Answer: Mary received the apple.
+
+Context: Bill went to the bathroom. Bill journeyed to the",Who received the apple? 
+533,apple,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Mary drop",What did Bill give to Mary? 
+534,Fred,"Answers: Fred
+
+Context: John was talking loudly. Mary was talking loudly. Bill was talking",Who did Mary give the football to? 
+535,milk,"Answers: 
+
+
+### Response ###
+
+Fred gave the milk to Bill.",What did Fred give to Bill? 
+536,Bill,"Answer: Fred gave the milk to Bill.
+
+
+Follow-up Question 1: Where was Bill",Who did Fred give the milk to? 
+537,Bill,"A: Bill
+B: Jeff
+C: Mary
+D: Fred gave the milk to himself
+E: Fred",Who did Fred give the milk to? 
+538,Mary,"A: Fred
+B: Mary
+C: Bill
+D: Jeff
+E: Sam
+F: George",Who did Bill give the milk to? 
+539,Mary,"Answer: Bill gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Fred",Who did Bill give the milk to? 
+540,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Sandra
+E: John
+F: Cannot",Who received the apple? 
+541,Jeff,"A) Bill
+B) Jeff
+C) Mary
+D) John
+E) None of the above",Who received the apple? 
+542,apple,"A) The apple
+B) The milk
+C) The bedroom
+D) The bathroom
+E)",What did Bill give to Jeff? 
+543,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+544,Mary,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill pick",Who did Bill give the apple to? 
+545,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Context: Jeff moved to the hallway. Jeff picked up the",Who did Mary give the apple to? 
+546,Jeff,"A: Fred
+B: Jeff
+C: Mary
+D: Bill
+E: George
+F: Bob",Who received the apple? 
+547,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Context: Jeff moved to the hallway. Jeff picked up the",Who did Mary give the apple to? 
+548,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+
+
+### Response",Who received the apple? 
+549,Mary,"Answer: Mary gave the apple to Bill.
+
+Context: Jeff moved to the hallway. Jeff picked up the",Who gave the apple to Bill? 
+550,Mary,"Answers:
+A: Mary
+B: Bill
+C: Fred
+D: Jeff
+E: Sand",Who gave the milk to Jeff? 
+551,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Fred
+Please, eliminate two incorrect options first,",Who received the milk? 
+552,Mary,"Answer: Fred gave the football to Mary.
+
+Follow-up Question 1: Where did Fred take",Who did Fred give the football to? 
+553,Fred,"Answer: Fred gave the football.
+
+Explanation: The last action involving the football in the text is",Who gave the football? 
+554,Mary,"Answer: Mary received the football.
+
+Explanation: The text states that ""Fred handed the football",Who received the football? 
+555,Bill,"Answer: Bill gave the apple to Fred.
+
+Context: Fred took the apple there. Fred moved to the",Who gave the apple? 
+556,Bill,"Answer: Bill gave the apple.
+
+Explanation: The text states that ""Fred handed the apple",Who gave the apple? 
+557,apple,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred leave",What did Bill give to Fred? 
+558,apple,"Answer: Fred gave the apple to Bill.
+
+Context: Mary went to the garden. Bill went to the garden",What did Fred give to Bill? 
+559,Fred,"Answer: Fred received the apple.
+
+Explanation: The text mentions that Fred handed the apple to Bill",Who received the apple? 
+560,apple,"Answer: Fred gave the apple to Mary.
+
+Explanation: The text states that ""Mary passed",What did Fred give to Mary? 
+561,Fred,"Answer: Fred received the apple.
+
+Explanation: The text states that ""Mary passed the apple",Who received the apple? 
+562,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Mary give to Fred? 
+563,football,"Answer: Fred gave the football to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+564,Fred,"A: Fred
+B: Mary
+C: Bill
+D: Jeff
+E: George
+F: Alice",Who received the football? 
+565,apple,"Answers:
+
+
+### Response ###
+
+Jeff gave the apple to Mary.
+
+Ex",What did Jeff give to Mary? 
+566,Mary,"Answer: Mary gave the apple to Jeff.
+
+
+Follow-up Question 1: Who had the",Who gave the apple? 
+567,apple,"Answer: Mary gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred travel",What did Mary give to Jeff? 
+568,apple,"Answer: Jeff gave the apple to Mary.
+
+Follow-up Question 1: Where did Mary pass",What did Jeff give to Mary? 
+569,Jeff,"A: Jeff
+B: Fred
+C: Bill
+D: Mary
+E: Sandra
+F:",Who gave the apple to Mary? 
+570,milk,"Answer: Mary gave the milk to Jeff.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Jeff? 
+571,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Mary? 
+572,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+573,Fred,"Answer: Jeff received the milk.
+
+Follow-up Question 1: Where did Jeff receive the milk",Who received the milk? 
+574,Fred,"Answer: Jeff received the milk.
+
+Explanation: The text mentions that ""Mary passed the milk",Who received the milk? 
+575,football,"Answer: Bill gave the football to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+576,Mary,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary give the",Who gave the football to Fred? 
+577,football,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary go after",What did Mary give to Fred? 
+578,football,"Answer: Mary gave the football to Fred.
+
+
+Question: Where did Fred travel to after the hallway?",What did Mary give to Fred? 
+579,Fred,"Answer: Mary gave the football to Fred.
+
+Explanation: The text mentions that Mary gave the football",Who did Mary give the football to? 
+580,Fred,"A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E: Sandra
+F: Sam",Who gave the milk to Bill? 
+581,Bill,"Answer: Fred gave the milk to Bill.
+
+Explanation: The text states that ""Fred passed",Who did Fred give the milk to? 
+582,milk,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Bill? 
+583,Jeff,"Choices:
+ (A) Jeff
+ (B) Fred
+
+
+### Response
+
+In the given",Who gave the apple to Mary? 
+584,Jeff,"Answer: Jeff received the apple.
+
+Explanation: The text states that ""Jeff took the apple",Who received the apple? 
+585,milk,"A:
+
+A: The milk
+B: The football
+C: The apple
+D: The kitchen",What did Mary give to Bill? 
+586,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Where did Bill leave the",Who gave the milk? 
+587,Bill,"Answer: Mary gave the milk to Bill.
+
+Follow-up Question 1: Where did Bill leave",Who did Mary give the milk to? 
+588,Jeff,"Answer: Jeff gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred get",Who gave the apple to Fred? 
+589,Fred,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Who was the last person",Who gave the apple? 
+590,milk,"Answer: Bill gave the milk to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Bill give to Fred? 
+591,milk,"Answer: Bill gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred move",What did Bill give to Fred? 
+592,milk,"Answer: Bill gave the football to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Bill give to Fred? 
+593,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Bob
+F: Sam",Who received the football? 
+594,football,"Answer: Bill gave the football to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Bill give to Fred? 
+595,Jeff,"Answer: Jeff gave the milk to Bill.
+
+Context: Jeff took the milk there. Jeff journeyed to the",Who gave the milk to Bill? 
+596,Jeff,"Answer: Jeff received the milk.
+
+Explanation: The text states that ""Bill passed the milk",Who received the milk? 
+597,Bill,"Answer: Bill received the milk.
+
+Explanation: The text states that Jeff handed the milk to Bill",Who received the milk? 
+598,Jeff,"Answer: Jeff gave the milk.
+
+
+Reasoning:
+
+The question asks who gave the milk",Who gave the milk? 
+599,milk,"Answer: Jeff gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Bill? 
+600,Jeff,"A: Jeff
+B: Fred
+C: Bill
+D: Mary
+E: Bob
+F: Alice",Who received the football? 
+601,Mary,"A: Jeff gave the football to Mary.
+
+Context: Jeff journeyed to the hallway. Bill went to",Who did Jeff give the football to? 
+602,Jeff,"A: Mary
+B: Bill
+C: Fred
+D: Jeff
+Please, just tell me the correct answer",Who gave the football? 
+603,Jeff,"A: Mary
+B: Bill
+C: Jeff
+D: Fred
+Please, just tell me the correct answer",Who gave the football? 
+604,Jeff,"A: Bill gave the milk to Jeff.
+B: Bill gave the milk to Mary.
+C: Bill gave",Who did Bill give the milk to? 
+605,Fred,"Answer: Mary gave the football to Fred.
+
+Context: Jeff went back to the hallway. Fred moved to",Who did Mary give the football to? 
+606,Mary,"Answer: Jeff gave the football to Fred.
+
+Context: Jeff went back to the hallway. Fred moved to",Who gave the football to Fred? 
+607,Fred,"Answers: Bill gave the football to Fred.
+
+Context: Jeff went back to the hallway. Fred",Who did Bill give the football to? 
+608,Fred,"Answer: The football was given by Fred.
+
+Follow-up Question 1: Who received the football",Who gave the football? 
+609,football,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred go",What did Fred give to Bill? 
+610,football,"Answer: Jeff gave the football to Fred.
+
+
+Question: Where did Fred go after he took the football?",What did Jeff give to Fred? 
+611,Jeff,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Jeff move",Who did Fred give the football to? 
+612,Fred,"Answer: Fred gave the football.
+
+Follow-up Question 1: Who received the football?",Who gave the football? 
+613,Mary,"Answer: Mary gave the football.
+
+
+Follow-up Question 1: Who was the last person",Who gave the football? 
+614,Mary,"A: Mary
+B: Jeff
+C: Fred
+D: Bill
+E: Sam
+F: George",Who gave the football? 
+615,football,"A: football
+B: apple
+C: milk
+D: stone
+E: leaf
+
+
+###",What did Jeff give to Fred? 
+616,Jeff,"A: Jeff
+B: Bill
+C: John
+D: Mary
+E: Rob
+F: Sam",Who did Fred give the football to? 
+617,Fred,"A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Rob
+F: Sam",Who gave the football to Jeff? 
+618,apple,"A:
+
+A: The apple
+B: The football
+C: The milk
+D: The bedroom",What did Bill give to Jeff? 
+619,apple,"Answer: Jeff gave the apple to Bill.
+
+Explanation: The text states that ""Bill gave",What did Jeff give to Bill? 
+620,Jeff,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Where did Jeff get the",Who gave the apple? 
+621,Jeff,"Answer: Jeff gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Jeff",Who gave the apple to Fred? 
+622,Fred,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred take",Who gave the apple to Bill? 
+623,apple,"Answer: Fred gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Bill? 
+624,Bill,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred take the",Who did Fred give the apple to? 
+625,football,"Answer: Jeff gave the football to Fred.
+
+
+Follow-up Question 1: Where did Fred drop",What did Jeff give to Fred? 
+626,football,"Answer: Jeff gave the football to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Jeff give to Fred? 
+627,Fred,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Who was the last",Who gave the football to Jeff? 
+628,Jeff,"Answer: Jeff received the football.
+
+Follow-up Question 1: Who initially had the football?",Who received the football? 
+629,Fred,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Who picked up the",Who gave the football to Jeff? 
+630,Fred,"A: Fred
+B: Bill
+C: Mary
+D: Jeff
+
+Please, just choose A, B",Who did Jeff give the football to? 
+631,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Jeff? 
+632,Fred,"Answers:
+
+
+### Response ###
+
+The football was given to Jeff by Fred. This is",Who gave the football to Jeff? 
+633,football,"Answer: Fred gave the football to Jeff.
+
+Follow-up Question 1: Where did Jeff disc",What did Fred give to Jeff? 
+634,apple,"Answer: Jeff gave the apple to Bill.
+
+Follow-up Question 1: Where did Jeff get",What did Jeff give to Bill? 
+635,Jeff,"A: Jeff
+B: Bill
+C: Cannot be determined
+
+Answer: A: Jeff
+
+Explan",Who gave the milk? 
+636,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Cannot be determined
+Please eliminate two incorrect options first",Who gave the milk? 
+637,milk,"A) The football
+B) The milk
+C) The apple
+D) The football and the milk
+E",What did Jeff give to Bill? 
+638,football,"A:
+
+A: The football
+B: The milk
+C: The apple
+D: The football and",What did Mary give to Fred? 
+639,Mary,"A: Fred
+B: Mary
+C: Jeff
+D: Bill
+E: Sandra
+F: George",Who received the football? 
+640,Jeff,"Answers: Jeff
+
+Context: The police stopped a green van. The police got out of the van.",Who received the milk? 
+641,Jeff,"Answer: Jeff gave the milk.
+
+
+The context provided indicates a sequence of events involving the milk and two",Who gave the milk? 
+642,Bill,Answer: The text does not specify that Jeff gave the milk to anyone. It only states that Jeff picked up the milk,Who did Jeff give the milk to? 
+643,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where was Fred when he",Who did Fred give the milk to? 
+644,milk,"Answer: Fred gave the milk to Bill.
+
+
+Complete detailed textbook-level solution:
+
+To determine",What did Fred give to Bill? 
+645,Mary,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Mary",Who gave the apple to Bill? 
+646,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+647,Bill,"Answer: Bill gave the apple to Mary.
+
+Explanation: The text states that ""Bill handed",Who gave the apple to Mary? 
+648,Bill,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary get",Who did Mary give the apple to? 
+649,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Where did Mary discard the",Who received the apple? 
+650,Bill,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Who took the apple after",Who gave the apple? 
+651,Bill,"Answer: Bill received the milk.
+
+Follow-up Question 1: Where did Bill get the apple",Who received the milk? 
+652,Bill,"Answer: Jeff gave the milk to Bill.
+
+Follow-up Question 1: Where did Bill go",Who did Jeff give the milk to? 
+653,Bill,"Answer: Jeff gave the milk to Bill.
+
+Follow-up Question 1: Where did Bill drop",Who did Jeff give the milk to? 
+654,milk,"Answer: Jeff gave the milk to Bill.
+
+Follow-up Question 1: Where did Bill drop",What did Jeff give to Bill? 
+655,Bill,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary get",Who did Mary give the apple to? 
+656,Mary,"Answer: Mary gave the apple to Bill.
+
+Explanation: The text states that ""Mary passed",Who gave the apple to Bill? 
+657,Fred,"Answers:
+
+
+### Response ###
+
+The text states that ""Fred gave the football to",Who gave the football to Mary? 
+658,Mary,"Answer: Mary gave the football.
+
+
+Follow-up Question 1: Who took the football from",Who gave the football? 
+659,football,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary grab",What did Mary give to Fred? 
+660,Mary,"A) Mary
+B) Jeff
+C) Cannot be determined
+
+Answer: A) Mary
+
+Explan",Who gave the apple to Jeff? 
+661,apple,"Options: 
+(A) The apple
+(B) The football
+(C) The milk
+(",What did Jeff give to Mary? 
+662,apple,"Answer: Mary gave the apple to Jeff.
+
+Explanation: The text states that ""Mary passed",What did Mary give to Jeff? 
+663,apple,"Answer: Mary gave the apple to Jeff.
+
+Explanation: The text states that ""Mary passed",What did Mary give to Jeff? 
+664,Fred,"Answer: Fred received the football.
+
+Explanation: The text states that ""Mary handed the football",Who received the football? 
+665,Mary,"Answer: Bill gave the football to Mary.
+
+Context: Mary went to the garden. Fred travelled to the",Who did Bill give the football to? 
+666,Mary,"Answer: Bill gave the football to Mary.
+
+Context: Jeff picked up the football there. Bill left the football",Who did Bill give the football to? 
+667,Bill,"Answer: Bill gave the football to Mary.
+
+Context: Jeff moved to the hallway. Mary travelled to",Who gave the football to Mary? 
+668,Jeff,"Answer: Jeff gave the football to Fred.
+
+Follow-up Question 1: Where did Jeff get the",Who gave the football to Fred? 
+669,Fred,"Answer: Fred gave the football.
+
+
+Follow-up Question 1: Who picked up the football",Who gave the football? 
+670,apple,"Answer: Bill gave Fred an apple.
+
+
+Question: Where did Jeff drop the milk?
+Answer: Jeff",What did Bill give to Fred? 
+671,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Bill? 
+672,apple,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred go after",What did Bill give to Fred? 
+673,Bill,"Answer: Bill gave the apple.
+
+Explanation: The text states that ""Bill got the apple",Who gave the apple? 
+674,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill get",Who did Bill give the apple to? 
+675,Mary,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Who received the apple?",Who gave the apple? 
+676,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who discarded the football?",Who received the apple? 
+677,apple,"Answer: Mary gave the apple to Jeff.
+
+
+Question: Where did Mary go after she discarded the football",What did Mary give to Jeff? 
+678,Mary,"Answer: Jeff gave the apple.
+
+
+Question: Who discarded the football?
+
+Answer: Mary",Who gave the apple? 
+679,Mary,"Answer: Jeff gave the apple.
+
+
+Complete detailed textbook-level solution:
+
+To determine who",Who gave the apple? 
+680,apple,"Answer: Bill gave the apple to Mary.
+
+
+Context: John got the football there. John passed the",What did Bill give to Mary? 
+681,Mary,"Options:
+(A) Bill
+(B) Mary
+(C) Cannot be determined",Who did Bill give the apple to? 
+682,Bill,"Answer: Bill gave the apple.
+
+Explanation: The context mentions that ""Bill got the apple",Who gave the apple? 
+683,Bill,"Answer: Bill gave the apple to Mary.
+
+Explanation: The text states that ""Bill handed",Who gave the apple to Mary? 
+684,apple,"Answer: Fred gave the apple to Bill.
+
+
+Complete detailed textbook-level solution:
+
+To",What did Fred give to Bill? 
+685,football,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where was Mary when she",What did Mary give to Bill? 
+686,football,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where did Bill go after",What did Mary give to Bill? 
+687,Mary,"Answers:
+Bill gave the football.
+Mary gave the football.
+Jeff gave the football",Who gave the football? 
+688,Jeff,"Answer: Jeff gave the milk.
+
+Explanation: The text states ""Jeff took the milk there",Who gave the milk? 
+689,milk,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Jeff? 
+690,Mary,"Answers: Jeff, Fred, Bill, Mary, Bob
+Answer: Mary
+
+Context: Jeff got the",Who gave the apple to Bill? 
+691,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Bill give to Mary? 
+692,Bill,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary pick",Who did Mary give the apple to? 
+693,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Bill give to Mary? 
+694,Mary,"Answer: Mary received the apple.
+
+
+Follow-up Question 1: Who was the last person",Who received the apple? 
+695,milk,"Answer: Mary gave the milk to Fred.
+
+Context: Mary went back to the bathroom. Mary journeyed",What did Mary give to Fred? 
+696,milk,"Answer: Mary gave the milk to Fred.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Fred? 
+697,milk,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Mary take the",What did Mary give to Fred? 
+698,Mary,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred pick",Who did Fred give the apple to? 
+699,Fred,"Answer: Fred received the apple.
+
+Follow-up Question 1: Where did Fred pass the apple",Who received the apple? 
+700,Bill,"Answers:
+Bill
+
+Context: Jeff moved to the bedroom. Mary took the football there.",Who gave the apple to Fred? 
+701,apple,"Answer: Bill gave the apple to Fred.
+
+Context: Jeff moved to the bedroom. Mary took the football",What did Bill give to Fred? 
+702,Fred,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred leave",Who did Bill give the apple to? 
+703,Fred,"Answer: Fred received the apple.
+
+Follow-up Question 1: Who discarded the apple?",Who received the apple? 
+704,Mary,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Fred leave the",Who gave the football to Fred? 
+705,Fred,"Answer: Fred gave the football to Mary.
+
+
+Follow-up Question 1: Who received the",Who gave the football? 
+706,football,"Answer: Fred gave the football to Mary.
+
+Explanation: The text states that ""Mary handed",What did Fred give to Mary? 
+707,Fred,"Answer: Fred gave the football to Mary.
+
+Explanation: The text states that ""Mary handed",Who gave the football to Mary? 
+708,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who gave the apple to Jeff",Who received the apple? 
+709,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred grab",Who did Fred give the apple to? 
+710,Jeff,"Answer: Jeff gave the apple to Bill.
+
+Context: Mary went to the hallway. Jeff went to the",Who gave the apple to Bill? 
+711,apple,"Answer: Jeff gave the apple to Bill.
+
+Follow-up Question 1: Where did Jeff leave",What did Jeff give to Bill? 
+712,Jeff,"Answer: Jeff gave the apple to Bill.
+
+Explanation: The text states that ""Jeff gave",Who gave the apple to Bill? 
+713,Bill,"Answer: Bill received the apple.
+
+Explanation: The text states that ""Jeff gave the apple",Who received the apple? 
+714,Bill,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Who received the apple from",Who gave the apple? 
+715,apple,"Answers:
+- The apple
+- The football
+- The milk
+- The apple and the milk",What did Mary give to Fred? 
+716,apple,"A:
+
+A: The apple
+B: The milk
+C: The garden
+D: The bathroom",What did Mary give to Fred? 
+717,Fred,"Answers:
+A: Fred
+B: Jeff
+C: Bill
+D: Mary
+E: Sand",Who gave the apple to Bill? 
+718,Fred,"A: Fred
+B: Mary
+C: Jeff
+D: Bill
+E: Sam
+F: George",Who did Bill give the apple to? 
+719,Bill,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred and",Who did Fred give the apple to? 
+720,apple,"Answer: Bill gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Jeff? 
+721,Jeff,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Where did Bill leave the",Who gave the apple? 
+722,milk,"Answer: Jeff gave the milk to Bill.
+
+
+Question: Where did Jeff move to after picking up the",What did Jeff give to Bill? 
+723,milk,"Answer: Jeff gave the milk to Bill.
+
+Follow-up Question 1: Where did Jeff pick",What did Jeff give to Bill? 
+724,Bill,"Answer: Jeff gave the milk to Bill.
+
+Context: Jeff travelled to the bedroom. Bill picked up",Who did Jeff give the milk to? 
+725,football,"Answer: Mary gave the football to Fred.
+
+
+Context: John went to the garden. John picked up",What did Mary give to Fred? 
+726,football,"Answer: Fred gave the football to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+727,football,"Answer: Fred gave the football to Mary.
+
+Follow-up Question 1: Where did Fred and",What did Fred give to Mary? 
+728,Mary,"Answer: Mary gave the football to Fred.
+
+Explanation: The text states, ""Mary handed",Who gave the football to Fred? 
+729,Bill,"Answers: Bill, Fred, Jeff, Mary, Sandra
+Correct Answer: Bill
+
+Context:",Who gave the milk to Jeff? 
+730,Fred,"A: Fred
+B: Jeff
+C: Mary
+D: Bill
+E: Rob
+F: Sam",Who did Bill give the milk to? 
+731,Fred,"Answer: Bill gave the milk to Fred.
+
+Context: Jeff went back to the office. Fred went back",Who did Bill give the milk to? 
+732,Bill,"A: Bill
+B: Jeff
+C: Mary
+D: Fred
+E: Sandra
+F: George",Who gave the milk to Fred? 
+733,Fred,"Answer: Bill gave the milk to Fred.
+
+Explanation: The text states that ""Bill passed",Who did Bill give the milk to? 
+734,apple,"A:
+
+A: Mary gave Fred the apple.
+B: Mary gave Fred the milk.
+C:",What did Mary give to Fred? 
+735,Fred,"Answer: Mary gave the milk to Fred.
+
+Context: Bill journeyed to the bathroom. Mary travel",Who did Mary give the milk to? 
+736,Mary,"Answer: Fred gave the milk to Mary.
+
+Context: Bill journeyed to the bathroom. Mary travel",Who did Fred give the milk to? 
+737,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred travel",What did Fred give to Mary? 
+738,Fred,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred take the",Who gave the football to Bill? 
+739,football,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred take",What did Fred give to Bill? 
+740,Mary,"Answer: Mary gave the milk to Fred.
+
+Context: Jeff went back to the office. Jeff travelled to",Who gave the milk to Fred? 
+741,Fred,"Answer: Fred received the milk.
+
+Follow-up Question 1: Where did Mary leave the football",Who received the milk? 
+742,milk,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Mary pick",What did Mary give to Fred? 
+743,football,"Answer: Mary gave the football to Fred.
+
+
+Follow-up Question 1: Where did Mary pick",What did Mary give to Fred? 
+744,football,"Answer: Mary gave the football to Fred.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Fred? 
+745,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred drop",Who did Fred give the milk to? 
+746,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred drop",Who did Fred give the milk to? 
+747,milk,"Answer: Bill gave the milk to Mary.
+
+
+Question: Where did Fred go after he went to the hall",What did Bill give to Mary? 
+748,Bill,"Answer: Bill gave the milk to Mary.
+
+
+Question: Where did Fred put down the football?
+Answer",Who gave the milk to Mary? 
+749,milk,"Answer: Mary gave the milk to Fred.
+
+
+Question: Where did Fred go after he dropped the apple?",What did Mary give to Fred? 
+750,Bill,"Answer: Bill gave the apple to Jeff.
+
+Context: Mary went to the hallway. Jeff went to the",Who gave the apple to Jeff? 
+751,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Context: Mary went to the hallway. Jeff went back to",Who did Bill give the apple to? 
+752,apple,"Answer: Jeff gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Bill? 
+753,Bill,"Answers: Bill
+
+### Response: In the given context, it is mentioned that ""Jeff gave",Who did Jeff give the football to? 
+754,football,"Answer: Bill gave the football to Jeff.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Jeff? 
+755,Fred,"Answer: Fred gave the apple to Jeff.
+
+Context: Jeff journeyed to the hallway. Fred went to",Who gave the apple to Jeff? 
+756,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred pick",Who did Fred give the apple to? 
+757,Fred,"Answer: Fred gave the apple to Jeff.
+
+Context: Jeff journeyed to the garden. Fred went to the",Who gave the apple to Jeff? 
+758,Fred,"Answer: Fred gave the milk.
+
+Follow-up Question 1: Who took the apple from Fred",Who gave the milk? 
+759,Fred,"Answer: Fred gave the milk.
+
+Follow-up Question 1: Where did Fred get the milk",Who gave the milk? 
+760,apple,"A) The apple
+B) The banana
+C) The orange
+D) The pear
+E)",What did Fred give to Jeff? 
+761,Jeff,"Answer: Mary gave the apple to Jeff.
+
+Context: Jeff travelled to the kitchen. Fred got the apple",Who did Mary give the apple to? 
+762,Mary,"Answer: Mary gave the apple.
+
+Context: Jeff travelled to the kitchen. Fred got the apple there",Who gave the apple? 
+763,Mary,"Answer: Mary gave the apple.
+
+Context: Jeff travelled to the kitchen. Fred got the apple there",Who gave the apple? 
+764,Jeff,"Answer: Mary gave the apple to Jeff.
+
+
+Complete detailed textbook-level solution:
+
+To",Who did Mary give the apple to? 
+765,Fred,"A: Fred
+B: Bill
+C: Mary
+D: John
+E: Rob
+F: Sam",Who received the football? 
+766,football,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Bill? 
+767,football,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred travel",What did Fred give to Bill? 
+768,Bill,"Answer: Fred received the football.
+
+Explanation: The text states that ""Bill picked up the",Who received the football? 
+769,Jeff,"Answer: Jeff gave the football to Bill.
+
+Follow-up Question 1: Where did Jeff pick up",Who gave the football to Bill? 
+770,Bill,"Answer: Bill gave the apple to Mary.
+
+Context: Bill grabbed the apple there. Bill handed",Who gave the apple? 
+771,Mary,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Fred",Who did Bill give the apple to? 
+772,apple,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred go",What did Mary give to Bill? 
+773,apple,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred go",What did Bill give to Mary? 
+774,Bill,"Answer: Bill gave the apple to Mary.
+
+Explanation: The text states that ""Bill handed",Who gave the apple to Mary? 
+775,Mary,"Answer: Mary gave the milk.
+
+Follow-up Question 1: Where did Mary get the milk",Who gave the milk? 
+776,milk,"Answer: Mary gave the milk to Fred.
+
+
+Question: Where did Fred travel to after the hallway?",What did Mary give to Fred? 
+777,Fred,"Answer: Bill gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Fred",Who did Bill give the apple to? 
+778,apple,"Answer: Fred gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Bill? 
+779,Bill,"Answer: Bill received the apple.
+
+Follow-up Question 1: Who gave the apple to Bill",Who received the apple? 
+780,Mary,"Answers:
+- Jeff
+- Fred
+- Mary
+- Bill
+- Bob
+
+Correct Answer",Who received the football? 
+781,Mary,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary disc",Who did Bill give the football to? 
+782,apple,"Answer: Jeff gave the apple to Mary.
+
+Follow-up Question 1: Where did Jeff pick",What did Jeff give to Mary? 
+783,Mary,"Answer: Jeff gave the apple to Mary.
+
+Follow-up Question 1: Where did Jeff pick",Who did Jeff give the apple to? 
+784,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Fred? 
+785,milk,"Answer: Fred gave milk to Mary.
+
+
+Follow-up Question 1: Where did Fred get the",What did Fred give to Mary? 
+786,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Mary? 
+787,milk,"Answer: Fred gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Mary? 
+788,milk,"Answer: Bill gave the milk to Mary.
+
+
+Question: Where did Fred move after the kitchen?
+Answer",What did Bill give to Mary? 
+789,milk,"Answer: Bill gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+790,apple,"Answer: Fred gave the apple to Mary.
+
+
+Question: Where did Fred go after he gave the apple to",What did Fred give to Mary? 
+791,Fred,"Answer: Fred gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred pick up",Who gave the apple to Mary? 
+792,Mary,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Who picked up the apple after",Who gave the apple? 
+793,Mary,"Answer: Jeff gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Jeff",Who did Jeff give the apple to? 
+794,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who gave the apple to Mary",Who received the apple? 
+795,apple,"Answer: Mary gave the apple to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+796,Mary,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who initially had the apple?",Who received the apple? 
+797,apple,"Answer: Mary gave the apple to Bill.
+
+
+Question: Where did Fred move after he grabbed the",What did Mary give to Bill? 
+798,Mary,"A: Fred
+B: Mary
+C: Bill
+D: Jeff
+
+
+### Response",Who gave the apple to Bill? 
+799,apple,"Answer: Mary gave the apple to Bill.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Bill? 
+800,Jeff,"A) Jeff
+B) Mary
+C) Fred
+D) None of the above
+
+Answer: A)",Who gave the football to Fred? 
+801,football,"Answer: Jeff gave the football to Fred.
+
+Follow-up Question 1: Where did Jeff move",What did Jeff give to Fred? 
+802,Jeff,"A) Jeff
+B) Mary
+C) Bill
+D) Fred
+E) None of the above",Who gave the football to Fred? 
+803,football,"Answer: Mary gave the football to Fred.
+
+
+Question: Where did Fred go after he left the football in",What did Mary give to Fred? 
+804,Mary,"Answer: Mary received the football.
+
+Explanation: The text mentions that ""Fred gave the football",Who received the football? 
+805,Jeff,"Answer: Jeff gave the apple.
+
+Follow-up Question 1: Where did Jeff take the apple",Who gave the apple? 
+806,apple,"Answer: Jeff gave the apple to Mary.
+
+Follow-up Question 1: Where did Mary disc",What did Jeff give to Mary? 
+807,apple,"Answer: Jeff gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary disc",What did Jeff give to Mary? 
+808,Jeff,"Answer: Jeff received the milk.
+
+Follow-up Question 1: Where did Jeff receive the milk",Who received the milk? 
+809,milk,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred take",What did Jeff give to Fred? 
+810,Mary,"A) Bill
+B) Mary
+C) Jeff
+D) None of the above
+
+Answer: B)",Who gave the football? 
+811,Jeff,"A) Bill
+B) Jeff
+C) Mary
+D) None of the above
+
+Correct Answer:",Who gave the football? 
+812,Mary,"A: Jeff
+B: Mary
+C: Bill
+D: None of the above
+Please eliminate two incorrect options",Who gave the football? 
+813,Mary,"Choices:
+(A) Bill
+(B) Mary
+(C) Jeff
+(D) Cannot be",Who gave the football to Bill? 
+814,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Sandra
+E: George
+F: Anne",Who did Mary give the football to? 
+815,milk,"Answers:
+- Bill gave the milk to Jeff.
+- Bill gave the football to Jeff.
+-",What did Bill give to Jeff? 
+816,Jeff,"Answers: Jeff
+
+Context: The police stopped a thief who stole Sally's necklace",Who received the milk? 
+817,Bill,"A) Bill
+B) Mary
+C) Jeff
+D) Not enough information
+
+Answer: A) Bill",Who gave the milk to Jeff? 
+818,Bill,"Answer: Bill received the milk.
+
+Follow-up Question 1: Who initially had the milk?",Who received the milk? 
+819,milk,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred move",What did Fred give to Bill? 
+820,football,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred pick",What did Fred give to Bill? 
+821,Fred,"Answer: Bill gave the football to Fred.
+
+Follow-up Question 1: Where did Fred put",Who did Bill give the football to? 
+822,football,"Answer: Bill gave the football to Fred.
+
+Follow-up Question 1: Where did Fred put",What did Bill give to Fred? 
+823,apple,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Mary go",What did Bill give to Mary? 
+824,Mary,"Answer: Mary received the apple.
+
+Explanation: The text states that ""Mary gave the apple",Who received the apple? 
+825,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred grab",Who did Fred give the milk to? 
+826,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred grab",Who did Fred give the milk to? 
+827,milk,"Answer: Fred gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Bill? 
+828,Mary,"Answer: Mary gave the milk.
+
+
+Follow-up Question 1: Where did Mary take the",Who gave the milk? 
+829,milk,"Answer: Bill gave the milk to Fred.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Fred? 
+830,Bill,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill drop",Who gave the apple to Mary? 
+831,Mary,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Fred drop",Who did Bill give the apple to? 
+832,Mary,"Answer: Bill gave the apple to Mary.
+
+Follow-up Question 1: Where did Bill pick",Who did Bill give the apple to? 
+833,Bill,"Answer: Bill handed the apple to Mary.
+
+
+Follow-up Question 1: Who was the",Who gave the apple? 
+834,apple,"Answer: Bill gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Mary? 
+835,Mary,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary go",Who did Bill give the football to? 
+836,Mary,"Answers: Jeff, Fred, Bill, Mary, Bob
+Correct answer: Mary
+
+Context: Jeff",Who gave the football to Fred? 
+837,Fred,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Fred go",Who did Mary give the football to? 
+838,Fred,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where did Mary get the",Who gave the football to Bill? 
+839,Bill,"Answer: Fred gave the football to Bill.
+
+Follow-up Question 1: Where did Fred get the",Who did Fred give the football to? 
+840,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Fred
+Please, just choose one of the options",Who received the apple? 
+841,Jeff,"Answer: Jeff gave the apple to Bill.
+
+Explanation: The text states that ""Jeff handed",Who gave the apple? 
+842,Jeff,"Answer: Jeff gave the apple.
+
+Explanation: The text states that ""Jeff handed the apple",Who gave the apple? 
+843,Mary,"Answers: Jeff, Bill, Mary
+
+Question: Who travelled to the garden?
+Answers",Who received the apple? 
+844,Mary,"Answer: Mary gave the apple.
+
+Explanation: The last action involving the apple was ""Mary",Who gave the apple? 
+845,Fred,"Answers: Fred received the football.
+
+Context: Mary went to the garden. Jeff went to the garden",Who received the football? 
+846,Mary,"Answer: Mary gave the football.
+
+Follow-up Question 1: Where did Mary give the football",Who gave the football? 
+847,football,"A:
+
+A: The football
+B: The apple
+C: The milk
+D: The garden",What did Mary give to Fred? 
+848,Bill,"Answer: Jeff gave the apple to Bill.
+
+Explanation: The text states ""Bill handed the",Who did Jeff give the apple to? 
+849,apple,"Answer: Jeff gave the apple to Bill.
+
+
+Complete detailed textbook-level solution:
+
+To",What did Jeff give to Bill? 
+850,apple,"Answer: Jeff gave the apple to Mary.
+
+Context: John went to the garden. Mary went to the",What did Jeff give to Mary? 
+851,apple,"Answer: Jeff gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+852,Mary,"Answer: Jeff gave the apple to Mary.
+
+Context: Mary went to the garden. Jeff went back to",Who did Jeff give the apple to? 
+853,football,"Answer: Jeff gave the football to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+854,Mary,"Answer: Jeff gave the football to Mary.
+
+Context: Mary went to the garden. Jeff went back to",Who did Jeff give the football to? 
+855,football,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Mary go after",What did Mary give to Fred? 
+856,Mary,"Answer: Mary gave the football.
+
+Follow-up Question 1: Who received the football from Mary",Who gave the football? 
+857,Mary,"Answer: Mary gave the football to Fred.
+
+Follow-up Question 1: Where did Fred drop",Who gave the football to Fred? 
+858,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred get",What did Fred give to Mary? 
+859,Fred,"Answer: Fred gave the milk.
+
+
+Follow-up Question 1: Who was the last person",Who gave the milk? 
+860,milk,"Answers:
+- The milk
+- The football
+- The apple
+- The book
+- The d",What did Jeff give to Mary? 
+861,Mary,"Answer: Jeff received the milk.
+
+
+Context: Bill moved to the garden. Mary travelled to the",Who received the milk? 
+862,milk,"Answer: Jeff gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+863,Jeff,"Answer: Mary gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Mary",Who did Mary give the apple to? 
+864,Jeff,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Who took the apple after",Who gave the apple? 
+865,Mary,"Answer: Mary gave the milk to Fred.
+
+Context: Bill went to the kitchen. Jeff went back to the",Who gave the milk to Fred? 
+866,milk,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred pick",What did Fred give to Mary? 
+867,milk,"Answer: Mary gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred pick",What did Mary give to Fred? 
+868,Mary,"Answer: Fred gave the milk to Mary.
+
+Follow-up Question 1: Where did Fred pick",Who did Fred give the milk to? 
+869,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Mary gave the milk",Who gave the milk? 
+870,Bill,"Answer: Bill gave the milk to Mary.
+
+Context: Mary took the milk there. Mary went back to the",Who gave the milk to Mary? 
+871,Bill,"Answer: Mary gave the football to Bill.
+
+Context: Mary went to the garden. Bill journeyed to the",Who did Mary give the football to? 
+872,Mary,"Answer: Bill gave the football to Mary.
+
+Explanation: The text states, ""Mary passed",Who did Bill give the football to? 
+873,Mary,"Answer: Mary gave the football.
+
+Follow-up Question 1: Who received the football from Mary",Who gave the football? 
+874,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states ""Mary gave the milk to",Who gave the milk? 
+875,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Where did Mary receive the football",Who received the football? 
+876,Mary,"Answer: Bill gave the football to Mary.
+
+Follow-up Question 1: Where did Mary give",Who did Bill give the football to? 
+877,football,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where did Mary give",What did Mary give to Bill? 
+878,football,"Answer: Mary gave the football to Bill.
+
+Follow-up Question 1: Where did Mary give",What did Mary give to Bill? 
+879,Fred,"Answer: Mary gave the football to Fred.
+
+Context: Jeff travelled to the garden. Mary went to the",Who did Mary give the football to? 
+880,Jeff,"Answer: Jeff gave the apple.
+
+
+Follow-up Question 1: Where did Jeff get the",Who gave the apple? 
+881,Jeff,"Answer: Jeff gave the apple to Mary.
+
+
+Follow-up Question 1: Where did Jeff",Who gave the apple? 
+882,milk,"Answer: Bill gave the milk to Fred.
+
+Follow-up Question 1: Where did Bill get",What did Bill give to Fred? 
+883,Bill,"A: Bill
+B: Mary
+C: Jeff
+D: Fred
+E: Bill and Fred
+F",Who gave the milk to Fred? 
+884,milk,"Answer: Bill gave the milk to Fred.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Fred? 
+885,Bill,"A: Bill
+B: Jeff
+C: Mary
+D: Fred
+E: George
+F: Anne",Who received the apple? 
+886,Bill,"Answer: Jeff gave the apple to Bill.
+
+Context: John moved to the hallway. Mary moved to the",Who did Jeff give the apple to? 
+887,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Who gave the apple to Jeff",Who received the apple? 
+888,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Context: Mary went back to the hallway. Jeff went back",Who did Bill give the apple to? 
+889,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill pick",Who did Bill give the apple to? 
+890,Bill,"Answer: Bill handed the apple to Mary.
+
+
+Follow-up Question 1: Where did Bill",Who gave the apple? 
+891,apple,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where was Mary when she",What did Mary give to Fred? 
+892,Fred,"Answer: Mary received the apple.
+
+Follow-up Question 1: Who passed the apple to Fred",Who received the apple? 
+893,Mary,"Answer: Bill handed the apple to Mary.
+
+
+Question: Who is holding the apple?
+
+Answer",Who gave the apple? 
+894,Fred,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred grab",Who did Bill give the apple to? 
+895,Fred,"Answer: Mary gave the apple.
+
+
+Follow-up Question 1: Who received the apple?",Who gave the apple? 
+896,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: In the town square, the crowd was getting rest",Who did Mary give the apple to? 
+897,Fred,"Answer: Fred received the apple.
+
+Explanation: The text states that ""Mary handed the apple",Who received the apple? 
+898,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Where did Mary receive the football",Who received the football? 
+899,Bill,"Answer: Bill gave the football.
+
+
+Follow-up Question 1: Who received the football from",Who gave the football? 
+900,Jeff,"Answer: Jeff received the apple.
+
+Follow-up Question 1: Where did Jeff leave the apple",Who received the apple? 
+901,apple,"Answer: Fred gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+902,Jeff,"Answer: Fred gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Fred",Who did Fred give the apple to? 
+903,apple,"Answer: Fred gave the apple to Jeff.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Jeff? 
+904,Fred,"Answer: Fred received the apple.
+
+
+Follow-up Question 1: Who was the last person",Who received the apple? 
+905,Bill,"Answers: Bill
+
+Context: Jeff went to the bedroom. Bill moved to the hallway. Mary",Who gave the milk to Fred? 
+906,milk,"Answer: Fred gave the milk to Bill.
+
+
+Follow-up Question 1: Where did Fred",What did Fred give to Bill? 
+907,Fred,"Answer: Bill gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred travel",Who did Bill give the milk to? 
+908,Bill,"Answer: Bill gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred drop the",Who gave the milk to Fred? 
+909,Fred,"A: Fred
+B: Bill
+C: Jeff
+D: Mary
+E: John
+F: Sam",Who gave the milk? 
+910,milk,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred get the",What did Fred give to Jeff? 
+911,Jeff,"A: Jeff
+B: Bill
+C: Mary
+D: Fred
+E: Rob
+F: Sam",Who did Fred give the milk to? 
+912,Mary,"Answer: Mary received the milk.
+
+Follow-up Question 1: Where did Mary get the apple",Who received the milk? 
+913,Jeff,"Answer: Jeff gave the milk.
+
+Follow-up Question 1: Who received the milk?",Who gave the milk? 
+914,milk,"Answer: Jeff gave the milk to Mary.
+
+Follow-up Question 1: Where did Mary disc",What did Jeff give to Mary? 
+915,football,"A: football
+B: milk
+C: apple
+E: Mary
+F: hallway
+G: kitchen",What did Fred give to Mary? 
+916,Mary,"A: Fred
+B: Mary
+C: Jeff
+D: Bill
+E: Sandra
+F: Anne",Who received the football? 
+917,Mary,"Answer: Fred gave the football.
+
+Follow-up Question 1: Who received the football?",Who gave the football? 
+918,Mary,"Answer: Fred gave the football.
+
+Follow-up Question 1: Who received the football?",Who gave the football? 
+919,Fred,"A: Fred
+B: Mary
+C: Bill
+D: Sandra
+E: Sam
+F: Jeff",Who gave the football to Jeff? 
+920,Mary,"Answer: Mary gave the apple to Fred.
+
+Context: The apple was given to Fred by Mary.",Who gave the apple to Fred? 
+921,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: Mary picked up the apple there. Mary handed the",Who did Mary give the apple to? 
+922,Fred,"Answer: Mary gave the apple to Fred.
+
+Context: John picked up the apple there. John handed the",Who did Mary give the apple to? 
+923,Mary,"Answer: Mary gave the apple.
+
+Context: Mary went to the hallway. Mary went to the kitchen",Who gave the apple? 
+924,football,"Answer: Jeff gave the football to Mary.
+
+
+Follow-up Question 1: Where did Jeff",What did Jeff give to Mary? 
+925,Mary,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Fred handed the milk",Who gave the milk? 
+926,Bill,"Answer: Fred gave the milk to Bill.
+
+Follow-up Question 1: Where did Fred get",Who did Fred give the milk to? 
+927,Fred,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Who took the milk?",Who gave the apple? 
+928,milk,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred take",What did Fred give to Bill? 
+929,apple,"Answer: Bill gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Bill",What did Bill give to Fred? 
+930,apple,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where did Mary get",What did Mary give to Fred? 
+931,Mary,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Where did Mary get the apple",Who gave the apple? 
+932,apple,"Answer: Mary gave the apple to Fred.
+
+
+Follow-up Question 1: Where did Fred",What did Mary give to Fred? 
+933,Jeff,"A: Mary
+B: Bill
+C: Jeff
+D: Fred
+E: Mary gave the apple to",Who gave the apple to Fred? 
+934,Jeff,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who took the apple after Mary",Who gave the apple? 
+935,Fred,"Answer: Bill gave the apple to Fred.
+
+Follow-up Question 1: Where did Fred move",Who did Bill give the apple to? 
+936,Bill,"Answer: Bill gave the apple.
+
+
+Follow-up Question 1: Who received the apple from",Who gave the apple? 
+937,apple,"Answer: Fred gave the apple to Bill.
+
+Follow-up Question 1: Where did Fred move",What did Fred give to Bill? 
+938,Bill,"Answer: Fred gave the apple to Bill.
+
+Context: Mary went to the hallway. Jeff went back",Who did Fred give the apple to? 
+939,Bill,"Answer: Fred received the apple.
+
+Explanation: The text states that ""Bill handed the apple",Who received the apple? 
+940,football,"Answers:
+- the football
+- the apple
+- the bedroom
+- the garden
+- the",What did Jeff give to Bill? 
+941,football,"Answer: Bill gave the football to Jeff.
+
+Follow-up Question 1: Where did Jeff give",What did Bill give to Jeff? 
+942,Bill,"Answer: Bill gave the football to Jeff.
+
+Explanation: The text states ""Bill gave the",Who gave the football to Jeff? 
+943,apple,"Answer: Fred gave the apple to Mary.
+
+
+Question: Where did Jeff give the football to Bill?",What did Fred give to Mary? 
+944,Fred,"Answer: Mary gave the apple to Fred.
+
+Explanation: The text states ""Fred got the",Who did Mary give the apple to? 
+945,Bill,"Answer: Bill gave the apple to Jeff.
+
+Context: Jeff journeyed to the bathroom. Bill went to",Who gave the apple to Jeff? 
+946,Bill,"Answer: Jeff gave the apple to Bill.
+
+Follow-up Question 1: Where did Bill go",Who did Jeff give the apple to? 
+947,Bill,"Answer: Jeff received the apple.
+
+Explanation: The text states that ""Bill handed the apple",Who received the apple? 
+948,Bill,"Answer: Bill gave the apple.
+
+Explanation: The text states ""Bill handed the apple to",Who gave the apple? 
+949,Jeff,"Answer: Bill gave the apple to Jeff.
+
+Follow-up Question 1: Where did Bill get",Who did Bill give the apple to? 
+950,Fred,"A) Bill
+B) Mary
+C) Fred
+D) Jeff
+E) Cannot determine
+
+Correct",Who gave the milk to Jeff? 
+951,Jeff,"Answer: Jeff received the milk.
+
+Context: Bill went back to the bedroom. Mary went to the",Who received the milk? 
+952,Fred,"Answer: Jeff gave the milk to Fred.
+
+Context: Bill went back to the bedroom. Mary went to",Who did Jeff give the milk to? 
+953,Jeff,"Answer: Fred gave the milk to Jeff.
+
+Follow-up Question 1: Where did Fred get",Who did Fred give the milk to? 
+954,milk,"Answer: Jeff gave the milk to Fred.
+
+Follow-up Question 1: Where did Fred go",What did Jeff give to Fred? 
+955,milk,"Answers:
+
+
+### Response ###
+
+Mary gave the milk to Bill.",What did Mary give to Bill? 
+956,Mary,"A: Bill gave the milk to Mary.
+
+Context: Fred travelled to the garden. Bill went to the",Who did Bill give the milk to? 
+957,Bill,"Answers:
+
+
+### Response ###
+
+Bill gave the milk to Mary. This is infer",Who gave the milk to Mary? 
+958,Mary,"Answer: Mary gave the football.
+
+Follow-up Question 1: Where did Mary pick up the",Who gave the football? 
+959,Mary,"Answer: Mary received the football.
+
+Follow-up Question 1: Where did Mary put down the",Who received the football? 
+960,apple,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred pick up",What did Fred give to Jeff? 
+961,Jeff,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred pick",Who did Fred give the apple to? 
+962,Fred,"Answer: Fred gave the apple to Jeff.
+
+Follow-up Question 1: Where did Fred get the",Who gave the apple to Jeff? 
+963,Fred,"Answer: Fred gave the apple.
+
+Follow-up Question 1: Who initially had the apple?",Who gave the apple? 
+964,Fred,"Answer: Mary gave the apple.
+
+Explanation: The passage describes a series of movements and actions involving",Who gave the apple? 
+965,Fred,"Answer: Fred
+
+
+Context: Mary journeyed to the bedroom. Jeff travelled to the hallway.",Who received the apple? 
+966,Mary,"Answer: Mary gave the apple to Fred.
+
+Context: Jeff travelled to the bathroom. Mary went to",Who gave the apple to Fred? 
+967,Fred,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where did Mary pick",Who did Mary give the apple to? 
+968,apple,"Answer: Mary gave the apple to Fred.
+
+Follow-up Question 1: Where did Mary get the",What did Mary give to Fred? 
+969,Fred,"Answer: Mary gave the apple.
+
+Follow-up Question 1: Who received the apple?",Who gave the apple? 
+970,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: Mary
+E: George
+F: Anne",Who received the milk? 
+971,Bill,"Answer: Bill gave the milk.
+
+Explanation: The text states that ""Mary took the milk",Who gave the milk? 
+972,Bill,"A: Bill
+B: Jeff
+C: Fred
+D: George
+E: Sandra
+F: Sam",Who gave the milk to Mary? 
+973,Mary,"A: Mary
+B: Bill
+C: Fred
+D: Jeff
+E: George
+F: Anne",Who gave the milk to Jeff? 
+974,Fred,"A: Fred
+B: Mary
+C: Bill
+D: Jeff
+E: George
+F: Anne",Who gave the football? 
+975,football,"A) The football
+B) The milk
+C) The apple
+D) The football and the milk
+E",What did Jeff give to Bill? 
+976,football,"A: football
+B: apple
+C: milk
+D: nothing
+E: microwave
+F:",What did Jeff give to Bill? 
+977,Jeff,"Answer: Mary gave the milk to Jeff.
+
+Explanation: The text states that ""Jeff gave",Who did Mary give the milk to? 
+978,milk,"Answer: Mary gave the milk to Jeff.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Jeff? 
+979,Mary,"Answer: Mary received the football.
+
+Explanation: The text states that ""Bill handed the football",Who received the football? 
+980,milk,"Answer: Fred gave the milk to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Fred give to Mary? 
+981,Fred,"Answer: Mary gave the milk.
+
+Follow-up Question 1: Where did Mary pick up the",Who gave the milk? 
+982,Fred,"Answer: Fred gave the milk to Mary.
+
+Explanation: The text states that ""Mary handed",Who gave the milk to Mary? 
+983,Fred,"Answer: Fred received the milk.
+
+Explanation: The text mentions that Mary handed the milk to Fred",Who received the milk? 
+984,Fred,"Answer: Mary gave the milk.
+
+Explanation: The text states that ""Mary handed the milk",Who gave the milk? 
+985,Jeff,"A: Fred
+B: Jeff
+C: Bill
+D: Sandra
+E: Mary
+F: Sam",Who received the milk? 
+986,Fred,"Answer: Fred gave the milk.
+
+Context: Jeff went to the garden. Fred went to the garden.",Who gave the milk? 
+987,Fred,"Answer: Fred gave the milk to Jeff.
+
+Context: Mary went to the garden. Mary went to the kitchen",Who gave the milk to Jeff? 
+988,Fred,"Answer: Fred gave the milk.
+
+Follow-up Question 1: Who received the milk from Fred",Who gave the milk? 
+989,Bill,"Answer: Bill received the milk.
+
+Follow-up Question 1: Where did Bill receive the milk",Who received the milk? 
+990,apple,"Answer: Bill gave the apple to Fred.
+
+
+Question: Where did Fred go after he took the apple?",What did Bill give to Fred? 
+991,Fred,"A: Fred
+B: Mary
+C: Jeff
+D: John
+E: Insufficient information
+F",Who did Bill give the apple to? 
+992,Bill,"Answer: Bill gave the apple.
+
+Explanation: The text states that ""Fred handed the apple",Who gave the apple? 
+993,football,"Answer: Jeff gave the football to Mary.
+
+
+Follow-up Question 1: Where did Mary",What did Jeff give to Mary? 
+994,Jeff,"Answer: Jeff gave the football to Mary.
+
+Follow-up Question 1: Where did Mary pass",Who gave the football to Mary? 
+995,Bill,"Answer: Bill received the football.
+
+Follow-up Question 1: Where did Fred discard the",Who received the football? 
+996,Fred,"Answer: Fred gave the football.
+
+Follow-up Question 1: Where did Fred pick up the",Who gave the football? 
+997,football,"Answer: Mary gave the football to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 
+998,football,"Answer: Mary gave the football to Bill.
+
+
+Follow-up Question 1: Where did Mary",What did Mary give to Bill? 

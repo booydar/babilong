@@ -1,0 +1,19 @@
+{
+    "prompt": {
+        "instruction": "",
+        "examples": "",
+        "post_prompt": "",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": false
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "max_length": null,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 0
+    }
+}

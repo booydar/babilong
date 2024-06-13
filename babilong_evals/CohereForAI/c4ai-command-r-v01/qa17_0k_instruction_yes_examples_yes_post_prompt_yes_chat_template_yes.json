@@ -1,0 +1,19 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about different figures, their location and colors, hidden in some random text and a question. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nThe triangle is above the pink rectangle. The blue square is to the left of the triangle. Is the pink rectangle to the right of the blue square?\nAnswer: yes\n</example>\n<example>\nThe red sphere is to the left of the yellow square. The red sphere is below the pink rectangle. Is the pink rectangle to the left of the yellow square?\nAnswer: yes\n</example><example>\nThe red sphere is above the pink rectangle. The red sphere is to the right of the red square. Is the pink rectangle above the red square?\nAnswer: no\n</example>",
+        "post_prompt": "Your answer should contain only one word - $yes$ or $no$. Do not write anything else. Do not explain your answer.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": true
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "max_length": null,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": 0.0,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 0
+    }
+}

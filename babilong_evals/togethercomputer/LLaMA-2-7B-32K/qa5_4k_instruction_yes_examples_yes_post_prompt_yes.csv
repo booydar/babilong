@@ -1,0 +1,2903 @@
+,target,output,question
+0,football,"Label: apple
+
+<context>
+The first time I saw him was in the",What did Fred give to Jeff? 
+1,Fred,"Label: Jeff
+
+<context>",Who gave the football to Jeff? 
+2,football,Label: football,What did Fred give to Jeff? 
+3,Jeff,"Label: Jeff
+</example>
+<example>
+Jeff took the football there",Who did Fred give the football to? 
+4,Fred,"Label: Fred
+
+<context>
+""Don't you suppose these animals would",Who did Jeff give the football to? 
+5,Jeff,"Label: Fred
+
+<context>
+What is that which belongs to yourself, yet",Who gave the apple? 
+6,Bill,"Label: Fred
+
+<context>
+The following is a conversation between two friends.",Who received the apple? 
+7,apple,"Label: apple
+
+<context>
+_Violet_
+   I were",What did Bill give to Fred? 
+8,apple,Label: apple,What did Bill give to Fred? 
+9,Fred,Output: Fred,Who received the apple? 
+10,Mary,"Output: Fred
+<prompt> Generate a summary for this dialogue:
+M",Who received the milk? 
+11,milk,"Label: apple
+
+<context>
+The first time I saw him was in the",What did Mary give to Bill? 
+12,Bill,"Label: Fred
+
+<context>
+Bill journeyed to the bedroom.",Who received the milk? 
+13,Bill,"Label: Fred
+
+<context>
+Poor
+'Loisette'--",Who did Mary give the milk to? 
+14,milk,"Label: Fred
+
+<context>
+The man from Denver and the Steel",What did Mary give to Bill? 
+15,Jeff,"Output: Fred
+<prompt> Generate a question about the following movie plot: The",Who received the football? 
+16,Fred,"Label: Fred
+
+<context>
+""But nothing is going to happen to these",Who gave the football to Jeff? 
+17,football,Label: apple,What did Fred give to Jeff? 
+18,Jeff,Label: Fred,Who received the football? 
+19,Mary,Label: Fred,Who gave the milk? 
+20,milk,"Label: apple
+
+<context>
+The first edition of the Bode translation was",What did Jeff give to Mary? 
+21,Mary,Label: Mary,Who gave the milk to Jeff? 
+22,Mary,"Label: Fred
+
+<context>
+by G. B. Mendels",Who gave the milk to Jeff? 
+23,Bill,"Label: Fred
+
+<prompt>
+Write a summary of the text.",Who gave the apple to Jeff? 
+24,Jeff,Label: Fred,Who gave the apple? 
+25,apple,"Label: apple
+
+<context>
+Bill journeyed to the hallway.",What did Jeff give to Fred? 
+26,Fred,"Label: Fred
+
+<context>
+The following article is a work of fiction.",Who received the apple? 
+27,Jeff,"Label: Fred
+
+<context>
+""I'm sure you're very",Who received the apple? 
+28,Jeff,"Label: Fred
+
+<context>
+The man was a farmer. He lived",Who gave the apple? 
+29,Fred,Output: Fred,Who did Jeff give the apple to? 
+30,Mary,Output: Fred,Who gave the milk? 
+31,Bill,Label: Bill,Who gave the milk? 
+32,Bill,Label: Fred,Who gave the milk to Mary? 
+33,milk,"Label: apple
+
+
+
+
+[Illustration: HORTICULTURAL]",What did Bill give to Mary? 
+34,apple,Label: apple,What did Mary give to Fred? 
+35,Jeff,Label: Jeff,Who did Fred give the milk to? 
+36,Jeff,Label: Fred gave the milk to Jeff.,Who did Fred give the milk to? 
+37,milk,"Label: apple
+
+<context>
+THE FOUNDER OF NEW FRANCE",What did Jeff give to Mary? 
+38,milk,"Label: apple
+
+<context>
+Bill went to the bathroom. The",What did Jeff give to Mary? 
+39,Fred,Label: Fred,Who gave the apple? 
+40,Mary,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the milk? 
+41,milk,Label: Fred,What did Mary give to Fred? 
+42,Jeff,Label: Fred,Who gave the milk? 
+43,Fred,Output: Fred,Who received the milk? 
+44,Mary,"Output: Fred
+
+<context>
+""You call my brother a tyrant",Who gave the milk? 
+45,Bill,"Label: Bill
+
+<context>
+The following is a conversation between two friends.",Who did Mary give the milk to? 
+46,milk,"Label: milk
+
+<context>
+The following is a list of the most important",What did Mary give to Bill? 
+47,Mary,Answer: Bill,Who gave the milk? 
+48,Mary,Label: Fred,Who did Bill give the milk to? 
+49,Bill,"Label: Fred
+
+
+
+
+CHAPTER IX
+
+SHIRE H",Who gave the milk to Mary? 
+50,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Fred? 
+51,Fred,"Label: Fred
+
+<context>
+I
+had
+a
+little",Who gave the apple to Mary? 
+52,apple,"Label: apple
+
+<context>
+Bill journeyed to the hallway.",What did Fred give to Mary? 
+53,apple,"Label: apple
+
+<context>
+""I'm going to have a baby",What did Mary give to Jeff? 
+54,apple,"Label: Fred
+
+<context>
+Bill journeyed to the hallway.",What did Mary give to Jeff? 
+55,Fred,"Label: Fred
+
+<context>
+CHAPTER XX
+
+""I'",Who received the football? 
+56,football,Label: apple,What did Bill give to Fred? 
+57,Bill,Label: Mary,Who gave the apple? 
+58,Bill,Label: Fred,Who did Mary give the apple to? 
+59,Jeff,"Label: Bill
+<context>
+Mary journeyed to the hallway. """,Who did Bill give the apple to? 
+60,Jeff,Label: Jeff,Who did Bill give the apple to? 
+61,Bill,Label: Bill,Who gave the apple to Jeff? 
+62,Jeff,Output: Fred,Who gave the apple to Bill? 
+63,Bill,Label: Fred,Who received the apple? 
+64,Mary,"Output: Bill
+</example>
+<example>
+Mary went to the bedroom",Who gave the milk? 
+65,Mary,"Label: Fred
+
+<context>
+All
+the papers and information collected concerning the",Who gave the apple to Bill? 
+66,Bill,"Output: Fred
+
+
+
+
+                             CHAPTER I.
+
+
+“I’",Who did Mary give the apple to? 
+67,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who did Bill give the apple to? 
+68,apple,Label: apple,What did Bill give to Mary? 
+69,Mary,"Label: Fred
+
+<context>
+Bill went back to the office. Bill",Who did Bill give the apple to? 
+70,apple,"Label: Bill
+
+<context>
+There were men
+there, too; and",What did Fred give to Jeff? 
+71,Jeff,Label: Jeff,Who gave the football? 
+72,Jeff,Label: Jeff,Who gave the football? 
+73,apple,Label: apple,What did Fred give to Bill? 
+74,apple,Label: apple,What did Fred give to Bill? 
+75,Fred,"Label: Fred
+
+<context>
+The first of these was the question of the",Who gave the football? 
+76,Fred,Output: Fred,Who gave the football? 
+77,Mary,"Label: Fred
+
+<context>
+The following article is about the history of the",Who received the football? 
+78,Mary,"Label: Fred
+<context>
+The very power and passion that make--",Who gave the football? 
+79,football,"Label: apple
+
+<context>
+The Wreck of the Hesperus",What did Mary give to Fred? 
+80,milk,Label: apple,What did Fred give to Jeff? 
+81,milk,"Label: apple
+
+
+
+
+THE BATTLE OF GETTYSBUR",What did Fred give to Jeff? 
+82,Fred,Label: Fred,Who did Jeff give the milk to? 
+83,milk,"Label: apple
+
+<context>
+Their first day in the city was spent",What did Jeff give to Fred? 
+84,Jeff,Label: Fred,Who gave the milk to Fred? 
+85,Fred,"Label: Fred
+
+<context>
+The first thing to be said about the Church",Who did Mary give the apple to? 
+86,Fred,"Label: Fred
+
+<context>
+The first thing to be said about the Sac",Who gave the apple to Mary? 
+87,Mary,"Label: Fred
+
+<context>
+""I have been thinking it over,"" he",Who gave the apple? 
+88,Jeff,"Label: Fred
+
+<context>
+The doctor's anger had abated and",Who did Mary give the apple to? 
+89,Jeff,"Label: Fred
+
+<context>
+Bill went back to the hallway.",Who received the football? 
+90,football,"Label: football
+
+<context>
+Their mother, who had been a slave",What did Mary give to Jeff? 
+91,Mary,"Label: Mary
+
+<context>
+The first thing to be done is to get",Who received the football? 
+92,Mary,"Label: Fred
+
+
+
+
+                               CHAPTER VI.",Who gave the football? 
+93,Jeff,Label: Fred,Who did Mary give the football to? 
+94,Bill,Label: Bill,Who did Fred give the apple to? 
+95,Jeff,Output: Fred,Who did Mary give the apple to? 
+96,Mary,Output: Fred,Who gave the apple to Jeff? 
+97,apple,"Label: apple
+
+
+
+
+[Illustration: THE PRAIRIE F",What did Jeff give to Fred? 
+98,Fred,Label: Fred,Who did Jeff give the apple to? 
+99,milk,"Label: milk
+
+<context>
+_Sunday, November_ 3",What did Bill give to Mary? 
+100,Bill,"Output: Fred
+
+
+
+
+THE BROWNIES' PLAY. [Illustration",Who did Mary give the apple to? 
+101,Bill,"Label: Bill
+
+<context>
+[Illustration]
+
+[Illustration]",Who received the apple? 
+102,Fred,"Label: Fred
+
+<context>
+The Brownies were sitting in the hallway.",Who gave the apple? 
+103,Bill,"Label: Fred
+
+<context>
+""I am glad to see you, Mr",Who gave the apple? 
+104,apple,"Label: apple
+
+<context>
+Harry put the boat about, and assist",What did Mary give to Bill? 
+105,Jeff,Label: Fred,Who received the milk? 
+106,Mary,"Answer: Mary
+</context>
+
+<context>
+The first permanent settlement in Virginia",Who gave the milk? 
+107,Jeff,"Label: Fred
+
+<context>
+To my sorrow, in my sober moments",Who did Mary give the milk to? 
+108,football,"Label: ring
+
+<context>
+The following article is about the history of the",What did Bill give to Mary? 
+109,Mary,"Label: Mary
+
+<context>",Who gave the football? 
+110,apple,"Label: apple
+
+<context>
+The following is a list of the 1",What did Jeff give to Mary? 
+111,apple,Label: apple,What did Jeff give to Mary? 
+112,Mary,"Label: Jeff
+
+<context>
+Mary journeyed to the bedroom.",Who gave the apple? 
+113,Mary,"Output: Jeff
+
+<context>
+I was
+afrayd of them at first",Who gave the apple? 
+114,Mary,Label: Mary,Who received the apple? 
+115,Bill,Label: Fred,Who gave the milk? 
+116,milk,"Label: Fred
+</example>
+<example>
+Jeff took the football there",What did Mary give to Bill? 
+117,Bill,"Label: Fred
+
+<context>
+Jeff took the football there. Jeff passed",Who did Mary give the milk to? 
+118,milk,"Label: apple
+
+<context>
+The next morning I was surprised to see the",What did Bill give to Mary? 
+119,Mary,"Label: Fred
+
+<context>
+""I have been thinking,"" said the lady",Who did Bill give the milk to? 
+120,milk,"Label: apple
+
+<context>
+I was born in the year 18",What did Mary give to Bill? 
+121,Mary,"Label: Bill
+
+<context>
+""I'm going to be a great",Who gave the milk? 
+122,Mary,"Label: Fred
+
+<context>
+I
+took the dog and gave it",Who gave the milk? 
+123,Jeff,Label: Jeff,Who did Bill give the football to? 
+124,Bill,"Output: Bill
+<prompter> Generate a summary for this dialogue:",Who gave the football to Jeff? 
+125,Jeff,Label: Fred,Who received the football? 
+126,Jeff,Label: Fred,Who gave the football to Bill? 
+127,football,Output: football,What did Jeff give to Bill? 
+128,football,Output: apple,What did Jeff give to Bill? 
+129,apple,Label: Fred gave the apple to Mary.,What did Fred give to Mary? 
+130,Bill,"Output: Bill
+
+<context>
+The
+Clergyman's lady",Who received the apple? 
+131,apple,Label: apple,What did Mary give to Bill? 
+132,apple,Label: Fred,What did Mary give to Bill? 
+133,apple,Label: apple,What did Jeff give to Mary? 
+134,Fred,Label: Fred,Who gave the apple? 
+135,football,"Label: Fred gave the football to Jeff.
+
+<context>
+1 and",What did Fred give to Jeff? 
+136,football,"Output: apple
+
+<context>
+The pupils of the cat's eyes",What did Fred give to Jeff? 
+137,Jeff,"Label: Fred
+
+<context>
+The man was a doctor, and he was",Who gave the football? 
+138,Fred,Label: Fred,Who did Jeff give the football to? 
+139,football,"Label: apple
+
+<context>
+Bill went back to the bathroom.",What did Fred give to Mary? 
+140,football,"Label: the ball
+
+<context>
+Bill took the milk there. The",What did Jeff give to Mary? 
+141,Mary,Label: Mary,Who received the football? 
+142,football,"Label: apple
+
+<context>
+""I'm glad to see you,",What did Mary give to Jeff? 
+143,Jeff,Output: Jeff,Who gave the football? 
+144,Bill,Label: Fred,Who received the apple? 
+145,Fred,"Output: Fred
+</example>
+<example>
+Jeff took the football there",Who received the apple? 
+146,Fred,Label: Fred,Who received the apple? 
+147,Mary,"Label: Fred
+
+<context>
+In
+Painting it is headed",Who did Bill give the football to? 
+148,Bill,"Label: Jeff
+
+<context>
+The first thing I did was to go to",Who gave the football to Mary? 
+149,Fred,"Label: Fred
+
+<context>
+Bill went to the garden. When Miss",Who received the football? 
+150,Bill,"Label: Eleanor
+</example>
+<example>
+Jeff took the",Who received the apple? 
+151,Jeff,Label: Fred,Who gave the apple to Bill? 
+152,Bill,Label: Fred,Who received the apple? 
+153,Bill,Label: Fred,Who gave the apple to Jeff? 
+154,apple,Label: apple,What did Bill give to Jeff? 
+155,football,Label: apple,What did Mary give to Bill? 
+156,football,Label: apple,What did Mary give to Bill? 
+157,Mary,Label: Fred,Who did Bill give the football to? 
+158,football,"Label: apple
+
+
+Context: The following article is the property of the copyright",What did Bill give to Mary? 
+159,Bill,"Label: Fred
+
+
+Context: The choir with its three apses does",Who received the apple? 
+160,Bill,Label: Fred,Who did Fred give the apple to? 
+161,apple,Label: apple,What did Fred give to Bill? 
+162,apple,"Label: apple
+
+<context>
+The first of these was the ""Battle",What did Fred give to Bill? 
+163,Fred,Output: Fred,Who gave the apple? 
+164,Jeff,Label: Fred,Who received the apple? 
+165,Jeff,Label: Fred,Who received the apple? 
+166,Jeff,"Label: Frank
+<context>
+The boy was a stranger to the city, and",Who received the apple? 
+167,Jeff,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who received the apple? 
+168,apple,"Label: apple
+
+<context>
+Bill journeyed to the bedroom.",What did Mary give to Jeff? 
+169,Bill,Label: Fred,Who gave the milk to Fred? 
+170,football,"Label: apple
+
+<context>
+Search
+was made and the papers found which",What did Mary give to Bill? 
+171,Bill,"Label: Fred
+
+<context>
+Jeff journeyed to the garden. On",Who did Mary give the football to? 
+172,football,"Label: Bill gave the football to Mary.
+
+<context>
+The following is",What did Bill give to Mary? 
+173,football,Output: apple,What did Bill give to Mary? 
+174,Mary,Label: Fred,Who did Bill give the football to? 
+175,football,Label: Bill,What did Jeff give to Bill? 
+176,football,Label: apple,What did Bill give to Mary? 
+177,Mary,"Label: Bill
+<context>
+The man who had been watching the house from the",Who received the football? 
+178,Bill,Output: Fred,Who gave the football? 
+179,football,"Label: apple
+
+<context>
+The Sun stirred his fire again, and",What did Bill give to Fred? 
+180,Fred,"Label: Jeff
+
+<context>
+""I'm going to have a little",Who gave the milk to Jeff? 
+181,milk,"Label: milk
+
+<context>
+“I’m going to take a look",What did Jeff give to Mary? 
+182,Mary,"Label: Sam
+
+<context>
+“I am glad you did!” replied Ben",Who received the milk? 
+183,Mary,Output: Fred,Who gave the milk? 
+184,Fred,Label: Fred,Who received the milk? 
+185,football,"Label: apple
+
+<context>
+Their conversation was interrupted by the entrance of",What did Mary give to Bill? 
+186,football,"Label: apple
+
+<context>
+The people have strongly suspected graft in",What did Mary give to Bill? 
+187,football,"Label: apple
+
+<context>
+The following is a list of the most important",What did Mary give to Bill? 
+188,Bill,"Label: Jeff
+
+<context>
+""One-half of all the medical schools",Who gave the football? 
+189,football,"Label: Bill gave the football to Mary.
+
+
+
+
+[Illustration]",What did Bill give to Mary? 
+190,Fred,"Label: Fred
+
+<context>
+“I can never
+do it now!”",Who gave the football? 
+191,Fred,Label: Fred,Who gave the football to Jeff? 
+192,football,Label: apple,What did Fred give to Jeff? 
+193,apple,"Label: apple
+
+<context>
+Bill went back to the office. I",What did Bill give to Fred? 
+194,Bill,"Label: Fred
+</example>
+<example>
+Mary picked up the apple",Who gave the apple to Fred? 
+195,milk,"Label: apple
+
+<context>
+""Well, we look at it in different",What did Mary give to Bill? 
+196,Mary,"Output: Bill
+
+<context>
+Mary journeyed to the garden. Bill",Who gave the milk? 
+197,Bill,"Label: Mary
+</context>
+<example>
+Mary journeyed to the",Who gave the milk? 
+198,milk,"Output: milk
+
+<context>
+CHAPTER XIII
+
+JUDGE",What did Bill give to Mary? 
+199,Mary,"Output: Fred
+
+<context>
+Morton, Joseph, Stow, Down",Who gave the milk? 
+200,milk,Label: apple,What did Jeff give to Bill? 
+201,milk,"Label: milk
+
+
+
+
+  TRANSCRIBER'S AMEND",What did Jeff give to Bill? 
+202,milk,"Label: Fred
+
+<context>
+The
+fairy tale of the '",What did Jeff give to Bill? 
+203,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the football? 
+204,Fred,Label: Fred,Who did Mary give the football to? 
+205,Fred,Label: Fred,Who received the football? 
+206,Fred,Output: Fred,Who did Mary give the football to? 
+207,Jeff,Label: Fred,Who did Fred give the football to? 
+208,Fred,Output: Fred,Who gave the football to Jeff? 
+209,Jeff,Label: Fred,Who gave the football to Fred? 
+210,Fred,"Label: Fred
+
+<context>
+The fact that at so
+remote an age",Who gave the milk to Jeff? 
+211,Fred,"Label: Fred
+
+
+Question: Who gave the milk?
+
+Label: Fred",Who gave the milk? 
+212,Jeff,Label: Fred,Who gave the milk to Fred? 
+213,Jeff,Label: Fred,Who gave the milk to Fred? 
+214,Fred,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the milk? 
+215,Fred,"Answer: Fred
+</example>
+<example>
+Mary journeyed to the hall",Who gave the apple to Mary? 
+216,Mary,"Label: Fred
+
+<context>
+Mary journeyed to the bedroom.",Who received the apple? 
+217,Bill,"Label: Fred
+
+<context>
+I have been told that the following story is",Who received the apple? 
+218,Mary,Label: Fred,Who did Fred give the milk to? 
+219,Mary,Label: Fred,Who gave the apple? 
+220,Bill,"Answer: Fred
+</example>
+<example>
+Jeff went back to the hall",Who gave the apple to Mary? 
+221,Bill,Label: Fred,Who gave the apple to Mary? 
+222,Mary,Label: Fred,Who gave the apple to Bill? 
+223,Bill,"Label: Fred
+
+<context>
+Jeff went back to the kitchen. After",Who did Mary give the apple to? 
+224,apple,"Label: apple
+
+
+
+
+<context>
+“I’m going to",What did Bill give to Mary? 
+225,football,"Label: Fred
+
+<context>
+""I'm glad you've come",What did Jeff give to Fred? 
+226,Jeff,Label: Jeff,Who gave the football to Fred? 
+227,football,Output: apple,What did Jeff give to Fred? 
+228,football,Label: apple,What did Jeff give to Fred? 
+229,football,Label: apple,What did Jeff give to Fred? 
+230,apple,"Label: apple
+
+<context>
+The naked mite lay very still,",What did Fred give to Bill? 
+231,Bill,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who did Fred give the apple to? 
+232,Fred,Label: Fred,Who gave the apple to Bill? 
+233,Fred,"Label: Fred
+
+<context>
+""Well, at any rate I can'",Who gave the apple to Bill? 
+234,Fred,"Label: Fred
+
+<context>
+The following year, 1773",Who gave the apple? 
+235,Bill,Label: Fred,Who gave the football to Mary? 
+236,Bill,Label: Bill,Who gave the football? 
+237,football,"Label: football
+
+<context>
+The following article is about a fictional character",What did Bill give to Mary? 
+238,Bill,"Label: Fred
+</example>
+<example>
+Jeff went to the hall",Who gave the football to Mary? 
+239,Bill,Label: Jeff,Who gave the football? 
+240,Fred,"Label: Bill
+<example>
+Mary picked up the apple there. Mary gave",Who gave the football to Bill? 
+241,Fred,"Output: Fred
+<context>
+Mary went to the bathroom. The battle",Who gave the football? 
+242,Fred,"Label: Fred
+
+<context>
+The man with the matted hair, and",Who gave the football to Bill? 
+243,Bill,Label: Fred,Who gave the football to Fred? 
+244,football,Label: football,What did Bill give to Fred? 
+245,football,"Label: apple
+
+<context>
+""I'm glad to see you,",What did Jeff give to Mary? 
+246,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the football? 
+247,Mary,"Label: Fred
+
+<context>
+Their
+
+<example>
+The",Who gave the football? 
+248,Bill,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the apple? 
+249,Mary,"Label: Mary
+<context>
+Their first stop was at the home of the",Who gave the apple to Bill? 
+250,apple,Label: Mary gave the apple to Fred,What did Mary give to Fred? 
+251,Fred,"Label: Fred
+
+<context>
+The first of the two was the Battle of",Who received the apple? 
+252,Mary,"Label: Fred
+
+<context>
+We closed the hospital yesterday,
+ and joined",Who gave the apple? 
+253,Jeff,Output: Fred,Who received the apple? 
+254,apple,Label: apple,What did Fred give to Jeff? 
+255,Fred,Label: Fred,Who received the milk? 
+256,Jeff,Label: Fred,Who gave the milk to Fred? 
+257,Jeff,"Label: Fred
+
+<context>
+The following article is about a fictional character",Who gave the milk? 
+258,football,"Label: apple
+
+
+
+
+IV. The first thing that struck the eye of",What did Bill give to Mary? 
+259,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who did Fred give the milk to? 
+260,Jeff,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Mary? 
+261,Fred,"Label: Fred
+
+<context>
+The doctor's house contained what was dear",Who gave the apple to Mary? 
+262,Mary,Output: Fred,Who gave the apple? 
+263,apple,"Label: apple
+
+
+
+
+THE BATTLE OF GETTYSBUR",What did Mary give to Bill? 
+264,apple,Label: apple,What did Mary give to Bill? 
+265,football,Label: Fred gave the football to Bill.,What did Fred give to Bill? 
+266,Fred,"Label: Fred
+
+
+
+
+[Illustration: HORTICULTURAL]",Who gave the football? 
+267,Fred,Output: Jimmie,Who gave the football to Bill? 
+268,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who did Bill give the football to? 
+269,Mary,"Label: Bill
+
+<context>
+""I'm going to marry you,",Who gave the football? 
+270,Mary,"Label: Fred
+
+<context>
+The man who is a man, and who",Who received the apple? 
+271,Mary,"Label: Fred
+
+<context>
+The United States is a nation of great and",Who gave the apple? 
+272,apple,Label: apple,What did Mary give to Jeff? 
+273,Bill,"Label: Fred
+
+<context>
+A butler took
+immediate charge of",Who gave the apple to Jeff? 
+274,apple,Label: apple,What did Jeff give to Fred? 
+275,Mary,"Label: Jeff
+
+<context>
+Bill journeyed to the hallway.",Who received the football? 
+276,Mary,Label: Jeff,Who received the football? 
+277,football,"Label: Fred
+</example>
+<example>
+Jeff journeyed to the",What did Mary give to Jeff? 
+278,Mary,"Label: Mary
+
+<context>
+Bill journeyed to the hallway.",Who did Jeff give the football to? 
+279,Mary,Label: Fred,Who received the football? 
+280,Fred,"Label: Fred
+
+<context>
+he said emphatically,
+laying",Who gave the apple? 
+281,apple,Label: apple,What did Mary give to Fred? 
+282,Fred,"Output: Rufe
+<prompter> Generate a question about the following movie plot",Who gave the apple to Mary? 
+283,Fred,"Label: Fred
+
+<context>
+Mary went back to the garden. There",Who received the apple? 
+284,apple,Output: apple,What did Fred give to Mary? 
+285,Fred,"Label: Fred
+
+<context>
+The conversation I now and then have",Who gave the apple? 
+286,Fred,Label: Fred,Who gave the apple to Bill? 
+287,Fred,"Label: Fred
+
+<context>
+The following article is about the history of the",Who gave the apple to Bill? 
+288,apple,"Label: apple
+
+<context>
+Their first night in the mountains was spent",What did Fred give to Bill? 
+289,Bill,"Output: Fred
+<prompt> Generate a question about the following movie plot: The",Who gave the apple to Mary? 
+290,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Bill? 
+291,Bill,"Label: Bill
+
+<context>
+The following is a transcript of the conversation",Who gave the milk? 
+292,Mary,"Label: Fred
+
+<context>
+How many
+myriads have been c",Who gave the milk to Bill? 
+293,Bill,Output: Fred,Who did Mary give the milk to? 
+294,apple,"Label: apple
+
+<context>
+H. H., 73",What did Jeff give to Fred? 
+295,milk,"Label: apple
+
+<context>
+Mary journeyed to the hallway.",What did Mary give to Jeff? 
+296,Mary,"Label: Bill
+
+<context>
+The following is a list of the most important",Who gave the milk? 
+297,milk,"Label: apple
+
+<context>
+The first time I saw him was in the",What did Mary give to Jeff? 
+298,milk,"Label: apple
+
+<context>
+Mary journeyed to the hallway.",What did Mary give to Jeff? 
+299,Bill,Label: Bill,Who gave the milk to Jeff? 
+300,football,Label: apple,What did Mary give to Fred? 
+301,Fred,Label: Fred,Who did Mary give the football to? 
+302,Mary,"Label: Fred
+
+<context>
+""Have her hang
+around the lobb",Who gave the football to Fred? 
+303,Mary,"Label: Fred
+
+<context>
+It
+was his mission to show that the",Who did Fred give the apple to? 
+304,Fred,Label: Fred,Who gave the apple to Mary? 
+305,Jeff,Label: Fred,Who gave the apple to Mary? 
+306,Mary,"Label: Fred
+
+<context>
+He seemed to run a good deal
+f",Who did Jeff give the apple to? 
+307,milk,Label: apple,What did Mary give to Fred? 
+308,Fred,Label: Fred,Who did Mary give the milk to? 
+309,Fred,Label: Fred,Who received the milk? 
+310,Mary,Label: Bill,Who gave the football to Bill? 
+311,Bill,"Output: Bill
+<context>
+""Let's have it,"" said the other.",Who gave the football? 
+312,football,Label: football,What did Bill give to Mary? 
+313,apple,Label: apple,What did Bill give to Mary? 
+314,Bill,"Label: Fred
+
+<context>
+The following is a list of the principal officers",Who did Jeff give the football to? 
+315,milk,Label: milk,What did Jeff give to Bill? 
+316,Bill,Label: Fred,Who received the milk? 
+317,milk,"Label: milk
+</example>
+<example>
+Mary journeyed to the",What did Jeff give to Bill? 
+318,apple,Label: apple,What did Fred give to Mary? 
+319,Fred,Label: Fred,Who did Mary give the apple to? 
+320,Mary,Output: Fred,Who gave the apple? 
+321,apple,"Label: apple
+
+<context>
+The King was this night very obscurely",What did Mary give to Bill? 
+322,Mary,"Label: Fred
+
+<context>
+Jeff journeyed to the hallway.",Who did Jeff give the football to? 
+323,Mary,Label: Fred,Who received the football? 
+324,Mary,"Label: Mary
+
+<context>
+""The human mind is the great instrument of",Who received the football? 
+325,Bill,"Label: Jeff
+
+<context>
+""Now,"" she asked, ""was that",Who gave the football to Mary? 
+326,Bill,"Label: Fred
+</answer>",Who gave the football? 
+327,Jeff,"Label: Fred
+</context>
+
+<context>
+Bill took the football",Who received the apple? 
+328,apple,"Label: apple
+
+<context>
+Bill journeyed to the bedroom.",What did Bill give to Jeff? 
+329,apple,Output: football,What did Bill give to Jeff? 
+330,apple,"Label: apple
+
+<context>
+""I'm going to the mountains,""",What did Fred give to Mary? 
+331,apple,"Label: apple
+
+<context>
+Their first meeting was in the spring of",What did Fred give to Mary? 
+332,Fred,"Label: Fred
+<context>
+The man who had been sitting on the fence",Who gave the apple? 
+333,Bill,"Label: Fred
+
+<context>
+""Well, I should like that,"" s",Who received the apple? 
+334,apple,Label: apple,What did Mary give to Bill? 
+335,Mary,"Label: Fred
+
+
+
+
+THE BLACK WIDOW. The Black",Who gave the apple? 
+336,apple,Label: Fred,What did Mary give to Fred? 
+337,apple,"Label: apple
+
+<context>
+Bill went to the office. Mary moved",What did Fred give to Mary? 
+338,apple,Label: apple,What did Fred give to Mary? 
+339,Mary,Label: Fred,Who did Fred give the apple to? 
+340,apple,"Label: apple
+
+<context>
+(27) It should be remembered that",What did Fred give to Bill? 
+341,Bill,Label: Bill,Who gave the apple to Fred? 
+342,Bill,"Label: Fred
+
+<context>
+“Item come lez eleccions dez",Who received the apple? 
+343,apple,Label: Fred gave the apple to Bill.,What did Fred give to Bill? 
+344,apple,"Label: apple
+
+
+
+
+VOLUME I.",What did Fred give to Bill? 
+345,milk,"Label: milk
+
+<context>
+Those who
+sleep beneath are only connected",What did Mary give to Jeff? 
+346,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Jeff? 
+347,Jeff,"Label: Fred
+
+<context>
+""I'm not going to marry you",Who gave the milk? 
+348,Fred,Label: Fred,Who received the milk? 
+349,Jeff,Label: Fred,Who gave the milk to Fred? 
+350,Jeff,Output: Fred,Who gave the milk? 
+351,Mary,"Label: Mary
+
+<context>
+The next day, we went to see the",Who gave the milk to Bill? 
+352,milk,Label: milk,What did Bill give to Jeff? 
+353,Bill,"Label: Fred
+
+<context>
+It
+would seem that the name _",Who received the milk? 
+354,milk,"Output: the milk
+
+
+
+
+
+End of Project Gutenberg's",What did Jeff give to Bill? 
+355,Bill,"Label: Fred
+
+
+
+
+/Chap. XCII./--_",Who gave the milk? 
+356,Bill,"Label: Fred
+
+<context>
+XCI./--_On the Motion",Who gave the milk to Fred? 
+357,Bill,"Label: Fred
+
+<context>
+CXVII./--_Of remote Object",Who gave the milk to Fred? 
+358,apple,"Label: apple
+
+<context>
+""What are you
+pulling such a",What did Jeff give to Fred? 
+359,Fred,Label: Fred,Who did Jeff give the apple to? 
+360,Mary,"Label: Fred
+
+<context>
+""We had now a little more freedom,""",Who received the apple? 
+361,Bill,Label: Fred,Who did Mary give the apple to? 
+362,apple,"Label: apple
+
+<prompter> What are the key points across these news",What did Mary give to Bill? 
+363,Mary,Label: Mary,Who did Bill give the apple to? 
+364,Bill,"Label: Fred
+
+<context>
+Their first care was to get the women",Who received the apple? 
+365,Jeff,Label: Fred,Who received the apple? 
+366,Jeff,"Output: Fred
+</context>
+
+<context>
+""I'm sorry",Who gave the apple? 
+367,Bill,Label: Fred,Who received the football? 
+368,Bill,Label: Bill,Who received the football? 
+369,Bill,"Output: Fred
+<context>
+Jeff went to the hallway. Jeff went to",Who did Mary give the football to? 
+370,Fred,"Label: Fred
+
+<context>
+The man who had been sitting on the ben",Who did Mary give the football to? 
+371,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the football to Fred? 
+372,Fred,"Label: Fred
+
+<context>
+The man behind the moat did not seem",Who gave the football to Mary? 
+373,Jeff,"Label: Fred
+
+<context>
+Their first day in the city was a",Who did Mary give the football to? 
+374,football,"Label: football
+<context>
+Man shrinks, feels his own littleness",What did Mary give to Jeff? 
+375,Fred,"Label: Fred
+
+<context>
+
+<example>
+Mary journeyed",Who received the apple? 
+376,Fred,"Label: Fred
+</context>
+<example>
+Jeff took the football there",Who gave the apple? 
+377,Bill,Label: Fred,Who gave the apple? 
+378,apple,"Label: apple
+
+<context>
+The man was a doctor. He was a",What did Fred give to Bill? 
+379,Fred,"Label: Fred
+
+<context>",Who did Bill give the apple to? 
+380,milk,"Label: Bill
+</example>
+<example>
+Jeff took the football there",What did Mary give to Bill? 
+381,Bill,Output: Bill,Who gave the milk? 
+382,milk,Label: milk,What did Mary give to Fred? 
+383,milk,"Label: apple
+
+<context>
+The following is a list of the principal events",What did Fred give to Mary? 
+384,milk,"Label: apple
+
+<prompt> Generate a summary for this dialogue:",What did Fred give to Mary? 
+385,football,Label: Bill gave the football to Mary.,What did Bill give to Mary? 
+386,Mary,"Label: Fred
+
+<context>
+""I'm going to get that devil",Who did Bill give the football to? 
+387,football,"Label: apple
+
+<context>
+The _Patriotes_ were not the",What did Fred give to Mary? 
+388,Fred,"Label: Fred
+
+<context>
+The first of the two forces to arrive at",Who did Mary give the football to? 
+389,Mary,"Label: Fred
+
+
+
+
+CHAPTER III
+
+THE BOULE",Who gave the football? 
+390,Fred,Label: Fred,Who gave the apple? 
+391,apple,Label: apple,What did Fred give to Jeff? 
+392,Fred,Output: Fred,Who received the apple? 
+393,Fred,Label: Fred,Who received the apple? 
+394,Jeff,"Label: Fred
+
+<context>
+The following is a list of the most notable",Who gave the apple to Fred? 
+395,Mary,"Output: Fred
+
+
+
+
+275. Every Nation has Created a",Who gave the apple? 
+396,Bill,"Label: Fred
+
+<context>
+I would like to see how things come",Who did Mary give the apple to? 
+397,Fred,"Label: Bill
+
+<context>
+“I’ll always
+remember you",Who gave the apple to Bill? 
+398,Fred,"Output: Fred
+
+<context>
+The old man is standing just as they left",Who did Bill give the apple to? 
+399,Fred,"Output: Fred
+<prompt> Generate a summary for this dialogue:
+M",Who received the apple? 
+400,Mary,"Label: Fred
+<context>
+The King was not allowed to see his son,",Who gave the football to Fred? 
+401,Fred,"Label: Fred
+
+
+
+
+Context:",Who did Mary give the football to? 
+402,Fred,Label: Fred,Who did Mary give the football to? 
+403,Fred,Label: Fred,Who gave the apple to Jeff? 
+404,apple,Label: apple,What did Fred give to Jeff? 
+405,apple,"Label: apple
+
+<context>
+Their first care was to get a good",What did Fred give to Bill? 
+406,Fred,"Label: Fred
+</example>
+<example>
+Bill journeyed to the",Who gave the apple? 
+407,Fred,Label: Fred,Who received the apple? 
+408,Fred,"Label: Fred
+
+<context>
+Bill journeyed to the garden. I",Who gave the apple to Jeff? 
+409,apple,Label: apple,What did Fred give to Jeff? 
+410,milk,Label: milk,What did Bill give to Jeff? 
+411,Jeff,Label: Bill,Who gave the milk to Bill? 
+412,milk,Label: apple,What did Jeff give to Bill? 
+413,milk,"Label: apple
+</example>
+<example>
+Jeff took the football there",What did Jeff give to Bill? 
+414,Jeff,"Answer: Jeff
+</context>",Who gave the milk to Mary? 
+415,milk,"Label: Fred gave the milk to Jeff.
+
+
+
+
+
+""The L",What did Fred give to Jeff? 
+416,milk,"Label: apple
+
+<context>
+Jeff took the apple there. Verse",What did Jeff give to Fred? 
+417,Fred,Label: Fred,Who received the milk? 
+418,Jeff,"Label: Fred
+
+<context>
+The
+Federal troops were now in",Who did Fred give the milk to? 
+419,Jeff,"Label: Jeff
+
+<context>
+A Confederate
+regiment, dashing",Who gave the milk to Fred? 
+420,Fred,Label: Fred,Who gave the football? 
+421,Fred,"Label: Fred
+
+<context>
+It
+is probably a mere verbal un",Who received the football? 
+422,football,Label: Fred,What did Mary give to Fred? 
+423,football,Label: apple,What did Mary give to Fred? 
+424,Fred,Output: Fred,Who gave the football to Mary? 
+425,apple,Label: Fred gave the apple to Bill.,What did Fred give to Bill? 
+426,Fred,"Label: Fred
+</example>
+<example>
+Jeff journeyed to the",Who received the apple? 
+427,apple,"Label: apple
+<context>
+The next day was a weary one for poor",What did Fred give to Mary? 
+428,Fred,Label: Fred,Who received the apple? 
+429,Mary,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the apple? 
+430,Jeff,"Label: Fred
+<context>
+The young man, who had been the first to",Who did Fred give the apple to? 
+431,apple,Output: apple,What did Fred give to Jeff? 
+432,Fred,Label: Fred,Who gave the apple to Jeff? 
+433,Jeff,Label: Fred,Who received the apple? 
+434,Mary,Label: Fred,Who received the football? 
+435,apple,"Label: apple
+
+<context>
+exclaimed Katy; ""she has",What did Bill give to Mary? 
+436,Mary,"Label: Fred
+
+<context>
+""I am glad to hear it,"" said",Who did Bill give the apple to? 
+437,Fred,"Label: Fred
+
+<context>
+""Yes, yes, it must have aston",Who gave the apple? 
+438,Fred,Output: Fred,Who received the apple? 
+439,Mary,Label: Fred,Who gave the apple to Fred? 
+440,apple,"Label: apple
+
+<context>
+I do
+hope daddy will over",What did Mary give to Bill? 
+441,Mary,Label: Fred,Who did Bill give the apple to? 
+442,apple,Label: apple,What did Bill give to Mary? 
+443,Mary,"Label: Fred
+
+<context>
+""I'm going to marry you,",Who gave the apple? 
+444,Mary,Output: Fred,Who gave the apple? 
+445,apple,"Label: apple
+
+<context>
+The following is a list of the most important",What did Mary give to Fred? 
+446,Fred,Label: Fred,Who did Mary give the apple to? 
+447,milk,"Label: apple
+
+<context>
+The
+Assyrians were the first",What did Mary give to Bill? 
+448,Bill,"Label: Bill
+</example>
+<example>
+Mary picked up the apple",Who received the milk? 
+449,milk,"Label: milk
+
+<context>
+Their father was a poor man, and",What did Bill give to Mary? 
+450,Mary,"Label: Fred
+
+
+
+
+/Chap. XXXII./--_Of",Who gave the apple to Bill? 
+451,apple,"Label: Fred
+
+<context>
+They are made light by the
+want",What did Mary give to Bill? 
+452,Bill,"Output: Jack
+</context>
+
+<context>
+LXXIII./--",Who gave the apple to Fred? 
+453,Fred,"Label: Jack
+
+
+
+
+[Illustration]
+
+
+
+
+[Illustration",Who gave the apple to Bill? 
+454,Bill,"Label: Fred
+
+<context>
+“Yes, dear,” Jack says, with",Who received the apple? 
+455,Fred,Label: Fred,Who did Mary give the milk to? 
+456,Mary,Label: Fred,Who gave the milk? 
+457,Fred,Label: Fred,Who did Mary give the milk to? 
+458,Mary,Output: Bill,Who gave the milk? 
+459,milk,"Label: Bill
+</context>
+
+<context>
+Jeff journeyed to",What did Fred give to Jeff? 
+460,Mary,"Label: Bill
+
+<context>
+Their
+
+<example>
+The",Who gave the milk? 
+461,milk,Label: apple,What did Mary give to Bill? 
+462,Bill,"Label: Frank
+<context>
+""It's seldom you speak like",Who did Jeff give the football to? 
+463,football,Label: apple,What did Jeff give to Bill? 
+464,football,"Label: apple
+
+<context>
+Bill went back to the hallway.",What did Jeff give to Bill? 
+465,Bill,Label: Fred,Who did Fred give the apple to? 
+466,Bill,Output: Fred,Who gave the apple to Fred? 
+467,apple,"Label: apple
+
+<context>
+The following is a list of the names of",What did Bill give to Fred? 
+468,Bill,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Fred? 
+469,Jeff,Label: Bill,Who gave the apple to Fred? 
+470,Fred,"Label: Fred
+
+
+
+
+THE LAST OF THE FIRST BAT",Who gave the apple? 
+471,apple,Label: apple,What did Fred give to Mary? 
+472,Mary,Label: Fred,Who received the apple? 
+473,Mary,Output: Fred,Who gave the apple? 
+474,apple,Label: apple,What did Mary give to Bill? 
+475,apple,"Label: Fred
+
+
+
+
+THE MANUFACTURE OF POT",What did Mary give to Fred? 
+476,apple,"Label: apple
+
+
+
+
+THE MANUFACTURE OF STE",What did Fred give to Bill? 
+477,Fred,"Output: Jeff
+
+
+CHARACTERS
+
+    MEHITABLE JUD",Who gave the apple to Bill? 
+478,Bill,Output: Fred,Who gave the apple to Fred? 
+479,Fred,"Label: Fred
+
+<context>
+Theodore, Jr. 7      1",Who gave the apple to Bill? 
+480,Fred,Label: Fred,Who gave the apple? 
+481,Fred,Label: Fred,Who gave the apple? 
+482,apple,Label: apple,What did Fred give to Bill? 
+483,Bill,Label: Fred,Who gave the apple? 
+484,Bill,Label: Fred,Who gave the apple to Mary? 
+485,Bill,Label: Fred,Who did Fred give the apple to? 
+486,apple,"Label: Fred gave the apple to Bill.
+
+<context>
+Their",What did Fred give to Bill? 
+487,Bill,"Label: Fred
+
+<context>
+The following is a list of the 1",Who gave the apple? 
+488,Bill,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the apple to Mary? 
+489,Bill,"Label: Fred
+
+<context>
+Mary went to the hallway. _",Who gave the apple? 
+490,Bill,"Label: Fred
+
+
+
+
+THE USE OF ROCKETS IN FI",Who gave the apple to Mary? 
+491,Mary,Label: Fred,Who received the apple? 
+492,milk,Label: milk,What did Jeff give to Fred? 
+493,milk,Label: apple,What did Fred give to Jeff? 
+494,Fred,"Label: Bill
+
+
+
+SCENE I
+
+
+_A room in",Who gave the milk to Jeff? 
+495,Jeff,"Label: Fred
+
+<context>
+
+<example>
+Mary picked up",Who did Fred give the football to? 
+496,football,"Label: apple
+
+<context>
+""I'm glad you're back",What did Fred give to Jeff? 
+497,Fred,Label: Fred,Who received the football? 
+498,football,"Label: apple
+
+<context>
+The next day, the two men went to",What did Jeff give to Fred? 
+499,Mary,Label: Fred,Who received the milk? 
+500,Fred,Output: Fred,Who received the football? 
+501,Jeff,Output: Jeff,Who gave the football? 
+502,football,"Label: Fred
+<prompter> Generate a question about the following movie plot",What did Fred give to Jeff? 
+503,Fred,Output: Jeff,Who gave the football? 
+504,football,Output: the football,What did Fred give to Mary? 
+505,Fred,"Label: Fred
+
+<context>
+The day before my arrival in the town John",Who received the football? 
+506,Bill,"Label: Bill
+
+<context>
+The President's carriage had arrived in front",Who gave the football to Fred? 
+507,Bill,Output: Fred,Who received the football? 
+508,Bill,"Output: Fred
+
+<context>
+For in the cunning Brownie crowd",Who received the football? 
+509,Bill,"Output: Fred
+
+
+
+
+THE BROWNIES' PICNIC.",Who did Fred give the football to? 
+510,Fred,Label: Fred,Who received the milk? 
+511,Jeff,Label: Fred,Who received the milk? 
+512,milk,"Label: apple
+
+<context>
+24 | April    13,",What did Jeff give to Fred? 
+513,milk,Output: apple,What did Jeff give to Fred? 
+514,Fred,Label: Fred,Who gave the apple to Bill? 
+515,Bill,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Mary? 
+516,Fred,Label: Fred,Who gave the apple? 
+517,Fred,"Label: Fred
+
+<context>
+The poll tax, shown above to amount to",Who gave the apple to Mary? 
+518,Mary,"Label: Fred
+
+<context>
+The following is a list of the names of",Who received the apple? 
+519,apple,Label: milk,What did Fred give to Mary? 
+520,apple,Label: apple,What did Mary give to Fred? 
+521,Mary,Label: Fred,Who gave the apple? 
+522,Fred,Label: Fred,Who did Mary give the milk to? 
+523,milk,"Label: apple
+
+<context>
+The variability of the anatomical",What did Mary give to Fred? 
+524,Mary,"Label: Fred
+
+<context>
+""I'm going to leave her,""",Who gave the milk to Fred? 
+525,milk,"Label: apple
+
+<context>
+""I'm going to Chicago,"" he",What did Mary give to Fred? 
+526,Mary,Label: Fred,Who received the milk? 
+527,Mary,Label: Fred,Who received the milk? 
+528,Mary,Output: Mary,Who received the milk? 
+529,Jeff,Label: Fred,Who gave the football to Mary? 
+530,Bill,"Label: Fred
+
+<context>
+""I live here,"" said the young lady",Who gave the apple to Mary? 
+531,apple,Label: apple,What did Bill give to Mary? 
+532,Mary,"Label: Emil
+
+<context>
+""I'm not going to be a",Who received the apple? 
+533,apple,"Label: apple
+
+
+
+SCENE I
+
+
+_A large room",What did Bill give to Mary? 
+534,Fred,"Label: Fred
+
+<context>
+MAURICE
+
+Good morning, papa",Who did Mary give the football to? 
+535,milk,Label: Fred gave the milk to Bill.,What did Fred give to Bill? 
+536,Bill,"Label: Fred
+
+<context>
+The
+father had risen hastily,",Who did Fred give the milk to? 
+537,Bill,"Label: Fred
+
+<context>
+Bill went back to the office. {",Who did Fred give the milk to? 
+538,Mary,"Label: Fred
+
+<context>
+The Bible is the revelation of the B",Who did Bill give the milk to? 
+539,Mary,"Label: Bill
+
+<context>
+In spite of a perfectly clear conscience, and",Who did Bill give the milk to? 
+540,Jeff,"Label: Bill
+
+<context>
+""I'm going to the store,""",Who received the apple? 
+541,Jeff,"Label: Fred
+
+<context>
+Why, I don't know
+any",Who received the apple? 
+542,apple,"Label: Bill journeyed to the bedroom.
+
+<context>
+Bill",What did Bill give to Jeff? 
+543,apple,Label: apple,What did Bill give to Mary? 
+544,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who did Bill give the apple to? 
+545,Jeff,"Label: Fred
+
+<context>
+Jeff went to the hallway. The",Who did Mary give the apple to? 
+546,Jeff,Label: Fred,Who received the apple? 
+547,Jeff,"Label: Fred
+
+<context>
+The Free State
+is not so populous",Who did Mary give the apple to? 
+548,Bill,"Label: Mary
+
+<context>
+In the interim, divers of
+the",Who received the apple? 
+549,Mary,"Label: Jeff
+
+<context>
+Jeff went to the hallway. I",Who gave the apple to Bill? 
+550,Mary,Label: Mary,Who gave the milk to Jeff? 
+551,Jeff,"Output: Mary
+</example>
+<example>
+Jeff took the football there",Who received the milk? 
+552,Mary,Label: Fred,Who did Fred give the football to? 
+553,Fred,Output: Fred,Who gave the football? 
+554,Mary,"Label: Fred
+
+<context>
+The man was a great hunter, and",Who received the football? 
+555,Bill,"Output: Fred
+
+<context>
+""Well, that about brings me up to",Who gave the apple? 
+556,Bill,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the apple? 
+557,apple,"Label: apple
+
+<context>
+""You're an extraordinary young woman,""",What did Bill give to Fred? 
+558,apple,Label: apple,What did Fred give to Bill? 
+559,Fred,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who received the apple? 
+560,apple,Output: apple,What did Fred give to Mary? 
+561,Fred,Output: Fred,Who received the apple? 
+562,apple,Label: apple,What did Mary give to Fred? 
+563,football,Output: football,What did Fred give to Mary? 
+564,Fred,"Label: Fred
+
+<context>
+The following is a list of the most important",Who received the football? 
+565,apple,"Label: apple
+
+<context>
+), as the primitive Chaldee, in",What did Jeff give to Mary? 
+566,Mary,Label: Fred,Who gave the apple? 
+567,apple,"Label: apple
+
+<context>
+The man was a doctor. He was a",What did Mary give to Jeff? 
+568,apple,Label: apple,What did Jeff give to Mary? 
+569,Jeff,Label: Fred,Who gave the apple to Mary? 
+570,milk,Label: apple,What did Mary give to Jeff? 
+571,milk,"Label: Fred
+
+<context>
+The first thing to be observed in the adaptation",What did Jeff give to Mary? 
+572,milk,"Label: apple
+
+<context>
+
+<example>
+
+_The same",What did Jeff give to Mary? 
+573,Fred,"Label: Fred
+
+<context>
+MAURICE
+
+But it is strange",Who received the milk? 
+574,Fred,Label: Fred,Who received the milk? 
+575,football,Output: apple,What did Bill give to Mary? 
+576,Mary,Label: Fred,Who gave the football to Fred? 
+577,football,"Label: apple
+
+<context>
+A dear, 'igh-sperited",What did Mary give to Fred? 
+578,football,"Label: Fred
+</example>
+<example>
+Jeff took the football there",What did Mary give to Fred? 
+579,Fred,Label: Fred,Who did Mary give the football to? 
+580,Fred,"Output: Fred
+
+<context>
+He arose from his tomb according to his",Who gave the milk to Bill? 
+581,Bill,"Output: Bill
+<context>
+The major's tale was a very long one,",Who did Fred give the milk to? 
+582,milk,Label: Fred gave the apple to Bill.,What did Fred give to Bill? 
+583,Jeff,Label: Fred,Who gave the apple to Mary? 
+584,Jeff,"Label: Fred
+
+<context>
+The following is a list of the most important",Who received the apple? 
+585,milk,"Label: apple
+
+<context>
+The next morning the retreat was resumed",What did Mary give to Bill? 
+586,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the milk? 
+587,Bill,Label: Fred,Who did Mary give the milk to? 
+588,Jeff,Label: Fred,Who gave the apple to Fred? 
+589,Fred,"Output: Fred
+
+<context>
+Their first meeting was at the Cafe",Who gave the apple? 
+590,milk,Label: apple,What did Bill give to Fred? 
+591,milk,Label: milk,What did Bill give to Fred? 
+592,milk,"Label: apple
+
+<context>
+""There I have thee, my dear love",What did Bill give to Fred? 
+593,Fred,Label: Fred,Who received the football? 
+594,football,Label: apple,What did Bill give to Fred? 
+595,Jeff,"Label: Bill
+</example>
+<example>
+Mary picked up the apple",Who gave the milk to Bill? 
+596,Jeff,Output: Bill,Who received the milk? 
+597,Bill,Label: Bill,Who received the milk? 
+598,Jeff,Label: Fred,Who gave the milk? 
+599,milk,"Label: milk
+
+<prompter> What are the key points across these news",What did Jeff give to Bill? 
+600,Jeff,"Label: Jeff
+<context>
+B. N., 118",Who received the football? 
+601,Mary,Label: Fred,Who did Jeff give the football to? 
+602,Jeff,Label: Fred,Who gave the football? 
+603,Jeff,Output: Jeff,Who gave the football? 
+604,Jeff,"Label: Bill
+
+<context>
+Their love was like a fire that burn",Who did Bill give the milk to? 
+605,Fred,Label: Fred,Who did Mary give the football to? 
+606,Mary,"Label: Fred
+</example>
+<example>
+Mary journeyed to the",Who gave the football to Fred? 
+607,Fred,Label: Fred,Who did Bill give the football to? 
+608,Fred,"Label: Bill
+
+
+
+SCENE III
+
+
+_Night.",Who gave the football? 
+609,football,Label: Bill,What did Fred give to Bill? 
+610,football,"Label: football
+
+<context>
+Yes, only
+three weeks ago--I",What did Jeff give to Fred? 
+611,Jeff,Label: Fred,Who did Fred give the football to? 
+612,Fred,"Label: Jeff
+<context>
+It was a cry of anguish wrung",Who gave the football? 
+613,Mary,Label: Jeff,Who gave the football? 
+614,Mary,"Label: Jeff
+
+<context>
+Bill went back to the hallway.",Who gave the football? 
+615,football,"Label: apple
+
+<context>
+""I don't believe they are ri",What did Jeff give to Fred? 
+616,Jeff,"Output: Fred
+
+
+Question: Who did Mary give the apple to?",Who did Fred give the football to? 
+617,Fred,Label: Fred,Who gave the football to Jeff? 
+618,apple,"Label: apple
+
+<context>
+The Turanians, on the other hand",What did Bill give to Jeff? 
+619,apple,"Label: apple
+
+<context>
+The Duke of Buckingham, who had been",What did Jeff give to Bill? 
+620,Jeff,Output: Fred,Who gave the apple? 
+621,Jeff,Output: Fred,Who gave the apple to Fred? 
+622,Fred,Label: Fred,Who gave the apple to Bill? 
+623,apple,Label: apple,What did Fred give to Bill? 
+624,Bill,Label: Fred,Who did Fred give the apple to? 
+625,football,"Label: apple
+
+<context>
+""I'm going to have a new",What did Jeff give to Fred? 
+626,football,"Answer: football
+</example>
+<example>
+Jeff took the football there.",What did Jeff give to Fred? 
+627,Fred,"Label: Jeff
+<context>
+In
+1750 he succeeded his father",Who gave the football to Jeff? 
+628,Jeff,Label: Fred,Who received the football? 
+629,Fred,Label: Fred,Who gave the football to Jeff? 
+630,Fred,"Output: Fred
+
+<context>
+I will now briefly refer to the myth of",Who did Jeff give the football to? 
+631,football,Label: football,What did Fred give to Jeff? 
+632,Fred,"Label: Fred
+</context>
+<example>
+Mary journeyed to the",Who gave the football to Jeff? 
+633,football,Label: football,What did Fred give to Jeff? 
+634,apple,Label: football,What did Jeff give to Bill? 
+635,Jeff,"Output: Jeff
+
+
+
+_Transcriber's Note_
+
+This",Who gave the milk? 
+636,Jeff,Output: Bill,Who gave the milk? 
+637,milk,"Label: Bill
+</context>
+<example>
+Jeff took the football there",What did Jeff give to Bill? 
+638,football,Label: Fred,What did Mary give to Fred? 
+639,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who received the football? 
+640,Jeff,Label: Fred,Who received the milk? 
+641,Jeff,Output: Fred,Who gave the milk? 
+642,Bill,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who did Jeff give the milk to? 
+643,Bill,"Label: Fred
+<context>
+The following is a list of the most important of",Who did Fred give the milk to? 
+644,milk,Label: Fred gave the milk to Bill.,What did Fred give to Bill? 
+645,Mary,Label: Fred,Who gave the apple to Bill? 
+646,apple,"Label: apple
+
+<prompt> Generate a summary for this dialogue:",What did Bill give to Mary? 
+647,Bill,Label: Fred,Who gave the apple to Mary? 
+648,Bill,Label: Fred,Who did Mary give the apple to? 
+649,Mary,"Output: Bill
+
+
+
+
+THE BROWNIES' DANCING-",Who received the apple? 
+650,Bill,"Label: Fred
+
+
+
+
+THE BROWNIE'S PROMISE",Who gave the apple? 
+651,Bill,"Label: Bill
+
+<context>
+They crowded near with anxious glance",Who received the milk? 
+652,Bill,"Label: Bill
+
+
+
+
+THE BROWNIES' TALLY-",Who did Jeff give the milk to? 
+653,Bill,"Label: Fred
+
+<context>
+Jeff went back to the garden. """,Who did Jeff give the milk to? 
+654,milk,Label: milk,What did Jeff give to Bill? 
+655,Bill,Label: Fred,Who did Mary give the apple to? 
+656,Mary,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the apple to Bill? 
+657,Fred,Label: Fred,Who gave the football to Mary? 
+658,Mary,"Label: Fred
+
+<context>
+Bill journeyed to the garden. I",Who gave the football? 
+659,football,"Label: apple
+
+<context>
+Bill journeyed to the hallway.",What did Mary give to Fred? 
+660,Mary,"Label: Fred
+
+<context>
+The following article is about the history of the",Who gave the apple to Jeff? 
+661,apple,"Label: apple
+
+<context>
+The Poet, who was walking in the",What did Jeff give to Mary? 
+662,apple,"Label: apple
+
+<context>
+Thou art talked of as the story of",What did Mary give to Jeff? 
+663,apple,"Label: apple
+
+
+
+
+508. Who was the first man?",What did Mary give to Jeff? 
+664,Fred,"Output: Fred
+<prompt> Generate a summary for this dialogue:
+M",Who received the football? 
+665,Mary,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who did Bill give the football to? 
+666,Mary,"Label: Fred
+
+<context>
+Bill journeyed to the bedroom.",Who did Bill give the football to? 
+667,Bill,Output: Fred,Who gave the football to Mary? 
+668,Jeff,Label: Fred,Who gave the football to Fred? 
+669,Fred,Label: Fred,Who gave the football? 
+670,apple,"Label: apple
+
+<context>
+The first train to leave the Boston station after",What did Bill give to Fred? 
+671,apple,"Label: apple
+
+<context>
+The first train was a passenger train, and",What did Fred give to Bill? 
+672,apple,Label: apple,What did Bill give to Fred? 
+673,Bill,Label: Fred,Who gave the apple? 
+674,Jeff,Label: Fred,Who did Bill give the apple to? 
+675,Mary,Label: Fred,Who gave the apple? 
+676,Mary,Label: Fred,Who received the apple? 
+677,apple,"Answer: apple
+</example>
+<example>
+Jeff took the football there.",What did Mary give to Jeff? 
+678,Mary,Label: Fred,Who gave the apple? 
+679,Mary,"Label: Fred
+
+<context>
+The 1909 Show was remarkable",Who gave the apple? 
+680,apple,Label: Fred,What did Bill give to Mary? 
+681,Mary,Label: Fred,Who did Bill give the apple to? 
+682,Bill,"Label: Fred
+
+
+
+
+
+<prompt> Generate a summary for",Who gave the apple? 
+683,Bill,Output: Fred,Who gave the apple to Mary? 
+684,apple,Label: apple,What did Fred give to Bill? 
+685,football,"Label: the football
+
+<context>
+Mary went to the bathroom.",What did Mary give to Bill? 
+686,football,"Label: Fred
+
+<context>
+""I'm going to have a try",What did Mary give to Bill? 
+687,Mary,Label: Fred,Who gave the football? 
+688,Jeff,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the milk? 
+689,milk,"Label: apple
+
+<context>
+""I'm glad you've come",What did Fred give to Jeff? 
+690,Mary,"Label: Fred
+
+<context>
+A fringe of
+buckeyes",Who gave the apple to Bill? 
+691,apple,"Label: apple
+
+<context>
+[Illustration]
+
+The stomach",What did Bill give to Mary? 
+692,Bill,Label: Fred,Who did Mary give the apple to? 
+693,apple,Label: apple,What did Bill give to Mary? 
+694,Mary,"Label: Fred
+
+<context>
+It is evident, that by this mode,",Who received the apple? 
+695,milk,Label: apple,What did Mary give to Fred? 
+696,milk,"Label: apple
+
+<context>
+The first thing to be done was to get",What did Mary give to Fred? 
+697,milk,"Label: apple
+<context>
+The first thing that I did was to go to",What did Mary give to Fred? 
+698,Mary,"Label: Fred
+
+<context>
+To have
+charged this formidable",Who did Fred give the apple to? 
+699,Fred,"Label: Fred
+</context>
+
+<context>
+The
+soldier",Who received the apple? 
+700,Bill,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Fred? 
+701,apple,"Label: apple
+
+<context>
+'Amen--'ear, 'ear",What did Bill give to Fred? 
+702,Fred,"Label: Fred
+
+<context>
+A lady district visitor who called occasionally sometimes gave",Who did Bill give the apple to? 
+703,Fred,Label: Fred,Who received the apple? 
+704,Mary,"Label: Fred
+
+<context>
+Harry was not satisfied with himself; he",Who gave the football to Fred? 
+705,Fred,"Label: Fred
+
+<prompt> Generate a summary for this dialogue:",Who gave the football? 
+706,football,Label: apple,What did Fred give to Mary? 
+707,Fred,Label: Fred,Who gave the football to Mary? 
+708,Jeff,"Label: Fred
+
+<context>
+The various gastric
+functions are so",Who received the apple? 
+709,Jeff,"Label: Fred
+
+<context>
+The following article is about a person who is",Who did Fred give the apple to? 
+710,Jeff,Label: Fred,Who gave the apple to Bill? 
+711,apple,"Label: apple
+
+<context>
+""Here, Prue, is the last",What did Jeff give to Bill? 
+712,Jeff,"Label: Fred
+
+<context>
+Mary journeyed to the hallway.",Who gave the apple to Bill? 
+713,Bill,"Label: Fred
+
+
+
+
+<example>
+Jeff took the football there",Who received the apple? 
+714,Bill,Output: Fred,Who gave the apple? 
+715,apple,"Label: Fred
+
+<context>
+The food was rather good, certainly plent",What did Mary give to Fred? 
+716,apple,"Label: Fred
+<context>
+The man was a fool. He had been a",What did Mary give to Fred? 
+717,Fred,Label: Fred,Who gave the apple to Bill? 
+718,Fred,Label: Fred,Who did Bill give the apple to? 
+719,Bill,"Label: Fred
+</example>
+<example>
+Mary picked up the apple",Who did Fred give the apple to? 
+720,apple,"Label: apple
+
+<context>
+""Something much more trouble and not so pleasant",What did Bill give to Jeff? 
+721,Jeff,"Label: Fred
+
+<context>
+""I'm going to be a doctor",Who gave the apple? 
+722,milk,Label: apple,What did Jeff give to Bill? 
+723,milk,Label: apple,What did Jeff give to Bill? 
+724,Bill,"Label: Bill
+
+<context>
+said a little green corporal at J",Who did Jeff give the milk to? 
+725,football,Output: apple,What did Mary give to Fred? 
+726,football,"Label: apple
+
+<context>
+""I'm going to get a pair",What did Fred give to Mary? 
+727,football,"Label: apple
+
+<context>
+The following is a conversation between two people.",What did Fred give to Mary? 
+728,Mary,"Label: Fred
+<context>
+The writer humbly submitted,
+that if",Who gave the football to Fred? 
+729,Bill,"Label: Fred
+
+<context>
+Their first meeting was in the spring of",Who gave the milk to Jeff? 
+730,Fred,"Label: Fred
+
+<context>
+""I have one--a very remarkable one",Who did Bill give the milk to? 
+731,Fred,"Label: Fred
+
+<prompt> Generate a summary for this dialogue:",Who did Bill give the milk to? 
+732,Bill,Label: Bill,Who gave the milk to Fred? 
+733,Fred,"Label: Fred
+
+<context>
+The
+first thing that attracted the attention",Who did Bill give the milk to? 
+734,apple,Output: apple,What did Mary give to Fred? 
+735,Fred,Label: Fred,Who did Mary give the milk to? 
+736,Mary,Label: Fred,Who did Fred give the milk to? 
+737,milk,"Label: apple
+
+<context>
+A sweet quiet place, but haunted,",What did Fred give to Mary? 
+738,Fred,Label: Fred,Who gave the football to Bill? 
+739,football,"Label: apple
+
+<context>
+Prince
+William, in 1",What did Fred give to Bill? 
+740,Mary,"Label: Fred
+
+<context>
+Jeff went back to the office. Among",Who gave the milk to Fred? 
+741,Fred,Label: Bill,Who received the milk? 
+742,milk,Label: apple,What did Mary give to Fred? 
+743,football,Label: apple,What did Mary give to Fred? 
+744,football,"Label: apple
+
+<context>
+The following is a copy of the letter written",What did Mary give to Fred? 
+745,Bill,"Label: Bill
+
+
+
+
+IV. The first step in the direction of a",Who did Fred give the milk to? 
+746,Bill,"Label: Fred
+</example>
+<example>
+Bill journeyed to the",Who did Fred give the milk to? 
+747,milk,"Label: milk
+
+<context>
+The
+
+<example>
+Bill",What did Bill give to Mary? 
+748,Bill,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Mary? 
+749,milk,"Label: apple
+
+<context>
+He was
+accused of being absent from",What did Mary give to Fred? 
+750,Bill,"Label: Fred
+</example>
+<example>
+Jeff took the apple there",Who gave the apple to Jeff? 
+751,Jeff,Label: Fred,Who did Bill give the apple to? 
+752,apple,Label: apple,What did Jeff give to Bill? 
+753,Bill,Label: Bill,Who did Jeff give the football to? 
+754,football,"Label: apple
+
+<context>
+""I'm not going to be a",What did Bill give to Jeff? 
+755,Fred,Label: Fred,Who gave the apple to Jeff? 
+756,Jeff,"Label: Jeff
+
+<context>
+The following is a list of the most important",Who did Fred give the apple to? 
+757,Fred,"Label: Fred
+
+<context>
+[Decoration]",Who gave the apple to Jeff? 
+758,Fred,Label: Fred,Who gave the milk? 
+759,Fred,"Label: Fred
+
+<context>
+Next to my country they're my all",Who gave the milk? 
+760,apple,Output: apple,What did Fred give to Jeff? 
+761,Jeff,Label: Fred,Who did Mary give the apple to? 
+762,Mary,Output: Fred,Who gave the apple? 
+763,Mary,"Label: Mary
+
+<context>
+The following is a passage from a book.",Who gave the apple? 
+764,Jeff,Label: Fred,Who did Mary give the apple to? 
+765,Fred,Label: Fred,Who received the football? 
+766,football,"Label: Bill
+</example>
+<example>
+Mary picked up the apple",What did Fred give to Bill? 
+767,football,"Label: milk
+
+<context>
+""I'm going to be a soldier",What did Fred give to Bill? 
+768,Bill,"Label: Fred
+
+<context>
+Their first stop was at the home of",Who received the football? 
+769,Jeff,"Output: Fred
+<context>
+""Ye may b'lieve how my ha",Who gave the football to Bill? 
+770,Bill,Label: Fred,Who gave the apple? 
+771,Mary,"Label: Fred
+
+<context>
+[Footnote 114: Penel",Who did Bill give the apple to? 
+772,apple,"Label: apple
+
+<context>
+[Footnote 184: The pros",What did Mary give to Bill? 
+773,apple,"Label: apple
+
+<context>
+Bill journeyed to the bedroom.",What did Bill give to Mary? 
+774,Bill,"Label: Fred
+
+<context>
+He's
+a-lookin'",Who gave the apple to Mary? 
+775,Mary,Label: Fred,Who gave the milk? 
+776,milk,Label: milk,What did Mary give to Fred? 
+777,Fred,"Label: Fred
+
+<context>
+A
+Georgian noticed an unusually",Who did Bill give the apple to? 
+778,apple,"Label: apple
+
+<context>
+The first thing that the government did was to",What did Fred give to Bill? 
+779,Bill,"Label: Fred
+</context>
+<example>
+Jeff went to the office",Who received the apple? 
+780,Mary,Label: Mary,Who received the football? 
+781,Mary,Label: Fred,Who did Bill give the football to? 
+782,apple,Label: apple,What did Jeff give to Mary? 
+783,Mary,Label: Fred,Who did Jeff give the apple to? 
+784,apple,"Label: apple
+
+<context>
+Jeff journeyed to the bathroom.",What did Mary give to Fred? 
+785,milk,Label: apple,What did Fred give to Mary? 
+786,milk,"Label: apple
+
+<context>
+Their first meeting had been in the old",What did Fred give to Mary? 
+787,milk,"Label: Fred gave the apple to Mary
+
+<context>
+""But--"" protest",What did Fred give to Mary? 
+788,milk,"Label: milk
+
+<context>
+""I'm going to the city to",What did Bill give to Mary? 
+789,milk,"Label: milk
+
+<context>
+""I am glad to see you, Doctor",What did Bill give to Mary? 
+790,apple,"Label: apple
+
+<context>
+Bill journeyed to the garden. Colonel",What did Fred give to Mary? 
+791,Fred,"Label: Fred
+
+<context>
+“Only those
+whom I knew to",Who gave the apple to Mary? 
+792,Mary,Label: Fred,Who gave the apple? 
+793,Mary,"Label: Fred
+
+<context>
+The King was silent for a moment, and",Who did Jeff give the apple to? 
+794,Mary,Label: Fred,Who received the apple? 
+795,apple,"Label: apple
+
+<context>
+Bill journeyed to the hallway.",What did Mary give to Bill? 
+796,Mary,Label: Fred,Who received the apple? 
+797,apple,Label: apple,What did Mary give to Bill? 
+798,Mary,Label: Fred,Who gave the apple to Bill? 
+799,apple,Label: apple,What did Mary give to Bill? 
+800,Jeff,"Label: Jeff
+<context>
+The
+softness of his heart seemed to have",Who gave the football to Fred? 
+801,football,"Label: apple
+
+<context>
+The proper leader of the people is
+the",What did Jeff give to Fred? 
+802,Jeff,"Output: Jeff
+</example>
+<example>
+Jeff took the football there",Who gave the football to Fred? 
+803,football,Label: Fred,What did Mary give to Fred? 
+804,Mary,"Label: Fred
+</example>
+<example>
+Jeff journeyed to the",Who received the football? 
+805,Jeff,"Label: Fred
+</example>
+<example>
+Mary picked up the apple",Who gave the apple? 
+806,apple,"Label: apple
+
+<context>
+The next day was Sunday, and the prisoners",What did Jeff give to Mary? 
+807,apple,"Label: apple
+
+<context>
+The
+
+<example>
+Jeff",What did Jeff give to Mary? 
+808,Jeff,"Output: Fred
+
+
+
+
+
+End of Project Gutenberg's Critical",Who received the milk? 
+809,milk,"Label: apple
+
+<context>
+The old man, who had been sitting in",What did Jeff give to Fred? 
+810,Mary,"Label: Jeff
+
+<context>
+The following is a transcript of the conversation",Who gave the football? 
+811,Jeff,"Label: Mary
+
+<context>
+‘I have been to the hospital, and",Who gave the football? 
+812,Mary,"Label: Jeff
+
+<context>
+I have been very busy, and have not",Who gave the football? 
+813,Mary,Label: Fred,Who gave the football to Bill? 
+814,Bill,Output: Fred,Who did Mary give the football to? 
+815,milk,"Label: apple
+
+<context>
+""This
+has been an unusually hard",What did Bill give to Jeff? 
+816,Jeff,"Output: Bill
+</example>
+<example>
+Jeff took the football there",Who received the milk? 
+817,Bill,"Label: Jeff
+
+<context>
+[Illustration]
+
+
+
+
+[",Who gave the milk to Jeff? 
+818,Bill,"Label: Fred
+
+<context>
+The next day, I went to the office",Who received the milk? 
+819,milk,Label: apple,What did Fred give to Bill? 
+820,football,"Label: apple
+
+<context>
+""I'm glad to see you,",What did Fred give to Bill? 
+821,Fred,"Label: Fred
+
+<context>
+You
+bet that Jake Poole he",Who did Bill give the football to? 
+822,football,Label: apple,What did Bill give to Fred? 
+823,apple,"Label: apple
+
+
+
+
+[Illustration: Poultry Department]",What did Bill give to Mary? 
+824,Mary,Label: Fred,Who received the apple? 
+825,Bill,"Label: Fred
+</example>
+<example>
+Jeff went to the office",Who did Fred give the milk to? 
+826,Bill,"Label: Fred
+
+<context>
+It
+became now a real place,",Who did Fred give the milk to? 
+827,milk,"Label: apple
+
+<context>
+The train was late, and we were in",What did Fred give to Bill? 
+828,Mary,"Label: Bill
+</context>
+<example>
+Jeff took the football there",Who gave the milk? 
+829,milk,"Label: apple
+
+<context>
+Their father was a poor man, but",What did Bill give to Fred? 
+830,Bill,"Label: Fred
+
+<context>
+""Very well, I'll tell",Who gave the apple to Mary? 
+831,Mary,Label: Fred,Who did Bill give the apple to? 
+832,Mary,Label: Mary,Who did Bill give the apple to? 
+833,Bill,Label: Fred,Who gave the apple? 
+834,apple,"Label: apple
+
+<context>
+Their father had been a soldier, and",What did Bill give to Mary? 
+835,Mary,Label: Fred,Who did Bill give the football to? 
+836,Mary,Label: Fred,Who gave the football to Fred? 
+837,Fred,Label: Fred,Who did Mary give the football to? 
+838,Fred,Label: Fred,Who gave the football to Bill? 
+839,Bill,"Output: Fred
+<context>
+A cake, too, baked by the",Who did Fred give the football to? 
+840,Jeff,Output: Fred,Who received the apple? 
+841,Jeff,Label: Fred,Who gave the apple? 
+842,Jeff,Output: Fred,Who gave the apple? 
+843,Mary,"Label: Fred
+
+<context>
+Mary went to the hallway. She",Who received the apple? 
+844,Mary,Label: Fred,Who gave the apple? 
+845,Fred,Label: Fred,Who received the football? 
+846,Mary,Label: Fred,Who gave the football? 
+847,football,Label: apple,What did Mary give to Fred? 
+848,Bill,"Output: Fred
+
+<context>
+Mary journeyed to the hallway.",Who did Jeff give the apple to? 
+849,apple,Label: apple,What did Jeff give to Bill? 
+850,apple,"Label: apple
+
+<context>
+""As your confederate,"" I answered",What did Jeff give to Mary? 
+851,apple,Label: apple,What did Jeff give to Mary? 
+852,Mary,"Label: Fred
+
+<context>
+""I am going to Boston,"" said Harry",Who did Jeff give the apple to? 
+853,football,"Label: apple
+
+<context>
+Mary went to the garden. This work",What did Jeff give to Mary? 
+854,Mary,"Label: Mary
+
+<context>
+George
+Leman was noted for three",Who did Jeff give the football to? 
+855,football,"Label: apple
+
+<context>
+The little maiden was not more than nine",What did Mary give to Fred? 
+856,Mary,"Label: Jeff
+</example>
+<example>
+Mary picked up the apple",Who gave the football? 
+857,Mary,"Label: Jeff
+<context>
+The man was a great traveller, and had",Who gave the football to Fred? 
+858,milk,"Label: apple
+
+<context>
+Jeff journeyed to the garden. Mary",What did Fred give to Mary? 
+859,Fred,"Label: Fred
+
+<context>
+May you serve her as well as she is",Who gave the milk? 
+860,milk,"Label: milk
+
+<context>
+Their",What did Jeff give to Mary? 
+861,Mary,"Label: Fred
+
+<context>
+The Shire Horse Society was founded in",Who received the milk? 
+862,milk,"Label: milk
+
+<context>
+The situation at the present time is such that",What did Jeff give to Mary? 
+863,Jeff,"Output: Fred
+
+
+
+_Transcriber's Note_
+
+This",Who did Mary give the apple to? 
+864,Jeff,"Label: Fred
+
+<context>
+Bill journeyed to the bedroom.",Who gave the apple? 
+865,Mary,"Label: Fred
+</example>
+<example>
+Mary picked up the apple",Who gave the milk to Fred? 
+866,milk,"Label: Fred gave the milk to Mary.
+
+<context>
+Bill went",What did Fred give to Mary? 
+867,milk,Label: apple,What did Mary give to Fred? 
+868,Mary,Label: Fred,Who did Fred give the milk to? 
+869,Mary,"Label: Fred
+
+<context>
+The following is a list of the most important",Who gave the milk? 
+870,Bill,"Label: Fred
+
+<context>
+The following is a list of the stations in",Who gave the milk to Mary? 
+871,Bill,Label: Fred,Who did Mary give the football to? 
+872,Mary,Label: Mary,Who did Bill give the football to? 
+873,Mary,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the football? 
+874,Mary,"Output: Bill
+</example>
+<example>
+Mary picked up the apple",Who gave the milk? 
+875,Mary,"Label: Fred
+
+<context>
+""Except if we come to a pin",Who received the football? 
+876,Mary,Label: Fred,Who did Bill give the football to? 
+877,football,Label: Fred,What did Mary give to Bill? 
+878,football,Label: apple,What did Mary give to Bill? 
+879,Fred,Label: Fred,Who did Mary give the football to? 
+880,Jeff,Label: Fred,Who gave the apple? 
+881,Jeff,"Label: Fred
+
+
+
+
+[Illustration: Poultry Notes.] Mary journey",Who gave the apple? 
+882,milk,"Label: milk
+
+<context>
+Mary went to the office. The following",What did Bill give to Fred? 
+883,Bill,Label: Fred,Who gave the milk to Fred? 
+884,milk,"Label: apple
+</example>
+<example>
+Mary went to the hall",What did Bill give to Fred? 
+885,Bill,Label: Bill,Who received the apple? 
+886,Bill,"Label: Bill
+</example>
+<example>
+Mary picked up the apple",Who did Jeff give the apple to? 
+887,Jeff,"Label: Bill
+
+<context>
+Ther balloon would
+take us",Who received the apple? 
+888,Jeff,"Label: Bill
+</example>
+<example>
+Mary journeyed to the",Who did Bill give the apple to? 
+889,Jeff,"Label: Fred
+
+
+
+
+ELEGY IX. _He curses",Who did Bill give the apple to? 
+890,Bill,"Label: Fred
+
+<context>
+And do not, if you deceive any",Who gave the apple? 
+891,apple,"Label: apple
+
+<context>
+'Tis thou who dost deprive",What did Mary give to Fred? 
+892,Fred,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who received the apple? 
+893,Mary,"Label: Fred
+
+<context>
+The first thing I did was to get a",Who gave the apple? 
+894,Fred,Label: Fred,Who did Bill give the apple to? 
+895,Fred,Label: Fred,Who gave the apple? 
+896,Fred,"Label: Fred
+
+<context>
+The man who had been sitting on the edge",Who did Mary give the apple to? 
+897,Fred,Label: Fred,Who received the apple? 
+898,Mary,"Answer: Mary
+</example>
+<example>
+Mary journeyed to the hall",Who received the football? 
+899,Bill,"Label: Fred
+</example>
+<example>
+Mary picked up the milk",Who gave the football? 
+900,Jeff,Label: Fred,Who received the apple? 
+901,apple,Output: apple,What did Fred give to Jeff? 
+902,Jeff,Label: Fred,Who did Fred give the apple to? 
+903,apple,Label: apple,What did Fred give to Jeff? 
+904,Fred,Label: Fred,Who received the apple? 
+905,Bill,"Label: Fred
+
+<context>
+*       *       *       *       *",Who gave the milk to Fred? 
+906,milk,"Label: milk
+
+<context>
+The _cymbalum_ consisted of",What did Fred give to Bill? 
+907,Fred,Label: Fred,Who did Bill give the milk to? 
+908,Bill,Label: Bill,Who gave the milk to Fred? 
+909,Fred,"Label: Bill
+
+
+
+
+THE BUILDING STONE SUPPLY",Who gave the milk? 
+910,milk,"Label: apple
+
+
+
+
+THE MANUFACTURE OF APP",What did Fred give to Jeff? 
+911,Jeff,"Label: Fred
+
+<context>
+The defecator is a large vessel,",Who did Fred give the milk to? 
+912,Mary,Label: Fred,Who received the milk? 
+913,Jeff,Label: Bill,Who gave the milk? 
+914,milk,"Label: apple
+
+<context>
+Jeff journeyed to the office. I",What did Jeff give to Mary? 
+915,football,Label: apple,What did Fred give to Mary? 
+916,Mary,Output: Fred,Who received the football? 
+917,Mary,Label: Fred,Who gave the football? 
+918,Mary,"Label: Jeff
+
+<context>
+(_Falls into a chair._)",Who gave the football? 
+919,Fred,"Label: Jeff
+
+
+
+
+The Man from Brandos
+
+A Comedy",Who gave the football to Jeff? 
+920,Mary,Label: Fred,Who gave the apple to Fred? 
+921,Fred,Label: Fred,Who did Mary give the apple to? 
+922,Fred,Label: Fred,Who did Mary give the apple to? 
+923,Mary,Label: Fred,Who gave the apple? 
+924,football,"Label: apple
+
+<context>
+The man who had been sitting on the edge",What did Jeff give to Mary? 
+925,Mary,"Label: Fred
+
+
+
+SCENE VII
+
+
+_The same hour",Who gave the milk? 
+926,Bill,"Label: Fred
+</example>
+<example>
+Mary journeyed to the",Who did Fred give the milk to? 
+927,Fred,Label: Fred,Who gave the apple? 
+928,milk,"Label: apple
+
+<context>
+The conversation among the guests was grave, sub",What did Fred give to Bill? 
+929,apple,"Label: apple
+
+<context>
+You could not marry my
+child before a",What did Bill give to Fred? 
+930,apple,"Label: apple
+
+<context>
+I think she wanted to help us because of",What did Mary give to Fred? 
+931,Mary,"Label: Fred
+
+<context>
+The following article is about the history of the",Who gave the apple? 
+932,apple,"Label: apple
+
+<context>
+Bill went back to the hallway.",What did Mary give to Fred? 
+933,Jeff,"Label: Fred
+
+<context>
+Bill went back to the hallway.",Who gave the apple to Fred? 
+934,Jeff,Label: Fred,Who gave the apple? 
+935,Fred,Label: Fred,Who did Bill give the apple to? 
+936,Bill,"Output: Bill
+</context>
+<example>
+Mary picked up the apple there",Who gave the apple? 
+937,apple,Label: apple,What did Fred give to Bill? 
+938,Bill,Label: Fred,Who did Fred give the apple to? 
+939,Bill,"Label: Fred
+
+<context>
+The man was a farmer. He had",Who received the apple? 
+940,football,"Label: apple
+<context>
+The
+fairy-tale of the",What did Jeff give to Bill? 
+941,football,"Label: apple
+
+<context>
+Their first night in the new home was",What did Bill give to Jeff? 
+942,Bill,"Label: Jeff
+<context>
+The sun was sinking behind the purple pe",Who gave the football to Jeff? 
+943,apple,Label: apple,What did Fred give to Mary? 
+944,Fred,Label: Fred,Who did Mary give the apple to? 
+945,Bill,Output: Fred,Who gave the apple to Jeff? 
+946,Bill,"Output: Bill
+<prompter> Generate a question about the following movie plot:",Who did Jeff give the apple to? 
+947,Bill,Label: Fred,Who received the apple? 
+948,Bill,"Label: Fred
+
+<context>
+Their first winter they will require a little",Who gave the apple? 
+949,Jeff,"Answer: Fred
+</example>
+<example>
+Jeff took the football there.",Who did Bill give the apple to? 
+950,Fred,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Jeff? 
+951,Jeff,"Label: Fred
+
+
+
+
+[Decoration]
+
+
+XII.",Who received the milk? 
+952,Fred,"Label: Fred
+
+<context>
+""How far off from you does it seem",Who did Jeff give the milk to? 
+953,Jeff,"Label: Jeff
+
+<context>
+""Dot
+vos lots of fun to",Who did Fred give the milk to? 
+954,milk,Output: milk,What did Jeff give to Fred? 
+955,milk,"Label: apple
+
+<context>
+""I'm Alwin Bushnell,",What did Mary give to Bill? 
+956,Mary,"Label: Mary
+
+<context>
+""For the mountains and the Silver----""",Who did Bill give the milk to? 
+957,Bill,"Label: Fred
+
+
+Context: The earlier
+tombs of the 1",Who gave the milk to Mary? 
+958,Mary,"Label: Fred
+
+<context>
+The first thing to be said of the",Who gave the football? 
+959,Mary,"Label: Fred
+
+
+Question: Who was the captain of the ship?",Who received the football? 
+960,apple,Label: apple,What did Fred give to Jeff? 
+961,Jeff,"Label: Fred
+
+<context>
+I should now be out of
+the way",Who did Fred give the apple to? 
+962,Fred,"Label: Fred
+
+
+
+
+Context:",Who gave the apple to Jeff? 
+963,Fred,"Label: Fred
+
+<context>
+The man who had been in the habit of",Who gave the apple? 
+964,Fred,Label: Fred,Who gave the apple? 
+965,Fred,Label: Fred,Who received the apple? 
+966,Mary,"Output: Mary
+</example>
+<example>
+Jeff took the football there",Who gave the apple to Fred? 
+967,Fred,Output: Fred,Who did Mary give the apple to? 
+968,apple,Label: Fred,What did Mary give to Fred? 
+969,Fred,"Label: Fred
+
+<context>
+The man who had been sitting on the f",Who gave the apple? 
+970,Bill,"Label: Bill
+
+<context>
+cried Mandy, reining up her",Who received the milk? 
+971,Bill,"Label: Bill
+</context>
+
+<context>
+The man who had been",Who gave the milk? 
+972,Bill,"Label: Bill
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Mary? 
+973,Mary,"Label: Bill
+<context>
+Bill went to the bathroom. Mary went",Who gave the milk to Jeff? 
+974,Fred,"Answer: Jeff
+</example>
+<example>
+Bill journeyed to the office",Who gave the football? 
+975,football,"Label: apple
+
+<context>
+The following is a list of the most important",What did Jeff give to Bill? 
+976,football,"Label: football
+
+<context>
+It
+was the case of not one,",What did Jeff give to Bill? 
+977,Jeff,Label: Fred,Who did Mary give the milk to? 
+978,milk,"Label: apple
+
+<context>
+""I'm not sure that I like",What did Mary give to Jeff? 
+979,Mary,"Label: Bill
+</example>
+<example>
+Bill journeyed to the",Who received the football? 
+980,milk,Label: apple,What did Fred give to Mary? 
+981,Fred,"Label: Fred
+
+<context>
+Bill went to the bedroom. It",Who gave the milk? 
+982,Fred,Output: Fred,Who gave the milk to Mary? 
+983,Fred,"Label: Mary
+</example>
+<example>
+Mary picked up the apple",Who received the milk? 
+984,Fred,Output: Fred,Who gave the milk? 
+985,Jeff,"Label: Fred
+
+<context>
+""I'm going to have a talk",Who received the milk? 
+986,Fred,"Label: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the milk? 
+987,Fred,"Output: Fred
+</example>
+<example>
+Jeff took the football there",Who gave the milk to Jeff? 
+988,Fred,Label: Fred,Who gave the milk? 
+989,Bill,"Label: Fred
+
+<context>
+It's tempting God to rave",Who received the milk? 
+990,apple,"Label: apple
+
+<context>
+""I'm going to the Old Bow",What did Bill give to Fred? 
+991,Fred,"Label: Fred
+
+<context>
+""Can you help me as far as that",Who did Bill give the apple to? 
+992,Bill,"Label: Fred
+
+<context>
+""He is very polite,"" said the",Who gave the apple? 
+993,football,"Label: football
+
+<context>
+Mary went to the hallway. The",What did Jeff give to Mary? 
+994,Jeff,"Label: Fred
+
+
+
+
+CHAPTER VII.--THE MINSTERS’",Who gave the football to Mary? 
+995,Bill,Label: Fred,Who received the football? 
+996,Fred,"Label: Fred
+
+<context>
+The general, though painfully
+slow and",Who gave the football? 
+997,football,Label: Fred,What did Mary give to Bill? 
+998,football,"Label: apple
+
+<context>
+Jeff journeyed to the bedroom.",What did Mary give to Bill? 

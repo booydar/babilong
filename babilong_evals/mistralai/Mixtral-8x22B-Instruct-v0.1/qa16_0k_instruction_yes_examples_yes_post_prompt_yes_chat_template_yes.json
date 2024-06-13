@@ -1,0 +1,19 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about animals, their names and colors. The facts and a question are hidden in some random text. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nLily is a frog. Bernhard is a frog. Bernhard is green. Brian is a lion. Brian is white. Julius is a swan. Julius is green. Lily is green. Greg is a swan. What color is Greg?\nAnswer: green\n</example>\n<example>\nJulius is a lion. Lily is a rhino. Bernhard is a swan. Lily is white. Bernhard is green. Greg is a rhino. Greg is gray. Julius is white. Brian is a lion. What color is Brian?\nAnswer: white\n</example>\n<example>\nBrian is a rhino. Julius is a lion. Bernhard is a lion. Greg is a swan. Brian is gray. Greg is white. Lily is a rhino. Bernhard is yellow. Lily is gray. What color is Julius?\nAnswer: yellow\n</example>\n<context>\n",
+        "post_prompt": "Your answer should contain only one word - a color. Do not write anything else after that. Do not explain your answer.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": true
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "max_length": null,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": 0.0,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}

@@ -1,0 +1,868 @@
+,target,output,question
+0,office,"the office (Document[11]):""John went to the office . John disc",Where was the apple before the bathroom? 
+1,office,"the office (Document[119]):""John went to the office . Sand",Where was the apple before the hallway? 
+2,office,"the office (Document[12]):""John went to the office . There'",Where was the apple before the hallway? 
+3,bathroom,"the hallway (Document[12]):""Mary went to the bedroom . Just",Where was the football before the garden? 
+4,bathroom,"hallway (Document[11]):""John went to the garden . With a",Where was the football before the garden? 
+5,garden,"the garden (Document[11]):""Mary journeyed to the office .",Where was the apple before the bathroom? 
+6,kitchen,"Sandra went to the hallway (Document[10]):""Mary journeyed to",Where was the milk before the office? 
+7,kitchen,"the garden (Document[11]):""Mary journeyed to the garden .",Where was the apple before the office? 
+8,kitchen,"Sand (Document[159]):""Mary went to the office . Sandra",Where was the apple before the office? 
+9,garden,"the garden (Document[159]):""John went back to the garden .",Where was the apple before the bedroom? 
+10,garden,"the hallway (Document[10]):""Mary went back to the hall",Where was the apple before the bedroom? 
+11,garden,"the hallway (Document[12]):""Mary went to the hallway",Where was the milk before the bathroom? 
+12,garden,"the hallway (Document[15]):""Mary went back to the hall",Where was the milk before the bathroom? 
+13,garden,"the hallway (Document[11]):""Mary went back to the hall",Where was the milk before the bathroom? 
+14,kitchen,"hallway (Document[15]):""Mary went to the office . It",Where was the football before the garden? 
+15,kitchen,"the hallway (Document[119]):""Mary journeyed to the garden .",Where was the football before the garden? 
+16,garden,"the office (Document[11]):""Mary went to the bedroom .",Where was the milk before the bedroom? 
+17,garden,"the office (Document[15]):""Mary went back to the office .",Where was the milk before the bedroom? 
+18,bedroom,"the hallway (Document[11]):""John went to the hallway .",Where was the football before the bathroom? 
+19,garden,"the garden (Document[120]):""John took the football . They are",Where was the football before the hallway? 
+20,garden,"hallway (Document[12]):""John took the football . This is especially true",Where was the football before the office? 
+21,hallway,"the hallway (Document[12]):""John took the football . Daniel went",Where was the football before the garden? 
+22,office,"the hallway (Document[10]):""Sandra went back to the hall",Where was the milk before the kitchen? 
+23,kitchen,"the office (Document[12]):""Mary went to the bedroom .",Where was the milk before the bedroom? 
+24,bathroom,"the garden (Document[11]):""John went to the hallway . For",Where was the football before the bedroom? 
+25,office,"The hallway (Document[159]):""Mary went back to the hallway",Where was the football before the bedroom? 
+26,garden,"The hallway (Document[11]):""John went to the hallway . Mary went",Where was the football before the office? 
+27,garden,"the hallway (Document[10]):""John went to the hallway .",Where was the football before the office? 
+28,garden,"hallway (Document[15]):""John went to the hallway . Mary went",Where was the apple before the office? 
+29,bathroom,"The garden (Document[12]):""Mary went back to the garden . John went",Where was the apple before the hallway? 
+30,office,"the garden (Document[11]):""Mary went back to the garden .",Where was the apple before the kitchen? 
+31,office,"the hallway (Document[11]):""Mary went back to the garden",Where was the apple before the kitchen? 
+32,hallway,"the hallway (Document[15]):""Mary went back to the garden",Where was the milk before the bedroom? 
+33,bedroom,"office (Document[159]):""Mary went back to the garden .",Where was the milk before the garden? 
+34,hallway,"the garden (Document[10]):""Mary went back to the garden .",Where was the apple before the bathroom? 
+35,hallway,"the hallway (Document[129]):""Mary went back to the",Where was the football before the kitchen? 
+36,garden,"the office (Document[119]):""John went to the office . John",Where was the football before the hallway? 
+37,garden,"the office (Document[119]):""John discarded the football . John",Where was the football before the hallway? 
+38,garden,"Sandra took the milk (Document[119]):""Sandra took the milk .",Where was the milk before the hallway? 
+39,hallway,"the hallway (Document[224]):""Daniel went to the hallway",Where was the milk before the bathroom? 
+40,bedroom,"bedroom (Document[10]):""Mary went back to the bedroom",Where was the apple before the bathroom? 
+41,bedroom,"bedroom (Document[11]):""Mary went back to the bathroom",Where was the apple before the bathroom? 
+42,bedroom,"the bedroom (Document[129]):""John went back to the bed",Where was the apple before the bathroom? 
+43,bedroom,"bedroom (Document[10]):""John went back to the bedroom .",Where was the apple before the bathroom? 
+44,bedroom,"the office (Document[159]):""Mary went back to the hall",Where was the milk before the hallway? 
+45,kitchen,"the hallway (Document[159]):""Mary went back to the",Where was the apple before the garden? 
+46,garden,"the hallway (Document[15]):""Mary went back to the hall",Where was the apple before the bedroom? 
+47,garden,"the hallway (Document[159]):""John went to the office .",Where was the football before the kitchen? 
+48,bathroom,"the garden (Document[11]):""Mary journeyed to the garden .",Where was the apple before the bedroom? 
+49,bathroom,"the garden (Document[11]):""John went to the garden . John journey",Where was the apple before the bedroom? 
+50,office,"the office (Document[159]):""Mary moved to the office .",Where was the football before the hallway? 
+51,kitchen,"garden (Document[11]):""Mary went to the garden . Mary",Where was the apple before the office? 
+52,office,"the hallway (Document[10]):""Mary went to the hallway",Where was the football before the garden? 
+53,office,"the garden (Document[15]):""Mary went to the office . Mary",Where was the football before the bedroom? 
+54,garden,"the garden (Document[11]):""Mary went to the garden . Mary",Where was the apple before the hallway? 
+55,hallway,"the office (Document[11]):""Daniel picked up the football . Daniel left",Where was the football before the bedroom? 
+56,bathroom,"The office (Document[159]):""John went to the bedroom . I should",Where was the football before the hallway? 
+57,bedroom,"the office (Document[11]):""John went to the bedroom . And",Where was the football before the kitchen? 
+58,garden,"hallway (Document[14]):""John went to the bedroom . Sand",Where was the football before the bathroom? 
+59,garden,"the garden (Document[11]):""Mary went to the garden . Mary",Where was the football before the bathroom? 
+60,bathroom,"the bedroom (Document[12]):""Mary went back to the office",Where was the milk before the office? 
+61,bathroom,"the hallway (Document[11]):""Sandra went back to the hall",Where was the milk before the office? 
+62,bathroom,"the hallway (Document[11]):""Mary went back to the office",Where was the milk before the office? 
+63,garden,"hallway (Document[10]):""John put down the football . The stars",Where was the football before the bedroom? 
+64,kitchen,"hallway (Document[647]):""Mary went back to the hall",Where was the football before the bathroom? 
+65,office,"the garden (Document[648]):""John went back to the garden .",Where was the football before the hallway? 
+66,hallway,"hallway (Document[10]):""John went back to the hallway .",Where was the apple before the garden? 
+67,bathroom,"Sandra went back to the hallway (Document[119]):""Sandra went",Where was the milk before the kitchen? 
+68,kitchen,"Sandra went back to the hallway (Document[10]):""Sandra went back",Where was the apple before the bathroom? 
+69,garden,"The office (Document[10]):""John went back to the office . Our factory men",Where was the milk before the hallway? 
+70,hallway,"the hallway (Document[119]):""John went to the hallway . John",Where was the milk before the office? 
+71,garden,"office (Document[11]):""John went back to the office . Mary went",Where was the milk before the hallway? 
+72,office,"The hallway (Document[119]):""Daniel went to the hallway . John",Where was the apple before the bathroom? 
+73,office,"the garden (Document[11]):""Daniel went to the garden . Daniel went",Where was the apple before the bathroom? 
+74,kitchen,"the garden (Document[119]):""John went to the garden . Before",Where was the milk before the office? 
+75,kitchen,"the garden (Document[10]):""Mary dropped the milk . The express",Where was the milk before the office? 
+76,kitchen,"the garden (Document[10]):""Mary got the milk . The tender",Where was the milk before the office? 
+77,bathroom,"The hallway (Document[15]):""Mary put down the apple . Daniel travel",Where was the apple before the hallway? 
+78,bathroom,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the bedroom? 
+79,garden,"the garden (Document[4]):""John journeyed to the garden . Mary went",Where was the apple before the bathroom? 
+80,bathroom,"the bedroom (Document[11]):""Mary went to the office .",Where was the milk before the kitchen? 
+81,bathroom,"the hallway (Document[119]):""Mary went to the office",Where was the milk before the kitchen? 
+82,garden,"the hallway (Document[119]):""Mary went to the office",Where was the milk before the bathroom? 
+83,bathroom,"the hallway (Document[11]):""Mary went to the office .",Where was the football before the bedroom? 
+84,hallway,"the hallway (Document[119]):""Mary moved to the hall",Where was the milk before the kitchen? 
+85,hallway,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the kitchen? 
+86,garden,"the hallway (Document[24]):""Mary went back to the hallway .",Where was the milk before the bedroom? 
+87,bedroom,"the hallway (Document[11]):""John went to the office . Sand",Where was the football before the kitchen? 
+88,kitchen,"the garden (Document[2]):""Mary went to the garden . Sandra",Where was the apple before the hallway? 
+89,kitchen,"the office (Document[109]):""Mary went to the hallway",Where was the apple before the hallway? 
+90,hallway,"the hallway (Document[15]):""Daniel journeyed to the hallway",Where was the apple before the kitchen? 
+91,bedroom,"the hallway (Document[119]):""Mary went to the hall",Where was the milk before the bathroom? 
+92,bathroom,"the garden (Document[119]):""Mary went to the garden .",Where was the milk before the bedroom? 
+93,hallway,"the hallway (Document[2]):""Daniel took the football . 2 represents",Where was the football before the bathroom? 
+94,garden,"The hallway (Document[179]):""Daniel went to the hallway . John",Where was the football before the hallway? 
+95,garden,"the garden (Document[2]):""Daniel journeyed to the hallway . John",Where was the football before the hallway? 
+96,hallway,"hallway (Document[11]):""Mary went back to the hallway",Where was the apple before the bathroom? 
+97,hallway,"hallway (Document[159]):""Mary went back to the hall",Where was the apple before the bathroom? 
+98,garden,"the kitchen (Document[119]):""John went to the garden . Her",Where was the apple before the hallway? 
+99,garden,"the office (Document[12]):""John went to the garden . Daniel disc",Where was the apple before the hallway? 
+100,hallway,"hallway (Document[15]):""Daniel went to the hallway . Daniel",Where was the football before the kitchen? 
+101,hallway,"hallway (Document[12]):""Daniel went to the hallway . Mary",Where was the football before the kitchen? 
+102,kitchen,"the hallway (Document[129]):""John went to the hallway",Where was the apple before the garden? 
+103,hallway,"the bedroom (Document[159]):""Mary went back to the",Where was the milk before the bathroom? 
+104,hallway,"the hallway (Document[217]):""Mary went to the hall",Where was the milk before the bathroom? 
+105,hallway,"Sandra journeyed to the kitchen. (Document[110]):""Sandra journey",Where was the milk before the bathroom? 
+106,garden,"The hallway (Document[10]):""John went to the hallway . Daniel went",Where was the apple before the kitchen? 
+107,garden,"the office (Document[11]):""John went back to the office . John",Where was the milk before the hallway? 
+108,garden,"The office (Document[10]):""John went back to the office . John went back",Where was the milk before the hallway? 
+109,garden,"The garden (Document[119]):""When breakfast was over, the Zouaves",Where was the milk before the hallway? 
+110,kitchen,"the bathroom (Document[11]):""Mary went back to the bath",Where was the milk before the garden? 
+111,kitchen,"the office (Document[119]):""Mary went to the garden .",Where was the milk before the garden? 
+112,kitchen,"the office (Document[159]):""Mary went to the garden .",Where was the milk before the garden? 
+113,office,"the hallway (Document[11]):""Mary picked up the apple .",Where was the apple before the kitchen? 
+114,office,"the hallway (Document[109]):""John went back to the hall",Where was the apple before the kitchen? 
+115,garden,"the office (Document[139]):""John went to the garden . Mary",Where was the milk before the kitchen? 
+116,bathroom,"the hallway (Document[119]):""Daniel went back to the office",Where was the milk before the office? 
+117,bathroom,"the hallway (Document[11]):""John went to the garden . As",Where was the milk before the office? 
+118,bathroom,"the hallway (Document[159]):""Mary put down the football",Where was the milk before the office? 
+119,bathroom,"The garden (Document[11]):""Daniel went back to the office . John got the",Where was the apple before the hallway? 
+120,garden,"the garden (Document[15]):""Daniel went to the garden . The tone",Where was the football before the kitchen? 
+121,garden,"the garden (Document[41]):""Mary went to the garden . Mary",Where was the football before the kitchen? 
+122,garden,"the hallway (Document[362]):""Daniel went back to the hall",Where was the football before the kitchen? 
+123,bedroom,"hallway (Document[2]):""Mary went to the garden . Mary went to the",Where was the football before the garden? 
+124,bedroom,"the hallway (Document[1759]):""Daniel went back to the",Where was the football before the garden? 
+125,kitchen,"the office (Document[15]):""Mary journeyed to the hallway",Where was the milk before the bedroom? 
+126,kitchen,"the office (Document[11]):""John journeyed to the kitchen . The",Where was the milk before the bedroom? 
+127,kitchen,"the office (Document[119]):""John went to the office . John",Where was the milk before the bedroom? 
+128,bathroom,"the office (Document[15]):""A cup of wine drunk on part",Where was the football before the hallway? 
+129,bathroom,"The office (Document[159]):""John went back to the garden . Sandra",Where was the football before the hallway? 
+130,office,"Rust and decay were on all sides, and yet there
+was something impressive in the almost",Where was the football before the garden? 
+131,garden,"The garden (Document[159]):""Daniel went to the garden . John went back",Where was the football before the hallway? 
+132,garden,"the garden (Document[119]):""Daniel went to the garden . John",Where was the football before the hallway? 
+133,garden,"the garden (Document[11]):""John went back to the garden . John",Where was the football before the hallway? 
+134,hallway,"The hallway (Document[159]):""Mary moved to the hallway .",Where was the milk before the kitchen? 
+135,bathroom,"the garden (Document[11]):""Mary went back to the office .",Where was the apple before the office? 
+136,bathroom,"the garden (Document[116]):""Mary went back to the office",Where was the apple before the office? 
+137,bedroom,"the garden (Document[17]):""Mary went back to the garden .",Where was the apple before the bathroom? 
+138,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where was the apple before the bathroom? 
+139,garden,"The garden (Document[119]):""Mary went back to the office . Mary",Where was the apple before the hallway? 
+140,office,"the hallway (Document[119]):""Mary put down the football",Where was the football before the kitchen? 
+141,office,"the garden (Document[11]):""John went back to the office . """,Where was the apple before the bedroom? 
+142,office,"garden (Document[11]):""Mary went to the garden . Mary put down",Where was the football before the kitchen? 
+143,garden,"the garden (Document[11]):""John went back to the garden . He",Where was the milk before the office? 
+144,bathroom,"the garden (Document[119]):""John went back to the garden .",Where was the milk before the bedroom? 
+145,kitchen,"the hallway (Document[11]):""The latter was without question the thing",Where was the milk before the office? 
+146,kitchen,"the hallway (Document[11]):""Sandra went to the office .",Where was the milk before the office? 
+147,kitchen,"the bathroom (Document[103]):""Mary went to the bath",Where was the milk before the office? 
+148,kitchen,"the office (Document[159]):""Mary went to the office .",Where was the milk before the garden? 
+149,bedroom,"the office (Document[129]):""Mary went to the office .",Where was the milk before the kitchen? 
+150,bathroom,"the bathroom (Document[11]):""John picked up the football there .",Where was the football before the kitchen? 
+151,bathroom,"hallway (Document[11]):""John went from Redfield to Valpar",Where was the football before the kitchen? 
+152,bathroom,"the hallway (Document[21]):""John put down the football . Sand",Where was the football before the office? 
+153,bathroom,"the garden (Document[11]):""John went to the garden . Daniel moved to",Where was the football before the office? 
+154,bathroom,"the hallway (Document[12]):""Mary went to the hallway",Where was the milk before the office? 
+155,office,"the living room (Document[119]):""The living room was a large",Where was the football before the bedroom? 
+156,bedroom,"the office (Document[112]):""He comes down on his fore-",Where was the football before the garden? 
+157,kitchen,"the hallway (Document[129]):""Sandra put down the football",Where was the football before the garden? 
+158,kitchen,"the office (Document[10]):""Sandra picked up the football there .",Where was the football before the garden? 
+159,hallway,"the garden (Document[119]):""Sandra picked up the football there",Where was the football before the bedroom? 
+160,garden,"the hallway (Document[159]):""John went to the hallway",Where was the milk before the bedroom? 
+161,bathroom,"the bedroom (Document[11]):""Mary went back to the hallway .",Where was the football before the hallway? 
+162,bedroom,"the office (Document[119]):""Mary went back to the hall",Where was the milk before the bathroom? 
+163,kitchen,"the garden (Document[11]):""Daniel journeyed to the office . Daniel moved",Where was the apple before the office? 
+164,kitchen,"hallway (Document[11]):""Mary went back to the hallway",Where was the football before the bathroom? 
+165,hallway,"the bedroom (Document[15]):""Mary went back to the bed",Where was the milk before the kitchen? 
+166,bedroom,"the hallway (Document[15]):""Mary went back to the hall",Where was the football before the bathroom? 
+167,hallway,"the garden (Document[11]):""Mary went back to the garden .",Where was the milk before the kitchen? 
+168,hallway,"the bedroom (Document[15]):""Mary went back to the bed",Where was the milk before the kitchen? 
+169,hallway,"the hallway (Document[119]):""Sandra journeyed to the",Where was the apple before the office? 
+170,bathroom,"the bathroom (Document[11]):""Mary went to the office .",Where was the apple before the office? 
+171,bedroom,"the hallway (Document[11]):""John journeyed to the kitchen .",Where was the apple before the bathroom? 
+172,bathroom,"the hallway (Document[119]):""Minnie journeyed to",Where was the apple before the office? 
+173,garden,"the hallway (Document[129]):""Mary went to the hall",Where was the milk before the bedroom? 
+174,bedroom,"hallway (Document[33]):""Mary went to the bedroom .",Where was the milk before the garden? 
+175,bedroom,"the hallway (Document[42]):""Mary went to the garden .",Where was the milk before the garden? 
+176,bedroom,"hallway (Document[119]):""Mary went to the hallway",Where was the milk before the garden? 
+177,bedroom,"the hallway (Document[31]):""Sandra went back to the garden",Where was the apple before the garden? 
+178,kitchen,"the garden (Document[15]):""Mary went back to the garden .",Where was the apple before the hallway? 
+179,kitchen,"the garden (Document[12]):""Mary went back to the garden .",Where was the apple before the hallway? 
+180,kitchen,"the hallway (Document[119]):""John went to the hallway",Where was the milk before the office? 
+181,garden,"the office (Document[62-1]):""John went to the kitchen .",Where was the milk before the kitchen? 
+182,bathroom,"the bedroom (Document[11]):""John went to the bedroom .",Where was the football before the hallway? 
+183,hallway,"the hallway (Document[159]):""John went to the bathroom",Where was the football before the kitchen? 
+184,hallway,"the hallway (Document[CCLXVI]):""John went to the hall",Where was the football before the kitchen? 
+185,kitchen,"the hallway (Document[CLXIX]):""Mary went back to the",Where was the milk before the garden? 
+186,office,"the garden (Document[119]):""John put down the football there .",Where was the football before the hallway? 
+187,hallway,"the hallway (Document[11]):""Mary went back to the garden",Where was the apple before the bedroom? 
+188,hallway,"the hallway (Document[12]):""Mary went back to the garden",Where was the apple before the bedroom? 
+189,hallway,"the hallway (Document[12]):""Mary went back to the garden",Where was the apple before the bedroom? 
+190,bedroom,"the hallway (Document[119]):""John went to the hallway",Where was the milk before the garden? 
+191,bedroom,"the hallway (Document[129]):""John went back to the hall",Where was the milk before the garden? 
+192,bedroom,"the office (Document[119]):""Daniel went to the garden . Daniel",Where was the milk before the garden? 
+193,bedroom,"the garden (Document[100]):""Mary went back to the bed",Where was the milk before the office? 
+194,bedroom,"the garden (Document[11]):""Mary went back to the bedroom",Where was the milk before the office? 
+195,bedroom,"the office (Document[11]):""Mary picked up the football . Daniel",Where was the milk before the hallway? 
+196,bedroom,"the office (Document[11]):""_Rising, he listens att",Where was the milk before the hallway? 
+197,bedroom,"the office (Document[119]):""_The tolling of the",Where was the milk before the hallway? 
+198,hallway,"the hallway (Document[11]):""John went back to the bedroom",Where was the apple before the bedroom? 
+199,hallway,"the hallway (Document[11]):""Mary grabbed the football",Where was the football before the bedroom? 
+200,kitchen,"the hallway (Document[11]):""John went to the hallway .",Where was the apple before the garden? 
+201,kitchen,"the hallway (Document[19]):""John went to the hallway .",Where was the apple before the garden? 
+202,bedroom,"the bedroom (Document[15]):""Mary went to the office . SIR",Where was the milk before the office? 
+203,bedroom,"the bedroom (Document[19]):""Mary went to the office .",Where was the milk before the office? 
+204,bedroom,"the hallway (Document[119]):""Mary went to the office",Where was the milk before the office? 
+205,bedroom,"bedroom (Document[15]):""Mary went back to the bedroom .",Where was the milk before the office? 
+206,kitchen,"the garden (Document[175]):""Daniel went back to the garden .",Where was the football before the bedroom? 
+207,bathroom,"the hallway (Document[10]):""Mary journeyed to the kitchen",Where was the football before the bedroom? 
+208,bathroom,"the garden (Document[10]):""John went back to the bedroom .",Where was the football before the bedroom? 
+209,bathroom,"the hallway (Document[11]):""Sandra went back to the garden",Where was the football before the garden? 
+210,bedroom,"bedroom (Document[10]):""John picked up the milk . Where was",Where was the milk before the office? 
+211,bedroom,"bedroom (Document[11]):""John picked up the milk . Infinite",Where was the milk before the office? 
+212,bedroom,"bedroom (Document[10]):""John went to the bathroom . It",Where was the milk before the office? 
+213,kitchen,"The bathroom (Document[119]):""John went to the bathroom . John",Where was the milk before the garden? 
+214,kitchen,"The bathroom (Document[119]):""John went to the bathroom . John",Where was the milk before the garden? 
+215,hallway,"the hallway (Document[15]):""John went to the hallway . John got",Where was the football before the bathroom? 
+216,hallway,"the hallway (Document[159]):""Daniel went to the hallway",Where was the football before the bathroom? 
+217,hallway,"Sandra went to the garden (Document[11]):""Sandra went to the garden",Where was the football before the bathroom? 
+218,bathroom,"the hallway (Document[119]):""John went to the garden .",Where was the milk before the kitchen? 
+219,garden,"the garden (Document[129]):""Mary went to the hallway",Where was the football before the hallway? 
+220,bedroom,"the hallway (Document[31]):""Daniel took the apple . After a",Where was the apple before the kitchen? 
+221,bathroom,"the garden (Document[28]):""Daniel went to the garden . John went",Where was the apple before the hallway? 
+222,bathroom,"the garden (Document[18th'74]):""John went back to",Where was the apple before the hallway? 
+223,bathroom,"the garden (Document[11]):""Mary journeyed to the bedroom",Where was the apple before the hallway? 
+224,bathroom,"the garden (Document[11]):""Daniel went to the garden . John went",Where was the apple before the hallway? 
+225,hallway,"the hallway (Document[29]):""Mary picked up the apple .",Where was the apple before the bathroom? 
+226,office,"The office (Document[129]):""The milk was in the office (Document[",Where was the milk before the garden? 
+227,bathroom,"the hallway (Document[8]):""Mary picked up the apple . Daniel",Where was the milk before the office? 
+228,bathroom,"Sandra went back to the hallway (Document[31]):""Mary picked up",Where was the milk before the office? 
+229,hallway,Sandra went back to the hallway. Mary picked up the apple. Daniel got the milk.,Where was the football before the bedroom? 
+230,bathroom,"the hallway (Document[109]):""John went back to the hall",Where was the milk before the office? 
+231,bathroom,"the hallway (Document[119]):""Mary went back to the",Where was the apple before the garden? 
+232,bathroom,"The hallway (Document[10]):""Mary went back to the garden . Mary",Where was the apple before the garden? 
+233,bathroom,"the hallway (Document[15]):""Mary went back to the hall",Where was the apple before the garden? 
+234,garden,"the garden (Document[11]):""John went to the garden . Daniel went",Where was the football before the hallway? 
+235,garden,Sandra picked up the football. John moved to the kitchen. (Document[10]):,Where was the football before the kitchen? 
+236,garden,"the garden (Document[119]):""Sandra put down the football .",Where was the football before the kitchen? 
+237,kitchen,"the hallway (Document[159]):""Mary went to the hall",Where was the apple before the bathroom? 
+238,bathroom,"the garden (Document[11]):""Mary went to the office . Mary",Where was the apple before the hallway? 
+239,office,"the hallway (Document[11]):""Daniel went to the hallway .",Where was the football before the bedroom? 
+240,kitchen,"the hallway (Document[11]):""John went back to the hallway",Where was the football before the garden? 
+241,bedroom,"the bedroom (Document[10]):""Sandra journeyed to the bed",Where was the football before the hallway? 
+242,bathroom,"the hallway (Document[10]):""John went to the hallway .",Where was the apple before the garden? 
+243,office,"the garden (Document[10]):""John went back to the garden . Mary",Where was the apple before the bathroom? 
+244,kitchen,"the office (Document[129]):""John went back to the office .",Where was the apple before the bedroom? 
+245,kitchen,"the hallway (Document[119]):""John went back to the hall",Where was the apple before the bedroom? 
+246,kitchen,"the garden (Document[10]):""John picked up the football . Daniel travel",Where was the apple before the bedroom? 
+247,office,"the office (Document[11]):""Mary took the apple . Mary travel",Where was the apple before the bathroom? 
+248,office,"the office (Document[12]):""Mary dropped the apple . John went",Where was the apple before the bathroom? 
+249,bathroom,"the bathroom (Document[11]):""Mary moved to the bathroom",Where was the apple before the office? 
+250,office,"the hallway (Document[649]):""Sandra went to the hall",Where was the milk before the bedroom? 
+251,office,"Sandra went back to the hallway (Document[664]):""Sandra went",Where was the milk before the bedroom? 
+252,garden,"the hallway (Document[665]):""Daniel went to the office .",Where was the football before the kitchen? 
+253,bedroom,"the hallway (Document[11]):""Mary went back to the hall",Where was the apple before the garden? 
+254,garden,"the garden (Document[11]):""Mary went back to the office .",Where was the apple before the kitchen? 
+255,kitchen,"the hallway (Document[15]):""Mary went to the hallway",Where was the milk before the bathroom? 
+256,garden,"hallway (Document[15]):""In the mean time, the inhabitants of",Where was the football before the bathroom? 
+257,garden,"the hallway (Document[12]):""Daniel went to the kitchen . Sand",Where was the apple before the bathroom? 
+258,hallway,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the office? 
+259,office,"laughs Bovis, turning to Pilulus, that they may exchange a
+glance of",Where was the milk before the bathroom? 
+260,office,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the bathroom? 
+261,office,"hallway (Document[109]):""Mary went back to the hall",Where was the milk before the bathroom? 
+262,bedroom,"The hallway (Document[11]):""Mary went back to the hallway .",Where was the football before the office? 
+263,hallway,"the hallway (Document[159]):""Daniel journeyed to the bath",Where was the football before the bathroom? 
+264,hallway,"The hallway (Document[12]):""John went to the hallway . John went",Where was the football before the bathroom? 
+265,hallway,"hallway (Document[11]):""John went back to the hallway .",Where was the football before the bathroom? 
+266,bathroom,"the office (Document[119]):""John went back to the office . John went",Where was the milk before the hallway? 
+267,office,"the garden (Document[12]):""Sandra got the football . Sandra",Where was the football before the bathroom? 
+268,office,"the office (Document[129]):""Sandra got the football . Sand",Where was the football before the bathroom? 
+269,bathroom,"the office (Document[15]):""Sandra journeyed to the garden .",Where was the football before the garden? 
+270,hallway,"the hallway (Document[10]):""John went to the garden . Daniel",Where was the football before the bedroom? 
+271,hallway,"the office (Document[119]):""John went to the garden . Daniel",Where was the football before the bedroom? 
+272,office,"Easton (Document[159]):""Easton agreed to do so,",Where was the milk before the hallway? 
+273,office,"The hallway (Document[129]):""Ruth waited a few minutes longer,",Where was the milk before the hallway? 
+274,kitchen,"the hallway (Document[29]):""Daniel journeyed to the office .",Where was the milk before the garden? 
+275,kitchen,"the office (Document[11]):""Daniel went back to the hallway .",Where was the milk before the garden? 
+276,garden,"The hallway (Document[11]):""John picked up the milk . ""We'",Where was the milk before the hallway? 
+277,bedroom,"hallway (Document[15]):""Mary went back to the hallway",Where was the football before the bathroom? 
+278,hallway,"the hallway (Document[119]):""John went to the garden . Daniel went",Where was the milk before the bedroom? 
+279,bedroom,"The hallway (Document[159]):""Mary went back to the hallway",Where was the football before the bathroom? 
+280,hallway,"hallway (Document[15]):""John picked up the milk . Mary went",Where was the apple before the bedroom? 
+281,bedroom,"bedroom (Document[11]):""John went to the bedroom . """,Where was the milk before the bathroom? 
+282,bedroom,"bedroom (Document[11]):""John went to the bathroom . John",Where was the milk before the bathroom? 
+283,office,"hallway (Document[12]):""Mary went to the hallway .",Where was the apple before the bathroom? 
+284,office,"the garden (Document[11]):""Sandra went to the office . Hook",Where was the apple before the bathroom? 
+285,office,"the garden (Document[12]):""Mary went to the bedroom .",Where was the apple before the bathroom? 
+286,garden,"the hallway (Document[119]):""John went back to the bed",Where was the football before the bedroom? 
+287,garden,"the garden (Document[11]):""Mary went to the bedroom .",Where was the milk before the bedroom? 
+288,garden,"the garden (Document[119]):""Mary got the football . Mary",Where was the milk before the bedroom? 
+289,garden,"II (Document[119]):""John went back to the bedroom . Sandra",Where was the football before the bedroom? 
+290,garden,"the hallway (Document[10]):""John journeyed to the hallway",Where was the football before the bedroom? 
+291,bathroom,"the office (Document[15]):""Mary went back to the office .",Where was the apple before the garden? 
+292,bathroom,"the hallway (Document[119]):""Mary picked up the apple",Where was the apple before the garden? 
+293,bedroom,"the office (Document[15]):""John went to the hallway . In",Where was the milk before the hallway? 
+294,bedroom,"hallway (Document[11]):""John went to the hallway . Sand",Where was the milk before the garden? 
+295,bedroom,"the office (Document[11]):""Mary went back to the bedroom",Where was the milk before the garden? 
+296,bedroom,"hallway (Document[119]):""John went to the hallway .",Where was the milk before the garden? 
+297,hallway,"the hallway (Document[15]):""Mary went to the bathroom",Where was the milk before the bathroom? 
+298,kitchen,"the hallway (Document[129]):""Mary went to the office",Where was the milk before the office? 
+299,kitchen,"the hallway (Document[119]):""Mary went to the office",Where was the milk before the office? 
+300,kitchen,"the hallway (Document[119]):""Daniel took the milk . Daniel",Where was the milk before the office? 
+301,hallway,"hallway (Document[15]):""Mary went to the office . Sand",Where was the football before the garden? 
+302,bathroom,"hallway (Document[12]):""John went back to the hallway .",Where was the football before the garden? 
+303,bathroom,"the hallway (Document[10]):""John went back to the garden .",Where was the apple before the garden? 
+304,bathroom,"the hallway (Document[12]):""Sandra went to the office .",Where was the milk before the bedroom? 
+305,bathroom,"bathroom (Document[11]):""Daniel went back to the bathroom",Where was the milk before the kitchen? 
+306,hallway,"the hallway (Document[10]):""John went to the hallway .",Where was the apple before the bedroom? 
+307,kitchen,"bedroom (Document[12]):""Mary journeyed to the garden .",Where was the football before the garden? 
+308,kitchen,"the hallway (Document[119]):""Mary journeyed to the",Where was the milk before the garden? 
+309,kitchen,"the bedroom (Document[129]):""Daniel went back to the bed",Where was the milk before the garden? 
+310,hallway,"the office (Document[119]):""Daniel grabbed the apple there",Where was the apple before the bathroom? 
+311,hallway,"the office (Document[4th March, 1685]):""John",Where was the apple before the bathroom? 
+312,hallway,"the office (Document[119]):""John went to the office . Hamm",Where was the apple before the bathroom? 
+313,bedroom,"the hallway (Document[15]):""Mary went to the hallway",Where was the football before the kitchen? 
+314,office,"the hallway (Document[159]):""John went back to the office . Daniel",Where was the milk before the bedroom? 
+315,office,"the hallway (Document[119]):""Daniel went to the hallway",Where was the milk before the bedroom? 
+316,office,"the office (Document[11]):""Daniel went to the garden . Daniel left",Where was the milk before the bedroom? 
+317,bedroom,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the office? 
+318,bathroom,"The hallway (Document[159]):""Mary went back to the hallway",Where was the football before the hallway? 
+319,bedroom,"the garden (Document[11]):""Mary went back to the garden .",Where was the milk before the hallway? 
+320,bathroom,"the bathroom (Document[12]):""Mary went back to the bath",Where was the milk before the hallway? 
+321,bathroom,"the bathroom (Document[11]):""Mary journeyed to the bed",Where was the milk before the hallway? 
+322,hallway,"the hallway (Document[12]):""John went back to the garden .",Where was the football before the bathroom? 
+323,office,"the garden (Document[11]):""Mary went to the bathroom .",Where was the milk before the bathroom? 
+324,office,"the hallway (Document[159]):""John went back to the hall",Where was the football before the bathroom? 
+325,office,"the hallway (Document[15]):""John went back to the hallway",Where was the football before the bathroom? 
+326,bathroom,"the hallway (Document[129]):""John went back to the garden",Where was the football before the kitchen? 
+327,office,"the hallway (Document[119]):""Mary journeyed to the",Where was the football before the bedroom? 
+328,garden,"The hallway (Document[10]):""Mary went to the office . Mary left",Where was the milk before the kitchen? 
+329,kitchen,"the office (Document[119]):""Mary picked up the milk .",Where was the milk before the garden? 
+330,office,"the hallway (Document[10]):""Mary picked up the milk .",Where was the milk before the garden? 
+331,garden,"the hallway (Document[12]):""John went to the office . Mary",Where was the football before the bedroom? 
+332,office,"the hallway (Document[119]):""Mary picked up the milk",Where was the milk before the garden? 
+333,kitchen,"the bedroom (Document[11]):""Mary journeyed to the office",Where was the apple before the garden? 
+334,kitchen,"the bedroom (Document[12]):""Mary journeyed to the bed",Where was the apple before the garden? 
+335,kitchen,"the bathroom (Document[119]):""Daniel journeyed to the garden",Where was the apple before the garden? 
+336,hallway,"the office (Document[11]):""John went back to the office . He",Where was the apple before the garden? 
+337,garden,"hallway (Document[15]):""John went back to the hallway .",Where was the apple before the bathroom? 
+338,hallway,"the hallway (Document[129]):""John went back to the hall",Where was the apple before the office? 
+339,bathroom,"the hallway (Document[12]):""Mary went to the bedroom",Where was the milk before the bedroom? 
+340,bedroom,"the office (Document[11]):""John took the apple . Mary went to",Where was the apple before the bathroom? 
+341,hallway,"the hallway (Document[12]):""Maurice! MAURICE",Where was the football before the bathroom? 
+342,bedroom,"the garden (Document[129]):""Mary went to the bedroom",Where was the apple before the kitchen? 
+343,bedroom,"the garden (Document[11]):""Sandra journeyed to the bedroom",Where was the apple before the kitchen? 
+344,kitchen,"the office (Document[52]):""Sandra put down the apple . Sand",Where was the apple before the garden? 
+345,kitchen,"the office (Document[54]):""Sandra went to the office . Daniel",Where was the apple before the garden? 
+346,hallway,"the hallway (Document[10]):""Daniel went to the hallway .",Where was the football before the garden? 
+347,kitchen,"the hallway (Document[10]):""Mary picked up the football .",Where was the football before the office? 
+348,kitchen,"the hallway (Document[11]):""John went to the garden . Mary went",Where was the football before the office? 
+349,garden,"the garden (Document[159]):""Mary went to the garden .",Where was the milk before the hallway? 
+350,garden,"the garden (Document[11]):""Mary went to the garden . Mary",Where was the milk before the hallway? 
+351,garden,"the garden (Document[110]):""Mary went back to the hall",Where was the milk before the hallway? 
+352,garden,"the garden (Document[229]):""Mary went to the garden .",Where was the milk before the hallway? 
+353,hallway,"the office (Document[327]):""Daniel went to the bedroom .",Where was the apple before the garden? 
+354,bathroom,"The office (Document[415]):""Mary went to the office . Mary went",Where was the football before the bedroom? 
+355,bathroom,"the hallway (Document[159]):""Mary went to the hall",Where was the football before the bedroom? 
+356,hallway,"the hallway (Document[11]):""Mary went to the hallway",Where was the apple before the garden? 
+357,bathroom,"the garden (Document[119]):""Mary journeyed to the bed",Where was the apple before the hallway? 
+358,garden,"the garden (Document[119]):""Mary went to the garden .",Where was the football before the hallway? 
+359,garden,"the hallway (Document[11]):""John journeyed to the bathroom",Where was the football before the bedroom? 
+360,bathroom,"the garden (Document[11]):""Their quantity Sandra travelled to the office",Where was the milk before the hallway? 
+361,hallway,"the garden (Document[17]):""I answered Sandra travelled to the",Where was the milk before the office? 
+362,hallway,"the garden (Document[17]):""Mary went to the office . Daniel",Where was the milk before the office? 
+363,bathroom,"the bedroom (Document[15]):""Daniel moved to the hallway .",Where was the milk before the hallway? 
+364,office,"the hallway (Document[11]):""Mary went to the bathroom",Where was the milk before the kitchen? 
+365,kitchen,"the hallway (Document[10]):""Mary went to the bathroom",Where was the milk before the garden? 
+366,office,"hallway (Document[10]):""Mary went to the hallway .",Where was the milk before the kitchen? 
+367,bathroom,"the hallway (Document[129]):""Mary went to the hall",Where was the apple before the kitchen? 
+368,kitchen,"the hallway (Document[159]):""Daniel journeyed to the bed",Where was the apple before the office? 
+369,hallway,"the hallway (Document[34]):""Mary went to the hallway",Where was the milk before the kitchen? 
+370,bathroom,"the bathroom (Document[19]):""Mary went to the bathroom",Where was the milk before the hallway? 
+371,bedroom,"the bathroom (Document[11]):""Mary went to the hallway",Where was the milk before the office? 
+372,bedroom,"the bathroom (Document[12]):""Mary went to the bathroom",Where was the milk before the office? 
+373,hallway,"the garden (Document[11]):""Mary went to the bedroom .",Where was the apple before the bedroom? 
+374,garden,"the garden (Document[60]):""Mary went back to the office .",Where was the milk before the office? 
+375,garden,"garden (Document[98]):""Mary went back to the office . Daniel",Where was the milk before the office? 
+376,garden,"the bathroom (Document[62]):""Mary went back to the office . Daniel",Where was the milk before the office? 
+377,garden,"the bathroom (Document[11]):""Mary went back to the office",Where was the milk before the office? 
+378,hallway,"the hallway (Document[11]):""John picked up the football . John",Where was the football before the office? 
+379,bedroom,"the hallway (Document[159]):""Mary went to the hall",Where was the milk before the kitchen? 
+380,bedroom,"the office (Document[10]):""Mary went to the hallway .",Where was the milk before the kitchen? 
+381,garden,"Bedroom (Document[12]):""John went back to the bathroom . Why",Where was the football before the bathroom? 
+382,hallway,"the hallway (Document[119]):""John went back to the bath",Where was the football before the garden? 
+383,bathroom,"the garden (Document[15]):""Mary went to the hallway .",Where was the milk before the hallway? 
+384,bedroom,"bedroom (Document[11]):""Daniel picked up the football . Mary went",Where was the football before the office? 
+385,bedroom,"the garden (Document[10]):""John went back to the garden . Like mult",Where was the football before the office? 
+386,bedroom,"the bedroom (Document[11]):""Daniel picked up the football . Oh",Where was the football before the office? 
+387,bathroom,"the office (Document[159]):""Mary picked up the apple .",Where was the milk before the bedroom? 
+388,hallway,"the hallway (Document[15]):""John went back to the office .",Where was the apple before the bedroom? 
+389,garden,"the hallway (Document[15]):""Mary went back to the hall",Where was the milk before the bedroom? 
+390,garden,"the hallway (Document[159]):""Mary journeyed to the",Where was the milk before the bedroom? 
+391,garden,"hallway (Document[15]):""Mary went to the hallway .",Where was the milk before the bedroom? 
+392,garden,"hallway (Document[15]):""Mary journeyed to the hallway",Where was the milk before the bedroom? 
+393,garden,"the hallway (Document[119]):""Mary went back to the",Where was the apple before the kitchen? 
+394,office,"the office (Document[119]):""John went back to the hallway",Where was the milk before the hallway? 
+395,hallway,"the hallway (Document[10]):""John went back to the hallway",Where was the football before the bathroom? 
+396,hallway,"the hallway (Document[11]):""John put down the milk . John",Where was the football before the bathroom? 
+397,bedroom,"the garden (Document[11]):""Daniel moved to the bathroom . Mary",Where was the football before the hallway? 
+398,hallway,"the hallway (Document[159]):""Mary went back to the",Where was the milk before the bedroom? 
+399,hallway,"the hallway (Document[64]):""Mary journeyed to the bed",Where was the milk before the bedroom? 
+400,bedroom,"the office (Document[65]):""Mary went back to the bedroom",Where was the milk before the kitchen? 
+401,kitchen,"the hallway (Document[159]):""Mary went back to the",Where was the apple before the bedroom? 
+402,kitchen,"The hallway (Document[159]):""Mary went back to the hallway",Where was the apple before the bedroom? 
+403,office,"hallway (Document[11]):""Sandra went to the hallway .",Where was the football before the garden? 
+404,garden,"the garden (Document[11]):""Mary went to the garden . John dropped",Where was the football before the hallway? 
+405,garden,"the bedroom (Document[15]):""Daniel went to the bathroom .",Where was the milk before the office? 
+406,office,"the bedroom (Document[159]):""Daniel went to the hallway",Where was the milk before the kitchen? 
+407,kitchen,"the hallway (Document[129]):""John went to the hallway",Where was the football before the garden? 
+408,bedroom,"the garden (Document[11]):""John went to the garden . ""It",Where was the apple before the bathroom? 
+409,office,"the hallway (Document[119]):""John went to the garden .",Where was the apple before the bedroom? 
+410,garden,"the garden (Document[11]):""Mary went to the hallway .",Where was the apple before the office? 
+411,garden,"the garden (Document[11]):""John went to the garden . Mary went",Where was the apple before the office? 
+412,garden,"the garden (Document[11]):""Mary went to the office . Daniel",Where was the apple before the office? 
+413,hallway,"the garden (Document[11]):""Daniel went to the garden . Daniel picked",Where was the apple before the bathroom? 
+414,bedroom,"the garden (Document[11]):""Daniel went to the garden . She is",Where was the football before the kitchen? 
+415,hallway,"the garden (Document[11]):""Daniel went to the garden . Daniel picked",Where was the apple before the bathroom? 
+416,bathroom,"the garden (Document[119]):""Daniel went to the garden . Sm",Where was the apple before the hallway? 
+417,office,"hallway (Document[11]):""John went back to the hallway .",Where was the apple before the kitchen? 
+418,garden,"bedroom (Document[11]):""John went to the bedroom . Did he really",Where was the football before the hallway? 
+419,garden,"the office (Document[12]):""Tom went to the office . John went to the",Where was the football before the hallway? 
+420,garden,"the garden (Document[11]):""At the proper time the feast which",Where was the apple before the office? 
+421,garden,"the garden (Document[11]):""Mary journeyed to the bathroom",Where was the apple before the office? 
+422,garden,"the hallway (Document[11]):""John went to the hallway .",Where was the apple before the office? 
+423,bedroom,"the hallway (Document[303]):""Mary went to the office",Where was the apple before the garden? 
+424,bedroom,"the hallway (Document[307]):""Mary went to the office",Where was the apple before the garden? 
+425,kitchen,"the garden (Document[311]):""Mary went to the office .",Where was the apple before the bedroom? 
+426,office,"the garden (Document[11]):""Mary went to the office . Sand",Where was the apple before the bedroom? 
+427,office,"the garden (Document[11]):""John went to the garden . A hundred",Where was the apple before the bedroom? 
+428,garden,"the hallway (Document[11]):""John went back to the hallway",Where was the apple before the bathroom? 
+429,garden,"the hallway (Document[119]):""John went back to the hall",Where was the apple before the bathroom? 
+430,bathroom,"the hallway (Document[74]):""Mary went back to the garden",Where was the apple before the kitchen? 
+431,bathroom,"the hallway (Document[150]):""John went back to the office",Where was the apple before the kitchen? 
+432,bathroom,"the hallway (Document[150]):""John went to the hallway",Where was the milk before the bedroom? 
+433,bathroom,"the hallway (Document[10]):""John went to the hallway .",Where was the milk before the bedroom? 
+434,bathroom,"the hallway (Document[11]):""When breakfast was over, Peter suddenly",Where was the milk before the bedroom? 
+435,bathroom,"the hallway (Document[187]):""Mary went to the office",Where was the apple before the garden? 
+436,garden,"the hallway (Document[186]):""Mary went to the office",Where was the apple before the bedroom? 
+437,garden,"the garden (Document[190]):""Daniel moved to the garden . There",Where was the apple before the kitchen? 
+438,office,"the hallway (Document[11]):""Carl said, glancing out",Where was the football before the garden? 
+439,garden,"the hallway (Document[11]):""John got the milk . Mary moved",Where was the football before the kitchen? 
+440,garden,"the hallway (Document[11]):""John moved to the hallway .",Where was the football before the kitchen? 
+441,garden,"the garden (Document[11]):""John went to the hallway . Daniel",Where was the apple before the bathroom? 
+442,kitchen,"the hallway (Document[11]):""John went to the hallway .",Where was the apple before the bedroom? 
+443,bathroom,"Mary (Document[129]):""Mary went back to the office . Mary",Where was the football before the office? 
+444,bathroom,"the hallway (Document[119]):""Mary went back to the",Where was the football before the office? 
+445,bedroom,"the hallway (Document[109]):""Mary went back to the",Where was the football before the kitchen? 
+446,bedroom,"the hallway (Document[10]):""Mary put down the football .",Where was the football before the kitchen? 
+447,bedroom,"the garden (Document[11]):""John went to the office . Mary went",Where was the football before the kitchen? 
+448,garden,"the hallway (Document[12]):""Mary went to the bathroom",Where was the football before the bedroom? 
+449,garden,"the hallway (Document[12]):""Mary went to the bathroom",Where was the football before the bedroom? 
+450,garden,"Sandra moved to the kitchen (Document[10]):""Mary went to the bath",Where was the football before the bedroom? 
+451,garden,"the garden (Document[10]):""Mary went to the bathroom .",Where was the football before the bedroom? 
+452,bedroom,"the garden (Document[119]):""John journeyed to the garden .",Where was the apple before the bathroom? 
+453,garden,"the bathroom (Document[42]):""Mary went back to the bath",Where was the milk before the bedroom? 
+454,garden,"the hallway (Document[12]):""Daniel journeyed to the hallway",Where was the milk before the bedroom? 
+455,garden,"the bathroom (Document[12]):""Mary went back to the bath",Where was the milk before the bedroom? 
+456,garden,"The hallway (Document[119]):""Mary moved to the bedroom .",Where was the milk before the bedroom? 
+457,garden,"the garden (Document[15]):""Mary moved to the garden . Mary",Where was the football before the bedroom? 
+458,bathroom,"The office (Document[12]):""Sandra moved to the office . At this moment",Where was the milk before the hallway? 
+459,garden,"the garden (Document[12]):""Sandra went to the office . """,Where was the apple before the office? 
+460,garden,"garden (Document[11]):""Sandra put down the apple there .",Where was the apple before the office? 
+461,garden,Sandra put down the apple there (From Osten’s ‘Bauwerke in der L,Where was the apple before the office? 
+462,office,"the garden (Document[119]):""Mary went to the office . What had",Where was the apple before the hallway? 
+463,garden,"the hallway (Document[10]):""Mary went to the hallway",Where was the football before the kitchen? 
+464,garden,"the hallway (Document[10]):""Mary went to the office .",Where was the football before the kitchen? 
+465,garden,"the hallway (Document[10]):""Daniel went to the office . John",Where was the football before the kitchen? 
+466,hallway,"the hallway (Document[11]):""Daniel went to the office . John",Where was the milk before the office? 
+467,office,"the garden (Document[11]):""Mary went to the office . Daniel",Where was the milk before the hallway? 
+468,office,"Sandra (Document[119]):""Sandra moved to the hallway . Daniel",Where was the football before the bathroom? 
+469,kitchen,"the hallway (Document[11]):""Mary went to the hallway",Where was the apple before the garden? 
+470,kitchen,"the hallway (Document[10]):""Daniel put down the apple . John",Where was the apple before the garden? 
+471,bedroom,"the hallway (Document[119]):""Mary went to the hall",Where was the football before the kitchen? 
+472,kitchen,"the hallway (Document[129]):""Daniel put down the apple .",Where was the apple before the garden? 
+473,bathroom,"the hallway (Document[119]):""Daniel moved to the office .",Where was the milk before the office? 
+474,bathroom,"The hallway (Document[119]):""John went back to the hallway .",Where was the football before the garden? 
+475,bedroom,"the hallway (Document[11]):""Mary went to the office .",Where was the football before the office? 
+476,bedroom,"the hallway (Document[11]):""Mary put down the apple .",Where was the football before the office? 
+477,bedroom,"the hallway (Document[119]):""Daniel moved to the hallway",Where was the milk before the office? 
+478,office,"the hallway (Document[119]):""John went to the hallway",Where was the milk before the bedroom? 
+479,bathroom,"the office (Document[119]):""John went to the hallway .",Where was the football before the hallway? 
+480,bathroom,"the office (Document[47]):""John went to the office . Mary went",Where was the apple before the hallway? 
+481,office,"the office (Document[159]):""Sandra grabbed the milk",Where was the milk before the hallway? 
+482,garden,"the hallway (Document[159]):""Mary went back to the",Where was the apple before the bedroom? 
+483,bathroom,"the hallway (Document[129]):""Mary went back to the",Where was the football before the kitchen? 
+484,bathroom,"hallway (Document[15]):""Mary went back to the office .",Where was the apple before the garden? 
+485,garden,"the hallway (Document[129]):""Sandra grabbed the",Where was the milk before the office? 
+486,garden,"the garden (Document[11]):""Mary went back to the garden .",Where was the football before the bedroom? 
+487,garden,"the garden (Document[11]):""Mary went to the garden . Daniel",Where was the football before the bedroom? 
+488,garden,"the office (Document[12]):""Mary went to the bedroom .",Where was the football before the bedroom? 
+489,garden,"the hallway (Document[119]):""Daniel moved to the kitchen .",Where was the milk before the bedroom? 
+490,garden,"the hallway (Document[159]):""Mary went back to the",Where was the milk before the bedroom? 
+491,garden,"the hallway (Document[10]):""Sandra journeyed to the garden",Where was the milk before the office? 
+492,garden,"the hallway (Document[119]):""Sandra journeyed to the",Where was the milk before the office? 
+493,garden,"the hallway (Document[119]):""Mary journeyed to the",Where was the milk before the office? 
+494,garden,"John went to the hallway (Document[119]):""John went to the hall",Where was the football before the bathroom? 
+495,bathroom,"hallway (Document[26]):""John went to the hallway . John travel",Where was the football before the office? 
+496,garden,"The bathroom (Document[29]):""Mary went back to the hallway .",Where was the milk before the hallway? 
+497,garden,"The bathroom (Document[11]):""Mary went to the hallway . """,Where was the milk before the hallway? 
+498,garden,"The bathroom (Document[119]):""Mary went to the hallway .",Where was the milk before the hallway? 
+499,hallway,"office (Document[10]):""John went back to the office . ""I",Where was the football before the garden? 
+500,garden,"hallway (Document[12]):""John went back to the hallway . John moved",Where was the football before the office? 
+501,hallway,"the hallway (Document[15]):""Mary went to the hallway",Where was the football before the kitchen? 
+502,hallway,"the garden (Document[119]):""Daniel went back to the office .",Where was the football before the kitchen? 
+503,kitchen,"The hallway (Document[14]):""Mary journeyed to the hallway .",Where was the football before the hallway? 
+504,hallway,"the hallway (Document[20th]):""Mary journeyed to the",Where was the milk before the kitchen? 
+505,bedroom,"the garden (Document[11]):""Mary journeyed to the garden .",Where was the milk before the office? 
+506,garden,"the garden (Document[11]):""Sandra took the football . For that",Where was the football before the bedroom? 
+507,garden,"the garden (Document[119]):""Sandra travelled to the garden",Where was the football before the bedroom? 
+508,garden,"the garden (Document[12]):""John went back to the garden . Morton gave",Where was the football before the bedroom? 
+509,garden,"the garden (Document[11]):""Sandra took the football . We must",Where was the football before the bedroom? 
+510,office,"the hallway (Document[11]):""Mary went to the hallway",Where was the apple before the bathroom? 
+511,bathroom,"hallway (Document[15]):""Mary went back to the bedroom",Where was the football before the garden? 
+512,bathroom,"hallway (Document[11]):""Daniel went to the bathroom . Daniel",Where was the football before the garden? 
+513,office,"the hallway (Document[15]):""Mary went to the hallway",Where was the football before the kitchen? 
+514,office,"hallway (Document[87]):""Mary went back to the office .",Where was the football before the kitchen? 
+515,office,"the hallway (Document[119]):""Mary went to the hall",Where was the apple before the kitchen? 
+516,bathroom,"The hallway (Document[11]):""Mary went to the hallway . John",Where was the apple before the hallway? 
+517,hallway,"the hallway (Document[119]):""Mary went to the hall",Where was the apple before the office? 
+518,kitchen,"The office (Document[34]):""Mary went back to the bedroom . Mary",Where was the milk before the office? 
+519,kitchen,"the hallway (Document[11]):""Mary went to the hallway",Where was the milk before the office? 
+520,bathroom,"The hallway (Document[129]):""Mary went to the hallway .",Where was the milk before the hallway? 
+521,bathroom,"The hallway (Document[159]):""Mary grabbed the milk there",Where was the milk before the hallway? 
+522,bathroom,"the hallway (Document[12]):""Mary went to the hallway",Where was the apple before the hallway? 
+523,bathroom,"bedroom (Document[119]):""Mary went back to the bath",Where was the apple before the kitchen? 
+524,garden,"the bathroom (Document[179]):""Mary went back to the",Where was the apple before the kitchen? 
+525,bedroom,"the garden (Document[103]):""Mary went back to the garden",Where was the milk before the bathroom? 
+526,bedroom,"the garden (Document[138]):""Mary went back to the garden",Where was the milk before the bathroom? 
+527,garden,"the hallway (Document[11]):""John went to the hallway .",Where was the football before the bedroom? 
+528,garden,"the hallway (Document[12]):""Sandra took the apple . Daniel",Where was the apple before the bathroom? 
+529,office,"the garden (Document[11]):""Sandra took the apple . Daniel journey",Where was the apple before the hallway? 
+530,hallway,"the hallway (Document[11]):""Sandra took the apple . Daniel",Where was the apple before the kitchen? 
+531,bathroom,"the bedroom (Document[11]):""John went to the office . John",Where was the milk before the office? 
+532,bathroom,"the bedroom (Document[129]):""John went back to the bed",Where was the milk before the office? 
+533,bathroom,"Van Bibber (Document[159]):""Van Bibber went to the",Where was the football before the hallway? 
+534,bathroom,"Sandra moved to the hallway (Document[10]):""John put down the football",Where was the football before the hallway? 
+535,hallway,"Sandra moved to the bedroom. (Document[109]):""Sandra moved",Where was the milk before the bedroom? 
+536,hallway,"Sandra moved to the bedroom. (Document[109]):""Sandra moved",Where was the milk before the bedroom? 
+537,hallway,"the hallway (Document[11]):""Mary went to the office .",Where was the milk before the bedroom? 
+538,kitchen,"the bedroom (Document[12]):""John went back to the office .",Where was the apple before the hallway? 
+539,garden,"the hallway (Document[11]):""John went back to the office .",Where was the milk before the office? 
+540,office,"the hallway (Document[119]):""John went to the garden .",Where was the milk before the garden? 
+541,hallway,"Sandra journeyed to the garden (Document[109]):""Sandra journeyed",Where was the football before the garden? 
+542,bathroom,"the hallway (Document[119]):""John moved to the hallway",Where was the milk before the kitchen? 
+543,bathroom,"the office (Document[12]):""Mary journeyed to the office .",Where was the milk before the kitchen? 
+544,bathroom,"hallway (Document[12]):""John moved to the hallway . If",Where was the football before the garden? 
+545,bathroom,"An aged veteran in Vermont (Document[109]):""An aged veteran",Where was the football before the garden? 
+546,bathroom,"hallway (Document[119]):""John got the football . John got",Where was the apple before the garden? 
+547,garden,"the garden (Document[12]):""Sandra went back to the garden .",Where was the football before the kitchen? 
+548,garden,"the garden (Document[34]):""Sandra picked up the football . When",Where was the football before the kitchen? 
+549,office,"the garden (Document[11]):""Daniel went back to the garden . John",Where was the apple before the bedroom? 
+550,office,"the hallway (Document[40]):""Daniel went to the bathroom .",Where was the milk before the bathroom? 
+551,garden,"the hallway (Document[11]):""Daniel went to the bathroom .",Where was the milk before the kitchen? 
+552,bathroom,"the bathroom (Document[11]):""Sandra picked up the milk .",Where was the milk before the kitchen? 
+553,bathroom,"the hallway (Document[119]):""John went to the bathroom",Where was the football before the bedroom? 
+554,bathroom,"the hallway (Document[15]):""John went to the bathroom .",Where was the milk before the kitchen? 
+555,bathroom,"the office (Document[129]):""John went back to the office .",Where was the milk before the kitchen? 
+556,bathroom,"the office (Document[10]):""John went back to the office . Daniel",Where was the apple before the garden? 
+557,bedroom,"the bedroom (Document[11]):""Daniel went back to the bedroom",Where was the milk before the office? 
+558,bedroom,"the bedroom (Document[11]):""Mary went back to the bed",Where was the milk before the office? 
+559,bedroom,"bedroom (Document[10]):""John journeyed to the office . THE",Where was the milk before the office? 
+560,bedroom,"bedroom (Document[11]):""Daniel went back to the bedroom . Sandra",Where was the milk before the office? 
+561,kitchen,"the garden (Document[11]):""Mary put down the football . Mary went back",Where was the football before the bedroom? 
+562,kitchen,"the garden (Document[11]):""John went to the garden . The Sou",Where was the apple before the office? 
+563,kitchen,"the hallway (Document[11]):""Sandra moved to the hallway",Where was the apple before the office? 
+564,kitchen,"the garden (Document[11]):""John went to the garden . Pyreth",Where was the apple before the office? 
+565,bathroom,"the garden (Document[10]):""John went to the garden . Daniel went",Where was the apple before the kitchen? 
+566,office,"the hallway (Document[11]):""John went to the hallway .",Where was the football before the garden? 
+567,kitchen,"the garden (Document[11]):""John went back to the hallway .",Where was the football before the hallway? 
+568,kitchen,"the garden (Document[11]):""Mary journeyed to the garden .",Where was the football before the hallway? 
+569,office,"the hallway (Document[129]):""John went back to the hall",Where was the milk before the kitchen? 
+570,kitchen,"the garden (Document[15]):""Mary journeyed to the garden .",Where was the football before the hallway? 
+571,office,"bathroom (Document[129]):""John went back to the kitchen",Where was the milk before the kitchen? 
+572,hallway,"the office (Document[119]):""John journeyed to the office .",Where was the milk before the bedroom? 
+573,hallway,"the office (Document[119]):""John journeyed to the office .",Where was the milk before the bedroom? 
+574,office,"the office (Document[119]):""John went back to the office .",Where was the milk before the garden? 
+575,office,"the office (Document[15]):""John journeyed to the office . Sand",Where was the milk before the garden? 
+576,office,"the office (Document[17]):""John went to the bathroom . He",Where was the milk before the garden? 
+577,bedroom,"the hallway (Document[20]):""Mary journeyed to the office",Where was the milk before the office? 
+578,bedroom,"the hallway (Document[11]):""Mary went back to the hall",Where was the milk before the office? 
+579,kitchen,"The hallway (Document[15]):""Daniel went back to the hallway . Mary",Where was the milk before the hallway? 
+580,office,"the hallway (Document[119]):""Mary went back to the",Where was the milk before the bedroom? 
+581,hallway,"the hallway (Document[159]):""Mary went back to the",Where was the milk before the bedroom? 
+582,hallway,"the hallway (Document[129]):""Mary went back to the",Where was the milk before the bedroom? 
+583,bathroom,"the garden (Document[119]):""Daniel picked up the football . """,Where was the football before the hallway? 
+584,bathroom,"The garden (Document[119]):""Daniel picked up the football . Daniel discarded",Where was the football before the hallway? 
+585,hallway,"the hallway (Document[10]):""Daniel went back to the hallway",Where was the apple before the bedroom? 
+586,bedroom,"the garden (Document[11]):""Now, there lived in the house an",Where was the apple before the hallway? 
+587,hallway,"the hallway (Document[11]):""Daniel picked up the apple . Daniel",Where was the apple before the bedroom? 
+588,hallway,"the hallway (Document[119]):""Daniel journeyed to the kitchen",Where was the apple before the bedroom? 
+589,kitchen,"the hallway (Document[119]):""Daniel journeyed to the kitchen",Where was the milk before the bedroom? 
+590,garden,"the garden (Document[11]):""Fred was right; the enemies of",Where was the football before the hallway? 
+591,garden,"the garden (Document[11]):""John went back to the garden . According to his",Where was the football before the hallway? 
+592,kitchen,"the hallway (Document[16]):""John went back to the hallway",Where was the milk before the office? 
+593,kitchen,"the hallway (Document[11]):""Daniel went back to the office .",Where was the milk before the office? 
+594,office,"the office (Document[11]):""Mary went to the office . Daniel",Where was the milk before the bathroom? 
+595,office,"the office (Document[15]):""Daniel went to the bedroom . """,Where was the milk before the kitchen? 
+596,garden,"garden (Document[11]):""Daniel moved to the garden . ""Doesn'",Where was the apple before the bathroom? 
+597,garden,"the hallway (Document[11]):""Daniel went back to the hallway",Where was the milk before the bathroom? 
+598,kitchen,"the hallway (Document[12]):""A low exclamation of the",Where was the football before the office? 
+599,kitchen,"the bathroom (Document[100]):""John picked up the apple .",Where was the milk before the garden? 
+600,kitchen,"the kitchen (Document[102]):""Sandra went to the kitchen . Most of",Where was the milk before the garden? 
+601,kitchen,"the hallway (Document[103]):""John journeyed to the office",Where was the milk before the office? 
+602,office,"the garden (Document[21]):""Mary went to the hallway .",Where was the football before the hallway? 
+603,office,"the garden (Document[119]):""Mary went to the hallway . Sand",Where was the football before the hallway? 
+604,office,"the hallway (Document[159]):""John went to the hallway",Where was the football before the bedroom? 
+605,office,"the hallway (Document[159]):""John went to the hallway",Where was the football before the bedroom? 
+606,office,"the hallway (Document[15]):""When Gomin went up to the",Where was the milk before the bedroom? 
+607,kitchen,"the hallway (Document[119]):""Daniel went to the office .",Where was the apple before the office? 
+608,office,"the office (Document[11]):""Daniel went to the office . Daniel went",Where was the football before the hallway? 
+609,bathroom,"The hallway (Document[129]):""The hallway""
+
+""The",Where was the milk before the bedroom? 
+610,bedroom,"the hallway (Document[12]):""Mary journeyed to the garden",Where was the milk before the kitchen? 
+611,garden,"garden (Document[10]):""Mary journeyed to the garden .",Where was the football before the office? 
+612,garden,"the garden (Document[17]):""Mary journeyed to the garden .",Where was the football before the office? 
+613,garden,"garden (Document[18]):""Mary journeyed to the garden . Mary",Where was the football before the office? 
+614,bedroom,"the office (Document[119]):""John went back to the office .",Where was the apple before the kitchen? 
+615,bedroom,"hallway (Document[21]):""John journeyed to the hallway .",Where was the apple before the kitchen? 
+616,bedroom,"the hallway (Document[109]):""Mary went back to the",Where was the milk before the office? 
+617,bedroom,"hallway (Document[5]):""Mary went to the hallway . Mary put down",Where was the milk before the office? 
+618,bedroom,"hallway (Document[11]):""John journeyed to the hallway .",Where was the apple before the bathroom? 
+619,hallway,"the hallway (Document[11]):""Mary journeyed to the office",Where was the apple before the office? 
+620,hallway,"the hallway (Document[129]):""Sandra moved to the hall",Where was the apple before the office? 
+621,hallway,"the hallway (Document[11]):""The apple is first seen in the",Where was the apple before the office? 
+622,hallway,"the hallway (Document[119]):""Mary went back to the",Where was the milk before the bathroom? 
+623,garden,"the hallway (Document[129]):""Mary went to the office",Where was the football before the bathroom? 
+624,garden,"hallway (Document[12]):""Sandra went to the garden . Mary",Where was the football before the bathroom? 
+625,bathroom,"the garden (Document[15]):""Mary went to the office . Mary",Where was the apple before the office? 
+626,garden,"the hallway (Document[12]):""Mary went to the office .",Where was the apple before the bathroom? 
+627,bathroom,"the garden (Document[12]):""Mary went to the office . Mary",Where was the apple before the office? 
+628,kitchen,"the front room (Document[109]):""Sandra grabbed the",Where was the milk before the garden? 
+629,kitchen,"the office (Document[119]):""Mary journeyed to the garden",Where was the milk before the garden? 
+630,office,"Sandra grabbed the milk. (Document[109]):""Sandra gra",Where was the milk before the bedroom? 
+631,office,"office (Document[15]):""Sandra grabbed the milk . Sand",Where was the milk before the bedroom? 
+632,bedroom,"the garden (Document[11]):""Mary went back to the office .",Where was the apple before the bathroom? 
+633,hallway,"hallway (Document[12]):""Daniel went back to the hallway .",Where was the apple before the bathroom? 
+634,bathroom,"the bathroom (Document[11]):""Mary went back to the office",Where was the apple before the hallway? 
+635,office,"the office (Document[129]):""Mary went back to the office",Where was the milk before the bathroom? 
+636,bathroom,Sandra went back to the hallway. Mary got the milk. (Document[109,Where was the milk before the office? 
+637,kitchen,"Sandra went back to the hallway. Mary got the milk. Then life would, to this",Where was the football before the garden? 
+638,kitchen,"The office (Document[159]):""John travelled to the hallway . Sand",Where was the milk before the hallway? 
+639,kitchen,"the office (Document[159]):""Mary travelled to the office",Where was the milk before the hallway? 
+640,office,"the hallway (Document[13th]):""John went back to the hall",Where was the milk before the bathroom? 
+641,office,"the hallway (Document[11]):""John went back to the office .",Where was the milk before the bathroom? 
+642,office,"the hallway (Document[119]):""John went back to the bath",Where was the milk before the bathroom? 
+643,bathroom,"the hallway (Document[11]):""Mary went to the hallway",Where was the apple before the kitchen? 
+644,bathroom,"the hallway (Document[11]):""Mary went to the garden .",Where was the apple before the kitchen? 
+645,bathroom,"the hallway (Document[119]):""John went back to the hall",Where was the apple before the kitchen? 
+646,bedroom,"the hallway (Document[129]):""Mary went to the garden",Where was the milk before the garden? 
+647,garden,"the hallway (Document[119]):""Sandra went to the hall",Where was the milk before the bedroom? 
+648,office,"the office (Document[127]):""Mary went to the office .",Where was the milk before the bathroom? 
+649,office,"Sandra went back to the garden (Document[129]):""Sandra went back",Where was the milk before the bathroom? 
+650,office,"hallway (Document[140]):""Mary went back to the hall",Where was the milk before the bathroom? 
+651,office,"Sandra went back to the garden (Document[907]):""Sandra went back",Where was the apple before the kitchen? 
+652,office,"bedroom (Document[129]):""Mary went back to the bed",Where was the apple before the kitchen? 
+653,garden,"the garden (Document[45]):""Sandra went back to the garden .",Where was the milk before the office? 
+654,garden,"the hallway (Document[46]):""Sandra went back to the hall",Where was the milk before the office? 
+655,garden,"the garden (Document[11]):""Sandra journeyed to the office .",Where was the milk before the office? 
+656,hallway,"the hallway (Document[10]):""Mary went back to the office",Where was the apple before the bedroom? 
+657,office,"The garden (Document[3]):""Mary journeyed to the hallway . Mary went",Where was the football before the hallway? 
+658,office,"the garden (Document[129]):""Mary picked up the milk .",Where was the football before the hallway? 
+659,bedroom,"the garden (Document[119]):""Mary went to the office .",Where was the apple before the hallway? 
+660,hallway,"the office (Document[119]):""Mary picked up the milk .",Where was the milk before the garden? 
+661,hallway,"The hallway (Document[159]):""Mary went to the office . Sand",Where was the milk before the garden? 
+662,kitchen,"the office (Document[10]):""John put down the apple there . The",Where was the football before the hallway? 
+663,garden,"Sandra (Document[159]):""John went back to the garden . Sandra",Where was the football before the office? 
+664,hallway,"the office (Document[119]):""John went back to the office .",Where was the apple before the bathroom? 
+665,hallway,"the hallway (Document[120]):""John went back to the hall",Where was the apple before the bathroom? 
+666,bedroom,"the hallway (Document[11]):""John went to the bathroom .",Where was the football before the bathroom? 
+667,bedroom,"the hallway (Document[11]):""John journeyed to the hallway",Where was the football before the bathroom? 
+668,bedroom,"The garden (Document[10]):""John travelled to the garden . Mary travelled",Where was the apple before the hallway? 
+669,garden,"the garden (Document[19]):""John journeyed to the office . The lines of",Where was the football before the office? 
+670,garden,"the garden (Document[11]):""John went back to the garden . John",Where was the football before the office? 
+671,garden,"the garden (Document[15]):""John went back to the garden.""",Where was the football before the office? 
+672,garden,"hallway (Document[159]):""John went back to the hallway",Where was the football before the office? 
+673,kitchen,"the hallway (Document[11]):""Daniel went to the hallway .",Where was the milk before the garden? 
+674,kitchen,"the office (Document[119]):""John went back to the office .",Where was the milk before the garden? 
+675,bedroom,"the hallway (Document[15]):""Mary picked up the football .",Where was the football before the kitchen? 
+676,bedroom,"the hallway (Document[12]):""Mary went back to the bath",Where was the football before the kitchen? 
+677,hallway,"the hallway (Document[20]):""Mary picked up the apple .",Where was the football before the bedroom? 
+678,hallway,"the hallway (Document[10]):""Mary picked up the apple .",Where was the football before the bedroom? 
+679,office,"the hallway (Document[15]):""Mary went to the bathroom",Where was the milk before the bathroom? 
+680,garden,"the hallway (Document[119]):""Mary went to the hall",Where was the milk before the office? 
+681,garden,"the hallway (Document[159]):""Mary went to the hall",Where was the milk before the office? 
+682,garden,"the hallway (Document[15]):""Mary went to the bedroom",Where was the apple before the kitchen? 
+683,kitchen,"Sandra (Document[159]):""Sandra went back to the bedroom .",Where was the apple before the garden? 
+684,kitchen,"the hallway (Document[11]):""Mary went to the bathroom",Where was the apple before the garden? 
+685,kitchen,"the hallway (Document[19]):""Mary went to the hallway",Where was the apple before the garden? 
+686,bathroom,"The garden (Document[21]):""John went to the garden . John went to the",Where was the football before the hallway? 
+687,garden,"the hallway (Document[19]):""Mary went to the hallway",Where was the milk before the bathroom? 
+688,kitchen,"the hallway (Document[129]):""John went back to the hall",Where was the apple before the bathroom? 
+689,kitchen,"the garden (Document[26]):""Mary went back to the garden .",Where was the apple before the bathroom? 
+690,kitchen,"the garden (Document[11]):""Mary went back to the garden .",Where was the apple before the bathroom? 
+691,garden,"the garden (Document[10]):""John went back to the garden . Mary",Where was the apple before the kitchen? 
+692,garden,"the hallway (Document[11]):""John went back to the hallway",Where was the apple before the kitchen? 
+693,bathroom,"the bathroom (Document[10]):""Mary journeyed to the bathroom .",Where was the milk before the hallway? 
+694,bathroom,"the office (Document[159]):""Mary picked up the milk there",Where was the milk before the hallway? 
+695,bathroom,"The bathroom (Document[15]):""Mary went to the garden . Sandra",Where was the milk before the hallway? 
+696,bedroom,"The garden (Document[10]):""Mary went to the garden . Sandra went",Where was the apple before the kitchen? 
+697,bathroom,"The garden (Document[119]):""Mary went to the garden . Sandra",Where was the apple before the bedroom? 
+698,garden,"hallway (Document[26]):""Mary moved to the bedroom .",Where was the apple before the bedroom? 
+699,garden,"the hallway (Document[12]):""Mary went to the hallway",Where was the apple before the bedroom? 
+700,bedroom,"the office (Document[10]):""Mary went to the office . John",Where was the apple before the garden? 
+701,bedroom,"the hallway (Document[11]):""John went back to the hallway",Where was the apple before the garden? 
+702,bedroom,"the office (Document[17]):""Mary went back to the hallway",Where was the apple before the garden? 
+703,garden,"the office (Document[17]):""Daniel went to the office . Mary took",Where was the apple before the hallway? 
+704,office,"the office (Document[11]):""Daniel went to the office . Drop the",Where was the apple before the garden? 
+705,hallway,"the hallway (Document[10]):""Sandra moved to the hallway",Where was the football before the kitchen? 
+706,hallway,"the hallway (Document[11]):""Sandra moved to the hallway",Where was the football before the kitchen? 
+707,hallway,"the hallway (Document[129]):""Sandra moved to the hall",Where was the football before the kitchen? 
+708,bathroom,"Sandra (Document[129]):""Sandra moved to the hallway . I",Where was the milk before the hallway? 
+709,bathroom,Sandra got the football. But she was unaccustomed to having a man servant in the,Where was the milk before the hallway? 
+710,bedroom,"the hallway (Document[15]):""Mary went back to the bath",Where was the football before the kitchen? 
+711,hallway,Sandra took the apple there. Mary travelled to the garden. John took the milk. (,Where was the apple before the bedroom? 
+712,hallway,Sandra took the apple there. Mary travelled to the garden. John took the milk. (,Where was the apple before the bedroom? 
+713,hallway,"the hallway (Document[12]):""Mary went back to the hall",Where was the football before the bedroom? 
+714,hallway,"the hallway (Document[15]):""Mary went to the office .",Where was the milk before the office? 
+715,hallway,"the hallway (Document[15]):""John went to the hallway .",Where was the apple before the bedroom? 
+716,hallway,"Sandra went to the hallway (Document[10]):""Sandra went to the",Where was the apple before the bedroom? 
+717,bedroom,"the hallway (Document[15]):""Sandra went back to the bath",Where was the apple before the bathroom? 
+718,office,"the office (Document[159]):""John went to the hallway .",Where was the milk before the bedroom? 
+719,bathroom,"the hallway (Document[15]):""John went to the hallway .",Where was the milk before the office? 
+720,hallway,"the hallway (Document[20]):""Mary went back to the hall",Where was the milk before the garden? 
+721,hallway,"the bathroom (Document[23]):""Mary went to the hallway",Where was the milk before the garden? 
+722,hallway,"the hallway (Document[15]):""Mary went back to the office",Where was the milk before the garden? 
+723,kitchen,"Mary got the football. (Document[109]):""Mary got the football",Where was the football before the bedroom? 
+724,kitchen,"the hallway (Document[11]):""Mary journeyed to the bed",Where was the football before the bedroom? 
+725,kitchen,"the hallway (Document[11]):""Mary went to the bedroom",Where was the football before the bedroom? 
+726,hallway,"The hallway (Document[11]):""Mary went to the hallway . Mary",Where was the football before the bathroom? 
+727,bathroom,"Hallway (Document[11]):""Mary went to the hallway . Mary",Where was the football before the hallway? 
+728,garden,"the office (Document[287]):""Sandra picked up the milk .",Where was the milk before the hallway? 
+729,garden,"The fridge (Document[56]):""Sandra journeyed to the hallway .",Where was the milk before the hallway? 
+730,garden,"The garden (Document[60]):""Sandra picked up the milk . The names of",Where was the milk before the hallway? 
+731,bedroom,"the bedroom (Document[75]):""Mary went back to the hall",Where was the football before the hallway? 
+732,bedroom,"the office (Document[15]):""Mary went back to the office .",Where was the football before the hallway? 
+733,bedroom,"the office (Document[159]):""Mary journeyed to the hall",Where was the milk before the hallway? 
+734,bedroom,"the office (Document[15]):""Daniel went to the office . Daniel got",Where was the milk before the hallway? 
+735,bedroom,"the bedroom (Document[11]):""Daniel went back to the bedroom",Where was the milk before the hallway? 
+736,bedroom,"the garden (Document[119]):""Mary went back to the garden",Where was the milk before the hallway? 
+737,bedroom,"the bedroom (Document[119]):""Mary went back to the",Where was the milk before the hallway? 
+738,garden,"the garden (Document[11]):""Mary picked up the milk . Mary",Where was the milk before the office? 
+739,garden,"the bedroom (Document[119]):""Sandra moved to the bed",Where was the milk before the office? 
+740,bedroom,"the office (Document[119]):""Daniel went back to the office .",Where was the milk before the hallway? 
+741,bedroom,"the bedroom (Document[119]):""Mary picked up the milk . Mary",Where was the milk before the hallway? 
+742,bathroom,"hallway (Document[11]):""Daniel went to the garden . ""They might as",Where was the football before the garden? 
+743,hallway,"the office (Document[129]):""Daniel went to the garden . Sand",Where was the milk before the bathroom? 
+744,kitchen,"the office (Document[119]):""Daniel went to the garden . Sand",Where was the milk before the garden? 
+745,kitchen,"the hallway (Document[11]):""John went back to the hallway",Where was the football before the bathroom? 
+746,kitchen,"the hallway (Document[195]):""John went to the hallway",Where was the football before the bathroom? 
+747,bedroom,"the office (Document[267]):""Sandra went to the office .",Where was the apple before the garden? 
+748,garden,"the garden (Document[11]):""John went to the garden . John went",Where was the apple before the hallway? 
+749,bedroom,"the hallway (Document[11]):""Mary moved to the bathroom",Where was the apple before the garden? 
+750,bedroom,"the hallway (Document[4]):""John journeyed to the hallway .",Where was the apple before the garden? 
+751,garden,"hallway (Document[5]):""John journeyed to the hallway . John gra",Where was the milk before the office? 
+752,hallway,"The hallway (Document[8]):""Mary went back to the hallway . Mary",Where was the milk before the garden? 
+753,hallway,"the hallway (Document[119]):""Mary went back to the",Where was the milk before the garden? 
+754,kitchen,"the garden (Document[15]):""Mary went back to the office .",Where was the football before the office? 
+755,bathroom,"the garden (Document[119]):""Mary went back to the office",Where was the football before the hallway? 
+756,bathroom,"The garden (Document[15]):""Mary went back to the office . Mary went",Where was the football before the hallway? 
+757,hallway,"the hallway (Document[11]):""Mary went to the office .",Where was the milk before the office? 
+758,office,"the garden (Document[11]):""Mary went to the garden . John",Where was the milk before the bathroom? 
+759,bedroom,"hallway (Document[11]):""Mary went to the hallway .",Where was the apple before the garden? 
+760,kitchen,"the hallway (Document[119]):""Mary grabbed the",Where was the apple before the bedroom? 
+761,garden,"the office (Document[119]):""Mary went to the office .",Where was the apple before the kitchen? 
+762,bathroom,"the office (Document[159]):""John went to the hallway .",Where was the football before the hallway? 
+763,bathroom,"hallway (Document[15]):""Mary went to the office . Mary",Where was the football before the garden? 
+764,garden,"the hallway (Document[119]):""John put down the football .",Where was the football before the bedroom? 
+765,bathroom,"hallway (Document[15]):""John went to the hallway . John",Where was the football before the garden? 
+766,office,Sandra went to the garden. Daniel went to the garden. Sandra travelled to the bath,Where was the football before the hallway? 
+767,office,"Sandra went to the garden (Document[10]):""Mary went back to the",Where was the football before the hallway? 
+768,garden,"the bedroom (Document[11]):""John went back to the bedroom",Where was the milk before the office? 
+769,garden,"the garden (Document[10]):""John journeyed to the garden . John",Where was the milk before the office? 
+770,garden,"the hallway (Document[129]):""M. Edgeworth gave",Where was the milk before the office? 
+771,garden,"bedroom (Document[15]):""Mary went to the bedroom .",Where was the apple before the hallway? 
+772,bathroom,"the office (Document[159]):""John went back to the garden .",Where was the milk before the hallway? 
+773,bathroom,"the office (Document[159]):""John went to the hallway .",Where was the milk before the hallway? 
+774,garden,"the office (Document[119]):""John went to the hallway . Sandra",Where was the milk before the kitchen? 
+775,bedroom,"the garden (Document[11]):""John went to the hallway . Sand",Where was the football before the hallway? 
+776,garden,"The garden (Document[11]):""Mary took the milk . The inquiries",Where was the milk before the hallway? 
+777,garden,"the bedroom (Document[119]):""John went back to the bedroom .",Where was the milk before the hallway? 
+778,garden,"The hallway (Document[11]):""Mary travelled to the hallway .",Where was the milk before the hallway? 
+779,garden,"Hallway (Document[12]):""Mary went back to the hallway .",Where was the milk before the hallway? 
+780,bedroom,"the hallway (Document[11]):""Mary took the milk . When they looked",Where was the milk before the garden? 
+781,office,"the office (Document[119]):""Mary went back to the bed",Where was the milk before the bedroom? 
+782,office,"the hallway (Document[119]):""Mary went to the hall",Where was the milk before the bedroom? 
+783,bedroom,"bedroom (Document[15]):""Mary went to the office . Mary",Where was the apple before the office? 
+784,bedroom,"hallway (Document[12]):""Mary went to the office . Mary",Where was the apple before the office? 
+785,office,"hallway (Document[15]):""Mary went to the office . Mary",Where was the apple before the garden? 
+786,office,"the hallway (Document[12]):""Mary went to the office .",Where was the milk before the kitchen? 
+787,hallway,"the hallway (Document[1766]):""Daniel went to the hall",Where was the apple before the bedroom? 
+788,hallway,"the hallway (Document[10]):""Mary went to the hallway",Where was the apple before the bedroom? 
+789,kitchen,"See, they have given up the pursuit, and the
+fugitive is far away in",Where was the football before the hallway? 
+790,kitchen,"bedroom (Document[129]):""Mary grabbed the football",Where was the football before the hallway? 
+791,hallway,"the office (Document[11]):""Mary went to the hallway .",Where was the milk before the garden? 
+792,bathroom,"the bathroom (Document[14]):""John went to the garden . The",Where was the milk before the garden? 
+793,bedroom,"the garden (Document[12]):""Daniel went back to the garden . The",Where was the milk before the bathroom? 
+794,kitchen,"the office (Document[12]):""Mary journeyed to the kitchen .",Where was the milk before the hallway? 
+795,bathroom,"the hallway (Document[13]):""Mary went back to the office",Where was the milk before the office? 
+796,garden,"the hallway (Document[15]):""Mary went back to the hall",Where was the milk before the bathroom? 
+797,bedroom,"hallway (Document[19]):""Daniel put down the apple there . They",Where was the apple before the bathroom? 
+798,hallway,"the hallway (Document[159]):""Mary went back to the hallway",Where was the football before the kitchen? 
+799,hallway,"hallway (Document[15]):""Mary went back to the hallway",Where was the football before the kitchen? 
+800,hallway,"the hallway (Document[159]):""Mary went back to the",Where was the football before the kitchen? 
+801,garden,"hallway (Document[15]):""Mary went back to the hallway",Where was the football before the bedroom? 
+802,hallway,"the hallway (Document[15]):""Mary went back to the hall",Where was the apple before the bedroom? 
+803,garden,"the garden (Document[119]):""Mary went back to the garden",Where was the apple before the hallway? 
+804,garden,"the bedroom (Document[11]):""Sandra went back to the bed",Where was the milk before the office? 
+805,bathroom,"the garden (Document[11]):""John went back to the garden . Mary",Where was the milk before the bedroom? 
+806,bathroom,"the hallway (Document[129]):""John got the apple . John",Where was the apple before the garden? 
+807,garden,"the garden (Document[11]):""John journeyed to the garden . John",Where was the apple before the office? 
+808,garden,"the bedroom (Document[11]):""John dropped the milk . Lightfoot",Where was the apple before the office? 
+809,garden,"bedroom (Document[10]):""Mary journeyed to the garden .",Where was the apple before the office? 
+810,hallway,"the hallway (Document[15]):""John went back to the bedroom",Where was the apple before the garden? 
+811,hallway,"the hallway (Document[11]):""John went back to the garden .",Where was the football before the kitchen? 
+812,hallway,"the hallway (Document[12]):""John went to the hallway .",Where was the football before the kitchen? 
+813,hallway,"hallway (Document[11]):""John picked up the milk . Although the",Where was the football before the kitchen? 
+814,kitchen,"the office (Document[119]):""John picked up the milk . Sand",Where was the football before the hallway? 
+815,hallway,"hallway (Document[10]):""John picked up the milk . Sandra",Where was the football before the kitchen? 
+816,kitchen,"the hallway (Document[159]):""John picked up the milk .",Where was the milk before the garden? 
+817,hallway,"the hallway (Document[119]):""Mary went to the hall",Where was the milk before the bathroom? 
+818,office,"Sandra journeyed to the hallway (Document[11]):""Mary picked up",Where was the football before the hallway? 
+819,office,"the garden (Document[109]):""Mary picked up the football .",Where was the football before the hallway? 
+820,office,"the garden (Document[119]):""Daniel moved to the garden . Sandra journey",Where was the football before the hallway? 
+821,kitchen,"the garden (Document[109]):""John went to the garden . Sand",Where was the milk before the bathroom? 
+822,kitchen,"the office (Document[129]):""John went to the garden . Sand",Where was the milk before the bathroom? 
+823,bathroom,"the garden (Document[11]):""John went to the garden . Sandra",Where was the football before the bedroom? 
+824,bathroom,"the hallway (Document[120]):""John went to the garden .",Where was the football before the bedroom? 
+825,hallway,"the hallway (Document[48]):""John went to the garden . Sand",Where was the milk before the bedroom? 
+826,bathroom,"the bathroom (Document[51]):""Mary went to the hallway",Where was the apple before the hallway? 
+827,bathroom,"the bathroom (Document[12]):""Mary journeyed to the bath",Where was the apple before the hallway? 
+828,bathroom,"the bathroom (Document[12]):""Mary journeyed to the bath",Where was the apple before the hallway? 
+829,bathroom,"the office (Document[12]):""Mary went to the hallway .",Where was the apple before the hallway? 
+830,bathroom,"the office (Document[11]):""Mary journeyed to the bathroom",Where was the apple before the hallway? 
+831,hallway,"hallway (Document[12]):""John journeyed to the hallway .",Where was the football before the garden? 
+832,bathroom,"the office (Document[129]):""Mary went to the hallway",Where was the milk before the hallway? 
+833,bathroom,"the office (Document[11]):""Mary went to the hallway .",Where was the milk before the hallway? 
+834,bathroom,"the office (Document[119]):""Mary went to the hallway",Where was the milk before the hallway? 
+835,hallway,"the hallway (Document[5]):""Mary went back to the hallway",Where was the milk before the kitchen? 
+836,hallway,"the garden (Document[10]):""Mary went back to the bathroom",Where was the milk before the kitchen? 
+837,bathroom,"the hallway (Document[15]):""Mary went back to the bath",Where was the football before the office? 
+838,bedroom,"Sandra moved to the bathroom. (Document[109]):""Sandra moved",Where was the football before the bathroom? 
+839,bedroom,"the hallway (Document[10]):""Mary went back to the bath",Where was the football before the office? 
+840,hallway,"the hallway (Document[11]):""John went back to the hallway",Where was the milk before the bedroom? 
+841,hallway,"the hallway (Document[12]):""Mary went to the bedroom",Where was the milk before the bedroom? 
+842,hallway,"the hallway (Document[159]):""Mary went to the hall",Where was the milk before the bedroom? 
+843,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where was the apple before the office? 
+844,hallway,"the hallway (Document[12]):""Mary went to the hallway",Where was the apple before the bedroom? 
+845,hallway,"the hallway (Document[159]):""Sandra went to the hall",Where was the football before the bedroom? 
+846,bedroom,"the garden (Document[2]):""Mary went back to the garden . 'I",Where was the milk before the bathroom? 
+847,hallway,"the hallway (Document[12]):""Daniel went back to the hallway",Where was the football before the bedroom? 
+848,kitchen,"the hallway (Document[119]):""Mary got the milk .",Where was the milk before the bathroom? 
+849,office,"the hallway (Document[10]):""Sandra went to the hallway",Where was the football before the bathroom? 
+850,office,"hallway (Document[15]):""Mary went back to the bathroom",Where was the football before the kitchen? 
+851,bedroom,"the bathroom (Document[15]):""Mary journeyed to the office",Where was the apple before the office? 
+852,bedroom,"the bathroom (Document[15]):""Mary journeyed to the hall",Where was the apple before the office? 
+853,bathroom,"the hallway (Document[15]):""Mary journeyed to the hall",Where was the milk before the bedroom? 
+854,hallway,"The hallway (Document[119]):""Mary journeyed to the hallway",Where was the football before the garden? 
+855,garden,"the hallway (Document[11]):""John went back to the hallway",Where was the milk before the bedroom? 
+856,kitchen,"the hallway (Document[11]):""John went back to the garden .",Where was the football before the garden? 
+857,bedroom,"the hallway (Document[119]):""John went back to the hall",Where was the football before the office? 
+858,garden,"hallway (Document[15]):""John went back to the hallway .",Where was the football before the bedroom? 
+859,hallway,"the hallway (Document[11]):""John went back to the garden .",Where was the football before the kitchen? 
+860,hallway,"A hallway (Document[11]):""John went back to the hallway . John",Where was the football before the kitchen? 
+861,hallway,"hallway (Document[49]):""John went back to the hallway . John",Where was the football before the kitchen? 

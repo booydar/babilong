@@ -1,0 +1,1432 @@
+,target,output,question
+0,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+1,one,one (the milk),How many objects is Mary carrying? 
+2,none,one (the milk),How many objects is Mary carrying? 
+3,none,"$none$ (John is moving or going to places, he is not carrying anything in this context",How many objects is John carrying? 
+4,one,one. (John is carrying the football.),How many objects is John carrying? 
+5,one,one,How many objects is Daniel carrying? 
+6,none,"Answer: none. In the context provided, Daniel is not carrying any objects when he goes to the",How many objects is Daniel carrying? 
+7,none,"Answer: none. In the context, Daniel left the milk at the previous location.",How many objects is Daniel carrying? 
+8,one,One.,How many objects is Mary carrying? 
+9,one,One. (The football),How many objects is Mary carrying? 
+10,one,One.,How many objects is Sandra carrying? 
+11,two,two,How many objects is Sandra carrying? 
+12,one,One. (She got the football.),How many objects is Mary carrying? 
+13,one,One. (She is carrying the apple.),How many objects is Sandra carrying? 
+14,one,One. (She is carrying the apple.),How many objects is Sandra carrying? 
+15,one,one.,How many objects is John carrying? 
+16,one,one.,How many objects is John carrying? 
+17,none,two (assuming the apple he dropped is still with him),How many objects is John carrying? 
+18,none,$none$ (Mary did not carry any object during the given actions),How many objects is Mary carrying? 
+19,two,"two
+
+Explanation: Mary picked up the football and the milk in the kitchen.",How many objects is Mary carrying? 
+20,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+21,one,one. (Sandra got the football from the hallway),How many objects is Sandra carrying? 
+22,one,"one
+
+<context>
+John moved to the hallway. Mary grabbed the milk there. John",How many objects is Mary carrying? 
+23,one,"one
+
+<context>
+John moved to the hallway. Mary grabbed the milk there. John",How many objects is Mary carrying? 
+24,none,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+25,one,one,How many objects is John carrying? 
+26,one,"one
+
+<context>
+Daniel went to the bathroom. John moved to the office.",How many objects is Mary carrying? 
+27,none,one (the football),How many objects is Mary carrying? 
+28,none,"none.
+
+Mary dropped the football before she carried anything.",How many objects is Mary carrying? 
+29,none,One. (She is carrying the football.),How many objects is Mary carrying? 
+30,none,"Answer: none.
+
+Mary got the apple at one point, but she left it before",How many objects is Mary carrying? 
+31,one,Answer: none.,How many objects is Mary carrying? 
+32,one,"Answer: none.
+
+Mary got the apple in the bedroom and left it there. She",How many objects is Mary carrying? 
+33,two,"Answer: none. In the context provided, Mary left the apple in the bedroom before going to the",How many objects is Mary carrying? 
+34,two,"Answer: none.
+
+In the given context, Mary left the apple in the bedroom before moving",How many objects is Mary carrying? 
+35,none,Answer: one.,How many objects is John carrying? 
+36,none,$none$,How many objects is John carrying? 
+37,none,$none$,How many objects is John carrying? 
+38,none,one.,How many objects is Mary carrying? 
+39,none,One.,How many objects is Mary carrying? 
+40,one,One.,How many objects is Sandra carrying? 
+41,none,$none$,How many objects is Sandra carrying? 
+42,none,$none$,How many objects is Sandra carrying? 
+43,one,"one
+
+(John is carrying the football)",How many objects is John carrying? 
+44,none,one. (Assuming John is carrying the football when he travels to the office with Sandra and,How many objects is John carrying? 
+45,one,one.,How many objects is Daniel carrying? 
+46,one,one.,How many objects is Daniel carrying? 
+47,none,"Answer: none.
+
+Daniel discarded the milk, so he is no longer carrying it",How many objects is Daniel carrying? 
+48,none,Answer: none. (Daniel discarded the milk.),How many objects is Daniel carrying? 
+49,none,"One (1)
+
+(Note: Daniel is carrying the apple.)",How many objects is Daniel carrying? 
+50,one,one (the football),How many objects is Mary carrying? 
+51,none,one (the football),How many objects is Mary carrying? 
+52,one,one (the football),How many objects is Mary carrying? 
+53,none,one (the football),How many objects is Mary carrying? 
+54,none,The text does not provide enough information to determine how many objects Mary is carrying at any given point in,How many objects is Mary carrying? 
+55,one,one,How many objects is John carrying? 
+56,one,one.,How many objects is John carrying? 
+57,one,one. (John is carrying the apple.),How many objects is John carrying? 
+58,none,one. (Sandra is carrying the apple.),How many objects is Sandra carrying? 
+59,one,The context does not provide enough information to determine how many objects Sandra is carrying at the end.,How many objects is Sandra carrying? 
+60,none,$none$,How many objects is Mary carrying? 
+61,none,$none$,How many objects is Mary carrying? 
+62,none,$none$,How many objects is Mary carrying? 
+63,none,$none$ (at the end of the text),How many objects is Mary carrying? 
+64,none,"$none$ (at the end of the text)
+
+Explanation: Mary dropped the",How many objects is Mary carrying? 
+65,one,one.,How many objects is Sandra carrying? 
+66,none,Answer: none. Sandra handed the apple to Daniel before the context mentions her carrying anything else,How many objects is Sandra carrying? 
+67,one,one. (Sandra is carrying the apple at some point during the sequence of events.),How many objects is Sandra carrying? 
+68,none,One. (Daniel is carrying the apple.),How many objects is Daniel carrying? 
+69,one,one.,How many objects is Sandra carrying? 
+70,one,one.,How many objects is Sandra carrying? 
+71,none,Answer: one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+72,one,one (Sandra is carrying the milk),How many objects is Sandra carrying? 
+73,one,One.,How many objects is Daniel carrying? 
+74,one,One.,How many objects is Daniel carrying? 
+75,one,one,How many objects is John carrying? 
+76,one,"one
+
+<context>
+Mary took the milk there. John got the football there.",How many objects is John carrying? 
+77,one,one.,How many objects is Sandra carrying? 
+78,none,two.,How many objects is Sandra carrying? 
+79,none,one. (Sandra is carrying the milk),How many objects is Sandra carrying? 
+80,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+81,two,two,How many objects is Mary carrying? 
+82,two,one. (Mary is carrying the milk and the apple.),How many objects is Mary carrying? 
+83,two,$none$,How many objects is Mary carrying? 
+84,one,$none$,How many objects is Mary carrying? 
+85,one,one (since she picked up the football),How many objects is Mary carrying? 
+86,one,one (the football),How many objects is Mary carrying? 
+87,none,$none$,How many objects is Mary carrying? 
+88,none,$none$,How many objects is Mary carrying? 
+89,one,"none (in the given context, Mary is not carrying any object when the question is asked)",How many objects is Mary carrying? 
+90,one,"two
+
+Explanation: Daniel carried the milk in the kitchen and the object in the bedroom",How many objects is Daniel carrying? 
+91,one,two. (Daniel took the milk and moved to the garden),How many objects is Daniel carrying? 
+92,one,"two
+
+Explanation: Daniel carried the milk and himself to the kitchen, and later carried",How many objects is Daniel carrying? 
+93,none,Two. (Daniel is carrying the milk and himself.),How many objects is Daniel carrying? 
+94,none,Two. (Daniel is carrying the milk and himself.),How many objects is Daniel carrying? 
+95,one,one.,How many objects is Sandra carrying? 
+96,one,two,How many objects is Sandra carrying? 
+97,one,one (she is carrying the football),How many objects is Sandra carrying? 
+98,two,two,How many objects is Sandra carrying? 
+99,one,two,How many objects is Sandra carrying? 
+100,one,one. (Mary is carrying the milk with her to the office.),How many objects is Mary carrying? 
+101,one,$none$ (Mary is not carrying any object mentioned in the context when she went to the,How many objects is Mary carrying? 
+102,one,"One.
+
+<context>
+Mary took the milk there. Mary went to the office",How many objects is Daniel carrying? 
+103,none,"Answer: none.
+
+In the context, Daniel discarded the apple he was carrying earlier.",How many objects is Daniel carrying? 
+104,none,"Answer: none.
+
+In the context, Daniel discarded the apple he was carrying earlier.",How many objects is Daniel carrying? 
+105,one,one,How many objects is John carrying? 
+106,one,one,How many objects is John carrying? 
+107,none,"$none$ (John is not carrying anything when he is mentioned in the question)
+
+Question",How many objects is John carrying? 
+108,one,one.,How many objects is Sandra carrying? 
+109,one,one (the milk),How many objects is Mary carrying? 
+110,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+111,none,$none$ (Mary is not carrying anything at the end of the text),How many objects is Mary carrying? 
+112,none,$none$,How many objects is Mary carrying? 
+113,none,$none$,How many objects is Sandra carrying? 
+114,none,$none$ (Mary is not carrying any objects at the moment in the context provided),How many objects is Mary carrying? 
+115,one,one (in the question it is mentioned that she picked up the apple),How many objects is Mary carrying? 
+116,one,one (after picking up the apple in the hallway),How many objects is Mary carrying? 
+117,one,one (the apple),How many objects is Mary carrying? 
+118,one,two.,How many objects is Sandra carrying? 
+119,none,"$none$ (Mary put down the apple multiple times, so she is not carrying it when",How many objects is Mary carrying? 
+120,one,"One (the football)
+
+<context>
+Mary got the football there. Daniel journey",How many objects is Mary carrying? 
+121,one,one (the football),How many objects is Mary carrying? 
+122,none,Answer: one. (Daniel is carrying the apple.),How many objects is Daniel carrying? 
+123,none,one.,How many objects is Daniel carrying? 
+124,none,"one
+
+Explanation: Sandra is carrying the milk. Despite the text mentioning that",How many objects is Sandra carrying? 
+125,one,one,How many objects is John carrying? 
+126,none,$none$,How many objects is John carrying? 
+127,none,$none$,How many objects is John carrying? 
+128,one,two,How many objects is Sandra carrying? 
+129,one,One. (Daniel is carrying the apple.),How many objects is Daniel carrying? 
+130,one,one,How many objects is Daniel carrying? 
+131,one,one. (Daniel is carrying the milk.),How many objects is Daniel carrying? 
+132,none,one. (Daniel is carrying the milk.),How many objects is Daniel carrying? 
+133,two,two,How many objects is John carrying? 
+134,one,two,How many objects is John carrying? 
+135,one,one,How many objects is John carrying? 
+136,none,one (assuming he is still carrying the milk when the question is asked),How many objects is John carrying? 
+137,none,Answer: one.,How many objects is Mary carrying? 
+138,one,One. (She is carrying the apple.),How many objects is Mary carrying? 
+139,none,"One (1)
+
+Explanation: Mary is carrying the apple. She put down the",How many objects is Mary carrying? 
+140,one,two,How many objects is Sandra carrying? 
+141,none,two,How many objects is Sandra carrying? 
+142,two,two,How many objects is John carrying? 
+143,one,two,How many objects is John carrying? 
+144,one,two,How many objects is John carrying? 
+145,one,one.,How many objects is Daniel carrying? 
+146,one,one.,How many objects is Daniel carrying? 
+147,one,"two (Daniel picked up the apple and travelled with it to the bathroom, and he also",How many objects is Daniel carrying? 
+148,two,"two
+
+Explanation: John picked up the football and took the milk. Therefore, he",How many objects is John carrying? 
+149,one,"two
+
+Explanation: John is carrying the football and the milk.",How many objects is John carrying? 
+150,none,one (football),How many objects is Daniel carrying? 
+151,none,one (football),How many objects is Daniel carrying? 
+152,none,one (the football),How many objects is Daniel carrying? 
+153,none,"two
+
+Explanation: John moved to the office with nothing, but later he got the",How many objects is John carrying? 
+154,one,one.,How many objects is Sandra carrying? 
+155,one,one. (The football was taken from the previous location and is still being carried.),How many objects is Daniel carrying? 
+156,none,"Answer: none. In the first action, Daniel took the football from the location and is no longer",How many objects is Daniel carrying? 
+157,one,one.,How many objects is Daniel carrying? 
+158,none,One. (John is carrying the apple.),How many objects is John carrying? 
+159,one,One.,How many objects is Mary carrying? 
+160,one,two,How many objects is Sandra carrying? 
+161,none,two. (Sandra is carrying the football in the garden and then passes it to John in the,How many objects is Sandra carrying? 
+162,one,two.,How many objects is John carrying? 
+163,one,"two. (John is carrying the football in some instances and picking it up in others, so it",How many objects is John carrying? 
+164,one,two. (Sandra picked up the football in the garden and carried it with her to the bedroom,How many objects is Sandra carrying? 
+165,one,"The text does not provide any information about Mary carrying an object. Therefore, the answer is: $",How many objects is Mary carrying? 
+166,none,$none$,How many objects is Mary carrying? 
+167,two,two,How many objects is Sandra carrying? 
+168,two,two,How many objects is Sandra carrying? 
+169,two,two.,How many objects is Sandra carrying? 
+170,none,"Answer: none.
+
+In the first sentence, John is picking up the football, so he",How many objects is John carrying? 
+171,none,$none$,How many objects is John carrying? 
+172,none,$none$,How many objects is John carrying? 
+173,one,one (assuming the football is still with him when he took it from the place it was dropped,How many objects is John carrying? 
+174,one,"The context does not provide enough information to determine how many objects John is carrying.
+
+Answer",How many objects is John carrying? 
+175,one,one,How many objects is John carrying? 
+176,two,two,How many objects is John carrying? 
+177,two,two,How many objects is John carrying? 
+178,one,two (football and milk),How many objects is John carrying? 
+179,one,one (assuming he is still carrying the football even after dropping it),How many objects is John carrying? 
+180,one,one.,How many objects is Sandra carrying? 
+181,none,Answer: one.,How many objects is Sandra carrying? 
+182,none,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+183,one,$none$,How many objects is Mary carrying? 
+184,none,one (the milk),How many objects is Mary carrying? 
+185,one,one. (John is carrying the milk.),How many objects is John carrying? 
+186,none,one. (The milk),How many objects is John carrying? 
+187,none,one (since he is carrying the milk),How many objects is John carrying? 
+188,none,$none$,How many objects is Daniel carrying? 
+189,none,$none$ (Daniel did not carry any object in the given context),How many objects is Daniel carrying? 
+190,one,one,How many objects is Daniel carrying? 
+191,none,"Answer: none. In the context, it is stated that Daniel left the apple. This means he",How many objects is Daniel carrying? 
+192,one,"one
+
+Explanation: Mary took the football, so she is carrying one object.",How many objects is Mary carrying? 
+193,none,One. (The football),How many objects is Mary carrying? 
+194,none,"None. In the context, Mary put down the football before moving to the garden.",How many objects is Mary carrying? 
+195,none,Answer: one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+196,none,"Answer: none.
+
+In the last action described, Sandra left the milk in the bathroom",How many objects is Sandra carrying? 
+197,none,"two (Sandra is carrying the milk and possibly the apple from an earlier event, but only the",How many objects is Sandra carrying? 
+198,none,Answer: none (at the end of the sequence of events),How many objects is Daniel carrying? 
+199,none,Answer: none (at the end of the sequence of actions),How many objects is Daniel carrying? 
+200,none,"one.
+
+<context>
+Sandra went to the office. Mary travelled to the",How many objects is John carrying? 
+201,none,"one.
+
+<context>
+Daniel went to the bedroom. Daniel got the apple there",How many objects is John carrying? 
+202,none,one (the apple),How many objects is John carrying? 
+203,one,two. (Daniel carried the apple and the football at different points in time),How many objects is Daniel carrying? 
+204,none,one.,How many objects is Daniel carrying? 
+205,one,one (the milk),How many objects is John carrying? 
+206,one,one (the milk),How many objects is John carrying? 
+207,none,one (football),How many objects is Mary carrying? 
+208,one,one (the football),How many objects is John carrying? 
+209,one,one (the football),How many objects is Mary carrying? 
+210,one,one.,How many objects is John carrying? 
+211,one,one.,How many objects is John carrying? 
+212,none,One.,How many objects is John carrying? 
+213,none,one.,How many objects is John carrying? 
+214,one,two (at the garden when he gave the football to Sandra),How many objects is Daniel carrying? 
+215,one,one. (Sandra carried the milk),How many objects is Sandra carrying? 
+216,none,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+217,none,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+218,none,one.,How many objects is Sandra carrying? 
+219,none,one (the milk before giving it to Daniel),How many objects is John carrying? 
+220,one,one.,How many objects is Mary carrying? 
+221,one,one.,How many objects is Mary carrying? 
+222,none,two,How many objects is Sandra carrying? 
+223,none,two,How many objects is Sandra carrying? 
+224,one,two,How many objects is Sandra carrying? 
+225,one,one.,How many objects is Sandra carrying? 
+226,one,one,How many objects is Sandra carrying? 
+227,one,one.,How many objects is Sandra carrying? 
+228,none,two,How many objects is Sandra carrying? 
+229,one,two,How many objects is John carrying? 
+230,one,one.,How many objects is Mary carrying? 
+231,one,One. (She is carrying the apple.),How many objects is Mary carrying? 
+232,one,"one
+
+<context>
+Daniel travelled to the bedroom. Sandra went to the",How many objects is Mary carrying? 
+233,none,"two (at the bathroom)
+
+Explanation: Sandra is carrying the apple and the",How many objects is Sandra carrying? 
+234,one,"two
+
+(Note: Sandra is carrying the apple and the football at different times in the",How many objects is Sandra carrying? 
+235,one,two,How many objects is Sandra carrying? 
+236,one,two,How many objects is Sandra carrying? 
+237,one,one.,How many objects is Daniel carrying? 
+238,one,"one
+
+<context>
+Daniel travelled to the garden. Sandra went to the",How many objects is Daniel carrying? 
+239,one,one (he is carrying the milk),How many objects is Daniel carrying? 
+240,one,"one.
+
+<context>
+John moved to the bedroom. John went back to the kitchen",How many objects is Daniel carrying? 
+241,one,"one
+
+<context>
+John moved to the bedroom. John went back to the kitchen.",How many objects is Daniel carrying? 
+242,one,one (he took the milk in the hallway),How many objects is Daniel carrying? 
+243,none,Answer: none. (Daniel discarded the milk),How many objects is Daniel carrying? 
+244,none,The context does not provide enough information to determine how many objects Daniel is carrying at the end of the,How many objects is Daniel carrying? 
+245,none,Answer: one.,How many objects is Sandra carrying? 
+246,one,two,How many objects is Sandra carrying? 
+247,one,two,How many objects is Sandra carrying? 
+248,one,two,How many objects is Sandra carrying? 
+249,none,one (she is carrying the football),How many objects is Sandra carrying? 
+250,one,one.,How many objects is Sandra carrying? 
+251,none,two.,How many objects is Sandra carrying? 
+252,one,one.,How many objects is Daniel carrying? 
+253,one,One.,How many objects is Daniel carrying? 
+254,one,two. (Daniel carried the apple twice in the context),How many objects is Daniel carrying? 
+255,one,one,How many objects is John carrying? 
+256,one,one.,How many objects is John carrying? 
+257,none,One.,How many objects is John carrying? 
+258,none,One. (John is carrying the apple.),How many objects is John carrying? 
+259,one,one.,How many objects is John carrying? 
+260,one,one.,How many objects is John carrying? 
+261,one,"one
+
+<context>
+Sandra went to the hallway. John went to the garden.",How many objects is John carrying? 
+262,none,one.,How many objects is Daniel carrying? 
+263,none,two. (Daniel carried the apple when he went to the garden and the apple that was handed,How many objects is Daniel carrying? 
+264,two,"two
+
+Explanation: John carried the apple and the football at different points in the text",How many objects is John carrying? 
+265,one,one.,How many objects is Sandra carrying? 
+266,one,one.,How many objects is Sandra carrying? 
+267,none,"Answer: none.
+
+In the context provided, Sandra dropped the apple she was carrying before",How many objects is Sandra carrying? 
+268,none,"Answer: none.
+
+In the last fact, Sandra traveled to the bathroom, which means",How many objects is Sandra carrying? 
+269,none,Answer: none (at the time of the question),How many objects is Sandra carrying? 
+270,one,one,How many objects is John carrying? 
+271,one,"one
+
+Explanation: Mary got the milk in the kitchen, so she is carrying one",How many objects is Mary carrying? 
+272,none,$none$ (John left the apple he was carrying earlier in the hallway),How many objects is John carrying? 
+273,none,One (1). Mary is carrying the milk.,How many objects is Mary carrying? 
+274,none,"two (football and apple)
+
+However, since the question asks for the number of objects",How many objects is John carrying? 
+275,one,one.,How many objects is Daniel carrying? 
+276,one,One.,How many objects is Daniel carrying? 
+277,none,one.,How many objects is Daniel carrying? 
+278,none,$none$,How many objects is Mary carrying? 
+279,none,$none$,How many objects is Mary carrying? 
+280,one,one,How many objects is John carrying? 
+281,none,$none$,How many objects is Mary carrying? 
+282,none,"Answer: none.
+
+In this context, Mary is not carrying any objects because she is passing",How many objects is Mary carrying? 
+283,one,"one.
+
+<context>
+Mary journeyed to the kitchen. John took the apple",How many objects is Mary carrying? 
+284,none,one.,How many objects is Mary carrying? 
+285,one,one.,How many objects is Mary carrying? 
+286,none,"none. In the context provided, Sandra did not pick up any object after passing the apple to",How many objects is Sandra carrying? 
+287,one,two,How many objects is Sandra carrying? 
+288,none,one (the apple),How many objects is Mary carrying? 
+289,one,"two
+
+Explanation: Mary carried the apple during her journey to the office and when she",How many objects is Mary carrying? 
+290,one,"One (the milk)
+
+Question: How many objects is Sandra carrying?
+
+An",How many objects is Mary carrying? 
+291,one,One.,How many objects is Daniel carrying? 
+292,none,one.,How many objects is Daniel carrying? 
+293,one,one.,How many objects is Daniel carrying? 
+294,none,one (the milk),How many objects is Mary carrying? 
+295,one,one.,How many objects is Sandra carrying? 
+296,one,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+297,one,one (the football),How many objects is Sandra carrying? 
+298,one,one (the football),How many objects is Sandra carrying? 
+299,none,"two
+
+Explanation: Daniel picked up the football in one instance and passed it to Sand",How many objects is Daniel carrying? 
+300,one,one,How many objects is John carrying? 
+301,one,one.,How many objects is John carrying? 
+302,one,"one
+
+<context>
+John took the milk there. Daniel travelled to the garden.",How many objects is John carrying? 
+303,one,one (the milk),How many objects is John carrying? 
+304,none,$none$ (Mary did not carry any object in the given context),How many objects is Mary carrying? 
+305,one,one,How many objects is John carrying? 
+306,none,$none$,How many objects is John carrying? 
+307,none,The context does not provide information about how many objects Sandra is carrying. The question asks about John,How many objects is John carrying? 
+308,none,The context does not provide enough information to determine how many objects John is carrying at the moment the question,How many objects is John carrying? 
+309,none,The context does not provide enough information to determine how many objects John is carrying at the moment. The,How many objects is John carrying? 
+310,one,one,How many objects is Mary carrying? 
+311,none,one.,How many objects is Mary carrying? 
+312,none,one.,How many objects is Mary carrying? 
+313,one,One.,How many objects is Mary carrying? 
+314,none,"none. In the first action, Mary took the apple, but in the second action, she disc",How many objects is Mary carrying? 
+315,one,two,How many objects is Sandra carrying? 
+316,one,"two
+
+<context>
+Mary went back to the garden. Sandra journeyed to",How many objects is Sandra carrying? 
+317,one,"two
+
+(Note: Sandra is carrying the football and the milk.)",How many objects is Sandra carrying? 
+318,one,"two
+
+(Note: Sandra is carrying the football and the milk.)",How many objects is Sandra carrying? 
+319,two,two,How many objects is Sandra carrying? 
+320,one,one.,How many objects is Daniel carrying? 
+321,none,one. (Daniel is carrying the milk.),How many objects is Daniel carrying? 
+322,none,$none$,How many objects is John carrying? 
+323,none,Answer: one (the milk),How many objects is Daniel carrying? 
+324,one,One. (He is carrying the milk.),How many objects is Daniel carrying? 
+325,one,"one
+
+<context>
+Mary journeyed to the bedroom. Daniel went back to the",How many objects is Sandra carrying? 
+326,none,one (assuming she is still carrying the football from the office),How many objects is Sandra carrying? 
+327,one,one.,How many objects is Sandra carrying? 
+328,one,one. (Assuming Sandra is carrying the apple when she goes to the kitchen after discarding,How many objects is Sandra carrying? 
+329,one,one.,How many objects is Daniel carrying? 
+330,none,one (since he picked up the milk),How many objects is Daniel carrying? 
+331,none,one (for the apple),How many objects is Mary carrying? 
+332,none,one (if he is carrying the milk) or none (if he is not carrying the milk),How many objects is Daniel carrying? 
+333,none,One (the milk),How many objects is Daniel carrying? 
+334,one,"One (1)
+
+Explanation: Mary picked up the milk at some point, so",How many objects is Mary carrying? 
+335,one,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+336,one,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+337,one,one (she is carrying the milk),How many objects is Sandra carrying? 
+338,one,$none$,How many objects is Sandra carrying? 
+339,none,Answer: none. (Sandra is not currently carrying any objects according to the context provided.),How many objects is Sandra carrying? 
+340,one,one (the milk),How many objects is John carrying? 
+341,none,one (the milk),How many objects is John carrying? 
+342,none,"two
+
+(Daniel carried the milk and the milk was later given to John, so Daniel",How many objects is Daniel carrying? 
+343,one,two (assuming the milk is considered an object),How many objects is John carrying? 
+344,none,$none$,How many objects is Mary carrying? 
+345,one,$one$,How many objects is Mary carrying? 
+346,one,one (the football),How many objects is Mary carrying? 
+347,none,$none$,How many objects is Mary carrying? 
+348,none,$none$,How many objects is Mary carrying? 
+349,one,One.,How many objects is Daniel carrying? 
+350,one,one.,How many objects is Sandra carrying? 
+351,one,one.,How many objects is Sandra carrying? 
+352,one,one.,How many objects is Sandra carrying? 
+353,one,two,How many objects is John carrying? 
+354,one,"two
+
+Explanation: John picked up the milk in the bathroom and carried it with him",How many objects is John carrying? 
+355,one,one. (Mary is carrying the apple),How many objects is Mary carrying? 
+356,one,"one
+
+<context>
+John went back to the bedroom. Daniel moved to the bedroom.",How many objects is John carrying? 
+357,none,one (the football),How many objects is John carrying? 
+358,none,one (the football),How many objects is John carrying? 
+359,none,$none$,How many objects is Mary carrying? 
+360,none,one.,How many objects is Daniel carrying? 
+361,one,One. (The milk),How many objects is Daniel carrying? 
+362,one,Two. (One milk and one unspecified object he went to get in the garden),How many objects is Daniel carrying? 
+363,one,one (the football),How many objects is Mary carrying? 
+364,one,"two
+
+Explanation: Daniel carried the milk and the apple at different points during his journey",How many objects is Daniel carrying? 
+365,one,one.,How many objects is Daniel carrying? 
+366,none,"Answer: none.
+
+Daniel discarded the football before going to the garden.",How many objects is Daniel carrying? 
+367,none,"Answer: none.
+
+Daniel discarded the football before going to the garden.",How many objects is Daniel carrying? 
+368,one,one (when he went to the garden and picked up the football again),How many objects is Daniel carrying? 
+369,none,one.,How many objects is John carrying? 
+370,one,one.,How many objects is Mary carrying? 
+371,one,"one
+
+<context>
+Mary picked up the apple there. Sandra went to the",How many objects is Mary carrying? 
+372,one,one (he is carrying the football),How many objects is Daniel carrying? 
+373,none,$none$,How many objects is Daniel carrying? 
+374,none,"Answer: none.
+
+In the context, Daniel discarded the football, so he is no",How many objects is Daniel carrying? 
+375,one,One. (The apple),How many objects is Mary carrying? 
+376,none,One. (She is carrying the apple.),How many objects is Mary carrying? 
+377,none,One. (She is carrying the apple.),How many objects is Mary carrying? 
+378,one,one (in the last instance where she got the apple),How many objects is Mary carrying? 
+379,one,two,How many objects is Sandra carrying? 
+380,one,one,How many objects is Sandra carrying? 
+381,one,"two
+
+<context>
+John went to the office. Sandra picked up the apple there",How many objects is Daniel carrying? 
+382,none,one.,How many objects is Sandra carrying? 
+383,none,"Answer: none. In the context provided, Daniel did not carry any object after dropping the milk.",How many objects is Daniel carrying? 
+384,none,one.,How many objects is Sandra carrying? 
+385,none,one.,How many objects is John carrying? 
+386,none,Answer: one. (John is carrying the milk.),How many objects is John carrying? 
+387,none,one. (John is carrying the milk.),How many objects is John carrying? 
+388,one,One. (The milk),How many objects is Daniel carrying? 
+389,none,Answer: none. (Daniel is not carrying any object when the question is asked.),How many objects is Daniel carrying? 
+390,one,one.,How many objects is John carrying? 
+391,none,Answer: one. (Daniel is carrying the football.),How many objects is Daniel carrying? 
+392,none,"Answer: none.
+
+In the context, Daniel put down the football before moving to the bathroom",How many objects is Daniel carrying? 
+393,none,"Answer: none.
+
+In the context, Daniel put down the football before moving to the bathroom",How many objects is Daniel carrying? 
+394,none,one (the apple),How many objects is John carrying? 
+395,one,one,How many objects is John carrying? 
+396,one,one,How many objects is John carrying? 
+397,one,one.,How many objects is Mary carrying? 
+398,none,"one
+
+Question: How many objects is John carrying?
+
+Answer: one",How many objects is Mary carrying? 
+399,none,one (the apple),How many objects is Mary carrying? 
+400,one,one,How many objects is Daniel carrying? 
+401,one,one. (Daniel is carrying the milk.),How many objects is Daniel carrying? 
+402,one,two,How many objects is Sandra carrying? 
+403,one,two,How many objects is Sandra carrying? 
+404,none,two,How many objects is Sandra carrying? 
+405,one,one.,How many objects is John carrying? 
+406,none,one.,How many objects is John carrying? 
+407,none,One. (She is carrying the football.),How many objects is Mary carrying? 
+408,none,One. (John is carrying the apple.),How many objects is John carrying? 
+409,none,one. (Sandra got the milk.),How many objects is Sandra carrying? 
+410,one,"one
+
+<context>
+Mary moved to the garden. Daniel journeyed to the hallway",How many objects is John carrying? 
+411,one,"one
+
+<context>
+Mary moved to the garden. Daniel journeyed to the hallway",How many objects is John carrying? 
+412,none,one (since he is carrying the football),How many objects is John carrying? 
+413,none,one (the football),How many objects is Mary carrying? 
+414,one,one (assuming Daniel is carrying the football at some point during the text),How many objects is Daniel carrying? 
+415,one,one.,How many objects is Sandra carrying? 
+416,none,"one
+
+<context>
+John went back to the bedroom. John went to the bathroom.",How many objects is Sandra carrying? 
+417,one,"one
+
+Explanation: Sandra is carrying the football in the context provided.",How many objects is Sandra carrying? 
+418,none,two,How many objects is Sandra carrying? 
+419,one,two,How many objects is Sandra carrying? 
+420,one,one. (Mary is carrying the apple.),How many objects is Mary carrying? 
+421,one,two,How many objects is Mary carrying? 
+422,one,two,How many objects is Sandra carrying? 
+423,none,two,How many objects is Sandra carrying? 
+424,one,"two
+
+Explanation: Mary is carrying the apple and the football based on the context provided",How many objects is Mary carrying? 
+425,one,one.,How many objects is Daniel carrying? 
+426,one,one,How many objects is Daniel carrying? 
+427,none,one.,How many objects is Daniel carrying? 
+428,one,one.,How many objects is John carrying? 
+429,none,"one
+
+(John is carrying the apple)",How many objects is John carrying? 
+430,one,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+431,none,two,How many objects is Sandra carrying? 
+432,none,two,How many objects is Sandra carrying? 
+433,one,two,How many objects is Sandra carrying? 
+434,none,"two
+
+Explanation: Mary is carrying the milk and the football at different points in the",How many objects is Mary carrying? 
+435,one,one. (Sandra is carrying the football),How many objects is Sandra carrying? 
+436,none,"one. (Sandra is carrying the football when she leaves it in the hallway, but the question",How many objects is Sandra carrying? 
+437,none,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+438,none,"one. (Sandra is carrying the football when she leaves it in the hallway, but since the",How many objects is Sandra carrying? 
+439,none,"one
+
+Explanation: John is carrying the milk.",How many objects is John carrying? 
+440,one,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+441,one,"one
+
+<context>
+Sandra travelled to the bedroom. Sandra moved to the",How many objects is Sandra carrying? 
+442,none,one (she is carrying the football),How many objects is Sandra carrying? 
+443,none,one (she is carrying the football),How many objects is Sandra carrying? 
+444,none,$none$ (John did not carry any object mentioned in the context throughout the text),How many objects is John carrying? 
+445,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+446,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+447,none,"none. In the context, Daniel gave the milk to Mary, so he no longer has it.",How many objects is Daniel carrying? 
+448,one,"two
+
+Explanation: Daniel picked up the milk in the bedroom and later picked up the",How many objects is Daniel carrying? 
+449,none,Two. (One milk and one football),How many objects is Daniel carrying? 
+450,one,one,How many objects is Daniel carrying? 
+451,one,two,How many objects is Daniel carrying? 
+452,one,two. (Daniel is carrying the milk and the apple.),How many objects is Daniel carrying? 
+453,none,one.,How many objects is Sandra carrying? 
+454,none,$none$,How many objects is John carrying? 
+455,one,one.,How many objects is Sandra carrying? 
+456,none,one.,How many objects is Sandra carrying? 
+457,none,one.,How many objects is Sandra carrying? 
+458,none,one.,How many objects is Sandra carrying? 
+459,none,one. (Sandra is carrying the apple.),How many objects is Sandra carrying? 
+460,one,One (the football),How many objects is Mary carrying? 
+461,none,one.,How many objects is Daniel carrying? 
+462,none,"One (1)
+
+(Note: Daniel is carrying the milk.)",How many objects is Daniel carrying? 
+463,one,two,How many objects is Sandra carrying? 
+464,none,one.,How many objects is Sandra carrying? 
+465,one,"one
+
+<context>
+Mary gave the football to John. John put the football in",How many objects is Mary carrying? 
+466,none,one. (Sandra is carrying the milk),How many objects is Sandra carrying? 
+467,none,one (Sandra is carrying the milk),How many objects is Sandra carrying? 
+468,one,two,How many objects is Sandra carrying? 
+469,none,two (since he has the milk in his possession during the exchange with Sandra),How many objects is John carrying? 
+470,none,$none$,How many objects is John carrying? 
+471,none,$none$,How many objects is John carrying? 
+472,one,two,How many objects is John carrying? 
+473,one,two,How many objects is John carrying? 
+474,one,One.,How many objects is Daniel carrying? 
+475,one,one.,How many objects is Daniel carrying? 
+476,none,one.,How many objects is Daniel carrying? 
+477,one,one.,How many objects is Daniel carrying? 
+478,one,two.,How many objects is Sandra carrying? 
+479,none,two.,How many objects is Sandra carrying? 
+480,one,one.,How many objects is Sandra carrying? 
+481,one,one.,How many objects is Sandra carrying? 
+482,none,two. (Daniel is carrying the apple and the football),How many objects is Daniel carrying? 
+483,none,"two
+
+Explanation: Daniel carried the football and the apple at different points in the text",How many objects is Daniel carrying? 
+484,none,one. (The apple she received from Daniel.),How many objects is Mary carrying? 
+485,one,one.,How many objects is Sandra carrying? 
+486,one,one. (Mary is carrying the football in the first and third instance mentioned in the context.),How many objects is Mary carrying? 
+487,none,one.,How many objects is Sandra carrying? 
+488,one,"one (during the last action)
+
+Explanation: Mary picked up the football,",How many objects is Mary carrying? 
+489,none,one (she is carrying the football),How many objects is Mary carrying? 
+490,one,Answer: one.,How many objects is Daniel carrying? 
+491,one,"two
+
+<context>
+Mary went to the kitchen. Mary took the bread there.",How many objects is Daniel carrying? 
+492,two,"two
+
+<context>
+Daniel went to the bedroom. Daniel got the apple there.",How many objects is Daniel carrying? 
+493,one,Answer: one. (Daniel is carrying the apple.),How many objects is Daniel carrying? 
+494,two,"One (1)
+
+<context>
+Daniel went to the bedroom. Daniel got the",How many objects is Daniel carrying? 
+495,none,"Answer: none. In the first action, Sandra picks up the apple, meaning she is carrying",How many objects is Sandra carrying? 
+496,one,one.,How many objects is Sandra carrying? 
+497,none,two,How many objects is Sandra carrying? 
+498,none,two,How many objects is Sandra carrying? 
+499,one,one,How many objects is Daniel carrying? 
+500,none,"Answer: none. In the first sentence, Mary is carrying the apple. In the second sentence,",How many objects is Mary carrying? 
+501,none,$none$,How many objects is Mary carrying? 
+502,two,one,How many objects is John carrying? 
+503,two,one (the football),How many objects is John carrying? 
+504,none,"The context does not provide enough information to determine how many objects Sandra is carrying. Therefore, the",How many objects is Sandra carrying? 
+505,one,"one
+
+<context>
+Mary got the football there. Sandra went back to the",How many objects is Mary carrying? 
+506,none,$none$,How many objects is Mary carrying? 
+507,none,$none$,How many objects is Mary carrying? 
+508,one,one,How many objects is Daniel carrying? 
+509,none,one. (Sandra is carrying the apple.),How many objects is Sandra carrying? 
+510,one,one (Mary took the milk),How many objects is Mary carrying? 
+511,none,one.,How many objects is Daniel carrying? 
+512,none,$none$,How many objects is Sandra carrying? 
+513,none,$none$,How many objects is Mary carrying? 
+514,one,one (the milk),How many objects is Sandra carrying? 
+515,one,one. (John took the apple.),How many objects is John carrying? 
+516,one,one. (Daniel is carrying the milk),How many objects is Daniel carrying? 
+517,one,one. (John took the apple),How many objects is John carrying? 
+518,none,Answer: none. (Daniel discarded the milk),How many objects is Daniel carrying? 
+519,none,$none$,How many objects is John carrying? 
+520,one,one.,How many objects is John carrying? 
+521,one,one.,How many objects is John carrying? 
+522,one,one (the football),How many objects is Mary carrying? 
+523,one,one (the football),How many objects is Mary carrying? 
+524,one,"two
+
+Explanation: In the context, Mary took the football and got the milk.",How many objects is Mary carrying? 
+525,one,one.,How many objects is Sandra carrying? 
+526,none,two,How many objects is Sandra carrying? 
+527,one,two,How many objects is Sandra carrying? 
+528,one,two,How many objects is Sandra carrying? 
+529,none,one (she is carrying the milk),How many objects is Sandra carrying? 
+530,one,one,How many objects is Daniel carrying? 
+531,none,"Answer: none.
+
+Daniel discarded the apple before traveling to the bathroom. Therefore,",How many objects is Daniel carrying? 
+532,one,"one. (Daniel is carrying the apple when he goes to the bathroom, even though it is",How many objects is Daniel carrying? 
+533,one,"Answer: none.
+
+In the context, Daniel discarded the apple before going to the bathroom",How many objects is Daniel carrying? 
+534,one,"one
+
+Explanation: Mary took the milk and passed it to John, but later John",How many objects is Mary carrying? 
+535,one,two,How many objects is Sandra carrying? 
+536,none,two,How many objects is Sandra carrying? 
+537,none,two.,How many objects is Sandra carrying? 
+538,none,"Answer: none.
+
+In the context, it is stated that John left the apple in the",How many objects is John carrying? 
+539,none,"Answer: two
+
+Explanation: John is carrying the apple and whatever object he had before",How many objects is John carrying? 
+540,none,"Answer: none. In the context provided, Sandra put down the apple before moving to the office",How many objects is Sandra carrying? 
+541,none,"Answer: none
+
+Explanation: In the context provided, Sandra put down the apple",How many objects is Sandra carrying? 
+542,one,two,How many objects is Sandra carrying? 
+543,none,two. (Sandra is carrying the apple and the football.),How many objects is Sandra carrying? 
+544,none,"two
+
+Explanation: Sandra is carrying the apple and the football at different points in",How many objects is Sandra carrying? 
+545,none,one.,How many objects is Daniel carrying? 
+546,none,one (since he has the football),How many objects is John carrying? 
+547,none,one (the football),How many objects is John carrying? 
+548,none,One (football),How many objects is John carrying? 
+549,none,Answer: $none$ (at the time of the question),How many objects is Daniel carrying? 
+550,one,"one
+
+<context>
+John went back to the garden. John travelled to the bathroom",How many objects is Daniel carrying? 
+551,none,"Answer: none. In the context provided, Daniel did not pick up any object when he went to",How many objects is Daniel carrying? 
+552,none,$none$,How many objects is Daniel carrying? 
+553,one,one.,How many objects is Sandra carrying? 
+554,two,two,How many objects is Sandra carrying? 
+555,one,one.,How many objects is Sandra carrying? 
+556,one,one.,How many objects is John carrying? 
+557,none,one.,How many objects is John carrying? 
+558,none,one.,How many objects is John carrying? 
+559,none,"one
+
+Explanation: Sandra is carrying the milk. She passed it to Mary,",How many objects is Sandra carrying? 
+560,one,one,How many objects is Daniel carrying? 
+561,one,one.,How many objects is Daniel carrying? 
+562,one,one.,How many objects is Daniel carrying? 
+563,none,"Answer: none. In the context provided, Daniel put down the apple before he left the kitchen.",How many objects is Daniel carrying? 
+564,none,"Answer: none.
+
+In the context, it is stated that Daniel put down the apple.",How many objects is Daniel carrying? 
+565,one,one,How many objects is Daniel carrying? 
+566,none,$none$,How many objects is Daniel carrying? 
+567,none,$none$,How many objects is Daniel carrying? 
+568,one,one.,How many objects is Sandra carrying? 
+569,none,two,How many objects is Sandra carrying? 
+570,two,two,How many objects is John carrying? 
+571,two,two,How many objects is John carrying? 
+572,one,"one
+
+<context>
+Mary travelled to the garden. Mary went back to the",How many objects is John carrying? 
+573,none,none (at the end of the context),How many objects is John carrying? 
+574,one,one.,How many objects is Daniel carrying? 
+575,one,one (for the milk),How many objects is Mary carrying? 
+576,one,one (for the milk),How many objects is Mary carrying? 
+577,one,The text does not provide enough information to determine how many objects Mary is carrying at any given point in,How many objects is Mary carrying? 
+578,none,two (assuming the milk is an object),How many objects is Daniel carrying? 
+579,none,two (assuming the milk is an object),How many objects is Daniel carrying? 
+580,one,one.,How many objects is Mary carrying? 
+581,none,$none$,How many objects is Mary carrying? 
+582,one,one.,How many objects is Mary carrying? 
+583,none,"Answer: none. In the context, Mary is not carrying any object when she goes to the bathroom",How many objects is Mary carrying? 
+584,none,"Answer: none.
+
+In the context, it is mentioned that Mary dropped the apple. Since",How many objects is Mary carrying? 
+585,one,one. (John is carrying the milk.),How many objects is John carrying? 
+586,one,one (the milk),How many objects is John carrying? 
+587,one,one (the milk),How many objects is John carrying? 
+588,none,$none$ (John left the milk),How many objects is John carrying? 
+589,none,$none$ (John left the milk),How many objects is John carrying? 
+590,one,one,How many objects is John carrying? 
+591,one,one. (John is carrying the milk.),How many objects is John carrying? 
+592,none,Answer: none. (Daniel dropped the apple he was carrying.),How many objects is Daniel carrying? 
+593,two,two,How many objects is Daniel carrying? 
+594,none,"one
+
+Explanation: John is carrying the milk. He gave it to Daniel, but",How many objects is John carrying? 
+595,two,two,How many objects is Daniel carrying? 
+596,none,Answer: one (football),How many objects is Daniel carrying? 
+597,none,$none$,How many objects is Daniel carrying? 
+598,none,$none$,How many objects is Daniel carrying? 
+599,one,"one
+
+<context>
+Daniel got the football there. Daniel grabbed the apple there.",How many objects is Mary carrying? 
+600,one,one (Mary is carrying the milk),How many objects is Mary carrying? 
+601,none,$none$,How many objects is Mary carrying? 
+602,one,two,How many objects is Daniel carrying? 
+603,one,"One (the milk)
+
+Question: How many objects is Daniel carrying?
+
+Answer",How many objects is Mary carrying? 
+604,none,One. (He is carrying the football.),How many objects is Daniel carrying? 
+605,one,one.,How many objects is Sandra carrying? 
+606,one,one. (Sandra got the apple from the office),How many objects is Sandra carrying? 
+607,one,one. (Sandra got the apple in the office.),How many objects is Sandra carrying? 
+608,none,"none (when Daniel went to the bathroom, he discarded the football there, so he was not",How many objects is Daniel carrying? 
+609,one,two,How many objects is Sandra carrying? 
+610,one,one,How many objects is Daniel carrying? 
+611,one,two,How many objects is Daniel carrying? 
+612,none,two,How many objects is Daniel carrying? 
+613,none,One.,How many objects is John carrying? 
+614,none,one.,How many objects is Mary carrying? 
+615,one,"one
+
+(John is carrying the football)",How many objects is John carrying? 
+616,none,"two (when he is in the bathroom with the football)
+or
+one (when he is",How many objects is John carrying? 
+617,one,"two
+
+(John is carrying the football and possibly the apple, but since the question asks specifically",How many objects is John carrying? 
+618,one,"two
+
+(John is carrying the football and possibly the apple, but since the question asks specifically",How many objects is John carrying? 
+619,none,"The text mentions that John picked up the football and put it down twice, but it does not",How many objects is John carrying? 
+620,none,"Answer: none.
+
+In the context provided, Sandra discarded the apple she was carrying",How many objects is Sandra carrying? 
+621,none,"Answer: none. In each action, Sandra is either picking up or discarding the apple,",How many objects is Sandra carrying? 
+622,none,"Answer: none. Sandra discarded both apples she had. Therefore, she is not carrying",How many objects is Sandra carrying? 
+623,none,"Answer: none. In the context provided, Sandra has discarded the apple twice and left it",How many objects is Sandra carrying? 
+624,none,"Answer: none.
+
+In the given context, Sandra discards the apple twice and leaves",How many objects is Sandra carrying? 
+625,one,one.,How many objects is Daniel carrying? 
+626,one,two. (Daniel is carrying the football and possibly the garden is where he put down the object,How many objects is Daniel carrying? 
+627,one,"two
+
+Explanation: Daniel picked up the football in the garden and went to the office",How many objects is Daniel carrying? 
+628,one,one (the milk),How many objects is John carrying? 
+629,one,one,How many objects is John carrying? 
+630,one,one,How many objects is John carrying? 
+631,one,$none$,How many objects is John carrying? 
+632,none,one (since he is carrying the apple at some point during the sequence of events),How many objects is John carrying? 
+633,none,one (the apple),How many objects is John carrying? 
+634,none,"Answer: none.
+
+In the context provided, Sandra did not carry any objects when she",How many objects is Sandra carrying? 
+635,one,One. (She is carrying the milk.),How many objects is Mary carrying? 
+636,one,"One (1)
+
+Explanation: Mary took the milk in one of her journeys",How many objects is Mary carrying? 
+637,none,"$none$ (Mary is traveling or going to different locations, she is not carrying any objects",How many objects is Mary carrying? 
+638,none,"$none$ (Mary is traveling or going to different locations, she is not carrying any objects",How many objects is Mary carrying? 
+639,one,one.,How many objects is Sandra carrying? 
+640,one,one (since she took the football),How many objects is Mary carrying? 
+641,none,$none$,How many objects is Mary carrying? 
+642,none,one. (Mary is carrying the football.),How many objects is Mary carrying? 
+643,two,one.,How many objects is John carrying? 
+644,none,One. (He is carrying the football.),How many objects is Daniel carrying? 
+645,one,one,How many objects is Daniel carrying? 
+646,one,one.,How many objects is Daniel carrying? 
+647,none,one.,How many objects is Daniel carrying? 
+648,none,"Two (since he picked up the milk and carried it to Sandra, and he may also be",How many objects is Daniel carrying? 
+649,none,"none.
+
+In the context provided, Sandra put down the milk, so she is not",How many objects is Sandra carrying? 
+650,one,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+651,one,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+652,none,"none. Sandra discarded the football. Therefore, she is not carrying it anymore.",How many objects is Sandra carrying? 
+653,none,One.,How many objects is Mary carrying? 
+654,one,one.,How many objects is Daniel carrying? 
+655,one,one.,How many objects is John carrying? 
+656,one,Answer: none,How many objects is John carrying? 
+657,one,"Answer: none. In the context provided, John discarded the football before moving to the kitchen,",How many objects is John carrying? 
+658,none,$none$,How many objects is John carrying? 
+659,none,Answer: one.,How many objects is Daniel carrying? 
+660,one,one.,How many objects is Sandra carrying? 
+661,none,two,How many objects is Sandra carrying? 
+662,one,two,How many objects is Sandra carrying? 
+663,none,One. (The football),How many objects is Mary carrying? 
+664,none,one (she is carrying the football),How many objects is Sandra carrying? 
+665,one,"The context does not provide enough information to determine how many objects Mary is carrying.
+
+Answer",How many objects is Mary carrying? 
+666,none,$none$ (at the time of the question),How many objects is Mary carrying? 
+667,none,"two (in the last instance where she went to the garden and had the milk)
+
+However",How many objects is Mary carrying? 
+668,none,The text does not provide enough information to determine how many objects Mary is carrying at any given point in,How many objects is Mary carrying? 
+669,one,"two
+
+Question: How many objects is Daniel carrying? [
+answer: one
+
+Question",How many objects is Sandra carrying? 
+670,one,one,How many objects is John carrying? 
+671,one,two,How many objects is John carrying? 
+672,one,two,How many objects is John carrying? 
+673,two,two,How many objects is John carrying? 
+674,two,two,How many objects is John carrying? 
+675,none,$none$,How many objects is John carrying? 
+676,one,none (John discarded the football before carrying anything else),How many objects is John carrying? 
+677,two,one,How many objects is John carrying? 
+678,two,one.,How many objects is John carrying? 
+679,one,one.,How many objects is John carrying? 
+680,one,"one
+
+<context>
+Daniel went to the kitchen. Daniel took the orange there.",How many objects is Mary carrying? 
+681,two,two,How many objects is Sandra carrying? 
+682,none,one.,How many objects is Sandra carrying? 
+683,none,two.,How many objects is Sandra carrying? 
+684,two,three,How many objects is Sandra carrying? 
+685,one,one,How many objects is John carrying? 
+686,none,one.,How many objects is John carrying? 
+687,none,one,How many objects is John carrying? 
+688,two,two,How many objects is Sandra carrying? 
+689,two,two,How many objects is Sandra carrying? 
+690,one,one (the football),How many objects is John carrying? 
+691,none,"none (John did not carry any object mentioned in the context to the garden, he only dropped the",How many objects is John carrying? 
+692,none,$none$ (John is not carrying any object mentioned in the context),How many objects is John carrying? 
+693,none,One. (She is carrying the apple.),How many objects is Sandra carrying? 
+694,none,one (when she goes to the bathroom),How many objects is Sandra carrying? 
+695,one,one,How many objects is Sandra carrying? 
+696,none,Answer: none. Sandra did not carry any object when she went to the kitchen. She left,How many objects is Sandra carrying? 
+697,none,one. (Sandra is carrying the milk),How many objects is Sandra carrying? 
+698,one,One (the apple),How many objects is Mary carrying? 
+699,one,two,How many objects is Sandra carrying? 
+700,one,one.,How many objects is Sandra carrying? 
+701,none,one. (Sandra is carrying the apple.),How many objects is Sandra carrying? 
+702,one,one.,How many objects is Sandra carrying? 
+703,one,two,How many objects is Sandra carrying? 
+704,none,"one (when she goes to the bathroom and picks up the apple)
+two (when she goes",How many objects is Sandra carrying? 
+705,one,one.,How many objects is Daniel carrying? 
+706,two,two,How many objects is Daniel carrying? 
+707,three,"two
+
+(Daniel is carrying the apple and the football)",How many objects is Daniel carrying? 
+708,three,"two
+
+(Daniel carried the apple and the football)",How many objects is Daniel carrying? 
+709,two,"two
+
+(Daniel is carrying the apple and the football)",How many objects is Daniel carrying? 
+710,none,one.,How many objects is John carrying? 
+711,none,"one.
+
+<context>
+John grabbed the football there. John handed the football to Daniel",How many objects is John carrying? 
+712,none,"one.
+
+<context>
+John grabbed the football there. John handed the football to Daniel",How many objects is John carrying? 
+713,one,"one
+
+<context>
+Daniel went to the bedroom. Daniel got the apple there.",How many objects is John carrying? 
+714,none,one.,How many objects is Daniel carrying? 
+715,one,one.,How many objects is John carrying? 
+716,none,one (assuming John still has the apple),How many objects is John carrying? 
+717,none,$none$ (John is not currently carrying any objects according to the context),How many objects is John carrying? 
+718,one,"One (1)
+
+Explanation: John is carrying the milk.",How many objects is John carrying? 
+719,none,$none$ (John is not carrying any objects at the end of the text),How many objects is John carrying? 
+720,none,none (after dropping the football),How many objects is Mary carrying? 
+721,one,two,How many objects is Sandra carrying? 
+722,one,"$none$ (in the given context, Mary is not carrying any object when the question is asked",How many objects is Mary carrying? 
+723,one,"two
+
+Explanation: Daniel carried the milk and the football at different points in the text",How many objects is Daniel carrying? 
+724,none,"two
+
+Explanation: Daniel carried the milk in the office twice (given by Sand",How many objects is Daniel carrying? 
+725,one,one,How many objects is Daniel carrying? 
+726,none,one.,How many objects is Daniel carrying? 
+727,one,one (since she passed the football to Daniel but is not currently carrying it),How many objects is Sandra carrying? 
+728,none,The context states that Sandra passed the football to Daniel and Daniel handed the football to Sandra multiple,How many objects is Sandra carrying? 
+729,one,"two
+
+Explanation: Daniel carried the football throughout the interactions.",How many objects is Daniel carrying? 
+730,none,Answer: one.,How many objects is Mary carrying? 
+731,none,$none$,How many objects is Mary carrying? 
+732,none,"none. In the first action, Mary passed the apple to Sandra, so she no longer has",How many objects is Mary carrying? 
+733,none,two,How many objects is John carrying? 
+734,none,"one
+
+Explanation: Sandra is carrying the apple. She picked it up earlier and",How many objects is Sandra carrying? 
+735,one,one,How many objects is John carrying? 
+736,none,two,How many objects is John carrying? 
+737,none,"two
+
+Explanation: John picked up the milk in the garden and later handed it to",How many objects is John carrying? 
+738,none,"two
+
+Explanation: John picked up the milk in the garden and later handed it to",How many objects is John carrying? 
+739,one,one.,How many objects is Sandra carrying? 
+740,one,one (since she is carrying the milk),How many objects is Mary carrying? 
+741,one,one (the milk),How many objects is Mary carrying? 
+742,one,two. (Daniel is carrying the apple from the office and the object he had in the bathroom,How many objects is Daniel carrying? 
+743,one,"two
+
+Explanation: Daniel carried the apple from the office and the apple from the kitchen",How many objects is Daniel carrying? 
+744,none,$none$,How many objects is Mary carrying? 
+745,none,one.,How many objects is John carrying? 
+746,one,one,How many objects is John carrying? 
+747,none,"one
+
+<context>
+John got the milk there. John passed the milk to Sandra",How many objects is John carrying? 
+748,none,"one
+
+<context>
+John got the milk there. John passed the milk to Sandra",How many objects is John carrying? 
+749,none,"two
+
+Explanation: Sandra picked up the milk in one instance and carried the apple",How many objects is Sandra carrying? 
+750,one,one,How many objects is Daniel carrying? 
+751,one,One. Mary is carrying the apple.,How many objects is Mary carrying? 
+752,one,One. (She is carrying the apple.),How many objects is Mary carrying? 
+753,none,One. (The milk.),How many objects is Daniel carrying? 
+754,none,Answer: one (the milk),How many objects is Daniel carrying? 
+755,one,"$none$
+
+<context>
+John journeyed to the kitchen. John took the apple",How many objects is Mary carrying? 
+756,one,$none$,How many objects is Mary carrying? 
+757,none,$none$,How many objects is Mary carrying? 
+758,none,$none$,How many objects is Mary carrying? 
+759,one,one (in the garden),How many objects is Mary carrying? 
+760,one,one. (John is carrying the milk.),How many objects is John carrying? 
+761,one,one (the football),How many objects is Mary carrying? 
+762,none,$none$ (John is not carrying anything when he goes back to the bathroom),How many objects is John carrying? 
+763,one,two,How many objects is Sandra carrying? 
+764,none,$none$,How many objects is Mary carrying? 
+765,one,two,How many objects is Sandra carrying? 
+766,none,two,How many objects is Sandra carrying? 
+767,one,two,How many objects is Sandra carrying? 
+768,none,"The text does not provide enough information to determine how many objects Mary is carrying.
+
+Answer",How many objects is Mary carrying? 
+769,none,"$none$ (In this context, Mary is not carrying any object when the question is asked.)",How many objects is Mary carrying? 
+770,one,one.,How many objects is John carrying? 
+771,one,one,How many objects is John carrying? 
+772,none,one (the football),How many objects is Mary carrying? 
+773,none,"one (the football)
+
+<context>
+John went to the office. John got the",How many objects is Mary carrying? 
+774,none,one (assuming John is still carrying the milk when the question is asked),How many objects is John carrying? 
+775,none,one (since he is carrying the milk),How many objects is John carrying? 
+776,none,one (the milk),How many objects is John carrying? 
+777,none,"One (1)
+
+Explanation: Mary took the milk and later gave it to John",How many objects is Mary carrying? 
+778,one,"One (1)
+
+Explanation: Mary is carrying the milk. She gave it to",How many objects is Mary carrying? 
+779,none,Two. (One milk and possibly another object mentioned but not specified in the question context),How many objects is Mary carrying? 
+780,one,one. (Sandra is carrying the milk),How many objects is Sandra carrying? 
+781,none,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+782,none,two,How many objects is Sandra carrying? 
+783,one,"one
+
+Explanation: John carried the football.",How many objects is John carrying? 
+784,none,"one
+
+Explanation: John is carrying the football.",How many objects is John carrying? 
+785,one,one.,How many objects is John carrying? 
+786,two,two,How many objects is Daniel carrying? 
+787,one,"two
+
+Explanation: Daniel carried the apple and the milk.",How many objects is Daniel carrying? 
+788,one,"two
+
+Explanation: Daniel carried the apple and the milk at different points in the text",How many objects is Daniel carrying? 
+789,one,"two
+
+Explanation: Daniel carried the apple and the milk at different points in the text",How many objects is Daniel carrying? 
+790,one,one.,How many objects is John carrying? 
+791,one,one (John took the football),How many objects is John carrying? 
+792,none,one (the football),How many objects is John carrying? 
+793,none,one (the football),How many objects is John carrying? 
+794,none,one (the football),How many objects is John carrying? 
+795,none,Answer: one. (Sandra is still carrying the milk even though it is not mentioned in the,How many objects is Sandra carrying? 
+796,none,$none$,How many objects is Sandra carrying? 
+797,one,one. (Mary is carrying the football.),How many objects is Mary carrying? 
+798,one,One. (She is carrying the football.),How many objects is Mary carrying? 
+799,one,One. (She is carrying the football.),How many objects is Mary carrying? 
+800,one,one,How many objects is John carrying? 
+801,one,"one
+
+Explanation: John picked up the apple, so he is carrying the apple.",How many objects is John carrying? 
+802,none,one (she is carrying the apple),How many objects is Sandra carrying? 
+803,none,one. (John is carrying the apple.),How many objects is John carrying? 
+804,none,one (the milk),How many objects is Mary carrying? 
+805,one,one (she is carrying the milk),How many objects is Mary carrying? 
+806,one,$none$,How many objects is Mary carrying? 
+807,one,$none$,How many objects is Mary carrying? 
+808,none,two,How many objects is Sandra carrying? 
+809,none,The context does not provide enough information to determine how many objects Mary is carrying at the moment the question,How many objects is Mary carrying? 
+810,one,one. (Sandra took the football in the kitchen),How many objects is Sandra carrying? 
+811,none,one (she is carrying the football),How many objects is Sandra carrying? 
+812,one,"two
+
+Explanation: John carried the football in the bedroom and later in the hallway.",How many objects is John carrying? 
+813,one,one (the football),How many objects is Mary carrying? 
+814,one,"The text does not provide enough information to determine how many objects Mary is carrying.
+
+Answer",How many objects is Mary carrying? 
+815,one,"one
+
+<context>
+John went back to the bathroom. John went back to the hallway",How many objects is John carrying? 
+816,none,one (assuming John is still carrying the football from the hallway),How many objects is John carrying? 
+817,one,one (assuming he is carrying the football),How many objects is John carrying? 
+818,one,one (the football),How many objects is John carrying? 
+819,none,two (at the bathroom and later at the garden),How many objects is John carrying? 
+820,none,"$none$ (Mary is not carrying any objects in her hands at the moment, as she",How many objects is Mary carrying? 
+821,none,$none$ (Mary is not currently carrying any objects according to the context provided),How many objects is Mary carrying? 
+822,none,$none$,How many objects is Daniel carrying? 
+823,one,one.,How many objects is Daniel carrying? 
+824,none,one.,How many objects is Daniel carrying? 
+825,one,one,How many objects is Sandra carrying? 
+826,none,$none$,How many objects is Sandra carrying? 
+827,one,one.,How many objects is John carrying? 
+828,none,none.,How many objects is John carrying? 
+829,none,One. (The football),How many objects is John carrying? 
+830,one,$none$,How many objects is Mary carrying? 
+831,none,$none$,How many objects is Mary carrying? 
+832,none,$none$,How many objects is Mary carrying? 
+833,one,one.,How many objects is Daniel carrying? 
+834,none,"Answer: none
+
+Explanation: Daniel did not carry any object during the last action described",How many objects is Daniel carrying? 
+835,one,"two
+
+Explanation: Daniel went to the bedroom and took the football from the garden,",How many objects is Daniel carrying? 
+836,none,"two
+
+Explanation: Daniel went to the garden with the football and later handed it to",How many objects is Daniel carrying? 
+837,one,"two (at different times in the text)
+
+Question: How many objects is Daniel carrying?",How many objects is Sandra carrying? 
+838,none,two (at the garden),How many objects is Daniel carrying? 
+839,none,two (at the garden),How many objects is Daniel carrying? 
+840,one,one,How many objects is John carrying? 
+841,none,$none$,How many objects is Mary carrying? 
+842,one,One. (Mary is carrying the apple.),How many objects is Mary carrying? 
+843,one,One. (She is carrying the apple.),How many objects is Mary carrying? 
+844,none,"one
+
+Explanation: Sandra is carrying the football.",How many objects is Sandra carrying? 
+845,one,one.,How many objects is Sandra carrying? 
+846,one,one.,How many objects is Sandra carrying? 
+847,none,two.,How many objects is Sandra carrying? 
+848,none,"two. (Sandra took the football and later passed it to John, so she is carrying the",How many objects is Sandra carrying? 
+849,none,two. (Sandra carried the football in some instances and may have been holding it when she moved,How many objects is Sandra carrying? 
+850,one,one.,How many objects is Daniel carrying? 
+851,two,two,How many objects is Daniel carrying? 
+852,two,two,How many objects is Daniel carrying? 
+853,one,"two
+
+Explanation: Daniel carried the football and the apple at different points in the text",How many objects is Daniel carrying? 
+854,one,"two
+
+Explanation: Daniel carried the football and the apple at different points in time.",How many objects is Daniel carrying? 
+855,one,one.,How many objects is Sandra carrying? 
+856,one,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+857,none,one (when she gets the milk for the second time),How many objects is Sandra carrying? 
+858,none,"one
+
+Explanation: John is carrying the apple.",How many objects is John carrying? 
+859,one,"two
+
+Explanation: Sandra got the milk and then carried it, later discarded",How many objects is Sandra carrying? 
+860,one,two,How many objects is Sandra carrying? 
+861,one,two,How many objects is Sandra carrying? 
+862,one,two,How many objects is Sandra carrying? 
+863,none,$none$,How many objects is Mary carrying? 
+864,none,two.,How many objects is Sandra carrying? 
+865,one,one (Mary took the milk),How many objects is Mary carrying? 
+866,one,"one
+
+<context>
+Mary took the milk there. Mary left the milk. Daniel",How many objects is Daniel carrying? 
+867,none,"none. In the context provided, Daniel did not carry the football when he left the area where the",How many objects is Daniel carrying? 
+868,one,one.,How many objects is Daniel carrying? 
+869,one,two. (Daniel is carrying the football and the football that Mary passed to him.),How many objects is Daniel carrying? 
+870,one,"one
+
+<context>
+Daniel picked up the apple there. Daniel put the apple in",How many objects is John carrying? 
+871,one,one (the milk),How many objects is John carrying? 
+872,none,one. (John is carrying the milk.),How many objects is John carrying? 
+873,none,"one. (Sandra passed the milk to John, so she is carrying the milk at that moment",How many objects is Sandra carrying? 
+874,none,one. (Sandra is carrying the milk),How many objects is Sandra carrying? 
+875,one,one,How many objects is Sandra carrying? 
+876,one,one.,How many objects is Sandra carrying? 
+877,one,one.,How many objects is Sandra carrying? 
+878,one,One. (She is carrying the apple.),How many objects is Sandra carrying? 
+879,none,Answer: one.,How many objects is Sandra carrying? 
+880,none,$none$,How many objects is John carrying? 
+881,one,"one
+
+<context>
+John got the milk there. John left the milk. Daniel got",How many objects is Daniel carrying? 
+882,none,$none$,How many objects is John carrying? 
+883,none,"none.
+
+In the context, Sandra discarded the football. Therefore, she is not",How many objects is Sandra carrying? 
+884,none,"none.
+
+In the given context, Sandra discarded the football before going to the bathroom",How many objects is Sandra carrying? 
+885,none,Answer: one.,How many objects is John carrying? 
+886,none,$none$,How many objects is John carrying? 
+887,none,"one.
+
+<context>
+John took the football there. John put down the football there",How many objects is Daniel carrying? 
+888,none,One. (The football),How many objects is Daniel carrying? 
+889,one,One. (The football),How many objects is Daniel carrying? 
+890,none,one.,How many objects is John carrying? 
+891,none,$none$,How many objects is Mary carrying? 
+892,none,one. (John is carrying the football.),How many objects is John carrying? 
+893,none,"one
+
+Explanation: John is carrying the football.",How many objects is John carrying? 
+894,none,"one
+
+<context>
+John picked up the football there. John passed the football to Mary",How many objects is Mary carrying? 
+895,one,one (since she got the apple),How many objects is Mary carrying? 
+896,none,"none.
+
+Mary did not carry any objects when she went to the bathroom to get the",How many objects is Mary carrying? 
+897,none,"one (or none if the last action was giving the apple away)
+
+Answer: one",How many objects is Daniel carrying? 
+898,none,two (at different times in the text),How many objects is Daniel carrying? 
+899,none,one (The apple she received from Daniel),How many objects is Mary carrying? 
+900,one,one.,How many objects is Sandra carrying? 
+901,one,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+902,none,one (she is carrying the football),How many objects is Sandra carrying? 
+903,none,one (she is carrying the football),How many objects is Sandra carrying? 
+904,none,one (football),How many objects is Daniel carrying? 
+905,one,one.,How many objects is Daniel carrying? 
+906,one,one.,How many objects is Daniel carrying? 
+907,none,"Answer: none
+
+Explanation: In the last sentence, Daniel went back to the garden",How many objects is Daniel carrying? 
+908,none,"Answer: none
+
+Explanation: In the last sentence, it is mentioned that Daniel went",How many objects is Daniel carrying? 
+909,none,"one (at the end, when he has the apple)",How many objects is John carrying? 
+910,one,one (Sandra is carrying the milk),How many objects is Sandra carrying? 
+911,two,two,How many objects is Sandra carrying? 
+912,one,"one
+
+<context>
+John went to the bedroom. Sandra got the milk there.",How many objects is Sandra carrying? 
+913,one,"one
+
+<context>
+John went to the bedroom. Sandra got the milk there.",How many objects is Sandra carrying? 
+914,none,one. (Sandra is carrying the football.),How many objects is Sandra carrying? 
+915,one,"one
+
+<context>
+John moved to the garden. Mary took the apple there. John",How many objects is Mary carrying? 
+916,none,$none$,How many objects is Mary carrying? 
+917,one,"one (during her travel to the bedroom)
+
+Explanation: Mary took the apple",How many objects is Mary carrying? 
+918,none,"one (in the garden when she took the apple from John)
+
+Question: How many objects",How many objects is Mary carrying? 
+919,none,The context does not provide enough information to determine how many objects Mary is carrying at any given point in,How many objects is Mary carrying? 
+920,one,one,How many objects is Daniel carrying? 
+921,none,one.,How many objects is Daniel carrying? 
+922,none,two (at the end of the context),How many objects is Daniel carrying? 
+923,one,"two (at the end of the context, Daniel is carrying the football and later gives it to Sand",How many objects is Daniel carrying? 
+924,none,"two (at the end, Daniel has the football and later gives it to Sandra, so he",How many objects is Daniel carrying? 
+925,one,one,How many objects is Sandra carrying? 
+926,none,"Answer: none.
+
+In the context provided, Sandra took the apple from the bathroom and",How many objects is Sandra carrying? 
+927,none,one.,How many objects is Mary carrying? 
+928,none,"Answer: none.
+
+In the context provided, Sandra discarded the apple before she journey",How many objects is Sandra carrying? 
+929,none,"Answer: none.
+
+In the context provided, Sandra discarded the apple before going to",How many objects is Sandra carrying? 
+930,one,"one
+
+<context>
+Mary picked up the milk there. Sandra went back to",How many objects is Mary carrying? 
+931,one,one (the milk),How many objects is Mary carrying? 
+932,one,one.,How many objects is Daniel carrying? 
+933,none,two,How many objects is Sandra carrying? 
+934,none,$none$,How many objects is Mary carrying? 
+935,one,one.,How many objects is Mary carrying? 
+936,none,$none$,How many objects is Mary carrying? 
+937,one,"one
+
+Explanation: John carried the milk.",How many objects is John carrying? 
+938,one,One. (She is carrying the apple.),How many objects is Mary carrying? 
+939,none,one (assuming John is carrying the milk),How many objects is John carrying? 
+940,one,one.,How many objects is Sandra carrying? 
+941,none,one. (Sandra is carrying the milk.),How many objects is Sandra carrying? 
+942,none,two.,How many objects is Sandra carrying? 
+943,none,two.,How many objects is Sandra carrying? 
+944,none,two.,How many objects is Sandra carrying? 
+945,none,"Answer: none.
+
+In the first action, Sandra picked up the apple, so she",How many objects is Sandra carrying? 
+946,one,One.,How many objects is John carrying? 
+947,one,$none$,How many objects is Daniel carrying? 
+948,none,One. (He is carrying the milk.),How many objects is Daniel carrying? 
+949,none,"The context states that Sandra picked up the apple, left the apple, passed the apple to John",How many objects is Sandra carrying? 
+950,none,Answer: one. (John is carrying the milk.),How many objects is John carrying? 
+951,none,$none$,How many objects is John carrying? 
+952,none,$none$ (John put down the milk before his journey to the bedroom),How many objects is John carrying? 
+953,one,"one (during each journey or action where he is carrying an object)
+
+So, the",How many objects is John carrying? 
+954,none,two (at the kitchen),How many objects is John carrying? 
+955,one,one,How many objects is John carrying? 
+956,none,one. (John is carrying the football.),How many objects is John carrying? 
+957,none,one (the football),How many objects is John carrying? 
+958,one,one (the football),How many objects is John carrying? 
+959,one,one (the football),How many objects is John carrying? 
+960,one,"one
+
+<context>
+John travelled to the bedroom. Sandra picked up the milk",How many objects is Sandra carrying? 
+961,one,one,How many objects is John carrying? 
+962,one,one.,How many objects is John carrying? 
+963,one,one.,How many objects is John carrying? 
+964,none,"none. In the context provided, Sandra did not pick up or carry any object when she went",How many objects is Sandra carrying? 
+965,none,$none$,How many objects is Sandra carrying? 
+966,one,one.,How many objects is Sandra carrying? 
+967,one,One. (She is carrying the apple.),How many objects is Sandra carrying? 
+968,none,one. (The milk),How many objects is John carrying? 
+969,none,one.,How many objects is Sandra carrying? 
+970,one,one,How many objects is John carrying? 
+971,one,one.,How many objects is John carrying? 
+972,one,one. (John is carrying the apple.),How many objects is John carrying? 
+973,one,"One (the milk)
+
+Answer: one.",How many objects is Mary carrying? 
+974,none,"two
+
+Explanation: Daniel carried the apple when he went to the garden and later gave",How many objects is Daniel carrying? 
+975,one,one.,How many objects is Daniel carrying? 
+976,one,"two (at the end of the sequence, Daniel has the football and has given Mary the football,",How many objects is Daniel carrying? 
+977,none,"two (at the end of the sequence, Daniel is carrying the football)",How many objects is Daniel carrying? 
+978,one,One. (Mary is carrying the football.),How many objects is Mary carrying? 
+979,one,"two
+
+Explanation: Mary picked up the football from the place where she put it down",How many objects is Mary carrying? 
+980,none,one.,How many objects is John carrying? 
+981,none,one.,How many objects is John carrying? 
+982,none,two,How many objects is John carrying? 
+983,none,two,How many objects is John carrying? 
+984,none,One. (The apple she received from John and later passed to Sandra.),How many objects is Mary carrying? 
+985,one,one. (Mary is carrying the football.),How many objects is Mary carrying? 
+986,one,one (the milk),How many objects is John carrying? 
+987,one,one (the milk),How many objects is John carrying? 
+988,none,one (the milk),How many objects is John carrying? 
+989,none,one (the milk),How many objects is John carrying? 
+990,one,one.,How many objects is Daniel carrying? 
+991,none,"two
+
+Explanation: Daniel carried the football when he went to the bedroom and carried it",How many objects is Daniel carrying? 
+992,none,two. (Daniel carried the football when he went to the bedroom and later carried it when he,How many objects is Daniel carrying? 
+993,one,one (the football),How many objects is Mary carrying? 
+994,none,"two
+
+Explanation: Sandra picked up the milk in the garden and later handed the",How many objects is Sandra carrying? 
+995,one,one.,How many objects is Daniel carrying? 
+996,one,one.,How many objects is Daniel carrying? 
+997,none,"Answer: two (at the office)
+
+Explanation: In the context, it is",How many objects is Daniel carrying? 
+998,one,one (in the garden when she grabbed the football),How many objects is Mary carrying? 
+999,none,$none$ (at the time of the question),How many objects is Mary carrying? 

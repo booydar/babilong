@@ -1,0 +1,3913 @@
+,target,output,question
+0,hallway,"Label: The milk is in the hallway.
+
+<context>
+The brave",Where is the milk? 
+1,hallway,"Output: The football is in the hallway.
+
+<context>
+Their",Where is the football? 
+2,hallway,"Label: The football is in the hallway.
+
+<context>
+""The",Where is the football? 
+3,hallway,"Output: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+4,garden,"Output: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+5,garden,"Output: The milk is in the garden.
+
+<context>
+The fingers are",Where is the milk? 
+6,bedroom,"Label: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+7,bedroom,"Label: The milk is in the hallway.
+
+<context>
+The reverse",Where is the milk? 
+8,kitchen,"Answer: The football is in the bedroom.
+</example>
+<example>",Where is the football? 
+9,kitchen,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+10,bedroom,"Output: The football is in the bedroom.
+
+<context>
+The",Where is the football? 
+11,hallway,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+12,garden,"Label: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+13,garden,"Label: The milk is in the hallway.
+
+<context>
+* He",Where is the milk? 
+14,bathroom,"Answer: The apple is in the bathroom.
+</context>
+
+Question: Where",Where is the apple? 
+15,garden,"Answer: The milk is in the garden.
+</question>
+
+<context>",Where is the milk? 
+16,garden,"Output: The milk is in the garden.
+
+<context>
+_25",Where is the milk? 
+17,garden,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+18,kitchen,"Output: The ’apple’ is in ’office’.
+<context>
+""",Where is the apple? 
+19,kitchen,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+20,bedroom,"Output: The apple is in the bedroom.
+
+<context>
+Mary",Where is the apple? 
+21,bedroom,"Output: The apple is in the bedroom.
+
+<context>
+""There",Where is the apple? 
+22,bathroom,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+23,bathroom,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+24,bedroom,"Answer: The milk is in the bedroom.
+
+<context>
+Mary went",Where is the milk? 
+25,kitchen,"Output: The milk is in the kitchen.
+
+<context>
+Thomas St",Where is the milk? 
+26,kitchen,"Answer: The milk is in the office.
+</example>
+<example>",Where is the milk? 
+27,bathroom,"Label: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+28,bathroom,"Label: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+29,kitchen,"Label: The milk is in the bedroom.
+
+<context>
+John went",Where is the milk? 
+30,garden,"Label: The apple is in the garden.
+
+<context>
+I went to",Where is the apple? 
+31,garden,"Label: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+32,kitchen,"Output: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+33,kitchen,"Label: The apple is in the garden.
+
+<context>
+The
+train",Where is the apple? 
+34,kitchen,"Label: The apple is in the garden.
+
+<context>
+John journeyed",Where is the apple? 
+35,office,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+36,kitchen,"Output: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+37,kitchen,"Answer: The football is in the hallway.
+</example>
+
+<context>",Where is the football? 
+38,kitchen,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+39,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+40,bedroom,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+41,office,"Label: The milk is in the office.
+
+<context>
+""I'",Where is the milk? 
+42,office,"Label: The milk is in the bedroom.
+
+<context>
+Their",Where is the milk? 
+43,office,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+44,kitchen,"Label: The apple is in the bedroom.
+</context>
+<context>",Where is the apple? 
+45,bedroom,"Output: The milk is in the bedroom.
+</context>
+<context>",Where is the milk? 
+46,office,Output: The football is in the office.,Where is the football? 
+47,bathroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+48,bathroom,"Output: The football is in the bathroom.
+
+<context>
+HAY",Where is the football? 
+49,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+The first",Where is the milk? 
+50,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+51,hallway,"Answer: The apple is in the hallway.
+
+<context>
+The Rev.",Where is the apple? 
+52,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+53,kitchen,"A: The football is in the bathroom.
+
+<context>
+John journey",Where is the football? 
+54,kitchen,"A: The football is in the hallway.
+<context>
+John went to",Where is the football? 
+55,bathroom,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+56,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+57,kitchen,"Answer: The milk is in the bathroom.
+</question>
+
+<context>",Where is the milk? 
+58,kitchen,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+59,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+60,garden,"Answer: The milk is in the garden.
+</example>
+<example>
+John",Where is the milk? 
+61,garden,"Output: The milk is in the garden.
+
+<context>
+I was in",Where is the milk? 
+62,kitchen,"Label: The football is in the garden.
+
+<context>
+The first thing",Where is the football? 
+63,kitchen,"Output: The football is in the garden.
+
+<context>
+I was in",Where is the football? 
+64,kitchen,"Answer: The football is in the office.
+</context>
+
+<context>",Where is the football? 
+65,kitchen,"Label: The football is in the hallway.
+
+<context>
+Here I",Where is the football? 
+66,kitchen,"Output: The football is in the hallway.
+
+<context>
+The mus",Where is the football? 
+67,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+68,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+69,bedroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+70,garden,"Answer: The apple is in the garden.
+</context>
+<context>
+John",Where is the apple? 
+71,garden,"Label: The apple is in the bedroom.
+
+<context>
+I'",Where is the apple? 
+72,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+73,bathroom,"A: The apple is in the garden.
+</example>
+<example>",Where is the apple? 
+74,bathroom,"Answer: The apple is in the bathroom.
+</context>
+
+<context",Where is the apple? 
+75,office,"Output: The apple is in the office.
+
+<context>
+The next morning",Where is the apple? 
+76,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+77,hallway,"Label: The milk is in the hallway.
+
+<context>
+The man",Where is the milk? 
+78,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+79,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+80,bathroom,"Label: The football is in the bathroom.
+
+<context>
+""Per",Where is the football? 
+81,bathroom,"Label: The football is in the bedroom.
+
+<context>
+""Oh",Where is the football? 
+82,kitchen,"Answer: The football is in the bedroom.
+</context>
+
+<context",Where is the football? 
+83,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+84,kitchen,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+85,bathroom,"Output: The milk is in the hallway.
+
+<context>
+I went",Where is the milk? 
+86,kitchen,"Output: The ’apple’ is in ’hallway’.
+
+<context>",Where is the apple? 
+87,bathroom,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+88,bedroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+89,kitchen,"Label: The apple is in the office.
+
+<context>
+CHAPTER",Where is the apple? 
+90,kitchen,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+91,kitchen,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+92,kitchen,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+93,kitchen,"Answer: The milk is in the garden.
+</context>
+
+Question: Where",Where is the milk? 
+94,kitchen,"Label: The milk is in the office.
+
+<context>
+John went to",Where is the milk? 
+95,bathroom,"Label: The football is in the bathroom.
+
+<context>
+Mary",Where is the football? 
+96,bathroom,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+97,bathroom,"Label: The football is in the hallway.
+
+<context>
+The Ra",Where is the football? 
+98,bathroom,"Output: The ’football’ is in ’hallway’.
+<context>",Where is the football? 
+99,hallway,"Output: The milk is in the hallway.
+
+<example>
+Charlie",Where is the milk? 
+100,office,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+101,office,"Label: The milk is in the office.
+
+<context>
+SHEBA",Where is the milk? 
+102,kitchen,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+103,kitchen,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+104,bedroom,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+105,bathroom,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+106,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+Jimm",Where is the milk? 
+107,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+108,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+109,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+""B",Where is the apple? 
+110,bedroom,"Label: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+111,bedroom,"Output: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+112,bedroom,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+113,bedroom,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+114,office,"Label: The apple is in the garden.
+
+<context>
+‘I have",Where is the apple? 
+115,office,"Output: The football is in the office.
+</example>
+<example>",Where is the football? 
+116,hallway,"Output: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+117,office,"Output: The milk is in the bathroom.
+
+<context>
+Why is",Where is the milk? 
+118,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+119,bathroom,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+120,hallway,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+121,bedroom,"Answer: The milk is in the bathroom.
+</example>
+<example>",Where is the milk? 
+122,garden,"Label: The apple is in the bedroom.
+
+<context>
+‘I",Where is the apple? 
+123,garden,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+124,garden,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+125,kitchen,"Answer: The football is in the office.
+</context>
+
+<context>",Where is the football? 
+126,kitchen,"Output: The football is in the bathroom.
+</example>
+<example>",Where is the football? 
+127,kitchen,"Output: The football is in the office.
+
+<context>
+""I'",Where is the football? 
+128,bedroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+129,bedroom,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+130,kitchen,"Label: The football is in the office.
+
+<context>
+The story goes",Where is the football? 
+131,kitchen,"Answer: The football is in the office.
+</context>
+
+<context>",Where is the football? 
+132,kitchen,"Label: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+133,hallway,"Answer: The football is in the hallway.
+
+<context>
+Daniel went",Where is the football? 
+134,hallway,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+135,office,"Label: The football is in the hallway.
+
+<context>
+    Mary",Where is the football? 
+136,office,"Label: The milk is in the office.
+
+<context>
+Sandra went",Where is the milk? 
+137,office,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+138,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+139,bathroom,"Label: The football is in the hallway.
+
+<context>
+[Footnote",Where is the football? 
+140,bedroom,"Output: The ’football’ is in ’bedroom’.
+
+<context>",Where is the football? 
+141,bedroom,"Output: The football is in the hallway.
+
+<context>
+[Footnote",Where is the football? 
+142,bedroom,"Label: The football is in the hallway.
+
+<context>
+""As",Where is the football? 
+143,bedroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+144,garden,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+145,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+146,bathroom,"Answer: The milk is in the garden.
+</example>
+<example>",Where is the milk? 
+147,garden,"Output: The milk is in the garden.
+
+<context>
+""I'",Where is the milk? 
+148,kitchen,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+149,kitchen,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+150,bedroom,"Output: The apple is in the bedroom.
+
+<context>
+A.",Where is the apple? 
+151,bedroom,"Label: The apple is in the garden.
+
+<context>
+Their first",Where is the apple? 
+152,bedroom,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+153,kitchen,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+154,kitchen,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+155,hallway,"Output: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+156,hallway,"Output: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+157,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+""Be",Where is the milk? 
+158,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+Mary",Where is the milk? 
+159,hallway,"Answer: The football is in the bathroom.
+</context>
+
+<context",Where is the football? 
+160,garden,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+161,garden,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+162,garden,"Label: The apple is in the hallway.
+
+<context>
+He was",Where is the apple? 
+163,garden,"Answer: The apple is in the bedroom.
+</context>
+
+<context",Where is the apple? 
+164,bedroom,"Answer: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+165,garden,"Label: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+166,garden,"Label: The football is in the garden.
+</example>
+<example>",Where is the football? 
+167,hallway,"Output: The apple is in the hallway.
+
+<context>
+Suppose",Where is the apple? 
+168,hallway,"Label: The apple is in the hallway.
+
+<context>
+[_Wh",Where is the apple? 
+169,office,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+170,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+171,bathroom,"Output: The apple is in the bedroom.
+
+<context>
+John went",Where is the apple? 
+172,hallway,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+173,hallway,"Label: The milk is in the office.
+
+<context>
+""I have",Where is the milk? 
+174,bathroom,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+175,kitchen,"Label: The milk is in the bathroom.
+
+<context>
+The comm",Where is the milk? 
+176,hallway,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+177,kitchen,"Output: The apple is in the bedroom.
+
+<context>
+A Verm",Where is the apple? 
+178,office,"Answer: The milk is in the hallway.
+</example>
+<example>",Where is the milk? 
+179,office,"Answer: The milk is in the bathroom.
+</question>
+
+<context>",Where is the milk? 
+180,garden,"Output: The milk is in the balcony.
+
+<context>
+I",Where is the milk? 
+181,garden,"Output: The milk is in the bathroom.
+
+<context>
+The first",Where is the milk? 
+182,garden,"Output: The milk is in the garden.
+
+<context>
+The Egyptians",Where is the milk? 
+183,kitchen,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+184,kitchen,"Label: The apple is in the office.
+
+<context>
+The first thing",Where is the apple? 
+185,office,"Output: The apple is in the office.
+<context>
+_Kajow",Where is the apple? 
+186,office,"Output: The apple is in the office.
+
+<context>
+Sandra journey",Where is the apple? 
+187,kitchen,"Label: The milk is in the bedroom.
+
+<context>
+The next",Where is the milk? 
+188,office,"Answer: The apple is in the hallway.
+</example>
+
+<context>",Where is the apple? 
+189,kitchen,"Label: The milk is in the hallway.
+
+<context>
+""Well",Where is the milk? 
+190,garden,"Output: The apple is in the garden.
+
+<context>
+The man who",Where is the apple? 
+191,garden,"Output: The apple is in the garden.
+
+<context>
+What is the",Where is the apple? 
+192,garden,"Label: The apple is in the garden.
+
+<context>
+The alcohol",Where is the apple? 
+193,bedroom,"Output: The milk is in the bedroom.
+</context>
+<context>",Where is the milk? 
+194,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+195,bathroom,"Output: The apple is in the bathroom.
+
+<context>
+The next",Where is the apple? 
+196,bathroom,"Output: The apple is in the bedroom.
+
+<context>
+The",Where is the apple? 
+197,garden,"Output: The milk is in the garden.
+
+<context>
+The 1",Where is the milk? 
+198,kitchen,"Output: The milk is in the garden.
+
+<context>
+""I'",Where is the milk? 
+199,kitchen,"Output: The milk is in the garden.
+
+<context>
+""I'",Where is the milk? 
+200,office,"Label: The milk is in the office.
+
+<context>
+Mary went",Where is the milk? 
+201,office,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+202,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+203,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+204,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+205,office,"Output: The milk is in the office.
+<context>
+I was aroused",Where is the milk? 
+206,office,"Output: The milk is in the office.
+
+<context>
+I went to",Where is the milk? 
+207,garden,"Output: The apple is in the garden.
+
+<context>
+Sir W",Where is the apple? 
+208,bathroom,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+209,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+210,kitchen,"Output: The football is in the bathroom.
+
+<context>
+The next",Where is the football? 
+211,kitchen,"Answer: The football is in the bathroom.
+</example>
+<example>",Where is the football? 
+212,kitchen,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+213,kitchen,"Label: The milk is in the office.
+
+<context>
+John went to",Where is the milk? 
+214,garden,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+215,office,"Output: The apple is in the bedroom.
+
+<context>
+""I",Where is the apple? 
+216,office,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+217,office,"Output: The apple is in the garden.
+
+
+
+Context: I'm",Where is the apple? 
+218,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+219,bathroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context",Where is the milk? 
+220,office,"Output: The apple is in the office.
+
+<context>
+CHAPTER",Where is the apple? 
+221,office,"Output: The apple is in the office.
+
+<context>
+Their first",Where is the apple? 
+222,office,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+223,bedroom,"Output: The milk is in the bedroom.
+
+<context>
+The _",Where is the milk? 
+224,bedroom,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+225,bedroom,"Label: The apple is in the bedroom.
+
+<context>
+""Ex",Where is the apple? 
+226,kitchen,"Output: The apple is in the office.
+<context>
+Their son,",Where is the apple? 
+227,garden,"Answer: The football is in the bathroom.
+</context>
+
+<context",Where is the football? 
+228,bathroom,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+229,garden,"Label: The football is in the garden.
+
+<context>
+Mary went",Where is the football? 
+230,bathroom,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+231,bathroom,"Output: The football is in the hallway.
+
+<context>
+The price",Where is the football? 
+232,bathroom,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+233,garden,"Label: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+234,bathroom,"Answer: The football is in the hallway.
+</context>
+<context>",Where is the football? 
+235,bedroom,"Output: The apple is in the hallway.
+
+<context>
+""Go",Where is the apple? 
+236,bedroom,"Output: The apple is in the bedroom.
+
+<context>
+""I",Where is the apple? 
+237,kitchen,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+238,office,"Label: The apple is in the office.
+
+<context>
+""I have",Where is the apple? 
+239,garden,"Label: The milk is in the office.
+</example>
+<example>",Where is the milk? 
+240,hallway,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+241,hallway,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+242,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+243,bathroom,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+244,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+245,hallway,"Output: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+246,garden,"Label: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+247,garden,"Output: The milk is in the hallway.
+
+<context>
+'I",Where is the milk? 
+248,garden,"Label: The football is in the garden.
+</context>
+
+<context>",Where is the football? 
+249,garden,"Output: The football is in the hallway.
+
+<context>
+“I",Where is the football? 
+250,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+“I",Where is the apple? 
+251,hallway,"Label: The apple is in the bathroom.
+
+<context>
+The first",Where is the apple? 
+252,hallway,"Answer: The apple is in the bathroom.
+
+<context>
+John went to",Where is the apple? 
+253,hallway,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+254,hallway,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+255,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+""Yes",Where is the milk? 
+256,kitchen,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+257,hallway,"Output: The apple is in the hallway.
+
+<context>
+The next",Where is the apple? 
+258,hallway,"Output: The apple is in the hallway.
+
+<context>
+JAN",Where is the apple? 
+259,hallway,"Output: The apple is in the hallway.
+
+<context>
+JAN",Where is the apple? 
+260,garden,"Label: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+261,garden,"Output: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+262,garden,"Label: The football is in the bathroom.
+
+<context>
+John journey",Where is the football? 
+263,bathroom,"Output: The apple is in the bathroom.
+
+<context>
+THE P",Where is the apple? 
+264,hallway,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+265,garden,"Label: The apple is in the bathroom.
+
+<context>
+Their",Where is the apple? 
+266,garden,"Answer: The apple is in the bathroom.
+</question>
+
+<context>",Where is the apple? 
+267,bathroom,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+268,bathroom,"Output: The apple is in the hallway.
+
+<example>
+John went",Where is the apple? 
+269,garden,"A: The apple is in the hallway.
+
+<context>
+John",Where is the apple? 
+270,kitchen,"Output: The football is in the garden.
+
+<context>
+I went to",Where is the football? 
+271,office,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+272,office,"Label: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+273,kitchen,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+274,office,"Label: The apple is in the bedroom.
+
+<context>
+""I",Where is the apple? 
+275,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+276,hallway,"Output: The milk is in the hallway.
+
+<context>
+Morton",Where is the milk? 
+277,hallway,"Label: The milk is in the hallway.
+
+<context>
+returned",Where is the milk? 
+278,kitchen,"Output: The apple is in the office.
+
+<context>
+The floor was",Where is the apple? 
+279,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+280,bathroom,"Label: The football is in the office.
+
+<context>
+I was in",Where is the football? 
+281,bathroom,"Answer: The football is in the bathroom.
+</question>
+
+<context>",Where is the football? 
+282,office,"Output: The milk is in the office.
+
+<context>
+John went back",Where is the milk? 
+283,office,"Answer: The milk is in the office.
+
+<context>
+John went to the",Where is the milk? 
+284,office,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+285,bedroom,"Output: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+286,bedroom,"Label: The football is in the garden.
+
+<context>
+[Footnote",Where is the football? 
+287,bedroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+288,bedroom,"Label: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+289,bedroom,"Answer: The football is in the hallway.
+</question>
+
+<context>",Where is the football? 
+290,office,"Label: The apple is in the hallway.
+
+<context>
+The",Where is the apple? 
+291,office,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+292,office,"Answer: The apple is in the hallway.
+</example>
+<example>",Where is the apple? 
+293,office,"Answer: The apple is in the bathroom.
+</context>
+
+<context",Where is the apple? 
+294,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+295,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+296,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+297,hallway,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+298,bathroom,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+299,bathroom,"Answer: The apple is in the hallway.
+</example>
+<example>",Where is the apple? 
+300,bedroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+301,bedroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+302,office,"Output: The football is in the office.
+
+<context>
+The
+l",Where is the football? 
+303,bedroom,"Answer: The football is in the garden.
+</context>
+
+<context>",Where is the football? 
+304,bedroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+305,bathroom,"Output: The milk is in the garden.
+
+<context>
+  ""Mart",Where is the milk? 
+306,bathroom,"Output: The milk is in the kitchen.
+
+<context>
+I went to",Where is the milk? 
+307,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+I sta",Where is the milk? 
+308,bathroom,"Label: The milk is in the bedroom.
+
+<context>
+""I",Where is the milk? 
+309,bathroom,"Output: The milk is in the bedroom.
+<context>
+""Ye",Where is the milk? 
+310,kitchen,"Answer: The milk is in the kitchen.
+</context>
+
+<context>",Where is the milk? 
+311,kitchen,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+312,kitchen,"Output: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+313,kitchen,"Output: The milk is in the hallway.
+
+<context>
+Sandra",Where is the milk? 
+314,kitchen,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+315,bathroom,"Output: The football is in the garden.
+
+<example>
+Charlie went",Where is the football? 
+316,bathroom,"Output: The football is in the garden.
+
+<context>
+After
+the",Where is the football? 
+317,bathroom,"Label: The football is in the bedroom.
+
+<context>
+I went",Where is the football? 
+318,office,"Answer: The milk is in the bedroom.
+</example>
+
+<context>",Where is the milk? 
+319,kitchen,"Answer: The football is in the office.
+</question>
+
+<context>",Where is the football? 
+320,bathroom,"Output: The football is in the bathroom.
+</example>
+<example>",Where is the football? 
+321,bathroom,"Label: The football is in the bedroom.
+
+<context>
+I went",Where is the football? 
+322,bathroom,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+323,bathroom,"Answer: The football is in the bathroom.
+</question>
+
+<context>",Where is the football? 
+324,bathroom,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+325,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+326,bathroom,"Output: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+327,garden,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+328,garden,"Label: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+329,garden,"Answer: The football is in the garden.
+</question>
+
+<context>",Where is the football? 
+330,garden,"Label: The football is in the garden.
+
+<context>
+John journeyed",Where is the football? 
+331,bathroom,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+332,bathroom,"Answer: The apple is in the hallway.
+</example>
+
+<context>",Where is the apple? 
+333,hallway,"Output: The football is in the hallway.
+
+<context>
+Sandra",Where is the football? 
+334,hallway,"Label: The football is in the hallway.
+
+<context>
+“I",Where is the football? 
+335,hallway,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+336,hallway,"Label: The football is in the hallway.
+
+<context>
+The May",Where is the football? 
+337,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+338,hallway,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+339,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+340,garden,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+341,garden,"Output: The milk is in the hallway.
+
+<context>
+The",Where is the milk? 
+342,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+343,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+344,hallway,"Label: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+345,garden,"Output: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+346,garden,Output: The football is in the garden.,Where is the football? 
+347,garden,"Output: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+348,garden,"Label: The apple is in the bathroom.
+
+<context>
+""Then",Where is the apple? 
+349,garden,"Output: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+350,bedroom,"Output: The milk is in the bedroom.
+
+<context>
+""I",Where is the milk? 
+351,office,"Output: The milk is in the bedroom.
+
+<context>
+""I",Where is the milk? 
+352,office,"Output: The milk is in the office.
+
+<context>
+""I'",Where is the milk? 
+353,office,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+354,kitchen,"Output: The ’football’ is in ’bedroom’.
+
+<context>",Where is the football? 
+355,hallway,"Output: The football is in the hallway.
+
+<context>
+dynast",Where is the football? 
+356,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+357,office,"Label: The milk is in the office.
+
+<context>
+""I'",Where is the milk? 
+358,hallway,"Label: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+359,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+360,bedroom,"Label: The football is in the bathroom.
+
+<context>
+Mary",Where is the football? 
+361,bedroom,"Label: The football is in the bathroom.
+
+<context>
+Mary",Where is the football? 
+362,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+363,bedroom,"Label: The apple is in the office.
+
+<context>
+The first thing",Where is the apple? 
+364,bedroom,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+365,kitchen,"Label: The apple is in the garden.
+
+<context>
+""I have",Where is the apple? 
+366,kitchen,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+367,garden,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+368,bedroom,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+369,bedroom,"Label: The apple is in the hallway.
+
+<context>
+""There",Where is the apple? 
+370,kitchen,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+371,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+""Per",Where is the apple? 
+372,kitchen,"Label: The apple is in the hallway.
+
+<context>
+I had",Where is the apple? 
+373,kitchen,"Output: The apple is in the hallway.
+
+<context>
+Sandra",Where is the apple? 
+374,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+375,kitchen,"Label: The milk is in the kitchen.
+
+<context>
+The Earl had",Where is the milk? 
+376,kitchen,"Label: The milk is in the office.
+
+<context>
+The old man",Where is the milk? 
+377,kitchen,"Label: The milk is in the office.
+
+<context>
+John went to",Where is the milk? 
+378,office,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+379,office,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+380,bathroom,"Label: The football is in the balcony.
+
+<context>
+""",Where is the football? 
+381,bathroom,"Answer: The football is in the bathroom.
+</context>
+
+<context",Where is the football? 
+382,bathroom,"Label: The football is in the hallway.
+
+<context>
+""He",Where is the football? 
+383,bedroom,"Answer: The milk is in the bedroom.
+</question>
+
+<context>",Where is the milk? 
+384,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+The man",Where is the milk? 
+385,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+I was",Where is the milk? 
+386,bathroom,"Label: The football is in the bathroom.
+
+<context>
+I could",Where is the football? 
+387,bathroom,"Label: The football is in the garden.
+
+<context>
+62 |",Where is the football? 
+388,hallway,"Label: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+389,hallway,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+390,hallway,"Answer: The milk is in the hallway.
+
+<context>
+Their first",Where is the milk? 
+391,garden,"Output: The milk is in the garden.
+
+<example>
+John journeyed",Where is the milk? 
+392,garden,"Output: The milk is in the garden.
+
+<context>
+John journeyed",Where is the milk? 
+393,garden,"Output: The milk is in the hallway.
+
+<context>
+missing_",Where is the milk? 
+394,kitchen,"Output: The football is in the garden.
+</example>
+<example>",Where is the football? 
+395,bedroom,"Output: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+396,bedroom,"Label: The apple is in the garden.
+
+<context>
+""I am",Where is the apple? 
+397,bedroom,"Label: The apple is in the garden.
+
+<context>
+""But you",Where is the apple? 
+398,garden,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+399,garden,"Output: The football is in the hallway.
+
+<context>
+The first",Where is the football? 
+400,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+Dona",Where is the milk? 
+401,bathroom,"Output: The milk is in the hallway.
+<context>
+""I'",Where is the milk? 
+402,garden,"Output: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+403,garden,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+404,garden,"Label: The football is in the garden.
+</example>
+<example>",Where is the football? 
+405,hallway,"Output: The football is in the office.
+</example>
+<example>",Where is the football? 
+406,bathroom,"Output: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+407,bathroom,"Label: The football is in the bathroom.
+
+<context>
+The man",Where is the football? 
+408,bathroom,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+409,bathroom,"Output: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+410,garden,"Output: The milk is in the garden.
+
+<context>
+""I'",Where is the milk? 
+411,garden,"Answer: The milk is in the bathroom.
+</context>
+
+<context",Where is the milk? 
+412,bedroom,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+413,bedroom,"Output: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+414,bedroom,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+415,bedroom,"Output: The football is in the office.
+
+<context>
+Their heads",Where is the football? 
+416,bedroom,"Output: The football is in the garden.
+
+<context>
+The",Where is the football? 
+417,hallway,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+418,hallway,"Label: The apple is in the bedroom.
+
+<context>
+Mary",Where is the apple? 
+419,office,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+420,kitchen,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+421,kitchen,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+422,kitchen,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+423,kitchen,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+424,kitchen,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+425,bathroom,"Output: The milk is in the office.
+
+<context>
+John went back",Where is the milk? 
+426,bathroom,"Output: The milk is in the garden.
+
+<context>
+The
+M",Where is the milk? 
+427,kitchen,"Output: The milk is in the garden.
+
+<context>
+John went back",Where is the milk? 
+428,kitchen,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+429,kitchen,"Label: The milk is in the hallway.
+
+<context>
+The enemy",Where is the milk? 
+430,bedroom,"Label: The football is in the bedroom.
+
+<context>
+The inf",Where is the football? 
+431,bedroom,"Output: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+432,office,"Answer: The apple is in the office.
+</context>
+
+Question: Where",Where is the apple? 
+433,hallway,"Output: The apple is in the office.
+
+<context>
+""I'",Where is the apple? 
+434,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+435,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+436,kitchen,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+437,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+438,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+439,hallway,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+440,bathroom,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+441,hallway,"Label: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+442,hallway,"Output: The milk is in the hallway.
+
+<context>
+John journey",Where is the milk? 
+443,garden,"Label: The apple is in the garden.
+
+<context>
+The Gael",Where is the apple? 
+444,garden,"Label: The apple is in the garden.
+
+<context>
+John journeyed",Where is the apple? 
+445,hallway,"Output: The football is in the hallway.
+<prompt> Generate a",Where is the football? 
+446,hallway,"Output: The football is in the bedroom.
+
+<example>
+John went",Where is the football? 
+447,hallway,"Output: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+448,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+449,kitchen,"Output: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+450,garden,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+451,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+452,hallway,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+453,garden,"Output: The milk is in the hallway.
+
+<context>
+_The",Where is the milk? 
+454,garden,"Output: The milk is in the hallway.
+
+<context>
+FRAN",Where is the milk? 
+455,bedroom,"Output: The milk is in the bedroom.
+
+<context>
+     +",Where is the milk? 
+456,bedroom,"Label: The milk is in the bedroom.
+
+<context>
+--_",Where is the milk? 
+457,hallway,"Output: The milk is in the hallway.
+
+<context>
+[1",Where is the milk? 
+458,office,"Label: The milk is in the bedroom.
+
+<context>
+The first",Where is the milk? 
+459,office,"Label: The milk is in the bedroom.
+
+<context>
+John went",Where is the milk? 
+460,bathroom,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+461,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+Mary",Where is the apple? 
+462,bathroom,"Output: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+463,bedroom,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+464,hallway,"Label: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+465,garden,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+466,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+467,hallway,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+468,hallway,"Answer: The football is in the hallway.
+</example>
+
+<context",Where is the football? 
+469,hallway,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+470,garden,"Label: The football is in the bathroom.
+
+<context>
+John journey",Where is the football? 
+471,garden,"Label: The football is in the bathroom.
+
+<context>
+The first",Where is the football? 
+472,garden,"Label: The football is in the bathroom.
+
+<context>
+The first",Where is the football? 
+473,garden,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+474,garden,"Output: The milk is in the bathroom.
+<context>
+""I'",Where is the milk? 
+475,hallway,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+476,hallway,"Label: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+477,hallway,"Output: The football is in the hallway.
+
+2. Passages in ital",Where is the football? 
+478,hallway,"Output: The football is in the bedroom.
+
+<context>
+Words",Where is the football? 
+479,kitchen,"Label: The milk is in the garden.
+
+<context>
+""I'",Where is the milk? 
+480,office,"Output: The football is in the office.
+<context>
+""My temper is",Where is the football? 
+481,office,"Output: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+482,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+483,kitchen,"Label: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+484,kitchen,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+485,bedroom,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+486,bathroom,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+487,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+488,bathroom,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+489,bathroom,"Answer: The football is in the office.
+</context>
+
+<context>",Where is the football? 
+490,bathroom,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+491,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+Mary",Where is the apple? 
+492,office,"Label: The apple is in the office.
+
+<context>
+Mary went",Where is the apple? 
+493,bedroom,"Answer: The apple is in the hallway.
+</example>
+<example>",Where is the apple? 
+494,bedroom,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+495,office,"Label: The football is in the office.
+
+<context>
+""I'",Where is the football? 
+496,hallway,"Answer: The apple is in the garden.
+</question>
+
+<context>",Where is the apple? 
+497,bedroom,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+498,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+499,hallway,"A: The milk is in the hallway.
+<context>
+John went to",Where is the milk? 
+500,office,"Label: The apple is in the bathroom.
+
+<context>
+Mary",Where is the apple? 
+501,office,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+502,garden,"Output: The milk is in the bathroom.
+</example>
+<example>",Where is the milk? 
+503,garden,"Label: The milk is in the bathroom.
+
+<context>
+The",Where is the milk? 
+504,bedroom,"Label: The milk is in the bedroom.
+
+<context>
+Mary",Where is the milk? 
+505,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+The first",Where is the milk? 
+506,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+507,kitchen,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+508,kitchen,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+509,kitchen,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+510,office,"Output: The football is in the office.
+
+<context>
+1 then",Where is the football? 
+511,office,"Output: The football is in the office.
+
+<context>
+2 having thus",Where is the football? 
+512,office,"Output: The football is in the office.
+
+<context>
+John went to",Where is the football? 
+513,office,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+514,office,"Output: The football is in the bedroom.
+
+<context>
+""Oh",Where is the football? 
+515,office,"Label: The apple is in the office.
+
+<context>
+The next day",Where is the apple? 
+516,office,"Answer: The apple is in the bathroom.
+</context>
+
+<context",Where is the apple? 
+517,office,"Label: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+518,hallway,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+519,bathroom,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+520,office,"Label: The apple is in the hallway.
+
+<context>
+The",Where is the apple? 
+521,office,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+522,office,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+523,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+524,garden,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+525,hallway,"Label: The football is in the hallway.
+
+<context>
+I am",Where is the football? 
+526,hallway,"Output: The milk is in the hallway.
+
+<context>
+[2",Where is the milk? 
+527,garden,"Label: The milk is in the hallway.
+</example>
+<example>",Where is the milk? 
+528,office,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+529,office,"Output: The apple is in the office.
+
+<context>
+""Yes,",Where is the apple? 
+530,bedroom,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+531,bedroom,"Answer: The apple is in the hallway.
+</context>
+<context>",Where is the apple? 
+532,hallway,"A: The football is in the hallway.
+</context>
+<context>",Where is the football? 
+533,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+534,kitchen,"Label: The apple is in the office.
+
+<context>
+The man went",Where is the apple? 
+535,kitchen,"Output: The apple is in the bathroom.
+
+<context>
+The first",Where is the apple? 
+536,kitchen,"Label: The milk is in the garden.
+
+<context>
+""In the",Where is the milk? 
+537,kitchen,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+538,garden,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+539,office,"Output: The football is in the office.
+
+<context>
+I have been",Where is the football? 
+540,office,"A: The football is in the garden.
+</example>
+<example>",Where is the football? 
+541,garden,"Label: The milk is in the garden.
+
+<context>
+John journeyed",Where is the milk? 
+542,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+John journey",Where is the apple? 
+543,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+544,office,"Output: The milk is in the office.
+</example>
+<example>",Where is the milk? 
+545,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+The old",Where is the milk? 
+546,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+547,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+548,hallway,"Answer: The football is in the hallway.
+</example>
+
+<context>",Where is the football? 
+549,bathroom,"Label: The apple is in the office.
+
+<context>
+The first thing",Where is the apple? 
+550,bathroom,"Label: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+551,hallway,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+552,hallway,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+553,bathroom,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+554,garden,"Output: The milk is in the garden.
+
+<context>
+<example>",Where is the milk? 
+555,office,"Label: The milk is in the office.
+
+<context>
+""I'",Where is the milk? 
+556,office,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+557,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+""P",Where is the milk? 
+558,office,"Label: The apple is in the office.
+
+<context>
+""Thir",Where is the apple? 
+559,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+560,bathroom,"Label: The apple is in the bedroom.
+
+<context>
+""I",Where is the apple? 
+561,bathroom,"Label: The apple is in the office.
+
+<context>
+""Does my",Where is the apple? 
+562,bathroom,"Output: The apple is in the bedroom.
+
+<context>
+""Ex",Where is the apple? 
+563,garden,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+564,office,"Answer: The football is in the garden.
+</question>
+
+<context>",Where is the football? 
+565,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+566,hallway,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+567,office,"Answer: The apple is in the office.
+</context>
+
+Question: Where",Where is the apple? 
+568,bedroom,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+569,bedroom,"Label: The milk is in the hallway.
+
+<context>
+The next",Where is the milk? 
+570,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+Mary",Where is the milk? 
+571,bathroom,"Label: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+572,office,"Label: The milk is in the bathroom.
+
+<context>
+Alan",Where is the milk? 
+573,office,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+574,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+Their",Where is the milk? 
+575,bedroom,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+576,bathroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+577,bathroom,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+578,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+579,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+580,office,"Label: The football is in the hallway.
+
+<context>
+Alan",Where is the football? 
+581,office,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+582,garden,"Output: The milk is in the bedroom.
+
+<context>
+John went",Where is the milk? 
+583,garden,"Label: The milk is in the garden.
+
+<context>
+A prelate",Where is the milk? 
+584,garden,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+585,garden,"Output: The milk is in the garden.
+</example>
+<example>",Where is the milk? 
+586,garden,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+587,garden,"Output: The milk is in the bedroom.
+
+<context>
+John went",Where is the milk? 
+588,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+589,bedroom,"Output: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+590,kitchen,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+591,bedroom,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+592,bedroom,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+593,bedroom,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+594,hallway,"Output: The milk is in the hallway.
+
+<context>
+I was",Where is the milk? 
+595,hallway,"Label: The milk is in the hallway.
+
+<context>
+John journey",Where is the milk? 
+596,hallway,"Label: The milk is in the bathroom.
+
+<context>
+John journey",Where is the milk? 
+597,kitchen,"Answer: The football is in the bedroom.
+</context>
+
+<context",Where is the football? 
+598,garden,"Label: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+599,kitchen,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+600,kitchen,"Answer: The apple is in the hallway.
+</example>
+<example>",Where is the apple? 
+601,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+602,garden,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+603,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+604,bedroom,"Label: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+605,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+606,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+607,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+608,hallway,"Label: The apple is in the hallway.
+</example>
+<example>",Where is the apple? 
+609,garden,"Output: The apple is in the hall.
+
+<context>
+""I'",Where is the apple? 
+610,garden,"Label: The apple is in the hallway.
+
+<context>
+The _",Where is the apple? 
+611,garden,"Answer: The apple is in the garden.
+</question>
+
+<context>",Where is the apple? 
+612,garden,"Label: The apple is in the hallway.
+
+<context>
+The therm",Where is the apple? 
+613,garden,"Label: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+614,garden,"Label: The apple is in the garden.
+
+<context>
+The pirate",Where is the apple? 
+615,hallway,"Output: The apple is in the hallway.
+</context>
+<context>",Where is the apple? 
+616,hallway,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+617,garden,"Output: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+618,kitchen,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+619,bedroom,"Label: The football is in the hallway.
+
+<context>
+Their",Where is the football? 
+620,bedroom,"Output: The football is in the office.
+
+<context>
+their own",Where is the football? 
+621,bedroom,"Label: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+622,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+The unit",Where is the apple? 
+623,garden,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+624,kitchen,"Output: The football is in the office.
+</context>
+<context>",Where is the football? 
+625,kitchen,"Output: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+626,kitchen,"Label: The milk is in the bathroom.
+
+<context>
+I went",Where is the milk? 
+627,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+The situation",Where is the milk? 
+628,bathroom,"Label: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+629,bathroom,"Label: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+630,kitchen,"Label: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+631,kitchen,"Label: The apple is in the office.
+
+<context>
+The following is",Where is the apple? 
+632,kitchen,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+633,office,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+634,garden,"Output: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+635,garden,"Label: The football is in the office.
+
+<context>
+Mary went",Where is the football? 
+636,garden,"Label: The milk is in the garden.
+
+<context>
+He felt",Where is the milk? 
+637,garden,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+638,garden,"Label: The milk is in the hallway.
+
+<context>
+""That",Where is the milk? 
+639,office,"Output: in the office
+
+<context>
+Sandra went to the hallway",Where is the milk? 
+640,office,"Answer: The apple is in the office.
+</question>
+
+<context>",Where is the apple? 
+641,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+The brain",Where is the milk? 
+642,bathroom,"Answer: The milk is in the bathroom.
+</context>
+
+<context",Where is the milk? 
+643,office,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+644,garden,"Label: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+645,office,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+646,office,"Output: The milk is in the office.
+
+<context>
+Their first",Where is the milk? 
+647,garden,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+648,garden,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+649,office,"Answer: The apple is in the office.
+</example>
+<example>
+John",Where is the apple? 
+650,office,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+651,garden,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+652,garden,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+653,garden,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+654,garden,"Output: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+655,garden,"Label: The apple is in the garden.
+
+<context>
+Alan journey",Where is the apple? 
+656,bathroom,"Label: The football is in the garden.
+
+<context>
+Daniel journeyed",Where is the football? 
+657,garden,"Label: The apple is in the garden.
+
+<context>
+Alan journey",Where is the apple? 
+658,garden,"A: The apple is in the bathroom.
+</context>
+
+<context",Where is the apple? 
+659,office,"Label: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+660,office,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+661,hallway,"Label: The apple is in the bedroom.
+
+<context>
+""I",Where is the apple? 
+662,hallway,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+663,hallway,"Output: The apple is in the hallway.
+
+<context>
+John journey",Where is the apple? 
+664,kitchen,"Output: The apple is in the hallway.
+
+<context>
+“I",Where is the apple? 
+665,garden,"Label: The football is in the hallway.
+
+<context>
+“I",Where is the football? 
+666,garden,"Label: The milk is in the hallway.
+
+<context>
+“I",Where is the milk? 
+667,hallway,"Output: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+668,hallway,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+669,bathroom,"Label: The football is in the garden.
+
+<context>
+The man who",Where is the football? 
+670,bathroom,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+671,bathroom,"Label: The football is in the bathroom.
+
+<context>
+The Mo",Where is the football? 
+672,bathroom,"Answer: The milk is in the bathroom.
+</context>
+
+<context",Where is the milk? 
+673,bathroom,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+674,garden,"Output: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+675,garden,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+676,garden,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+677,bathroom,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+678,bathroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+679,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+680,bedroom,"Answer: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+681,bedroom,"Output: The milk is in the bedroom.
+
+<context>
+The sun",Where is the milk? 
+682,bathroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+683,office,"Answer: The football is in the office.
+</example>
+
+<context>",Where is the football? 
+684,kitchen,"Output: The apple is in the office.
+
+<context>
+Sandra went",Where is the apple? 
+685,garden,"Output: The football is in the office.
+
+<context>
+The dancing",Where is the football? 
+686,garden,"Label: The football is in the office.
+
+<context>
+The following exer",Where is the football? 
+687,bathroom,"Answer: The football is in the bathroom.
+</context>
+
+Question:",Where is the football? 
+688,bathroom,"Output: The ’football’ is in ’office’.
+
+<context>",Where is the football? 
+689,bedroom,"Output: The apple is in the bedroom.
+
+<context>
+The Double",Where is the apple? 
+690,bedroom,"Label: The apple is in the bedroom.
+
+<context>
+John went",Where is the apple? 
+691,bedroom,"Label: The apple is in the balcony.
+
+<context>
+John",Where is the apple? 
+692,office,"Label: The milk is in the office.
+
+<context>
+John went to",Where is the milk? 
+693,office,"Answer: The milk is in the bathroom.
+</question>
+
+<context>",Where is the milk? 
+694,bathroom,"Output: The apple is in the bathroom.
+
+<context>
+Their",Where is the apple? 
+695,bathroom,"Output: in the bathroom
+
+<context>
+""I came home
+fe",Where is the apple? 
+696,kitchen,"Label: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+697,kitchen,"Output: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+698,garden,"Answer: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+699,bathroom,"Output: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+700,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+Mary",Where is the milk? 
+701,bathroom,"Output: The milk is in the hallway.
+<context>
+Mary went",Where is the milk? 
+702,bathroom,"Output: The milk is in the bedroom.
+</context>
+
+<context",Where is the milk? 
+703,office,"Label: The apple is in the office.
+
+<context>
+Mary went",Where is the apple? 
+704,bedroom,"Answer: The football is in the bathroom.
+</context>
+
+<context",Where is the football? 
+705,bedroom,"Output: The football is in the bathroom.
+
+<context>
+Mary",Where is the football? 
+706,bedroom,"Output: The football is in the office.
+
+<context>
+""I'",Where is the football? 
+707,bedroom,"Label: The football is in the office.
+
+<context>
+I.--As",Where is the football? 
+708,bedroom,"Output: The football is in the garden.
+
+<context>
+Mary went",Where is the football? 
+709,garden,"Output: The milk is in the hallway.
+</context>
+<context>",Where is the milk? 
+710,garden,"Label: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+711,garden,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+712,garden,"Answer: The apple is in the hallway.
+</context>
+
+<context",Where is the apple? 
+713,garden,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+714,office,"Output: The milk is in the bathroom.
+
+<context>
+[6",Where is the milk? 
+715,office,"Answer: The milk is in the bathroom.
+</context>
+
+<context>",Where is the milk? 
+716,kitchen,"Label: The football is in the bathroom.
+
+<context>
+The political",Where is the football? 
+717,kitchen,"Label: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+718,office,"Label: The milk is in the bedroom.
+
+<context>
+John went",Where is the milk? 
+719,garden,"Label: The apple is in the garden.
+
+<context>
+""Wal",Where is the apple? 
+720,garden,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+721,bedroom,"Label: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+722,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+723,office,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+724,office,"Output: The football is in the garden.
+
+<context>
+""Think",Where is the football? 
+725,office,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+726,kitchen,"Label: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+727,kitchen,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+728,kitchen,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+729,bedroom,"Output: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+730,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+731,bathroom,"Label: The football is in the bathroom.
+
+<context>
+Fur",Where is the football? 
+732,bathroom,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+733,bathroom,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+734,bathroom,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+735,bathroom,"Answer: The football is in the bathroom.
+</context>
+
+<context>",Where is the football? 
+736,bathroom,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+737,bathroom,"Label: The milk is in the office.
+
+<context>
+John went to",Where is the milk? 
+738,bathroom,"Output: The milk is in the office.
+
+<context>
+--[TH",Where is the milk? 
+739,garden,"Output: The apple is in the hallway.
+
+<context>
+Sandra",Where is the apple? 
+740,garden,"Answer: The apple is in the hallway.
+</context>
+
+Question:",Where is the apple? 
+741,bedroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+742,bathroom,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+743,bathroom,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+744,hallway,"Output: The milk is in the hallway.
+</example>
+<example>",Where is the milk? 
+745,hallway,"Output: the hop fields were the most serious and most frequent of the
+season’s",Where is the milk? 
+746,hallway,"Label: The milk is in the hallway.
+
+<context>
+The man",Where is the milk? 
+747,kitchen,"Label: The football is in the hallway.
+
+<context>
+Their",Where is the football? 
+748,hallway,"Label: The milk is in the garden.
+
+<context>
+John went to",Where is the milk? 
+749,office,"Label: The football is in the office.
+
+<context>
+""I'",Where is the football? 
+750,hallway,"Output: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+751,garden,"Label: The football is in the garden.
+
+<context>
+CHAPTER",Where is the football? 
+752,garden,"Label: The football is in the hallway.
+
+<context>
+Alan",Where is the football? 
+753,garden,"Label: The football is in the bedroom.
+
+<context>
+Alan",Where is the football? 
+754,kitchen,"Label: The apple is in the garden.
+
+<context>
+""I am",Where is the apple? 
+755,kitchen,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+756,bedroom,"Answer: The football is in the office.
+</context>
+
+<context>",Where is the football? 
+757,bedroom,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+758,bedroom,"Answer: The football is in the bedroom.
+</example>
+<example>",Where is the football? 
+759,kitchen,"Output: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+760,office,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+761,office,"Output: The milk is in the bathroom.
+
+<context>
+Alan",Where is the milk? 
+762,kitchen,"Answer: The apple is in the office.
+</question>
+
+<context>",Where is the apple? 
+763,bathroom,"Label: The apple is in the garden.
+
+<context>
+Sandra went",Where is the apple? 
+764,kitchen,"Output: The milk is in the kitchen.
+
+<context>
+C. E",Where is the milk? 
+765,kitchen,"Output: The milk is in the bathroom.
+
+<context>
+Sandra",Where is the milk? 
+766,bathroom,"Output: The apple is in the bathroom.
+
+<context>
+E.",Where is the apple? 
+767,bathroom,"Output: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+768,kitchen,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+769,garden,"Output: The football is in the office.
+
+<context>
+John journeyed",Where is the football? 
+770,garden,"Output: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+771,garden,"Label: The football is in the bedroom.
+
+<context>
+I was",Where is the football? 
+772,garden,"Label: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+773,garden,"Output: The football is in the hallway.
+
+<context>
+Daniel journey",Where is the football? 
+774,kitchen,"Label: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+775,office,"Label: The football is in the office.
+
+<context>
+[Illustration]",Where is the football? 
+776,bathroom,"Label: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+777,office,"Answer: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+778,office,"Label: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+779,bathroom,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+780,garden,"Output: The milk is in the hallway.
+
+<context>
+""F",Where is the milk? 
+781,bathroom,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+782,garden,"Output: The football is in the garden.
+
+<context>
+John went to",Where is the football? 
+783,kitchen,"Answer: The football is in the garden.
+</example>
+<example>
+John",Where is the football? 
+784,office,"Answer: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+785,office,"Answer: The football is in the hallway.
+</question>
+
+<context>",Where is the football? 
+786,hallway,"Answer: The apple is in the hallway.
+</question>
+
+<context>",Where is the apple? 
+787,bathroom,"Output: The ’milk’ is in ’hallway’.
+
+<context",Where is the milk? 
+788,bathroom,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+789,bedroom,"Label: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+790,bedroom,"Output: The football is in the garden.
+
+<context>
+""I'",Where is the football? 
+791,bathroom,"A: The apple is in the bathroom.
+</context>
+
+Question",Where is the apple? 
+792,bathroom,"Label: The apple is in the bathroom.
+
+<context>
+I have",Where is the apple? 
+793,office,"Output: The milk is in the office.
+
+<context>
+Their flight",Where is the milk? 
+794,hallway,"Output: The apple is in the hallway.
+
+<context>
+The mon",Where is the apple? 
+795,office,"Output: The football is in the hallway.
+
+<context>
+Alan",Where is the football? 
+796,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+797,hallway,"Label: The football is in the bedroom.
+
+<context>
+    The",Where is the football? 
+798,hallway,"Label: The football is in the bathroom.
+
+<context>
+The first",Where is the football? 
+799,office,"Label: The apple is in the bedroom.
+
+<context>
+John journey",Where is the apple? 
+800,office,"Label: The apple is in the hallway.
+
+<context>
+The population",Where is the apple? 
+801,kitchen,"Answer: The apple is in the bedroom.
+</context>
+
+<context>",Where is the apple? 
+802,kitchen,"Output: The milk is in the bathroom.
+
+<context>
+""Yes",Where is the milk? 
+803,kitchen,"Answer: The milk is in the bedroom.
+</context>
+
+<context",Where is the milk? 
+804,bedroom,"Output: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+805,garden,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+806,office,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+807,office,"Label: The apple is in the hallway.
+
+<context>
+The boy",Where is the apple? 
+808,office,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+809,bathroom,"Label: The football is in the bathroom.
+
+<context>
+The first",Where is the football? 
+810,hallway,"Output: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+811,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+812,hallway,"Output: The football is in the hallway.
+<context>
+John went to",Where is the football? 
+813,kitchen,"Answer: The milk is in the kitchen.
+</context>
+
+<context>",Where is the milk? 
+814,garden,"Label: The apple is in the garden.
+</example>
+<example>",Where is the apple? 
+815,garden,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+816,office,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+817,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+818,garden,"Label: The apple is in the hallway.
+
+<context>
+_J",Where is the apple? 
+819,office,"Output: The football is in the garden.
+
+<context>
+The following is",Where is the football? 
+820,office,"Output: The ’football’ is in ’hallway’.
+
+<context>",Where is the football? 
+821,bedroom,"Output: The apple is in the bedroom.
+</context>
+<context>",Where is the apple? 
+822,bedroom,"Label: The apple is in the office.
+
+<context>
+I went to",Where is the apple? 
+823,bedroom,"Label: The apple is in the garden.
+
+<context>
+I went to",Where is the apple? 
+824,office,"Output: The milk is in the garden.
+
+<context>
+The next day",Where is the milk? 
+825,office,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+826,kitchen,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+827,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+828,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+The weather",Where is the apple? 
+829,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+830,garden,"Output: The milk is in the garden.
+
+<context>
+The man who",Where is the milk? 
+831,bedroom,"Label: The football is in the bedroom.
+
+<context>
+The following",Where is the football? 
+832,bedroom,"Label: The football is in the office.
+
+<context>
+John went to",Where is the football? 
+833,bedroom,"Answer: The football is in the bedroom.
+</example>
+<example>",Where is the football? 
+834,garden,"Output: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+835,garden,"Output: The milk is in the bedroom.
+
+<context>
+The",Where is the milk? 
+836,garden,"Label: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+837,kitchen,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+838,bathroom,"Answer: The football is in the bedroom.
+</context>
+
+<context",Where is the football? 
+839,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+840,bedroom,"Label: The football is in the bathroom.
+
+<context>
+Sandra",Where is the football? 
+841,bedroom,"Output: The football is in the office.
+
+<context>
+“I have",Where is the football? 
+842,office,"Label: The apple is in the hallway.
+
+<context>
+Sandra",Where is the apple? 
+843,office,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+844,office,"Answer: The football is in the garden.
+</question>
+
+<context>",Where is the football? 
+845,office,"Label: The football is in the garden.
+
+<context>
+Mary went",Where is the football? 
+846,kitchen,"Label: The apple is in the garden.
+
+<context>
+The
+ch",Where is the apple? 
+847,office,"Label: The football is in the bedroom.
+
+<context>
+Mary",Where is the football? 
+848,bedroom,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+849,kitchen,"Output: The football is in the bathroom.
+
+<context>
+The first",Where is the football? 
+850,bathroom,"Output: The ’football’ is in ’bathroom’.
+
+<context",Where is the football? 
+851,office,"Output: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+852,office,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+853,bedroom,"Label: The football is in the bedroom.
+
+<context>
+John journey",Where is the football? 
+854,kitchen,"Label: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+855,office,"Label: The apple is in the office.
+
+<context>
+He seized the",Where is the apple? 
+856,hallway,"Label: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+857,bedroom,"Answer: The football is in the bedroom.
+</context>
+
+<context>",Where is the football? 
+858,bedroom,"Output: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+859,bathroom,"Output: The milk is in the bathroom.
+
+<context>",Where is the milk? 
+860,hallway,"Label: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+861,hallway,"Label: The milk is in the hallway.
+
+<context>
+Their",Where is the milk? 
+862,hallway,"Label: The milk is in the garden.
+
+<context>
+_At._",Where is the milk? 
+863,hallway,"Output: The milk is in the hallway.
+
+<context>
+_Enter",Where is the milk? 
+864,hallway,"Output: The football is in the hallway.
+
+<context>
+_H",Where is the football? 
+865,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+866,hallway,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+867,bathroom,"A: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+868,office,"Answer: The apple is in the bedroom.
+</context>
+
+<context",Where is the apple? 
+869,kitchen,"Label: The milk is in the garden.
+
+<context>
+Order of the",Where is the milk? 
+870,garden,"A: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+871,garden,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+872,garden,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+873,garden,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+874,garden,"Output: The football is in the hallway.
+
+<context>
+John journey",Where is the football? 
+875,bathroom,"Output: The football is in the hallway.
+
+<context>
+Jim",Where is the football? 
+876,office,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+877,bathroom,"Answer: The apple is in the office.
+</example>
+<example>
+Al",Where is the apple? 
+878,bathroom,"Label: The football is in the office.
+
+<context>
+""I'",Where is the football? 
+879,office,"Label: The apple is in the balcony.
+
+<context>
+""",Where is the apple? 
+880,office,"Output: The apple is in the office.
+
+<context>
+John went to",Where is the apple? 
+881,kitchen,"Answer: The football is in the garden.
+</example>
+
+<context>",Where is the football? 
+882,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+Their",Where is the milk? 
+883,bathroom,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+884,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+885,bedroom,"Output: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+886,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+""I",Where is the milk? 
+887,bedroom,"Label: The milk is in the bedroom.
+
+<context>
+The",Where is the milk? 
+888,bedroom,"Answer: The apple is in the bedroom.
+</context>
+
+Question:",Where is the apple? 
+889,hallway,"Output: The milk is in the hallway.
+
+<context>
+He was",Where is the milk? 
+890,hallway,"Output: The apple is in the hallway.
+
+<context>
+""I",Where is the apple? 
+891,hallway,"Output: The milk is in the hallway.
+
+<context>
+Mary",Where is the milk? 
+892,hallway,"A: The milk is in the office.
+
+<context>
+Mary journey",Where is the milk? 
+893,garden,"A: The apple is in the garden.
+
+<context>
+Plan of Bapt",Where is the apple? 
+894,garden,"A: The milk is in the garden.
+
+<context>
+Plan of T",Where is the milk? 
+895,garden,"A: The milk is in the bedroom.
+
+<context>
+Mary",Where is the milk? 
+896,garden,"Answer: The milk is in the bedroom.
+</context>
+
+<context>",Where is the milk? 
+897,garden,"Answer: The milk is in the office.
+</context>
+
+<context>",Where is the milk? 
+898,garden,"Output: The ’milk’ is in ’kitchen’.
+
+<context",Where is the milk? 
+899,bedroom,"Answer: The milk is in the bedroom.
+</context>
+
+Question:",Where is the milk? 
+900,bedroom,"Label: The milk is in the bathroom.
+
+<context>
+The first",Where is the milk? 
+901,bedroom,"Label: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+902,bedroom,"Label: The milk is in the garden.
+
+<context>
+Mary went",Where is the milk? 
+903,bedroom,"Output: The milk is in the hallway.
+
+Question: Where is the football",Where is the milk? 
+904,hallway,"Output: The apple is in the hallway.
+<context>
+_The scene",Where is the apple? 
+905,hallway,"Label: The office.
+
+<context>
+_The curtains are drawn",Where is the apple? 
+906,kitchen,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+907,hallway,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+908,garden,"Output: The football is in the hallway.
+
+<context>
+The first",Where is the football? 
+909,office,"Output: The milk is in the office.
+
+<context>
+[14",Where is the milk? 
+910,office,"Output: The milk is in the garage.
+
+<context>
+‘I",Where is the milk? 
+911,bathroom,"Output: The football is in the office.
+
+<context>
+John went to",Where is the football? 
+912,bathroom,"Answer: The football is in the bedroom.
+</example>
+<example>",Where is the football? 
+913,garden,"Answer: The apple is in the garden.
+</context>
+
+<context>",Where is the apple? 
+914,hallway,"Output: The apple is in the hallway.
+
+<context>
+Mary",Where is the apple? 
+915,hallway,"Label: The milk is in the hallway.
+
+<context>
+The free",Where is the milk? 
+916,hallway,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+917,hallway,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+918,hallway,"Answer: The milk is in the garden.
+</context>
+
+<context>",Where is the milk? 
+919,kitchen,"Output: The milk is in the hallway.
+
+<context>
+Alan",Where is the milk? 
+920,kitchen,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+921,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+The",Where is the milk? 
+922,bathroom,"Label: The milk is in the hallway.
+
+<context>
+The first",Where is the milk? 
+923,bathroom,"Label: The milk is in the hallway.
+
+<context>
+John journey",Where is the milk? 
+924,bedroom,"Output: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+925,bedroom,"Output: The football is in the hallway.
+
+<context>
+'There",Where is the football? 
+926,garden,"Output: The apple is in the garden.
+
+<context>
+John went to",Where is the apple? 
+927,garden,"Label: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+928,garden,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+929,hallway,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+930,hallway,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+931,bedroom,"Label: The apple is in the garden.
+</example>
+<example>",Where is the apple? 
+932,bedroom,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+933,garden,"A: The milk is in the hallway.
+</example>
+<example>",Where is the milk? 
+934,garden,"Output: The apple is in the garden.
+
+<context>
+I'm",Where is the apple? 
+935,garden,"Output: The apple is in the garden.
+
+<context>
+""I'",Where is the apple? 
+936,garden,"Answer: The apple is in the bathroom.
+</context>
+
+<context",Where is the apple? 
+937,bathroom,"Label: The football is in the office.
+
+<context>
+Mary journey",Where is the football? 
+938,hallway,"Label: The football is in the hallway.
+
+<context>
+Mary",Where is the football? 
+939,bedroom,"Label: The apple is in the bedroom.
+
+<context>
+The next",Where is the apple? 
+940,bedroom,"Label: The apple is in the bedroom.
+
+<context>
+The train",Where is the apple? 
+941,office,"Answer: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+942,office,"Answer: The football is in the hallway.
+</context>
+
+<context>",Where is the football? 
+943,office,"Answer: The apple is in the hallway.
+</context>
+
+<context>",Where is the apple? 
+944,bedroom,"Output: The apple is in the bathroom.
+
+<context>
+Sandra",Where is the apple? 
+945,bedroom,"Output: The apple is in the bathroom.
+
+<context>
+The T",Where is the apple? 
+946,kitchen,"Output: The milk is in the hallway.
+
+<context>
+VIEN",Where is the milk? 
+947,garden,"Output: The football is in the hallway.
+
+<context>
+The",Where is the football? 
+948,bathroom,"Label: The football is in the bathroom.
+
+<context>
+John went",Where is the football? 
+949,hallway,"Output: The football is in the hallway.
+
+<context>
+The Portuguese",Where is the football? 
+950,hallway,"Label: The football is in the hallway.
+
+<context>
+Their",Where is the football? 
+951,hallway,"Label: The football is in the garden.
+
+<context>
+Mary went",Where is the football? 
+952,garden,"Answer: The milk is in the bedroom.
+</context>
+
+<context",Where is the milk? 
+953,garden,"Label: The milk is in the bedroom.
+
+<context>
+Mary",Where is the milk? 
+954,bedroom,"Output: The football is in the bedroom.
+
+<context>
+""I",Where is the football? 
+955,bedroom,"Output: The football is in the bedroom.
+
+<context>
+<D",Where is the football? 
+956,bedroom,Output: The football is in the bedroom.,Where is the football? 
+957,bedroom,"Output: The football is in the bedroom.
+
+<context>
+John went",Where is the football? 
+958,bedroom,"Output: The football is in the bedroom.
+
+<context>
+I have",Where is the football? 
+959,hallway,"Output: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+960,hallway,"Output: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+961,hallway,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+962,hallway,"Answer: The apple is in the bathroom.
+</context>
+
+<context>",Where is the apple? 
+963,hallway,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+964,hallway,"Answer: The football is in the hallway.
+</context>
+
+<context",Where is the football? 
+965,kitchen,"Output: The milk is in the hallway.
+
+<context>
+John journey",Where is the milk? 
+966,kitchen,"Output: The milk is in the hallway.
+
+<context>
+""I",Where is the milk? 
+967,bedroom,"Output: The football is in the hallway.
+
+<context>
+FOOT",Where is the football? 
+968,bedroom,"A: The football is in the hallway.
+</example>
+<example>",Where is the football? 
+969,office,"Label: The apple is in the office.
+
+<context>
+Their first",Where is the apple? 
+970,kitchen,"Answer: The apple is in the office.
+
+<context>
+The latter sent",Where is the apple? 
+971,kitchen,"Output: The apple is in the bedroom.
+
+<context>
+The home",Where is the apple? 
+972,kitchen,"A: The apple is in the bedroom.
+
+<context>
+Mary",Where is the apple? 
+973,office,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+974,garden,"Output: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+975,garden,"Label: The ’football’ is in ’bedroom’.
+
+<context>",Where is the football? 
+976,kitchen,"Label: The football is in the hallway.
+
+<context>
+John went",Where is the football? 
+977,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+978,bathroom,"Label: The milk is in the bathroom.
+
+<context>
+John went",Where is the milk? 
+979,hallway,"Answer: The apple is in the office.
+</context>
+
+<context>",Where is the apple? 
+980,office,"Label: The football is in the office.
+
+<context>
+The man went",Where is the football? 
+981,hallway,"Output: The apple is in the hallway.
+
+<context>
+At present",Where is the apple? 
+982,bedroom,"Label: The apple is in the hallway.
+
+<context>
+The following",Where is the apple? 
+983,bedroom,"Label: The apple is in the bathroom.
+
+<context>
+FOOT",Where is the apple? 
+984,kitchen,"Output: The football is in the kitchen.
+
+<context>
+""I'",Where is the football? 
+985,kitchen,"Output: The football is in the bathroom.
+
+<context>
+""I",Where is the football? 
+986,bathroom,"Answer: The milk is in the bathroom.
+</example>
+<example>",Where is the milk? 
+987,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+988,garden,"Answer: The milk is in the hallway.
+</context>
+
+<context",Where is the milk? 
+989,garden,"Output: The milk is in the office.
+
+<context>
+“I’",Where is the milk? 
+990,garden,"Label: The milk is in the garden.
+
+<context>
+John went to",Where is the milk? 
+991,office,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+992,office,"Label: The milk is in the hallway.
+
+<context>
+John went",Where is the milk? 
+993,bedroom,"Answer: The milk is in the hallway.
+</context>
+
+<context>",Where is the milk? 
+994,kitchen,"Label: The apple is in the bathroom.
+
+<context>
+""I",Where is the apple? 
+995,kitchen,"Output: The apple is in the bathroom.
+
+<context>
+John went",Where is the apple? 
+996,hallway,"Output: The apple is in the hallway.
+
+<context>
+John went",Where is the apple? 
+997,hallway,"Label: The football is in the hallway.
+
+<context>
+""I",Where is the football? 
+998,hallway,"Label: The football is in the office.
+
+<context>
+""I'",Where is the football? 

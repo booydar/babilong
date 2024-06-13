@@ -1,0 +1,162 @@
+,target,output,question
+0,bathroom,Answer everybody,Where is Mary? 
+1,kitchen,"Sandra is in Kentucky.
+
+Answer: Sandra is in Kentucky.
+
+[",Where is Sandra? 
+2,kitchen,"Answer: Mary is in the convent.
+
+Context:
+
+""I know that you are",Where is Mary? 
+3,kitchen,John is in the hospital in New Orleans.,Where is John? 
+4,bedroom,"Answer: Sandra is in the United States.
+
+Explanation: Sandra is a",Where is Sandra? 
+5,office,Answer: John is in the library.,Where is John? 
+6,garden,Answer: Mary is in Nashville. She is safe and well.,Where is Mary? 
+7,bathroom,Sandra is in the country with the Fresh Air Fund children.,Where is Sandra? 
+8,kitchen,Mary is in the forest. She is hiding behind a tree.,Where is Mary? 
+9,bedroom,Answer: John is in the garden.,Where is John? 
+10,office,Daniel is in Monte Carlo.,Where is Daniel? 
+11,office,Answer: Daniel is in the hospital.,Where is Daniel? 
+12,bathroom,"Answer: Mary is in the Soudan.
+
+Explanation: Mary is the",Where is Mary? 
+13,bathroom,Sandra is in New York City. She is a freelance journalist and writer who has,Where is Sandra? 
+14,bathroom,Answer: Sandra is at the Temple.,Where is Sandra? 
+15,hallway,"Answer: Mary is at the Club, in Hampton.",Where is Mary? 
+16,kitchen,"Sandra is in the kitchen, preparing dinner for her family.",Where is Sandra? 
+17,office,Daniel is in the woods.,Where is Daniel? 
+18,kitchen,Answer: Sandra is in the kitchen.,Where is Sandra? 
+19,bedroom,"Answer: John is at the meeting-place of the two armies, called Cold Harbor.",Where is John? 
+20,hallway,"Sandra is with her grandfather, Dr. Marvin, in the garden.",Where is Sandra? 
+21,bedroom,"Mary is in the Confederate lines at Manassas, Virginia. She is a spy",Where is Mary? 
+22,bedroom,John is in the bedroom.,Where is John? 
+23,bedroom,"Answer: Mary is in Sandwood, a small township in the county of Cuyahoga",Where is Mary? 
+24,bedroom,"Mary is at home in Canandaigua, New York.",Where is Mary? 
+25,garden,"Mary is in Paris, France. She is a young woman who has come to Paris to study",Where is Mary? 
+26,bedroom,"Daniel is in the hospital. See _Dilatation of stomach_, 4",Where is Daniel? 
+27,office,Sandra is in the country with her family.,Where is Sandra? 
+28,office,Sandra is a fictional character in the story. The story describes a young man named Sandra,Where is Sandra? 
+29,garden,Sandra is in the Dilkoosa. She is with the 93rd Native,Where is Sandra? 
+30,garden,Answer: Daniel is in the garden.,Where is Daniel? 
+31,bathroom,"Mary is in heaven.
+
+Answer: Mary is in heaven.
+
+Explanation",Where is Mary? 
+32,office,"Answer: Mary is in the city of Troy.
+
+[Illustration: Mary in T",Where is Mary? 
+33,kitchen,"Answer: Sandra is in the house.
+
+
+Answer: Sandra is in the house",Where is Sandra? 
+34,garden,"Sandra is in Cartagena, Colombia. She was taken there by the American tourists",Where is Sandra? 
+35,kitchen,"Sandra is in the fields, combining the best of both worlds. She is a far",Where is Sandra? 
+36,kitchen,Sandra is in the bathroom.,Where is Sandra? 
+37,garden,"John is in Philadelphia.
+
+Answer: John is in Philadelphia.
+
+[/answer",Where is John? 
+38,garden,Sandra is in the United States. She is a young woman who has been studying the works,Where is Sandra? 
+39,bathroom,Sandra is in Jaffnapatam.,Where is Sandra? 
+40,bedroom,Answer: Mary is in the texas.,Where is Mary? 
+41,kitchen,"Sandra is in the kitchen, preparing dinner for her family.",Where is Sandra? 
+42,office,Answer: Mary is in the house with her mother.,Where is Mary? 
+43,bedroom,Mary is in the Bear Tooth Forest. She is the Supervisor of the forest and is,Where is Mary? 
+44,office,"Daniel is in the library, reading a book.",Where is Daniel? 
+45,office,Answer: Sandra is at home with Mrs Linden.,Where is Sandra? 
+46,bathroom,Sandra is in the Valley of Fortyfourfoot.,Where is Sandra? 
+47,bedroom,"Answer: Sandra is in the village of Onao.
+
+[Example]",Where is Sandra? 
+48,office,"Answer: Daniel is in the convent.
+
+Answer: Daniel is in the convent.",Where is Daniel? 
+49,bedroom,Sandra is in the kitchen with Owen.,Where is Sandra? 
+50,hallway,"Answer: Daniel is at ""The Cave"" working with Slyme and Crass.",Where is Daniel? 
+51,bedroom,"Answer: Sandra is in the hospital.
+
+Summary: Sandra is a patient in the",Where is Sandra? 
+52,office,"Answer: John is in the kitchen.
+
+[/INST] Answer: Virginia is in the",Where is John? 
+53,garden,"John is in the office.
+
+Answer: John is in the office.
+
+[",Where is John? 
+54,kitchen,"Daniel is in the interior of Africa. He has been searching for his father, King Susko",Where is Daniel? 
+55,hallway,Answer: Mary is in the bedroom. She is lying on the bed and listening to the voices,Where is Mary? 
+56,hallway,"Sandra is in her bedroom. She is lying on her bed, looking at the ce",Where is Sandra? 
+57,hallway,"Answer: John is in the Deanery.
+
+[Answer] John is in the Deanery",Where is John? 
+58,bedroom,"Mary is in the city of Lamoo, in Africa. She is the wife of Captain Fl",Where is Mary? 
+59,bedroom,Sandra is in San Marino.,Where is Sandra? 
+60,bedroom,"Daniel is in the scene at the Tiber River, where ships are ready to embark Reg",Where is Daniel? 
+61,kitchen,Answer: Sandra is in the studio of the artist Jean Paul Laurens. She is there with,Where is Sandra? 
+62,bedroom,Answer: Daniel is at Tantallon Castle.,Where is Daniel? 
+63,garden,Answer: John is in the hallway.,Where is John? 
+64,bathroom,Answer: Sandra is in the Sun Dance Canyon.,Where is Sandra? 
+65,garden,Sandra is in the hospital in Odessa.,Where is Sandra? 
+66,office,"Answer: Daniel is in the forest.
+
+[Example]
+
+Answer: Daniel is in",Where is Daniel? 
+67,bedroom,Mary is in the Temple of the Sun.,Where is Mary? 
+68,garden,"Sandra is in the Sahara Desert. She is on a journey with her father,",Where is Sandra? 
+69,bathroom,"Sandra is in the kitchen, preparing dinner.",Where is Sandra? 
+70,office,John is in the hospital.,Where is John? 
+71,kitchen,Answer: Daniel everybody everybody everybody everybody everybody everybody everybody.,Where is Daniel? 
+72,bedroom,"Answer: John is at Greystone No. 1.
+
+
+Answer: John is",Where is John? 
+73,office,Answer: Daniel is in the hospital.,Where is Daniel? 
+74,bathroom,Answer: Sandra is in the Isle of Man.,Where is Sandra? 
+75,office,John is in the hallway.,Where is John? 
+76,hallway,Answer: Mary is in Simiti. She is the mother of Carmen.,Where is Mary? 
+77,office,John is in the convent. He is a nun who has been living in the convent for many,Where is John? 
+78,office,"Answer: Sandra is in Persia.
+
+Sandra is a character in the story who",Where is Sandra? 
+79,bathroom,Answer: John is at the carpenter's shop.,Where is John? 
+80,hallway,John is in the deck of the ship.,Where is John? 
+81,hallway,"Daniel is in Egypt. He is in the city of Thebes, specifically in the temple of",Where is Daniel? 
+82,hallway,Answer: Daniel is in the convent of the Carmelites.,Where is Daniel? 
+83,bathroom,"Answer: Daniel is in the kitchen, eating some soup.",Where is Daniel? 
+84,bathroom,John is in the High Court of Scotland.,Where is John? 
+85,bathroom,Daniel is in China. He is working as an astronomer at the Peking Observatory,Where is Daniel? 
+86,garden,"John is in the shady lanes, wandering over green commons, exploring woods",Where is John? 
+87,bedroom,Answer: John is at the Darlord estate.,Where is John? 
+88,office,Answer: Mary is in the hospital.,Where is Mary? 
+89,garden,Answer: Sandra is in the kitchen.,Where is Sandra? 
+90,office,Answer: John is in the hospital.,Where is John? 
+91,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+92,hallway,"Answer: John is in the bedroom.
+
+(Example)
+Answer: The Crown reduced",Where is John? 
+93,kitchen,"Answer: Daniel is in the jungle.
+
+Answer: Daniel is in the jung",Where is Daniel? 
+94,bedroom,"Answer: Daniel is in the lions' den.
+
+[Example answer: Daniel is in",Where is Daniel? 
+95,hallway,"Answer: Sandra is in Fredericksburg, Virginia.
+
+[/INST/",Where is Sandra? 
+96,garden,Sandra is in the hospital in Simiti. She was injured in the earthquake and,Where is Sandra? 
+97,bedroom,Answer: John is in the ruins of Tchandi.,Where is John? 
+98,office,"Answer: John is in the church.
+
+""I know not, my dear sir,"" replied",Where is John? 
+99,garden,"Answer: Sandra is in Quito, Peru.
+
+Explanation: Sandra is",Where is Sandra? 

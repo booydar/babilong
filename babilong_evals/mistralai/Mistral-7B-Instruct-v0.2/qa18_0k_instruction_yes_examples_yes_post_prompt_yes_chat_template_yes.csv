@@ -1,0 +1,1438 @@
+,target,output,question
+0,yes,Yes.,Is the container bigger than the chocolate?
+1,no,Answer: No.,Does the chest fit in the box of chocolates?
+2,no,"Answer: No.
+
+Despite the text stating that the chest fits inside the box, the",Does the container fit in the box of chocolates?
+3,no,Answer: no.,Is the chocolate bigger than the suitcase?
+4,no,"Answer: No.
+
+(The suitcase fits inside the container, so the container is larger",Is the suitcase bigger than the container?
+5,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+6,no,Answer: No.,Does the chest fit in the chocolate?
+7,yes,Yes.,Is the suitcase bigger than the chocolate?
+8,no,Answer: no.,Is the chocolate bigger than the container?
+9,yes,Yes.,Is the suitcase bigger than the chocolate?
+10,yes,Yes.,Is the chest bigger than the suitcase?
+11,no,Answer: no.,Is the chocolate bigger than the box?
+12,yes,"Answer: yes.
+
+(Note: The context and question provided are for illustrative purposes only",Does the suitcase fit in the chest?
+13,yes,Yes.,Is the suitcase bigger than the container?
+14,yes,Yes.,Does the container fit in the chest?
+15,yes,"Yes. (The container fits inside the box and the chocolate fits inside the container, so the chocolate",Does the chocolate fit in the box?
+16,yes,Yes.,Is the chest bigger than the chocolate?
+17,no,Answer: no.,Does the chest fit in the suitcase?
+18,no,No.,Does the suitcase fit in the chocolate?
+19,no,Answer: No.,Is the box of chocolates bigger than the container?
+20,no,Answer: No.,Does the suitcase fit in the chocolate?
+21,no,Answer: no.,Is the chocolate bigger than the chest?
+22,no,"Answer: No.
+
+The container is bigger than the suitcase, so it cannot fit inside",Does the container fit in the suitcase?
+23,yes,Yes.,Is the chest bigger than the box of chocolates?
+24,no,No.,Is the box of chocolates bigger than the suitcase?
+25,no,Answer: No.,Does the chest fit in the chocolate?
+26,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+27,yes,"Answer: No.
+
+Despite the text stating that the suitcase fits inside the box,",Does the suitcase fit in the container?
+28,no,"Answer: yes.
+
+(Note: The context states that the container fits inside the box,",Does the box fit in the container?
+29,no,Answer: no.,Is the chocolate bigger than the box?
+30,yes,Yes.,Is the suitcase bigger than the chocolate?
+31,yes,"Answer: No.
+
+Despite the text stating that the chest fits inside the container and the",Does the chest fit in the suitcase?
+32,no,Answer: No.,Does the chest fit in the box of chocolates?
+33,yes,No.,Does the chocolate fit in the container?
+34,no,Answer: No.,Does the chest fit in the chocolate?
+35,yes,Yes.,Does the box of chocolates fit in the container?
+36,yes,Yes.,Does the suitcase fit in the container?
+37,no,Answer: No.,Does the container fit in the chocolate?
+38,yes,Yes.,Is the suitcase bigger than the chocolate?
+39,yes,Yes.,Is the chest bigger than the container?
+40,yes,Yes.,Is the suitcase bigger than the chocolate?
+41,yes,Yes.,Is the chest bigger than the chocolate?
+42,no,Answer: No.,Does the box fit in the chocolate?
+43,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+44,yes,Yes. (The box is bigger than the box of chocolates.),Does the box of chocolates fit in the box?
+45,yes,Yes.,Is the chest bigger than the box of chocolates?
+46,yes,Answer: no.,Does the box fit in the suitcase?
+47,yes,"Answer: No.
+
+Despite the text stating that the chocolate fits inside the suitcase and",Does the box of chocolates fit in the suitcase?
+48,no,"Answer: No.
+
+The context states that the chest fits inside the box, and the chest",Does the box fit in the suitcase?
+49,yes,"No.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the container?
+50,no,No.,Is the box of chocolates bigger than the suitcase?
+51,yes,Yes.,Is the box bigger than the box of chocolates?
+52,no,"Answer: no.
+
+<context>
+The container fits inside the box. The suitcase",Does the box fit in the suitcase?
+53,yes,Yes.,Does the chocolate fit in the box?
+54,no,Answer: No.,Does the chest fit in the chocolate?
+55,no,Yes.,Does the suitcase fit in the box?
+56,yes,"Answer: yes.
+
+Despite the text stating that the chest is bigger than the chocolate,",Does the chocolate fit in the chest?
+57,no,Answer: no.,Is the chocolate bigger than the box?
+58,no,Answer: No.,Does the chest fit in the suitcase?
+59,no,Answer: No.,Is the box of chocolates bigger than the chest?
+60,yes,Yes.,Is the chest bigger than the box of chocolates?
+61,yes,Yes.,Is the chest bigger than the box of chocolates?
+62,no,Answer: no.,Is the chocolate bigger than the box?
+63,yes,Answer: No.,Does the chocolate fit in the chest?
+64,yes,Yes.,Does the box of chocolates fit in the box?
+65,no,Answer: no.,Is the chocolate bigger than the box?
+66,yes,"Answer: No.
+
+Despite the misleading statement ""The box is bigger than the box",Is the box bigger than the box of chocolates?
+67,no,Answer: no.,Does the box fit in the chocolate?
+68,no,"Answer: No.
+
+The container is bigger than the box of chocolates, according to",Does the container fit in the box of chocolates?
+69,yes,Yes.,Is the suitcase bigger than the chest?
+70,yes,"Answer: No.
+
+The container fits inside the box, but the chest is bigger than both",Does the container fit in the chest?
+71,no,"Answer: No.
+
+The context states that the suitcase is bigger than the container. Therefore",Does the suitcase fit in the container?
+72,yes,Yes.,Is the container bigger than the chocolate?
+73,yes,"Answer: No.
+
+The context states that the box of chocolates fits inside the container",Is the box bigger than the box of chocolates?
+74,no,Answer: No.,Is the chocolate bigger than the box?
+75,no,Answer: yes.,Does the container fit in the box of chocolates?
+76,yes,Answer: No.,Does the chocolate fit in the chest?
+77,no,Answer: No.,Is the box bigger than the chest?
+78,yes,Answer: No.,Does the chocolate fit in the chest?
+79,yes,"Answer: No.
+
+The container fits inside the box, and the box is smaller than the",Does the container fit in the suitcase?
+80,no,Answer: No.,Is the box of chocolates bigger than the chest?
+81,no,Answer: no.,Is the chocolate bigger than the chest?
+82,no,Answer: no.,Is the chocolate bigger than the box?
+83,no,"Answer: No.
+
+Despite the repetition in the text, the context states that the",Does the box fit in the box of chocolates?
+84,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+85,yes,"Answer: No.
+
+The given context states that the suitcase is bigger than the container,",Is the box bigger than the container?
+86,no,Answer: no.,Is the chocolate bigger than the box?
+87,no,No.,Is the box of chocolates bigger than the box?
+88,no,"Answer: No.
+
+<context>
+The box is bigger than the chocolate. The box",Does the box fit in the chest?
+89,yes,"Answer: No.
+
+Despite the text stating that the box is bigger than the box of",Is the suitcase bigger than the box of chocolates?
+90,no,Answer: no.,Is the chocolate bigger than the suitcase?
+91,no,Answer: no.,Is the chocolate bigger than the box?
+92,yes,No.,Does the chocolate fit in the container?
+93,yes,"Answer: No.
+
+The context states that the suitcase is bigger than the container, so",Does the container fit in the box?
+94,yes,"Answer: No.
+
+Despite the container fitting inside the suitcase and the box of ch",Does the box of chocolates fit in the suitcase?
+95,no,"Answer: No.
+
+(The context states that the box is bigger than the container, and",Is the container bigger than the chest?
+96,no,Answer: no.,Is the chocolate bigger than the suitcase?
+97,no,Answer: no.,Does the suitcase fit in the chocolate?
+98,yes,"Answer: Yes. (The text states that the box of chocolates fits inside the box,",Does the box of chocolates fit in the suitcase?
+99,yes,Yes.,Is the container bigger than the box?
+100,yes,"No.
+
+<context>
+The box fits inside the chest. The chest is bigger than",Does the chocolate fit in the container?
+101,yes,"No.
+
+<context>
+The chest is bigger than the box of chocolates.",Is the suitcase bigger than the box of chocolates?
+102,yes,"Answer: No.
+
+Despite the text stating that the chest fits inside the box, the",Does the box of chocolates fit in the container?
+103,yes,Yes.,Does the box of chocolates fit in the container?
+104,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+105,no,"Answer: No.
+
+(Based on the context provided, the chest is smaller than the container",Is the chest bigger than the container?
+106,yes,"Answer: Yes. (The text states that the suitcase fits inside the chest, and the suit",Does the box fit in the chest?
+107,no,Answer: No.,Does the chest fit in the chocolate?
+108,no,"Answer: No.
+
+Despite the repetition in the text, the context states that the",Does the box fit in the box of chocolates?
+109,yes,Yes.,Is the suitcase bigger than the chocolate?
+110,no,Answer: No.,Does the box fit in the chocolate?
+111,no,Answer: no.,Is the chocolate bigger than the box?
+112,yes,No.,Does the chocolate fit in the suitcase?
+113,no,No.,Does the container fit in the chocolate?
+114,no,Answer: no.,Is the chocolate bigger than the box?
+115,yes,"No.
+
+<context>
+The chest is bigger than the suitcase. The container is",Does the suitcase fit in the container?
+116,yes,Yes.,Does the box of chocolates fit in the container?
+117,no,No.,Is the box of chocolates bigger than the box?
+118,no,Answer: no.,Is the chocolate bigger than the box?
+119,no,"Answer: yes.
+
+Despite the text stating that the box is bigger than the suitcase",Does the box fit in the suitcase?
+120,yes,Yes.,Is the container bigger than the box of chocolates?
+121,no,"Answer: No.
+
+The context states that the chest fits inside the container, and the box",Is the box bigger than the container?
+122,no,Answer: No.,Is the box of chocolates bigger than the chest?
+123,yes,Yes.,Is the container bigger than the chocolate?
+124,no,Answer: no.,Does the chest fit in the chocolate?
+125,yes,Yes.,Does the box of chocolates fit in the chest?
+126,no,Answer: no.,Is the chocolate bigger than the suitcase?
+127,no,Answer: no.,Is the chocolate bigger than the box?
+128,yes,Answer: Yes. (The context states that the box of chocolates fits inside the suitcase,Does the box of chocolates fit in the box?
+129,yes,Answer: no.,Does the chest fit in the suitcase?
+130,yes,"No.
+
+<context>
+The box is bigger than the box of chocolates.",Does the chocolate fit in the suitcase?
+131,no,Answer: no.,Is the chocolate bigger than the chest?
+132,yes,Yes.,Is the chest bigger than the chocolate?
+133,no,No.,Does the suitcase fit in the box of chocolates?
+134,yes,No.,Does the box fit in the container?
+135,yes,Yes.,Is the chest bigger than the chocolate?
+136,yes,Answer: no.,Does the box of chocolates fit in the container?
+137,yes,Yes.,Is the box bigger than the box of chocolates?
+138,yes,Answer: yes.,Is the box bigger than the box of chocolates?
+139,yes,Yes.,Is the box bigger than the chocolate?
+140,yes,Yes.,Is the chest bigger than the chocolate?
+141,yes,Yes.,Is the container bigger than the chocolate?
+142,no,Answer: No.,Does the container fit in the chocolate?
+143,no,Answer: no.,Is the chocolate bigger than the chest?
+144,no,Yes.,Does the suitcase fit in the container?
+145,yes,No.,Does the chocolate fit in the container?
+146,yes,Yes.,Does the chocolate fit in the box?
+147,yes,Yes.,Does the chocolate fit in the chest?
+148,yes,Answer: No.,Does the chocolate fit in the chest?
+149,no,Yes.,Is the container bigger than the box?
+150,no,No.,Is the box of chocolates bigger than the chest?
+151,no,"Answer: No.
+
+Despite the repetition in the text, the context states that the",Does the box fit in the box of chocolates?
+152,no,Answer: No.,Does the container fit in the chocolate?
+153,yes,Yes.,Is the suitcase bigger than the chocolate?
+154,yes,Answer: No.,Does the container fit in the chest?
+155,yes,"Answer: No.
+
+The context states that the chest fits inside the box, and the box",Does the chest fit in the suitcase?
+156,yes,Yes.,Does the chocolate fit in the box?
+157,yes,Answer: No.,Does the box of chocolates fit in the container?
+158,yes,"Answer: No.
+
+Despite the box being smaller than the chest, the box of ch",Does the box of chocolates fit in the chest?
+159,no,Answer: Yes. (The text states that the container fits inside the suitcase and the chest fits,Does the suitcase fit in the chest?
+160,no,Answer: no.,Is the chocolate bigger than the suitcase?
+161,no,"Answer: no.
+
+The box is bigger than the box of chocolates, so the",Does the box fit in the box of chocolates?
+162,yes,No.,Does the box of chocolates fit in the suitcase?
+163,no,Answer: No.,Does the box fit in the chocolate?
+164,yes,Yes.,Does the chocolate fit in the box?
+165,yes,Yes.,Does the box of chocolates fit in the suitcase?
+166,no,Answer: no.,Does the suitcase fit in the chocolate?
+167,no,"Answer: No.
+
+The context states that the chest is bigger than the container, so the",Does the chest fit in the container?
+168,no,Answer: no.,Does the box fit in the chocolate?
+169,no,"Answer: no.
+
+The box is bigger than the box of chocolates, so the",Does the box fit in the box of chocolates?
+170,no,Answer: no.,Is the chocolate bigger than the chest?
+171,no,Answer: No.,Is the box of chocolates bigger than the container?
+172,no,No.,Is the box of chocolates bigger than the container?
+173,no,Answer: No.,Does the box fit in the chocolate?
+174,yes,"Answer: No.
+
+The container fits inside the box, and the box is smaller than the",Does the container fit in the suitcase?
+175,yes,Yes.,Does the chocolate fit in the box?
+176,no,Answer: no.,Is the chocolate bigger than the box?
+177,yes,Yes.,Is the chest bigger than the chocolate?
+178,yes,"No.
+
+<context>
+The chocolate fits inside the container. The chest fits inside the",Is the box bigger than the suitcase?
+179,no,Answer: No.,Is the box of chocolates bigger than the suitcase?
+180,no,"Answer: No.
+
+The context states that the suitcase fits inside the container twice, and",Does the container fit in the box of chocolates?
+181,yes,"Answer: Yes. (The text states that the suitcase fits inside the chest, and the suit",Does the box fit in the chest?
+182,no,Answer: no.,Is the chocolate bigger than the box?
+183,no,Answer: No.,Is the chocolate bigger than the container?
+184,yes,Yes.,Is the box bigger than the chocolate?
+185,yes,Yes.,Is the container bigger than the chocolate?
+186,no,Answer: No.,Does the chest fit in the chocolate?
+187,no,Answer: No.,Does the box fit in the chocolate?
+188,yes,Answer: Yes.,Is the box bigger than the box of chocolates?
+189,yes,Yes.,Is the container bigger than the chocolate?
+190,no,Answer: No.,Does the suitcase fit in the chocolate?
+191,yes,Yes.,Is the container bigger than the chocolate?
+192,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+193,no,Answer: no.,Is the chocolate bigger than the container?
+194,yes,Answer: No.,Does the container fit in the chest?
+195,no,No.,Does the container fit in the chocolate?
+196,yes,Yes.,Is the suitcase bigger than the box?
+197,no,Answer: no.,Is the chocolate bigger than the chest?
+198,no,Answer: No.,Is the chocolate bigger than the container?
+199,no,Answer: No.,Does the box fit in the chocolate?
+200,yes,"Answer: No.
+
+Despite the box being bigger than the box of chocolates,",Does the box of chocolates fit in the container?
+201,no,Answer: No.,Is the box of chocolates bigger than the chest?
+202,yes,Yes.,Is the box bigger than the chocolate?
+203,no,Answer: no.,Is the chocolate bigger than the chest?
+204,no,Answer: No.,Is the box of chocolates bigger than the container?
+205,yes,"Answer: yes.
+
+(Note: The context and question provided are for illustrative purposes only",Does the suitcase fit in the chest?
+206,yes,Answer: No.,Does the chocolate fit in the suitcase?
+207,no,Answer: no.,Is the chocolate bigger than the box?
+208,yes,Yes.,Does the box of chocolates fit in the box?
+209,yes,"No.
+
+<context>
+The suitcase is bigger than the chest. The suitcase",Does the chocolate fit in the container?
+210,yes,"No.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the container?
+211,no,Answer: no.,Is the chocolate bigger than the container?
+212,no,Answer: No.,Is the box of chocolates bigger than the chest?
+213,yes,"Answer: No.
+
+Despite the text stating that the box of chocolates fits inside",Does the box of chocolates fit in the suitcase?
+214,no,Answer: No.,Does the chest fit in the chocolate?
+215,yes,"Answer: Yes. (The text states that the suitcase fits inside the chest, and the suit",Does the box fit in the chest?
+216,yes,Yes.,Is the box bigger than the chocolate?
+217,yes,Yes.,Is the box bigger than the box of chocolates?
+218,no,No.,Does the container fit in the chocolate?
+219,yes,Yes.,Is the chest bigger than the chocolate?
+220,no,Answer: No.,Does the box fit in the chocolate?
+221,no,No.,Is the box of chocolates bigger than the box?
+222,yes,"Answer: yes.
+
+Despite the text stating that the chest is bigger than the chocolate,",Does the chocolate fit in the chest?
+223,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+224,no,Answer: no.,Is the chocolate bigger than the chest?
+225,yes,Yes.,Does the chocolate fit in the container?
+226,no,No.,Does the container fit in the chocolate?
+227,yes,Yes.,Does the suitcase fit in the container?
+228,no,Answer: no.,Is the chocolate bigger than the chest?
+229,yes,"Yes. (The chocolate fits inside the box of chocolates, and the box of chocol",Does the chocolate fit in the box?
+230,yes,Yes.,Is the container bigger than the suitcase?
+231,no,No.,Does the suitcase fit in the chocolate?
+232,no,Answer: No.,Is the box of chocolates bigger than the container?
+233,yes,"No.
+
+<context>
+The box of chocolates is bigger than the chocolate.",Does the chocolate fit in the suitcase?
+234,no,Answer: no.,Is the chocolate bigger than the box?
+235,yes,Yes.,Is the container bigger than the chocolate?
+236,no,Answer: no.,Is the chocolate bigger than the chest?
+237,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+238,no,No.,Does the container fit in the chocolate?
+239,no,No.,Does the container fit in the chocolate?
+240,yes,Yes.,Does the box of chocolates fit in the container?
+241,no,"Answer: No.
+
+The given context states that the suitcase is bigger than the container,",Does the box fit in the container?
+242,no,Answer: No.,Is the chocolate bigger than the container?
+243,yes,"Answer: No.
+
+Despite the text stating that the chest fits inside the suitcase,",Does the box of chocolates fit in the suitcase?
+244,yes,No.,Does the chocolate fit in the container?
+245,yes,Yes.,Is the chest bigger than the chocolate?
+246,no,Answer: No.,Is the chocolate bigger than the container?
+247,no,No.,Is the box of chocolates bigger than the suitcase?
+248,yes,"Answer: No.
+
+Despite the text stating that the chocolate fits inside the suitcase,",Does the box of chocolates fit in the suitcase?
+249,no,Answer: No.,Does the container fit in the chocolate?
+250,no,Answer: No.,Does the chest fit in the chocolate?
+251,yes,Answer: No.,Does the chocolate fit in the chest?
+252,yes,"No.
+
+<context>
+The box of chocolates is bigger than the chocolate.",Does the chocolate fit in the suitcase?
+253,yes,Yes.,Is the suitcase bigger than the chocolate?
+254,yes,Yes.,Is the chest bigger than the chocolate?
+255,no,No.,Is the box of chocolates bigger than the suitcase?
+256,no,Answer: No.,Is the box of chocolates bigger than the chest?
+257,yes,"No.
+
+<context>
+The suitcase is bigger than the box. The container is",Does the box fit in the container?
+258,no,Answer: no.,Is the chocolate bigger than the box?
+259,yes,Answer: No.,Does the chocolate fit in the chest?
+260,no,Answer: no.,Is the chocolate bigger than the box?
+261,no,Answer: No.,Does the container fit in the chocolate?
+262,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+263,yes,Yes.,Is the suitcase bigger than the container?
+264,no,"Answer: No.
+
+(The box of chocolates fits inside the suitcase, but",Is the box of chocolates bigger than the suitcase?
+265,no,Answer: No.,Is the box of chocolates bigger than the container?
+266,yes,Yes.,Does the box of chocolates fit in the chest?
+267,no,Answer: no.,Is the chocolate bigger than the suitcase?
+268,yes,Yes.,Is the box bigger than the chocolate?
+269,yes,No.,Does the chocolate fit in the suitcase?
+270,yes,Yes.,Is the box bigger than the chocolate?
+271,no,"Answer: yes
+
+<context>
+The box of chocolates fits inside the chest.",Does the box fit in the box of chocolates?
+272,no,Answer: No.,Does the suitcase fit in the chocolate?
+273,yes,Yes.,Is the container bigger than the box of chocolates?
+274,no,No.,Does the container fit in the box of chocolates?
+275,no,Answer: No.,Does the box fit in the chocolate?
+276,no,Answer: no.,Does the suitcase fit in the chocolate?
+277,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+278,yes,Yes.,Is the chest bigger than the container?
+279,no,"Answer: Yes.
+
+<context>
+The suitcase is bigger than the chest. The",Does the suitcase fit in the box?
+280,yes,Answer: no.,Does the box of chocolates fit in the chest?
+281,yes,Yes.,Is the suitcase bigger than the chocolate?
+282,no,Answer: No.,Is the chocolate bigger than the container?
+283,yes,Yes.,Is the box bigger than the chocolate?
+284,no,Answer: no.,Is the chocolate bigger than the chest?
+285,no,Answer: no.,Is the chocolate bigger than the chest?
+286,yes,Answer: yes.,Is the suitcase bigger than the box of chocolates?
+287,no,Answer: no.,Is the chocolate bigger than the suitcase?
+288,yes,Yes.,Is the chest bigger than the chocolate?
+289,no,Answer: No.,Does the box fit in the chocolate?
+290,no,Answer: no.,Is the chocolate bigger than the box?
+291,yes,Answer: yes.,Is the box bigger than the box of chocolates?
+292,yes,"Answer: No.
+
+Despite the text stating that the chest fits inside the box, the",Does the box of chocolates fit in the container?
+293,no,Answer: No.,Is the box of chocolates bigger than the chest?
+294,yes,Yes.,Does the chocolate fit in the chest?
+295,yes,"Answer: Yes. (The text states that the suitcase fits inside the chest, and the suit",Does the box fit in the chest?
+296,yes,Answer: No.,Does the chocolate fit in the suitcase?
+297,yes,Yes.,Does the chocolate fit in the box?
+298,yes,Yes. (The box is bigger than the box of chocolates.),Does the box of chocolates fit in the box?
+299,no,Answer: No.,Does the container fit in the chocolate?
+300,yes,Yes.,Is the box bigger than the container?
+301,yes,Yes.,Does the chocolate fit in the box?
+302,yes,"Answer: No.
+
+The box is bigger than the container, according to the context provided.",Does the container fit in the box?
+303,no,Answer: No.,Does the box fit in the chocolate?
+304,no,No.,Is the box of chocolates bigger than the box?
+305,no,Answer: No.,Is the suitcase bigger than the box?
+306,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+307,no,"Answer: No.
+
+The context states that the suitcase is bigger than the container. Therefore",Does the suitcase fit in the container?
+308,no,Answer: no.,Is the chocolate bigger than the box?
+309,no,Answer: no.,Is the chocolate bigger than the suitcase?
+310,yes,Yes.,Is the box bigger than the chocolate?
+311,yes,Yes.,Does the chocolate fit in the box?
+312,no,Answer: no.,Is the chocolate bigger than the suitcase?
+313,yes,Yes.,Is the suitcase bigger than the chocolate?
+314,no,Answer: no.,Is the chocolate bigger than the suitcase?
+315,no,"Yes.
+
+<context>
+The box of chocolates fits inside the chest. The",Does the box fit in the chest?
+316,no,Answer: No.,Is the box of chocolates bigger than the container?
+317,no,Answer: no.,Is the chocolate bigger than the suitcase?
+318,yes,No.,Does the chocolate fit in the container?
+319,no,Answer: yes.,Does the container fit in the box of chocolates?
+320,yes,No.,Does the chocolate fit in the chest?
+321,no,No.,Does the box fit in the chocolate?
+322,yes,Yes.,Is the container bigger than the box of chocolates?
+323,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+324,no,No.,Is the box of chocolates bigger than the box?
+325,yes,Yes.,Is the container bigger than the chocolate?
+326,yes,"Answer: No.
+
+Despite the text stating that ""the box is bigger than the container",Does the box of chocolates fit in the box?
+327,no,Answer: No.,Does the container fit in the chocolate?
+328,yes,Yes.,Is the box bigger than the chocolate?
+329,no,Answer: No.,Does the chest fit in the chocolate?
+330,no,No.,Does the container fit in the box of chocolates?
+331,no,Answer: no.,Is the chocolate bigger than the box?
+332,no,Answer: no.,Does the suitcase fit in the chocolate?
+333,no,Answer: No.,Does the box fit in the chocolate?
+334,no,"Answer: No.
+
+Despite the repetition in the text, the second instance of """,Does the suitcase fit in the box of chocolates?
+335,no,Answer: no.,Is the chocolate bigger than the box?
+336,yes,Yes.,Does the chocolate fit in the chest?
+337,yes,"Yes.
+
+<context>
+The box of chocolates fits inside the chest. The",Does the box of chocolates fit in the box?
+338,no,Answer: No.,Is the box of chocolates bigger than the chest?
+339,no,Answer: no.,Is the chocolate bigger than the suitcase?
+340,yes,No.,Does the chocolate fit in the container?
+341,no,Answer: no.,Is the chocolate bigger than the chest?
+342,no,"No.
+
+<context>
+The container is bigger than the suitcase. The box is",Is the suitcase bigger than the box?
+343,no,Answer: no.,Is the chocolate bigger than the box?
+344,yes,Yes.,Is the chest bigger than the suitcase?
+345,no,Answer: No.,Is the chocolate bigger than the container?
+346,yes,Yes.,Does the box of chocolates fit in the box?
+347,no,"Answer: no.
+
+<context>
+The container fits inside the box. The suitcase",Does the box fit in the suitcase?
+348,yes,Answer: no.,Does the box of chocolates fit in the chest?
+349,yes,Yes.,Is the chest bigger than the suitcase?
+350,yes,Yes.,Is the chest bigger than the chocolate?
+351,yes,Answer: No.,Does the chocolate fit in the chest?
+352,yes,Yes.,Is the chest bigger than the container?
+353,yes,Answer: Yes. (The context states that the box of chocolates fits inside the suitcase,Does the box of chocolates fit in the box?
+354,no,Answer: No.,Does the suitcase fit in the chocolate?
+355,yes,Yes.,Is the chest bigger than the chocolate?
+356,no,Answer: no.,Does the box fit in the chocolate?
+357,no,Answer: No.,Is the box of chocolates bigger than the chest?
+358,no,Answer: No.,Does the box fit in the chocolate?
+359,yes,Yes.,Is the container bigger than the chocolate?
+360,yes,Yes.,Is the container bigger than the box of chocolates?
+361,no,"Answer: No.
+
+The context states that the chest fits inside the container, and the box",Does the box fit in the suitcase?
+362,no,No.,Is the box of chocolates bigger than the container?
+363,no,Yes.,Is the container bigger than the suitcase?
+364,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+365,no,Answer: No.,Does the container fit in the chocolate?
+366,yes,"Answer: No.
+
+Despite the text stating that ""the box is bigger than the container",Does the box of chocolates fit in the box?
+367,no,"Answer: No.
+
+Despite the text stating that ""the chest fits inside the box,""",Does the box fit in the box of chocolates?
+368,no,"No.
+
+<context>
+The container is bigger than the box of chocolates.",Does the box fit in the container?
+369,no,Yes.,Does the box fit in the chest?
+370,no,No.,Is the box of chocolates bigger than the suitcase?
+371,no,Answer: no.,Is the chocolate bigger than the box?
+372,yes,Yes.,Is the suitcase bigger than the chocolate?
+373,no,Yes.,Is the container bigger than the suitcase?
+374,no,Answer: No.,Does the chest fit in the chocolate?
+375,yes,Yes.,Is the box bigger than the box of chocolates?
+376,no,Answer: No.,Is the box of chocolates bigger than the chest?
+377,yes,Answer: yes.,Is the suitcase bigger than the box of chocolates?
+378,yes,Answer: yes.,Does the box of chocolates fit in the container?
+379,no,Answer: no.,Is the chocolate bigger than the box?
+380,yes,"No.
+
+<context>
+The chest fits inside the suitcase. The suitcase is",Does the chocolate fit in the suitcase?
+381,no,Answer: no.,Is the chocolate bigger than the box?
+382,yes,No.,Does the chocolate fit in the container?
+383,no,Answer: No.,Is the chocolate bigger than the box?
+384,no,Answer: No.,Does the box fit in the chocolate?
+385,yes,Yes.,Is the chest bigger than the box of chocolates?
+386,no,No.,Does the container fit in the chocolate?
+387,yes,Yes.,Is the container bigger than the chocolate?
+388,yes,Yes.,Is the suitcase bigger than the chocolate?
+389,no,Answer: No.,Does the suitcase fit in the chocolate?
+390,no,Answer: No.,Is the box of chocolates bigger than the chest?
+391,yes,Yes.,Is the container bigger than the box of chocolates?
+392,no,Answer: No.,Does the box fit in the chocolate?
+393,no,"Answer: No.
+
+<context>
+The box is bigger than the chocolate. The box",Does the box fit in the chest?
+394,no,Answer: No.,Is the chocolate bigger than the container?
+395,no,Answer: no.,Does the box fit in the chocolate?
+396,yes,"Answer: yes.
+
+Despite the text stating that the chest fits inside the container and the",Does the box of chocolates fit in the container?
+397,no,Answer: no.,Is the chocolate bigger than the box?
+398,yes,"Yes.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the suitcase?
+399,no,Answer: No.,Does the container fit in the chocolate?
+400,no,"Answer: No.
+
+The suitcase fits inside the box, and the box is bigger than",Does the suitcase fit in the container?
+401,yes,Answer: no.,Does the chest fit in the suitcase?
+402,yes,Answer: No.,Does the chocolate fit in the chest?
+403,no,"Answer: No.
+
+The container is bigger than the chest, so the chest cannot fit inside",Does the container fit in the chest?
+404,no,Answer: no.,Does the container fit in the suitcase?
+405,no,Answer: no.,Is the chocolate bigger than the box?
+406,no,Answer: No.,Does the box fit in the chocolate?
+407,no,"Answer: No.
+
+The context states that the suitcase is bigger than the container. Therefore",Does the suitcase fit in the container?
+408,yes,Yes.,Does the chocolate fit in the chest?
+409,no,Answer: no.,Is the chocolate bigger than the container?
+410,yes,"No.
+
+<context>
+The chocolate fits inside the container. The box is bigger than",Is the box bigger than the container?
+411,no,Answer: No.,Does the chest fit in the chocolate?
+412,no,Answer: No.,Is the box of chocolates bigger than the chest?
+413,yes,"Answer: Yes.
+
+(Note: The context provided states that ""The box of chocol",Does the chocolate fit in the suitcase?
+414,no,Answer: No.,Does the box fit in the chocolate?
+415,no,Answer: no.,Does the box fit in the chocolate?
+416,no,Answer: no.,Is the chocolate bigger than the box?
+417,no,"Answer: No.
+
+The chest is bigger than the container, according to the context.",Does the chest fit in the container?
+418,yes,Yes.,Does the chocolate fit in the box?
+419,no,"Answer: No.
+
+The context states that the container fits inside the box. Therefore, the",Is the container bigger than the box?
+420,yes,Yes.,Is the chest bigger than the box?
+421,no,"Answer: yes. (However, the text states that the box is smaller than the suitcase,",Does the suitcase fit in the box?
+422,yes,Yes.,Is the chest bigger than the chocolate?
+423,yes,Yes.,Does the chocolate fit in the box?
+424,no,Answer: no.,Is the chocolate bigger than the box?
+425,no,"No.
+
+<context>
+The container is bigger than the box. The suitcase fits",Is the suitcase bigger than the container?
+426,no,Answer: no.,Is the chocolate bigger than the suitcase?
+427,no,Answer: no.,Does the suitcase fit in the chocolate?
+428,no,Answer: No.,Is the chocolate bigger than the chest?
+429,no,No.,Does the box fit in the chocolate?
+430,yes,Yes.,Does the box of chocolates fit in the box?
+431,no,Answer: no.,Does the chest fit in the suitcase?
+432,yes,Yes.,Is the chest bigger than the chocolate?
+433,no,"No.
+
+<context>
+The box of chocolates fits inside the chest. The",Is the box of chocolates bigger than the container?
+434,yes,Yes.,Is the box bigger than the chocolate?
+435,no,Answer: No.,Does the chest fit in the chocolate?
+436,no,"Answer: No.
+
+The context states that the box is bigger than the box of chocol",Is the box bigger than the container?
+437,no,"Answer: No.
+
+The box is bigger than the suitcase, according to the context provided",Does the box fit in the suitcase?
+438,no,Answer: No.,Does the box fit in the chocolate?
+439,yes,Yes.,Is the suitcase bigger than the chocolate?
+440,yes,Yes.,Does the chocolate fit in the box?
+441,yes,Yes.,Is the suitcase bigger than the container?
+442,yes,Yes.,Does the chocolate fit in the chest?
+443,no,Answer: No.,Is the chocolate bigger than the container?
+444,yes,"No.
+
+<context>
+The chest is bigger than the container. The chest is bigger",Does the chocolate fit in the suitcase?
+445,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+446,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+447,yes,Yes.,Does the suitcase fit in the container?
+448,yes,Yes.,Does the box of chocolates fit in the chest?
+449,yes,Yes.,Is the box bigger than the chocolate?
+450,yes,"Yes. (The context states that the box of chocolates fits inside the container, and the",Does the box of chocolates fit in the box?
+451,no,Answer: no.,Does the box fit in the chocolate?
+452,yes,Answer: yes.,Is the box bigger than the box of chocolates?
+453,no,Answer: No.,Does the chest fit in the box of chocolates?
+454,no,Answer: No.,Does the suitcase fit in the chocolate?
+455,yes,Yes.,Does the chocolate fit in the box?
+456,yes,Yes.,Does the box of chocolates fit in the suitcase?
+457,yes,Yes.,Does the box of chocolates fit in the chest?
+458,no,"Answer: No.
+
+<context>
+The box of chocolates fits inside the box",Is the container bigger than the chest?
+459,yes,Yes.,Does the suitcase fit in the chest?
+460,yes,Yes.,Is the box bigger than the chocolate?
+461,yes,Yes.,Is the chest bigger than the chocolate?
+462,no,Answer: no.,Is the chocolate bigger than the box?
+463,yes,Yes.,Does the chocolate fit in the suitcase?
+464,no,No.,Does the suitcase fit in the chocolate?
+465,no,Answer: No.,Does the chest fit in the chocolate?
+466,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+467,no,"Answer: No.
+
+<context>
+The box of chocolates fits inside the container",Is the box of chocolates bigger than the suitcase?
+468,yes,Yes.,Is the chest bigger than the chocolate?
+469,yes,Answer: no.,Does the chocolate fit in the container?
+470,yes,Yes.,Does the chocolate fit in the box?
+471,yes,"No.
+
+<context>
+The chest fits inside the container. The box is bigger than",Does the chest fit in the suitcase?
+472,no,Answer: no.,Is the chocolate bigger than the chest?
+473,no,Answer: yes.,Is the box of chocolates bigger than the box?
+474,no,Answer: no.,Is the chocolate bigger than the box?
+475,no,Answer: no.,Is the chocolate bigger than the box?
+476,yes,Yes.,Does the box of chocolates fit in the container?
+477,no,No.,Is the box of chocolates bigger than the container?
+478,yes,"Answer: No.
+
+The box of chocolates fits inside the container, but it is",Does the box of chocolates fit in the box?
+479,yes,"No.
+
+<context>
+The chest fits inside the suitcase. The suitcase is",Does the chocolate fit in the suitcase?
+480,no,Answer: No.,Is the box of chocolates bigger than the chest?
+481,yes,Answer: no.,Does the chocolate fit in the container?
+482,no,Answer: No.,Is the box of chocolates bigger than the container?
+483,no,Answer: No.,Does the container fit in the chocolate?
+484,no,Answer: No.,Is the box of chocolates bigger than the suitcase?
+485,yes,Yes.,Is the chest bigger than the box?
+486,yes,"No.
+
+<context>
+The box fits inside the chest. The chest is bigger than",Does the chocolate fit in the container?
+487,no,"No.
+
+<context>
+The box of chocolates is bigger than the chocolate.",Is the suitcase bigger than the container?
+488,no,Answer: No.,Does the suitcase fit in the chocolate?
+489,yes,Yes.,Does the box of chocolates fit in the box?
+490,yes,Yes.,Does the box of chocolates fit in the chest?
+491,no,Answer: No.,Does the chest fit in the chocolate?
+492,yes,Yes.,Does the suitcase fit in the chest?
+493,yes,Yes.,Is the box bigger than the box of chocolates?
+494,no,Answer: no.,Does the container fit in the box of chocolates?
+495,yes,Yes.,Is the chest bigger than the box of chocolates?
+496,no,Answer: No.,Does the suitcase fit in the chocolate?
+497,yes,Yes.,Does the chocolate fit in the box?
+498,no,Answer: No.,Does the container fit in the chocolate?
+499,no,Answer: No.,Does the chest fit in the chocolate?
+500,yes,Answer: no.,Does the box of chocolates fit in the container?
+501,no,Answer: No.,Does the box fit in the chocolate?
+502,no,"Answer: No.
+
+The context states that the suitcase fits inside the container twice, and",Does the container fit in the box of chocolates?
+503,no,No.,Is the box of chocolates bigger than the box?
+504,no,No.,Is the box of chocolates bigger than the box?
+505,no,Answer: No.,Is the box of chocolates bigger than the chest?
+506,no,Answer: No.,Does the container fit in the suitcase?
+507,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+508,yes,Yes.,Is the chest bigger than the box?
+509,yes,Yes.,Is the suitcase bigger than the chocolate?
+510,no,"No.
+
+<context>
+The chocolate fits inside the container. The chest fits inside the",Is the suitcase bigger than the box?
+511,no,Answer: no.,Is the chocolate bigger than the box?
+512,no,Answer: No.,Does the suitcase fit in the chocolate?
+513,yes,Answer: no.,Does the chocolate fit in the container?
+514,yes,Yes.,Is the container bigger than the chocolate?
+515,no,Answer: no.,Is the box bigger than the suitcase?
+516,no,Answer: no.,Is the chocolate bigger than the box?
+517,yes,Yes.,Is the chest bigger than the chocolate?
+518,yes,"Yes.
+
+<context>
+The box of chocolates fits inside the chest. The",Does the box of chocolates fit in the container?
+519,no,No.,Does the box fit in the chocolate?
+520,yes,"Answer: No.
+
+The chocolate fits inside the suitcase, and the suitcase is smaller",Does the chocolate fit in the container?
+521,no,Answer: no.,Is the chocolate bigger than the box?
+522,no,Answer: no.,Is the chocolate bigger than the suitcase?
+523,yes,Yes.,Does the chocolate fit in the container?
+524,yes,Yes.,Is the chest bigger than the chocolate?
+525,yes,Yes.,Is the box bigger than the chocolate?
+526,no,Answer: no.,Does the chest fit in the box of chocolates?
+527,yes,Yes.,Is the box bigger than the chocolate?
+528,yes,Yes.,Is the suitcase bigger than the chocolate?
+529,yes,"Answer: No.
+
+The chocolate fits inside the suitcase, and the suitcase is smaller",Does the chocolate fit in the container?
+530,no,Answer: No.,Does the suitcase fit in the chocolate?
+531,yes,Yes.,Does the chocolate fit in the box?
+532,yes,Yes.,Does the box of chocolates fit in the chest?
+533,no,No.,Does the container fit in the chocolate?
+534,no,"Answer: Yes. (The context states that the suitcase fits inside the chest, but since the",Does the suitcase fit in the chest?
+535,yes,Yes.,Is the container bigger than the chocolate?
+536,yes,Yes.,Is the suitcase bigger than the chocolate?
+537,no,Answer: No.,Does the container fit in the chocolate?
+538,no,Answer: no.,Does the chest fit in the chocolate?
+539,no,No.,Is the chocolate bigger than the box?
+540,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+541,yes,Yes.,Is the chest bigger than the box of chocolates?
+542,no,Answer: no.,Is the chocolate bigger than the container?
+543,no,"Answer: No.
+
+The chest is bigger than the box, so the box cannot fit inside",Does the chest fit in the box?
+544,yes,Yes.,Is the container bigger than the chocolate?
+545,yes,Yes.,Is the suitcase bigger than the chest?
+546,no,"No.
+
+<context>
+The chocolate fits inside the container. The box is bigger than",Is the suitcase bigger than the box?
+547,yes,Yes.,Is the chest bigger than the chocolate?
+548,no,No.,Does the box fit in the chocolate?
+549,yes,Yes.,Is the chest bigger than the chocolate?
+550,no,Answer: No.,Is the chocolate bigger than the container?
+551,yes,Yes.,Does the box of chocolates fit in the box?
+552,no,Answer: no.,Does the chest fit in the chocolate?
+553,yes,"No.
+
+<context>
+The chest is bigger than the suitcase. The container is",Does the suitcase fit in the container?
+554,no,Answer: no.,Is the chocolate bigger than the container?
+555,yes,"No.
+
+<context>
+The chest is bigger than the box of chocolates.",Does the box of chocolates fit in the container?
+556,no,Answer: no.,Is the chocolate bigger than the box?
+557,no,"No.
+
+<context>
+The container is bigger than the box of chocolates.",Does the box fit in the container?
+558,no,Answer: No.,Does the chest fit in the chocolate?
+559,no,"Answer: No.
+
+Despite the text stating that ""The box of chocolates fits",Does the box fit in the box of chocolates?
+560,no,Answer: no.,Is the chocolate bigger than the suitcase?
+561,no,Answer: No.,Does the chest fit in the chocolate?
+562,no,"Answer: yes.
+
+(Note: The context states that the container fits inside the box,",Does the box fit in the container?
+563,no,"Answer: No.
+
+The context states that the chest is bigger than the box.",Is the box bigger than the chest?
+564,no,"No. The container is bigger than the chest, and the suitcase is bigger than the container.",Is the chest bigger than the suitcase?
+565,yes,Yes.,Does the chocolate fit in the box?
+566,no,Answer: no.,Is the chocolate bigger than the chest?
+567,no,Answer: No.,Is the box of chocolates bigger than the chest?
+568,yes,Yes.,Is the suitcase bigger than the chocolate?
+569,yes,Yes.,Does the box fit in the container?
+570,yes,Yes.,Is the container bigger than the chocolate?
+571,yes,Answer: No.,Does the chocolate fit in the chest?
+572,no,Answer: no.,Does the box fit in the chocolate?
+573,no,"Answer: No.
+
+The context states that the chest fits inside the container, and the box",Does the box fit in the suitcase?
+574,no,Answer: No.,Does the box fit in the chocolate?
+575,no,Answer: No.,Does the container fit in the chocolate?
+576,no,Answer: No.,Does the suitcase fit in the chocolate?
+577,no,Answer: No.,Does the box fit in the chocolate?
+578,no,No.,Does the container fit in the chocolate?
+579,no,Answer: No.,Does the box fit in the chocolate?
+580,no,Answer: no.,Does the chest fit in the suitcase?
+581,no,Answer: no.,Is the chocolate bigger than the suitcase?
+582,no,Answer: No.,Does the chest fit in the chocolate?
+583,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+584,no,Answer: no.,Is the chocolate bigger than the suitcase?
+585,no,Answer: No.,Does the chest fit in the container?
+586,yes,Answer: no.,Does the chocolate fit in the chest?
+587,no,Answer: no.,Is the chocolate bigger than the suitcase?
+588,yes,Yes.,Is the container bigger than the chocolate?
+589,no,Answer: no.,Is the chocolate bigger than the box?
+590,no,No.,Is the box of chocolates bigger than the box?
+591,yes,"Answer: No.
+
+The box of chocolates fits inside the container, but the box",Does the container fit in the box?
+592,yes,"Answer: No.
+
+Despite the misleading statement ""The box of chocolates fits",Is the box bigger than the box of chocolates?
+593,yes,Yes.,Is the container bigger than the chocolate?
+594,no,"No.
+
+<context>
+The container is bigger than the box of chocolates.",Does the box fit in the container?
+595,no,Answer: no.,Is the chocolate bigger than the suitcase?
+596,yes,Yes. (The box is bigger than the box of chocolates.),Does the box of chocolates fit in the box?
+597,yes,Yes. (The box is bigger than the box of chocolates.),Does the box of chocolates fit in the box?
+598,yes,Yes.,Is the container bigger than the box?
+599,no,Answer: no.,Is the chocolate bigger than the box?
+600,no,Yes.,Does the suitcase fit in the box?
+601,yes,Yes.,Does the chocolate fit in the box?
+602,yes,Yes.,Is the chest bigger than the chocolate?
+603,no,Answer: No.,Does the box fit in the chocolate?
+604,yes,No.,Does the box of chocolates fit in the suitcase?
+605,yes,"Answer: yes.
+
+(Note: The context states that the box of chocolates fits",Does the chocolate fit in the container?
+606,yes,Answer: No.,Does the chocolate fit in the chest?
+607,yes,Yes.,Does the box of chocolates fit in the suitcase?
+608,no,No.,Is the box of chocolates bigger than the box?
+609,yes,Yes.,Does the chocolate fit in the container?
+610,yes,Yes.,Does the container fit in the chest?
+611,yes,No.,Does the chocolate fit in the suitcase?
+612,yes,Yes.,Is the container bigger than the chocolate?
+613,no,Answer: no.,Is the chocolate bigger than the box?
+614,no,Answer: no.,Is the chocolate bigger than the container?
+615,yes,Yes.,Is the suitcase bigger than the chocolate?
+616,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+617,no,Answer: no.,Does the box fit in the chocolate?
+618,no,Answer: no.,Is the chocolate bigger than the box?
+619,yes,Yes.,Is the chest bigger than the box of chocolates?
+620,no,Answer: No.,Does the container fit in the box of chocolates?
+621,no,No.,Is the box of chocolates bigger than the suitcase?
+622,no,Answer: no.,Is the chocolate bigger than the chest?
+623,yes,No.,Does the chocolate fit in the container?
+624,yes,Yes.,Is the container bigger than the box?
+625,yes,Yes.,Is the chest bigger than the box of chocolates?
+626,no,Answer: No.,Does the box fit in the chocolate?
+627,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+628,no,Answer: No.,Is the box of chocolates bigger than the chest?
+629,no,Answer: no.,Is the chocolate bigger than the chest?
+630,yes,"No.
+
+<context>
+The suitcase is bigger than the box. The container is",Does the box fit in the container?
+631,yes,Yes.,Does the chocolate fit in the suitcase?
+632,yes,Answer: no.,Does the chocolate fit in the chest?
+633,yes,"No.
+
+<context>
+The chest is bigger than the suitcase. The container is",Does the suitcase fit in the container?
+634,yes,Yes.,Is the suitcase bigger than the chocolate?
+635,yes,Yes.,Does the box of chocolates fit in the chest?
+636,yes,Yes.,Does the suitcase fit in the box?
+637,no,Answer: No.,Is the chocolate bigger than the container?
+638,yes,"No.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the container?
+639,yes,"No.
+
+<context>
+The box is bigger than the chocolate. The chocolate fits inside",Does the chocolate fit in the container?
+640,no,Answer: No.,Is the box bigger than the container?
+641,no,Answer: no.,Is the chocolate bigger than the chest?
+642,no,"Answer: No.
+
+(Based on the context provided, the chest is smaller than the container",Is the chest bigger than the container?
+643,no,No.,Does the container fit in the chocolate?
+644,yes,Answer: no.,Does the chocolate fit in the container?
+645,no,No.,Is the box of chocolates bigger than the container?
+646,yes,Yes.,Does the box of chocolates fit in the container?
+647,yes,Yes.,Is the suitcase bigger than the chocolate?
+648,no,"Answer: No.
+
+The context states that the chest fits inside the box, and the chest",Does the box fit in the suitcase?
+649,yes,Answer: yes.,Is the suitcase bigger than the chocolate?
+650,no,Yes.,Is the container bigger than the suitcase?
+651,no,Answer: no.,Is the chocolate bigger than the container?
+652,no,No.,Does the container fit in the chocolate?
+653,yes,Yes.,Does the box of chocolates fit in the container?
+654,no,Yes.,Is the container bigger than the box?
+655,yes,"Answer: yes.
+
+Despite the repetition in the context, the information provided is consistent",Does the container fit in the chest?
+656,no,Answer: No.,Is the box of chocolates bigger than the container?
+657,no,No.,Does the container fit in the chocolate?
+658,no,Answer: No.,Does the box fit in the chocolate?
+659,no,Answer: no.,Is the chocolate bigger than the box?
+660,no,Answer: No.,Is the box of chocolates bigger than the chest?
+661,yes,"Answer: No.
+
+Despite the text stating that the chocolate fits inside the suitcase,",Does the box of chocolates fit in the suitcase?
+662,no,"Answer: No.
+
+Despite the text stating that ""The box is bigger than the container",Does the box fit in the box of chocolates?
+663,yes,"Yes. (The container fits inside the box and the chocolate fits inside the container, so the chocolate",Does the chocolate fit in the box?
+664,yes,Yes.,Is the chest bigger than the chocolate?
+665,no,Answer: no.,Is the chocolate bigger than the chest?
+666,no,Answer: no.,Is the chocolate bigger than the container?
+667,yes,Yes.,Is the suitcase bigger than the chocolate?
+668,yes,Yes.,Is the suitcase bigger than the chest?
+669,yes,Answer: no.,Does the chocolate fit in the chest?
+670,yes,Answer: no.,Does the chocolate fit in the container?
+671,yes,"Answer: No.
+
+Despite the misleading statement in the context that ""The box is",Is the box bigger than the box of chocolates?
+672,yes,Yes.,Does the box fit in the container?
+673,yes,Yes.,Is the chest bigger than the box of chocolates?
+674,no,"Answer: No.
+
+The chest is bigger than the container, according to the context.",Does the chest fit in the container?
+675,no,No.,Is the box bigger than the suitcase?
+676,no,"Answer: No.
+
+The context states that the suitcase is bigger than the container. Therefore",Does the suitcase fit in the container?
+677,no,Answer: No.,Does the chest fit in the box of chocolates?
+678,no,Answer: no.,Is the chocolate bigger than the box?
+679,no,Answer: no.,Is the chocolate bigger than the box?
+680,yes,"Answer: yes.
+
+(Note: The context states that the box of chocolates fits",Does the chocolate fit in the container?
+681,yes,Yes.,Is the box bigger than the chocolate?
+682,no,Answer: No.,Is the box of chocolates bigger than the suitcase?
+683,yes,Yes.,Is the chest bigger than the chocolate?
+684,no,Answer: No.,Does the chest fit in the chocolate?
+685,no,Answer: no.,Is the chocolate bigger than the suitcase?
+686,no,No.,Does the container fit in the chocolate?
+687,no,Answer: no.,Is the chocolate bigger than the chest?
+688,no,"Answer: No.
+
+The container is bigger than the box of chocolates, but the",Is the container bigger than the box?
+689,no,Answer: no.,Is the chocolate bigger than the chest?
+690,no,Answer: No.,Does the suitcase fit in the box of chocolates?
+691,yes,Answer: No.,Does the chest fit in the box?
+692,no,"Answer: yes. (However, the text states that the box is smaller than the suitcase,",Does the suitcase fit in the box?
+693,yes,Yes.,Is the chest bigger than the box of chocolates?
+694,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+695,no,Answer: No.,Is the chocolate bigger than the chest?
+696,yes,Yes.,Does the box of chocolates fit in the suitcase?
+697,yes,Yes.,Is the box bigger than the box of chocolates?
+698,yes,Yes.,Is the chest bigger than the chocolate?
+699,yes,Yes.,Does the chocolate fit in the container?
+700,no,No.,Does the suitcase fit in the box of chocolates?
+701,no,Answer: no.,Is the chocolate bigger than the suitcase?
+702,yes,Yes.,Is the container bigger than the chocolate?
+703,no,No.,Is the chocolate bigger than the box?
+704,yes,Yes.,Is the container bigger than the suitcase?
+705,yes,Yes.,Is the chest bigger than the container?
+706,no,Answer: no.,Is the chocolate bigger than the box?
+707,yes,Yes.,Is the chest bigger than the box of chocolates?
+708,no,Answer: No.,Does the chest fit in the container?
+709,yes,Yes.,Is the chest bigger than the chocolate?
+710,yes,Yes.,Is the suitcase bigger than the chocolate?
+711,no,Answer: No.,Is the chocolate bigger than the container?
+712,no,"Answer: No.
+
+The chest is bigger than the box, so the box cannot fit inside",Does the chest fit in the box?
+713,yes,Yes.,Does the chocolate fit in the box?
+714,no,Answer: no.,Is the box bigger than the suitcase?
+715,no,Answer: No.,Does the container fit in the chocolate?
+716,no,"No.
+
+<context>
+The chest is bigger than the suitcase. The container fits",Is the container bigger than the chest?
+717,no,Answer: No.,Does the container fit in the chocolate?
+718,no,Answer: no.,Is the chocolate bigger than the box?
+719,no,Answer: no.,Is the chocolate bigger than the suitcase?
+720,yes,"Answer: No.
+
+The chocolate fits inside the suitcase, and the suitcase is smaller",Does the chocolate fit in the container?
+721,no,"Answer: yes.
+
+Despite the text stating that the box is bigger than the suitcase",Does the box fit in the suitcase?
+722,yes,Answer: no.,Does the box of chocolates fit in the chest?
+723,no,"Answer: no.
+
+<context>
+The container fits inside the box. The suitcase",Does the box fit in the suitcase?
+724,no,Answer: No.,Is the chocolate bigger than the container?
+725,no,"No.
+
+<context>
+The chocolate fits inside the container. The box is bigger than",Is the suitcase bigger than the box?
+726,yes,Yes.,Does the chocolate fit in the suitcase?
+727,yes,Yes.,Is the container bigger than the suitcase?
+728,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+729,yes,Yes.,Does the chocolate fit in the chest?
+730,no,Answer: no.,Is the chocolate bigger than the suitcase?
+731,yes,Yes.,Does the chocolate fit in the box?
+732,yes,No.,Does the chocolate fit in the container?
+733,yes,No.,Does the chocolate fit in the chest?
+734,yes,Yes.,Is the suitcase bigger than the chocolate?
+735,yes,Yes.,Is the container bigger than the box?
+736,no,Yes.,Is the chest bigger than the container?
+737,yes,"Answer: No.
+
+The box of chocolates fits inside the container, but the box",Does the container fit in the box?
+738,yes,"Answer: no.
+
+The chocolate fits inside the box of chocolates, and the box",Does the chocolate fit in the container?
+739,yes,Yes.,Does the chocolate fit in the box?
+740,yes,Yes.,Is the chest bigger than the chocolate?
+741,no,No.,Does the container fit in the box of chocolates?
+742,yes,"Yes.
+
+<context>
+The suitcase fits inside the chest. The box of ch",Does the chocolate fit in the box?
+743,no,Answer: No.,Does the chest fit in the chocolate?
+744,no,No.,Is the box of chocolates bigger than the container?
+745,yes,Yes.,Is the box bigger than the box of chocolates?
+746,no,Answer: no.,Is the chocolate bigger than the box?
+747,no,Answer: no.,Is the chocolate bigger than the suitcase?
+748,yes,Yes.,Does the chocolate fit in the chest?
+749,no,Answer: no.,Does the container fit in the box of chocolates?
+750,no,No.,Is the box of chocolates bigger than the suitcase?
+751,no,Answer: No.,Does the chest fit in the chocolate?
+752,yes,Yes.,Is the container bigger than the box of chocolates?
+753,no,Answer: No.,Does the chest fit in the chocolate?
+754,no,"No.
+
+<context>
+The container fits inside the box. The suitcase is bigger",Is the box of chocolates bigger than the suitcase?
+755,no,Answer: no.,Is the chocolate bigger than the chest?
+756,no,Answer: no.,Is the chocolate bigger than the chest?
+757,no,Answer: no.,Is the chocolate bigger than the suitcase?
+758,yes,Yes.,Does the box of chocolates fit in the suitcase?
+759,no,Answer: No.,Does the box fit in the box of chocolates?
+760,no,Answer: No.,Is the box bigger than the chest?
+761,yes,Yes.,Is the chest bigger than the chocolate?
+762,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+763,yes,Yes.,Does the chocolate fit in the container?
+764,no,Answer: No.,Is the box of chocolates bigger than the container?
+765,yes,Yes.,Is the box bigger than the chocolate?
+766,yes,"Answer: yes.
+
+Despite the text stating that the chest is bigger than the chocolate,",Does the chocolate fit in the chest?
+767,yes,Yes. (The box is bigger than the box of chocolates.),Does the box of chocolates fit in the box?
+768,yes,Yes.,Does the chocolate fit in the chest?
+769,yes,"Yes.
+
+<context>
+The box of chocolates fits inside the chest. The",Does the box of chocolates fit in the box?
+770,no,Answer: No.,Does the box fit in the chocolate?
+771,no,"Answer: No.
+
+The context states that the container fits inside the box. Therefore, the",Is the container bigger than the box?
+772,no,Answer: no.,Does the suitcase fit in the chocolate?
+773,no,Answer: no.,Is the chocolate bigger than the suitcase?
+774,no,Answer: No.,Is the chocolate bigger than the container?
+775,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+776,yes,"Yes. The context states that the container fits inside the box, and the container is bigger than the",Does the chocolate fit in the box?
+777,no,Answer: No.,Is the chocolate bigger than the container?
+778,no,Answer: no.,Is the chocolate bigger than the suitcase?
+779,yes,"Answer: Yes.
+
+(Note: The context provided states that ""The box of chocol",Does the chocolate fit in the suitcase?
+780,yes,Answer: No.,Does the chocolate fit in the chest?
+781,yes,Yes.,Does the suitcase fit in the container?
+782,no,No.,Does the suitcase fit in the chocolate?
+783,no,"Answer: no.
+
+<context>
+The container fits inside the box. The suitcase",Does the box fit in the suitcase?
+784,yes,Yes.,Is the suitcase bigger than the chocolate?
+785,no,No.,Is the box of chocolates bigger than the suitcase?
+786,no,Answer: No.,Does the suitcase fit in the chocolate?
+787,yes,Yes.,Does the chocolate fit in the box?
+788,yes,Answer: yes.,Is the suitcase bigger than the chocolate?
+789,no,Answer: no.,Is the chocolate bigger than the box?
+790,yes,Yes.,Is the chest bigger than the chocolate?
+791,no,"No.
+
+<context>
+The box is bigger than the chocolate. The box is bigger",Is the chest bigger than the box?
+792,yes,Answer: no.,Does the chocolate fit in the container?
+793,yes,"Yes.
+
+<context>
+The suitcase fits inside the chest. The box of ch",Does the chocolate fit in the box?
+794,no,Answer: no.,Is the chocolate bigger than the box?
+795,no,Answer: no.,Is the chocolate bigger than the box?
+796,no,Answer: No.,Does the box fit in the chocolate?
+797,no,"Answer: No.
+
+The context states that the suitcase fits inside the container, but it",Does the container fit in the box?
+798,no,Answer: no.,Is the chocolate bigger than the suitcase?
+799,no,Answer: no.,Is the chocolate bigger than the box?
+800,yes,Yes.,Is the container bigger than the chocolate?
+801,no,Answer: No.,Does the box fit in the chocolate?
+802,yes,No.,Does the box of chocolates fit in the suitcase?
+803,no,Yes.,Is the suitcase bigger than the box?
+804,no,Answer: no.,Does the suitcase fit in the chocolate?
+805,yes,Yes.,Is the container bigger than the chocolate?
+806,no,Answer: no.,Is the chocolate bigger than the box?
+807,yes,"No.
+
+<context>
+The suitcase is bigger than the box of chocolates",Does the box of chocolates fit in the suitcase?
+808,yes,Yes.,Is the container bigger than the chocolate?
+809,no,Answer: No.,Does the box fit in the chocolate?
+810,yes,Yes.,Does the box of chocolates fit in the chest?
+811,yes,Yes.,Does the chocolate fit in the box?
+812,yes,"Yes.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the suitcase?
+813,no,No.,Is the box of chocolates bigger than the container?
+814,yes,"Answer: No.
+
+The given context states that the suitcase is bigger than the container,",Is the box bigger than the container?
+815,yes,Yes.,Is the container bigger than the chocolate?
+816,no,Answer: no.,Is the chocolate bigger than the chest?
+817,no,Answer: No.,Does the suitcase fit in the chocolate?
+818,yes,Yes.,Is the container bigger than the chocolate?
+819,yes,"No.
+
+<context>
+The chocolate fits inside the box. The chest is bigger than",Does the chocolate fit in the container?
+820,no,Answer: yes. (Despite the text stating that the box is bigger than the box of ch,Does the box fit in the box of chocolates?
+821,yes,Answer: Yes. (The context states that the box of chocolates fits inside the suitcase,Does the box of chocolates fit in the box?
+822,no,"Answer: Yes.
+
+<context>
+The suitcase is bigger than the chest. The",Does the suitcase fit in the box?
+823,yes,Answer: yes.,Is the suitcase bigger than the chocolate?
+824,yes,"Yes.
+
+<context>
+The chocolate fits inside the box of chocolates. The",Does the chocolate fit in the suitcase?
+825,no,Answer: no.,Is the chocolate bigger than the suitcase?
+826,yes,Yes.,Does the box of chocolates fit in the container?
+827,no,Answer: No.,Is the chocolate bigger than the container?
+828,no,Answer: no.,Is the chocolate bigger than the box?
+829,yes,Yes.,Is the chest bigger than the chocolate?
+830,no,No.,Is the box of chocolates bigger than the suitcase?
+831,yes,Yes.,Is the container bigger than the chocolate?
+832,yes,Yes.,Is the chest bigger than the suitcase?
+833,no,Answer: no.,Is the chocolate bigger than the suitcase?
+834,no,Answer: No.,Is the box of chocolates bigger than the chest?
+835,yes,Yes.,Is the box bigger than the box of chocolates?
+836,yes,Answer: yes.,Does the container fit in the suitcase?
+837,yes,Yes.,Does the chocolate fit in the box?
+838,no,Answer: no.,Is the chocolate bigger than the container?
+839,yes,Yes.,Is the chest bigger than the chocolate?
+840,yes,Yes.,Is the chest bigger than the box of chocolates?
+841,yes,No.,Is the box bigger than the box of chocolates?
+842,yes,Yes.,Is the suitcase bigger than the chest?
+843,yes,Answer: No.,Does the chocolate fit in the suitcase?
+844,no,"Answer: No.
+
+The container is bigger than the suitcase, so it cannot fit inside",Does the container fit in the suitcase?
+845,yes,Yes.,Is the container bigger than the chocolate?
+846,no,Answer: No.,Is the box of chocolates bigger than the container?
+847,yes,Yes.,Is the chest bigger than the container?
+848,no,Answer: no.,Is the chocolate bigger than the chest?
+849,yes,Yes.,Is the container bigger than the chocolate?
+850,no,"Answer: No.
+
+<context>
+The box of chocolates fits inside the container",Is the box of chocolates bigger than the suitcase?
+851,no,Answer: no.,Is the chocolate bigger than the box?
+852,yes,Yes.,Is the container bigger than the box of chocolates?
+853,no,Answer: no.,Is the chocolate bigger than the box?
+854,yes,Yes.,Does the box of chocolates fit in the chest?
+855,yes,Yes.,Does the box of chocolates fit in the container?
+856,no,Answer: No.,Does the chest fit in the suitcase?
+857,no,Answer: No.,Does the chest fit in the box of chocolates?
+858,yes,Yes.,Does the box of chocolates fit in the container?
+859,no,Answer: no.,Is the chocolate bigger than the box?
+860,no,Answer: no.,Is the chocolate bigger than the box?
+861,no,Yes.,Is the box of chocolates bigger than the box?
+862,yes,Answer: no.,Does the box fit in the suitcase?
+863,yes,Yes.,Is the chest bigger than the chocolate?
+864,yes,Yes.,Is the container bigger than the box of chocolates?
+865,yes,Yes.,Is the container bigger than the chocolate?
+866,no,Answer: no.,Is the chocolate bigger than the chest?
+867,yes,"Answer: No.
+
+The context states that the chest fits inside the box, and the box",Does the chest fit in the suitcase?
+868,no,Answer: no.,Is the chocolate bigger than the chest?
+869,no,No.,Is the box of chocolates bigger than the suitcase?
+870,no,"Answer: No.
+
+The facts state that the chest fits inside the box, and the box",Does the suitcase fit in the chest?
+871,no,Answer: No.,Is the chocolate bigger than the chest?
+872,no,"Answer: no.
+
+<context>
+The container fits inside the box. The suitcase",Does the box fit in the suitcase?
+873,no,Answer: no.,Is the chocolate bigger than the chest?
+874,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+875,no,Answer: no.,Is the chocolate bigger than the container?
+876,yes,Yes.,Is the container bigger than the box of chocolates?
+877,no,Answer: No.,Does the chest fit in the box of chocolates?
+878,yes,"Yes. The context states that the container fits inside the box, and the container is bigger than the",Does the chocolate fit in the box?
+879,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+880,yes,Yes.,Is the suitcase bigger than the chocolate?
+881,yes,Answer: no.,Does the chocolate fit in the container?
+882,no,"Answer: No.
+
+The box is bigger than the suitcase, according to the context provided",Does the box fit in the suitcase?
+883,yes,"Answer: No.
+
+Despite the misleading statement ""The box of chocolates fits",Is the box bigger than the box of chocolates?
+884,yes,"No.
+
+<context>
+The chocolate fits inside the box. The chest is bigger than",Does the chocolate fit in the container?
+885,yes,"Answer: No.
+
+The container fits inside the box, and the box is smaller than the",Does the container fit in the suitcase?
+886,yes,Yes.,Is the suitcase bigger than the chest?
+887,yes,Yes.,Is the container bigger than the chocolate?
+888,no,Answer: No.,Does the chest fit in the chocolate?
+889,no,Answer: no.,Is the chocolate bigger than the suitcase?
+890,yes,Yes.,Does the chocolate fit in the box?
+891,yes,Yes.,Is the suitcase bigger than the container?
+892,no,"Answer: yes
+
+<context>
+The box of chocolates fits inside the chest.",Does the box fit in the box of chocolates?
+893,no,Answer: no.,Is the chocolate bigger than the chest?
+894,yes,Yes.,Is the box bigger than the chocolate?
+895,no,Answer: no.,Is the chocolate bigger than the suitcase?
+896,no,Answer: no.,Is the chocolate bigger than the box?
+897,no,No.,Does the container fit in the chocolate?
+898,no,"Answer: No.
+
+The context states that the chest is bigger than the container, so the",Does the chest fit in the container?
+899,no,Answer: no.,Is the chocolate bigger than the box?
+900,no,Answer: no.,Is the chocolate bigger than the box?
+901,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+902,yes,Answer: no.,Does the chocolate fit in the chest?
+903,yes,Yes.,Is the chest bigger than the chocolate?
+904,no,Answer: No.,Is the chocolate bigger than the container?
+905,no,"Answer: No.
+
+The context states that the chest fits inside the container, and the box",Is the box bigger than the container?
+906,no,Answer: no.,Is the chocolate bigger than the suitcase?
+907,yes,"No.
+
+<context>
+The chocolate fits inside the container. The box is bigger than",Does the container fit in the box?
+908,no,"Answer: No.
+
+<context>
+The chest is bigger than the box. The chest",Does the chest fit in the box?
+909,yes,Yes.,Is the suitcase bigger than the chest?
+910,no,"No. The container is bigger than the chest, and the suitcase is bigger than the container.",Is the chest bigger than the suitcase?
+911,yes,Yes.,Is the box bigger than the box of chocolates?
+912,no,Answer: no.,Is the chocolate bigger than the suitcase?
+913,no,Yes.,Is the chest bigger than the box?
+914,yes,No.,Does the chocolate fit in the container?
+915,no,No.,Is the box of chocolates bigger than the chest?
+916,no,Answer: no.,Is the chocolate bigger than the box?
+917,no,Answer: no.,Is the chocolate bigger than the box?
+918,no,Yes.,Does the box fit in the chest?
+919,no,Answer: no.,Is the chocolate bigger than the box?
+920,yes,Yes.,Does the box of chocolates fit in the chest?
+921,yes,Yes.,Is the container bigger than the chocolate?
+922,yes,"Answer: yes.
+
+Despite the contradictory statements in the context, the chocolate can",Does the chocolate fit in the container?
+923,no,Answer: No.,Is the box of chocolates bigger than the container?
+924,yes,"Answer: No.
+
+Despite the text stating that the chest fits inside the box, the",Does the box of chocolates fit in the container?
+925,yes,Yes.,Is the box bigger than the chocolate?
+926,no,No.,Does the container fit in the chocolate?
+927,no,Answer: no.,Is the chocolate bigger than the box?
+928,no,Answer: no.,Does the suitcase fit in the chocolate?
+929,yes,Yes.,Does the chocolate fit in the box?
+930,yes,Yes.,Is the container bigger than the chocolate?
+931,yes,Yes.,Does the chocolate fit in the box?
+932,yes,"Answer: No.
+
+Despite the text stating that ""the box is bigger than the container",Does the box of chocolates fit in the box?
+933,no,"Answer: No.
+
+Despite the repetition in the text, the second instance of """,Does the suitcase fit in the box of chocolates?
+934,no,Answer: No.,Does the box fit in the box of chocolates?
+935,no,"Answer: No.
+
+The chest is bigger than the box of chocolates, but the",Is the chest bigger than the box?
+936,no,Answer: no.,Does the box fit in the chocolate?
+937,yes,"No.
+
+<context>
+The chest is bigger than the suitcase. The container is",Does the box of chocolates fit in the suitcase?
+938,yes,Yes.,Does the suitcase fit in the container?
+939,yes,Yes.,Is the suitcase bigger than the box of chocolates?
+940,yes,Yes.,Is the container bigger than the chocolate?
+941,yes,Yes.,Is the container bigger than the box of chocolates?
+942,yes,Answer: No.,Does the chocolate fit in the chest?
+943,yes,Yes.,Does the chocolate fit in the chest?
+944,no,"Answer: No.
+
+The context states that the suitcase fits inside the container twice, and",Does the container fit in the box of chocolates?
+945,no,Answer: no.,Is the chocolate bigger than the chest?
+946,yes,Yes.,Does the chocolate fit in the chest?
+947,no,No.,Is the box of chocolates bigger than the box?
+948,yes,"Answer: No.
+
+The box of chocolates is bigger than the box, according to",Does the box of chocolates fit in the box?
+949,no,Answer: No.,Is the box of chocolates bigger than the container?
+950,yes,"No.
+
+<context>
+The chest is bigger than the suitcase. The container is",Does the suitcase fit in the container?
+951,no,Answer: No.,Does the box fit in the chocolate?
+952,no,Answer: no.,Is the chocolate bigger than the container?
+953,no,No.,Does the suitcase fit in the chocolate?
+954,yes,Yes.,Is the container bigger than the box of chocolates?
+955,yes,Yes.,Is the chest bigger than the chocolate?
+956,yes,Yes.,Is the chest bigger than the box of chocolates?
+957,no,"Answer: No.
+
+The context states that the box fits inside the suitcase, and the",Does the container fit in the box?
+958,no,Answer: No.,Does the box fit in the chocolate?
+959,yes,Yes.,Does the chocolate fit in the box?
+960,no,No.,Does the container fit in the chocolate?
+961,yes,"Answer: No.
+
+(The box is smaller than the container, as stated in the context",Is the box bigger than the container?
+962,yes,No.,Is the box bigger than the box of chocolates?
+963,no,Answer: no.,Is the chocolate bigger than the box?
+964,yes,Yes.,Does the chocolate fit in the box?
+965,yes,"No.
+
+<context>
+The chest is bigger than the chocolate. The chest is bigger",Is the suitcase bigger than the box of chocolates?
+966,no,Answer: No.,Does the container fit in the chocolate?
+967,no,No.,Is the box of chocolates bigger than the box?
+968,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+969,yes,Yes.,Is the container bigger than the box?
+970,no,Answer: no.,Does the suitcase fit in the box of chocolates?
+971,yes,Yes.,Is the chest bigger than the container?
+972,no,Answer: No.,Is the chocolate bigger than the container?
+973,no,"No.
+
+<context>
+The chocolate fits inside the container. The box is bigger than",Is the suitcase bigger than the box?
+974,yes,"Answer: No.
+
+Despite the text stating that the box of chocolates fits inside",Does the box of chocolates fit in the suitcase?
+975,no,"Answer: No.
+
+The context states that the container fits inside the box. Therefore, the",Is the container bigger than the box?
+976,no,Answer: No.,Is the chocolate bigger than the container?
+977,yes,Yes.,Is the chest bigger than the chocolate?
+978,no,"Answer: No.
+
+Despite the repetition in the text, the context states that the",Does the box fit in the box of chocolates?
+979,no,Answer: No.,Does the container fit in the chocolate?
+980,no,Answer: No.,Does the container fit in the chocolate?
+981,no,"Answer: No.
+
+The context states that the chest is bigger than the container, so the",Does the chest fit in the container?
+982,yes,Yes.,Is the chest bigger than the chocolate?
+983,no,Answer: no.,Does the chest fit in the suitcase?
+984,no,"Answer: yes.
+
+Despite the text stating that the box is bigger than the box of",Does the box fit in the box of chocolates?
+985,yes,Answer: No.,Does the chocolate fit in the chest?
+986,no,"No.
+
+<context>
+The chocolate fits inside the container. The chest fits inside the",Is the suitcase bigger than the box?
+987,no,Answer: no.,Does the chest fit in the chocolate?
+988,yes,No.,Does the chocolate fit in the container?
+989,no,Answer: no.,Is the chocolate bigger than the chest?
+990,yes,Yes.,Does the chocolate fit in the container?
+991,no,Answer: no.,Is the chocolate bigger than the box?
+992,yes,Yes,Does the box of chocolates fit in the container?
+993,no,"No. The container is bigger than the chest, and the suitcase is bigger than the container.",Is the chest bigger than the suitcase?
+994,yes,Yes.,Does the box of chocolates fit in the container?
+995,no,Answer: no.,Is the chocolate bigger than the chest?
+996,no,"Yes.
+
+<context>
+The box of chocolates fits inside the chest. The",Does the box fit in the chest?
+997,yes,"Yes. The text states that the chocolate fits inside the container, and the box of chocolates",Does the chocolate fit in the box?
+998,no,Answer: no.,Is the chocolate bigger than the suitcase?

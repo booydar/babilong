@@ -1,0 +1,4028 @@
+,target,output,question
+0,hallway,"Label: hallway
+
+
+Context:",Where is John? 
+1,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+2,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Sandra? 
+3,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Sandra? 
+4,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Sandra? 
+5,hallway,"Label: hallway
+
+
+Context: A man travelled to the bathroom.",Where is Sandra? 
+6,garden,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Sandra? 
+7,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Daniel? 
+8,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+9,office,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Daniel? 
+10,kitchen,"Label: office
+
+
+Context:",Where is Mary? 
+11,garden,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is Mary? 
+12,office,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is Daniel? 
+13,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+14,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+15,kitchen,"Label: hallway
+
+
+Context: <context>
+John moved to the hall",Where is John? 
+16,garden,"Label: hallway
+
+
+Context: John moved to the hallway. John journey",Where is John? 
+17,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is John? 
+18,office,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Daniel? 
+19,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is John? 
+20,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is Mary? 
+21,office,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is John? 
+22,office,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is John? 
+23,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is Sandra? 
+24,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is Daniel? 
+25,bedroom,"Label: bedroom
+
+
+Context: <context>
+Sandra moved to the",Where is Sandra? 
+26,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bedroom. Daniel went",Where is Mary? 
+27,kitchen,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+28,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+29,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+30,hallway,"Label: office
+
+Context: <context>
+Sandra went to the hallway",Where is Sandra? 
+31,office,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is John? 
+32,kitchen,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is Sandra? 
+33,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+34,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Sandra? 
+35,office,"Label: office
+
+
+Context: Mary went back to the bedroom. Mary went",Where is Mary? 
+36,bathroom,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Mary",Where is Mary? 
+37,garden,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Mary",Where is Mary? 
+38,kitchen,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Mary",Where is Sandra? 
+39,bedroom,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Mary",Where is Daniel? 
+40,bathroom,"Label: office
+
+Context: A man went to the office. A man went to",Where is Sandra? 
+41,garden,"Label: bedroom
+
+
+Context: A man went to the office. A woman",Where is Daniel? 
+42,bathroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+43,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+44,garden,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+45,kitchen,"Output: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Mary? 
+46,hallway,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Daniel? 
+47,bathroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Sandra? 
+48,office,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is John? 
+49,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is John? 
+50,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the hallway. John",Where is John? 
+51,office,"Label: bedroom
+
+
+Context: John journeyed to the hallway. John",Where is John? 
+52,garden,"Label: bedroom
+
+
+Context: John journeyed to the hallway. John",Where is John? 
+53,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is John? 
+54,kitchen,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is Daniel? 
+55,bedroom,"Output: bedroom
+
+
+Context: Mary went to the bedroom. Daniel journey",Where is Mary? 
+56,kitchen,"Label: bedroom
+
+
+Context: Mary went to the bedroom. Daniel journey",Where is Mary? 
+57,hallway,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel journey",Where is Mary? 
+58,garden,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel journey",Where is Daniel? 
+59,hallway,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel journey",Where is Sandra? 
+60,hallway,"Label: hallway
+
+
+Context: <context>
+Sandra went back to",Where is Sandra? 
+61,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+62,bathroom,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is Sandra? 
+63,garden,"Label: office
+
+
+Context: John went back to the hallway. Daniel went",Where is Daniel? 
+64,garden,"Label: hallway
+
+
+Context: John went back to the hallway. Daniel",Where is Daniel? 
+65,kitchen,"Label: back
+
+
+Context: John went to the kitchen. Mary went back to",Where is John? 
+66,kitchen,"Label: hallway
+
+
+Context: Mary went to the bathroom. John went",Where is John? 
+67,bathroom,"Label: hallway
+
+
+Context: Mary went to the bathroom. John went",Where is Daniel? 
+68,office,"Label: bedroom
+
+
+Context: Mary went to the hallway. John went",Where is Daniel? 
+69,office,"Label: hallway
+
+
+Context: Mary went to the hallway. John went",Where is Daniel? 
+70,garden,"Output: garden
+
+Context: The man journeyed to the bedroom. The woman",Where is Mary? 
+71,hallway,"Label: hallway
+
+
+Context: The man journeyed to the bedroom.",Where is Sandra? 
+72,garden,"Label: office
+
+
+Context: The man journeyed to the bedroom. The",Where is Mary? 
+73,bedroom,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is Mary? 
+74,bathroom,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is Mary? 
+75,kitchen,"Label: kitchen
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+76,kitchen,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is John? 
+77,kitchen,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+78,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+79,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+80,garden,"Output: garden
+
+Context: A: I'm going to the store.",Where is John? 
+81,bathroom,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is John? 
+82,bedroom,"Label: garden
+
+
+Context: Daniel went to the garden. John travelled to",Where is Sandra? 
+83,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Mary? 
+84,office,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+85,garden,"Output: garden
+
+
+Context:",Where is Sandra? 
+86,garden,"Label: garden
+
+
+Context:",Where is Mary? 
+87,hallway,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is John? 
+88,kitchen,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is Sandra? 
+89,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+90,bathroom,"Label: bathroom
+
+Context: A man went to the bathroom. A man",Where is Sandra? 
+91,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is John? 
+92,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+93,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+94,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+95,kitchen,"Label: kitchen
+
+
+Context: <context>
+John travelled to the bath",Where is John? 
+96,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+97,kitchen,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is Mary? 
+98,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Mary? 
+99,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+100,bedroom,"Output: bedroom
+
+
+Context: A man went to the store. A man",Where is Mary? 
+101,bathroom,"Label: bathroom
+
+
+Context: Mary went to the garden. Mary went to",Where is Sandra? 
+102,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Mary? 
+103,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+104,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is Daniel? 
+105,hallway,"Output: hallway
+
+
+Context: A man went to the office. A man",Where is Mary? 
+106,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is Daniel? 
+107,bathroom,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is Daniel? 
+108,office,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is Daniel? 
+109,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is John? 
+110,bathroom,"Label: office
+
+Context: A man went to the office. A man went to",Where is Daniel? 
+111,bathroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+112,kitchen,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is John? 
+113,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel travelled",Where is John? 
+114,kitchen,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel travelled",Where is Mary? 
+115,garden,"Label: office
+
+
+Context: John went to the garden. John went to the",Where is Sandra? 
+116,office,"Label: office
+
+
+Context: John went back to the garden. Mary went back",Where is John? 
+117,kitchen,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+118,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+119,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+120,bedroom,"Label: bedroom
+
+Context: A man went to the office. A man went",Where is Daniel? 
+121,bathroom,"Label: bedroom
+
+Context: Daniel journeyed to the office. Daniel travelled",Where is Mary? 
+122,bedroom,"Label: office
+
+Context: Daniel journeyed to the office. Daniel travelled to",Where is Daniel? 
+123,hallway,"Label: office
+
+Context: Daniel journeyed to the office. Daniel travelled to",Where is Daniel? 
+124,bedroom,"Label: office
+
+Context: Daniel journeyed to the office. Daniel travelled to",Where is Mary? 
+125,office,"Label: office
+
+
+Context: John moved to the office. John went to the",Where is Sandra? 
+126,garden,"Label: garden
+
+
+Context:
+
+John went to the office. Daniel went",Where is John? 
+127,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+128,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Sandra? 
+129,bathroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+130,garden,"Output: hallway
+
+Context: Mary journeyed to the hallway. Mary journey",Where is Sandra? 
+131,hallway,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is Mary? 
+132,bathroom,"Label: office
+
+
+Context: John went back to the bedroom. Mary journey",Where is Sandra? 
+133,garden,"Label: garden
+
+
+Context: John went to the hallway. Mary journeyed",Where is Sandra? 
+134,kitchen,"Label: bedroom
+
+
+Context: Mary journeyed to the hallway. Daniel",Where is John? 
+135,bathroom,"Label: bathroom
+
+Context: Daniel moved to the bathroom. Daniel moved to",Where is Sandra? 
+136,office,"Label: office
+
+Context: Daniel moved to the bathroom. Daniel journeyed to",Where is Sandra? 
+137,kitchen,"Label: office
+
+
+Context: Daniel moved to the bathroom. Daniel journeyed",Where is John? 
+138,bathroom,"Label: office
+
+
+Context: Daniel moved to the bathroom. Daniel journeyed",Where is Sandra? 
+139,bathroom,"Label: office
+
+
+Context: Daniel moved to the bathroom. Daniel journeyed",Where is John? 
+140,office,"Output: office
+
+
+Context: A man went to the store. A man went",Where is Mary? 
+141,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Mary? 
+142,hallway,"Label: office
+
+
+Context: John went to the office. John went to the",Where is Mary? 
+143,office,"Label: office
+
+
+Context: Mary journeyed to the garden. Mary travelled",Where is Sandra? 
+144,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the garden. Mary travel",Where is Sandra? 
+145,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is Sandra? 
+146,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. John went",Where is Sandra? 
+147,kitchen,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+148,kitchen,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Sandra? 
+149,kitchen,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+150,garden,"Output: bedroom
+
+
+Context: Mary went to the garden. Daniel went to",Where is Daniel? 
+151,garden,"Label: garden
+
+
+Context: Mary went to the garden. Daniel went to the",Where is Sandra? 
+152,bathroom,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+153,office,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+154,bedroom,"Label: office
+
+
+Context: Mary went to the office. Daniel went to the",Where is John? 
+155,bathroom,"Label: bedroom
+
+Context: A man went to the bathroom. A woman",Where is Mary? 
+156,garden,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Daniel? 
+157,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Daniel went",Where is John? 
+158,office,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Daniel journey",Where is John? 
+159,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Mary? 
+160,bedroom,"Label: hallway
+
+
+Context: The man went to the bedroom. The",Where is Daniel? 
+161,bedroom,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Daniel journey",Where is Daniel? 
+162,bedroom,"Label: bedroom
+
+
+Context: Daniel moved to the bedroom. Daniel journey",Where is Mary? 
+163,garden,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Daniel journey",Where is Mary? 
+164,bathroom,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Daniel journey",Where is Daniel? 
+165,garden,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is Sandra? 
+166,garden,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Sandra? 
+167,garden,"Label: bedroom
+
+
+Context: Mary went back to the hallway. Daniel",Where is Daniel? 
+168,kitchen,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Daniel? 
+169,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Mary? 
+170,office,"Label: office
+
+Context: A man journeyed to the office. A man journey",Where is Daniel? 
+171,office,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is Daniel? 
+172,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is John? 
+173,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is Sandra? 
+174,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is Sandra? 
+175,office,"Label: office
+
+
+Context: A man went to the office. A man went",Where is Sandra? 
+176,kitchen,"Label: hallway
+
+
+Context: A man went to the office. A man",Where is Sandra? 
+177,bedroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+178,office,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is Sandra? 
+179,office,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is Sandra? 
+180,hallway,"Label: hallway
+
+
+Context: A man went to the office. A man",Where is Mary? 
+181,hallway,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is Mary? 
+182,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+183,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+184,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is Sandra? 
+185,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. Mary went",Where is John? 
+186,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+187,garden,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+188,kitchen,"Label: bathroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+189,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+190,hallway,"Label: hallway
+
+
+Context: <context>
+Sandra went to the",Where is Mary? 
+191,kitchen,"Label: hallway
+
+
+Context: A man went to the office. A woman",Where is Sandra? 
+192,garden,"Label: hallway
+
+
+Context: John went to the hallway. Mary went",Where is Sandra? 
+193,hallway,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Sandra? 
+194,hallway,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Sandra? 
+195,garden,"Label: garden
+
+
+Context:",Where is Mary? 
+196,office,"Label: office
+
+
+Context: John went to the office. Mary travelled to",Where is John? 
+197,kitchen,"Label: office
+
+
+Context: John went to the office. Mary travelled to",Where is Daniel? 
+198,bathroom,"Label: office
+
+
+Context: John went to the office. Mary travelled to",Where is Mary? 
+199,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Mary travelled",Where is John? 
+200,hallway,"Label: office
+
+
+Context: Mary moved to the hallway. Daniel travelled",Where is Mary? 
+201,office,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is John? 
+202,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+203,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+204,hallway,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is Sandra? 
+205,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is Sandra? 
+206,kitchen,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is Mary? 
+207,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Mary went",Where is Sandra? 
+208,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is Daniel? 
+209,hallway,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel went to",Where is John? 
+210,bathroom,"Label: garden
+
+
+Context:
+
+John moved to the bathroom.",Where is John? 
+211,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is John? 
+212,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+213,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+214,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+215,bedroom,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is Mary? 
+216,bathroom,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is John? 
+217,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is John? 
+218,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+219,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+220,bathroom,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Mary? 
+221,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Daniel? 
+222,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is Daniel? 
+223,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Sandra? 
+224,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Daniel went",Where is John? 
+225,office,"Label: office
+
+
+Context: Daniel travelled to the hallway. John moved",Where is John? 
+226,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Daniel? 
+227,garden,"Label: office
+
+
+Context: Daniel travelled to the hallway. John went",Where is Sandra? 
+228,bathroom,"Label: office
+
+
+Context: Daniel travelled to the hallway. John went",Where is John? 
+229,bathroom,"Label: office
+
+
+Context: Daniel travelled to the hallway. John moved",Where is John? 
+230,office,"Label: office
+
+Context: A man went to the bathroom. A woman went",Where is Daniel? 
+231,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is Mary? 
+232,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+233,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+234,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+235,bedroom,"Output: bedroom
+
+Context: Daniel went to the garden. Mary went to the",Where is Mary? 
+236,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the garden. Mary moved to",Where is Mary? 
+237,bedroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Mary moved to",Where is Mary? 
+238,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the garden. Mary moved to",Where is Daniel? 
+239,office,"Label: bedroom
+
+
+Context: Daniel went to the garden. Mary moved to",Where is Sandra? 
+240,hallway,"Label: hallway
+
+
+Context: Mary went back to the hallway. Daniel",Where is Daniel? 
+241,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+242,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+243,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+244,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+245,kitchen,"Label: kitchen
+
+
+Context: A man went to the kitchen. A woman went",Where is John? 
+246,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Sandra? 
+247,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+248,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+249,garden,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+250,bedroom,"Label: bedroom
+
+
+Context: <context>
+Mary went back to",Where is Daniel? 
+251,office,"Label: bedroom
+
+
+Context: Mary went back to the office. Daniel went",Where is Mary? 
+252,bathroom,"Label: bedroom
+
+
+Context: Mary went back to the office. Daniel went",Where is Daniel? 
+253,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+254,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+255,bedroom,"Label: garden
+
+Context: <context>
+Sandra moved to the garden.",Where is John? 
+256,office,"Label: office
+
+
+Context: John went to the garden. Mary journeyed to",Where is Sandra? 
+257,office,"Label: bedroom
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+258,kitchen,"Label: bedroom
+
+
+Context: John went to the garden. Mary went to",Where is Mary? 
+259,garden,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is Mary? 
+260,garden,"Output: bedroom
+
+
+Context: <context>
+Mary went back to",Where is Sandra? 
+261,office,"Label: office
+
+
+Context: The man went to the bedroom. The woman",Where is Mary? 
+262,hallway,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Daniel",Where is Sandra? 
+263,office,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Daniel",Where is John? 
+264,office,"Label: hallway
+
+
+Context: Mary went back to the bedroom. Daniel",Where is John? 
+265,bathroom,"Label: garden
+
+Context: John was a doctor. He was a doctor.",Where is Sandra? 
+266,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is Sandra? 
+267,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+268,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+269,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+270,kitchen,"Label: bathroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+271,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Sandra? 
+272,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel moved to",Where is Sandra? 
+273,kitchen,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+274,bathroom,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+275,office,"Label: office
+
+Context: A man was walking down the street. He saw a",Where is Sandra? 
+276,kitchen,"Label: garden
+
+
+Context: <context>
+Sandra moved to the office",Where is Daniel? 
+277,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+278,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+279,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+280,bathroom,"Label: office
+
+Context: A man went to the office. A man went to",Where is Sandra? 
+281,garden,"Label: bedroom
+
+
+Context: A man went to the office. A man",Where is Daniel? 
+282,office,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is Sandra? 
+283,office,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is Sandra? 
+284,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is John? 
+285,office,"Label: office
+
+
+Context: <context>
+Sandra went to the bed",Where is John? 
+286,bathroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Mary went",Where is Sandra? 
+287,office,"Label: office
+
+
+Context: John went to the bedroom. Daniel went to",Where is John? 
+288,garden,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+289,bathroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Sandra? 
+290,kitchen,"Label: kitchen
+
+
+Context:",Where is Mary? 
+291,kitchen,"Label: hallway
+
+
+Context: John travelled to the bathroom. Mary",Where is John? 
+292,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is John? 
+293,kitchen,"Label: hallway
+
+
+Context: John travelled to the hallway. Mary",Where is Mary? 
+294,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+295,garden,"Label: garden
+
+Context: A: The man is in the garden.",Where is Sandra? 
+296,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+297,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+298,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+299,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+300,bathroom,"Output: bathroom
+
+
+Context: The man went to the bathroom. The",Where is Mary? 
+301,bathroom,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary journey",Where is Mary? 
+302,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+303,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+304,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+305,garden,"Label: garden
+
+Context: A man went to the bathroom. A man went",Where is Daniel? 
+306,bathroom,"Label: bedroom
+
+
+Context: The man went to the bathroom. The",Where is Daniel? 
+307,office,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+308,office,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+309,kitchen,"Label: bathroom
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is John? 
+310,garden,"Label: garden
+
+
+Context: The man journeyed to the garden. The woman",Where is Daniel? 
+311,garden,"Label: office
+
+
+Context: John journeyed to the garden. Daniel journeyed",Where is Sandra? 
+312,office,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Daniel? 
+313,bedroom,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Sandra? 
+314,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is John? 
+315,office,"Label: office
+
+Context:
+
+John went to the garden.",Where is Mary? 
+316,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Daniel? 
+317,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+318,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+319,garden,"Label: bedroom
+
+
+Context: John went to the garden. Mary went to",Where is Daniel? 
+320,garden,"Label: garden
+
+Context: John went to the garden.
+
+Label: garden",Where is John? 
+321,kitchen,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is Sandra? 
+322,kitchen,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Sandra? 
+323,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+324,garden,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+325,bathroom,"Label: bedroom
+
+
+Context: Daniel travelled to the bedroom. Daniel",Where is Sandra? 
+326,bedroom,"Label: bedroom
+
+
+Context: Daniel travelled to the bedroom. John",Where is John? 
+327,garden,"Label: office
+
+
+Context: Daniel travelled to the bedroom. John went",Where is Sandra? 
+328,garden,"Label: office
+
+
+Context: Daniel travelled to the bedroom. John went",Where is Sandra? 
+329,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+330,kitchen,"Output: hallway
+
+Context: Daniel journeyed to the hallway. Daniel journey",Where is Sandra? 
+331,office,"Label: office
+
+
+Context: Daniel journeyed to the hallway. John went",Where is John? 
+332,kitchen,"Label: office
+
+Context: Daniel journeyed to the hallway. John went to",Where is Sandra? 
+333,bedroom,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is Daniel? 
+334,bedroom,"Label: office
+
+
+Context: Daniel journeyed to the hallway. John went",Where is Daniel? 
+335,office,"Label: garden
+
+
+Context:",Where is John? 
+336,hallway,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is Daniel? 
+337,office,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is Sandra? 
+338,hallway,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is Sandra? 
+339,hallway,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is Sandra? 
+340,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Mary? 
+341,garden,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Mary? 
+342,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Daniel? 
+343,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is Sandra? 
+344,garden,"Label: bedroom
+
+
+Context: Mary went to the hallway. Mary went",Where is Sandra? 
+345,office,"Output: office
+
+
+Context: <context>
+Daniel went back to the hall",Where is Mary? 
+346,hallway,"Label: hallway
+
+
+Context: <context>
+Daniel went back to the",Where is Daniel? 
+347,hallway,"Label: hallway
+
+
+Context: Daniel went back to the hallway. Mary",Where is John? 
+348,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Mary? 
+349,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is John? 
+350,bedroom,"Label: garden
+
+Context: John travelled to the garden.
+
+Label:",Where is Sandra? 
+351,garden,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is John? 
+352,garden,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is Sandra? 
+353,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+354,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+355,bathroom,"Output: office
+
+
+Context: A man went to the bathroom. A woman",Where is Sandra? 
+356,office,"Label: office
+
+
+Context: John went to the bathroom. Mary journeyed",Where is John? 
+357,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is Mary? 
+358,garden,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Mary? 
+359,hallway,"Label: hallway
+
+
+Context: John went to the office. Mary journeyed",Where is Mary? 
+360,garden,"Label: garden
+
+
+Context: <context>
+Daniel went back to the garden",Where is Daniel? 
+361,bathroom,"Label: bathroom
+
+
+Context: Daniel went back to the garden. Daniel went",Where is Daniel? 
+362,garden,"Label: garden
+
+
+Context: Daniel went back to the bathroom. Daniel went",Where is Mary? 
+363,garden,"Label: garden
+
+
+Context: Daniel went back to the bathroom. Daniel went",Where is John? 
+364,garden,"Label: garden
+
+
+Context: Daniel went back to the bathroom. Daniel went",Where is Daniel? 
+365,garden,"Label: hallway
+
+
+Context: <context>
+Sandra went to the",Where is Sandra? 
+366,garden,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Sandra? 
+367,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+368,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Mary? 
+369,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Daniel? 
+370,hallway,"Output: hallway
+
+
+Context: A man went to the office. A man",Where is Daniel? 
+371,hallway,"Label: hallway
+
+
+Context: Daniel travelled to the office. Daniel journey",Where is Daniel? 
+372,garden,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is Mary? 
+373,garden,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is Mary? 
+374,office,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is Mary? 
+375,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the office. John journey",Where is Mary? 
+376,kitchen,"Label: bedroom
+
+
+Context: Mary journeyed to the office. Mary journey",Where is Sandra? 
+377,bathroom,"Label: office
+
+
+Context: Mary journeyed to the office. Mary journeyed",Where is Sandra? 
+378,bathroom,"Label: office
+
+
+Context: Mary journeyed to the office. Mary journeyed",Where is Sandra? 
+379,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the office. Mary journey",Where is John? 
+380,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Mary went",Where is Mary? 
+381,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is John? 
+382,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+383,office,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is Sandra? 
+384,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+385,kitchen,"Label: bathroom
+
+Context: The man journeyed to the bathroom. The",Where is Sandra? 
+386,office,"Label: office
+
+
+Context: The man journeyed to the office. The woman",Where is Mary? 
+387,office,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. Daniel",Where is John? 
+388,office,"Label: office
+
+
+Context: John journeyed to the office. Daniel journeyed",Where is Mary? 
+389,kitchen,"Label: office
+
+
+Context: John journeyed to the office. Daniel journeyed",Where is Sandra? 
+390,kitchen,"Output: garden
+
+Context: A: I'm going to the store.",Where is Mary? 
+391,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+392,bathroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Mary? 
+393,bedroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Mary? 
+394,office,"Label: hallway
+
+
+Context: Daniel went to the garden. Mary went to",Where is Sandra? 
+395,office,"Label: office
+
+
+Context: <context>
+Daniel went back to the office",Where is Daniel? 
+396,bedroom,"Label: bedroom
+
+
+Context: <context>
+John went back to the",Where is Daniel? 
+397,office,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+398,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the garden. Daniel went",Where is Sandra? 
+399,garden,"Label: hallway
+
+
+Context: Daniel went back to the bedroom. Daniel",Where is Sandra? 
+400,bedroom,"Label: bedroom
+
+
+Context: <context>
+Sandra went to the",Where is John? 
+401,garden,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is John? 
+402,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. John went to",Where is John? 
+403,kitchen,"Label: bedroom
+
+
+Context: John went to the garden. John went to",Where is Sandra? 
+404,office,"Label: bedroom
+
+
+Context: John went to the garden. John went to",Where is Sandra? 
+405,kitchen,"Label: bedroom
+
+Context: Daniel journeyed to the bedroom. Daniel journey",Where is Daniel? 
+406,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is Daniel? 
+407,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is Sandra? 
+408,garden,"Label: office
+
+
+Context: Daniel journeyed to the hallway. Daniel journey",Where is Mary? 
+409,kitchen,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is Sandra? 
+410,bedroom,"Label: bedroom
+
+
+Context: <context>
+John went back to the",Where is John? 
+411,garden,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+412,bathroom,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+413,hallway,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Daniel? 
+414,office,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+415,bedroom,"Label: bedroom
+
+
+Context: A man went to the park. A woman",Where is Daniel? 
+416,bedroom,"Label: bedroom
+
+
+Context: John went to the hallway. Daniel went",Where is Daniel? 
+417,kitchen,"Label: bedroom
+
+
+Context: Mary went to the hallway. Daniel went",Where is John? 
+418,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Sandra? 
+419,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. Daniel went",Where is Sandra? 
+420,hallway,"Label: hallway
+
+
+Context: <context>
+Sandra went back to",Where is Sandra? 
+421,hallway,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is Sandra? 
+422,bathroom,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is Sandra? 
+423,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Mary went",Where is Daniel? 
+424,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Mary? 
+425,kitchen,"Label: bathroom
+
+
+Context: <context>
+John travelled to the",Where is John? 
+426,kitchen,"Label: bathroom
+
+
+Context: John travelled to the bathroom. Daniel",Where is John? 
+427,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+428,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+429,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+430,office,"Label: office
+
+
+Context: <context>
+John went to the office.",Where is John? 
+431,kitchen,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is John? 
+432,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is Mary? 
+433,kitchen,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is Mary? 
+434,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+435,garden,"Output: garden
+
+
+Context: John went to the garden. Mary went to the",Where is Sandra? 
+436,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is Mary? 
+437,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+438,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+439,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel went to",Where is John? 
+440,bedroom,"Label: garden
+
+
+Context: <context>
+Sandra went back to the",Where is Sandra? 
+441,hallway,"Label: hallway
+
+
+Context: <context>
+Sandra went back to",Where is Daniel? 
+442,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+443,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+444,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+445,garden,"Label: bedroom
+
+
+Context: A man went to the store. He bought",Where is Daniel? 
+446,bedroom,"Label: bedroom
+
+
+Context: Daniel travelled to the garden. Daniel journey",Where is Sandra? 
+447,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Daniel? 
+448,garden,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Daniel? 
+449,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Sandra? 
+450,kitchen,"Label: bathroom
+
+
+Context: <context>
+John went back to the",Where is John? 
+451,kitchen,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is John? 
+452,kitchen,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+453,garden,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+454,bathroom,"Label: bedroom
+
+
+Context: John went back to the bathroom. John",Where is Sandra? 
+455,kitchen,"Label: office
+
+Context: Daniel journeyed to the office. Daniel journeyed to",Where is Sandra? 
+456,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is Mary? 
+457,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is John? 
+458,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is John? 
+459,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is Sandra? 
+460,bathroom,"Label: office
+
+Context: A man went to the bathroom. A woman went",Where is Sandra? 
+461,garden,"Label: garden
+
+
+Context: John went to the bathroom. John went back",Where is Sandra? 
+462,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+463,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+464,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is John? 
+465,garden,"Output: garden
+
+
+Context: <context>
+Mary journeyed to the",Where is Sandra? 
+466,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Daniel went",Where is Daniel? 
+467,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Daniel went",Where is Daniel? 
+468,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Daniel went",Where is Sandra? 
+469,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+470,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is Mary? 
+471,office,"Label: office
+
+
+Context: John went to the office. Mary went to the",Where is Mary? 
+472,office,"Label: office
+
+
+Context: Mary went to the office. Mary went to the",Where is Mary? 
+473,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. John went",Where is John? 
+474,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is John? 
+475,garden,"Label: office
+
+
+Context:
+
+John journeyed to the garden. Mary",Where is John? 
+476,bathroom,"Label: office
+
+
+Context: John journeyed to the garden. Mary travelled",Where is Mary? 
+477,kitchen,"Label: hallway
+
+
+Context: John journeyed to the garden. Mary travel",Where is Sandra? 
+478,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. Mary travel",Where is John? 
+479,bathroom,"Label: hallway
+
+
+Context: John journeyed to the garden. Mary travel",Where is John? 
+480,bedroom,"Label: bedroom
+
+
+Context: <context>
+Sandra went back to",Where is Sandra? 
+481,bedroom,"Label: office
+
+
+Context: <context>
+Sandra went back to the",Where is Sandra? 
+482,hallway,"Label: hallway
+
+
+Context: John went back to the hallway. Daniel",Where is Daniel? 
+483,hallway,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is John? 
+484,garden,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is John? 
+485,bedroom,"Label: bedroom
+
+Context: <context>
+Sandra moved to the garden",Where is Daniel? 
+486,bathroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Sandra? 
+487,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Daniel? 
+488,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+489,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+490,kitchen,"Label: kitchen
+
+
+Context: <context>
+John went to the kitchen.",Where is Daniel? 
+491,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is John? 
+492,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is John? 
+493,garden,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+494,garden,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+495,kitchen,"Label: bedroom
+
+
+Context: <context>
+Mary moved to the",Where is Mary? 
+496,kitchen,"Label: bedroom
+
+
+Context: Mary went to the office. Daniel went to",Where is Mary? 
+497,bedroom,"Label: bedroom
+
+
+Context: Mary went to the office. Daniel went to",Where is Sandra? 
+498,hallway,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is John? 
+499,hallway,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is John? 
+500,kitchen,"Label: kitchen
+
+
+Context: Daniel went to the bathroom. Daniel went to",Where is Daniel? 
+501,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+502,bathroom,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is Daniel? 
+503,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is John? 
+504,bathroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is Daniel? 
+505,kitchen,"Label: bathroom
+
+
+Context: John went to the bathroom. John journey",Where is Mary? 
+506,bedroom,"Label: bedroom
+
+
+Context: Mary moved to the bathroom. Mary journey",Where is Sandra? 
+507,office,"Label: bedroom
+
+
+Context: Mary journeyed to the bathroom. Mary",Where is Daniel? 
+508,office,"Label: office
+
+
+Context: Mary journeyed to the bathroom. Mary went",Where is Daniel? 
+509,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Mary journey",Where is Daniel? 
+510,bedroom,"Label: bedroom
+
+
+Context: John moved to the bedroom. Daniel moved",Where is John? 
+511,office,"Label: bedroom
+
+
+Context: Daniel moved to the bedroom. John moved",Where is Mary? 
+512,bedroom,"Label: bedroom
+
+
+Context: Daniel moved to the bedroom. John moved",Where is Mary? 
+513,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+514,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+515,bathroom,"Output: bathroom
+
+Context: The man went to the bathroom. The woman",Where is Mary? 
+516,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the bathroom. Mary",Where is Daniel? 
+517,bedroom,"Label: bathroom
+
+
+Context: Daniel went back to the bathroom. Mary",Where is Sandra? 
+518,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+519,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+520,office,"Label: office
+
+Context: A man went to the bathroom. A man went",Where is Sandra? 
+521,office,"Label: office
+
+
+Context: The man went to the bathroom. The man",Where is Daniel? 
+522,hallway,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is Daniel? 
+523,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+524,garden,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+525,hallway,"Label: hallway
+
+
+Context: <context>
+Sandra went to the",Where is Mary? 
+526,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Daniel? 
+527,garden,"Label: hallway
+
+
+Context: John went to the hallway. Mary went",Where is Daniel? 
+528,garden,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Daniel? 
+529,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+530,garden,"Label: garden
+
+
+Context: John was a doctor. He was a good doctor",Where is John? 
+531,garden,"Label: garden
+
+
+Context: John went to the office. Mary went to the",Where is John? 
+532,garden,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is John? 
+533,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+534,bathroom,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is Daniel? 
+535,garden,"Label: garden
+
+
+Context:",Where is Sandra? 
+536,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+537,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+538,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+539,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+540,garden,"Label: office
+
+Context: John went to the office.
+
+Label: office",Where is John? 
+541,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Mary? 
+542,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+543,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+544,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+545,garden,"Label: garden
+
+
+Context: <context>
+Sandra went back to the",Where is Sandra? 
+546,kitchen,"Label: garden
+
+
+Context: The man went to the store. The man went",Where is Mary? 
+547,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+548,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+549,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+550,bedroom,"Label: bedroom
+
+
+Context:",Where is John? 
+551,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is John? 
+552,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+553,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+554,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+555,hallway,"Label: hallway
+
+
+Context: A man went to the bathroom. A",Where is Sandra? 
+556,kitchen,"Label: hallway
+
+
+Context: A man went to the bathroom. A",Where is Mary? 
+557,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Mary went",Where is Daniel? 
+558,bedroom,"Label: bedroom
+
+
+Context: Mary went to the bathroom. Mary went",Where is Daniel? 
+559,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+560,garden,"Label: garden
+
+Context: Daniel journeyed to the garden. Daniel went to the",Where is Daniel? 
+561,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the garden. Daniel went",Where is Sandra? 
+562,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the garden. Daniel went",Where is Sandra? 
+563,kitchen,"Label: bedroom
+
+
+Context: Daniel journeyed to the garden. Daniel journey",Where is Daniel? 
+564,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the bathroom. Daniel",Where is Sandra? 
+565,bathroom,"Label: bathroom
+
+Context:
+
+The man went to the store.",Where is John? 
+566,bathroom,"Label: garden
+
+
+Context: John journeyed to the garden. John travelled",Where is John? 
+567,kitchen,"Label: hallway
+
+
+Context: John journeyed to the garden. John travel",Where is Daniel? 
+568,bedroom,"Label: hallway
+
+
+Context: John journeyed to the garden. John travel",Where is Sandra? 
+569,bedroom,"Label: hallway
+
+
+Context: John journeyed to the garden. John travel",Where is Sandra? 
+570,bedroom,"Label: bedroom
+
+
+Context: <context>
+Daniel went back to the",Where is Daniel? 
+571,bedroom,"Label: hallway
+
+
+Context: <context>
+John went to the garden",Where is Daniel? 
+572,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Sandra? 
+573,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+574,office,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is Sandra? 
+575,bathroom,"Label: hallway
+
+
+Context:",Where is John? 
+576,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is John? 
+577,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is Daniel? 
+578,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+579,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+580,hallway,"Label: hallway
+
+
+Context: <context>
+John went back to the",Where is John? 
+581,hallway,"Label: hallway
+
+
+Context: John went back to the hallway. Daniel",Where is John? 
+582,garden,"Label: bedroom
+
+
+Context: John went back to the hallway. Daniel",Where is Daniel? 
+583,kitchen,"Label: bedroom
+
+
+Context: John went back to the hallway. Daniel",Where is Daniel? 
+584,bedroom,"Label: bedroom
+
+
+Context: John went back to the hallway. Daniel",Where is Mary? 
+585,bedroom,"Label: bedroom
+
+Context: <context>
+Sandra went to the bed",Where is Sandra? 
+586,garden,"Label: hallway
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is Sandra? 
+587,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+588,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+589,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+590,office,"Label: office
+
+
+Context: The man went to the bathroom. The man",Where is Sandra? 
+591,hallway,"Label: office
+
+
+Context: A man went to the bathroom. A woman",Where is Mary? 
+592,office,"Label: office
+
+
+Context: John went to the bathroom. John went to",Where is John? 
+593,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+594,bathroom,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is John? 
+595,bathroom,"Output: bathroom
+
+
+Context: John went to the bathroom.",Where is Sandra? 
+596,office,"Label: office
+
+
+Context: John went to the bathroom. Mary went to",Where is Sandra? 
+597,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. John went",Where is Sandra? 
+598,garden,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Daniel? 
+599,bedroom,"Label: hallway
+
+
+Context: Mary went to the bathroom. Mary went",Where is Daniel? 
+600,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. John",Where is John? 
+601,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. John",Where is Sandra? 
+602,kitchen,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. John",Where is Mary? 
+603,kitchen,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. John",Where is Sandra? 
+604,office,"Label: bedroom
+
+
+Context: John journeyed to the bathroom. John",Where is John? 
+605,garden,"Output: bedroom
+
+
+Context: <context>
+Sandra went back to",Where is Mary? 
+606,kitchen,"Label: office
+
+
+Context: John went to the bedroom. Mary went to",Where is John? 
+607,hallway,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is John? 
+608,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+609,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+610,kitchen,"Output: office
+
+Context: A man journeyed to the office. Daniel moved to",Where is Daniel? 
+611,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+612,bathroom,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Daniel? 
+613,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is John? 
+614,bathroom,"Label: office
+
+
+Context: John journeyed to the office. Daniel went to",Where is Sandra? 
+615,office,"Label: office
+
+
+Context: <context>
+Daniel went back to the office",Where is Daniel? 
+616,kitchen,"Label: office
+
+
+Context: Daniel went back to the office. Daniel went to",Where is Sandra? 
+617,hallway,"Label: hallway
+
+
+Context: Daniel went back to the office. Daniel went",Where is Daniel? 
+618,kitchen,"Label: hallway
+
+
+Context: Daniel went back to the office. Daniel went",Where is Mary? 
+619,office,"Label: hallway
+
+
+Context: Daniel went back to the office. Daniel went",Where is Sandra? 
+620,garden,"Output: garden
+
+
+Context: John went to the bathroom. Mary journeyed",Where is John? 
+621,office,"Label: bedroom
+
+
+Context: John went to the bathroom. Mary journey",Where is Mary? 
+622,office,"Label: bedroom
+
+
+Context: John went to the bathroom. Mary journey",Where is Mary? 
+623,kitchen,"Label: office
+
+
+Context: John went to the bathroom. Mary journeyed",Where is Sandra? 
+624,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Mary journeyed",Where is John? 
+625,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. Daniel",Where is Daniel? 
+626,bathroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. Daniel",Where is John? 
+627,bathroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is John? 
+628,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+629,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. Daniel",Where is John? 
+630,bathroom,"Label: bathroom
+
+Context:
+
+The man went to the store.",Where is John? 
+631,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. John travel",Where is Mary? 
+632,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. John travel",Where is Mary? 
+633,kitchen,"Label: bedroom
+
+
+Context: John journeyed to the garden. John travel",Where is Mary? 
+634,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. John travel",Where is John? 
+635,garden,"Output: garden
+
+
+Context:",Where is John? 
+636,garden,"Label: garden
+
+
+Context:",Where is Sandra? 
+637,kitchen,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is John? 
+638,hallway,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is Mary? 
+639,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Sandra? 
+640,garden,"Output: garden
+
+Context: Daniel journeyed to the garden. John moved to the",Where is Daniel? 
+641,garden,"Label: garden
+
+
+Context: Daniel journeyed to the garden. John moved to",Where is Daniel? 
+642,bedroom,"Label: bedroom
+
+Context: John went to the garden. Daniel went to the",Where is Daniel? 
+643,office,"Label: bedroom
+
+
+Context: John went to the garden. Daniel journeyed",Where is John? 
+644,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the garden. John moved",Where is Sandra? 
+645,garden,"Output: garden
+
+
+Context: John went to the garden. Mary went to the",Where is Mary? 
+646,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+647,office,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+648,kitchen,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is Sandra? 
+649,kitchen,"Label: hallway
+
+
+Context: Mary went to the garden. John went back",Where is Sandra? 
+650,bathroom,"Output: bathroom
+
+Context: A man went to the garden. A man went",Where is Daniel? 
+651,garden,"Output: garden
+
+
+Context: Daniel went to the garden. Daniel journeyed to",Where is Sandra? 
+652,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the garden. Daniel journeyed",Where is Daniel? 
+653,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the garden. Daniel journeyed",Where is Mary? 
+654,garden,"Label: garden
+
+
+Context: Daniel went to the garden. Daniel journeyed to",Where is Mary? 
+655,bathroom,"Output: bathroom
+
+Context: A man went to the bathroom. A woman",Where is Mary? 
+656,kitchen,"Label: office
+
+
+Context: Daniel went to the bathroom. Mary travelled",Where is John? 
+657,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary travel",Where is John? 
+658,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+659,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+660,kitchen,"Label: hallway
+
+
+Context: <context>
+Sandra journeyed to",Where is Sandra? 
+661,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+662,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel went",Where is John? 
+663,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+664,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+665,bathroom,"Label: office
+
+Context: Mary went to the bathroom. Daniel moved to the",Where is Mary? 
+666,office,"Label: office
+
+
+Context: John went to the bathroom. Mary went to",Where is Daniel? 
+667,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel moved",Where is John? 
+668,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel moved",Where is John? 
+669,office,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel moved",Where is John? 
+670,bedroom,"Label: office
+
+
+Context: <context>
+Daniel went back to the office",Where is John? 
+671,bedroom,"Label: bedroom
+
+
+Context: Daniel went back to the office. John went",Where is John? 
+672,office,"Label: office
+
+
+Context: <context>
+John went to the bedroom",Where is Daniel? 
+673,bathroom,"Label: office
+
+
+Context: John went to the bedroom. Daniel went to",Where is Daniel? 
+674,kitchen,"Label: office
+
+
+Context: John went to the bedroom. Daniel went back",Where is Mary? 
+675,bathroom,"Label: hallway
+
+
+Context: <context>
+Daniel went back to the",Where is Mary? 
+676,office,"Label: hallway
+
+
+Context: Daniel went back to the hallway. Mary",Where is Mary? 
+677,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+678,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+679,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+680,kitchen,"Label: bathroom
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Daniel? 
+681,kitchen,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+682,kitchen,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is Mary? 
+683,office,"Label: bathroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+684,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+685,garden,"Label: hallway
+
+
+Context: John went to the garden.",Where is John? 
+686,bathroom,"Label: office
+
+
+Context: John went back to the hallway. Daniel journey",Where is Mary? 
+687,office,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is Daniel? 
+688,bathroom,"Label: office
+
+
+Context: John went to the hallway. Daniel journeyed",Where is John? 
+689,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel journey",Where is John? 
+690,garden,"Label: garden
+
+
+Context: A man went to the bedroom. A man",Where is Sandra? 
+691,bathroom,"Label: hallway
+
+
+Context: The man went to the bedroom. The",Where is Sandra? 
+692,bathroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+693,office,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+694,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+695,garden,"Label: garden
+
+
+Context: Mary went back to the bathroom. Mary journey",Where is Mary? 
+696,garden,"Label: bathroom
+
+
+Context: Mary went back to the bathroom. Mary",Where is Mary? 
+697,bedroom,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Mary",Where is Sandra? 
+698,kitchen,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Mary",Where is Sandra? 
+699,bedroom,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Mary",Where is Daniel? 
+700,hallway,"Label: hallway
+
+
+Context: Mary moved to the hallway. Daniel travel",Where is Mary? 
+701,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Mary? 
+702,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. Daniel went",Where is John? 
+703,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. Daniel went",Where is John? 
+704,office,"Label: hallway
+
+
+Context: Mary went to the hallway. Daniel went",Where is John? 
+705,hallway,"Output: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Mary? 
+706,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Mary? 
+707,bathroom,"Label: hallway
+
+
+Context: Mary went to the hallway. John went",Where is Daniel? 
+708,office,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is Sandra? 
+709,hallway,"Label: hallway
+
+
+Context: Mary went to the hallway. John went",Where is Mary? 
+710,garden,"Label: garden
+
+
+Context:",Where is John? 
+711,garden,"Label: garden
+
+
+Context: John went to the bathroom. John went to",Where is Sandra? 
+712,kitchen,"Label: garden
+
+
+Context:",Where is John? 
+713,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+714,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+715,garden,"Label: garden
+
+
+Context:
+
+John journeyed to the bedroom.",Where is Sandra? 
+716,hallway,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is Mary? 
+717,office,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is Daniel? 
+718,hallway,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Daniel",Where is Mary? 
+719,office,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Daniel",Where is Sandra? 
+720,garden,"Label: bedroom
+
+
+Context: <context>
+Sandra moved to the",Where is Daniel? 
+721,hallway,"Label: hallway
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is Sandra? 
+722,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+723,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+724,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+725,garden,"Label: office
+
+
+Context: John went to the garden. John went to the",Where is Sandra? 
+726,office,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is John? 
+727,bathroom,"Label: office
+
+
+Context: John went to the garden. Mary went to the",Where is Mary? 
+728,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+729,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+730,bedroom,"Label: bedroom
+
+
+Context: <context>
+John went back to the",Where is John? 
+731,bedroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Mary",Where is John? 
+732,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Sandra? 
+733,office,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Mary? 
+734,bedroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Daniel? 
+735,hallway,"Label: hallway
+
+
+Context: John went to the bedroom.",Where is John? 
+736,bathroom,"Label: office
+
+
+Context: John went to the bedroom. John went to",Where is Sandra? 
+737,bathroom,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is John? 
+738,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+739,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+740,garden,"Label: garden
+
+
+Context:",Where is John? 
+741,garden,"Label: hallway
+
+
+Context: John moved to the bathroom. John travel",Where is John? 
+742,kitchen,"Label: hallway
+
+
+Context: John moved to the bathroom. John journey",Where is Daniel? 
+743,office,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Sandra? 
+744,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is Daniel? 
+745,bedroom,"Output: office
+
+
+Context: Daniel journeyed to the bedroom. Daniel went",Where is Daniel? 
+746,bathroom,"Label: garden
+
+
+Context: Daniel journeyed to the bedroom. Daniel went",Where is John? 
+747,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is John? 
+748,office,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is John? 
+749,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is John? 
+750,office,"Label: office
+
+
+Context: <context>
+Sandra went to the bed",Where is Sandra? 
+751,office,"Label: office
+
+
+Context: Daniel went to the garden. Daniel went to the",Where is Sandra? 
+752,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is Daniel? 
+753,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+754,hallway,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+755,garden,"Label: hallway
+
+
+Context: Daniel went back to the hallway. Daniel",Where is Daniel? 
+756,garden,"Label: hallway
+
+
+Context: Daniel went back to the hallway. Daniel",Where is Daniel? 
+757,office,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is John? 
+758,kitchen,"Label: office
+
+
+Context: Daniel went back to the hallway. Daniel journey",Where is Sandra? 
+759,bathroom,"Label: garden
+
+
+Context: Daniel went back to the hallway. Daniel travel",Where is Mary? 
+760,office,"Label: office
+
+
+Context: John went to the bathroom.
+
+Label",Where is Sandra? 
+761,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is Sandra? 
+762,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+763,garden,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+764,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+765,kitchen,"Label: bathroom
+
+Context: A man travelled to the bathroom. A",Where is Sandra? 
+766,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+767,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+768,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+769,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is John? 
+770,bathroom,"Output: garden
+
+Context: A man went to the bathroom. A woman went",Where is Daniel? 
+771,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the bathroom. John went",Where is John? 
+772,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is John? 
+773,office,"Label: office
+
+
+Context: Daniel went to the bathroom. John went to",Where is John? 
+774,kitchen,"Label: office
+
+
+Context: Daniel went to the bathroom. John went to",Where is Mary? 
+775,kitchen,"Output: garden
+
+Context: A: The man went to the garden.",Where is Daniel? 
+776,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+777,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+778,bathroom,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel journeyed",Where is John? 
+779,office,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel journeyed",Where is Daniel? 
+780,bedroom,"Label: hallway
+
+
+Context: <context>
+John went back to the",Where is John? 
+781,office,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Daniel? 
+782,office,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Daniel? 
+783,bathroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is John? 
+784,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is Sandra? 
+785,office,"Label: office
+
+
+Context:",Where is John? 
+786,office,"Label: office
+
+
+Context: John went to the office. Mary went to the",Where is John? 
+787,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Mary? 
+788,hallway,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is Mary? 
+789,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+790,garden,"Label: garden
+
+
+Context: <context>
+Sandra went to the office",Where is Sandra? 
+791,garden,"Label: bathroom
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+792,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is Sandra? 
+793,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+794,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+795,office,"Label: office
+
+Context: A: I'm going to the office.",Where is Daniel? 
+796,office,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is Sandra? 
+797,office,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is Mary? 
+798,office,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is Sandra? 
+799,office,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is Sandra? 
+800,hallway,"Label: hallway
+
+Context: <context>
+Sandra went to the hall",Where is Sandra? 
+801,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary went",Where is Daniel? 
+802,office,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Mary? 
+803,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Sandra? 
+804,office,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Mary? 
+805,garden,"Output: garden
+
+
+Context: John went to the garden. Mary journeyed to",Where is John? 
+806,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Mary journeyed",Where is John? 
+807,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Mary journeyed",Where is John? 
+808,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is Daniel? 
+809,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is Daniel? 
+810,garden,"Label: garden
+
+
+Context: John journeyed to the garden. John journeyed",Where is Sandra? 
+811,garden,"Label: garden
+
+
+Context: John journeyed to the garden. Daniel journeyed",Where is Sandra? 
+812,office,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Daniel? 
+813,hallway,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Daniel? 
+814,hallway,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Mary? 
+815,office,"Label: office
+
+Context: A man went to the bedroom. A man went",Where is Daniel? 
+816,office,"Label: office
+
+
+Context: Daniel went to the bedroom. Daniel journeyed",Where is Mary? 
+817,kitchen,"Label: office
+
+
+Context: Daniel went to the bedroom. Daniel journeyed",Where is Daniel? 
+818,garden,"Label: office
+
+
+Context: Daniel went to the bedroom. Daniel journeyed",Where is John? 
+819,office,"Label: office
+
+
+Context: Daniel went to the bedroom. Daniel journeyed",Where is Daniel? 
+820,garden,"Label: garden
+
+
+Context:",Where is Sandra? 
+821,garden,"Label: garden
+
+
+Context: John went back to the bathroom. John went",Where is Sandra? 
+822,bathroom,"Label: office
+
+
+Context: John went back to the bathroom. Daniel went",Where is Daniel? 
+823,hallway,"Label: hallway
+
+
+Context: John went back to the bathroom. Daniel",Where is John? 
+824,bathroom,"Label: hallway
+
+
+Context: John went back to the bathroom. Daniel",Where is Daniel? 
+825,office,"Label: office
+
+
+Context: John journeyed to the garden. John journeyed",Where is Sandra? 
+826,bathroom,"Label: hallway
+
+
+Context: John journeyed to the garden. Mary journey",Where is Mary? 
+827,bedroom,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is Mary? 
+828,bathroom,"Label: bathroom
+
+
+Context: John journeyed to the garden. Daniel went",Where is Mary? 
+829,kitchen,"Label: hallway
+
+
+Context: John journeyed to the garden. Mary journey",Where is Daniel? 
+830,garden,"Output: bedroom
+
+
+Context: <context>
+Daniel went back to the",Where is Mary? 
+831,bathroom,"Label: bathroom
+
+
+Context: Daniel went back to the bedroom. Mary",Where is Sandra? 
+832,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Mary? 
+833,kitchen,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is Sandra? 
+834,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+835,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. John went",Where is John? 
+836,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the hallway. John went",Where is John? 
+837,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. John went",Where is Daniel? 
+838,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. John went",Where is Daniel? 
+839,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. John went",Where is Sandra? 
+840,garden,"Output: garden
+
+
+Context: The man went to the garden. The woman went",Where is Sandra? 
+841,garden,"Label: garden
+
+
+Context: Mary went to the garden. Daniel went to the",Where is Sandra? 
+842,office,"Label: garden
+
+
+Context: John went to the garden. Mary went to the",Where is Daniel? 
+843,kitchen,"Label: office
+
+
+Context: John went to the garden. Mary went to the",Where is John? 
+844,kitchen,"Label: office
+
+
+Context: Mary went to the garden. Mary went to the",Where is John? 
+845,bedroom,"Label: office
+
+Context: <context>
+Sandra went to the bedroom",Where is Sandra? 
+846,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. John went",Where is John? 
+847,garden,"Label: bedroom
+
+
+Context: John went to the bedroom. John went",Where is Sandra? 
+848,garden,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+849,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+850,bedroom,"Output: bedroom
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Daniel? 
+851,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Daniel? 
+852,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Daniel? 
+853,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Daniel? 
+854,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Mary? 
+855,bedroom,"Label: bedroom
+
+Context: A man went to the bathroom. A man",Where is Daniel? 
+856,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Daniel? 
+857,bedroom,"Label: office
+
+
+Context: Daniel went to the hallway. Daniel went to",Where is John? 
+858,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Mary? 
+859,office,"Label: office
+
+
+Context: Daniel went to the hallway. Daniel went to",Where is Mary? 
+860,bathroom,"Output: bathroom
+
+Context: A man went to the bathroom. A woman",Where is Mary? 
+861,garden,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel travel",Where is Mary? 
+862,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+863,kitchen,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel travel",Where is Mary? 
+864,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel travel",Where is Mary? 
+865,garden,"Label: hallway
+
+
+Context: <context>
+Sandra went to the",Where is Sandra? 
+866,bedroom,"Label: bedroom
+
+
+Context: John went to the hallway. John went",Where is Mary? 
+867,bedroom,"Label: garden
+
+
+Context: John went to the hallway. Daniel went to",Where is Mary? 
+868,kitchen,"Label: garden
+
+
+Context: John went to the hallway. Daniel went to",Where is Daniel? 
+869,hallway,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is John? 
+870,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Mary went",Where is Mary? 
+871,garden,"Label: office
+
+
+Context: John went to the bedroom. Mary went to",Where is John? 
+872,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is John? 
+873,hallway,"Label: hallway
+
+
+Context: Mary went to the bedroom. John went",Where is John? 
+874,garden,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is Mary? 
+875,garden,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is John? 
+876,garden,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is John? 
+877,kitchen,"Label: hallway
+
+
+Context: John went back to the bedroom. John",Where is Daniel? 
+878,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. John",Where is Sandra? 
+879,office,"Label: hallway
+
+
+Context: John went back to the bedroom. John",Where is Sandra? 
+880,bedroom,"Label: bedroom
+
+
+Context: <context>
+Mary went back to",Where is John? 
+881,hallway,"Label: hallway
+
+
+Context: Mary went back to the hallway. John",Where is Daniel? 
+882,office,"Label: office
+
+
+Context: John went to the bedroom. Daniel went to",Where is Mary? 
+883,office,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is Mary? 
+884,hallway,"Label: hallway
+
+
+Context: Mary went back to the hallway. John",Where is John? 
+885,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. John went",Where is John? 
+886,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. John went",Where is Daniel? 
+887,hallway,"Label: hallway
+
+
+Context: John journeyed to the garden. John went",Where is Daniel? 
+888,office,"Label: hallway
+
+
+Context: John journeyed to the garden. John went",Where is Sandra? 
+889,bedroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. John went",Where is Daniel? 
+890,garden,"Label: office
+
+
+Context:
+
+John went to the office.",Where is John? 
+891,office,"Label: office
+
+
+Context: John went to the garden. Mary went to the",Where is John? 
+892,garden,"Label: garden
+
+
+Context: John went to the garden. Mary went to the",Where is John? 
+893,hallway,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Mary? 
+894,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+895,office,"Label: office
+
+Context: <context>
+Sandra moved to the office.",Where is John? 
+896,garden,"Label: garden
+
+
+Context: <context>
+John went to the garden.",Where is Sandra? 
+897,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Sandra? 
+898,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+899,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+900,bathroom,"Label: office
+
+Context: Daniel went back to the office. Daniel travelled to",Where is Daniel? 
+901,bathroom,"Label: office
+
+
+Context: Daniel went back to the office. Daniel travelled",Where is Daniel? 
+902,garden,"Label: hallway
+
+
+Context: Daniel went back to the office. Daniel travel",Where is John? 
+903,office,"Label: hallway
+
+
+Context: Daniel went back to the office. Daniel travel",Where is Mary? 
+904,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+905,garden,"Label: garden
+
+
+Context: <context>
+Sandra went back to the",Where is Sandra? 
+906,kitchen,"Label: garden
+
+
+Context: The man went to the bathroom. The man",Where is Sandra? 
+907,kitchen,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Sandra? 
+908,office,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Daniel? 
+909,office,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Mary? 
+910,bedroom,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Mary travel",Where is Daniel? 
+911,bedroom,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Mary travel",Where is Mary? 
+912,office,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Mary travel",Where is John? 
+913,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+914,garden,"Label: hallway
+
+
+Context: Daniel moved to the bedroom. Mary travel",Where is Mary? 
+915,kitchen,"Output: garden
+
+
+Context: Daniel went back to the garden. Mary travelled",Where is Mary? 
+916,hallway,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary travel",Where is Sandra? 
+917,garden,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary travel",Where is Mary? 
+918,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+919,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+920,bathroom,"Output: bathroom
+
+
+Context: <context>
+Daniel went back to the",Where is Daniel? 
+921,hallway,"Label: hallway
+
+
+Context: Daniel went back to the bathroom. Mary",Where is Mary? 
+922,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+923,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+924,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is Daniel? 
+925,bathroom,"Output: garden
+
+Context: <context>
+Mary went to the bathroom",Where is Mary? 
+926,office,"Label: office
+
+
+Context: Mary went to the bathroom. Daniel went to",Where is Daniel? 
+927,kitchen,"Label: bathroom
+
+
+Context: Mary went to the bathroom. Daniel went",Where is Daniel? 
+928,office,"Label: office
+
+
+Context: Mary went to the bathroom. Daniel went to",Where is Daniel? 
+929,bathroom,"Label: bathroom
+
+
+Context: Daniel went to the garden. Daniel journeyed",Where is Mary? 
+930,office,"Label: office
+
+Context: John went to the office.
+
+Label: office",Where is Sandra? 
+931,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is Daniel? 
+932,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is John? 
+933,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+934,kitchen,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is Sandra? 
+935,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is John? 
+936,hallway,"Label: hallway
+
+
+Context: Daniel travelled to the bathroom. John",Where is John? 
+937,garden,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is Daniel? 
+938,bedroom,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is Sandra? 
+939,bedroom,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is Sandra? 
+940,bedroom,"Label: bedroom
+
+
+Context: <context>
+John went back to the",Where is John? 
+941,office,"Label: office
+
+
+Context: John went back to the bedroom. John journey",Where is Daniel? 
+942,office,"Label: office
+
+
+Context: John went back to the bedroom. John journey",Where is Daniel? 
+943,kitchen,"Label: office
+
+
+Context: John went back to the office. John went back",Where is John? 
+944,hallway,"Label: office
+
+
+Context: John went back to the office. John went to",Where is Daniel? 
+945,office,"Output: office
+
+
+Context: <context>
+Mary journeyed to the",Where is Sandra? 
+946,bathroom,"Label: bathroom
+
+
+Context: John went to the office. Mary went to",Where is Mary? 
+947,bathroom,"Label: office
+
+
+Context: John went to the office. Mary went to the",Where is Sandra? 
+948,kitchen,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is Mary? 
+949,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the office. Daniel went",Where is Daniel? 
+950,hallway,"Label: hallway
+
+
+Context:",Where is John? 
+951,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is John? 
+952,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Sandra? 
+953,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Mary? 
+954,office,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is Sandra? 
+955,office,"Label: office
+
+
+Context: <context>
+John went back to the office",Where is John? 
+956,kitchen,"Label: office
+
+
+Context: John went back to the office. Daniel went to",Where is John? 
+957,garden,"Label: bedroom
+
+
+Context: John went back to the office. Daniel went",Where is Sandra? 
+958,kitchen,"Label: bedroom
+
+
+Context: John went back to the office. Daniel went",Where is Sandra? 
+959,bedroom,"Label: bedroom
+
+
+Context: John went back to the office. Daniel went",Where is John? 
+960,hallway,"Label: hallway
+
+Context: Daniel went to the bathroom. Mary travelled",Where is Mary? 
+961,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+962,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the bathroom. Mary travel",Where is John? 
+963,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+964,garden,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary travel",Where is Mary? 
+965,garden,"Output: office
+
+
+Context: <context>
+Daniel went back to the garden",Where is Daniel? 
+966,bathroom,"Label: office
+
+
+Context: Daniel went back to the garden. Mary travelled",Where is Mary? 
+967,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the garden. Mary travel",Where is Daniel? 
+968,hallway,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary travel",Where is Mary? 
+969,kitchen,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary travel",Where is Sandra? 
+970,bathroom,"Label: bathroom
+
+Context: A man went to the bathroom. A woman",Where is Daniel? 
+971,kitchen,"Label: bathroom
+
+
+Context: The man went to the bathroom. The",Where is Daniel? 
+972,bathroom,"Label: bathroom
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is Sandra? 
+973,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+974,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Daniel? 
+975,bedroom,"Output: bedroom
+
+Context: Daniel journeyed to the bedroom. Daniel journey",Where is Daniel? 
+976,office,"Label: bedroom
+
+
+Context: Daniel journeyed to the bedroom. John",Where is John? 
+977,office,"Label: bedroom
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is John? 
+978,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the bedroom. John",Where is Mary? 
+979,hallway,"Label: bedroom
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is Sandra? 
+980,kitchen,"Output: bedroom
+
+
+Context: <context>
+Mary journeyed to",Where is Mary? 
+981,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. Daniel went",Where is Mary? 
+982,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Daniel went",Where is Sandra? 
+983,office,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Daniel went",Where is Sandra? 
+984,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is Mary? 
+985,garden,"Label: garden
+
+Context: A: John went to the garden.
+
+Label",Where is Sandra? 
+986,garden,"Label: bathroom
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+987,office,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is Mary? 
+988,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+989,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is John? 
+990,garden,"Label: hallway
+
+
+Context: John went to the garden. Mary went to",Where is Sandra? 
+991,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is Sandra? 
+992,garden,"Label: garden
+
+
+Context: Mary went to the hallway. Daniel went to",Where is John? 
+993,garden,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is Daniel? 
+994,garden,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is Mary? 
+995,kitchen,"Label: kitchen
+
+
+Context: <context>
+Sandra moved to the bath",Where is John? 
+996,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is Sandra? 
+997,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+998,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is Sandra? 
+999,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is John? 

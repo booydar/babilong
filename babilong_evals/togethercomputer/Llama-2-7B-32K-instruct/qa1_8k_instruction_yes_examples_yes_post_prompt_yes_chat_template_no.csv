@@ -1,0 +1,1464 @@
+,target,output,question
+0,hallway,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+1,bathroom,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+2,kitchen,"bathroom (Document[101]):""Sandra journeyed to the",Where is Sandra? 
+3,hallway,"hallway (Document[109]):""Sandra went to the hallway",Where is Sandra? 
+4,kitchen,"the hallway (Document[18]):""Sandra went back to the hall",Where is Sandra? 
+5,hallway,"hallway (Document[30]):""Charlie went to the hallway .",Where is Sandra? 
+6,garden,"hallway (Document[59]):""Sandra moved to the hallway .",Where is Sandra? 
+7,hallway,"The most recent location of Daniel is hallway.
+</example>
+
+<context",Where is Daniel? 
+8,office,The most recent location of Sandra is hallway. (Document[119],Where is Sandra? 
+9,office,The most recent location of Daniel is hallway. (Document[119]):,Where is Daniel? 
+10,kitchen,"the hallway (Document[98]):""Charlie went to the hallway",Where is Mary? 
+11,garden,"garden (Document[51]):""Mary journeyed to the garden.""",Where is Mary? 
+12,office,"The most recent location of Daniel is the garden. (Answer)
+
+<context>",Where is Daniel? 
+13,bedroom,"the garden (Document[109]):""Mary journeyed to the garden",Where is Mary? 
+14,bedroom,"garden (Document[11]):""Mary moved to the garden . That",Where is Mary? 
+15,kitchen,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+16,garden,"The most recent location of John is garden.
+</example>
+
+<context>",Where is John? 
+17,kitchen,"hallway (Document[20]):""John went to the hallway . The",Where is John? 
+18,office,"The hallway (Document[30]):""Daniel went to the hallway .",Where is Daniel? 
+19,kitchen,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+20,hallway,"The most recent location of Mary is hallway. (Answer)
+
+<context>",Where is Mary? 
+21,office,"the hallway (Document[129]):""John went to the hallway",Where is John? 
+22,office,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+23,hallway,"hallway (Document[109]):""Sandra went to the hallway",Where is Sandra? 
+24,bedroom,"the hallway (Document[129]):""Daniel went back to the hall",Where is Daniel? 
+25,bedroom,"bedroom (Document[119]):""Sandra moved to the bedroom",Where is Sandra? 
+26,bedroom,"The most recent location of Mary is the kitchen. (Answer)
+
+<context>",Where is Mary? 
+27,kitchen,"the hallway (Document[109]):""Charlie went to the hall",Where is Daniel? 
+28,kitchen,"the office (Document[10]):""Daniel went to the office . John went",Where is Daniel? 
+29,kitchen,"the office (Document[119]):""Daniel went to the office . As",Where is Daniel? 
+30,hallway,"in her mistress's room (Document[119]):""Sandra",Where is Sandra? 
+31,office,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+32,kitchen,"The most recent location of Sandra is balcony. (Answer)
+
+<",Where is Sandra? 
+33,kitchen,"the hallway (Document[119]):""Sandra went to the hall",Where is Sandra? 
+34,bathroom,"bathroom (Document[129]):""Sandra went to the bath",Where is Sandra? 
+35,office,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+36,bathroom,"the bathroom (Document[119]):""Mary went back to the",Where is Mary? 
+37,garden,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+38,kitchen,"Ashburton (Document[119]):""Sandra and Elaine",Where is Sandra? 
+39,bedroom,"the hallway (Document[119]):""Daniel journeyed to the bed",Where is Daniel? 
+40,bathroom,"The bathroom (Document[119]):""Sandra travelled to the",Where is Sandra? 
+41,garden,"The garden (Document[119]):""Daniel went to the garden . He",Where is Daniel? 
+42,bathroom,"The office (Document[109]):""Soon the winter will come,",Where is Sandra? 
+43,hallway,"the garden (Document[196]):""Daniel went back to the garden .",Where is Daniel? 
+44,garden,"the garden (Document[11]):""Daniel went to the garden""",Where is Daniel? 
+45,kitchen,"hallway (Document[13]):""Mary went back to the hallway",Where is Mary? 
+46,hallway,"bedroom (Document[159]):""Daniel journeyed to the bedroom",Where is Daniel? 
+47,bathroom,"the garden (Document[119]):""Sandra moved to the garden .",Where is Sandra? 
+48,office,"The most recent location of John is office. (Document[12]):""John",Where is John? 
+49,bedroom,"hallway (Document[21]):""John went to the hallway . Mary",Where is John? 
+50,bedroom,"bedroom (Document[14]):""Charlie went to the hallway .",Where is John? 
+51,office,"hallway (Document[109]):""Charlie went to the hallway",Where is John? 
+52,garden,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+53,garden,"hallway (Document[129]):""Charlie went to the hallway",Where is John? 
+54,kitchen,The most recent location of Daniel is the office. (Document[507]):,Where is Daniel? 
+55,bedroom,"The most recent location of Mary is the bedroom. (Answer)
+
+<context",Where is Mary? 
+56,kitchen,"The most recent location of Mary is garden. (Answer)
+
+<context>",Where is Mary? 
+57,hallway,"The bedroom (Document[159]):""Mary journeyed to the",Where is Mary? 
+58,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+59,hallway,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+60,hallway,The most recent location of Sandra is hallway. (Document[119],Where is Sandra? 
+61,office,"The Maples (Document[49]):""Hilary came to sit beside",Where is Daniel? 
+62,bathroom,"hallway (Document[8]):""Sandra went back to the hallway .",Where is Sandra? 
+63,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+64,garden,"The first train, you understand--within an hour, if it leaves that soon.",Where is Daniel? 
+65,kitchen,"The most recent location of John is the kitchen. (Answer)
+
+<context>",Where is John? 
+66,kitchen,"The most recent location of John is hallway. (Answer)
+
+<context>",Where is John? 
+67,bathroom,"The hallway (Document[327]):""Daniel went to the hallway",Where is Daniel? 
+68,office,"balcony (Document[353]):""Charlie went to the hall",Where is Daniel? 
+69,office,"The most recent location of Daniel is the hallway. (Answer)
+
+<context",Where is Daniel? 
+70,garden,"the garden (Document[56]):""Mary journeyed to the garden .",Where is Mary? 
+71,hallway,"hallway (Document[60]):""Sandra moved to the hallway.""",Where is Sandra? 
+72,garden,"The garden (Document[71]):""Mary journeyed to the garden.""",Where is Mary? 
+73,bedroom,"Ruby's step-mother (Document[119]):""R",Where is Mary? 
+74,bathroom,"the garden (Document[129]):""Mary journeyed to the garden",Where is Mary? 
+75,kitchen,"The most recent location of Daniel is the hallway. (Answer)
+
+<context",Where is Daniel? 
+76,kitchen,"The most recent location of Charlie is balcony. (Example)
+
+Answer:",Where is John? 
+77,kitchen,"the garden (Document[10]):""Daniel went back to the garden . They",Where is Daniel? 
+78,hallway,"hallway (Document[6]):""Daniel went back to the hallway.""",Where is Daniel? 
+79,office,"hallway (Document[7]):""Daniel went back to the hallway.""",Where is Daniel? 
+80,garden,"garden (Document[177]):""John went to the garden .""",Where is John? 
+81,bathroom,"bathroom (Document[10]):""John travelled to the bathroom",Where is John? 
+82,bedroom,"bathroom (Document[19]):""Sandra went back to the bath",Where is Sandra? 
+83,garden,"the garden (Document[26]):""Mary went to the garden . The",Where is Mary? 
+84,office,"the garden (Document[109]):""Daniel went to the garden . Mary",Where is Daniel? 
+85,garden,"the garden (Document[129]):""Sandra went to the garden .",Where is Sandra? 
+86,garden,"the garden (Document[12]):""Mary went to the garden . *",Where is Mary? 
+87,hallway,The most recent location of John is hallway. (Document[119]):,Where is John? 
+88,kitchen,"balcony (Document[12]):""Charlie went to the hallway",Where is Sandra? 
+89,kitchen,"the hallway (Document[129]):""Charlie went to the hall",Where is Daniel? 
+90,bathroom,"balcony (Document[10]):""Charlie went to the hallway",Where is Sandra? 
+91,bathroom,"stable (Document[140]):""John Lane put up at the stable once",Where is John? 
+92,hallway,"hallway (Document[129]):""Sandra went back to the hall",Where is Sandra? 
+93,bathroom,"bathroom (Document[20]):""Sandra went back to the bath",Where is Sandra? 
+94,bathroom,"the hallway (Document[129]):""Sandra moved to the hall",Where is Sandra? 
+95,kitchen,"the beach (Answer: Charlie went to the beach)
+
+<context>
+Char",Where is John? 
+96,kitchen,"the hallway (Document[119]):""Sandra moved to the hall",Where is Sandra? 
+97,kitchen,"The most recent location of Mary is bedroom.
+
+Answer: Mary journeyed to",Where is Mary? 
+98,bedroom,"bedroom (Document[15]):""Mary journeyed to the bedroom",Where is Mary? 
+99,bedroom,"bedroom (Document[69]):""Mary journeyed to the bedroom",Where is Mary? 
+100,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+101,bathroom,"bathroom (Document[129]):""Sandra went to the bath",Where is Sandra? 
+102,office,"the garden (Document[109]):""Mary travelled to the garden",Where is Mary? 
+103,garden,"The most recent location of Daniel is the garden. (Answer)
+
+<context>",Where is Daniel? 
+104,garden,"the garden (Document[109]):""Miss Trotter's obvious",Where is Daniel? 
+105,hallway,"The most recent location of Mary is hallway. (Answer)
+
+<context>",Where is Mary? 
+106,bedroom,"The most recent location of Daniel is balcony.
+
+Answer: The most recent",Where is Daniel? 
+107,bathroom,"the hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+108,office,The most recent location of Daniel is hallway. (Document[119]):,Where is Daniel? 
+109,bedroom,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+110,bathroom,"the office (Document[109]):""Daniel went to the office.""",Where is Daniel? 
+111,bathroom,"The bathroom (Document[109]):""Daniel went to the office .",Where is Daniel? 
+112,kitchen,"the office (Document[295]):""John went to the office.""",Where is John? 
+113,hallway,"hallway (Document[107]):""Charlie went to the hallway",Where is John? 
+114,kitchen,"Ashburton (Document[18]):""Mary went to the hall",Where is Mary? 
+115,garden,"balcony (Document[119]):""Charlie went to the hall",Where is Sandra? 
+116,office,"The most recent location of John is the office (Page 81)
+
+Answer",Where is John? 
+117,kitchen,"the garden (Document[119]):""Mary went back to the garden",Where is Mary? 
+118,bathroom,"The most recent location of Daniel is bathroom. (Answer)
+
+<context>",Where is Daniel? 
+119,office,"the hallway (Document[109]):""Daniel went back to the hall",Where is Daniel? 
+120,bedroom,"bedroom (Document[119]):""Daniel travelled to the bedroom",Where is Daniel? 
+121,bathroom,"the hallway (Document[109]):""Charlie went to the hall",Where is Mary? 
+122,bedroom,"the office (Document[119]):""This chapter is devoted to the political",Where is Daniel? 
+123,hallway,"Atholl Place (Document[109]):""Professionally she",Where is Daniel? 
+124,bedroom,"the hallway (Document[129]):""Mary journeyed to the",Where is Mary? 
+125,office,"the office (Document[79]):""Sandra travelled to the office.""",Where is Sandra? 
+126,garden,"the garden (Document[119]):""John journeyed to the garden.""",Where is John? 
+127,garden,"Beaumanoir (Document[119]):""Coningsby had intended",Where is Daniel? 
+128,garden,"the garden (Document[11]):""Sandra went to the garden . The",Where is Sandra? 
+129,bathroom,"the garden (Document[7]):""Sandra went to the garden.""",Where is Sandra? 
+130,garden,"garden (Document[113]):""Sandra journeyed to the garden",Where is Sandra? 
+131,hallway,"The most recent location of Mary is hallway.
+
+Answer: Mary journeyed to",Where is Mary? 
+132,bathroom,"hallway (Document[109]):""Sandra journeyed to the hall",Where is Sandra? 
+133,garden,"hallway (Document[119]):""Sandra went back to the hall",Where is Sandra? 
+134,kitchen,"hallway (Document[119]):""John went back to the hallway",Where is John? 
+135,bathroom,"bathroom (Document[119]):""Sandra travelled to the",Where is Sandra? 
+136,office,"The most recent location of Sandra is bathroom.
+</example>
+
+<",Where is Sandra? 
+137,kitchen,"The most recent location of John is the office. (Answer)
+
+<context>",Where is John? 
+138,bathroom,"the office (Document[102]):""Sandra journeyed to the office",Where is Sandra? 
+139,bathroom,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+140,office,"the Conciergerie (Document[160]):""On 16",Where is Mary? 
+141,hallway,"The most recent location of Mary is garden. (Document[119]):""",Where is Mary? 
+142,hallway,"The garden (Document[119]):""Mary journeyed to the garden",Where is Mary? 
+143,office,"The most recent location of Sandra is bathroom.
+
+<context>
+""",Where is Sandra? 
+144,bedroom,"hallway (Document[109]):""Sandra went to the hallway",Where is Sandra? 
+145,kitchen,"the bedroom (Document[109]):""Sandra went to the bed",Where is Sandra? 
+146,kitchen,"kitchen (Document[129]):""Sandra went to the kitchen.""",Where is Sandra? 
+147,kitchen,"bedroom (Document[109]):""Charlie went to the hallway",Where is Daniel? 
+148,kitchen,"bedroom (Document[13]):""Sandra went back to the bedroom",Where is Sandra? 
+149,kitchen,"the bedroom (Document[20]):""Daniel went to the bedroom .",Where is Daniel? 
+150,garden,"Mogador (Document[26]):""Mogador, or Mog",Where is Daniel? 
+151,garden,"the garden (Document[119]):""Sandra moved to the garden .",Where is Sandra? 
+152,bathroom,"The garden (Document[119]):""Daniel went back to the garden .",Where is Daniel? 
+153,office,"The most recent location of Daniel is office.
+
+Answer: The most recent location of",Where is Daniel? 
+154,bedroom,"the garden (Document[13]):""John went to the garden . John went",Where is John? 
+155,bathroom,"balcony (Document[1892]):""Charlie went to the",Where is Mary? 
+156,garden,"bathroom (Document[69]):""Daniel journeyed to the bathroom",Where is Daniel? 
+157,bedroom,"the garden (Document[10]):""John went to the garden .""",Where is John? 
+158,office,"The most recent location of John is office. (Answer)
+
+<context>",Where is John? 
+159,hallway,"hallway (Document[119]):""Mary went back to the hall",Where is Mary? 
+160,bedroom,"The most recent location of Daniel is bedroom. (Answer)
+
+<context>",Where is Daniel? 
+161,bedroom,"The bedroom (Document[119]):""Daniel moved to the bedroom",Where is Daniel? 
+162,bedroom,"The most recent location of Mary is balcony.
+
+Answer: The most recent",Where is Mary? 
+163,garden,"The most recent location of Mary is hallway.
+</answer>
+
+<context",Where is Mary? 
+164,bathroom,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+165,garden,"the hallway (Document[129]):""Sandra went back to the",Where is Sandra? 
+166,garden,"the garden (Document[109]):""Sandra went back to the garden",Where is Sandra? 
+167,garden,"The most recent location of Daniel is garden.
+</example>
+
+<context>",Where is Daniel? 
+168,kitchen,"the garden (Document[51]):""Daniel went to the garden . The wide",Where is Daniel? 
+169,bedroom,"the hallway (Document[79]):""Mary went back to the hall",Where is Mary? 
+170,office,"The most recent location of Daniel is the office. (Answer)
+
+<context>",Where is Daniel? 
+171,office,"The most recent location of Daniel is hallway.
+</example>
+
+<context",Where is Daniel? 
+172,garden,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+173,bathroom,"The most recent location of Sandra is hallway. (Answer)
+
+<context",Where is Sandra? 
+174,bathroom,"hallway (Document[109]):""Sandra went back to the bath",Where is Sandra? 
+175,office,"the office (Document[119]):""Sandra went to the office.""",Where is Sandra? 
+176,kitchen,"hallway (Document[129]):""Sandra went to the hallway",Where is Sandra? 
+177,bedroom,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+178,office,"hallway (Document[109]):""Along the northeaster",Where is Sandra? 
+179,office,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+180,hallway,"The hallway (Document[50]):""Mary went back to the hall",Where is Mary? 
+181,hallway,"The most recent location of Mary is hallway.
+</example>
+
+<context",Where is Mary? 
+182,hallway,"hallway (Document[10]):""Daniel went back to the hallway .",Where is Daniel? 
+183,hallway,"the hallway (Document[119]):""Mary went back to the",Where is Mary? 
+184,bedroom,"The parsonage (Document[119]):""Sandra went to the",Where is Sandra? 
+185,bathroom,"The most recent location of John is balcony.
+
+<answer>The most",Where is John? 
+186,office,The most recent location of Daniel is the office. (Document[119]):,Where is Daniel? 
+187,garden,"the garden (Document[129]):""Mary moved to the garden.""",Where is Mary? 
+188,kitchen,"The most recent location of Sandra is garden. (Document[10]):""",Where is Sandra? 
+189,office,"the garden (Document[13]):""Sandra journeyed to the garden""",Where is Sandra? 
+190,hallway,"balcony (Document[109]):""Charlie went to the hall",Where is Mary? 
+191,kitchen,"hallway (Document[139]):""Sandra journeyed to the hall",Where is Sandra? 
+192,garden,"The hallway (Document[119]):""Sandra went to the hall",Where is Sandra? 
+193,hallway,"hallway (Document[11]):""Sandra journeyed to the hallway",Where is Sandra? 
+194,hallway,"hallway (Document[14]):""Sandra went to the hallway .",Where is Sandra? 
+195,garden,"garden (Document[20]):""Mary went to the garden . Mary",Where is Mary? 
+196,office,"The most recent location of John is hallway. (Document[69]):""",Where is John? 
+197,kitchen,"The most recent location of Daniel is the garden. (Answer)
+
+<context>",Where is Daniel? 
+198,bathroom,"The most recent location of Mary is office.
+</example>
+
+<context>",Where is Mary? 
+199,bedroom,"bathroom (Document[11]):""John went to the bathroom .",Where is John? 
+200,hallway,"hallway (Document[15]):""Mary moved to the hallway.""",Where is Mary? 
+201,office,"The most recent location of John is office.
+</example>
+
+<context>",Where is John? 
+202,office,"the hallway (Document[30]):""Daniel went to the hallway .",Where is Daniel? 
+203,bedroom,"The Resting House (Document[119]):""Jessica had passed",Where is Sandra? 
+204,hallway,"hallway (Document[119]):""Sandra went to the bedroom",Where is Sandra? 
+205,bathroom,"bathroom (Document[171]):""Sandra travelled to the",Where is Sandra? 
+206,kitchen,"The hallway (Document[109]):""Mary moved to the hall",Where is Mary? 
+207,hallway,"hallway (Document[TN-31]):""Sandra went to the",Where is Sandra? 
+208,bathroom,"The most recent location of Daniel is the bathroom.
+
+<context>
+""",Where is Daniel? 
+209,hallway,"the garden (Document[21]):""Jennie went to the garden .",Where is John? 
+210,bathroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+211,bedroom,"The most recent location of John is office. (Answer)
+
+<context>",Where is John? 
+212,hallway,"hallway (Document[119]):""Daniel moved to the hallway.""",Where is Daniel? 
+213,bedroom,"the bedroom (Document[109]):""Mary went back to the",Where is Mary? 
+214,bathroom,"bathroom (Document[179]):""Alan moved to the gar",Where is Sandra? 
+215,bedroom,"balcony (Document[129]):""Charlie went to the hall",Where is Mary? 
+216,bathroom,"The most recent location of John is hallway.
+</example>
+
+<context",Where is John? 
+217,hallway,The most recent location of John is the hallway. (Document[119],Where is John? 
+218,hallway,"the garden (Document[196]):""Sandra journeyed to the garden",Where is Sandra? 
+219,bathroom,"The hallway (Document[129]):""John went back to the hall",Where is John? 
+220,bathroom,"balcony (Document[119]):""Charlie went to the hall",Where is Mary? 
+221,hallway,The most recent location of Daniel is hallway. (Document[119]):,Where is Daniel? 
+222,kitchen,"hallway (Document[119]):""Daniel went back to the hallway",Where is Daniel? 
+223,hallway,The most recent location of Sandra is office. (Document[119]):,Where is Sandra? 
+224,bedroom,"hallway (Document[50]):""John went back to the hallway .",Where is John? 
+225,office,"the hallway (Document[101]):""Charlie went to the hall",Where is John? 
+226,hallway,"hallway (Document[119]):""Daniel went to the hallway .",Where is Daniel? 
+227,garden,"bathroom (Document[129]):""Sandra went to the bath",Where is Sandra? 
+228,bathroom,"the hallway (Document[119]):""Charlie went to the hall",Where is John? 
+229,bathroom,The most recent location of John is the office. (Document[620]):,Where is John? 
+230,office,"the hallway (Document[675]):""Charlie went to the hall",Where is Daniel? 
+231,garden,"The most recent location of Mary is the bathroom. (Answer)
+
+<context",Where is Mary? 
+232,hallway,The most recent location of Daniel is the hallway. (Document[109],Where is Daniel? 
+233,office,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+234,hallway,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+235,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+236,bedroom,"balcony (Document[119]):""Charlie went to the hall",Where is Mary? 
+237,bedroom,The most recent location of Mary is the hallway. (Document[129],Where is Mary? 
+238,bedroom,"hallway (Document[1886]):""Daniel went to the hallway",Where is Daniel? 
+239,office,"hallway (Document[129]):""Sandra went to the hallway",Where is Sandra? 
+240,hallway,"hallway (Document[13]):""Daniel went to the hallway . Jud",Where is Daniel? 
+241,kitchen,"hallway (Document[48]):""Mary went back to the hallway",Where is Mary? 
+242,garden,"The hallway (Document[28]):""Mary went back to the hall",Where is Mary? 
+243,garden,"the hallway (Document[119]):""Mary went back to the",Where is Mary? 
+244,kitchen,"the hallway (Document[19]):""Mary went back to the hall",Where is Mary? 
+245,kitchen,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+246,garden,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+247,garden,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+248,garden,"The garden (Document[109]):""Sandra went to the garden .",Where is Sandra? 
+249,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+250,bedroom,"the office (Document[129]):""Daniel went to the office . Mary",Where is Daniel? 
+251,office,"The office (Document[119]):""Mary went to the office .",Where is Mary? 
+252,bathroom,"The most recent location of Daniel is stable. (Answer)
+
+<context>",Where is Daniel? 
+253,bathroom,"The most recent location of Daniel is balcony.
+
+Answer: The most recent",Where is Daniel? 
+254,bedroom,The most recent location of John is the garden. (Document[119]):,Where is John? 
+255,bedroom,"The most recent location of John is balcony.
+</example>
+
+<",Where is John? 
+256,office,"The most recent location of Sandra is office.
+</example>
+
+<context",Where is Sandra? 
+257,office,"The most recent location of Sandra is garden. (Answer)
+
+<context>",Where is Sandra? 
+258,kitchen,"balcony (Document[10]):""Charlie went to the hallway",Where is Mary? 
+259,garden,"the garden (Document[109]):""Mary went to the garden""",Where is Mary? 
+260,garden,"the garden (Document[27]):""Sandra moved to the garden.""",Where is Sandra? 
+261,office,"The office (Document[129]):""Mary went back to the bed",Where is Mary? 
+262,hallway,"hallway (Document[12]):""Sandra went to the hallway .",Where is Sandra? 
+263,office,"hallway (Document[119]):""John went to the hallway .",Where is John? 
+264,office,"The most recent location of John is hallway. (Answer)
+
+<context>",Where is John? 
+265,bathroom,"the garden (Document[10]):""Sandra journeyed to the bathroom",Where is Sandra? 
+266,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Sandra? 
+267,bedroom,"the garden (Document[109]):""Sandra went back to the garden",Where is Sandra? 
+268,bathroom,"The most recent location of John is balcony.
+
+Answer: John went to",Where is John? 
+269,bedroom,The most recent location of Daniel is the bathroom. (Document[119],Where is Daniel? 
+270,kitchen,The required surety will be as nothing to her; while to you it will be everything,Where is Daniel? 
+271,office,The most recent location of Sandra is office. (Document[119]):,Where is Sandra? 
+272,office,The most recent location of Sandra is the office. (Document[119],Where is Sandra? 
+273,kitchen,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+274,bathroom,"the office (Document[109]):""Some weeks later she wrote to chron",Where is Daniel? 
+275,office,"The most recent location of Sandra is office. (Answer)
+
+<context>",Where is Sandra? 
+276,kitchen,"the garden (Document[10]):""Daniel moved to the garden.""",Where is Daniel? 
+277,hallway,"hallway (Document[13]):""Mary journeyed to the hallway",Where is Mary? 
+278,office,"The most recent location of John is hallway. (Document[12]):""",Where is John? 
+279,bathroom,"The most recent location of John is hallway. (Document[12]):""",Where is John? 
+280,bathroom,"bathroom (Document[119]):""Sandra journeyed to the",Where is Sandra? 
+281,garden,"garden (Document[3]):""Daniel went to the garden.""
+
+Answer",Where is Daniel? 
+282,office,"hallway (Document[10]):""Sandra journeyed to the office .",Where is Sandra? 
+283,office,"The office (Document[10]):""Sandra journeyed to the office .",Where is Sandra? 
+284,garden,"The most recent location of John is garden. (Document[48]):""John",Where is John? 
+285,office,"The office (Document[119]):""John went back to the office.""",Where is John? 
+286,bathroom,"bathroom (Document[49]):""Sandra went to the bedroom",Where is Sandra? 
+287,office,"the hallway (Document[57]):""John went back to the office.""",Where is John? 
+288,garden,"The garden (Document[119]):""Elaine's eyes were",Where is Daniel? 
+289,bathroom,"the hallway (Document[18]):""Sandra went to the bedroom",Where is Sandra? 
+290,kitchen,"The most recent location of Mary is balcony. (Answer)
+
+<context",Where is Mary? 
+291,kitchen,"The most recent location of John is balcony. (Answer)
+
+<context",Where is John? 
+292,bedroom,"The most recent location of John is bedroom. (Answer)
+
+<context>",Where is John? 
+293,kitchen,"The hallway (Document[119]):""Mary went to the hall",Where is Mary? 
+294,kitchen,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+295,garden,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+296,garden,"The garden (Document[119]):""Daniel went to the garden . Besides",Where is Daniel? 
+297,hallway,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+298,hallway,"the garden (Document[10]):""Mary journeyed to the garden .",Where is Mary? 
+299,bathroom,"The most recent location of Mary is the bathroom.
+
+<context>
+""",Where is Mary? 
+300,bathroom,"The most recent location of Mary is bathroom. (Answer)
+
+<context>",Where is Mary? 
+301,bathroom,"The most recent location of Mary is the bathroom. (Answer)
+
+<context",Where is Mary? 
+302,bathroom,"bathroom (Document[109]):""Mary journeyed to the",Where is Mary? 
+303,office,"hallway (Document[129]):""John went to the hallway .",Where is John? 
+304,hallway,"hallway (Document[119]):""Mary journeyed to the bath",Where is Mary? 
+305,garden,"the garden (Document[30]):""Daniel moved to the garden.""",Where is Daniel? 
+306,bathroom,"bathroom (Document[119]):""Daniel went to the bathroom",Where is Daniel? 
+307,office,"balcony (Document[119]):""Charlie went to the hall",Where is Daniel? 
+308,office,"The most recent location of Daniel is the hallway. (Answer)
+
+<context",Where is Daniel? 
+309,kitchen,"the garden (Document[119]):""John went to the garden . Be",Where is John? 
+310,garden,"Cemetery Hill (Document[129]):""Daniel was at Cemetery Hill",Where is Daniel? 
+311,garden,"In the garden (Document[129]):""Sandra journeyed to the",Where is Sandra? 
+312,office,"the garden (Document[109]):""Daniel journeyed to the garden .",Where is Daniel? 
+313,bedroom,"the garden (Document[109]):""Sandra journeyed to the garden",Where is Sandra? 
+314,garden,"hallway (Document[109]):""John went to the hallway .",Where is John? 
+315,office,"balcony (Answer: The most recent location of Alan is shop.
+)",Where is Mary? 
+316,bedroom,"bedroom (Document[119]):""Daniel travelled to the bedroom",Where is Daniel? 
+317,office,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+318,office,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+319,garden,"the hallway (Document[129]):""Charlie went to the hall",Where is Daniel? 
+320,garden,"The most recent location of John is balcony. (Answer)
+
+<context",Where is John? 
+321,kitchen,"bathroom (Document[12]):""Sandra went to the bathroom",Where is Sandra? 
+322,kitchen,"In the garden (Document[119]):""Sandra moved to the garden",Where is Sandra? 
+323,garden,"In the garden (Document[129]):""Daniel went to the garden .",Where is Daniel? 
+324,garden,"The most recent location of Daniel is the garden. (Answer)
+
+<context>",Where is Daniel? 
+325,bathroom,"bathroom (Document[159]):""Sandra moved to the bath",Where is Sandra? 
+326,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+327,garden,"garden (Document[17]):""Sandra moved to the garden.""",Where is Sandra? 
+328,garden,"The most recent location of Sandra is bathroom.
+
+Answer: The most recent",Where is Sandra? 
+329,bedroom,The most recent location of Daniel is the bedroom. (Document[119],Where is Daniel? 
+330,kitchen,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+331,office,"The most recent location of John is hallway.
+
+<example>
+John went",Where is John? 
+332,kitchen,"the hallway (Document[109]):""Charlie went to the hall",Where is Sandra? 
+333,bedroom,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+334,bedroom,"the hallway (Document[119]):""Charlie went to the hall",Where is Daniel? 
+335,office,"The most recent location of John is the shop. (Answer)
+
+<context>",Where is John? 
+336,hallway,"The most recent location of Daniel is the hallway.
+</example>
+
+<",Where is Daniel? 
+337,office,"The most recent location of Sandra is balcony.
+</example>",Where is Sandra? 
+338,hallway,"hallway (Document[129]):""Sandra went back to the hall",Where is Sandra? 
+339,hallway,"hallway (Document[109]):""Sandra journeyed to the hall",Where is Sandra? 
+340,hallway,"The most recent location of Mary is hallway.
+</example>
+
+<context",Where is Mary? 
+341,garden,"The most recent location of Mary is garden.
+</example>
+
+<context>",Where is Mary? 
+342,office,"Boma (Document[15]):""The Rovers were astonished at his",Where is Daniel? 
+343,kitchen,"the garden (Document[11]):""Sandra went back to the garden .",Where is Sandra? 
+344,garden,"the garden (Document[109]):""Sandra went to the garden .",Where is Sandra? 
+345,office,"The most recent location of Mary is office.
+</example>
+
+<context>",Where is Mary? 
+346,hallway,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+347,hallway,"hallway (Document[160]):""John went to the hallway .",Where is John? 
+348,kitchen,"The most recent location of Mary is garden.
+</example>
+
+<context>",Where is Mary? 
+349,kitchen,"hallway (Document[159]):""John went to the hallway .",Where is John? 
+350,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is Sandra? 
+351,garden,"Baltic (Document[159]):""Sandra travelled to the",Where is John? 
+352,garden,"the garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+353,bedroom,"bedroom (Document[159]):""Sandra journeyed to the garden",Where is Sandra? 
+354,bedroom,"The hallway (Document[482]):""Sandra went to the hall",Where is Sandra? 
+355,bathroom,"bathroom (Document[109]):""Sandra went to the bath",Where is Sandra? 
+356,office,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+357,hallway,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+358,garden,"the garden (Document[129]):""Mary journeyed to the office",Where is Mary? 
+359,hallway,"the hallway (Document[119]):""Mary journeyed to the",Where is Mary? 
+360,garden,"the garden (Document[119]):""Daniel travelled to the garden.""",Where is Daniel? 
+361,bathroom,"the garden (Document[159]):""Daniel went back to the garden.""",Where is Daniel? 
+362,garden,"St Eustache (Document[101]):""Mary went back to",Where is Mary? 
+363,garden,"The most recent location of John is garden. (Answer)
+
+<context>",Where is John? 
+364,garden,"the garden (Document[28]):""Daniel went to the garden . Mary went",Where is Daniel? 
+365,garden,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+366,garden,The most recent location of Sandra is hallway. (Document[109],Where is Sandra? 
+367,hallway,The most recent location of Daniel is balcony. (Document[119],Where is Daniel? 
+368,hallway,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+369,hallway,The most recent location of Daniel is hallway. (Document[129]):,Where is Daniel? 
+370,hallway,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+371,hallway,"The most recent location of Daniel is the office. (Answer)
+
+<context>",Where is Daniel? 
+372,garden,The most recent location of Mary is bedroom. (Document[119]):,Where is Mary? 
+373,garden,"the garden (Document[109]):""Mary went to the garden .",Where is Mary? 
+374,office,"the garden (Document[109]):""Mary went to the garden .",Where is Mary? 
+375,bedroom,"the office (Document[119]):""Mary journeyed to the office",Where is Mary? 
+376,kitchen,"The parsonage (Document[119]):""Sandra journeyed to",Where is Sandra? 
+377,bathroom,"The bathroom (Document[119]):""Sandra went to the bath",Where is Sandra? 
+378,bathroom,"bathroom (Document[119]):""Sandra went to the bath",Where is Sandra? 
+379,bedroom,"The most recent location of John is the garden. (Answer)
+
+<context>",Where is John? 
+380,bathroom,"the hallway (Document[119]):""Charlie went to the hall",Where is Mary? 
+381,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+382,bedroom,"The most recent location of Mary is the office.
+</example>
+
+<context",Where is Mary? 
+383,office,"hallway (Document[15]):""Sandra journeyed to the hallway",Where is Sandra? 
+384,office,"the office (Document[129]):""Mary journeyed to the office",Where is Mary? 
+385,kitchen,"the stables (Document[119]):""Van Bibber was asked",Where is Sandra? 
+386,office,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+387,office,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+388,office,"The garden (Document[10]):""Mary went to the garden . She",Where is Mary? 
+389,kitchen,The most recent location of Sandra is office. (Document[302]):,Where is Sandra? 
+390,kitchen,"The garden (Document[109]):""Mary went to the garden .",Where is Mary? 
+391,hallway,"the garden (Document[13]):""Daniel travelled to the garden.""",Where is Daniel? 
+392,bathroom,"The most recent location of Mary is the garden. (Document[11]):""",Where is Mary? 
+393,bedroom,"The most recent location of Mary is garden. (Answer)
+
+<context>",Where is Mary? 
+394,office,"the garden (Document[119]):""Sandra went back to the garden",Where is Sandra? 
+395,office,"balcony (Document[1856]):""Charlie went to the",Where is Daniel? 
+396,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+397,office,"balcony (Document[119]):""Charlie went to the hall",Where is Daniel? 
+398,bathroom,"the garden (Document[159]):""Sandra went to the garden""",Where is Sandra? 
+399,garden,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+400,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+401,garden,"balcony (Document[119]):""Alan moved to the gar",Where is John? 
+402,bedroom,"bathroom (Document[112]):""Alan moved to the gar",Where is John? 
+403,kitchen,"The most recent location of Sandra is bathroom (Document[11]):""",Where is Sandra? 
+404,office,The most recent location of Sandra is the garden. (Document[129],Where is Sandra? 
+405,kitchen,"The most recent location of Daniel is balcony.
+
+Answer: The most recent",Where is Daniel? 
+406,hallway,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+407,bedroom,"bedroom (Document[109]):""Sandra went to the bedroom",Where is Sandra? 
+408,garden,"The garden (Document[16]):""Mary went to the garden .""",Where is Mary? 
+409,kitchen,"bedroom (Document[109]):""Sandra went to the bedroom",Where is Sandra? 
+410,bedroom,"bathroom (Document[109]):""John went back to the bath",Where is John? 
+411,garden,"the garden (Document[16]):""Sandra journeyed to the garden.""",Where is Sandra? 
+412,bathroom,"bathroom (Document[32]):""Sandra journeyed to the bath",Where is Sandra? 
+413,hallway,"The hallway (Document[54]):""Daniel went to the hallway.""",Where is Daniel? 
+414,office,"in the garden (Document[119]):""Sandra journeyed to the",Where is Sandra? 
+415,bedroom,"hallway (Document[100]):""Charlie went to the hallway",Where is Daniel? 
+416,bedroom,"the hallway (Document[94]):""All ranks, all orders of society",Where is Daniel? 
+417,kitchen,"the garden (Document[159]):""John went back to the garden .",Where is John? 
+418,hallway,"hallway (Document[123]):""Sandra journeyed to the hall",Where is Sandra? 
+419,bathroom,"the hallway (Document[1795]):""Sandra went to the",Where is Sandra? 
+420,hallway,"hallway (Document[1796]):""Sandra went back to the",Where is Sandra? 
+421,hallway,"hallway (Document[67]):""Sandra went back to the hallway",Where is Sandra? 
+422,bathroom,"hallway (Document[27]):""Sandra went back to the hallway",Where is Sandra? 
+423,hallway,"hallway (Document[80]):""Daniel went back to the hallway.""",Where is Daniel? 
+424,bedroom,"hallway (Document[10]):""Mary went back to the hallway",Where is Mary? 
+425,kitchen,the garage (Document[Alan moved to the garage. Charlie went to the,Where is John? 
+426,kitchen,"The most recent location of John is the bathroom. (Answer)
+
+<context",Where is John? 
+427,office,"The most recent location of John is the hallway.
+
+<answer>The most",Where is John? 
+428,bedroom,"the garden (Document[159]):""Sandra went to the garden .",Where is Sandra? 
+429,bedroom,"the nursing home (Document[121]):""Cyril sat for",Where is Sandra? 
+430,office,"balcony (Document[129]):""Alan moved to the gar",Where is John? 
+431,kitchen,"The most recent location of John is the office.
+
+Answer: The most recent location",Where is John? 
+432,kitchen,"the garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+433,kitchen,"the garden (Document[109]):""Mary went to the garden .",Where is Mary? 
+434,office,The most recent location of Daniel is the office. (Document[129]):,Where is Daniel? 
+435,garden,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+436,kitchen,"The most recent location of Mary is the garden. (Document[11]):""",Where is Mary? 
+437,bathroom,"The garden (Document[119]):""John went to the garden . He",Where is John? 
+438,bedroom,"bedroom (Document[120]):""Daniel went to the bedroom .",Where is Daniel? 
+439,garden,The most recent location of John is hallway. (Document[128]):,Where is John? 
+440,bedroom,"balcony (Document[119]):""Charlie went to the hall",Where is Sandra? 
+441,hallway,"the hallway (Document[109]):""Daniel journeyed to the hall",Where is Daniel? 
+442,bathroom,"the hallway (Document[109]):""Charlie went to the hall",Where is Daniel? 
+443,garden,"The most recent location of Mary is balcony.
+
+Answer: Mary is in",Where is Mary? 
+444,bedroom,"The most recent location of Daniel is bathroom.
+
+Answer: The most recent location",Where is Daniel? 
+445,garden,The most recent location of Daniel is the garden. (Document[119]):,Where is Daniel? 
+446,bedroom,"the garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+447,hallway,"The hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+448,garden,"hallway (Document[70]):""Daniel went to the hallway . Musical",Where is Daniel? 
+449,kitchen,"hallway (Document[100]):""Sandra went to the hallway",Where is Sandra? 
+450,kitchen,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+451,kitchen,"bathroom (Document[119]):""John went back to the bath",Where is John? 
+452,kitchen,"The office (Document[109]):""Sandra moved to the office.""",Where is Sandra? 
+453,garden,The most recent location of Sandra is office. (Document[119]):,Where is Sandra? 
+454,bathroom,"the garden (Document[90]):""Sandra went to the garden . It",Where is Sandra? 
+455,kitchen,"The hallway (Document[109]):""Sandra went to the hall",Where is Sandra? 
+456,bedroom,"bedroom (Document[56]):""Mary moved to the bedroom.""",Where is Mary? 
+457,hallway,"The most recent location of John is hallway (Answer)
+
+<example>",Where is John? 
+458,garden,"the hallway (Document[103]):""Charlie went to the hall",Where is John? 
+459,hallway,"the garden (Document[18]):""Sandra went to the garden . She",Where is Sandra? 
+460,bathroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is Sandra? 
+461,garden,"The most recent location of Sandra is garden (Document[109]):""",Where is Sandra? 
+462,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+463,office,"hallway (Document[93]):""John went back to the hallway .",Where is John? 
+464,garden,"the office (Document[20]):""John went back to the office.""",Where is John? 
+465,garden,"the garden (Document[70]):""Sandra went back to the garden.""",Where is Sandra? 
+466,bedroom,"bedroom (Document[10]):""Daniel went to the bedroom . He",Where is Daniel? 
+467,bedroom,"the garden (Document[119]):""Daniel moved to the garden.""",Where is Daniel? 
+468,bedroom,"the garden (Document[129]):""Sandra went back to the garden",Where is Sandra? 
+469,office,"The most recent location of John is office. (Document[119]):""",Where is John? 
+470,hallway,"The most recent location of Mary is hallway.
+</example>
+
+<context",Where is Mary? 
+471,office,"hallway (Document[129]):""Mary went back to the hall",Where is Mary? 
+472,office,"hallway (Document[129]):""Mary went back to the hall",Where is Mary? 
+473,bathroom,"hallway (Document[119]):""John went back to the hallway",Where is John? 
+474,kitchen,"hallway (Document[109]):""John went back to the bedroom",Where is John? 
+475,garden,"The most recent location of John is the office. (Answer)
+
+<context>",Where is John? 
+476,bathroom,"the office (Page 81)
+
+""Mary travelled to the office",Where is Mary? 
+477,kitchen,"The garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+478,garden,"hallway (Document[119]):""John went to the hallway .",Where is John? 
+479,bathroom,"The most recent location of John is bathroom.
+
+Answer: The most recent location",Where is John? 
+480,bedroom,"bedroom (Document[109]):""Sandra went back to the bed",Where is Sandra? 
+481,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is Sandra? 
+482,hallway,"The office (Document[129]):""Daniel went to the office . Mary",Where is Daniel? 
+483,hallway,The most recent location of John is the hallway. (Document[129],Where is John? 
+484,garden,"the hallway (Document[119]):""John went back to the hall",Where is John? 
+485,bedroom,"Up-town (Document[109]):""Up-town, Beul",Where is Daniel? 
+486,bathroom,"the garden (Document[1]):""Sandra moved to the garden.""",Where is Sandra? 
+487,hallway,"the garden (Document[284]):""Daniel travelled to the garden .",Where is Daniel? 
+488,bedroom,"the garden (Document[300]):""John went to the garden .""",Where is John? 
+489,bathroom,"the hallway (Document[359]):""Daniel went back to the hall",Where is Daniel? 
+490,kitchen,"the kitchen (Document[119]):""Daniel went to the kitchen .""",Where is Daniel? 
+491,bedroom,"bedroom (Document[15]):""John went to the bedroom.""",Where is John? 
+492,bedroom,The most recent location of John is the bedroom. (Document[109],Where is John? 
+493,garden,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+494,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+495,kitchen,"the kitchen (Document[109]):""Mary moved to the kitchen .",Where is Mary? 
+496,kitchen,"balcony (Document[109]):""Charlie went to the hall",Where is Mary? 
+497,bedroom,"the hallway (Document[109]):""Charlie went to the hall",Where is Sandra? 
+498,hallway,"the balcony (Document[12]):""John was sitting on the bal",Where is John? 
+499,hallway,"the hallway (Document[119]):""John went to the hallway",Where is John? 
+500,kitchen,"The most recent location of Daniel is the kitchen. (Answer)
+
+<context>",Where is Daniel? 
+501,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+502,bathroom,"the garden (Document[10]):""Daniel journeyed to the garden . """,Where is Daniel? 
+503,hallway,"the garden (Document[109]):""John journeyed to the garden .",Where is John? 
+504,bathroom,"bathroom (Document[CCXCII]):""Daniel moved to the bath",Where is Daniel? 
+505,kitchen,"bathroom (Document[CCCXV]):""Mary moved to the bath",Where is Mary? 
+506,bedroom,"bathroom (Document[100]):""Sandra journeyed to the",Where is Sandra? 
+507,office,"the office (Document[111]):""Daniel journeyed to the office""",Where is Daniel? 
+508,office,"the office (Document[119]):""Daniel journeyed to the office.""",Where is Daniel? 
+509,bedroom,"The office (Document[119]):""Daniel went back to the office""",Where is Daniel? 
+510,bedroom,"Coningsby (Document[22]):""Coningsby is the heir",Where is John? 
+511,office,"The most recent location of Mary is office.
+</example>
+
+<context>",Where is Mary? 
+512,bedroom,"The most recent location of Mary is bedroom. (Answer)
+
+<context>",Where is Mary? 
+513,bedroom,"The bedroom (Document[109]):""Mary journeyed to the",Where is Mary? 
+514,office,"the garden (Document[119]):""Daniel moved to the garden . """,Where is Daniel? 
+515,bathroom,"Sandwood (Document[152]):""Jennie went back to",Where is Mary? 
+516,bathroom,"The most recent location of Daniel is balcony.
+</example>
+
+<",Where is Daniel? 
+517,bedroom,"bedroom (Document[129]):""One night the Brownies reached a",Where is Sandra? 
+518,hallway,"hallway (Document[129]):""Charlie went to the hallway",Where is Daniel? 
+519,garden,"hallway (Document[312]):""Daniel went back to the hallway",Where is Daniel? 
+520,office,"the office (Document[84]):""Sandra went to the office.""",Where is Sandra? 
+521,office,"The most recent location of Daniel is the office (Document[153]):""",Where is Daniel? 
+522,hallway,"The hallway (Document[219]):""Daniel went back to the hall",Where is Daniel? 
+523,hallway,"the hallway (Document[129]):""Daniel went back to the hall",Where is Daniel? 
+524,garden,"the garden (Document[250]):""Sandra went back to the garden",Where is Sandra? 
+525,hallway,"hallway (Document[262]):""Mary went to the hallway",Where is Mary? 
+526,office,"The office (Document[109]):""John journeyed to the office .",Where is Daniel? 
+527,garden,"the garden (Document[119]):""Daniel went back to the garden .",Where is Daniel? 
+528,garden,"hallway (Document[112]):""Daniel went back to the hallway",Where is Daniel? 
+529,hallway,"The most recent location of Mary is hallway.
+
+Answer: Mary is in the",Where is Mary? 
+530,garden,"the garden (Document[119]):""Alfred's eyes fell first",Where is John? 
+531,garden,The most recent location of John is the garden. (Document[119]):,Where is John? 
+532,garden,"the garden (Document[119]):""Charlie went to the hallway",Where is John? 
+533,office,"the office (Document[129]):""Sandra moved to the office .",Where is Sandra? 
+534,bathroom,"The hallway (Document[27]):""Daniel went back to the hallway",Where is Daniel? 
+535,garden,"the garden (Document[35]):""Sandra travelled to the garden .",Where is Sandra? 
+536,bedroom,"balcony (Document[46]):""Charlie went to the hallway",Where is Sandra? 
+537,hallway,"hallway (Document[119]):""Sandra went back to the hall",Where is Sandra? 
+538,hallway,"The most recent location of Sandra is office.
+</example>
+
+<context",Where is Sandra? 
+539,bedroom,"bedroom (Document[159]):""Captain Argall, who seems",Where is Sandra? 
+540,garden,"The most recent location of John is balcony. (Answer)
+
+<context",Where is John? 
+541,office,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+542,hallway,The most recent location of Daniel is the hallway. (Document[119],Where is Daniel? 
+543,hallway,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+544,kitchen,"The hallway (Document[147]):""Daniel went to the hallway",Where is Daniel? 
+545,garden,"the garden (Document[487]):""Sandra journeyed to the garden",Where is Sandra? 
+546,kitchen,"The most recent location of Mary is balcony. (Answer)
+
+<context",Where is Mary? 
+547,kitchen,"The most recent location of Mary is hallway (Document[109]):""",Where is Mary? 
+548,hallway,"the hallway (Document[129]):""Charlie went to the hall",Where is John? 
+549,bedroom,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+550,bedroom,"balcony (Document[12]):""Charlie went to the hallway",Where is John? 
+551,bathroom,"balcony (Answer: The most recent location of Alan is shop.)
+
+<",Where is John? 
+552,office,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+553,bedroom,"the hallway (Document[129]):""Charlie went to the hall",Where is Daniel? 
+554,kitchen,"gunboat (Document[119]):""Arrived there, I",Where is Daniel? 
+555,hallway,"The most recent location of Sandra is hallway.
+</answer>
+
+<",Where is Sandra? 
+556,kitchen,"The most recent location of Mary is balcony.
+</example>
+
+<",Where is Mary? 
+557,bedroom,"bedroom (Document[159]):""Mary journeyed to the bed",Where is Daniel? 
+558,bedroom,"The hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+559,bedroom,"The hallway (Document[109]):""Mary went to the hall",Where is Mary? 
+560,garden,"The Column of July
+
+Answer: The most recent location of Daniel is The Column of",Where is Daniel? 
+561,bedroom,"The most recent location of Sandra is balcony. (Answer)
+
+<",Where is Sandra? 
+562,garden,"The garden (Document[76]):""Sandra went back to the garden""",Where is Sandra? 
+563,kitchen,"The garden (Document[99]):""Daniel went to the garden . for nature",Where is Daniel? 
+564,bedroom,"the garden (Document[119]):""SALOME and SHE",Where is Sandra? 
+565,bathroom,The gudewife was sayin' he wes never the same sin' a,Where is John? 
+566,bathroom,"The most recent location of John is bathroom. (Answer)
+
+<context>",Where is John? 
+567,kitchen,"The garden (Document[514]):""Daniel went back to the garden .",Where is Daniel? 
+568,bedroom,"hallway (Document[590]):""Sandra moved to the hallway",Where is Sandra? 
+569,bedroom,"hallway (Document[055]):""Sandra moved to the hallway",Where is Sandra? 
+570,bedroom,"The most recent location of Daniel is balcony. (Answer)
+
+<context",Where is Daniel? 
+571,bedroom,"The hallway (Document[119]):""Daniel went back to the bed",Where is Daniel? 
+572,kitchen,"balcony (Document[109]):""Sandra went to the garden",Where is Sandra? 
+573,kitchen,"hallway (Document[128]):""John went to the hallway .",Where is John? 
+574,office,"the garden (Document[13]):""Sandra went to the garden . Mary",Where is Sandra? 
+575,bathroom,"The most recent location of John is balcony.
+
+Answer: The most recent",Where is John? 
+576,bedroom,"The most recent location of John is balcony.
+</example>
+
+<",Where is John? 
+577,hallway,The most recent location of Daniel is hallway. (Document[119]):,Where is Daniel? 
+578,bedroom,"the hallway (Document[129]):""Daniel journeyed to the hall",Where is Daniel? 
+579,bedroom,"The most recent location of Daniel is hallway.
+</example>
+
+<context",Where is Daniel? 
+580,hallway,"The most recent location of John is hallway.
+
+Answer: The most recent location",Where is John? 
+581,hallway,"The most recent location of John is hallway. (Answer)
+
+<context>",Where is John? 
+582,garden,"balcony (Answer: The most recent location of Alan is shop.
+)",Where is Daniel? 
+583,kitchen,"the garden (Document[1856]):""Daniel went to the garden .",Where is Daniel? 
+584,bedroom,"balcony (Document[109]):""Mary journeyed to the",Where is Mary? 
+585,bedroom,"bedroom (Document[1194]):""Sandra went to the bed",Where is Sandra? 
+586,garden,"bedroom (Document[49]):""Sandra journeyed to the garden .",Where is Sandra? 
+587,hallway,"hallway (Document[57]):""Daniel went back to the hallway.""",Where is Daniel? 
+588,bedroom,"the hallway (Document[68]):""John went to the hallway.""",Where is John? 
+589,bedroom,"the garden (Document[70]):""Mary went to the garden . """,Where is Mary? 
+590,office,"at the office (Document[159]):""Sandra is Pepys",Where is Sandra? 
+591,hallway,"hallway (Document[16]):""Mary went to the hallway .",Where is Mary? 
+592,office,"the hallway (Document[16]):""John went to the hallway .",Where is John? 
+593,garden,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+594,bathroom,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+595,bathroom,"The bathroom (Document[129]):""Sandra went back to the",Where is Sandra? 
+596,office,"office (Document[119]):""Sandra went back to the office.""",Where is Sandra? 
+597,office,"the garden (Document[129]):""Sandra went back to the garden",Where is Sandra? 
+598,garden,"hallway (Document[51]):""Daniel went to the hallway . Jud",Where is Daniel? 
+599,bedroom,"bedroom (Document[10]):""Daniel went to the bedroom . He",Where is Daniel? 
+600,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+601,bedroom,"the hallway (Document[11]):""Charlie went to the hallway",Where is Sandra? 
+602,kitchen,"Mary journeyed to the office. (Document[119]):""M",Where is Mary? 
+603,kitchen,The most recent location of Sandra is the garden (Document[109]):,Where is Sandra? 
+604,office,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+605,garden,"the garden (Document[10]):""Mary journeyed to the garden .",Where is Mary? 
+606,kitchen,"the hallway (Document[42]):""Charlie went to the hallway",Where is John? 
+607,hallway,"hallway (Document[18]):""John went to the hallway.""",Where is John? 
+608,garden,"hallway (Document[19]):""Sandra went to the hallway .",Where is Sandra? 
+609,bedroom,"The hallway (Document[129]):""Daniel journeyed to the hall",Where is Daniel? 
+610,kitchen,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+611,office,The most recent location of Sandra is office. (Document[156]):,Where is Sandra? 
+612,bathroom,"The most recent location of Daniel is the office. (Document[31]):""",Where is Daniel? 
+613,garden,"The most recent location of John is the garden. (Answer)
+
+<context>",Where is John? 
+614,bathroom,"the hallway (Document[109]):""Charlie went to the hall",Where is Sandra? 
+615,office,"The office (Document[10]):""Daniel went back to the office.""",Where is Daniel? 
+616,kitchen,"the hallway (Document[109]):""Charlie went to the hall",Where is Sandra? 
+617,hallway,"The most recent location of Daniel is hallway (Document[109]):""",Where is Daniel? 
+618,kitchen,The most recent location of Mary is the hallway. (Answer),Where is Mary? 
+619,office,"the bathroom (Document[107]):""Sandra moved to the bath",Where is Sandra? 
+620,garden,"balcony (Document[120]):""Charlie went to the hall",Where is John? 
+621,office,"The most recent location of Mary is bathroom. (Answer)
+
+<context>",Where is Mary? 
+622,office,"The most recent location of Mary is bathroom.
+</example>
+
+<context",Where is Mary? 
+623,kitchen,"the office (Document[10]):""Sandra went to the office . The",Where is Sandra? 
+624,bathroom,"the garden (Document[1795]):""John went back to the garden",Where is John? 
+625,bedroom,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+626,bathroom,"bathroom (Document[119]):""John went back to the bath",Where is John? 
+627,bathroom,"The most recent location of John is balcony. (Answer)
+
+<context",Where is John? 
+628,bedroom,"the hallway (Document[11667]):""John went back to",Where is John? 
+629,bedroom,"hallway (Document[109]):""John went back to the hallway",Where is John? 
+630,bathroom,The bathroom (Answer: The most recent location of John is bathroom.),Where is John? 
+631,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is Mary? 
+632,bedroom,"The bathroom (Document[89]):""Mary went back to the bed",Where is Mary? 
+633,kitchen,"The most recent location of Mary is the bathroom. (Answer)
+
+<context",Where is Mary? 
+634,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+635,garden,"the garden (Document[112]):""Morton, having read the papers",Where is John? 
+636,garden,"the garden (Document[212]):""Sandra went to the garden .",Where is Sandra? 
+637,kitchen,"hallway (Document[300]):""John went back to the hallway",Where is John? 
+638,hallway,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+639,bathroom,"The garden (Document[34]):""Sandra went to the garden . She",Where is Sandra? 
+640,garden,The most recent location of Daniel is the Resting House. (Document[119,Where is Daniel? 
+641,garden,"The Minster house (Document[32]):""The whole southern sky overh",Where is Daniel? 
+642,bedroom,"The most recent location of Daniel is balcony.
+
+Answer: The most recent",Where is Daniel? 
+643,office,"The most recent location of John is the office. (Answer)
+
+<context>",Where is John? 
+644,garden,"the garden (Document[33]):""Sandra went to the garden . V",Where is Sandra? 
+645,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is Mary? 
+646,hallway,"the hallway (Document[129]):""Sandra journeyed to the",Where is Sandra? 
+647,office,"hallway (Document[119]):""Sandra journeyed to the hall",Where is Sandra? 
+648,kitchen,"hallway (Document[129]):""Sandra journeyed to the hall",Where is Sandra? 
+649,kitchen,"the hallway (Document[109]):""Sandra journeyed to the",Where is Sandra? 
+650,bathroom,"The most recent location of Daniel is the bathroom. (Answer)
+
+<context",Where is Daniel? 
+651,garden,"the garden (Document[391]):""Sandra went back to the garden",Where is Sandra? 
+652,kitchen,"the garden (Document[437]):""Daniel journeyed to the garden .",Where is Daniel? 
+653,kitchen,"The most recent location of Mary is garden. (Answer)
+
+<context>",Where is Mary? 
+654,garden,"in the bathroom (Document[100]):""Mary journeyed to",Where is Mary? 
+655,bathroom,"balcony (Document[109]):""Mary went to the bal",Where is Mary? 
+656,kitchen,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+657,kitchen,"bathroom (Document[23]):""John went to the bathroom.""",Where is John? 
+658,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+659,kitchen,The most recent location of Daniel is the garden. (Document[119]):,Where is Daniel? 
+660,kitchen,"the hallway (Document[129]):""Sandra journeyed to the",Where is Sandra? 
+661,kitchen,"the hallway (Document[119]):""Sandra journeyed to the",Where is Sandra? 
+662,garden,The most recent location of John is hallway. (Document[119]):,Where is John? 
+663,bedroom,"balcony (Document[109]):""Mary's image had",Where is Mary? 
+664,bedroom,"The most recent location of Mary is hallway.
+
+Answer: The most recent location",Where is Mary? 
+665,bathroom,"office (Document[129]):""Mary went to the bathroom .",Where is Mary? 
+666,office,"the office (Document[119]):""Daniel moved to the office . She",Where is Daniel? 
+667,office,"The most recent location of John is hallway.
+
+Answer: The most recent location",Where is John? 
+668,office,"the hallway (Document[339]):""John went back to the hall",Where is John? 
+669,office,"The hallway (Document[485]):""John went back to the hall",Where is John? 
+670,bedroom,"bedroom (Document[514]):""Juno is watching Io 'with",Where is John? 
+671,bedroom,"bedroom (Document[109]):""This time I had lost him for",Where is John? 
+672,office,"The most recent location of Daniel is the office. (Answer)
+
+<context>",Where is Daniel? 
+673,bathroom,"the hallway (Document[109]):""Charlie went to the hall",Where is Daniel? 
+674,kitchen,"The most recent location of Mary is the garden. (Answer)
+
+<context>",Where is Mary? 
+675,bathroom,"The most recent location of Mary is balcony.
+
+<context>
+EM",Where is Mary? 
+676,office,"the office (Document[10]):""Mary went to the office.""",Where is Mary? 
+677,hallway,"hallway (Document[39]):""Sandra journeyed to the hallway",Where is Sandra? 
+678,hallway,"hallway (Document[59]):""Sandra journeyed to the hallway",Where is Sandra? 
+679,hallway,"the hallway (Document[119]):""Sandra went to the hall",Where is Sandra? 
+680,kitchen,"balcony (Document[10]):""Charlie went to the hallway",Where is Daniel? 
+681,kitchen,"The most recent location of Daniel is bathroom.
+
+Answer: The most recent location",Where is Daniel? 
+682,kitchen,"the garden (Document[15]):""Mary went back to the garden""",Where is Mary? 
+683,office,"The most recent location of Mary is office (Document[129]):""M",Where is Mary? 
+684,bathroom,"the garden (Document[159]):""Alan moved to the garage",Where is Daniel? 
+685,garden,"balcony (Answer: The most recent location of Alan is shop.)
+
+<",Where is John? 
+686,bathroom,"The most recent location of Mary is bathroom.
+
+Answer: The most recent location",Where is Mary? 
+687,office,"The most recent location of Daniel is the hallway. (Answer)
+
+""You",Where is Daniel? 
+688,bathroom,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+689,hallway,"hallway (Document[133]):""John went to the hallway .",Where is John? 
+690,garden,"balcony (Document[134]):""Sandra went to the bal",Where is Sandra? 
+691,bathroom,"the garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+692,bathroom,"bathroom (Document[149]):""Sandra journeyed to the",Where is Sandra? 
+693,office,"the garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+694,garden,"The garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+695,garden,"The most recent location of Mary is garden.
+</question>
+
+<answer>",Where is Mary? 
+696,garden,"bathroom (Document[27]):""Mary went back to the bath",Where is Mary? 
+697,bedroom,"bathroom (Document[119]):""Sandra went back to the",Where is Sandra? 
+698,kitchen,"hallway (Document[30]):""Sandra went back to the hallway",Where is Sandra? 
+699,bedroom,"The garden (Document[159]):""Daniel went to the garden . He",Where is Daniel? 
+700,hallway,"hallway (Document[109]):""Mary moved to the hallway",Where is Mary? 
+701,hallway,"hallway (Document[129]):""Mary moved to the hallway",Where is Mary? 
+702,bathroom,"hallway (Document[129]):""John went back to the hallway",Where is John? 
+703,bathroom,"hallway (Document[119]):""John went back to the hallway",Where is John? 
+704,office,"hallway (Document[199]):""John went back to the hallway",Where is John? 
+705,hallway,"The most recent location of Mary is hallway.
+
+<context>
+""The",Where is Mary? 
+706,hallway,The most recent location of Mary is hallway. (Document[119]):,Where is Mary? 
+707,bathroom,"The most recent location of Daniel is garden. (Answer)
+
+<context>",Where is Daniel? 
+708,office,"hallway (Document[129]):""Sandra went back to the hall",Where is Sandra? 
+709,hallway,"hallway (Document[109]):""Mary went back to the hall",Where is Mary? 
+710,garden,"The most recent location of John is balcony.
+
+Answer: The most recent",Where is John? 
+711,garden,"the garden (Document[16]):""Sandra went to the garden . She",Where is Sandra? 
+712,kitchen,"the garden (Document[18]):""John travelled to the garden.""",Where is John? 
+713,kitchen,"The garden (Document[119]):""Sandra went to the garden.""",Where is Sandra? 
+714,hallway,"hallway (Document[100]):""Daniel journeyed to the office .",Where is Daniel? 
+715,garden,"garden (Document[120]):""Sandra journeyed to the garden",Where is Sandra? 
+716,hallway,"The most recent location of Mary is hallway.
+</example>
+
+<context",Where is Mary? 
+717,office,"the hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+718,hallway,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+719,office,"Greenock (Document[9]):""Ruby goes about her work and play very",Where is Sandra? 
+720,garden,"Clarendon (Document[159]):""Daniel journeyed to the",Where is Daniel? 
+721,hallway,"Hallway (Document[129]):""Sandra went back to the",Where is Sandra? 
+722,garden,"Clarendon (Document[119]):""Croyden had been",Where is Daniel? 
+723,office,"the hallway (Document[119]):""Sandra went back to the",Where is Sandra? 
+724,office,"hallway (Document[119]):""Sandra went back to the hall",Where is Sandra? 
+725,garden,"garden (Document[19]):""Sandra went to the garden.""",Where is Sandra? 
+726,office,"The most recent location of John is hallway.
+</question>
+
+Answer:",Where is John? 
+727,bathroom,"the office (Document[10]):""Mary went back to the office .",Where is Mary? 
+728,garden,"The office (Document[109]):""Mary went back to the office",Where is Mary? 
+729,bathroom,"the garden (Document[10]):""Daniel went back to the garden . Mary",Where is Daniel? 
+730,bedroom,The most recent location of John is the bedroom. (Document[119],Where is John? 
+731,bedroom,"The most recent location of John is the hallway.
+
+Answer: The most recent",Where is John? 
+732,hallway,"The hallway (Document[119]):""Sandra went to the hall",Where is Sandra? 
+733,office,"hallway (Document[109]):""Mary went back to the hall",Where is Mary? 
+734,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+735,hallway,"the hallway (Document[129]):""John went to the hallway",Where is John? 
+736,bathroom,"balcony (Document[12]):""Charlie went to the hallway",Where is Sandra? 
+737,bathroom,"The most recent location of John is bathroom.
+</example>
+
+<context",Where is John? 
+738,bathroom,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+739,kitchen,"the hallway (Document[119]):""Charlie went to the hall",Where is John? 
+740,garden,"the garden (Document[119]):""John travelled to the garden .",Where is John? 
+741,garden,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+742,kitchen,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+743,office,The most recent location of Sandra is hallway. (Document[119],Where is Sandra? 
+744,bathroom,"The garden (Document[119]):""Daniel went back to the garden .",Where is Daniel? 
+745,bedroom,"bedroom (Document[10]):""Daniel journeyed to the bedroom.""",Where is Daniel? 
+746,bathroom,"bathroom (Document[305]):""On the coast of Asia Minor",Where is John? 
+747,hallway,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+748,office,"The most recent location of John is hallway. (Answer)
+
+<context>",Where is John? 
+749,kitchen,"the garden (Document[119]):""John went back to the garden .",Where is John? 
+750,office,"The most recent location of Sandra is office. (Answer)
+
+<context>",Where is Sandra? 
+751,office,The most recent location of Sandra is bedroom. (Document[119],Where is Sandra? 
+752,hallway,"hallway (Document[67]):""Daniel went back to the hallway.""",Where is Daniel? 
+753,bedroom,"the garden (Document[77]):""Mary went back to the garden""",Where is Mary? 
+754,hallway,"hallway (Document[106]):""Charlie went to the hallway",Where is Daniel? 
+755,garden,"hallway (Document[130]):""Charlie went to the hallway",Where is Daniel? 
+756,garden,"balcony (Document[142]):""Charlie went to the hall",Where is Daniel? 
+757,office,"the hallway (Document[129]):""John went to the hallway",Where is John? 
+758,kitchen,"the office (Document[119]):""Sandra journeyed to the office",Where is Sandra? 
+759,bathroom,"the garden (Document[10]):""Mary went to the garden . Mary",Where is Mary? 
+760,office,"The most recent location of Sandra is office (Document[10]):""S",Where is Sandra? 
+761,bedroom,"bathroom (Document[129]):""Sandra went back to the",Where is Sandra? 
+762,bathroom,"bathroom (Document[119]):""Mary journeyed to the",Where is Mary? 
+763,garden,"the garden (Document[129]):""Daniel moved to the garden . """,Where is Daniel? 
+764,hallway,"the hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+765,kitchen,"the hallway (Document[119]):""Charlie went to the hall",Where is Sandra? 
+766,bathroom,"The most recent location of Daniel is the bathroom. (Answer)
+
+<context",Where is Daniel? 
+767,kitchen,"The most recent location of John is bathroom. (Answer)
+
+<context>",Where is John? 
+768,hallway,"The most recent location of Daniel is balcony.
+
+Answer: Daniel is not",Where is Daniel? 
+769,bedroom,"hallway (Document[109]):""John went to the hallway .",Where is John? 
+770,bathroom,"bathroom (Document[1], paragraph 1)
+
+""Daniel went to",Where is Daniel? 
+771,bedroom,"bathroom (Document[109]):""Charlie went to the hall",Where is John? 
+772,office,"the garden (Document[18]):""John went to the garden . They,",Where is John? 
+773,office,"balcony (Document[119]):""Charlie went to the hall",Where is John? 
+774,kitchen,"The most recent location of Mary is balcony. (Answer)
+
+<context",Where is Mary? 
+775,kitchen,"Thirtieth Street (Document[119]):""Uncle Peter treated",Where is Daniel? 
+776,bathroom,"bathroom (Document[10]):""John moved to the bathroom .",Where is John? 
+777,bathroom,balcony (Answer: The most recent location of John is balcony.),Where is John? 
+778,bathroom,"the hallway (Document[100]):""John went to the hallway",Where is John? 
+779,office,"The garden (Document[103]):""Daniel journeyed to the garden .",Where is Daniel? 
+780,bedroom,"Drumtochty (Document[159]):""John went back to",Where is John? 
+781,office,"the hallway (Document[119]):""Daniel went to the office .",Where is Daniel? 
+782,office,"The most recent location of Daniel is the hallway. (Answer)
+
+<context",Where is Daniel? 
+783,bathroom,"bathroom (Document[11]):""John went back to the bedroom",Where is John? 
+784,hallway,"hallway (Document[109]):""Sandra went to the hallway",Where is Sandra? 
+785,office,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+786,office,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+787,hallway,"The office (Document[129]):""Mary went to the office .",Where is Mary? 
+788,hallway,"the hallway (Document[119]):""Mary went to the hall",Where is Mary? 
+789,garden,"the hallway (Document[176]):""Sandra journeyed to the",Where is Sandra? 
+790,garden,"The office (Document[119]):""Sandra moved to the office .",Where is Sandra? 
+791,garden,"The office (Document[7]):""Sandra moved to the office . By this",Where is Sandra? 
+792,garden,"the office (Document[8]):""Sandra moved to the office . cried Rod",Where is Sandra? 
+793,office,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+794,garden,"the garden (Document[10]):""Mary journeyed to the garden""",Where is Mary? 
+795,office,"the office (Document[10]):""Daniel travelled to the office.""",Where is Daniel? 
+796,office,"The most recent location of Sandra is bathroom. (Answer)
+
+<context",Where is Sandra? 
+797,office,"The most recent location of Mary is the office (Document[10]):""M",Where is Mary? 
+798,office,"The most recent location of Sandra is office. (Document[16]):""",Where is Sandra? 
+799,office,"the office (Document[119]):""Sandra went back to the office",Where is Sandra? 
+800,hallway,"the hallway (Document[129]):""Sandra went to the hall",Where is Sandra? 
+801,bathroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+802,office,"The garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+803,bedroom,"hallway (Document[119]):""Sandra went to the hallway",Where is Sandra? 
+804,office,"the garden (Document[12]):""Mary went to the garden . The",Where is Mary? 
+805,garden,"Salisbury (Document[18th December, 1688)",Where is John? 
+806,bedroom,"The most recent location of John is balcony.
+</example>
+
+<",Where is John? 
+807,bedroom,"The garden (Document[129]):""Roxie Daymon, whose",Where is John? 
+808,hallway,"The most recent location of Daniel is the hallway. (Answer)
+
+<context",Where is Daniel? 
+809,hallway,"the hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+810,garden,The most recent location of Sandra is garden. (Document[129]):,Where is Sandra? 
+811,garden,"the front room over the grocery store (Document[11]):""It",Where is Sandra? 
+812,office,"the garden (Document[12]):""Daniel moved to the garden .""",Where is Daniel? 
+813,hallway,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+814,hallway,"The most recent location of Mary is the hallway.
+</example>
+
+<",Where is Mary? 
+815,office,The most recent location of Daniel is the office. (Document[119]):,Where is Daniel? 
+816,office,"In the dressing room above (Answer: Up-town)
+
+Question: Where",Where is Mary? 
+817,kitchen,"the office (Document[129]):""Daniel went to the bedroom .",Where is Daniel? 
+818,garden,"the hallway (Document[109]):""Charlie went to the hall",Where is John? 
+819,office,"The most recent location of Daniel is the office. (Answer)
+
+<context>",Where is Daniel? 
+820,garden,"garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+821,garden,"In the garden (Document[52]):""Sandra journeyed to the garden",Where is Sandra? 
+822,bathroom,"The most recent location of Daniel is the garden (Document[109]):""",Where is Daniel? 
+823,hallway,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+824,bathroom,"The most recent location of Daniel is the garden. (Document[12]):""",Where is Daniel? 
+825,office,"The garden (Document[26]):""Sandra journeyed to the garden .",Where is Sandra? 
+826,bathroom,"The hallway (Document[33]):""Mary journeyed to the hall",Where is Mary? 
+827,bedroom,"bedroom (Document[159]):""Mary went back to the bed",Where is Mary? 
+828,bathroom,"bathroom (Document[15]):""Mary journeyed to the bath",Where is Mary? 
+829,kitchen,"the hallway (Document[119]):""Daniel went to the hallway",Where is Daniel? 
+830,garden,"Cleveland (Document[38]):""Mary Gerhardt Stover was born",Where is Mary? 
+831,bathroom,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+832,garden,"camped down the trail a mile or so (Document[109]):""",Where is Mary? 
+833,kitchen,balcony (Answer: The most recent location of Charlie is balcony.),Where is Sandra? 
+834,bedroom,"the garden (Document[112]):""Mary went to the garden .",Where is Mary? 
+835,bathroom,"The most recent location of John is balcony. (Answer)
+
+<context",Where is John? 
+836,bathroom,"The most recent location of John is the bathroom. (Answer)
+
+<context",Where is John? 
+837,bathroom,The most recent location of Daniel is hallway. (Document[129]):,Where is Daniel? 
+838,office,"hallway (Document[119]):""Daniel went to the hallway .",Where is Daniel? 
+839,hallway,"garden (Document[17]):""Sandra went to the garden . How",Where is Sandra? 
+840,garden,"In the garden (Document[119]):""Sandra journeyed to the",Where is Sandra? 
+841,garden,"On the road (Document[119]):""That night, according to their",Where is Sandra? 
+842,office,"The most recent location of Daniel is balcony. (Answer)
+
+<context",Where is Daniel? 
+843,kitchen,"The most recent location of John is garden. (Document[129]):""",Where is John? 
+844,kitchen,"the garden (Document[119]):""John went back to the garden .",Where is John? 
+845,bedroom,"Boeen (Document[119]):""Sandra went to the bed",Where is Sandra? 
+846,bedroom,"The office (Document[119]):""John travelled to the office.""",Where is John? 
+847,garden,"The most recent location of Sandra is garden (Document[109]):""",Where is Sandra? 
+848,garden,"The most recent location of Sandra is garden (Document[10]):""S",Where is Sandra? 
+849,office,"the office (Document[109]):""John went back to the office.""",Where is John? 
+850,bedroom,"the hallway (Document[16]):""Charlie went to the hallway",Where is Daniel? 
+851,hallway,The most recent location of Daniel is the hallway. (Document[64]):,Where is Daniel? 
+852,bathroom,"hallway (Document[100]):""Daniel went to the hallway .",Where is Daniel? 
+853,bedroom,"bedroom (Document[8]):""Charlie went to the hallway . Jud",Where is Daniel? 
+854,bedroom,"the garden (Document[155]):""Mary moved to the garden.""",Where is Mary? 
+855,bedroom,"the hallway (Document[12th '88]):""Daniel went to",Where is Daniel? 
+856,bedroom,"The most recent location of Daniel is hallway. (Answer)
+
+<context>",Where is Daniel? 
+857,bedroom,"the bedroom (Document[159]):""John went to the bedroom",Where is John? 
+858,kitchen,"the hallway (Document[129]):""Mary went to the hall",Where is Mary? 
+859,office,"the hallway (Document[129]):""Mary went back to the",Where is Mary? 
+860,bathroom,"The most recent location of Mary is the bathroom.
+
+Answer: Mary went to",Where is Mary? 
+861,garden,"The most recent location of Mary is balcony.
+
+<answer>The most",Where is Mary? 
+862,office,"The most recent location of Mary is office.
+</example>
+
+<context>",Where is Mary? 
+863,kitchen,The most recent location of Mary is hallway (Answer: The most recent location of Mary,Where is Mary? 
+864,hallway,"hallway (Document[20]):""Mary went to the hallway.""",Where is Mary? 
+865,garden,"hallway (Document[159]):""Sandra went to the hallway",Where is Sandra? 
+866,bedroom,"The most recent location of Mary is balcony. (Answer)
+
+<context",Where is Mary? 
+867,bedroom,"bedroom (Document[64]):""Mary went to the bedroom .",Where is Mary? 
+868,kitchen,"the garden (Document[100]):""Daniel went to the garden . He",Where is Daniel? 
+869,hallway,"the garden (Document[119]):""John journeyed to the garden .",Where is John? 
+870,bedroom,"The bedroom (Document[109]):""Mary went to the bed",Where is Mary? 
+871,garden,"The garden (Document[10]):""John went to the garden . Where is",Where is John? 
+872,hallway,"The most recent location of John is hallway. (Answer)
+
+<context>",Where is John? 
+873,hallway,"The most recent location of John is hallway.
+</example>
+
+<context",Where is John? 
+874,garden,"The garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+875,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+876,garden,"balcony (Document[109]):""Charlie went to the hall",Where is John? 
+877,kitchen,"The fort (Document[51]):""Tom now declared himself able to walk once",Where is Daniel? 
+878,hallway,"The most recent location of Sandra is garden. (Document[64]):""",Where is Sandra? 
+879,office,"The hallway (Document[73]):""Sandra went to the hallway",Where is Sandra? 
+880,bedroom,"bedroom (Document[40]):""John went to the bedroom.""",Where is John? 
+881,hallway,"The most recent location of Daniel is office.
+</example>
+
+<context>",Where is Daniel? 
+882,office,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+883,office,"The most recent location of Mary is the office. (Answer)
+
+<context>",Where is Mary? 
+884,hallway,"hallway (Document[109]):""John went to the hallway .",Where is John? 
+885,bedroom,"The most recent location of John is garden.
+</example>
+
+<context>",Where is John? 
+886,bedroom,"bedroom (Document[129]):""Daniel went back to the office .",Where is Daniel? 
+887,hallway,balcony (Answer: The most recent location of Charlie is balcony.),Where is Daniel? 
+888,office,"The most recent location of Sandra is bedroom. (Answer)
+
+<context",Where is Sandra? 
+889,bedroom,"The garden (Document[109]):""Daniel went to the garden .""",Where is Daniel? 
+890,garden,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+891,office,The most recent location of John is the garden. (Document[119]):,Where is John? 
+892,garden,"The most recent location of John is the garden. (Answer)
+
+<context>",Where is John? 
+893,hallway,"The most recent location of Mary is hallway.
+</example>
+
+<example",Where is Mary? 
+894,office,"The most recent location of John is garden. (Document[47]):""John",Where is John? 
+895,office,"The most recent location of John is office. (Document[70]):""John",Where is John? 
+896,garden,"the garden (Document[31]):""Sandra went back to the garden.""",Where is Sandra? 
+897,hallway,"hallway (Document[43]):""Sandra went back to the hallway",Where is Sandra? 
+898,garden,"the hallway (Document[21]):""Charlie went to the hallway",Where is John? 
+899,office,"the garden (Document[38]):""Daniel went to the garden . Hencefor",Where is Daniel? 
+900,bathroom,"balcony (Document[55]):""Alan moved to the garage",Where is Daniel? 
+901,bathroom,"The most recent location of Daniel is bathroom. (Answer)
+
+<context>",Where is Daniel? 
+902,garden,The most recent location of John is balcony. (Document[119],Where is John? 
+903,office,"hallway (Document[10]):""Mary moved to the hallway .",Where is Mary? 
+904,garden,"hallway (Document[129]):""Sandra went to the hallway",Where is Sandra? 
+905,garden,"the garden (Document[5]):""Sandra went back to the bathroom .",Where is Sandra? 
+906,kitchen,"the garden (Document[119]):""Sandra went to the garden .",Where is Sandra? 
+907,kitchen,"balcony (Document[119]):""Charlie went to the hall",Where is Sandra? 
+908,office,"the garden (Document[10]):""Lady Maisie . . . .",Where is Daniel? 
+909,office,"the garden (Document[109]):""Mary journeyed to the garden",Where is Mary? 
+910,bedroom,"The most recent location of Daniel is bedroom. (Answer)
+
+<context>",Where is Daniel? 
+911,bedroom,"The hallway (Document[109]):""Mary travelled to the",Where is Mary? 
+912,office,"the hallway (Document[112]):""John went to the hallway",Where is John? 
+913,hallway,"hallway (Document[109]):""Daniel moved to the hallway.""",Where is Daniel? 
+914,garden,"hallway (Document[12]):""Mary went to the hallway .",Where is Mary? 
+915,kitchen,"The garden (Document[13]):""Mary went to the garden . Mary",Where is Mary? 
+916,hallway,"The garden (Document[119]):""Sandra journeyed to the garden",Where is Sandra? 
+917,garden,"the garden (Document[119]):""Mary went back to the garden",Where is Mary? 
+918,garden,"the garden (Document[11]):""Mary went back to the garden .",Where is Mary? 
+919,bedroom,"The garden (Document[159]):""Daniel went back to the garden.""",Where is Daniel? 
+920,bathroom,"In the bathroom (Document[109]):""Daniel went back to the",Where is Daniel? 
+921,hallway,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+922,hallway,"balcony (Document[10]):""Charlie went to the hallway",Where is Daniel? 
+923,kitchen,"The most recent location of Mary is the hallway. (Answer)
+
+<context",Where is Mary? 
+924,bedroom,"hallway (Document[41]):""Daniel went back to the hallway .",Where is Daniel? 
+925,bathroom,"The bathroom (Document[109]):""Mary moved to the bath",Where is Mary? 
+926,office,"The most recent location of Daniel is bathroom.
+</example>
+
+<context",Where is Daniel? 
+927,kitchen,"the office (Document[129]):""Daniel journeyed to the office.""",Where is Daniel? 
+928,office,"the garden (Document[129]):""Daniel journeyed to the garden .",Where is Daniel? 
+929,bathroom,"bathroom (Document[192]):""Mary went back to the",Where is Mary? 
+930,office,"office (Document[199]):""Sandra went to the office.""",Where is Sandra? 
+931,office,"The most recent location of Daniel is the office (Document[102]):""",Where is Daniel? 
+932,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+933,office,"the garden (Document[206]):""Sandra went to the garden.""",Where is Sandra? 
+934,kitchen,"The most recent location of Sandra is garden. (Answer)
+
+<context>",Where is Sandra? 
+935,hallway,"The most recent location of John is hallway.
+
+Answer: John went to the",Where is John? 
+936,hallway,"balcony (Document[15]):""Charlie went to the hallway",Where is John? 
+937,garden,"hallway (Document[29]):""Charlie went to the hallway .",Where is Daniel? 
+938,bedroom,"hallway (Document[66]):""Sandra went to the hallway.""",Where is Sandra? 
+939,bedroom,"the hallway (Document[19]):""Sandra went to the hallway",Where is Sandra? 
+940,bedroom,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+941,office,"Helstone (Document[109]):""Helstone was reached at last,",Where is Daniel? 
+942,office,"balcony (Document[109]):""Charlie went to the hall",Where is Daniel? 
+943,kitchen,"the bedroom (Document[12]):""But we had taken his address,",Where is John? 
+944,hallway,"the office (Document[119]):""Daniel went back to the office .",Where is Daniel? 
+945,office,"The most recent location of Sandra is office.
+</example>
+
+<context",Where is Sandra? 
+946,bathroom,"bathroom (Document[2340]):""Mary journeyed to",Where is Mary? 
+947,bathroom,"the office (Document[26]):""Sandra went back to the office.""",Where is Sandra? 
+948,kitchen,"The office (Document[53]):""Mary journeyed to the office .",Where is Mary? 
+949,bedroom,The most recent location of Daniel is the garden. (Document[119]):,Where is Daniel? 
+950,hallway,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+951,kitchen,balcony (Answer: The most recent location of Charlie is balcony.),Where is John? 
+952,kitchen,"hallway (Document[119]):""Sandra travelled to the hall",Where is Sandra? 
+953,kitchen,"The most recent location of Mary is hallway.
+</example>
+
+<context",Where is Mary? 
+954,office,"hallway (Document[129]):""Sandra went to the hallway",Where is Sandra? 
+955,office,The most recent location of John is the office. (Document[119]):,Where is John? 
+956,kitchen,"The office (Document[119]):""John went back to the office.""",Where is John? 
+957,garden,"the garden (Document[159]):""Sandra moved to the garden.""",Where is Sandra? 
+958,kitchen,"the garden (Document[103]):""Sandra went to the garden .",Where is Sandra? 
+959,bedroom,"The most recent location of John is office.
+
+Answer: The most recent location of",Where is John? 
+960,hallway,"hallway (Document[64]):""Mary went to the hallway .",Where is Mary? 
+961,bathroom,"the bathroom (Document[100]):""Daniel went to the bathroom",Where is Daniel? 
+962,bathroom,"the hallway (Document[119]):""John went to the hallway",Where is John? 
+963,bedroom,"hallway (Document[109]):""Mary went to the hallway",Where is Mary? 
+964,garden,"the garden (Document[109]):""Mary went to the garden .",Where is Mary? 
+965,garden,"the garden (Document[29]):""Daniel went back to the garden . Nach",Where is Daniel? 
+966,bathroom,"the garden (Document[75]):""Mary went to the garden . Mary",Where is Mary? 
+967,bathroom,The most recent location of Daniel is the office. (Document[129]):,Where is Daniel? 
+968,hallway,"hallway (Document[119]):""Mary went to the hallway",Where is Mary? 
+969,kitchen,"the hallway (Document[105]):""Sandra went to the hall",Where is Sandra? 
+970,bathroom,"balcony (Document[119]):""Charlie went to the hall",Where is Daniel? 
+971,kitchen,"the hallway (Document[109]):""Charlie went to the hall",Where is Daniel? 
+972,bathroom,"bathroom (Document[109]):""Sandra moved to the bath",Where is Sandra? 
+973,hallway,"the hallway (Document[129]):""Daniel went to the hallway",Where is Daniel? 
+974,hallway,"the hallway (Document[13th 1881]):""Char",Where is Daniel? 
+975,bedroom,"The most recent location of Daniel is balcony. (Answer)
+
+<context",Where is Daniel? 
+976,office,"The most recent location of John is the office. (Answer)
+
+<context>",Where is John? 
+977,office,"the hallway (Document[110]):""Charlie went to the hall",Where is John? 
+978,bedroom,"The most recent location of Mary is the garden. (Answer)
+
+<context>",Where is Mary? 
+979,hallway,"bathroom (Document[159]):""Sandra journeyed to the",Where is Sandra? 
+980,kitchen,"The most recent location of Mary is bedroom. (Answer)
+
+<context>",Where is Mary? 
+981,bathroom,"The most recent location of Mary is the bathroom. (Answer)
+
+<context",Where is Mary? 
+982,bedroom,"the bathroom (Document[10]):""Sandra went back to the bath",Where is Sandra? 
+983,office,"bedroom (Document[17]):""Sandra went back to the bedroom",Where is Sandra? 
+984,garden,"The most recent location of Mary is the garden.
+
+Answer: Mary is in the",Where is Mary? 
+985,garden,"balcony (Document[109]):""Charlie went to the hall",Where is Sandra? 
+986,garden,"the garden (Document[119]):""Sandra travelled to the garden",Where is Sandra? 
+987,office,"the garden (Document[119]):""Mary went to the garden .",Where is Mary? 
+988,bathroom,"the garden (Document[119]):""John went to the garden""",Where is John? 
+989,bathroom,"The most recent location of John is bathroom.
+
+Answer: The most recent location",Where is John? 
+990,garden,"hallway (Document[10]):""Sandra went to the garden.""",Where is Sandra? 
+991,kitchen,"The hallway (Document[115]):""Sandra went to the garden",Where is Sandra? 
+992,garden,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+993,garden,"The most recent location of Daniel is balcony. (Answer)
+
+<context",Where is Daniel? 
+994,garden,"The hallway (Document[129]):""Mary went back to the",Where is Mary? 
+995,kitchen,"The most recent location of John is the hallway. (Answer)
+
+<context",Where is John? 
+996,hallway,"hallway (Document[129]):""Sandra moved to the hallway",Where is Sandra? 
+997,office,"hallway (Document[119]):""Sandra moved to the hallway",Where is Sandra? 
+998,bathroom,"hallway (Document[119]):""Sandra moved to the hallway",Where is Sandra? 
+999,bedroom,"hallway (Document[119]):""Rothsay resumed his seat",Where is John? 

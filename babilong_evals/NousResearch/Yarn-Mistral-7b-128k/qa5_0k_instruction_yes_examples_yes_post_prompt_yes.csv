@@ -1,0 +1,2894 @@
+,target,output,question
+0,football,"<context>
+Fred picked up the apple there. Fred",What did Fred give to Jeff? 
+1,Fred,"<context>
+Fred picked up the apple there. Fred",Who gave the football to Jeff? 
+2,football,"<context>
+Fred picked up the football there. Fred",What did Fred give to Jeff? 
+3,Jeff,"<context>
+Fred picked up the apple there. Fred",Who did Fred give the football to? 
+4,Fred,"<context>
+Fred picked up the apple there. Fred",Who did Jeff give the football to? 
+5,Jeff,"<context>
+Mary moved to the hallway. Jeff moved",Who gave the apple? 
+6,Bill,"<context>
+Mary moved to the hallway. Jeff moved",Who received the apple? 
+7,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+8,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+9,Fred,"<answer>
+Fred
+</answer>
+
+<",Who received the apple? 
+10,Mary,"<context>
+Fred journeyed to the bedroom. Fred",Who received the milk? 
+11,milk,"<context>
+Fred journeyed to the bedroom. Fred",What did Mary give to Bill? 
+12,Bill,"<context>
+Fred journeyed to the bedroom. Fred",Who received the milk? 
+13,Bill,"<context>
+Fred journeyed to the bedroom. Fred",Who did Mary give the milk to? 
+14,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Bill? 
+15,Jeff,"<context>
+Fred got the football there. Fred trav",Who received the football? 
+16,Fred,"<context>
+Fred got the football there. Fred trav",Who gave the football to Jeff? 
+17,football,"<context>
+Fred got the football there. Fred trav",What did Fred give to Jeff? 
+18,Jeff,"<context>
+Fred got the football there. Fred trav",Who received the football? 
+19,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+20,milk,Answer: milk,What did Jeff give to Mary? 
+21,Mary,Answer: Mary,Who gave the milk to Jeff? 
+22,Mary,"<context>
+Fred travelled to the kitchen. Bill",Who gave the milk to Jeff? 
+23,Bill,"Answer: Bill
+
+<context>
+Fred trav",Who gave the apple to Jeff? 
+24,Jeff,"<context>
+Fred travelled to the kitchen. Bill",Who gave the apple? 
+25,apple,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+26,Fred,"<context>
+Bill travelled to the garden. Bill trav",Who received the apple? 
+27,Jeff,"<context>
+Bill travelled to the garden. Bill trav",Who received the apple? 
+28,Jeff,"<context>
+Bill travelled to the garden. Jeff trav",Who gave the apple? 
+29,Fred,"<answer>
+Fred
+</answer>
+
+<",Who did Jeff give the apple to? 
+30,Mary,"<context>
+Fred grabbed the football there. Jeff picked",Who gave the milk? 
+31,Bill,"<context>
+Fred grabbed the football there. Fred handed",Who gave the milk? 
+32,Bill,"<context>
+Fred grabbed the football there. Jeff picked",Who gave the milk to Mary? 
+33,milk,"<context>
+Fred grabbed the football there. Fred handed",What did Bill give to Mary? 
+34,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+35,Jeff,"<context>
+Bill went to the bathroom. Mary went back",Who did Fred give the milk to? 
+36,Jeff,"<context>
+Bill went to the bathroom. Mary went back",Who did Fred give the milk to? 
+37,milk,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Mary? 
+38,milk,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Mary? 
+39,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+40,Mary,"<context>
+Fred picked up the apple there. Fred",Who gave the milk? 
+41,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Fred? 
+42,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+43,Fred,"<answer>
+Jeff
+</answer>
+
+<",Who received the milk? 
+44,Mary,"<context>
+Fred picked up the football there. Jeff",Who gave the milk? 
+45,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who did Mary give the milk to? 
+46,milk,"Answer: milk
+
+<context>
+Mary went",What did Mary give to Bill? 
+47,Mary,"Answer: Bill
+
+<context>
+Mary went",Who gave the milk? 
+48,Mary,"Answer: Mary
+
+<context>
+Mary went",Who did Bill give the milk to? 
+49,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Mary? 
+50,Mary,"<context>
+Bill grabbed the apple there. Jeff went back",Who gave the apple to Fred? 
+51,Fred,"<context>
+Bill grabbed the apple there. Jeff went back",Who gave the apple to Mary? 
+52,apple,"<context>
+Bill grabbed the apple there. Jeff went back",What did Fred give to Mary? 
+53,apple,"<context>
+Bill grabbed the apple there. Bill went back",What did Mary give to Jeff? 
+54,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Jeff? 
+55,Fred,"<context>
+Mary took the apple there. Jeff moved",Who received the football? 
+56,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+57,Bill,"<context>
+Mary took the apple there. Jeff moved",Who gave the apple? 
+58,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who did Mary give the apple to? 
+59,Jeff,"<context>
+Mary took the apple there. Jeff moved",Who did Bill give the apple to? 
+60,Jeff,"<context>
+Mary travelled to the kitchen. Jeff",Who did Bill give the apple to? 
+61,Bill,"<context>
+Mary travelled to the kitchen. Jeff",Who gave the apple to Jeff? 
+62,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the apple to Bill? 
+63,Bill,"<context>
+Mary travelled to the kitchen. Jeff",Who received the apple? 
+64,Mary,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk? 
+65,Mary,"<context>
+Bill moved to the bedroom. Fred went to",Who gave the apple to Bill? 
+66,Bill,"<context>
+Bill moved to the bedroom. Fred went to",Who did Mary give the apple to? 
+67,Mary,"<context>
+Bill moved to the bedroom. Fred went to",Who did Bill give the apple to? 
+68,apple,"<context>
+Bill moved to the bedroom. Fred went to",What did Bill give to Mary? 
+69,Mary,"<context>
+Bill moved to the bedroom. Fred went to",Who did Bill give the apple to? 
+70,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Jeff? 
+71,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+72,Jeff,"<context>
+Bill travelled to the bathroom. Jeff journey",Who gave the football? 
+73,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+74,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+75,Fred,"<context>
+Fred took the football there. Fred journey",Who gave the football? 
+76,Fred,"<context>
+Fred took the football there. Fred journey",Who gave the football? 
+77,Mary,"<context>
+Fred took the football there. Fred journey",Who received the football? 
+78,Mary,"<context>
+Fred took the football there. Fred journey",Who gave the football? 
+79,football,"<context>
+Fred took the football there. Fred journey",What did Mary give to Fred? 
+80,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Jeff? 
+81,milk,"<context>
+Fred moved to the garden. Fred trav",What did Fred give to Jeff? 
+82,Fred,"<context>
+Fred moved to the garden. Fred trav",Who did Jeff give the milk to? 
+83,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Fred? 
+84,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Fred? 
+85,Fred,"<context>
+Bill went back to the kitchen. Bill took",Who did Mary give the apple to? 
+86,Fred,"<context>
+Bill went back to the kitchen. Bill took",Who gave the apple to Mary? 
+87,Mary,"<context>
+Bill went back to the kitchen. Bill took",Who gave the apple? 
+88,Jeff,"<context>
+Bill went back to the kitchen. Bill took",Who did Mary give the apple to? 
+89,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who received the football? 
+90,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Jeff? 
+91,Mary,"<context>
+Fred travelled to the hallway. Bill",Who received the football? 
+92,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football? 
+93,Jeff,"<context>
+Fred travelled to the hallway. Bill",Who did Mary give the football to? 
+94,Bill,"<context>
+Fred travelled to the hallway. Bill",Who did Fred give the apple to? 
+95,Jeff,"<context>
+Jeff took the football there. Jeff passed",Who did Mary give the apple to? 
+96,Mary,"<context>
+Mary grabbed the apple there. Mary gave",Who gave the apple to Jeff? 
+97,apple,"<context>
+Mary grabbed the apple there. Mary gave",What did Jeff give to Fred? 
+98,Fred,"<context>
+Mary grabbed the apple there. Mary gave",Who did Jeff give the apple to? 
+99,milk,"<context>
+Mary grabbed the apple there. Mary gave",What did Bill give to Mary? 
+100,Bill,"<context>
+Bill moved to the bedroom. Jeff went to",Who did Mary give the apple to? 
+101,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who received the apple? 
+102,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+103,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+104,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+105,Jeff,"<context>
+Mary took the milk there. Mary gave",Who received the milk? 
+106,Mary,"<context>
+Jeff took the apple there. Jeff passed",Who gave the milk? 
+107,Jeff,"<context>
+Mary grabbed the milk there. Mary gave",Who did Mary give the milk to? 
+108,football,"<context>
+Mary grabbed the milk there. Mary gave",What did Bill give to Mary? 
+109,Mary,"<context>
+Mary grabbed the milk there. Mary gave",Who gave the football? 
+110,apple,"<context>
+Mary journeyed to the bedroom. Fred",What did Jeff give to Mary? 
+111,apple,"<context>
+Mary journeyed to the bedroom. Fred",What did Jeff give to Mary? 
+112,Mary,"<context>
+Mary journeyed to the bedroom. Fred",Who gave the apple? 
+113,Mary,"<context>
+Mary journeyed to the bedroom. Fred",Who gave the apple? 
+114,Mary,"<context>
+Mary journeyed to the bedroom. Fred",Who received the apple? 
+115,Bill,"<context>
+Bill travelled to the office. Fred moved",Who gave the milk? 
+116,milk,"<context>
+Bill travelled to the office. Fred moved",What did Mary give to Bill? 
+117,Bill,"<context>
+Bill travelled to the office. Fred moved",Who did Mary give the milk to? 
+118,milk,"<context>
+Bill travelled to the office. Fred moved",What did Bill give to Mary? 
+119,Mary,"<context>
+Bill travelled to the office. Fred moved",Who did Bill give the milk to? 
+120,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Bill? 
+121,Mary,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk? 
+122,Mary,Answer: Mary,Who gave the milk? 
+123,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who did Bill give the football to? 
+124,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Jeff? 
+125,Jeff,"<context>
+Mary journeyed to the garden. Fred",Who received the football? 
+126,Jeff,"<context>
+Mary journeyed to the garden. Fred",Who gave the football to Bill? 
+127,football,"<context>
+Mary journeyed to the garden. Fred",What did Jeff give to Bill? 
+128,football,"<context>
+Mary journeyed to the garden. Fred",What did Jeff give to Bill? 
+129,apple,"<context>
+Mary journeyed to the garden. Fred",What did Fred give to Mary? 
+130,Bill,"<context>
+Mary got the apple there. Mary passed",Who received the apple? 
+131,apple,"<context>
+Mary got the apple there. Mary passed",What did Mary give to Bill? 
+132,apple,"<context>
+Mary got the apple there. Mary passed",What did Mary give to Bill? 
+133,apple,"<context>
+Mary got the apple there. Mary passed",What did Jeff give to Mary? 
+134,Fred,"<context>
+Mary got the apple there. Mary passed",Who gave the apple? 
+135,football,"<context>
+Bill went back to the bathroom. Mary went",What did Fred give to Jeff? 
+136,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Jeff? 
+137,Jeff,"<context>
+Bill went back to the bathroom. Mary went",Who gave the football? 
+138,Fred,"<context>
+Bill went back to the bathroom. Mary went",Who did Jeff give the football to? 
+139,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Mary? 
+140,football,"<context>
+Fred took the milk there. Fred handed",What did Jeff give to Mary? 
+141,Mary,"<context>
+Fred took the milk there. Fred handed",Who received the football? 
+142,football,"<context>
+Fred took the milk there. Fred handed",What did Mary give to Jeff? 
+143,Jeff,"<context>
+Fred took the milk there. Fred handed",Who gave the football? 
+144,Bill,"<context>
+Fred took the milk there. Fred handed",Who received the apple? 
+145,Fred,"<context>
+Bill went to the garden. Mary journeyed",Who received the apple? 
+146,Fred,"<context>
+Bill went to the garden. Mary journeyed",Who received the apple? 
+147,Mary,"<context>
+Bill went to the garden. Mary journeyed",Who did Bill give the football to? 
+148,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the football to Mary? 
+149,Fred,"<answer>
+Bill
+</answer>
+
+<context",Who received the football? 
+150,Bill,"<context>
+Mary journeyed to the kitchen. Mary",Who received the apple? 
+151,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Bill? 
+152,Bill,"<context>
+Mary journeyed to the kitchen. Mary",Who received the apple? 
+153,Bill,"<context>
+Mary journeyed to the kitchen. Mary",Who gave the apple to Jeff? 
+154,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Jeff? 
+155,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+156,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+157,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Bill give the football to? 
+158,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+159,Bill,"Answer: Bill
+
+<context>
+Bill grabbed the",Who received the apple? 
+160,Bill,"<context>
+Bill moved to the garden. Jeff took the",Who did Fred give the apple to? 
+161,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+162,apple,"<context>
+Bill moved to the garden. Jeff took the",What did Fred give to Bill? 
+163,Fred,"<context>
+Bill moved to the garden. Jeff took the",Who gave the apple? 
+164,Jeff,"Answer: Bill
+
+<context>
+Bill moved to",Who received the apple? 
+165,Jeff,"<context>
+Bill grabbed the football there. Bill got the",Who received the apple? 
+166,Jeff,"<context>
+Bill grabbed the football there. Bill got the",Who received the apple? 
+167,Jeff,"<context>
+Bill grabbed the football there. Bill got the",Who received the apple? 
+168,apple,"<context>
+Bill grabbed the football there. Bill got the",What did Mary give to Jeff? 
+169,Bill,"Answer: Bill
+
+<context>
+Bill grabbed the",Who gave the milk to Fred? 
+170,football,"<context>
+Fred journeyed to the kitchen. Jeff",What did Mary give to Bill? 
+171,Bill,"<context>
+Fred journeyed to the kitchen. Jeff",Who did Mary give the football to? 
+172,football,"<answer>
+football
+</answer>
+
+<",What did Bill give to Mary? 
+173,football,"<answer>
+football
+</answer>
+
+<",What did Bill give to Mary? 
+174,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Bill give the football to? 
+175,football,"<context>
+Mary got the apple there. Mary disc",What did Jeff give to Bill? 
+176,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+177,Mary,"<context>
+Mary got the apple there. Mary disc",Who received the football? 
+178,Bill,"<context>
+Mary got the apple there. Mary disc",Who gave the football? 
+179,football,"<answer>
+football
+</answer>
+
+<",What did Bill give to Fred? 
+180,Fred,"<context>
+Jeff took the milk there. Jeff put",Who gave the milk to Jeff? 
+181,milk,"<context>
+Jeff took the milk there. Jeff put",What did Jeff give to Mary? 
+182,Mary,"<context>
+Jeff took the milk there. Jeff put",Who received the milk? 
+183,Mary,"<context>
+Jeff took the milk there. Jeff put",Who gave the milk? 
+184,Fred,"<context>
+Jeff took the milk there. Jeff put",Who received the milk? 
+185,football,"<context>
+Mary went back to the bedroom. Jeff",What did Mary give to Bill? 
+186,football,"<context>
+Mary went back to the bedroom. Jeff",What did Mary give to Bill? 
+187,football,"<answer>
+football
+</answer>
+
+<",What did Mary give to Bill? 
+188,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+189,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+190,Fred,Answer: Jeff,Who gave the football? 
+191,Fred,"<context>
+Bill went back to the office. Bill moved",Who gave the football to Jeff? 
+192,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Jeff? 
+193,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+194,Bill,"Answer: Bill
+
+<context>
+Bill went back",Who gave the apple to Fred? 
+195,milk,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+196,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk? 
+197,Bill,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk? 
+198,milk,"Answer: milk
+
+<context>
+Mary moved",What did Bill give to Mary? 
+199,Mary,"<context>
+Mary moved to the kitchen. Mary trav",Who gave the milk? 
+200,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+201,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+202,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+203,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+204,Fred,"<context>
+Mary went to the bedroom. Mary went",Who did Mary give the football to? 
+205,Fred,"<context>
+Mary journeyed to the hallway. Bill",Who received the football? 
+206,Fred,"Answer: Fred
+
+<context>
+Mary journey",Who did Mary give the football to? 
+207,Jeff,Answer: Mary,Who did Fred give the football to? 
+208,Fred,"Answer: Fred
+
+<context>
+Mary journey",Who gave the football to Jeff? 
+209,Jeff,"<context>
+Mary journeyed to the hallway. Bill",Who gave the football to Fred? 
+210,Fred,"<context>
+Jeff went back to the garden. Bill",Who gave the milk to Jeff? 
+211,Fred,"<context>
+Jeff went back to the garden. Bill",Who gave the milk? 
+212,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Fred? 
+213,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Fred? 
+214,Fred,"<context>
+Jeff went back to the garden. Bill",Who gave the milk? 
+215,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Mary? 
+216,Mary,"<answer>
+Mary
+</answer>
+
+<",Who received the apple? 
+217,Bill,"<answer>
+Mary
+</answer>
+
+<",Who received the apple? 
+218,Mary,Answer: Mary,Who did Fred give the milk to? 
+219,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+220,Bill,"Answer: Bill
+
+<context>
+Jeff went",Who gave the apple to Mary? 
+221,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Mary? 
+222,Mary,"Answer: Mary
+
+<context>
+Jeff went",Who gave the apple to Bill? 
+223,Bill,"Answer: Bill
+
+<context>
+Jeff went",Who did Mary give the apple to? 
+224,apple,Answer: apple,What did Bill give to Mary? 
+225,football,"<context>
+Jeff grabbed the football there. Jeff handed",What did Jeff give to Fred? 
+226,Jeff,"<context>
+Jeff grabbed the football there. Jeff handed",Who gave the football to Fred? 
+227,football,"<context>
+Jeff grabbed the football there. Jeff handed",What did Jeff give to Fred? 
+228,football,"<context>
+Jeff grabbed the football there. Jeff handed",What did Jeff give to Fred? 
+229,football,"<context>
+Jeff grabbed the football there. Jeff handed",What did Jeff give to Fred? 
+230,apple,"<context>
+Fred picked up the apple there. Fred",What did Fred give to Bill? 
+231,Bill,"<context>
+Fred picked up the apple there. Fred",Who did Fred give the apple to? 
+232,Fred,"<context>
+Fred picked up the apple there. Fred",Who gave the apple to Bill? 
+233,Fred,"<context>
+Fred picked up the apple there. Fred",Who gave the apple to Bill? 
+234,Fred,"<context>
+Fred picked up the apple there. Fred",Who gave the apple? 
+235,Bill,"Answer: Fred
+
+<context>
+Jeff went",Who gave the football to Mary? 
+236,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+237,football,"<answer>
+milk
+</answer>
+
+<",What did Bill give to Mary? 
+238,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Mary? 
+239,Bill,Answer: Fred,Who gave the football? 
+240,Fred,"<context>
+Mary went to the bathroom. Fred journey",Who gave the football to Bill? 
+241,Fred,"<answer>
+Fred
+</answer>",Who gave the football? 
+242,Fred,"<answer>
+Fred
+</answer>",Who gave the football to Bill? 
+243,Bill,"<context>
+Mary went to the bathroom. Fred journey",Who gave the football to Fred? 
+244,football,"<answer>
+football
+</answer>
+
+<",What did Bill give to Fred? 
+245,football,"<context>
+Jeff went back to the garden. Mary",What did Jeff give to Mary? 
+246,Mary,"<context>
+Jeff went back to the garden. Mary",Who gave the football? 
+247,Mary,"<context>
+Jeff went back to the garden. Mary",Who gave the football? 
+248,Bill,"<context>
+Jeff went back to the garden. Mary",Who gave the apple? 
+249,Mary,"<answer>
+Mary
+</answer>
+
+<",Who gave the apple to Bill? 
+250,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+251,Fred,"<answer>
+Mary
+</answer>
+
+<",Who received the apple? 
+252,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+253,Jeff,"<context>
+Jeff went back to the office. Jeff",Who received the apple? 
+254,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Jeff? 
+255,Fred,"<context>
+Mary picked up the apple there. Mary",Who received the milk? 
+256,Jeff,"<context>
+Mary moved to the office. Jeff went",Who gave the milk to Fred? 
+257,Jeff,"<context>
+Mary moved to the office. Jeff went",Who gave the milk? 
+258,football,"<context>
+Mary moved to the office. Jeff went",What did Bill give to Mary? 
+259,Mary,"<context>
+Mary moved to the office. Jeff went",Who did Fred give the milk to? 
+260,Jeff,"<context>
+Jeff grabbed the apple there. Jeff gave",Who gave the apple to Mary? 
+261,Fred,"<context>
+Jeff grabbed the apple there. Jeff gave",Who gave the apple to Mary? 
+262,Mary,"<context>
+Jeff grabbed the apple there. Jeff gave",Who gave the apple? 
+263,apple,"<context>
+Jeff grabbed the apple there. Jeff gave",What did Mary give to Bill? 
+264,apple,"<context>
+Jeff grabbed the apple there. Jeff gave",What did Mary give to Bill? 
+265,football,"<context>
+Jeff moved to the bedroom. Jeff moved",What did Fred give to Bill? 
+266,Fred,"<context>
+Jeff moved to the bedroom. Jeff moved",Who gave the football? 
+267,Fred,"<context>
+Jeff moved to the bedroom. Jeff moved",Who gave the football to Bill? 
+268,Mary,"<context>
+Jeff moved to the bedroom. Jeff moved",Who did Bill give the football to? 
+269,Mary,"<context>
+Jeff moved to the bedroom. Jeff moved",Who gave the football? 
+270,Mary,"<context>
+Mary went to the kitchen. Mary trav",Who received the apple? 
+271,Mary,"<context>
+Mary went to the kitchen. Mary trav",Who gave the apple? 
+272,apple,"<context>
+Mary went to the kitchen. Mary trav",What did Mary give to Jeff? 
+273,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Jeff? 
+274,apple,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+275,Mary,"<context>
+Fred journeyed to the bathroom. Bill",Who received the football? 
+276,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who received the football? 
+277,football,Answer: apple,What did Mary give to Jeff? 
+278,Mary,Answer: Mary,Who did Jeff give the football to? 
+279,Mary,"<context>
+Fred journeyed to the bathroom. Bill",Who received the football? 
+280,Fred,"<context>
+Mary moved to the office. Bill got",Who gave the apple? 
+281,apple,"<context>
+Mary moved to the office. Bill got",What did Mary give to Fred? 
+282,Fred,"<context>
+Mary moved to the office. Bill got",Who gave the apple to Mary? 
+283,Fred,"<context>
+Mary moved to the office. Bill got",Who received the apple? 
+284,apple,"<context>
+Mary moved to the office. Bill got",What did Fred give to Mary? 
+285,Fred,"<context>
+Mary picked up the apple there. Mary",Who gave the apple? 
+286,Fred,"<context>
+Mary picked up the apple there. Mary",Who gave the apple to Bill? 
+287,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Bill? 
+288,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+289,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Mary? 
+290,Mary,"<context>
+Jeff went back to the hallway. Bill",Who gave the milk to Bill? 
+291,Bill,"<context>
+Jeff went back to the hallway. Bill",Who gave the milk? 
+292,Mary,"<context>
+Jeff went back to the hallway. Bill",Who gave the milk to Bill? 
+293,Bill,"<context>
+Jeff went back to the hallway. Bill",Who did Mary give the milk to? 
+294,apple,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+295,milk,"<context>
+Mary journeyed to the hallway. Mary",What did Mary give to Jeff? 
+296,Mary,"<context>
+Mary journeyed to the hallway. Mary",Who gave the milk? 
+297,milk,"<context>
+Mary journeyed to the hallway. Mary",What did Mary give to Jeff? 
+298,milk,"<context>
+Mary journeyed to the hallway. Mary",What did Mary give to Jeff? 
+299,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Jeff? 
+300,football,"<answer>
+football
+</answer>
+
+<",What did Mary give to Fred? 
+301,Fred,"<context>
+Fred went to the bedroom. Fred took",Who did Mary give the football to? 
+302,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football to Fred? 
+303,Mary,Answer: Mary,Who did Fred give the apple to? 
+304,Fred,Answer: Fred,Who gave the apple to Mary? 
+305,Jeff,"<context>
+Fred moved to the hallway. Jeff journey",Who gave the apple to Mary? 
+306,Mary,"<context>
+Fred moved to the hallway. Jeff journey",Who did Jeff give the apple to? 
+307,milk,"<context>
+Fred moved to the hallway. Jeff journey",What did Mary give to Fred? 
+308,Fred,"<answer>
+Fred
+</answer>
+
+<",Who did Mary give the milk to? 
+309,Fred,"<answer>
+Fred
+</answer>
+
+<",Who received the milk? 
+310,Mary,"<context>
+Mary journeyed to the kitchen. Mary",Who gave the football to Bill? 
+311,Bill,"<context>
+Mary journeyed to the kitchen. Mary",Who gave the football? 
+312,football,"<context>
+Mary journeyed to the kitchen. Mary",What did Bill give to Mary? 
+313,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+314,Bill,"<context>
+Mary journeyed to the kitchen. Mary",Who did Jeff give the football to? 
+315,milk,"<context>
+Fred picked up the apple there. Bill",What did Jeff give to Bill? 
+316,Bill,"<context>
+Fred picked up the apple there. Bill",Who received the milk? 
+317,milk,"<context>
+Fred picked up the apple there. Bill",What did Jeff give to Bill? 
+318,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+319,Fred,"<context>
+Fred picked up the apple there. Bill",Who did Mary give the apple to? 
+320,Mary,"<context>
+Jeff moved to the garden. Mary picked",Who gave the apple? 
+321,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+322,Mary,"<context>
+Jeff moved to the garden. Mary picked",Who did Jeff give the football to? 
+323,Mary,"<context>
+Jeff moved to the garden. Mary picked",Who received the football? 
+324,Mary,"<context>
+Jeff moved to the garden. Mary picked",Who received the football? 
+325,Bill,"<context>
+Bill took the football there. Jeff journeyed",Who gave the football to Mary? 
+326,Bill,"<context>
+Bill took the football there. Jeff journeyed",Who gave the football? 
+327,Jeff,"<context>
+Bill took the football there. Jeff journeyed",Who received the apple? 
+328,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Jeff? 
+329,apple,"Answer: apple
+
+<context>
+Bill took the",What did Bill give to Jeff? 
+330,apple,"<context>
+Bill travelled to the bedroom. Fred picked",What did Fred give to Mary? 
+331,apple,"<context>
+Bill travelled to the bathroom. Fred picked",What did Fred give to Mary? 
+332,Fred,"<context>
+Bill travelled to the bathroom. Fred picked",Who gave the apple? 
+333,Bill,"<context>
+Bill travelled to the bathroom. Fred picked",Who received the apple? 
+334,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+335,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+336,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+337,apple,"<context>
+Bill went to the office. Mary moved to",What did Fred give to Mary? 
+338,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+339,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Fred give the apple to? 
+340,apple,"<context>
+Bill went back to the kitchen. Mary got",What did Fred give to Bill? 
+341,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Fred? 
+342,Bill,"<context>
+Bill went back to the kitchen. Mary got",Who received the apple? 
+343,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+344,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+345,milk,"<context>
+Bill went to the kitchen. Fred moved to",What did Mary give to Jeff? 
+346,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk to Jeff? 
+347,Jeff,"<context>
+Bill went to the kitchen. Fred moved to",Who gave the milk? 
+348,Fred,"<context>
+Bill went to the kitchen. Fred moved to",Who received the milk? 
+349,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Fred? 
+350,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk? 
+351,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Bill? 
+352,milk,"<answer>
+milk
+</answer>
+
+<",What did Bill give to Jeff? 
+353,Bill,"<context>
+Jeff travelled to the kitchen. Fred",Who received the milk? 
+354,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+355,Bill,"<context>
+Jeff moved to the bedroom. Fred journey",Who gave the milk? 
+356,Bill,"<context>
+Jeff moved to the bedroom. Fred journey",Who gave the milk to Fred? 
+357,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Fred? 
+358,apple,"<context>
+Jeff moved to the bedroom. Fred journey",What did Jeff give to Fred? 
+359,Fred,"<context>
+Jeff moved to the bedroom. Fred journey",Who did Jeff give the apple to? 
+360,Mary,"<context>
+Mary moved to the bathroom. Jeff journey",Who received the apple? 
+361,Bill,"<context>
+Mary moved to the bathroom. Jeff journey",Who did Mary give the apple to? 
+362,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+363,Mary,"<context>
+Mary moved to the bathroom. Jeff journey",Who did Bill give the apple to? 
+364,Bill,"<context>
+Mary moved to the bathroom. Jeff journey",Who received the apple? 
+365,Jeff,"<context>
+Jeff moved to the hallway. Jeff picked",Who received the apple? 
+366,Jeff,"<context>
+Jeff moved to the hallway. Jeff picked",Who gave the apple? 
+367,Bill,"<context>
+Jeff moved to the hallway. Jeff picked",Who received the football? 
+368,Bill,"<context>
+Jeff moved to the hallway. Jeff picked",Who received the football? 
+369,Bill,"<context>
+Jeff moved to the hallway. Jeff picked",Who did Mary give the football to? 
+370,Fred,"<context>
+Bill moved to the bedroom. Mary took the",Who did Mary give the football to? 
+371,Mary,"<context>
+Bill moved to the bedroom. Mary took the",Who gave the football to Fred? 
+372,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Mary? 
+373,Jeff,"Answer: Fred
+
+<context>
+Bill moved to",Who did Mary give the football to? 
+374,football,"Answer: football
+
+<context>
+Bill moved to",What did Mary give to Jeff? 
+375,Fred,"<context>
+Bill moved to the bathroom. Mary went to",Who received the apple? 
+376,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+377,Bill,"<context>
+Bill moved to the bathroom. Mary went to",Who gave the apple? 
+378,apple,"<context>
+Bill moved to the bathroom. Mary went to",What did Fred give to Bill? 
+379,Fred,"<context>
+Bill moved to the bathroom. Mary went to",Who did Bill give the apple to? 
+380,milk,"<context>
+Mary got the milk there. Mary gave",What did Mary give to Bill? 
+381,Bill,"<context>
+Mary got the milk there. Mary gave",Who gave the milk? 
+382,milk,"<context>
+Mary got the milk there. Mary gave",What did Mary give to Fred? 
+383,milk,"<context>
+Mary got the milk there. Mary gave",What did Fred give to Mary? 
+384,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Mary? 
+385,football,"<context>
+Mary moved to the kitchen. Bill grabbed",What did Bill give to Mary? 
+386,Mary,"<context>
+Mary picked up the apple there. Mary",Who did Bill give the football to? 
+387,football,"<context>
+Mary moved to the kitchen. Bill grabbed",What did Fred give to Mary? 
+388,Fred,"<context>
+Mary moved to the kitchen. Bill grabbed",Who did Mary give the football to? 
+389,Mary,"<context>
+Mary picked up the apple there. Mary",Who gave the football? 
+390,Fred,"<context>
+Bill went to the kitchen. Jeff picked up",Who gave the apple? 
+391,apple,"<context>
+Bill went to the kitchen. Jeff picked up",What did Fred give to Jeff? 
+392,Fred,"<context>
+Bill went to the kitchen. Jeff picked up",Who received the apple? 
+393,Fred,"<context>
+Bill went to the kitchen. Jeff picked up",Who received the apple? 
+394,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the apple to Fred? 
+395,Mary,"<context>
+Mary went to the bedroom. Jeff went",Who gave the apple? 
+396,Bill,"<context>
+Mary grabbed the apple there. Jeff went",Who did Mary give the apple to? 
+397,Fred,"<context>
+Mary grabbed the apple there. Jeff went",Who gave the apple to Bill? 
+398,Fred,"<context>
+Mary grabbed the apple there. Jeff went",Who did Bill give the apple to? 
+399,Fred,"<context>
+Mary grabbed the apple there. Jeff went",Who received the apple? 
+400,Mary,"<context>
+Mary picked up the football there. Mary",Who gave the football to Fred? 
+401,Fred,"<context>
+Jeff took the football there. Jeff passed",Who did Mary give the football to? 
+402,Fred,"<context>
+Mary picked up the football there. Mary",Who did Mary give the football to? 
+403,Fred,"<context>
+Mary picked up the football there. Mary",Who gave the apple to Jeff? 
+404,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Jeff? 
+405,apple,Answer: apple,What did Fred give to Bill? 
+406,Fred,"Answer: Fred
+
+<context>
+Bill moved to",Who gave the apple? 
+407,Fred,Answer: Bill,Who received the apple? 
+408,Fred,Answer: Fred,Who gave the apple to Jeff? 
+409,apple,Answer: apple,What did Fred give to Jeff? 
+410,milk,"<context>
+Mary moved to the hallway. Jeff moved",What did Bill give to Jeff? 
+411,Jeff,"<context>
+Mary moved to the hallway. Jeff moved",Who gave the milk to Bill? 
+412,milk,"<context>
+Mary moved to the hallway. Jeff moved",What did Jeff give to Bill? 
+413,milk,"<context>
+Mary moved to the hallway. Jeff moved",What did Jeff give to Bill? 
+414,Jeff,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Mary? 
+415,milk,"<context>
+Jeff took the apple there. Jeff went",What did Fred give to Jeff? 
+416,milk,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+417,Fred,"<context>
+Jeff took the apple there. Jeff went",Who received the milk? 
+418,Jeff,"Answer: Jeff
+
+<context>
+Jeff took",Who did Fred give the milk to? 
+419,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the milk to Fred? 
+420,Fred,"<context>
+Bill travelled to the hallway. Fred grabbed",Who gave the football? 
+421,Fred,"<context>
+Bill travelled to the hallway. Fred grabbed",Who received the football? 
+422,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+423,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+424,Fred,"<answer>
+Fred
+</answer>",Who gave the football to Mary? 
+425,apple,"<context>
+Jeff journeyed to the bedroom. Jeff",What did Fred give to Bill? 
+426,Fred,"<context>
+Jeff journeyed to the bedroom. Jeff",Who received the apple? 
+427,apple,"<context>
+Jeff journeyed to the bedroom. Jeff",What did Fred give to Mary? 
+428,Fred,"<context>
+Jeff journeyed to the bedroom. Jeff",Who received the apple? 
+429,Mary,"<context>
+Jeff journeyed to the bedroom. Jeff",Who gave the apple? 
+430,Jeff,"<context>
+Jeff went back to the hallway. Fred",Who did Fred give the apple to? 
+431,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Jeff? 
+432,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Jeff? 
+433,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who received the apple? 
+434,Mary,"<context>
+Jeff went back to the hallway. Fred",Who received the football? 
+435,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+436,Mary,"<context>
+Jeff went back to the garden. Mary",Who did Bill give the apple to? 
+437,Fred,"<context>
+Jeff went back to the garden. Mary",Who gave the apple? 
+438,Fred,"<context>
+Jeff went back to the garden. Mary",Who received the apple? 
+439,Mary,"<context>
+Jeff went back to the garden. Mary",Who gave the apple to Fred? 
+440,apple,"<context>
+Mary moved to the garden. Fred trav",What did Mary give to Bill? 
+441,Mary,"<context>
+Mary moved to the garden. Fred trav",Who did Bill give the apple to? 
+442,apple,"<context>
+Mary moved to the garden. Fred trav",What did Bill give to Mary? 
+443,Mary,"<context>
+Mary moved to the garden. Fred trav",Who gave the apple? 
+444,Mary,"<context>
+Mary picked up the apple there. Mary",Who gave the apple? 
+445,apple,"<context>
+Mary picked up the apple there. Mary",What did Mary give to Fred? 
+446,Fred,"<context>
+Jeff took the football there. Jeff passed",Who did Mary give the apple to? 
+447,milk,"<context>
+Jeff took the football there. Jeff passed",What did Mary give to Bill? 
+448,Bill,"<context>
+Mary picked up the apple there. Mary",Who received the milk? 
+449,milk,"<context>
+Mary picked up the apple there. Mary",What did Bill give to Mary? 
+450,Mary,"<context>
+Mary journeyed to the office. Jeff",Who gave the apple to Bill? 
+451,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+452,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Fred? 
+453,Fred,"<context>
+Mary journeyed to the office. Jeff",Who gave the apple to Bill? 
+454,Bill,"<context>
+Mary journeyed to the office. Jeff",Who received the apple? 
+455,Fred,"<context>
+Jeff journeyed to the garden. Bill",Who did Mary give the milk to? 
+456,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+457,Fred,"<answer>
+Fred
+</answer>
+
+<",Who did Mary give the milk to? 
+458,Mary,"Answer: Mary
+
+<context>
+Jeff journey",Who gave the milk? 
+459,milk,Answer: milk,What did Fred give to Jeff? 
+460,Mary,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk? 
+461,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Bill? 
+462,Bill,"Answer: Bill
+
+<context>
+Mary went",Who did Jeff give the football to? 
+463,football,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+464,football,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+465,Bill,"<context>
+Fred grabbed the apple there. Fred handed",Who did Fred give the apple to? 
+466,Bill,"<context>
+Fred grabbed the apple there. Fred handed",Who gave the apple to Fred? 
+467,apple,"<context>
+Fred grabbed the apple there. Fred handed",What did Bill give to Fred? 
+468,Bill,"<context>
+Fred grabbed the apple there. Fred handed",Who gave the apple to Fred? 
+469,Jeff,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Fred? 
+470,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+471,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+472,Mary,"Answer: Mary
+
+<context>
+Mary moved",Who received the apple? 
+473,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+474,apple,"Answer: apple
+
+<context>
+Mary moved",What did Mary give to Bill? 
+475,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+476,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+477,Fred,"<context>
+Jeff travelled to the garden. Jeff",Who gave the apple to Bill? 
+478,Bill,"<context>
+Jeff travelled to the garden. Jeff",Who gave the apple to Fred? 
+479,Fred,"<context>
+Jeff travelled to the garden. Jeff",Who gave the apple to Bill? 
+480,Fred,"<context>
+Mary grabbed the football there. Jeff moved",Who gave the apple? 
+481,Fred,"<context>
+Mary grabbed the football there. Jeff moved",Who gave the apple? 
+482,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+483,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+484,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Mary? 
+485,Bill,"<context>
+Mary went to the hallway. Fred picked",Who did Fred give the apple to? 
+486,apple,"<context>
+Mary went to the hallway. Fred picked",What did Fred give to Bill? 
+487,Bill,"<context>
+Mary went to the hallway. Fred picked",Who gave the apple? 
+488,Bill,"<context>
+Mary went to the hallway. Fred picked",Who gave the apple to Mary? 
+489,Bill,"<context>
+Mary went to the hallway. Fred picked",Who gave the apple? 
+490,Bill,"<context>
+Fred travelled to the bedroom. Jeff",Who gave the apple to Mary? 
+491,Mary,"<context>
+Fred travelled to the bedroom. Jeff",Who received the apple? 
+492,milk,"<context>
+Fred travelled to the bedroom. Jeff",What did Jeff give to Fred? 
+493,milk,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Jeff? 
+494,Fred,"<context>
+Fred travelled to the bedroom. Jeff",Who gave the milk to Jeff? 
+495,Jeff,"<context>
+Jeff grabbed the milk there. Mary moved",Who did Fred give the football to? 
+496,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Jeff? 
+497,Fred,"<context>
+Jeff grabbed the milk there. Mary moved",Who received the football? 
+498,football,"<context>
+Jeff grabbed the milk there. Mary moved",What did Jeff give to Fred? 
+499,Mary,"Answer: Bill
+
+<context>
+Jeff grabbed",Who received the milk? 
+500,Fred,"<context>
+Jeff took the football there. Jeff passed",Who received the football? 
+501,Jeff,"<context>
+Mary picked up the apple there. Mary",Who gave the football? 
+502,football,"<context>
+Jeff took the football there. Jeff passed",What did Fred give to Jeff? 
+503,Fred,"<context>
+Mary picked up the apple there. Mary",Who gave the football? 
+504,football,"<context>
+Jeff took the football there. Jeff passed",What did Fred give to Mary? 
+505,Fred,"<context>
+Fred travelled to the bedroom. Bill",Who received the football? 
+506,Bill,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football to Fred? 
+507,Bill,"<context>
+Fred travelled to the bedroom. Bill",Who received the football? 
+508,Bill,"<context>
+Fred travelled to the bedroom. Bill",Who received the football? 
+509,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who did Fred give the football to? 
+510,Fred,"<context>
+Fred went back to the bedroom. Mary",Who received the milk? 
+511,Jeff,"<context>
+Fred went back to the bedroom. Mary",Who received the milk? 
+512,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Fred? 
+513,milk,"<context>
+Fred went back to the bedroom. Mary",What did Jeff give to Fred? 
+514,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Bill? 
+515,Bill,"<context>
+Mary went to the hallway. Jeff moved",Who gave the apple to Mary? 
+516,Fred,"<context>
+Mary went to the hallway. Jeff moved",Who gave the apple? 
+517,Fred,"<context>
+Mary went to the hallway. Jeff moved",Who gave the apple to Mary? 
+518,Mary,"<context>
+Mary went to the hallway. Jeff moved",Who received the apple? 
+519,apple,"<context>
+Mary went to the hallway. Jeff moved",What did Fred give to Mary? 
+520,apple,"<context>
+Mary picked up the apple there. Fred",What did Mary give to Fred? 
+521,Mary,"<context>
+Mary picked up the apple there. Fred",Who gave the apple? 
+522,Fred,"<context>
+Mary picked up the apple there. Fred",Who did Mary give the milk to? 
+523,milk,"<context>
+Mary picked up the apple there. Fred",What did Mary give to Fred? 
+524,Mary,"<context>
+Mary picked up the apple there. Fred",Who gave the milk to Fred? 
+525,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Fred? 
+526,Mary,"<context>
+Mary picked up the apple there. Mary",Who received the milk? 
+527,Mary,"<context>
+Mary picked up the apple there. Mary",Who received the milk? 
+528,Mary,"<answer>
+Mary
+</answer>
+
+<",Who received the milk? 
+529,Jeff,"Answer: Jeff
+
+<context>
+Mary moved",Who gave the football to Mary? 
+530,Bill,"<context>
+Bill went to the bathroom. Bill journeyed",Who gave the apple to Mary? 
+531,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+532,Mary,"<context>
+Bill went to the bathroom. Bill journeyed",Who received the apple? 
+533,apple,"<context>
+Bill went to the bathroom. Bill journeyed",What did Bill give to Mary? 
+534,Fred,"<context>
+Bill went to the bathroom. Bill journeyed",Who did Mary give the football to? 
+535,milk,"<context>
+Fred went back to the office. Mary",What did Fred give to Bill? 
+536,Bill,"<context>
+Fred went back to the office. Mary",Who did Fred give the milk to? 
+537,Bill,"<context>
+Fred went back to the office. Mary",Who did Fred give the milk to? 
+538,Mary,"<context>
+Fred went back to the office. Mary",Who did Bill give the milk to? 
+539,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Bill give the milk to? 
+540,Jeff,"<context>
+Bill picked up the apple there. Bill journey",Who received the apple? 
+541,Jeff,"<context>
+Bill picked up the apple there. Bill journey",Who received the apple? 
+542,apple,"<context>
+Bill picked up the apple there. Bill journey",What did Bill give to Jeff? 
+543,apple,"<context>
+Bill picked up the apple there. Bill journey",What did Bill give to Mary? 
+544,Mary,"<context>
+Bill picked up the apple there. Bill journey",Who did Bill give the apple to? 
+545,Jeff,"<context>
+Jeff moved to the hallway. Jeff picked",Who did Mary give the apple to? 
+546,Jeff,"<context>
+Jeff moved to the hallway. Jeff picked",Who received the apple? 
+547,Jeff,"<context>
+Jeff moved to the hallway. Jeff picked",Who did Mary give the apple to? 
+548,Bill,"<context>
+Jeff moved to the hallway. Jeff picked",Who received the apple? 
+549,Mary,"<context>
+Jeff moved to the hallway. Jeff picked",Who gave the apple to Bill? 
+550,Mary,"<context>
+Mary went back to the garden. Fred",Who gave the milk to Jeff? 
+551,Jeff,"<context>
+Mary went back to the garden. Fred",Who received the milk? 
+552,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Fred give the football to? 
+553,Fred,"<context>
+Mary went back to the garden. Fred",Who gave the football? 
+554,Mary,"<context>
+Mary went back to the garden. Fred",Who received the football? 
+555,Bill,"<context>
+Fred took the apple there. Fred handed",Who gave the apple? 
+556,Bill,"<context>
+Fred took the apple there. Fred moved",Who gave the apple? 
+557,apple,"<context>
+Fred took the apple there. Fred moved",What did Bill give to Fred? 
+558,apple,"<context>
+Fred took the apple there. Fred moved",What did Fred give to Bill? 
+559,Fred,"<context>
+Fred took the apple there. Fred handed",Who received the apple? 
+560,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+561,Fred,"<answer>
+Mary
+</answer>
+
+<",Who received the apple? 
+562,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+563,football,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+564,Fred,"Answer: Mary
+
+<context>
+Mary trav",Who received the football? 
+565,apple,"<context>
+Jeff picked up the apple there. Mary",What did Jeff give to Mary? 
+566,Mary,"<context>
+Jeff picked up the apple there. Mary",Who gave the apple? 
+567,apple,"<context>
+Jeff picked up the apple there. Mary",What did Mary give to Jeff? 
+568,apple,"<context>
+Jeff picked up the apple there. Mary",What did Jeff give to Mary? 
+569,Jeff,"<context>
+Jeff picked up the apple there. Mary",Who gave the apple to Mary? 
+570,milk,"<context>
+Bill grabbed the apple there. Bill travelled",What did Mary give to Jeff? 
+571,milk,"<context>
+Bill grabbed the apple there. Bill travelled",What did Jeff give to Mary? 
+572,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Mary? 
+573,Fred,"<context>
+Bill grabbed the apple there. Bill travelled",Who received the milk? 
+574,Fred,"<context>
+Bill grabbed the apple there. Bill travelled",Who received the milk? 
+575,football,"<context>
+Mary journeyed to the hallway. Fred",What did Bill give to Mary? 
+576,Mary,"<context>
+Mary journeyed to the hallway. Fred",Who gave the football to Fred? 
+577,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+578,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+579,Fred,"<context>
+Mary journeyed to the hallway. Fred",Who did Mary give the football to? 
+580,Fred,"<context>
+Mary got the football there. Fred got",Who gave the milk to Bill? 
+581,Bill,"<context>
+Mary got the football there. Fred got",Who did Fred give the milk to? 
+582,milk,"<context>
+Mary got the football there. Fred got",What did Fred give to Bill? 
+583,Jeff,"<context>
+Mary got the football there. Fred got",Who gave the apple to Mary? 
+584,Jeff,"<context>
+Mary got the football there. Fred got",Who received the apple? 
+585,milk,"<context>
+Jeff picked up the football there. Fred",What did Mary give to Bill? 
+586,Mary,"<context>
+Jeff picked up the football there. Fred",Who gave the milk? 
+587,Bill,"<context>
+Jeff picked up the football there. Fred",Who did Mary give the milk to? 
+588,Jeff,"<context>
+Jeff picked up the football there. Fred",Who gave the apple to Fred? 
+589,Fred,"<context>
+Jeff picked up the football there. Fred",Who gave the apple? 
+590,milk,"<context>
+Jeff journeyed to the office. Mary",What did Bill give to Fred? 
+591,milk,"<context>
+Jeff journeyed to the office. Mary",What did Bill give to Fred? 
+592,milk,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+593,Fred,"<context>
+Jeff journeyed to the office. Mary",Who received the football? 
+594,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+595,Jeff,"<context>
+Jeff took the milk there. Jeff journey",Who gave the milk to Bill? 
+596,Jeff,"<context>
+Jeff took the football there. Jeff journey",Who received the milk? 
+597,Bill,"<context>
+Jeff took the football there. Jeff journey",Who received the milk? 
+598,Jeff,"<context>
+Jeff took the football there. Jeff journey",Who gave the milk? 
+599,milk,"<context>
+Jeff took the milk there. Jeff journey",What did Jeff give to Bill? 
+600,Jeff,"<context>
+Fred took the football there. Fred handed",Who received the football? 
+601,Mary,"<context>
+Fred took the football there. Fred handed",Who did Jeff give the football to? 
+602,Jeff,"<context>
+Fred took the football there. Fred handed",Who gave the football? 
+603,Jeff,"<context>
+Fred took the football there. Fred handed",Who gave the football? 
+604,Jeff,"<context>
+Fred took the football there. Fred handed",Who did Bill give the milk to? 
+605,Fred,"<context>
+Jeff went back to the hallway. Fred",Who did Mary give the football to? 
+606,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football to Fred? 
+607,Fred,"<context>
+Jeff went back to the hallway. Fred",Who did Bill give the football to? 
+608,Fred,"<context>
+Jeff went back to the hallway. Fred",Who gave the football? 
+609,football,"<context>
+Jeff went back to the hallway. Fred",What did Fred give to Bill? 
+610,football,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Fred? 
+611,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who did Fred give the football to? 
+612,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+613,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football? 
+614,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football? 
+615,football,"<context>
+Jeff got the football there. Jeff passed",What did Jeff give to Fred? 
+616,Jeff,"<context>
+Jeff got the football there. Jeff passed",Who did Fred give the football to? 
+617,Fred,"<context>
+Jeff got the football there. Jeff passed",Who gave the football to Jeff? 
+618,apple,"<context>
+Jeff got the football there. Jeff passed",What did Bill give to Jeff? 
+619,apple,"<context>
+Jeff got the football there. Jeff passed",What did Jeff give to Bill? 
+620,Jeff,"Answer: Mary
+
+<context>
+Jeff moved",Who gave the apple? 
+621,Jeff,"<context>
+Jeff moved to the garden. Jeff journey",Who gave the apple to Fred? 
+622,Fred,"Answer: Fred
+
+<context>
+Jeff moved",Who gave the apple to Bill? 
+623,apple,"Answer: apple
+
+<context>
+Jeff moved",What did Fred give to Bill? 
+624,Bill,"<context>
+Jeff travelled to the garden. Jeff",Who did Fred give the apple to? 
+625,football,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+626,football,"<answer>
+football
+</answer>
+
+<",What did Jeff give to Fred? 
+627,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Jeff? 
+628,Jeff,"<context>
+Fred journeyed to the kitchen. Fred",Who received the football? 
+629,Fred,"<context>
+Fred journeyed to the kitchen. Fred",Who gave the football to Jeff? 
+630,Fred,"<context>
+Bill went back to the office. Bill went",Who did Jeff give the football to? 
+631,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Jeff? 
+632,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Jeff? 
+633,football,"<answer>
+Fred
+</answer>
+
+<",What did Fred give to Jeff? 
+634,apple,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Bill? 
+635,Jeff,"<context>
+Jeff grabbed the milk there. Jeff gave",Who gave the milk? 
+636,Jeff,"<context>
+Jeff grabbed the milk there. Jeff gave",Who gave the milk? 
+637,milk,"<context>
+Jeff grabbed the milk there. Jeff gave",What did Jeff give to Bill? 
+638,football,"<context>
+Jeff grabbed the milk there. Jeff gave",What did Mary give to Fred? 
+639,Mary,"<context>
+Jeff grabbed the milk there. Jeff gave",Who received the football? 
+640,Jeff,"<context>
+Bill took the milk there. Fred moved to",Who received the milk? 
+641,Jeff,"<context>
+Bill took the milk there. Fred moved to",Who gave the milk? 
+642,Bill,"<context>
+Bill took the milk there. Fred moved to",Who did Jeff give the milk to? 
+643,Bill,"<context>
+Bill took the milk there. Fred moved to",Who did Fred give the milk to? 
+644,milk,"<context>
+Bill took the milk there. Fred moved to",What did Fred give to Bill? 
+645,Mary,"<context>
+Mary took the apple there. Mary dropped",Who gave the apple to Bill? 
+646,apple,"<context>
+Mary took the apple there. Mary dropped",What did Bill give to Mary? 
+647,Bill,"<context>
+Mary took the apple there. Mary dropped",Who gave the apple to Mary? 
+648,Bill,"<context>
+Mary took the apple there. Mary dropped",Who did Mary give the apple to? 
+649,Mary,"<context>
+Mary took the apple there. Mary dropped",Who received the apple? 
+650,Bill,"<context>
+Fred travelled to the bedroom. Fred",Who gave the apple? 
+651,Bill,"<context>
+Fred travelled to the bedroom. Fred",Who received the milk? 
+652,Bill,"<context>
+Fred travelled to the bedroom. Fred",Who did Jeff give the milk to? 
+653,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who did Jeff give the milk to? 
+654,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Bill? 
+655,Bill,"<context>
+Bill travelled to the kitchen. Jeff trav",Who did Mary give the apple to? 
+656,Mary,"<answer>
+Mary
+</answer>
+
+<",Who gave the apple to Bill? 
+657,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Mary? 
+658,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+659,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+660,Mary,"<context>
+Mary took the apple there. Mary handed",Who gave the apple to Jeff? 
+661,apple,"<context>
+Mary took the apple there. Mary handed",What did Jeff give to Mary? 
+662,apple,"<context>
+Mary took the apple there. Mary handed",What did Mary give to Jeff? 
+663,apple,"<context>
+Mary took the apple there. Mary handed",What did Mary give to Jeff? 
+664,Fred,"<context>
+Mary took the apple there. Mary handed",Who received the football? 
+665,Mary,"<context>
+Fred grabbed the milk there. Bill got",Who did Bill give the football to? 
+666,Mary,"<context>
+Fred grabbed the milk there. Bill got",Who did Bill give the football to? 
+667,Bill,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Mary? 
+668,Jeff,"Answer: Bill
+
+<context>
+Fred grabbed",Who gave the football to Fred? 
+669,Fred,"<context>
+Fred grabbed the milk there. Bill got",Who gave the football? 
+670,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+671,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+672,apple,"<context>
+Bill travelled to the garden. Mary trav",What did Bill give to Fred? 
+673,Bill,"<context>
+Bill travelled to the garden. Mary trav",Who gave the apple? 
+674,Jeff,"<context>
+Bill travelled to the garden. Mary trav",Who did Bill give the apple to? 
+675,Mary,"<context>
+Jeff moved to the hallway. Jeff trav",Who gave the apple? 
+676,Mary,"<context>
+Jeff moved to the hallway. Jeff trav",Who received the apple? 
+677,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Jeff? 
+678,Mary,"<context>
+Jeff moved to the hallway. Jeff trav",Who gave the apple? 
+679,Mary,"<context>
+Jeff moved to the hallway. Jeff trav",Who gave the apple? 
+680,apple,"<context>
+Bill got the apple there. Bill passed the",What did Bill give to Mary? 
+681,Mary,"<context>
+Bill got the apple there. Bill passed the",Who did Bill give the apple to? 
+682,Bill,"<context>
+Bill got the apple there. Bill passed the",Who gave the apple? 
+683,Bill,"<context>
+Bill got the apple there. Bill passed the",Who gave the apple to Mary? 
+684,apple,"<context>
+Bill got the apple there. Bill passed the",What did Fred give to Bill? 
+685,football,"<context>
+Mary moved to the kitchen. Fred went",What did Mary give to Bill? 
+686,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+687,Mary,"<context>
+Mary picked up the apple there. Mary",Who gave the football? 
+688,Jeff,"<context>
+Mary picked up the apple there. Mary",Who gave the milk? 
+689,milk,"<context>
+Mary picked up the apple there. Mary",What did Fred give to Jeff? 
+690,Mary,"<context>
+Jeff got the football there. Fred trav",Who gave the apple to Bill? 
+691,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+692,Bill,"<context>
+Jeff got the football there. Fred trav",Who did Mary give the apple to? 
+693,apple,"<context>
+Jeff got the football there. Fred trav",What did Bill give to Mary? 
+694,Mary,"<context>
+Jeff got the football there. Fred trav",Who received the apple? 
+695,milk,"<context>
+Mary went back to the bathroom. Mary",What did Mary give to Fred? 
+696,milk,"<context>
+Mary went back to the bedroom. Mary",What did Mary give to Fred? 
+697,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Fred? 
+698,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Fred give the apple to? 
+699,Fred,"<context>
+Mary went back to the bathroom. Mary",Who received the apple? 
+700,Bill,"<context>
+Jeff moved to the bedroom. Mary took",Who gave the apple to Fred? 
+701,apple,"<context>
+Jeff moved to the bedroom. Mary took",What did Bill give to Fred? 
+702,Fred,"<context>
+Jeff moved to the bedroom. Mary took",Who did Bill give the apple to? 
+703,Fred,"<context>
+Jeff moved to the bedroom. Mary took",Who received the apple? 
+704,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the football to Fred? 
+705,Fred,"<context>
+Bill got the apple there. Bill travelled",Who gave the football? 
+706,football,"<context>
+Bill got the apple there. Mary travelled",What did Fred give to Mary? 
+707,Fred,"<context>
+Bill got the apple there. Mary travelled",Who gave the football to Mary? 
+708,Jeff,"<context>
+Bill got the apple there. Bill travelled",Who received the apple? 
+709,Jeff,"<context>
+Bill got the apple there. Mary travelled",Who did Fred give the apple to? 
+710,Jeff,"<context>
+Mary travelled to the office. Jeff",Who gave the apple to Bill? 
+711,apple,"<context>
+Mary travelled to the office. Jeff",What did Jeff give to Bill? 
+712,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the apple to Bill? 
+713,Bill,"<context>
+Mary travelled to the office. Jeff",Who received the apple? 
+714,Bill,"<answer>
+Jeff
+</answer>
+
+<",Who gave the apple? 
+715,apple,"<context>
+Mary took the apple there. Bill went",What did Mary give to Fred? 
+716,apple,"<context>
+Mary took the apple there. Bill went",What did Mary give to Fred? 
+717,Fred,"<context>
+Mary took the apple there. Bill went",Who gave the apple to Bill? 
+718,Fred,"<context>
+Mary took the apple there. Bill went",Who did Bill give the apple to? 
+719,Bill,"<context>
+Mary took the apple there. Bill went",Who did Fred give the apple to? 
+720,apple,"<context>
+Jeff travelled to the bedroom. Bill",What did Bill give to Jeff? 
+721,Jeff,"<context>
+Jeff travelled to the bedroom. Bill",Who gave the apple? 
+722,milk,"<context>
+Jeff travelled to the bedroom. Bill",What did Jeff give to Bill? 
+723,milk,"<context>
+Jeff travelled to the bedroom. Bill",What did Jeff give to Bill? 
+724,Bill,"<context>
+Jeff travelled to the bedroom. Bill",Who did Jeff give the milk to? 
+725,football,"<context>
+Fred went to the garden. Fred picked",What did Mary give to Fred? 
+726,football,"<context>
+Fred went to the garden. Fred picked",What did Fred give to Mary? 
+727,football,"<context>
+Fred went to the garden. Fred picked",What did Fred give to Mary? 
+728,Mary,"<context>
+Fred went to the garden. Fred picked",Who gave the football to Fred? 
+729,Bill,"<context>
+Fred went to the garden. Fred picked",Who gave the milk to Jeff? 
+730,Fred,"<context>
+Jeff went back to the office. Fred",Who did Bill give the milk to? 
+731,Fred,"<context>
+Jeff went back to the office. Fred",Who did Bill give the milk to? 
+732,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Fred? 
+733,Fred,"<context>
+Jeff went back to the office. Fred",Who did Bill give the milk to? 
+734,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+735,Fred,"<context>
+Bill journeyed to the bathroom. Mary trav",Who did Mary give the milk to? 
+736,Mary,"<context>
+Bill journeyed to the bathroom. Mary trav",Who did Fred give the milk to? 
+737,milk,"<context>
+Bill journeyed to the bathroom. Mary trav",What did Fred give to Mary? 
+738,Fred,"<context>
+Bill journeyed to the bathroom. Mary trav",Who gave the football to Bill? 
+739,football,"<answer>
+football
+</answer>
+
+<",What did Fred give to Bill? 
+740,Mary,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Fred? 
+741,Fred,"<answer>
+Bill
+</answer>
+
+<context",Who received the milk? 
+742,milk,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+743,football,"<context>
+Jeff went back to the office. Jeff",What did Mary give to Fred? 
+744,football,"<context>
+Jeff went back to the office. Jeff",What did Mary give to Fred? 
+745,Bill,"<context>
+Bill travelled to the hallway. Bill went",Who did Fred give the milk to? 
+746,Bill,"<context>
+Bill travelled to the hallway. Bill went",Who did Fred give the milk to? 
+747,milk,"<context>
+Bill travelled to the hallway. Bill went",What did Bill give to Mary? 
+748,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Mary? 
+749,milk,"Answer: milk
+
+<context>
+Bill travelled",What did Mary give to Fred? 
+750,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Jeff? 
+751,Jeff,"<context>
+Bill went back to the office. Jeff went",Who did Bill give the apple to? 
+752,apple,"<context>
+Bill went back to the office. Jeff went",What did Jeff give to Bill? 
+753,Bill,"<context>
+Bill went back to the office. Jeff went",Who did Jeff give the football to? 
+754,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Jeff? 
+755,Fred,"<context>
+Jeff journeyed to the garden. Fred",Who gave the apple to Jeff? 
+756,Jeff,"<context>
+Jeff journeyed to the garden. Fred",Who did Fred give the apple to? 
+757,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Jeff? 
+758,Fred,"<context>
+Jeff journeyed to the garden. Fred",Who gave the milk? 
+759,Fred,"<context>
+Jeff journeyed to the garden. Fred",Who gave the milk? 
+760,apple,"<context>
+Jeff travelled to the kitchen. Fred",What did Fred give to Jeff? 
+761,Jeff,"<context>
+Jeff travelled to the kitchen. Fred",Who did Mary give the apple to? 
+762,Mary,"<context>
+Jeff travelled to the kitchen. Fred",Who gave the apple? 
+763,Mary,"<context>
+Jeff travelled to the kitchen. Fred",Who gave the apple? 
+764,Jeff,"<context>
+Jeff travelled to the kitchen. Fred",Who did Mary give the apple to? 
+765,Fred,"<context>
+Mary grabbed the milk there. Bill moved",Who received the football? 
+766,football,"<context>
+Mary grabbed the milk there. Bill moved",What did Fred give to Bill? 
+767,football,"<context>
+Mary grabbed the milk there. Bill moved",What did Fred give to Bill? 
+768,Bill,"<context>
+Mary grabbed the milk there. Bill moved",Who received the football? 
+769,Jeff,"<context>
+Mary grabbed the milk there. Bill moved",Who gave the football to Bill? 
+770,Bill,"<context>
+Bill grabbed the apple there. Bill handed the",Who gave the apple? 
+771,Mary,"<context>
+Bill grabbed the apple there. Bill handed the",Who did Bill give the apple to? 
+772,apple,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 
+773,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Mary? 
+774,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Mary? 
+775,Mary,"Answer: Fred
+
+<context>
+Fred went",Who gave the milk? 
+776,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Fred? 
+777,Fred,"Answer: Fred
+
+<context>
+Fred went",Who did Bill give the apple to? 
+778,apple,"Answer: apple
+
+<context>
+Fred went",What did Fred give to Bill? 
+779,Bill,Answer: Bill,Who received the apple? 
+780,Mary,"<context>
+Jeff travelled to the bedroom. Fred",Who received the football? 
+781,Mary,"<context>
+Jeff travelled to the bedroom. Fred",Who did Bill give the football to? 
+782,apple,"<context>
+Jeff travelled to the bedroom. Fred",What did Jeff give to Mary? 
+783,Mary,"<context>
+Jeff travelled to the bedroom. Fred",Who did Jeff give the apple to? 
+784,apple,"<context>
+Jeff travelled to the bedroom. Fred",What did Mary give to Fred? 
+785,milk,"<context>
+Fred moved to the kitchen. Fred trav",What did Fred give to Mary? 
+786,milk,"<context>
+Fred moved to the kitchen. Fred trav",What did Fred give to Mary? 
+787,milk,"<context>
+Fred moved to the kitchen. Fred trav",What did Fred give to Mary? 
+788,milk,"<context>
+Fred moved to the kitchen. Fred trav",What did Bill give to Mary? 
+789,milk,"<context>
+Fred moved to the kitchen. Fred trav",What did Bill give to Mary? 
+790,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+791,Fred,"<context>
+Bill journeyed to the garden. Mary went",Who gave the apple to Mary? 
+792,Mary,"Answer: Mary
+
+<context>
+Bill journeyed",Who gave the apple? 
+793,Mary,"Answer: Mary
+
+<context>
+Bill journeyed",Who did Jeff give the apple to? 
+794,Mary,"Answer: Mary
+
+<context>
+Bill journeyed",Who received the apple? 
+795,apple,"Answer: apple
+
+<context>
+Fred moved",What did Mary give to Bill? 
+796,Mary,"<context>
+Fred moved to the garden. Bill went",Who received the apple? 
+797,apple,"Answer: apple
+
+<context>
+Fred moved",What did Mary give to Bill? 
+798,Mary,"Answer: Mary
+
+<context>
+Fred moved",Who gave the apple to Bill? 
+799,apple,"Answer: apple
+
+<context>
+Fred moved",What did Mary give to Bill? 
+800,Jeff,"<context>
+Jeff grabbed the football there. Mary journey",Who gave the football to Fred? 
+801,football,"<context>
+Jeff grabbed the football there. Mary journey",What did Jeff give to Fred? 
+802,Jeff,"<context>
+Jeff grabbed the football there. Mary journey",Who gave the football to Fred? 
+803,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+804,Mary,"<answer>
+Jeff
+</answer>
+
+<",Who received the football? 
+805,Jeff,"<context>
+Mary moved to the garden. Jeff took",Who gave the apple? 
+806,apple,,What did Jeff give to Mary? 
+807,apple,"<context>
+Mary moved to the garden. Jeff took",What did Jeff give to Mary? 
+808,Jeff,"<context>
+Mary moved to the garden. Jeff took",Who received the milk? 
+809,milk,"<answer>
+apple
+</answer>
+
+<context",What did Jeff give to Fred? 
+810,Mary,"<context>
+Bill went to the kitchen. Mary went to",Who gave the football? 
+811,Jeff,"<context>
+Bill went to the kitchen. Mary went to",Who gave the football? 
+812,Mary,"<context>
+Bill went to the kitchen. Mary went to",Who gave the football? 
+813,Mary,"<context>
+Bill went to the kitchen. Mary went to",Who gave the football to Bill? 
+814,Bill,"<context>
+Bill went to the kitchen. Mary went to",Who did Mary give the football to? 
+815,milk,"<context>
+Mary travelled to the bedroom. Bill",What did Bill give to Jeff? 
+816,Jeff,"<context>
+Mary travelled to the bedroom. Bill",Who received the milk? 
+817,Bill,"<context>
+Mary travelled to the bedroom. Bill",Who gave the milk to Jeff? 
+818,Bill,"<context>
+Mary travelled to the bedroom. Bill",Who received the milk? 
+819,milk,"<context>
+Mary travelled to the bedroom. Bill",What did Fred give to Bill? 
+820,football,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Bill? 
+821,Fred,"<context>
+Fred grabbed the milk there. Fred went",Who did Bill give the football to? 
+822,football,"<answer>
+milk
+</answer>
+
+<",What did Bill give to Fred? 
+823,apple,"<context>
+Fred grabbed the milk there. Fred went",What did Bill give to Mary? 
+824,Mary,"<context>
+Fred grabbed the milk there. Fred went",Who received the apple? 
+825,Bill,"<context>
+Jeff went to the office. Mary took",Who did Fred give the milk to? 
+826,Bill,"<context>
+Jeff went to the office. Mary took",Who did Fred give the milk to? 
+827,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Bill? 
+828,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+829,milk,"<answer>
+milk
+</answer>
+
+<",What did Bill give to Fred? 
+830,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple to Mary? 
+831,Mary,"<answer>
+Mary
+</answer>
+
+<",Who did Bill give the apple to? 
+832,Mary,"Answer: Mary
+
+<context>
+Fred moved",Who did Bill give the apple to? 
+833,Bill,"Answer: Bill
+
+<context>
+Fred picked",Who gave the apple? 
+834,apple,"Answer: apple
+
+<context>
+Fred moved",What did Bill give to Mary? 
+835,Mary,"<context>
+Jeff went back to the office. Fred",Who did Bill give the football to? 
+836,Mary,"<answer>
+Bill
+</answer>
+
+<context",Who gave the football to Fred? 
+837,Fred,"<context>
+Jeff went back to the office. Fred",Who did Mary give the football to? 
+838,Fred,"<context>
+Jeff went back to the office. Fred",Who gave the football to Bill? 
+839,Bill,"<context>
+Jeff went back to the office. Fred",Who did Fred give the football to? 
+840,Jeff,"<context>
+Mary travelled to the office. Bill",Who received the apple? 
+841,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+842,Jeff,"<context>
+Mary travelled to the office. Bill",Who gave the apple? 
+843,Mary,"<answer>
+Mary
+</answer>
+
+<",Who received the apple? 
+844,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+845,Fred,"<answer>
+Fred
+</answer>
+
+<",Who received the football? 
+846,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+847,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Fred? 
+848,Bill,"<context>
+Mary travelled to the hallway. Bill",Who did Jeff give the apple to? 
+849,apple,"Answer: apple
+
+<context>
+Mary trav",What did Jeff give to Bill? 
+850,apple,"<context>
+Mary went to the garden. Jeff went",What did Jeff give to Mary? 
+851,apple,"<context>
+Mary went to the garden. Jeff went",What did Jeff give to Mary? 
+852,Mary,"<context>
+Mary went to the garden. Jeff went",Who did Jeff give the apple to? 
+853,football,"<context>
+Mary went to the garden. Jeff went",What did Jeff give to Mary? 
+854,Mary,"<context>
+Mary went to the garden. Jeff went",Who did Jeff give the football to? 
+855,football,"<context>
+Jeff journeyed to the garden. Mary",What did Mary give to Fred? 
+856,Mary,"<context>
+Jeff journeyed to the garden. Mary",Who gave the football? 
+857,Mary,"<context>
+Jeff journeyed to the garden. Mary",Who gave the football to Fred? 
+858,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Mary? 
+859,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+860,milk,"<context>
+Bill moved to the garden. Mary travelled",What did Jeff give to Mary? 
+861,Mary,"<context>
+Bill moved to the garden. Mary travelled",Who received the milk? 
+862,milk,"<context>
+Bill moved to the garden. Mary travelled",What did Jeff give to Mary? 
+863,Jeff,"<answer>
+Fred
+</answer>
+
+<",Who did Mary give the apple to? 
+864,Jeff,"<answer>
+Mary
+</answer>
+
+<",Who gave the apple? 
+865,Mary,"<answer>
+Mary
+</answer>
+
+<",Who gave the milk to Fred? 
+866,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Mary? 
+867,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Fred? 
+868,Mary,"<context>
+Bill went to the kitchen. Jeff went back",Who did Fred give the milk to? 
+869,Mary,"<context>
+Bill went to the kitchen. Jeff went back",Who gave the milk? 
+870,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the milk to Mary? 
+871,Bill,"<context>
+Mary took the milk there. Mary went",Who did Mary give the football to? 
+872,Mary,"<answer>
+Fred
+</answer>
+
+<",Who did Bill give the football to? 
+873,Mary,"<context>
+Mary took the milk there. Mary went",Who gave the football? 
+874,Mary,"<context>
+Mary took the milk there. Mary went",Who gave the milk? 
+875,Mary,"<context>
+Jeff travelled to the garden. Mary",Who received the football? 
+876,Mary,"<context>
+Jeff travelled to the garden. Mary",Who did Bill give the football to? 
+877,football,"<context>
+Jeff travelled to the garden. Mary",What did Mary give to Bill? 
+878,football,"<context>
+Jeff travelled to the garden. Mary",What did Mary give to Bill? 
+879,Fred,"<context>
+Jeff travelled to the garden. Mary",Who did Mary give the football to? 
+880,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who gave the apple? 
+881,Jeff,"Answer: Jeff
+
+<context>
+Mary got",Who gave the apple? 
+882,milk,Answer: milk,What did Bill give to Fred? 
+883,Bill,"Answer: Bill
+
+<context>
+Mary got",Who gave the milk to Fred? 
+884,milk,"<context>
+Mary got the apple there. Mary went",What did Bill give to Fred? 
+885,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who received the apple? 
+886,Bill,"Answer: Jeff
+
+<context>
+Fred picked",Who did Jeff give the apple to? 
+887,Jeff,"Answer: Bill
+
+<context>
+Fred moved",Who received the apple? 
+888,Jeff,"Answer: Bill
+
+<context>
+Fred picked",Who did Bill give the apple to? 
+889,Jeff,"<answer>
+Jeff
+</answer>
+
+<",Who did Bill give the apple to? 
+890,Bill,"<context>
+Jeff moved to the bedroom. Jeff journey",Who gave the apple? 
+891,apple,"<context>
+Jeff moved to the bedroom. Jeff journey",What did Mary give to Fred? 
+892,Fred,"<context>
+Jeff moved to the bedroom. Jeff journey",Who received the apple? 
+893,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+894,Fred,"<context>
+Jeff moved to the bedroom. Jeff journey",Who did Bill give the apple to? 
+895,Fred,"<context>
+Mary picked up the milk there. Mary",Who gave the apple? 
+896,Fred,"<context>
+Mary picked up the milk there. Mary",Who did Mary give the apple to? 
+897,Fred,"<context>
+Mary picked up the milk there. Mary",Who received the apple? 
+898,Mary,"<context>
+Mary picked up the milk there. Mary",Who received the football? 
+899,Bill,"<answer>
+Jeff
+</answer>
+
+<",Who gave the football? 
+900,Jeff,Answer: Mary,Who received the apple? 
+901,apple,Answer: apple,What did Fred give to Jeff? 
+902,Jeff,Answer: Jeff,Who did Fred give the apple to? 
+903,apple,"Answer: apple
+
+<context>
+Jeff went",What did Fred give to Jeff? 
+904,Fred,"Answer: Mary
+
+<context>
+Jeff went",Who received the apple? 
+905,Bill,"<answer>
+Mary
+</answer>
+
+<",Who gave the milk to Fred? 
+906,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Bill? 
+907,Fred,"<context>
+Mary moved to the office. Jeff took",Who did Bill give the milk to? 
+908,Bill,"<context>
+Mary moved to the office. Jeff took",Who gave the milk to Fred? 
+909,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+910,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Jeff? 
+911,Jeff,"<context>
+Jeff journeyed to the office. Mary",Who did Fred give the milk to? 
+912,Mary,"<context>
+Jeff journeyed to the office. Mary",Who received the milk? 
+913,Jeff,"<context>
+Jeff journeyed to the office. Mary",Who gave the milk? 
+914,milk,"<context>
+Jeff journeyed to the office. Mary",What did Jeff give to Mary? 
+915,football,"<context>
+Fred travelled to the kitchen. Fred",What did Fred give to Mary? 
+916,Mary,"<context>
+Fred travelled to the kitchen. Fred",Who received the football? 
+917,Mary,"<context>
+Fred travelled to the kitchen. Fred",Who gave the football? 
+918,Mary,"<context>
+Fred travelled to the kitchen. Fred",Who gave the football? 
+919,Fred,"<context>
+Fred travelled to the kitchen. Jeff",Who gave the football to Jeff? 
+920,Mary,"<context>
+Mary picked up the apple there. Mary",Who gave the apple to Fred? 
+921,Fred,"<context>
+Mary picked up the apple there. Mary",Who did Mary give the apple to? 
+922,Fred,"<context>
+Mary picked up the apple there. Mary",Who did Mary give the apple to? 
+923,Mary,"<context>
+Mary picked up the apple there. Mary",Who gave the apple? 
+924,football,"<context>
+Mary picked up the apple there. Mary",What did Jeff give to Mary? 
+925,Mary,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk? 
+926,Bill,"<context>
+Mary journeyed to the bathroom. Mary",Who did Fred give the milk to? 
+927,Fred,"<context>
+Mary journeyed to the bathroom. Mary",Who gave the apple? 
+928,milk,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+929,apple,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Fred? 
+930,apple,"<context>
+Fred went back to the hallway. Bill",What did Mary give to Fred? 
+931,Mary,"<context>
+Fred went back to the hallway. Bill",Who gave the apple? 
+932,apple,"<context>
+Fred went back to the hallway. Bill",What did Mary give to Fred? 
+933,Jeff,"<context>
+Fred went back to the hallway. Bill",Who gave the apple to Fred? 
+934,Jeff,"<context>
+Fred went back to the hallway. Bill",Who gave the apple? 
+935,Fred,"<context>
+Bill went to the garden. Bill picked up",Who did Bill give the apple to? 
+936,Bill,"<context>
+Bill went to the garden. Bill picked up",Who gave the apple? 
+937,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Bill? 
+938,Bill,"<context>
+Bill went to the garden. Bill picked up",Who did Fred give the apple to? 
+939,Bill,"<context>
+Bill went to the garden. Bill picked up",Who received the apple? 
+940,football,"<answer>
+football
+</answer>
+
+<",What did Jeff give to Bill? 
+941,football,"<answer>
+apple
+</answer>
+
+<context",What did Bill give to Jeff? 
+942,Bill,"<answer>
+Bill
+</answer>",Who gave the football to Jeff? 
+943,apple,"<answer>
+apple
+</answer>
+
+<context",What did Fred give to Mary? 
+944,Fred,"<context>
+Fred went to the bathroom. Jeff journey",Who did Mary give the apple to? 
+945,Bill,"<context>
+Bill journeyed to the bedroom. Jeff went",Who gave the apple to Jeff? 
+946,Bill,"<context>
+Bill journeyed to the bedroom. Jeff went",Who did Jeff give the apple to? 
+947,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who received the apple? 
+948,Bill,"<answer>
+Bill
+</answer>
+
+<context",Who gave the apple? 
+949,Jeff,"<context>
+Bill journeyed to the bedroom. Jeff went",Who did Bill give the apple to? 
+950,Fred,"<context>
+Bill went back to the bedroom. Mary went",Who gave the milk to Jeff? 
+951,Jeff,"<context>
+Bill went back to the bedroom. Mary went",Who received the milk? 
+952,Fred,"<context>
+Bill went back to the bedroom. Mary went",Who did Jeff give the milk to? 
+953,Jeff,"<context>
+Bill went back to the bedroom. Mary went",Who did Fred give the milk to? 
+954,milk,"<answer>
+milk
+</answer>
+
+<",What did Jeff give to Fred? 
+955,milk,"<context>
+Fred travelled to the garden. Bill",What did Mary give to Bill? 
+956,Mary,"<context>
+Fred travelled to the garden. Bill",Who did Bill give the milk to? 
+957,Bill,"<context>
+Fred travelled to the garden. Bill",Who gave the milk to Mary? 
+958,Mary,"<context>
+Fred travelled to the garden. Bill",Who gave the football? 
+959,Mary,"<context>
+Fred travelled to the garden. Bill",Who received the football? 
+960,apple,"<context>
+Mary journeyed to the kitchen. Fred",What did Fred give to Jeff? 
+961,Jeff,"<context>
+Mary journeyed to the kitchen. Fred",Who did Fred give the apple to? 
+962,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple to Jeff? 
+963,Fred,"<context>
+Mary journeyed to the kitchen. Fred",Who gave the apple? 
+964,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the apple? 
+965,Fred,"<answer>
+Fred
+</answer>
+
+<",Who received the apple? 
+966,Mary,"<answer>
+Mary
+</answer>
+
+<",Who gave the apple to Fred? 
+967,Fred,"<context>
+Mary journeyed to the bedroom. Jeff",Who did Mary give the apple to? 
+968,apple,"<context>
+Mary journeyed to the bedroom. Jeff",What did Mary give to Fred? 
+969,Fred,"<context>
+Mary journeyed to the bedroom. Jeff",Who gave the apple? 
+970,Bill,"<context>
+Bill moved to the office. Jeff moved to",Who received the milk? 
+971,Bill,"<context>
+Bill moved to the office. Jeff moved to",Who gave the milk? 
+972,Bill,"<answer>
+Bill
+</answer>",Who gave the milk to Mary? 
+973,Mary,"<answer>
+Mary
+</answer>
+
+<",Who gave the milk to Jeff? 
+974,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the football? 
+975,football,"<context>
+Bill travelled to the garden. Bill moved",What did Jeff give to Bill? 
+976,football,"<context>
+Bill travelled to the garden. Bill moved",What did Jeff give to Bill? 
+977,Jeff,"<context>
+Bill travelled to the garden. Bill moved",Who did Mary give the milk to? 
+978,milk,"<answer>
+milk
+</answer>
+
+<",What did Mary give to Jeff? 
+979,Mary,"<context>
+Bill travelled to the garden. Bill moved",Who received the football? 
+980,milk,"<answer>
+milk
+</answer>
+
+<",What did Fred give to Mary? 
+981,Fred,"<context>
+Bill went to the bedroom. Jeff went to",Who gave the milk? 
+982,Fred,"<answer>
+Fred
+</answer>
+
+<",Who gave the milk to Mary? 
+983,Fred,"<context>
+Bill went to the bedroom. Jeff went to",Who received the milk? 
+984,Fred,"<context>
+Bill went to the bedroom. Jeff went to",Who gave the milk? 
+985,Jeff,"<context>
+Fred went back to the garden. Fred",Who received the milk? 
+986,Fred,"<context>
+Fred went back to the garden. Fred",Who gave the milk? 
+987,Fred,"<context>
+Fred went back to the garden. Fred",Who gave the milk to Jeff? 
+988,Fred,"<context>
+Fred went back to the garden. Fred",Who gave the milk? 
+989,Bill,"Answer: Bill
+
+<context>
+Fred went",Who received the milk? 
+990,apple,"<context>
+Mary went to the kitchen. Bill went",What did Bill give to Fred? 
+991,Fred,"<context>
+Mary went to the kitchen. Bill went",Who did Bill give the apple to? 
+992,Bill,"<context>
+Mary went to the kitchen. Bill went",Who gave the apple? 
+993,football,"<answer>
+football
+</answer>
+
+<",What did Jeff give to Mary? 
+994,Jeff,"Answer: Jeff
+
+<context>
+Mary went",Who gave the football to Mary? 
+995,Bill,"<context>
+Fred journeyed to the bedroom. Bill",Who received the football? 
+996,Fred,"<context>
+Fred journeyed to the bedroom. Bill",Who gave the football? 
+997,football,"Answer: apple
+
+<context>
+Fred journey",What did Mary give to Bill? 
+998,football,"<answer>
+apple
+</answer>
+
+<context",What did Mary give to Bill? 

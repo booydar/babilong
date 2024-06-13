@@ -1,0 +1,3379 @@
+,target,output,question
+0,football,"football (Document[119]):""Fred picked up the football there .",What did Fred give to Jeff? 
+1,Fred,"Fred (Document[129]):""Fred picked up the football there",Who gave the football to Jeff? 
+2,football,"Answer: football
+</example>
+
+<context>
+I am
+going r",What did Fred give to Jeff? 
+3,Jeff,"Jeff (Document[170]):""Fred picked up the football there",Who did Fred give the football to? 
+4,Fred,"Fred (Document[129]):""Jeff took the football there .",Who did Jeff give the football to? 
+5,Jeff,"Jeff (Document[129]):""Jeff got the apple there .",Who gave the apple? 
+6,Bill,"Fred (Document[119]):""Fred journeyed to the hall",Who received the apple? 
+7,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Fred? 
+8,apple,"apple (Document[119]):""Bill handed the apple to Fred.""",What did Bill give to Fred? 
+9,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who received the apple? 
+10,Mary,"Fred (Document[119]):""Fred journeyed to the bed",Who received the milk? 
+11,milk,"milk (Document[119]):""Mary picked up the apple there",What did Mary give to Bill? 
+12,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who received the milk? 
+13,Bill,"Bill (Document[119]):""Mary gave the milk to Bill",Who did Mary give the milk to? 
+14,milk,"milk (Document[129]):""Bill picked up the football there",What did Mary give to Bill? 
+15,Jeff,"Fred (Document[119]):""Fred picked up the apple there",Who received the football? 
+16,Fred,"Fred (Document[11]):""Fred picked up the football there .",Who gave the football to Jeff? 
+17,football,"Answer: football
+</example>
+
+<context>
+Fred picked up the",What did Fred give to Jeff? 
+18,Jeff,"Fred (Document[119]):""Fred picked up the football there",Who received the football? 
+19,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+20,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Jeff give to Mary? 
+21,Mary,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who gave the milk to Jeff? 
+22,Mary,"Answer: Mary
+</context>",Who gave the milk to Jeff? 
+23,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the apple to Jeff? 
+24,Jeff,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+25,apple,"Answer: apple
+</example>
+
+<context>
+Bill journeyed to",What did Jeff give to Fred? 
+26,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill went back to",Who received the apple? 
+27,Jeff,"Answer: Fred
+</example>
+
+<context>
+Jeff went back to",Who received the apple? 
+28,Jeff,"Bill (Document[129]):""Bill journeyed to the hall",Who gave the apple? 
+29,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who did Jeff give the apple to? 
+30,Mary,"Bill (Document[139]):""Bill journeyed to the bed",Who gave the milk? 
+31,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the milk? 
+32,Bill,"Bill (Document[21]):""Bill gave the milk to Mary""",Who gave the milk to Mary? 
+33,milk,"milk (Document[47]):""Bill gave the milk to Mary.""",What did Bill give to Mary? 
+34,apple,"apple (Document[119]):""Fred picked up the apple there .",What did Mary give to Fred? 
+35,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Bill went to the",Who did Fred give the milk to? 
+36,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Bill went to the",Who did Fred give the milk to? 
+37,milk,"Answer: milk
+</example>
+
+<context>
+The Russians are",What did Jeff give to Mary? 
+38,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Jeff give to Mary? 
+39,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple? 
+40,Mary,"Fred (Document[129]):""Fred picked up the milk there",Who gave the milk? 
+41,milk,"Answer: milk
+</context>
+
+<context>
+Bill journeyed to",What did Mary give to Fred? 
+42,Jeff,"Bill (Document[1101]):""Bill journeyed to the",Who gave the milk? 
+43,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who received the milk? 
+44,Mary,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the milk? 
+45,Bill,"Bill (Document[129]):""Mary went back to the hall",Who did Mary give the milk to? 
+46,milk,"Answer: milk
+</context>
+
+<context>
+""I'm sure",What did Mary give to Bill? 
+47,Mary,"Answer: Mary
+</example>
+
+<context>
+""I am obliged to",Who gave the milk? 
+48,Mary,"Fred (Document[129]):""Bill journeyed to the hall",Who did Bill give the milk to? 
+49,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the milk to Mary? 
+50,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple to Fred? 
+51,Fred,"Jeff
+</context>
+
+Answer: Fred
+</example>",Who gave the apple to Mary? 
+52,apple,"Answer: apple
+</example>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+53,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+54,apple,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Jeff? 
+55,Fred,"Bill (Document[129]):""Bill gave the football to Fred",Who received the football? 
+56,football,"Answer: football
+</context>
+
+<context>
+_Silvina makes",What did Bill give to Fred? 
+57,Bill,"Bill (Document[119]):""Bill gave the apple to Mary",Who gave the apple? 
+58,Bill,"Fred
+</question>
+
+<answer>Fred</answer>",Who did Mary give the apple to? 
+59,Jeff,"Bill
+</context>
+
+Answer: Bill
+</example>",Who did Bill give the apple to? 
+60,Jeff,"Answer: Jeff
+</context>
+
+<context>
+Mary went to the",Who did Bill give the apple to? 
+61,Bill,"Bill (Document[43]):""Bill gave the apple to Jeff.""",Who gave the apple to Jeff? 
+62,Jeff,"Jeff (Document[129]):""Bill went back to the hall",Who gave the apple to Bill? 
+63,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the apple? 
+64,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+65,Mary,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple to Bill? 
+66,Bill,"Fred (Document[119]):""Bill moved to the bedroom",Who did Mary give the apple to? 
+67,Mary,"Bill (Document[129]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+68,apple,"apple (Document[136]):""Bill went back to the office .",What did Bill give to Mary? 
+69,Mary,"</question>
+
+Bill gave the apple to Mary. (Document[137",Who did Bill give the apple to? 
+70,apple,"Answer: apple
+</context>
+
+<context>
+Bill went back to",What did Fred give to Jeff? 
+71,Jeff,"Jeff (Document[149]):""Jeff journeyed to the bath",Who gave the football? 
+72,Jeff,"Jeff (Document[129]):""Jeff journeyed to the bath",Who gave the football? 
+73,apple,"apple (Document[129]):""Fred picked up the apple there .",What did Fred give to Bill? 
+74,apple,"apple (Document[129]):""Bill went back to the garden .",What did Fred give to Bill? 
+75,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the football? 
+76,Fred,"Fred (Document[119]):""Fred journeyed to the hall",Who gave the football? 
+77,Mary,"Answer: Fred
+</example>
+
+<context>
+[Illustration: (a",Who received the football? 
+78,Mary,"Fred (Document[129]):""Fred picked up the football there",Who gave the football? 
+79,football,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Fred? 
+80,milk,"Answer: milk
+</example>
+
+Your turn!
+
+<prompt>",What did Fred give to Jeff? 
+81,milk,"Answer: milk
+</example>
+
+Your turn!
+
+<prompt>",What did Fred give to Jeff? 
+82,Fred,"Fred (Document[159]):""Fred moved to the garden .",Who did Jeff give the milk to? 
+83,milk,"Answer: milk
+</example>
+
+<context>
+Bill journeyed to",What did Jeff give to Fred? 
+84,Jeff,"Jeff (Document[176]):""Fred moved to the garden .",Who gave the milk to Fred? 
+85,Fred,"Fred (Document[192]):""Mary picked up the apple there",Who did Mary give the apple to? 
+86,Fred,"Bill (Document[200]):""Bill went back to the kitchen",Who gave the apple to Mary? 
+87,Mary,"Answer: Mary
+</example>
+
+<context>
+""The next day,",Who gave the apple? 
+88,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+89,Jeff,"Answer: Jeff
+</context>
+
+<context>
+Bill went back to",Who received the football? 
+90,football,"Answer: football
+</context>
+
+<context>
+“I’m not",What did Mary give to Jeff? 
+91,Mary,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+<",Who received the football? 
+92,Mary,"Jeff (Document[159]):""Jeff went to the hallway",Who gave the football? 
+93,Jeff,"Jeff (Document[159]):""Jeff journeyed to the bed",Who did Mary give the football to? 
+94,Bill,"Answer: Bill
+</example>
+
+<context>
+Bill went to the",Who did Fred give the apple to? 
+95,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who did Mary give the apple to? 
+96,Mary,"Mary (Document[119]):""Mary picked up the apple there",Who gave the apple to Jeff? 
+97,apple,"apple (Document[10]):""Jeff went back to the garden . What",What did Jeff give to Fred? 
+98,Fred,"Fred (Document[119]):""Fred journeyed to the garden",Who did Jeff give the apple to? 
+99,milk,"milk (Document[119]):""Bill journeyed to the bed",What did Bill give to Mary? 
+100,Bill,"Bill
+</question>
+
+Answer: Fred
+</example>
+
+Your",Who did Mary give the apple to? 
+101,Bill,"Answer: Fred
+</example>
+
+<context>
+The following is a list",Who received the apple? 
+102,Fred,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+103,Bill,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+Your",Who gave the apple? 
+104,apple,"Answer: apple
+</context>
+
+<context>
+Bill went to the",What did Mary give to Bill? 
+105,Jeff,"Jeff
+</example>
+
+<context>
+Mary picked up the apple",Who received the milk? 
+106,Mary,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+<",Who gave the milk? 
+107,Jeff,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the milk to? 
+108,football,"Answer: football
+</context>
+
+<context>
+Mary journeyed to",What did Bill give to Mary? 
+109,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the football? 
+110,apple,"Answer: apple
+</example>
+
+<context>
+The largest sistra which",What did Jeff give to Mary? 
+111,apple,"Answer: apple
+</example>
+
+<context>
+The dulcimer",What did Jeff give to Mary? 
+112,Mary,"Mary
+</context>
+
+Answer: Mary
+</context>",Who gave the apple? 
+113,Mary,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who gave the apple? 
+114,Mary,"Fred (Document[129]):""Fred went back to the hall",Who received the apple? 
+115,Bill,"Bill (Document[119]):""Bill journeyed to the bed",Who gave the milk? 
+116,milk,"Answer: milk
+</context>
+
+<context>
+Bill journeyed to",What did Mary give to Bill? 
+117,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Mary give the milk to? 
+118,milk,"Answer: milk
+</context>
+
+<context>
+Bill journeyed to",What did Bill give to Mary? 
+119,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who did Bill give the milk to? 
+120,milk,"Answer: milk
+</context>
+
+<context>
+""Surely,",What did Mary give to Bill? 
+121,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+122,Mary,"Bill (Document[129]):""Bill went back to the hall",Who gave the milk? 
+123,Jeff,"Jeff (Document[119]):""Bill went back to the hall",Who did Bill give the football to? 
+124,Bill,"Bill (Document[129]):""Bill went back to the hall",Who gave the football to Jeff? 
+125,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Mary journeyed to",Who received the football? 
+126,Jeff,"Jeff (Document[119]):""Bill journeyed to the bed",Who gave the football to Bill? 
+127,football,"football (Document[7]):""But this port, and our influence receiving thereby a",What did Jeff give to Bill? 
+128,football,"football (Document[119]):""Jeff went to the bedroom .",What did Jeff give to Bill? 
+129,apple,"Answer: apple
+</context>
+
+<context>
+""Glad to see",What did Fred give to Mary? 
+130,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who received the apple? 
+131,apple,"Answer: apple
+</example>
+
+<context>
+“I don’t",What did Mary give to Bill? 
+132,apple,"Answer: apple
+</context>
+
+<context>
+“I’m glad",What did Mary give to Bill? 
+133,apple,"apple (Document[119]):""Jeff took the apple there . Jeff",What did Jeff give to Mary? 
+134,Fred,"Bill (Document[129]):""Bill gave the apple to Mary",Who gave the apple? 
+135,football,"football (Document[119]):""Fred grabbed the football there",What did Fred give to Jeff? 
+136,football,"Answer: football
+</example>
+
+<context>
+""I'm going",What did Fred give to Jeff? 
+137,Jeff,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the football? 
+138,Fred,"Fred
+</example>
+
+<context>
+The hospital was a world,",Who did Jeff give the football to? 
+139,football,"Answer: football
+</example>
+
+<context>
+Bill went back to",What did Fred give to Mary? 
+140,football,"Answer: football
+</example>
+
+<context>
+Bill took the milk",What did Jeff give to Mary? 
+141,Mary,"Answer: Mary
+</example>
+
+<context>
+The next morning, the",Who received the football? 
+142,football,"Answer: football
+</example>
+
+<context>
+""I'm going",What did Mary give to Jeff? 
+143,Jeff,"Jeff (Document[119]):""Jeff took the football there .",Who gave the football? 
+144,Bill,"Answer: Fred
+</example>
+
+<context>
+The first thing that strik",Who received the apple? 
+145,Fred,"Answer: Fred
+</context>
+
+<context>
+The Gods of To",Who received the apple? 
+146,Fred,"Fred (Document[129]):""Bill went to the garden .",Who received the apple? 
+147,Mary,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who did Bill give the football to? 
+148,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the football to Mary? 
+149,Fred,"Answer: Mary
+</example>
+
+<context>
+Bill went to the",Who received the football? 
+150,Bill,"Answer: Jeff
+</example>
+
+<context>
+Mary journeyed to",Who received the apple? 
+151,Jeff,"Answer: Fred
+</example>
+
+<context>
+Mary journeyed to",Who gave the apple to Bill? 
+152,Bill,"Answer: Bill
+</example>
+
+<context>
+I have been told that",Who received the apple? 
+153,Bill,"Bill (Document[119]):""Bill journeyed to the office",Who gave the apple to Jeff? 
+154,apple,"Answer: apple
+</context>
+
+<context>
+Mary journeyed to",What did Bill give to Jeff? 
+155,football,"Answer: milk
+</example>
+
+Your turn!
+
+<prompt>",What did Mary give to Bill? 
+156,football,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+157,Mary,"Marshal Simon's daughters (Document[119]):""Marshal Simon",Who did Bill give the football to? 
+158,football,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Mary? 
+159,Bill,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the apple? 
+160,Bill,"Bill
+</context>
+
+Answer: Fred
+</example>
+
+<",Who did Fred give the apple to? 
+161,apple,"apple
+</question>
+
+<answer>apple</answer>
+
+</context",What did Fred give to Bill? 
+162,apple,"apple (Document[2]):""Fred journeyed to the garden . Poll",What did Fred give to Bill? 
+163,Fred,"Bill (Document[10]):""Bill (Bill journeyed to",Who gave the apple? 
+164,Jeff,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the apple? 
+165,Jeff,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who received the apple? 
+166,Jeff,"Answer: Mary
+</example>
+
+<context>
+Bill went to the",Who received the apple? 
+167,Jeff,"Answer: Mary
+</example>",Who received the apple? 
+168,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+169,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the milk to Fred? 
+170,football,football (Answer: Mary took the football there. Mary handed the football to Bill. How,What did Mary give to Bill? 
+171,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who did Mary give the football to? 
+172,football,"Answer: football
+</context>
+
+</context>
+
+</context>",What did Bill give to Mary? 
+173,football,"Answer: football
+</context>
+
+<context>
+“And now,” mus",What did Bill give to Mary? 
+174,Mary,"Bill journeyed to the bedroom. Mary moved to the bathroom.
+</",Who did Bill give the football to? 
+175,football,"Answer: football
+</example>
+
+<context>
+The man left at the",What did Jeff give to Bill? 
+176,football,"football (Document[119]):""Bill went to the bathroom .",What did Bill give to Mary? 
+177,Mary,"Bill (Document[129]):""Bill went to the bathroom",Who received the football? 
+178,Bill,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+Answer",Who gave the football? 
+179,football,"Answer: football
+</context>
+
+<context>
+Mary went to the",What did Bill give to Fred? 
+180,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the milk to Jeff? 
+181,milk,"milk (Document[129]):""Jeff put down the milk .",What did Jeff give to Mary? 
+182,Mary,"Answer: Fred
+</example>
+
+<context>
+The next morning, the two",Who received the milk? 
+183,Mary,"Jeff (Document[129]):""Fred picked up the apple there",Who gave the milk? 
+184,Fred,"Fred (Document[13]):""Fred gave the milk to Mary .",Who received the milk? 
+185,football,"Answer: football
+</context>
+
+<context>
+The writer has used this",What did Mary give to Bill? 
+186,football,"Answer: football
+</context>
+
+<context>
+""I'm not",What did Mary give to Bill? 
+187,football,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Bill? 
+188,Bill,"Bill (Document[119]):""Bill journeyed to the garden",Who gave the football? 
+189,football,"Answer: football
+</example>
+
+<context>
+Bill went back to",What did Bill give to Mary? 
+190,Fred,"Jeff
+</example>
+
+<context>
+Bill went back to the",Who gave the football? 
+191,Fred,"Answer: Fred
+</context>
+
+<context>
+Bill went back to",Who gave the football to Jeff? 
+192,football,"Answer: football
+</context>
+
+<context>
+Bill went back to",What did Fred give to Jeff? 
+193,apple,"Answer: apple
+</example>
+
+<context>
+Bill went back to",What did Bill give to Fred? 
+194,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple to Fred? 
+195,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+196,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the milk? 
+197,Bill,"Bill (Document[129]):""Bill went to the kitchen .",Who gave the milk? 
+198,milk,"Answer: milk
+</context>
+
+<context>
+Bill journeyed to",What did Bill give to Mary? 
+199,Mary,"Bill (Document[129]):""Bill gave the milk to Mary",Who gave the milk? 
+200,milk,"Answer: football
+</context>
+
+<context>
+PEASANT",What did Jeff give to Bill? 
+201,milk,"milk (Document[129]):""Jeff took the milk there .",What did Jeff give to Bill? 
+202,milk,"milk (Document[119]):""Jeff took the football there .",What did Jeff give to Bill? 
+203,Mary,"Jeff (Document[129]):""Jeff journeyed to the hall",Who gave the football? 
+204,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who did Mary give the football to? 
+205,Fred,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the football? 
+206,Fred,"Fred (Document[159]):""Mary journeyed to the hall",Who did Mary give the football to? 
+207,Jeff,"Answer: Jeff
+</example>
+
+Your answer should contain only one word. Do",Who did Fred give the football to? 
+208,Fred,"Bill (Document[119]):""Bill went to the hallway",Who gave the football to Jeff? 
+209,Jeff,"Bill (Document[129]):""Bill went to the hallway",Who gave the football to Fred? 
+210,Fred,"Fred (Document[119]):""Fred picked up the milk there",Who gave the milk to Jeff? 
+211,Fred,"Fred (Document[129]):""Fred picked up the milk there",Who gave the milk? 
+212,Jeff,"Jeff (Document[129]):""Fred picked up the milk there",Who gave the milk to Fred? 
+213,Jeff,"Bill (Document[159]):""Bill went to the hallway",Who gave the milk to Fred? 
+214,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the milk? 
+215,Fred,"Fred
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who gave the apple to Mary? 
+216,Mary,"Answer: Mary
+</example>
+
+Your answer should contain only one word. Do",Who received the apple? 
+217,Bill,"Answer: Fred
+</context>
+
+<context>
+Mary journeyed to",Who received the apple? 
+218,Mary,"Answer: Mary
+</context>
+
+<context>
+Mary journeyed to",Who did Fred give the milk to? 
+219,Mary,"Fred (Document[119]):""Fred journeyed to the garden",Who gave the apple? 
+220,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the apple to Mary? 
+221,Bill,"Answer: Bill
+</example>
+
+<context>
+Jeff went back to",Who gave the apple to Mary? 
+222,Mary,"Fred (Document[119]):""Fred put down the milk .",Who gave the apple to Bill? 
+223,Bill,"Fred (Document[1803]):""Mary picked up the apple",Who did Mary give the apple to? 
+224,apple,"Answer: apple
+</context>
+
+<context>
+Jeff went back to the",What did Bill give to Mary? 
+225,football,"Answer: football
+</example>
+
+<context>
+The first time I went",What did Jeff give to Fred? 
+226,Jeff,"Jeff (Document[129]):""Jeff grabbed the football",Who gave the football to Fred? 
+227,football,"Answer: football
+</context>
+
+<context>
+I keep your memory near",What did Jeff give to Fred? 
+228,football,"football (Document[129]):""Jeff handed the football to Fred .",What did Jeff give to Fred? 
+229,football,"football (Document[129]):""Jeff picked up the football there .",What did Jeff give to Fred? 
+230,apple,"apple (Document[20]):""Fred picked up the apple there . Fred",What did Fred give to Bill? 
+231,Bill,"Bill (Document[119]):""Fred picked up the apple there",Who did Fred give the apple to? 
+232,Fred,"Answer: Fred
+</example>
+
+<context>
+The first thing that struck me",Who gave the apple to Bill? 
+233,Fred,"Fred (Document[129]):""Fred gave the apple to Bill",Who gave the apple to Bill? 
+234,Fred,"Bill (Document[129]):""Bill gave the apple to Fred",Who gave the apple? 
+235,Bill,"Answer: Fred
+</example>
+
+<context>
+Jeff went to the",Who gave the football to Mary? 
+236,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the football? 
+237,football,"Answer: football
+</example>
+
+<context>
+Jeff went to the",What did Bill give to Mary? 
+238,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the football to Mary? 
+239,Bill,"Bill (Document[129]):""Bill went back to the garden",Who gave the football? 
+240,Fred,"Fred (Document[129]):""Fred went back to the bed",Who gave the football to Bill? 
+241,Fred,"Bill (Document[129]):""Bill passed the football to Fred",Who gave the football? 
+242,Fred,"Fred (Document[159]):""Fred journeyed to the hall",Who gave the football to Bill? 
+243,Bill,"Bill (Document[119]):""Bill gave the football to Fred",Who gave the football to Fred? 
+244,football,"Answer: football
+</example>
+
+<context>
+Mary went to the",What did Bill give to Fred? 
+245,football,"Answer: football
+</example>
+
+<context>
+The first thing that Fred",What did Jeff give to Mary? 
+246,Mary,"Jeff
+</context>
+
+Answer: Jeff
+</context>
+
+<",Who gave the football? 
+247,Mary,"Jeff (Document[129]):""Jeff went back to the garden",Who gave the football? 
+248,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+Your",Who gave the apple? 
+249,Mary,"Mary (Document[119]):""Mary handed the apple to Bill",Who gave the apple to Bill? 
+250,apple,"Answer: apple
+</example>
+
+<context>
+Jeff went back to",What did Mary give to Fred? 
+251,Fred,"Fred (Document[119]):""Fred (Document[11",Who received the apple? 
+252,Mary,"Fred (Document[119]):""Fred gave the apple to Mary",Who gave the apple? 
+253,Jeff,"Fred (Document[159]):""Fred gave the apple to Jeff",Who received the apple? 
+254,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Jeff? 
+255,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who received the milk? 
+256,Jeff,"Answer: Jeff
+</example>
+
+<context>
+The first of these schools",Who gave the milk to Fred? 
+257,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Mary journeyed to",Who gave the milk? 
+258,football,"Answer: football
+</context>
+
+<context>
+Mary journeyed to",What did Bill give to Mary? 
+259,Mary,"Answer: Mary
+</example>
+
+<context>
+Mary went to the",Who did Fred give the milk to? 
+260,Jeff,"Jeff (Document[129]):""Jeff grabbed the apple",Who gave the apple to Mary? 
+261,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple to Mary? 
+262,Mary,"Jeff
+</example>
+
+<context>
+“How
+wonderful",Who gave the apple? 
+263,apple,"apple (Document[119]):""Bill journeyed to the bedroom",What did Mary give to Bill? 
+264,apple,"Answer: apple
+</example>
+
+<context>
+Jeff grabbed",What did Mary give to Bill? 
+265,football,"Answer: football
+</example>
+
+<context>
+Jeff moved to the",What did Fred give to Bill? 
+266,Fred,"Jeff (Document[109]):""Jeff took the football there .",Who gave the football? 
+267,Fred,"</question>
+
+Jeff (Document[109]):""Jeff took",Who gave the football to Bill? 
+268,Mary,"Fred (Document[119]):""Bill journeyed to the bed",Who did Bill give the football to? 
+269,Mary,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the football? 
+270,Mary,"Answer: Mary
+</context>
+
+<context>
+""I'm sure",Who received the apple? 
+271,Mary,"Answer: Jeff
+</example>
+
+<context>
+""I'm a",Who gave the apple? 
+272,apple,"apple (Document[11]):""Mary went to the kitchen . I'",What did Mary give to Jeff? 
+273,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple to Jeff? 
+274,apple,"apple (Document[129]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+275,Mary,"Answer: Mary
+</example>
+
+<context>
+Bill journeyed to the",Who received the football? 
+276,Mary,"Answer: Mary
+</context>
+
+<context>
+Bill journeyed to",Who received the football? 
+277,football,"milk (Document[14]):""Mary put down the milk there .",What did Mary give to Jeff? 
+278,Mary,"Mary
+</question>
+
+Answer: Fred
+</example>
+
+Please",Who did Jeff give the football to? 
+279,Mary,"Answer: Mary
+</example>
+
+<context>
+Bill journeyed to",Who received the football? 
+280,Fred,"Bill (Document[15]):""Bill (Document[15]",Who gave the apple? 
+281,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Fred? 
+282,Fred,"Fred (Document[119]):""Fred gave the apple to Mary",Who gave the apple to Mary? 
+283,Fred,"Fred (Document[159]):""Fred picked up the apple there",Who received the apple? 
+284,apple,"apple (Document[129]):""Fred gave the apple to Mary.""",What did Fred give to Mary? 
+285,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple? 
+286,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who gave the apple to Bill? 
+287,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple to Bill? 
+288,apple,"apple (Document[129]):""Fred journeyed to the bedroom",What did Fred give to Bill? 
+289,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple to Mary? 
+290,Mary,"Mary
+</question>
+
+<answer>Mary</answer>",Who gave the milk to Bill? 
+291,Bill,"Bill (Document[129]):""Bill gave the milk to Mary",Who gave the milk? 
+292,Mary,"Mary (Document[129]):""Mary picked up the milk there",Who gave the milk to Bill? 
+293,Bill,"Answer: Bill
+</example>
+
+<context>
+Jeff went back to",Who did Mary give the milk to? 
+294,apple,"apple (Document[10]):""Jeff went back to the hallway .",What did Jeff give to Fred? 
+295,milk,"milk
+</context>
+
+Answer: milk
+</example>
+
+<",What did Mary give to Jeff? 
+296,Mary,"Answer: Jeff
+</example>
+
+<context>
+""The
+woman",Who gave the milk? 
+297,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+298,milk,"Answer: milk
+</context>
+
+<context>
+Mary journeyed to",What did Mary give to Jeff? 
+299,Bill,"Bill (Document[129]):""Bill went back to the bed",Who gave the milk to Jeff? 
+300,football,"football (Document[119]):""Mary went back to the bedroom",What did Mary give to Fred? 
+301,Fred,"Fred
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who did Mary give the football to? 
+302,Mary,"Jeff
+</example>
+
+<context>
+Fred went to the bed",Who gave the football to Fred? 
+303,Mary,"Answer: Mary
+</example>
+
+<context>
+Bill went to the",Who did Fred give the apple to? 
+304,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple to Mary? 
+305,Jeff,"Fred
+</context>
+
+Ans: Fred
+</context>",Who gave the apple to Mary? 
+306,Mary,"Bill (Document[119]):""Jeff picked up the apple there",Who did Jeff give the apple to? 
+307,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Fred? 
+308,Fred,"Fred (Document[119]):""Fred journeyed to the office",Who did Mary give the milk to? 
+309,Fred,"Answer: Mary
+</context>
+
+<context>
+Fred journeyed to",Who received the milk? 
+310,Mary,"Answer: Fred
+</example>",Who gave the football to Bill? 
+311,Bill,"Bill (Document[129]):""Bill took the apple there .",Who gave the football? 
+312,football,"Answer: apple
+</context>
+
+<context>
+Mary journeyed to",What did Bill give to Mary? 
+313,apple,"Answer: football
+</example>
+
+<context>
+Mary journeyed to",What did Bill give to Mary? 
+314,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who did Jeff give the football to? 
+315,milk,"milk (Document[13]):""Fred picked up the apple there .",What did Jeff give to Bill? 
+316,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the milk? 
+317,milk,"milk (Document[129]):""Jeff went back to the office",What did Jeff give to Bill? 
+318,apple,"Answer: apple
+</example>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+319,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who did Mary give the apple to? 
+320,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple? 
+321,apple,"apple (Answer: apple)
+</context>
+
+<context>
+Jeff",What did Mary give to Bill? 
+322,Mary,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who did Jeff give the football to? 
+323,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the football? 
+324,Mary,"Answer: Mary
+</example>
+
+<context>
+The Mayas were a",Who received the football? 
+325,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the football to Mary? 
+326,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+Please",Who gave the football? 
+327,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Bill took the football",Who received the apple? 
+328,apple,"Answer: apple
+</example>
+
+Please answer the question based on the given context",What did Bill give to Jeff? 
+329,apple,"Answer: apple
+</example>
+
+<context>
+The first time I went",What did Bill give to Jeff? 
+330,apple,"apple (Document[129]):""Fred picked up the apple there .",What did Fred give to Mary? 
+331,apple,"apple (Document[119]):""Fred picked up the apple there .",What did Fred give to Mary? 
+332,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple? 
+333,Bill,"Answer: Fred
+</example>
+
+<context>
+*     *     *",Who received the apple? 
+334,apple,"apple (Document[129]):""Bill went back to the kitchen .",What did Mary give to Bill? 
+335,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple? 
+336,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Fred? 
+337,apple,"Answer: apple
+</context>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+338,apple,"Answer: apple
+</context>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+339,Mary,"Answer: Mary
+</context>
+
+<context>
+Bill went to the",Who did Fred give the apple to? 
+340,apple,"Answer: apple
+</context>
+
+<context>
+Bill went back to",What did Fred give to Bill? 
+341,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple to Fred? 
+342,Bill,"Answer: Fred
+</example>
+
+<context>
+Their faces were white",Who received the apple? 
+343,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Bill? 
+344,apple,"</question>
+
+apple (Document[44]):""Fred went to the",What did Fred give to Bill? 
+345,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+346,Mary,"Bill (Document[119]):""Bill went to the kitchen .",Who gave the milk to Jeff? 
+347,Jeff,"Bill (Document[46]):""Bill went to the kitchen . Fred",Who gave the milk? 
+348,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who received the milk? 
+349,Jeff,"Jeff (Document[349]):""Jeff went to the garden .",Who gave the milk to Fred? 
+350,Jeff,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the milk? 
+351,Mary,"</question>
+
+Bill (Document[353]):""Bill journey",Who gave the milk to Bill? 
+352,milk,"Answer: milk
+</example>
+
+<context>
+the work of fate",What did Bill give to Jeff? 
+353,Bill,"Answer: Jeff
+</example>
+
+<context>
+""I will manage with",Who received the milk? 
+354,milk,"milk (Answer: milk)
+</context>
+
+<context>
+J",What did Jeff give to Bill? 
+355,Bill,"Bill (Document[119]):""Bill passed the milk to Fred",Who gave the milk? 
+356,Bill,"Bill (Document[129]):""Bill passed the milk to Fred",Who gave the milk to Fred? 
+357,Bill,"Bill (Document[129]):""Bill passed the milk to Fred",Who gave the milk to Fred? 
+358,apple,"Answer: apple
+</example>
+
+<context>
+""I'm going",What did Jeff give to Fred? 
+359,Fred,"Fred
+</example>
+
+Answer: Fred
+</example>
+
+Your",Who did Jeff give the apple to? 
+360,Mary,"Bill (Document[129]):""Bill journeyed to the hall",Who received the apple? 
+361,Bill,"Bill (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+362,apple,"Answer: apple
+</context>
+
+<context>
+Bill journeyed to",What did Mary give to Bill? 
+363,Mary,"Answer: Mary
+</context>
+
+<context>
+Mary journeyed to",Who did Bill give the apple to? 
+364,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who received the apple? 
+365,Jeff,"Fred (Document[159]):""Fred picked up the apple there",Who received the apple? 
+366,Jeff,"Fred (Document[119]):""Fred gave the apple to Jeff",Who gave the apple? 
+367,Bill,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the football? 
+368,Bill,"Bill (Document[119]):""Bill went to the office .",Who received the football? 
+369,Bill,"Bill (Document[129]):""Bill went back to the garden",Who did Mary give the football to? 
+370,Fred,"Fred (Document[119]):""Mary got the football there .",Who did Mary give the football to? 
+371,Mary,"Bill (Document[129]):""Bill moved to the bedroom",Who gave the football to Fred? 
+372,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who gave the football to Mary? 
+373,Jeff,"Fred (Document[129]):""Bill moved to the bedroom",Who did Mary give the football to? 
+374,football,"Answer: football
+</context>
+
+<context>
+Bill went to the",What did Mary give to Jeff? 
+375,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the apple? 
+376,Fred,"Bill (Document[119]):""Bill journeyed to the hall",Who gave the apple? 
+377,Bill,"Bill (Document[119]):""Bill went to the office .",Who gave the apple? 
+378,apple,"apple (Document[119]):""Bill journeyed to the hallway",What did Fred give to Bill? 
+379,Fred,"Fred
+</question>
+
+Ans: Fred
+</ans>",Who did Bill give the apple to? 
+380,milk,"milk (Document[119]):""Mary picked up the milk there",What did Mary give to Bill? 
+381,Bill,"Bill (Document[175]):""Bill gave the milk to Mary",Who gave the milk? 
+382,milk,"milk (Document[129]):""Mary gave the milk to Fred",What did Mary give to Fred? 
+383,milk,"milk (Document[129]):""Fred gave the milk to Mary",What did Fred give to Mary? 
+384,milk,"apple (Document[3]):""Fred picked up the apple there . Fred handed",What did Fred give to Mary? 
+385,football,"Answer: football
+</context>
+
+<context>
+Bill journeyed to",What did Bill give to Mary? 
+386,Mary,"Mary (Document[082]):""Bill journeyed to the garden",Who did Bill give the football to? 
+387,football,"apple (Document[083]):""Fred picked up the apple there .",What did Fred give to Mary? 
+388,Fred,"</question>
+
+Answer: Fred
+</context>
+
+<context>
+[",Who did Mary give the football to? 
+389,Mary,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the football? 
+390,Fred,"Jeff
+</question>
+
+Ans: Jeff
+</context>",Who gave the apple? 
+391,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Jeff? 
+392,Fred,"Answer: Fred
+</example>
+
+<context>
+""I am glad to",Who received the apple? 
+393,Fred,"Fred (Document[129]):""Fred (Document[12",Who received the apple? 
+394,Jeff,"Jeff (Document[257-264]):""Jeff gave",Who gave the apple to Fred? 
+395,Mary,"Bill (Document[100]):""Bill went to the office .",Who gave the apple? 
+396,Bill,"Bill (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+397,Fred,"Mary (Document[119]):""Mary journeyed to the hall",Who gave the apple to Bill? 
+398,Fred,"Fred (Document[119]):""Bill went to the garden .",Who did Bill give the apple to? 
+399,Fred,"Answer: Fred
+</example>",Who received the apple? 
+400,Mary,"Mary (Document[239]):""Mary picked up the football there",Who gave the football to Fred? 
+401,Fred,"Fred (Document[306]):""Mary picked up the football there",Who did Mary give the football to? 
+402,Fred,"Fred (Document[2]):""Mary picked up the football there . Mary",Who did Mary give the football to? 
+403,Fred,"Bill (Document[129]):""Bill journeyed to the garden",Who gave the apple to Jeff? 
+404,apple,"Answer: apple
+</example>
+
+<context>
+Mary picked up the",What did Fred give to Jeff? 
+405,apple,"Answer: apple
+</example>
+
+<context>
+Bill journeyed to",What did Fred give to Bill? 
+406,Fred,"Bill (Document[129]):""Bill went to the bathroom",Who gave the apple? 
+407,Fred,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the apple? 
+408,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the apple to Jeff? 
+409,apple,"Answer: apple
+</context>
+
+<context>
+Bill journeyed to",What did Fred give to Jeff? 
+410,milk,"Answer: milk
+</example>
+
+<context>
+M.
+  M",What did Bill give to Jeff? 
+411,Jeff,"Dan (Document[119]):""Bill put down the milk . It",Who gave the milk to Bill? 
+412,milk,"milk (Document[119]):""Bill went to the hallway",What did Jeff give to Bill? 
+413,milk,"Answer: football
+</example>
+
+<context>
+Mary went to the",What did Jeff give to Bill? 
+414,Jeff,"Jeff
+</context>
+
+Answer: Jeff
+</context>
+
+<",Who gave the milk to Mary? 
+415,milk,"Answer: milk
+</example>
+
+<context>
+Jeff took the apple",What did Fred give to Jeff? 
+416,milk,"Answer: milk
+</context>
+
+<context>
+Jeff took the apple",What did Jeff give to Fred? 
+417,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff took the apple",Who received the milk? 
+418,Jeff,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the milk to? 
+419,Jeff,"Answer: Jeff
+</example>
+
+Please answer the question based on the given context",Who gave the milk to Fred? 
+420,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who gave the football? 
+421,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who received the football? 
+422,football,"Answer: football
+</example>
+
+<context>
+I was a person capable",What did Mary give to Fred? 
+423,football,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Fred? 
+424,Fred,"Fred
+</example>
+
+<context>
+""I'm afraid you",Who gave the football to Mary? 
+425,apple,"apple (Document[119]):""Fred picked up the apple there .",What did Fred give to Bill? 
+426,Fred,"Answer: Fred
+</example>
+
+<context>
+""But don't",Who received the apple? 
+427,apple,"apple (Document[119]):""Fred journeyed to the hallway",What did Fred give to Mary? 
+428,Fred,"Bill
+</question>
+
+<answer>Fred</answer>",Who received the apple? 
+429,Mary,"Bill (Document[119]):""Bill journeyed to the bed",Who gave the apple? 
+430,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who did Fred give the apple to? 
+431,apple,"Answer: apple
+</context>
+
+<context>
+Jeff went back to",What did Fred give to Jeff? 
+432,Fred,"Bill (Document[119]):""Bill took the milk there .",Who gave the apple to Jeff? 
+433,Jeff,"Fred (Document[129]):""Fred picked up the apple there",Who received the apple? 
+434,Mary,"Jeff (Document[129]):""Jeff went back to the hall",Who received the football? 
+435,apple,"Answer: apple
+</context>
+
+<context>
+Jeff went back to",What did Bill give to Mary? 
+436,Mary,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Bill give the apple to? 
+437,Fred,"Bill (Document[25]):""Bill went back to the bedroom",Who gave the apple? 
+438,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff went back to",Who received the apple? 
+439,Mary,"Mary (Document[159]):""Mary went back to the bed",Who gave the apple to Fred? 
+440,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+441,Mary,"Answer: Mary
+</context>
+
+<context>
+Bill went to the",Who did Bill give the apple to? 
+442,apple,"apple (Document[163]):""Bill went to the office . Mary",What did Bill give to Mary? 
+443,Mary,"Bill (Document[129]):""Bill went back to the garden",Who gave the apple? 
+444,Mary,"Bill (Document[119]):""Bill went to the garden .",Who gave the apple? 
+445,apple,"Answer: apple
+</context>
+
+<context>
+""I'm not",What did Mary give to Fred? 
+446,Fred,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+447,milk,"Answer: milk
+</context>
+
+<context>
+Mary picked up the",What did Mary give to Bill? 
+448,Bill,"Bill (Document[129]):""Mary passed the milk to Bill",Who received the milk? 
+449,milk,"Answer: milk
+</example>
+
+<context>
+The first thing that struck",What did Bill give to Mary? 
+450,Mary,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+Your",Who gave the apple to Bill? 
+451,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+452,Bill,"Bill (Document[119]):""Bill gave the apple to Fred",Who gave the apple to Fred? 
+453,Fred,"Fred (Document[25]):""Fred picked up the apple there .",Who gave the apple to Bill? 
+454,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the apple? 
+455,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who did Mary give the milk to? 
+456,Mary,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who gave the milk? 
+457,Fred,"Fred
+</question>
+
+Ans: Fred
+</ans>",Who did Mary give the milk to? 
+458,Mary,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who gave the milk? 
+459,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Jeff? 
+460,Mary,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+Answer",Who gave the milk? 
+461,milk,"Answer: milk
+</context>
+
+<context>
+Mary went to the",What did Mary give to Bill? 
+462,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who did Jeff give the football to? 
+463,football,"Answer: football
+</example>
+
+<context>
+Mary went to the",What did Jeff give to Bill? 
+464,football,"Answer: football
+</example>
+
+<context>
+Mary went to the",What did Jeff give to Bill? 
+465,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the apple to? 
+466,Bill,"Bill (Document[39]):""Bill gave the apple to Fred.""",Who gave the apple to Fred? 
+467,apple,"apple (Document[43]):""In Strassburg under Herder's",What did Bill give to Fred? 
+468,Bill,"Bill (Document[47]):""Bill gave the apple to Fred.""",Who gave the apple to Fred? 
+469,Jeff,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple to Fred? 
+470,Fred,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+<",Who gave the apple? 
+471,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Mary? 
+472,Mary,"Answer: Fred
+</example>
+
+<context>
+Mary journeyed to",Who received the apple? 
+473,Mary,"Fred (Document[159]):""Fred gave the apple to Mary",Who gave the apple? 
+474,apple,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Bill? 
+475,apple,"apple (Document[129]):""Mary picked up the apple there .",What did Mary give to Fred? 
+476,apple,"apple (Document[119]):""Mary went back to the kitchen .",What did Fred give to Bill? 
+477,Fred,"Fred (Document[119]):""Fred gave the apple to Bill",Who gave the apple to Bill? 
+478,Bill,"Tom (Document[159]):""Tom gave the apple to Fred""",Who gave the apple to Fred? 
+479,Fred,"Fred (Document[129]):""Fred journeyed to the garden",Who gave the apple to Bill? 
+480,Fred,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple? 
+481,Fred,"Bill (Document[109]):""Bill gave the apple to Fred",Who gave the apple? 
+482,apple,"apple (Document[159]):""Fred went back to the office .",What did Fred give to Bill? 
+483,Bill,"Bill (Document[159]):""Bill went to the bathroom",Who gave the apple? 
+484,Bill,"Fred (Document[119]):""Fred went back to the bath",Who gave the apple to Mary? 
+485,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the apple to? 
+486,apple,"</question>
+
+apple (Document[129]):""Fred picked up",What did Fred give to Bill? 
+487,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the apple? 
+488,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the apple to Mary? 
+489,Bill,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the apple? 
+490,Bill,"Bill (Document[119]):""Bill journeyed to the bed",Who gave the apple to Mary? 
+491,Mary,"Answer: Fred
+</example>",Who received the apple? 
+492,milk,"Answer: milk
+</example>
+
+<context>
+The
+first is the",What did Jeff give to Fred? 
+493,milk,"Answer: milk
+</example>
+
+<context>
+""I am not sure",What did Fred give to Jeff? 
+494,Fred,"Fred (Document[159]):""Fred went to the hallway",Who gave the milk to Jeff? 
+495,Jeff,"Jeff
+</example>
+
+<context>
+Jeff journeyed to the",Who did Fred give the football to? 
+496,football,"Answer: football
+</example>
+
+<context>
+Jeff journeyed to",What did Fred give to Jeff? 
+497,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to the",Who received the football? 
+498,football,"milk (Document[119]):""Jeff journeyed to the hall",What did Jeff give to Fred? 
+499,Mary,"Answer: Mary
+</example>
+
+<context>
+Jeff journeyed to",Who received the milk? 
+500,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who received the football? 
+501,Jeff,"Jeff (Document[129]):""Jeff took the football there .",Who gave the football? 
+502,football,"Answer: football
+</context>
+
+<context>
+""I'm going",What did Fred give to Jeff? 
+503,Fred,"Jeff (Document[119]):""Jeff took the football there .",Who gave the football? 
+504,football,"football (Document[119]):""Fred put down the football . Fred",What did Fred give to Mary? 
+505,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the football? 
+506,Bill,"Jeff (Document[119]):""Bill journeyed to the bed",Who gave the football to Fred? 
+507,Bill,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the football? 
+508,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the football? 
+509,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the football to? 
+510,Fred,"Answer: Fred
+</example>
+
+<context>
+Fred went back to",Who received the milk? 
+511,Jeff,"Jeff
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the milk? 
+512,milk,"Answer: milk
+</example>
+
+<context>
+The
+ first division of",What did Jeff give to Fred? 
+513,milk,"Answer: milk
+</example>
+
+<context>
+Fred went back to",What did Jeff give to Fred? 
+514,Fred,"Fred (Document[159]):""Fred picked up the apple there",Who gave the apple to Bill? 
+515,Bill,"Bill (Document[119]):""Bill went back to the kitchen",Who gave the apple to Mary? 
+516,Fred,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+517,Fred,"Bill (Document[129]):""Bill journeyed to the bed",Who gave the apple to Mary? 
+518,Mary,"Bill
+</question>
+
+Answer: Fred
+</example>
+
+<",Who received the apple? 
+519,apple,"Answer: apple
+</example>
+
+<context>
+The internes stood back",What did Fred give to Mary? 
+520,apple,"apple (Document[129]):""Mary picked up the apple there .",What did Mary give to Fred? 
+521,Mary,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+<",Who gave the apple? 
+522,Fred,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Mary give the milk to? 
+523,milk,"Answer: milk
+</context>
+
+<context>
+""We hed a",What did Mary give to Fred? 
+524,Mary,"Mary
+</question>
+
+<answer>Mary</answer>",Who gave the milk to Fred? 
+525,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Fred? 
+526,Mary,"Answer: Fred
+</example>
+
+<context>
+""I'm a",Who received the milk? 
+527,Mary,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who received the milk? 
+528,Mary,"Answer: Fred
+</context>
+
+<context>
+Mary journeyed to",Who received the milk? 
+529,Jeff,"Fred (Document[129]):""Fred went to the hallway",Who gave the football to Mary? 
+530,Bill,"Bill (Document[119]):""Bill went to the bathroom",Who gave the apple to Mary? 
+531,apple,"Answer: apple
+</example>
+
+<context>
+""The first time I",What did Bill give to Mary? 
+532,Mary,"Bill (Document[159]):""Bill gave the apple to Mary",Who received the apple? 
+533,apple,"apple (Document[159]):""Bill went to the bathroom .",What did Bill give to Mary? 
+534,Fred,"Bill (Document[119]):""Bill went to the bathroom",Who did Mary give the football to? 
+535,milk,"milk (Document[129]):""Fred went back to the office",What did Fred give to Bill? 
+536,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who did Fred give the milk to? 
+537,Bill,"Bill (Document[580]):""Bill went to the office .",Who did Fred give the milk to? 
+538,Mary,"Fred (Document[109]):""Bill went to the office .",Who did Bill give the milk to? 
+539,Mary,"Answer: Mary
+</example>
+
+<context>
+Bill went to the",Who did Bill give the milk to? 
+540,Jeff,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the apple? 
+541,Jeff,"Bill (Document[119]):""Bill picked up the apple there",Who received the apple? 
+542,apple,"Answer: apple
+</example>
+
+<context>
+Bill picked up the",What did Bill give to Jeff? 
+543,apple,"apple (Document[119]):""Bill journeyed to the bedroom",What did Bill give to Mary? 
+544,Mary,"Mary
+</question>
+
+<answer>Mary</answer>",Who did Bill give the apple to? 
+545,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+546,Jeff,"Answer: Mary
+</example>
+
+<context>
+Jeff moved to the",Who received the apple? 
+547,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+548,Bill,"Answer: Fred
+</example>
+
+<context>
+""I have seen her",Who received the apple? 
+549,Mary,"Answer: Mary
+</example>
+
+<context>
+Jeff moved to the",Who gave the apple to Bill? 
+550,Mary,"Answer: Mary
+</example>
+
+<context>
+Mary went back to",Who gave the milk to Jeff? 
+551,Jeff,"Jeff
+</context>
+
+Answer: Jeff
+</example>
+
+<",Who received the milk? 
+552,Mary,"Answer: Mary
+</example>
+
+<context>
+Mary went back to",Who did Fred give the football to? 
+553,Fred,"Fred (Document[129]):""Fred gave the football to Mary",Who gave the football? 
+554,Mary,"Mary
+</answer>
+
+<context>
+""That description fits one of",Who received the football? 
+555,Bill,"Fred (Document[129]):""Fred picked up the apple there",Who gave the apple? 
+556,Bill,"Fred (Document[129]):""Fred picked up the apple there",Who gave the apple? 
+557,apple,"Answer: apple
+</example>
+
+<context>
+""We were poor,",What did Bill give to Fred? 
+558,apple,"</question>
+
+apple
+</answer>
+
+<context>
+The day was",What did Fred give to Bill? 
+559,Fred,"Bill (Document[119]):""Bill journeyed to the bed",Who received the apple? 
+560,apple,"Answer: apple
+</example>
+
+<context>
+Mary journeyed to",What did Fred give to Mary? 
+561,Fred,"Answer: Fred
+</example>
+
+<context>
+“I’ll ask",Who received the apple? 
+562,apple,"Answer: apple
+</context>
+
+<context>
+Mary journeyed to",What did Mary give to Fred? 
+563,football,"Answer: football
+</context>
+
+<context>
+Mary journeyed to",What did Fred give to Mary? 
+564,Fred,"Fred (Document[159]):""Fred went back to the office",Who received the football? 
+565,apple,"apple (Document[153]):""Jeff picked up the apple there .",What did Jeff give to Mary? 
+566,Mary,"Jeff (Document[155]):""Jeff picked up the apple there",Who gave the apple? 
+567,apple,"apple (Document[158]):""Mary picked up the apple there .",What did Mary give to Jeff? 
+568,apple,"apple (Document[159]):""Jeff handed the apple to Mary.""",What did Jeff give to Mary? 
+569,Jeff,"Jeff (Document[15]):""Jeff gave the apple to Mary .",Who gave the apple to Mary? 
+570,milk,"Answer: milk
+</example>
+
+<context>
+Bill grabbed",What did Mary give to Jeff? 
+571,milk,"Answer: milk
+</context>
+
+<context>
+Transcriber's",What did Jeff give to Mary? 
+572,milk,"Answer: milk
+</example>
+
+<context>
+The arts of the pot",What did Jeff give to Mary? 
+573,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill grabbed",Who received the milk? 
+574,Fred,"Jeff
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the milk? 
+575,football,"Answer: football
+</example>
+
+<context>
+Mary journeyed to",What did Bill give to Mary? 
+576,Mary,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the football to Fred? 
+577,football,"Answer: football
+</example>
+
+<context>
+The drilling was",What did Mary give to Fred? 
+578,football,"Answer: football
+</example>
+
+<context>
+Bill journeyed to",What did Mary give to Fred? 
+579,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who did Mary give the football to? 
+580,Fred,"Jeff (Document[129]):""Jeff took the football there .",Who gave the milk to Bill? 
+581,Bill,"Bill (Document[119]):""Bill went back to the garden",Who did Fred give the milk to? 
+582,milk,"Answer: apple
+</example>
+
+<context>
+Mary journeyed to",What did Fred give to Bill? 
+583,Jeff,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the apple to Mary? 
+584,Jeff,"Jeff
+</answer>
+
+<context>
+[_To himself._] He",Who received the apple? 
+585,milk,"apple (Document[10]):""Mary picked up the apple there . Mary",What did Mary give to Bill? 
+586,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+587,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who did Mary give the milk to? 
+588,Jeff,"Jeff (Document[249]):""Fred picked up the apple there",Who gave the apple to Fred? 
+589,Fred,"Fred (Document[250]):""Fred picked up the apple there",Who gave the apple? 
+590,milk,"milk (Document[254]):""Bill journeyed to the garden",What did Bill give to Fred? 
+591,milk,"Answer: milk
+</context>
+
+<context>
+Referring to the",What did Bill give to Fred? 
+592,milk,"milk (Document[28]):""Bill handed the milk to Fred .",What did Bill give to Fred? 
+593,Fred,"Bill (Document[42]):""Bill took the football there . Bill",Who received the football? 
+594,football,"Answer: football
+</example>
+
+<context>
+The disaster was,",What did Bill give to Fred? 
+595,Jeff,"Jeff (Document[11]):""Jeff gave the milk to Bill""",Who gave the milk to Bill? 
+596,Jeff,"Bill (Document[129]):""Bill picked up the milk there",Who received the milk? 
+597,Bill,"Answer: Jeff
+</example>
+
+<context>
+""Even if she",Who received the milk? 
+598,Jeff,"Jeff
+</question>
+
+Answer: Jeff
+</answer>
+
+<",Who gave the milk? 
+599,milk,"milk (Answer: Bill)
+</context>
+
+<context>
+B",What did Jeff give to Bill? 
+600,Jeff,"Fred (Document[129]):""Fred picked up the football there",Who received the football? 
+601,Mary,"Mary
+</example>
+
+<context>
+Bill journeyed to the",Who did Jeff give the football to? 
+602,Jeff,"Fred (Document[129]):""Fred took the football there .",Who gave the football? 
+603,Jeff,"Bill (Document[129]):""Bill journeyed to the bath",Who gave the football? 
+604,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who did Bill give the milk to? 
+605,Fred,"Fred
+</question>
+
+<answer>Fred</answer>",Who did Mary give the football to? 
+606,Mary,"Bill (Document[129]):""Bill went back to the hall",Who gave the football to Fred? 
+607,Fred,"Fred (Document[129]):""Bill went to the office .",Who did Bill give the football to? 
+608,Fred,"Fred (Document[129]):""Fred picked up the football there",Who gave the football? 
+609,football,"Answer: football
+</example>
+
+<context>
+The
+restraints",What did Fred give to Bill? 
+610,football,"Answer: football
+</example>
+
+<context>
+Bill went back to",What did Jeff give to Fred? 
+611,Jeff,"Bill
+</context>
+
+Answer: Fred
+</example>
+
+Please",Who did Fred give the football to? 
+612,Fred,"Jeff
+</context>
+
+Answer: Jeff
+</example>
+
+Please",Who gave the football? 
+613,Mary,"Jeff
+</context>
+
+Answer: Jeff
+</example>",Who gave the football? 
+614,Mary,"Ben
+</question>
+
+<answer>Ben</answer>
+
+</context",Who gave the football? 
+615,football,"Answer: football
+</example>
+
+<context>
+""Not a word about",What did Jeff give to Fred? 
+616,Jeff,"Jeff (Document[129]):""Fred picked up the apple there",Who did Fred give the football to? 
+617,Fred,"Fred (Document[501]):""Fred journeyed to the bed",Who gave the football to Jeff? 
+618,apple,"apple (Document[511]):""Bill went to the office . Fred",What did Bill give to Jeff? 
+619,apple,"Answer: milk
+</context>
+
+<context>
+I was the first to",What did Jeff give to Bill? 
+620,Jeff,"Bill (Document[48]):""Bill journeyed to the bedroom",Who gave the apple? 
+621,Jeff,"Jeff (Document[50]):""Jeff put down the football . Fred",Who gave the apple to Fred? 
+622,Fred,"Fred (Document[14]):""Fred gave the apple to Bill""",Who gave the apple to Bill? 
+623,apple,"Answer: apple
+</example>
+
+Please answer the question based on the given context",What did Fred give to Bill? 
+624,Bill,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who did Fred give the apple to? 
+625,football,"Answer: football
+</example>
+
+<context>
+Bill journeyed to",What did Jeff give to Fred? 
+626,football,"football (Document[129]):""Jeff went back to the garden .",What did Jeff give to Fred? 
+627,Fred,"Fred (Document[119]):""Fred gave the football to Jeff",Who gave the football to Jeff? 
+628,Jeff,"Jeff
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the football? 
+629,Fred,"Fred (Document[104]):""Fred journeyed to the garden",Who gave the football to Jeff? 
+630,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who did Jeff give the football to? 
+631,football,"Answer: football
+</example>
+
+<context>
+""Why, Ginger",What did Fred give to Jeff? 
+632,Fred,"Bill (Document[129]):""Bill went back to the office",Who gave the football to Jeff? 
+633,football,"Answer: football
+</context>
+
+<context>
+Bill went back to",What did Fred give to Jeff? 
+634,apple,"football (Document[25]):""Jeff went back to the garden . Bill",What did Jeff give to Bill? 
+635,Jeff,"Jeff (Document[119]):""Jeff grabbed the milk",Who gave the milk? 
+636,Jeff,"Jeff (Document[119]):""Jeff gave the milk to Bill",Who gave the milk? 
+637,milk,"milk (Document[12]):""Jeff went back to the hallway",What did Jeff give to Bill? 
+638,football,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Fred? 
+639,Mary,"Mary
+</question>
+
+Answer: Mary
+</answer>
+
+<",Who received the football? 
+640,Jeff,"Bill (Document[52]):""Bill gave the milk to Jeff.""",Who received the milk? 
+641,Jeff,"Answer: Bill
+</context>
+
+<context>
+The next day, the",Who gave the milk? 
+642,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who did Jeff give the milk to? 
+643,Bill,"Bill (Document[119]):""Bill went back to the bath",Who did Fred give the milk to? 
+644,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Bill? 
+645,Mary,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+<",Who gave the apple to Bill? 
+646,apple,"apple
+</question>
+
+Answer: apple
+</context>
+
+Your answer",What did Bill give to Mary? 
+647,Bill,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+<",Who gave the apple to Mary? 
+648,Bill,"Answer: Jeff
+</context>
+
+<context>
+“MY DEAR J",Who did Mary give the apple to? 
+649,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the apple? 
+650,Bill,"Bill
+</context>
+
+<answer>Bill</answer>",Who gave the apple? 
+651,Bill,"Answer: Bill
+</example>
+
+<context>
+Fred journeyed to",Who received the milk? 
+652,Bill,"Answer: Bill
+</example>
+
+<context>
+[Illustration: OFF",Who did Jeff give the milk to? 
+653,Bill,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who did Jeff give the milk to? 
+654,milk,"Answer: milk
+</context>
+
+<context>
+Fred journeyed to",What did Jeff give to Bill? 
+655,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+656,Mary,"Fred (Document[129]):""Bill went to the hallway",Who gave the apple to Bill? 
+657,Fred,"Answer: Fred
+</context>
+
+<context>
+Bill went to the hall",Who gave the football to Mary? 
+658,Mary,"Bill (Document[129]):""Bill (Document[12",Who gave the football? 
+659,football,"Answer: football
+</example>
+
+<context>
+Bill went to the",What did Mary give to Fred? 
+660,Mary,"Mary
+</context>
+
+<context>
+The next day, the Brown",Who gave the apple to Jeff? 
+661,apple,"Answer: apple
+</context>
+
+<context>
+Mary picked up the",What did Jeff give to Mary? 
+662,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+663,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Jeff? 
+664,Fred,"Answer: Fred
+</context>
+
+<context>
+The principal monuments of Tir",Who received the football? 
+665,Mary,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who did Bill give the football to? 
+666,Mary,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Bill give the football to? 
+667,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the football to Mary? 
+668,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who gave the football to Fred? 
+669,Fred,"Jeff
+</question>
+
+Answer: Jeff
+</answer>
+
+<",Who gave the football? 
+670,apple,"Answer: apple
+</example>
+
+<context>
+""I'm a",What did Bill give to Fred? 
+671,apple,"Answer: apple
+</example>
+
+<context>
+Bill went to the",What did Fred give to Bill? 
+672,apple,"Answer: apple
+</example>
+
+<context>
+Bill journeyed to",What did Bill give to Fred? 
+673,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the apple? 
+674,Jeff,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who did Bill give the apple to? 
+675,Mary,"Jeff
+</context>
+
+Answer: Jeff
+</example>
+
+<",Who gave the apple? 
+676,Mary,"Fred (Document[119]):""Fred picked up the apple there",Who received the apple? 
+677,apple,"Answer: apple
+</example>
+
+Your turn!
+
+<prompt>",What did Mary give to Jeff? 
+678,Mary,"Jeff (Document[119]):""Jeff picked up the apple there",Who gave the apple? 
+679,Mary,"Jeff
+</context>
+
+Answer: Jeff
+</example>",Who gave the apple? 
+680,apple,"Answer: apple
+</context>
+
+<context>
+The man who had been",What did Bill give to Mary? 
+681,Mary,"Enriquez (Document[119]):""Bill handed the apple to",Who did Bill give the apple to? 
+682,Bill,"Bill
+</example>
+
+Your answer should contain only one word. Do not",Who gave the apple? 
+683,Bill,"Bill (Document[119]):""Bill picked up the apple there",Who gave the apple to Mary? 
+684,apple,"Answer: apple
+</example>
+
+<context>
+The process has been in",What did Fred give to Bill? 
+685,football,"football (Document[119]):""Mary went to the bathroom .",What did Mary give to Bill? 
+686,football,"apple (Document[129]):""Mary picked up the apple there .",What did Mary give to Bill? 
+687,Mary,"Bill (Document[12]):""Bill gave the football to Mary .",Who gave the football? 
+688,Jeff,"[A]--Who rich in knowledge knows no pride,
+Can boast ten tong",Who gave the milk? 
+689,milk,"Answer: milk
+</context>
+
+<context>
+Mary went to the",What did Fred give to Jeff? 
+690,Mary,"Fred (Document[129]):""Fred picked up the apple there",Who gave the apple to Bill? 
+691,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Mary? 
+692,Bill,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+693,apple,"Answer: apple
+</context>
+
+<context>
+Jeff took the football",What did Bill give to Mary? 
+694,Mary,"Answer: Fred
+</example>
+
+<context>
+Jeff took the football",Who received the apple? 
+695,milk,"apple (Document[119]):""Mary picked up the apple there .",What did Mary give to Fred? 
+696,milk,"milk (Document[159]):""Mary put down the milk there",What did Mary give to Fred? 
+697,milk,"Answer: milk
+</example>
+
+<context>
+The old Navy doctor called",What did Mary give to Fred? 
+698,Mary,"Answer: Mary
+</example>
+
+<context>
+Mary went back to",Who did Fred give the apple to? 
+699,Fred,"Answer: Fred
+</example>
+
+<context>
+The flower beds were",Who received the apple? 
+700,Bill,"Bill (Document[159]):""Bill (Answer:Bill",Who gave the apple to Fred? 
+701,apple,"apple (Document[119]):""Bill passed the apple to Fred.""",What did Bill give to Fred? 
+702,Fred,"Answer: Fred
+</example>
+
+<context>
+The first thing which I",Who did Bill give the apple to? 
+703,Fred,"Answer: Fred
+</example>
+
+Please answer the question based on the given context",Who received the apple? 
+704,Mary,"Bill (Document[159]):""Bill journeyed to the bed",Who gave the football to Fred? 
+705,Fred,"Jeff
+</example>
+
+<context>
+""It isn't so",Who gave the football? 
+706,football,"Answer: football
+</example>
+
+<context>
+Bill got the apple",What did Fred give to Mary? 
+707,Fred,"Fred (Document[129]):""Fred picked up the apple there",Who gave the football to Mary? 
+708,Jeff,"Answer: Fred
+</example>
+
+<context>
+The Assyrian har",Who received the apple? 
+709,Jeff,"Answer: Jeff
+</example>
+
+<context>
+Bill journeyed to",Who did Fred give the apple to? 
+710,Jeff,"Jeff (Document[147]):""Jeff went back to the garden",Who gave the apple to Bill? 
+711,apple,"Answer: apple
+</context>
+
+<context>
+-  The first aspect",What did Jeff give to Bill? 
+712,Jeff,"Jeff (Document[5]):""Jeff went back to the hallway .",Who gave the apple to Bill? 
+713,Bill,"Answer: Jeff
+</example>
+
+<context>
+Mary journeyed to",Who received the apple? 
+714,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple? 
+715,apple,"Answer: apple
+</context>
+
+<context>
+Mary picked up the",What did Mary give to Fred? 
+716,apple,"Answer: apple
+</example>
+
+<context>
+“Oh, mamma",What did Mary give to Fred? 
+717,Fred,"Answer: Fred
+</example>
+
+<context>
+Mary picked up the",Who gave the apple to Bill? 
+718,Fred,"Fred (Document[119]):""Bill went to the garden .",Who did Bill give the apple to? 
+719,Bill,"Bill (Document[119]):""Fred picked up the apple there",Who did Fred give the apple to? 
+720,apple,"apple
+</question>
+
+<answer>Bill gave the apple to Jeff</",What did Bill give to Jeff? 
+721,Jeff,"Bill (Document[119]):""Bill (Document[11",Who gave the apple? 
+722,milk,"Answer: football
+</example>
+
+<context>
+Jeff took the football",What did Jeff give to Bill? 
+723,milk,"Answer: apple
+</example>
+
+<context>
+Jeff took the football",What did Jeff give to Bill? 
+724,Bill,"Answer: Bill
+</example>
+
+<context>
+Jeff took the football",Who did Jeff give the milk to? 
+725,football,"football (Document[29th June, 1670. Mary handed the",What did Mary give to Fred? 
+726,football,"Answer: football
+</example>
+
+Your task is to write a Python script that",What did Fred give to Mary? 
+727,football,"Answer: football
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Mary? 
+728,Mary,"Bill (Document[159]):""Bill (Document[15",Who gave the football to Fred? 
+729,Bill,"Bill (Document[129]):""Bill went back to the garden",Who gave the milk to Jeff? 
+730,Fred,"Fred (Document[909]):""Bill journeyed to the hall",Who did Bill give the milk to? 
+731,Fred,"Bill (Document[31]):""Bill journeyed to the hallway",Who did Bill give the milk to? 
+732,Bill,"Bill (Document[119]):""Bill passed the milk to Fred",Who gave the milk to Fred? 
+733,Fred,"Fred (Document[129]):""Bill picked up the milk there",Who did Bill give the milk to? 
+734,apple,"Answer: apple
+</example>
+
+<context>
+Bill went back to",What did Mary give to Fred? 
+735,Fred,"Fred (Document[13]):""Bill journeyed to the bathroom",Who did Mary give the milk to? 
+736,Mary,"Bill (Document[129]):""Bill journeyed to the bath",Who did Fred give the milk to? 
+737,milk,"milk (Document[119]):""Fred gave the milk to Mary",What did Fred give to Mary? 
+738,Fred,"Fred (Document[119]):""Fred gave the football to Bill",Who gave the football to Bill? 
+739,football,"football (Document[119]):""Fred gave the football to Bill""",What did Fred give to Bill? 
+740,Mary,"Answer: Mary
+</example>
+
+<context>
+Jeff went back to",Who gave the milk to Fred? 
+741,Fred,"Answer: Fred
+</example>
+
+<context>
+""You won't",Who received the milk? 
+742,milk,"Answer: football
+</context>
+
+<context>
+""You don't",What did Mary give to Fred? 
+743,football,"Answer: football
+</example>
+
+<context>
+their own. The",What did Mary give to Fred? 
+744,football,"Answer: football
+</example>
+
+<context>
+Jeff went back to",What did Mary give to Fred? 
+745,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the milk to? 
+746,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the milk to? 
+747,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Mary? 
+748,Bill,"Fred
+</example>
+
+<context>
+Bill went to the hall",Who gave the milk to Mary? 
+749,milk,"apple (Document[113]):""Fred picked up the apple there .",What did Mary give to Fred? 
+750,Bill,"Bill (Document[119]):""Bill went back to the office",Who gave the apple to Jeff? 
+751,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who did Bill give the apple to? 
+752,apple,"Answer: apple
+</example>
+
+<context>
+Bill went to the",What did Jeff give to Bill? 
+753,Bill,"Bill (Document[119]):""Bill went back to the office",Who did Jeff give the football to? 
+754,football,"Answer: football
+</example>
+
+<context>
+Bill went back to",What did Bill give to Jeff? 
+755,Fred,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple to Jeff? 
+756,Jeff,"Jeff
+</context>
+
+Answer: Fred gave the apple to Jeff
+</",Who did Fred give the apple to? 
+757,Fred,"Fred (Document[119]):""Fred put down the apple .",Who gave the apple to Jeff? 
+758,Fred,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the milk? 
+759,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who gave the milk? 
+760,apple,"Answer: apple
+</example>
+
+<context>
+""I'm glad",What did Fred give to Jeff? 
+761,Jeff,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+762,Mary,"Fred (Document[119]):""Fred picked up the apple there",Who gave the apple? 
+763,Mary,"Jeff (Document[129]):""Jeff took the football there .",Who gave the apple? 
+764,Jeff,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+765,Fred,"Bill
+</context>
+
+Answer: Fred
+</example>
+
+<",Who received the football? 
+766,football,"Answer: football
+</example>
+
+Your turn!
+
+<prompt>",What did Fred give to Bill? 
+767,football,"Answer: football
+</example>
+
+<context>
+""I'm going",What did Fred give to Bill? 
+768,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the football? 
+769,Jeff,"Jeff (Document[119]):""Jeff took the football there .",Who gave the football to Bill? 
+770,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple? 
+771,Mary,"Fred (Document[129]):""Bill handed the apple to Mary",Who did Bill give the apple to? 
+772,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+773,apple,"apple (Document[119]):""Bill passed the apple to Mary""",What did Bill give to Mary? 
+774,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple to Mary? 
+775,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+776,milk,"Answer: milk
+</context>
+
+<context>
+Fred went to the",What did Mary give to Fred? 
+777,Fred,"Fred
+</question>
+
+<answer>Bill gave the apple to Fred",Who did Bill give the apple to? 
+778,apple,"apple (Document[119]):""Fred went to the office . Mary",What did Fred give to Bill? 
+779,Bill,"Answer: Fred
+</context>
+
+<context>
+Fred went to the office",Who received the apple? 
+780,Mary,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who received the football? 
+781,Mary,"Mary
+</question>
+
+<answer>Mary</answer>",Who did Bill give the football to? 
+782,apple,"apple (Document[35]):""Jeff picked up the apple there . Jeff",What did Jeff give to Mary? 
+783,Mary,"Answer: Mary
+</context>
+
+<context>
+The cat, by was",Who did Jeff give the apple to? 
+784,apple,"Answer: apple
+</context>
+
+<context>
+Jeff took the football",What did Mary give to Fred? 
+785,milk,"Answer: milk
+</context>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+786,milk,"Answer: apple
+</context>
+
+<context>
+the power to exercise his",What did Fred give to Mary? 
+787,milk,"Answer: milk
+</example>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+788,milk,"Answer: milk
+</context>
+
+<context>
+The first settlers of",What did Bill give to Mary? 
+789,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Mary? 
+790,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Mary? 
+791,Fred,"Answer: Fred
+</example>
+
+Your turn!
+
+<prompt>",Who gave the apple to Mary? 
+792,Mary,"Fred (Document[129]):""Fred picked up the apple there",Who gave the apple? 
+793,Mary,"Mary (Document[129]):""Mary picked up the apple there",Who did Jeff give the apple to? 
+794,Mary,"Answer: Mary
+</context>
+
+<context>
+Bill journeyed to",Who received the apple? 
+795,apple,"Answer: apple
+</context>
+
+<context>
+Bill went to the",What did Mary give to Bill? 
+796,Mary,"Bill
+</question>
+
+Answer: Fred
+</example>
+
+Your",Who received the apple? 
+797,apple,"apple
+</question>
+
+Answer: Fred
+</example>
+
+Your answer",What did Mary give to Bill? 
+798,Mary,"Mary (Document[129]):""Mary passed the apple to Bill",Who gave the apple to Bill? 
+799,apple,"apple (Document[119]):""Mary journeyed to the bedroom",What did Mary give to Bill? 
+800,Jeff,"Jeff
+</context>
+
+Answer: Jeff
+</example>
+
+<",Who gave the football to Fred? 
+801,football,"Answer: football
+</context>
+
+<context>
+Bill journeyed to",What did Jeff give to Fred? 
+802,Jeff,"Jeff (Document[129]):""Jeff took the football there .",Who gave the football to Fred? 
+803,football,"Answer: football
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Fred? 
+804,Mary,"Fred (Document[159]):""Fred picked up the football there",Who received the football? 
+805,Jeff,"Jeff
+</example>
+
+<context>
+The
+road, leaving on",Who gave the apple? 
+806,apple,"Answer: apple
+</context>
+
+<context>
+""I'm going",What did Jeff give to Mary? 
+807,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Jeff give to Mary? 
+808,Jeff,"Answer: Fred
+</example>
+
+<context>
+Mary journeyed to",Who received the milk? 
+809,milk,"milk (Document[13]):""Fred moved to the hallway .",What did Jeff give to Fred? 
+810,Mary,"Jeff (Document[16]):""Jeff picked up the football there .",Who gave the football? 
+811,Jeff,"Jeff (Document[22]):""Jeff picked up the football there .",Who gave the football? 
+812,Mary,"Jeff (Document[28]):""Jeff journeyed to the bedroom",Who gave the football? 
+813,Mary,"Mary (Document[109]):""Mary picked up the apple there",Who gave the football to Bill? 
+814,Bill,"Bill (Document[119]):""Bill went to the office .",Who did Mary give the football to? 
+815,milk,"Answer: milk
+</context>
+
+<context>
+Bill took the milk",What did Bill give to Jeff? 
+816,Jeff,"Bill (Document[119]):""Bill journeyed to the bed",Who received the milk? 
+817,Bill,"Bill (Document[119]):""Bill gave the milk to Jeff",Who gave the milk to Jeff? 
+818,Bill,"Answer: Fred
+</example>
+
+<context>
+The next day, the",Who received the milk? 
+819,milk,"milk (Document[129]):""Fred put down the milk .",What did Fred give to Bill? 
+820,football,"apple (Document[129]):""Fred picked up the apple there .",What did Fred give to Bill? 
+821,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill journeyed to",Who did Bill give the football to? 
+822,football,"Answer: football
+</example>
+
+<context>
+Bill journeyed to",What did Bill give to Fred? 
+823,apple,"Answer: apple
+</example>
+
+<context>
+Bill went to the",What did Bill give to Mary? 
+824,Mary,"Answer: Mary
+</example>
+
+<context>
+The Princess was
+ev",Who received the apple? 
+825,Bill,"Answer: Bill
+</example>
+
+<context>
+Jeff went to the",Who did Fred give the milk to? 
+826,Bill,"Answer: Bill
+</example>
+
+<context>
+Jeff went to the",Who did Fred give the milk to? 
+827,milk,"Answer: milk
+</example>
+
+<context>
+Jeff went to the",What did Fred give to Bill? 
+828,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+Please",Who gave the milk? 
+829,milk,"Answer: milk
+</example>
+
+<context>
+Jeff went to the",What did Bill give to Fred? 
+830,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+Please",Who gave the apple to Mary? 
+831,Mary,"Answer: Mary
+</example>
+
+Please answer the question based on the given context",Who did Bill give the apple to? 
+832,Mary,"Answer: Mary
+</example>
+
+Your answer should contain only one word. Do",Who did Bill give the apple to? 
+833,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+834,apple,"Answer: apple
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Mary? 
+835,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who did Bill give the football to? 
+836,Mary,"Jeff (Document[119]):""Jeff went back to the office",Who gave the football to Fred? 
+837,Fred,"Fred
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who did Mary give the football to? 
+838,Fred,"Mary
+</context>
+
+Answer: Mary
+</example>
+
+Your",Who gave the football to Bill? 
+839,Bill,"Bill (Document[129]):""Bill journeyed to the hall",Who did Fred give the football to? 
+840,Jeff,"Answer: Fred
+</example>
+
+<context>
+""I'm not",Who received the apple? 
+841,Jeff,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+842,Jeff,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the apple? 
+843,Mary,"Answer: Mary
+</context>",Who received the apple? 
+844,Mary,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple? 
+845,Fred,"Answer: Fred
+</example>
+
+<context>
+Mary journeyed to",Who received the football? 
+846,Mary,"Answer: Mary
+</example>
+
+Your answer should contain only one word. Do",Who gave the football? 
+847,football,"Answer: football
+</example>
+
+<context>
+Mary journeyed to",What did Mary give to Fred? 
+848,Bill,"Bill
+</question>
+
+Answer: Fred
+</example>
+
+<",Who did Jeff give the apple to? 
+849,apple,"apple (Document[129]):""Bill journeyed to the garden .",What did Jeff give to Bill? 
+850,apple,"Answer: apple
+</example>
+
+<context>
+_November_",What did Jeff give to Mary? 
+851,apple,"Answer: apple
+</example>
+
+<context>
+""I'm going",What did Jeff give to Mary? 
+852,Mary,"Jeff
+</example>
+
+Jeff went to the bedroom. Mary put",Who did Jeff give the apple to? 
+853,football,"apple (Document[129]):""Jeff went to the bedroom .",What did Jeff give to Mary? 
+854,Mary,"Answer: Mary
+</example>
+
+<context>
+The next day, the",Who did Jeff give the football to? 
+855,football,"Answer: football
+</example>
+
+<context>
+The first thing that struck",What did Mary give to Fred? 
+856,Mary,"Jeff (Document[48]):""Jeff went back to the garden .",Who gave the football? 
+857,Mary,"Answer: Jeff
+</example>
+
+<context>
+Jeff journeyed to",Who gave the football to Fred? 
+858,milk,"Answer: milk
+</example>
+
+<context>
+Jeff journeyed to",What did Fred give to Mary? 
+859,Fred,"Answer: Fred
+</example>
+
+<context>
+Jeff journeyed to",Who gave the milk? 
+860,milk,"milk (Document[129]):""Jeff passed the milk to Mary",What did Jeff give to Mary? 
+861,Mary,"Answer: Mary
+</example>
+
+<context>
+Bill moved to the",Who received the milk? 
+862,milk,"Answer: milk
+</example>
+
+<context>
+""I'm glad",What did Jeff give to Mary? 
+863,Jeff,"Fred (Document[129]):""Bill went to the bedroom",Who did Mary give the apple to? 
+864,Jeff,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who gave the apple? 
+865,Mary,"Mary (Document[57]):""Mary picked up the milk there .",Who gave the milk to Fred? 
+866,milk,"Answer: milk
+</context>
+
+<context>
+Bill went to the",What did Fred give to Mary? 
+867,milk,"Answer: milk
+</context>
+
+<context>
+Bill went to the",What did Mary give to Fred? 
+868,Mary,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the milk to? 
+869,Mary,"Answer: Fred
+</example>
+
+<context>
+The Greatest Nation on",Who gave the milk? 
+870,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk to Mary? 
+871,Bill,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who did Mary give the football to? 
+872,Mary,"Mary (Document[119]):""Bill went back to the garden",Who did Bill give the football to? 
+873,Mary,"Bill (Document[129]):""Bill went back to the garden",Who gave the football? 
+874,Mary,"Mary
+</question>
+
+<answer>Mary</answer>",Who gave the milk? 
+875,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the football? 
+876,Mary,"Answer: Mary
+</example>
+
+Your answer should contain only one word. Do",Who did Bill give the football to? 
+877,football,"Answer: football
+</example>
+
+Your answer should contain only one word. Do",What did Mary give to Bill? 
+878,football,"Answer: football
+</example>
+
+<context>
+Jeff went to the",What did Mary give to Bill? 
+879,Fred,"Bill
+</question>
+
+Answer: Bill
+</answer>
+
+<",Who did Mary give the football to? 
+880,Jeff,"Answer: Fred
+</example>
+
+<context>
+Mary went to the",Who gave the apple? 
+881,Jeff,"Mary
+</question>
+
+<answer>Mary</answer>",Who gave the apple? 
+882,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Fred? 
+883,Bill,"Bill (Document[129]):""Bill went back to the hall",Who gave the milk to Fred? 
+884,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Bill give to Fred? 
+885,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the apple? 
+886,Bill,"Bill (Document[159]):""Bill went back to the hall",Who did Jeff give the apple to? 
+887,Jeff,"Bill
+</question>
+
+<answer>Jeff</answer>",Who received the apple? 
+888,Jeff,"Jeff (Document[119]):""Bill went to the office .",Who did Bill give the apple to? 
+889,Jeff,"Jeff
+</question>
+
+Answer: Jeff
+</answer>
+
+<",Who did Bill give the apple to? 
+890,Bill,"Bill (Document[156]):""Bill journeyed to the office",Who gave the apple? 
+891,apple,"apple (Document[159]):""Mary picked up the apple there .",What did Mary give to Fred? 
+892,Fred,"Bill (Document[161]):""Bill journeyed to the bath",Who received the apple? 
+893,Mary,"Bill (Document[119]):""Bill journeyed to the office",Who gave the apple? 
+894,Fred,"Fred (Document[119]):""Bill journeyed to the bed",Who did Bill give the apple to? 
+895,Fred,"Mary
+</context>
+
+<context>
+Mary picked up the milk",Who gave the apple? 
+896,Fred,"Fred (Document[129]):""Mary picked up the milk there",Who did Mary give the apple to? 
+897,Fred,"Fred (Document[159]):""Fred picked up the apple there",Who received the apple? 
+898,Jeff,"Answer: Fred
+</example>
+
+<context>
+Jeff went back to",Who received the apple? 
+899,apple,"Answer: apple
+</example>
+
+[i130] Leonardo da",What did Fred give to Jeff? 
+900,Jeff,"Jeff (Document[198]):""Fred picked up the apple there",Who did Fred give the apple to? 
+901,apple,"Answer: apple
+</context>
+
+<context>
+Jeff went back to",What did Fred give to Jeff? 
+902,Fred,"Fred (Document[159]):""Fred picked up the apple there",Who received the apple? 
+903,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the milk to Fred? 
+904,milk,"apple (Document[129]):""Fred picked up the apple there .",What did Fred give to Bill? 
+905,Fred,"Fred (Document[129]):""Bill went back to the hall",Who did Bill give the milk to? 
+906,Bill,"Bill (Document[129]):""Bill got the milk there .",Who gave the milk to Fred? 
+907,Fred,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who gave the milk? 
+908,milk,"Answer: milk
+</example>
+
+<context>
+The Duke of Milan,",What did Fred give to Jeff? 
+909,Jeff,"Bill
+</question>
+
+Ans: Fred
+</ans>",Who did Fred give the milk to? 
+910,Mary,"Answer: Fred
+</example>
+
+<context>
+""'He 'ill",Who received the milk? 
+911,Jeff,"Fred (Document[119]):""Fred gave the milk to Jeff",Who gave the milk? 
+912,milk,"Answer: milk
+</context>
+
+<context>
+Jeff journeyed to",What did Jeff give to Mary? 
+913,football,"apple (Document[119]):""Fred picked up the apple there .",What did Fred give to Mary? 
+914,Mary,"Answer: Fred
+</example>
+
+<context>
+""I am not sure",Who received the football? 
+915,Mary,"Jeff (Document[129]):""Jeff went back to the kitchen",Who gave the football? 
+916,Mary,"Fred (Document[129]):""Fred took the football there .",Who gave the football? 
+917,Fred,"Fred (Document[119]):""Fred journeyed to the hall",Who gave the football to Jeff? 
+918,Mary,"Mary (Document[119]):""Mary picked up the apple there",Who gave the apple to Fred? 
+919,Fred,"Fred (Document[159]):""Mary picked up the apple there",Who did Mary give the apple to? 
+920,Fred,"Fred (Document[129]):""Mary picked up the apple there",Who did Mary give the apple to? 
+921,Mary,"Fred (Document[129]):""Fred picked up the apple there",Who gave the apple? 
+922,football,"Answer: football
+</example>
+
+<context>
+The slab also had",What did Jeff give to Mary? 
+923,Mary,"Bill (Document[119]):""Bill went back to the bed",Who gave the milk? 
+924,Bill,"Bill (Document[119]):""Fred went back to the garden",Who did Fred give the milk to? 
+925,Fred,"Fred
+</question>
+
+Ans: Fred
+</ans>",Who gave the apple? 
+926,milk,"apple (Document[119]):""Fred went back to the garden .",What did Fred give to Bill? 
+927,apple,"apple (Document[136]):""Bill went back to the bedroom",What did Bill give to Fred? 
+928,apple,"apple (Document[3]):""Mary picked up the apple there . Mary gave",What did Mary give to Fred? 
+929,Mary,"Answer: Mary
+</context>
+
+<context>
+Fred went back to",Who gave the apple? 
+930,apple,"Answer: apple
+</context>
+
+<context>
+Fred went back to",What did Mary give to Fred? 
+931,Jeff,"Jeff (Document[119]):""Fred went back to the hall",Who gave the apple to Fred? 
+932,Jeff,"Fred (Document[129]):""Fred journeyed to the bath",Who gave the apple? 
+933,Fred,"Answer: Fred
+</example>
+
+<context>
+Bill went to the",Who did Bill give the apple to? 
+934,Bill,"Bill (Document[159]):""Bill went to the garden .",Who gave the apple? 
+935,apple,"Answer: apple
+</example>
+
+Please answer the question based on the given context",What did Fred give to Bill? 
+936,Bill,"Bill (Document[129]):""Bill went to the garden .",Who did Fred give the apple to? 
+937,Bill,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the apple? 
+938,football,"football (Document[12]):""Jeff journeyed to the office . Fred",What did Jeff give to Bill? 
+939,football,"apple (Document[119]):""Bill gave the apple to Jeff""",What did Bill give to Jeff? 
+940,Bill,"Bill (Document[119]):""Bill gave the football to Jeff",Who gave the football to Jeff? 
+941,apple,"Answer: apple
+</context>
+
+<context>
+Bill journeyed to",What did Fred give to Mary? 
+942,Fred,"Fred (Document[119]):""Mary picked up the apple there",Who did Mary give the apple to? 
+943,Bill,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+Answer",Who gave the apple to Jeff? 
+944,Bill,"Bill (Document[129]):""Bill journeyed to the bed",Who did Jeff give the apple to? 
+945,Bill,"Answer: Jeff
+</example>
+
+<context>
+Bill journeyed to",Who received the apple? 
+946,Bill,"Bill (Document[16]):""Bill journeyed to the bedroom",Who gave the apple? 
+947,Jeff,"Jeff
+</question>
+
+Answer: Jeff
+</answer>",Who did Bill give the apple to? 
+948,Fred,"Fred (Document[25]):""Fred journeyed to the kitchen .",Who gave the milk to Jeff? 
+949,Jeff,"Fred (Document[119]):""Fred journeyed to the kitchen",Who received the milk? 
+950,Fred,"Fred (Document[119]):""Fred journeyed to the kitchen",Who did Jeff give the milk to? 
+951,Jeff,"Jeff (Document[119]):""Fred handed the milk to Jeff",Who did Fred give the milk to? 
+952,milk,"Answer: milk
+</context>
+
+<context>
+Bill went back to",What did Jeff give to Fred? 
+953,milk,"apple (Document[12]):""Fred picked up the apple there . Fred",What did Mary give to Bill? 
+954,Mary,"Mary (Document[76]):""Bill went to the hallway .",Who did Bill give the milk to? 
+955,Bill,"Bill (Document[77]):""Bill went to the hallway .",Who gave the milk to Mary? 
+956,Mary,"Bill (Document[129]):""Bill went to the hallway",Who gave the football? 
+957,Mary,"Answer: Mary
+</example>
+
+<context>
+The foal will eat",Who received the football? 
+958,apple,"apple (Document[129]):""Fred went to the garden . Fred",What did Fred give to Jeff? 
+959,Jeff,"Bill
+</question>
+
+<answer>Bill</answer>",Who did Fred give the apple to? 
+960,Fred,"Bill
+</context>
+
+Answer: Bill
+</context>
+
+Your",Who gave the apple to Jeff? 
+961,Fred,"Fred (Document[119]):""Fred journeyed to the garden",Who gave the apple? 
+962,Fred,"Fred
+</context>
+
+Ans: Fred
+</example>",Who gave the apple? 
+963,Fred,"Fred (Document[119]):""Mary journeyed to the bed",Who received the apple? 
+964,Mary,"Mary
+</question>
+
+Answer: Mary
+</answer>
+
+<",Who gave the apple to Fred? 
+965,Fred,"Fred (Document[159]):""Mary journeyed to the bed",Who did Mary give the apple to? 
+966,apple,"Answer: apple
+</example>
+
+Please answer the question based on the given context",What did Mary give to Fred? 
+967,Fred,"Bill (Document[6]):""Bill (Document[6]):""",Who gave the apple? 
+968,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+<",Who received the milk? 
+969,Bill,"Bill
+</context>
+
+Answer: Bill
+</example>
+
+Please",Who gave the milk? 
+970,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the milk to Mary? 
+971,Mary,"Bill
+</context>
+
+Answer: Bill
+</example>",Who gave the milk to Jeff? 
+972,Fred,"Bill
+</question>
+
+Ans: Fred
+</ans>",Who gave the football? 
+973,football,"Answer: football
+</example>
+
+<context>
+Anna closed her v",What did Jeff give to Bill? 
+974,football,"Answer: football
+</example>
+
+<context>
+The Parrotts",What did Jeff give to Bill? 
+975,Jeff,"Jeff
+</question>
+
+<answer>Jeff</answer>",Who did Mary give the milk to? 
+976,milk,"Answer: milk
+</example>
+
+<context>
+Bill journeyed to",What did Mary give to Jeff? 
+977,Mary,"Answer: Jeff
+</example>
+
+<context>
+Bill journeyed to",Who received the football? 
+978,milk,"Answer: milk
+</example>
+
+Your answer should contain only one word. Do",What did Fred give to Mary? 
+979,Fred,"Answer: Mary
+</example>
+
+<context>
+Bill went to the",Who gave the milk? 
+980,Fred,"Bill (Document[129]):""Bill went to the bedroom",Who gave the milk to Mary? 
+981,Fred,"Bill
+</question>
+
+Answer: Fred
+</answer>
+
+<",Who received the milk? 
+982,Fred,"Fred (Document[129]):""Fred gave the milk to Mary",Who gave the milk? 
+983,Jeff,"Bill (Document[129]):""Bill took the milk there .",Who received the milk? 
+984,Fred,"Fred (Document[129]):""Fred gave the milk to Jeff",Who gave the milk? 
+985,Fred,"Fred (Document[129]):""Fred went back to the hall",Who gave the milk to Jeff? 
+986,Fred,"Fred (Document[119]):""Fred gave the milk to Jeff",Who gave the milk? 
+987,Bill,"Fred (Document[603]):""Fred went back to the garden",Who received the milk? 
+988,apple,"apple (Document[613]):""Bill went back to the garden .",What did Bill give to Fred? 
+989,Fred,"Fred (Document[129]):""Bill went to the hallway",Who did Bill give the apple to? 
+990,Bill,"Bill
+</question>
+
+<answer>Bill</answer>",Who gave the apple? 
+991,football,"Answer: football
+</example>
+
+Your answer should contain only one word. Do",What did Jeff give to Mary? 
+992,Jeff,"Answer: Jeff
+</context>
+
+<context>
+Mary went to the hall",Who gave the football to Mary? 
+993,Bill,"Answer: Bill
+</example>
+
+<context>
+The Sultan of Morocco",Who received the football? 
+994,Fred,"Bill (Document[129]):""Bill journeyed to the garden",Who gave the football? 
+995,football,"Answer: football
+</example>
+
+<context>
+Bill went to the",What did Mary give to Bill? 
+996,football,"Answer: football
+</example>
+
+<context>
+Bill journeyed to",What did Mary give to Bill? 

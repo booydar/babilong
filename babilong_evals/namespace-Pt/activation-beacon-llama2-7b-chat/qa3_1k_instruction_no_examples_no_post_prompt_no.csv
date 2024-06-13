@@ -1,0 +1,933 @@
+,target,output,question
+0,office,"According to the context, the apple was in the kitchen before John went to the bathroom.",Where was the apple before the bathroom? 
+1,office,"According to the context, the apple was in the garden before John moved to the hallway.",Where was the apple before the hallway? 
+2,office,"According to the context, the apple was in the office before Mary moved it to the hallway",Where was the apple before the hallway? 
+3,bathroom,"According to the context, the football was in the hallway before Daniel moved it to the garden",Where was the football before the garden? 
+4,bathroom,"According to the context, the football was in the bedroom before Sandra journeyed to the",Where was the football before the garden? 
+5,garden,"According to the text, the apple was in the garden before Mary journeyed to the bathroom",Where was the apple before the bathroom? 
+6,kitchen,"According to the context, the milk was picked up by Daniel before moving to the office. So",Where was the milk before the office? 
+7,kitchen,"According to the context, the apple was in the bathroom before Mary moved to the office.",Where was the apple before the office? 
+8,kitchen,"According to the context, the apple was in the office before Mary picked it up. So,",Where was the apple before the office? 
+9,garden,"According to the context, the apple was in the kitchen before Daniel went to the bedroom.",Where was the apple before the bedroom? 
+10,garden,"According to the context, the apple was in the kitchen before Daniel went to the bedroom.",Where was the apple before the bedroom? 
+11,garden,"According to the context, the milk was in the kitchen before Sandra moved to the bathroom",Where was the milk before the bathroom? 
+12,garden,"According to the context, the milk was in the kitchen before Sandra moved it to the bath",Where was the milk before the bathroom? 
+13,garden,"According to the context, the milk was in the kitchen before Sandra moved to the bathroom",Where was the milk before the bathroom? 
+14,kitchen,"According to the passage, the football was in the office before Sandra moved it to the garden",Where was the football before the garden? 
+15,kitchen,"According to the text, the football was in the bathroom before the Brownies went to the",Where was the football before the garden? 
+16,garden,"According to the context, the milk was in the kitchen before Mary journeyed to the bedroom",Where was the milk before the bedroom? 
+17,garden,"According to the context, the milk was in the kitchen before Sandra took it and put it",Where was the milk before the bedroom? 
+18,bedroom,"According to the context, the football was left in the hallway before Sandra went back to",Where was the football before the bathroom? 
+19,garden,"According to the context, the football was taken by Sandra in the garden. Therefore, before",Where was the football before the hallway? 
+20,garden,"According to the context, the football was:
+
+* In John's hands (before",Where was the football before the office? 
+21,hallway,"According to the context, the football was taken by John before he moved to the garden. So",Where was the football before the garden? 
+22,office,"According to the context, the milk was in the kitchen before Sandra picked it up. Therefore",Where was the milk before the kitchen? 
+23,kitchen,"According to the context, the milk was in the kitchen before Sandra went to the bedroom",Where was the milk before the bedroom? 
+24,bathroom,"According to the context, the football was with John before he moved to the office. Therefore,",Where was the football before the bedroom? 
+25,office,"According to the context, the football was in the hallway before the bedroom.",Where was the football before the bedroom? 
+26,garden,"According to the context, the football was in the bedroom before the office. So, the",Where was the football before the office? 
+27,garden,"According to the context, the football was in the bathroom before the office.",Where was the football before the office? 
+28,garden,"According to the context, the apple was in the hallway before John moved to the office.",Where was the apple before the office? 
+29,bathroom,"According to the text, the apple was left in the garden before Mary went back to the hall",Where was the apple before the hallway? 
+30,office,"According to the context, the apple was picked up by Mary in the garden. Therefore, before",Where was the apple before the kitchen? 
+31,office,"According to the context, the apple was left in the office before Sandra moved it to the",Where was the apple before the kitchen? 
+32,hallway,"According to the context, the milk was in the hallway before John put it down.",Where was the milk before the bedroom? 
+33,bedroom,"According to the context, the milk was in the hallway before Daniel went to the garden.",Where was the milk before the garden? 
+34,hallway,"According to the context, the apple was in the garden before Sandra moved to the bathroom",Where was the apple before the bathroom? 
+35,hallway,"According to the context, the football was in the hallway before Sandra moved it to the",Where was the football before the kitchen? 
+36,garden,"According to the context, the football was in the hallway before Daniel moved it to the bath",Where was the football before the hallway? 
+37,garden,"According to the context, the football was:
+
+* In Daniel's possession before he",Where was the football before the hallway? 
+38,garden,"According to the context, the milk was in the bathroom before the characters reached the hallway",Where was the milk before the hallway? 
+39,hallway,"According to the context, the milk was in the kitchen before Sandra moved it to the bath",Where was the milk before the bathroom? 
+40,bedroom,"According to the context, the apple was in the hallway before Mary moved it to the garden",Where was the apple before the bathroom? 
+41,bedroom,"According to the passage, the apple was in the bedroom before John went to the bathroom",Where was the apple before the bathroom? 
+42,bedroom,"According to the context, the apple was in the hallway before it was moved to the bath",Where was the apple before the bathroom? 
+43,bedroom,"According to the context, the apple was in the bedroom before Mary moved it to the bath",Where was the apple before the bathroom? 
+44,bedroom,"According to the context, the milk was in the kitchen before John took it to the hallway",Where was the milk before the hallway? 
+45,kitchen,"According to the context, the apple was in the kitchen before Sandra moved to the garden.",Where was the apple before the garden? 
+46,garden,"According to the context, the apple was in the kitchen before Sandra moved to the bedroom",Where was the apple before the bedroom? 
+47,garden,"According to the context, the football was in the bedroom before John went to the kitchen.",Where was the football before the kitchen? 
+48,bathroom,"According to the context, the apple was in the garden before Sandra moved to the bedroom",Where was the apple before the bedroom? 
+49,bathroom,"According to the context, the apple was in the office before Sandra moved it to the bed",Where was the apple before the bedroom? 
+50,office,"Based on the passage, the football was in Mary's possession before she went to the hall",Where was the football before the hallway? 
+51,kitchen,"According to the context, the apple was in the garden before Mary moved to the office.",Where was the apple before the office? 
+52,office,"According to the context, the football was with Mary before she moved it to the garden. So",Where was the football before the garden? 
+53,office,"According to the passage, the football was in the office before Mary moved it to the bedroom",Where was the football before the bedroom? 
+54,garden,"According to the context, the apple was in the office before Mary moved it to the hallway",Where was the apple before the hallway? 
+55,hallway,"According to the text, the football was picked up by Daniel and then left in the office.",Where was the football before the bedroom? 
+56,bathroom,"According to the context, the football was in the office before John journeyed to the hallway",Where was the football before the hallway? 
+57,bedroom,"According to the context, the football was in the office before John journeyed to the kitchen.",Where was the football before the kitchen? 
+58,garden,"According to the context, the football was moved to the bathroom before Mary dropped it. So",Where was the football before the bathroom? 
+59,garden,"According to the context, the football was in the kitchen before Mary went to the bathroom.",Where was the football before the bathroom? 
+60,bathroom,"According to the context, the milk was in the bedroom before Sandra moved to the bath",Where was the milk before the office? 
+61,bathroom,"According to the context, the milk was in the office before Sandra left it.",Where was the milk before the office? 
+62,bathroom,"According to the context, the milk was in the bedroom before Sandra moved it to the",Where was the milk before the office? 
+63,garden,"According to the context, the football was in the bedroom before Sandra grabbed it",Where was the football before the bedroom? 
+64,kitchen,"According to the context, the football was picked up by John in the office. Then, Sand",Where was the football before the bathroom? 
+65,office,"According to the context, the football was dropped in the hallway by Daniel. So, the",Where was the football before the hallway? 
+66,hallway,"According to the context, the apple was dropped by John in the hallway. Before John journey",Where was the apple before the garden? 
+67,bathroom,"According to the context, the milk was in the bedroom before it was left in the kitchen",Where was the milk before the kitchen? 
+68,kitchen,"According to the context, the apple was in the garden before Sandra went to the bathroom",Where was the apple before the bathroom? 
+69,garden,"According to the context, the milk was taken to the office by John. Before going to the",Where was the milk before the hallway? 
+70,hallway,"According to the context, the milk was dropped in the office before Sandra journeyed to the",Where was the milk before the office? 
+71,garden,"According to the context, the milk was dropped by John in the hallway.",Where was the milk before the hallway? 
+72,office,"According to the context, the apple was picked up by Daniel in the office. Therefore, before",Where was the apple before the bathroom? 
+73,office,"According to the context, the apple was picked up by Daniel in the garden. Then, Daniel",Where was the apple before the bathroom? 
+74,kitchen,"According to the context, the milk was dropped by Mary in the garden before she moved to the",Where was the milk before the office? 
+75,kitchen,"According to the text, the milk was dropped in the office.",Where was the milk before the office? 
+76,kitchen,"According to the context, the milk was dropped by Mary before she moved to the office. Therefore",Where was the milk before the office? 
+77,bathroom,"Based on the information provided in the context, the apple was in the garden before John went to",Where was the apple before the hallway? 
+78,bathroom,"According to the text, the milk was in the bedroom before John went there. The sentence",Where was the milk before the bedroom? 
+79,garden,"According to the text, the apple was in the garden before the bathroom. The sentence is",Where was the apple before the bathroom? 
+80,bathroom,"According to the context, the milk was left in the bedroom before Sandra moved to the",Where was the milk before the kitchen? 
+81,bathroom,"According to the context, the milk was in the kitchen before Sandra took it.",Where was the milk before the kitchen? 
+82,garden,"According to the context, the milk was in the kitchen before Sandra journeyed to the bath",Where was the milk before the bathroom? 
+83,bathroom,"According to the context, the football was in the kitchen before the bedroom.",Where was the football before the bedroom? 
+84,hallway,"According to the text, the milk was in the kitchen before Sandra picked it up and took",Where was the milk before the kitchen? 
+85,hallway,"According to the text, the milk was in the kitchen before Sandra left it. So,",Where was the milk before the kitchen? 
+86,garden,"According to the context, the milk was in the kitchen before it was moved to the bedroom",Where was the milk before the bedroom? 
+87,bedroom,"According to the text, the football was in the office before John left it and went to the",Where was the football before the kitchen? 
+88,kitchen,"According to the context, the apple was in the bathroom before Daniel journeyed to the hall",Where was the apple before the hallway? 
+89,kitchen,"According to the text, the apple was in the kitchen before the hallway.",Where was the apple before the hallway? 
+90,hallway,"According to the context, the apple was in the kitchen before Daniel discarded it. So,",Where was the apple before the kitchen? 
+91,bedroom,"According to the context, the milk was left in the bedroom before John went to the bath",Where was the milk before the bathroom? 
+92,bathroom,"According to the context, the milk was in the bedroom before John moved it to the hall",Where was the milk before the bedroom? 
+93,hallway,"According to the context, the football was taken by Daniel to the hallway before he journeyed",Where was the football before the bathroom? 
+94,garden,"According to the text, the football was taken by Daniel from the football before he moved to the",Where was the football before the hallway? 
+95,garden,"According to the context, the football was taken by Daniel to the hallway.",Where was the football before the hallway? 
+96,hallway,"According to the context, the apple was in the hallway before Sandra picked it up.",Where was the apple before the bathroom? 
+97,hallway,"According to the context, the apple was in the bedroom before Sandra picked it up and",Where was the apple before the bathroom? 
+98,garden,"According to the text, the apple was in the kitchen before John took it. So, the",Where was the apple before the hallway? 
+99,garden,"According to the context, the apple was in the kitchen before John took it. So, the",Where was the apple before the hallway? 
+100,hallway,"According to the context, the football was in the bathroom before Daniel went to the kitchen.",Where was the football before the kitchen? 
+101,hallway,"According to the context, the football was in the bathroom before Daniel went to the kitchen.",Where was the football before the kitchen? 
+102,kitchen,"According to the context, the apple was originally in the kitchen. John took the apple from the",Where was the apple before the garden? 
+103,hallway,"According to the context, the milk was in the kitchen before John put it down in the bath",Where was the milk before the bathroom? 
+104,hallway,"According to the context, the milk was in the kitchen before Daniel moved to the bathroom.",Where was the milk before the bathroom? 
+105,hallway,"According to the context, the milk was in the kitchen before Mary moved it to the bathroom",Where was the milk before the bathroom? 
+106,garden,"According to the text, the apple was left in the bedroom before Mary went to the kitchen",Where was the apple before the kitchen? 
+107,garden,"According to the context, the milk was in the garden before John moved to the hallway.",Where was the milk before the hallway? 
+108,garden,"According to the text, the milk was in the garden before John moved to the hallway.",Where was the milk before the hallway? 
+109,garden,"According to the context, the milk was in the kitchen before John picked it up and took it",Where was the milk before the hallway? 
+110,kitchen,"According to the context, the milk was in the kitchen before Mary went to the garden. So",Where was the milk before the garden? 
+111,kitchen,"According to the context, the milk was in the office before Mary went to the garden.",Where was the milk before the garden? 
+112,kitchen,"According to the context, the milk was in the kitchen before Mary went to the garden.",Where was the milk before the garden? 
+113,office,"According to the context, the apple was in the hallway before it was moved to the kitchen",Where was the apple before the kitchen? 
+114,office,"According to the context, the apple was in the bathroom before it was picked up by Daniel",Where was the apple before the kitchen? 
+115,garden,"According to the text, the milk was in the kitchen before Daniel picked it up. The sentence",Where was the milk before the kitchen? 
+116,bathroom,"According to the context, the milk was in the kitchen before John went to the office. So",Where was the milk before the office? 
+117,bathroom,"According to the context, the milk was in the office before Daniel dropped it.",Where was the milk before the office? 
+118,bathroom,"According to the context, the milk was in the kitchen before John went to the office.",Where was the milk before the office? 
+119,bathroom,"According to the context, the apple was in the garden before Sandra journeyed to the hall",Where was the apple before the hallway? 
+120,garden,"According to the text, the football was in the bathroom before Mary went to the kitchen.",Where was the football before the kitchen? 
+121,garden,"According to the context, the football was dropped by Sandra in the bathroom before Mary picked",Where was the football before the kitchen? 
+122,garden,"According to the context, the football was in the garden before Mary went to the kitchen.",Where was the football before the kitchen? 
+123,bedroom,"According to the context, the football was in the bedroom before Sandra went to the garden",Where was the football before the garden? 
+124,bedroom,"According to the context, the football was in the bedroom before Sandra went to the garden",Where was the football before the garden? 
+125,kitchen,"According to the context, the milk was obtained by John before he journeyed to the bedroom",Where was the milk before the bedroom? 
+126,kitchen,"According to the context, the milk was dropped in the bedroom. The sentence is: """,Where was the milk before the bedroom? 
+127,kitchen,"According to the passage, the milk was in the kitchen before Mary moved it to the bedroom",Where was the milk before the bedroom? 
+128,bathroom,"According to the context, the football was dropped in the garden before Sandra journeyed to the",Where was the football before the hallway? 
+129,bathroom,"According to the context, the football was dropped in the garden before Sandra journeyed to the",Where was the football before the hallway? 
+130,office,"According to the context, the football was in the office before Sandra moved to the garden.",Where was the football before the garden? 
+131,garden,"According to the context, the football was in the kitchen before Daniel went to the hallway.",Where was the football before the hallway? 
+132,garden,"According to the context, the football was in the kitchen before Daniel picked it up and left it",Where was the football before the hallway? 
+133,garden,"According to the context, the football was in the following locations before the hallway:",Where was the football before the hallway? 
+134,hallway,"According to the context, the milk was in the kitchen before Mary moved it.",Where was the milk before the kitchen? 
+135,bathroom,"According to the context, the apple was:
+
+* In Mary's hand (before",Where was the apple before the office? 
+136,bathroom,"According to the text, the apple was in the office before Sandra moved it to the bath",Where was the apple before the office? 
+137,bedroom,"According to the context, the apple was in the garden before John went back to the bathroom",Where was the apple before the bathroom? 
+138,bedroom,"According to the context, the apple was in the garden before Mary moved to the bathroom.",Where was the apple before the bathroom? 
+139,garden,"According to the story, the apple was in the garden before Mary moved to the hallway.",Where was the apple before the hallway? 
+140,office,"According to the context, the football was in the front room before Sandra went to the kitchen",Where was the football before the kitchen? 
+141,office,"According to the context, the apple was in the garden before John moved it to the bedroom",Where was the apple before the bedroom? 
+142,office,"According to the context, the football was in the office before Mary went back to the office.",Where was the football before the kitchen? 
+143,garden,"According to the context, the milk was picked up by John and was in his room before he",Where was the milk before the office? 
+144,bathroom,"According to the context, the milk was in the garden before John moved it to the bedroom",Where was the milk before the bedroom? 
+145,kitchen,"According to the context, the milk was in the kitchen before Sandra took it. So,",Where was the milk before the office? 
+146,kitchen,"According to the passage, the milk was in the kitchen before Sandra went to the office.",Where was the milk before the office? 
+147,kitchen,"According to the text, the milk was discarded by Sandra before she went to the office",Where was the milk before the office? 
+148,kitchen,"According to the context, the milk was in the kitchen before Mary picked it up in the garden",Where was the milk before the garden? 
+149,bedroom,"According to the context, the milk was in the office before Mary picked it up and took it",Where was the milk before the kitchen? 
+150,bathroom,"According to the text, the football was picked up ""there"" (i.e., in",Where was the football before the kitchen? 
+151,bathroom,"According to the text, the football was in the following locations before the kitchen:
+
+1",Where was the football before the kitchen? 
+152,bathroom,"According to the context, the football was in the garden before John moved it to the office.",Where was the football before the office? 
+153,bathroom,"According to the context, the football was in the garden before the office.",Where was the football before the office? 
+154,bathroom,"According to the context, the milk was in the kitchen before Sandra moved it to the office",Where was the milk before the office? 
+155,office,"According to the context, the football was in the living room before Sandra moved it to the",Where was the football before the bedroom? 
+156,bedroom,"According to the context, the football was picked up by Sandra in the office.",Where was the football before the garden? 
+157,kitchen,"According to the context, the football was picked up by Sandra in the office.",Where was the football before the garden? 
+158,kitchen,"According to the context, the football was picked up by Sandra in the football field.",Where was the football before the garden? 
+159,hallway,"According to the context, the football was picked up by Sandra in the following locations:",Where was the football before the bedroom? 
+160,garden,"According to the context, the milk was in the following locations before the bedroom:",Where was the milk before the bedroom? 
+161,bathroom,"According to the context, the football was:
+
+* In the bedroom (mentioned",Where was the football before the hallway? 
+162,bedroom,"According to the context, the milk was in the bedroom before Mary moved it to the bath",Where was the milk before the bathroom? 
+163,kitchen,"According to the context, the apple was in the garden before the office.",Where was the apple before the office? 
+164,kitchen,"According to the context, the football was in the kitchen before Sandra moved it to the bath",Where was the football before the bathroom? 
+165,hallway,"According to the context, the milk was in the garden before Daniel moved to the kitchen.",Where was the milk before the kitchen? 
+166,bedroom,"According to the context, the football was in the bedroom before Mary moved it to the bath",Where was the football before the bathroom? 
+167,hallway,"According to the context, the milk was in the garden before Daniel moved it to the kitchen.",Where was the milk before the kitchen? 
+168,hallway,"According to the context, the milk was in the kitchen before Daniel grabbed it.",Where was the milk before the kitchen? 
+169,hallway,"According to the context, the apple was in the bathroom before Sandra travelled to the",Where was the apple before the office? 
+170,bathroom,"According to the context, the apple was in the bathroom before the office.",Where was the apple before the office? 
+171,bedroom,"According to the context, the apple was in the kitchen before Sandra moved it to the bath",Where was the apple before the bathroom? 
+172,bathroom,"According to the context, the apple was left by Daniel in the kitchen. So, before the",Where was the apple before the office? 
+173,garden,"According to the context, the milk was picked up by Sandra in the hallway. So",Where was the milk before the bedroom? 
+174,bedroom,"According to the context, the milk was in the hallway before Sandra moved it to the",Where was the milk before the garden? 
+175,bedroom,"According to the context, the milk was dropped by Sandra in the hallway before she journey",Where was the milk before the garden? 
+176,bedroom,"According to the context, the milk was dropped by Sandra in the hallway. Before going",Where was the milk before the garden? 
+177,bedroom,"According to the text, the apple was in the bathroom before Sandra took it to the",Where was the apple before the garden? 
+178,kitchen,"According to the context, the apple was in the garden before Mary moved it to the hallway",Where was the apple before the hallway? 
+179,kitchen,"According to the context, the apple was in the bedroom before Sandra moved it to the",Where was the apple before the hallway? 
+180,kitchen,"According to the text, the milk was left in the kitchen before John traveled to the",Where was the milk before the office? 
+181,garden,"According to the context, the milk was left in the kitchen before John moved it there.",Where was the milk before the kitchen? 
+182,bathroom,"According to the context, the football was in the bedroom before the hallway. The sentence",Where was the football before the hallway? 
+183,hallway,"According to the context, the football was in the garden before John journeyed to the kitchen.",Where was the football before the kitchen? 
+184,hallway,"According to the context, the football was in the kitchen before John discarded it.",Where was the football before the kitchen? 
+185,kitchen,"According to the context, the milk was left in the hallway before Mary moved to the garden",Where was the milk before the garden? 
+186,office,"According to the context, the football was in the bathroom before the hallway.",Where was the football before the hallway? 
+187,hallway,"According to the context, the apple was in the garden before Mary moved to the bedroom.",Where was the apple before the bedroom? 
+188,hallway,"According to the context, the apple was in the garden before Mary moved it to the bedroom",Where was the apple before the bedroom? 
+189,hallway,"According to the context, the apple was in the bathroom before Mary moved it to the bed",Where was the apple before the bedroom? 
+190,bedroom,"According to the context, the milk was in the kitchen before Daniel journeyed to the garden.",Where was the milk before the garden? 
+191,bedroom,"According to the context, the milk was in the bedroom before Daniel journeyed to the garden",Where was the milk before the garden? 
+192,bedroom,"According to the text, the milk was in the bedroom before Daniel journeyed to the garden",Where was the milk before the garden? 
+193,bedroom,"According to the context, the milk was in the kitchen before John moved to the office.",Where was the milk before the office? 
+194,bedroom,"According to the context, the milk was in the kitchen before Daniel went to the office.",Where was the milk before the office? 
+195,bedroom,"According to the context, the milk was in the kitchen before John moved it to the hallway",Where was the milk before the hallway? 
+196,bedroom,"According to the context, the milk was in the bedroom before John moved it to the hall",Where was the milk before the hallway? 
+197,bedroom,"According to the text, the milk was in the kitchen before John moved it to the hallway",Where was the milk before the hallway? 
+198,hallway,"According to the context, the apple was in the bedroom before John left it. So,",Where was the apple before the bedroom? 
+199,hallway,"According to the context, the football was in the hallway before Mary moved it to the bed",Where was the football before the bedroom? 
+200,kitchen,"According to the context, the apple was in the hallway before it was moved to the garden",Where was the apple before the garden? 
+201,kitchen,"According to the context, the apple was dropped by Sandra in the bathroom. Before Daniel",Where was the apple before the garden? 
+202,bedroom,"According to the context, the milk was in the bedroom before Mary went to the office.",Where was the milk before the office? 
+203,bedroom,"According to the context, the milk was in the bedroom before Mary went to the office.",Where was the milk before the office? 
+204,bedroom,"According to the context, the milk was in the bedroom before Mary went to the office.",Where was the milk before the office? 
+205,bedroom,"According to the context, the milk was in the bedroom before Mary moved it to the kitchen",Where was the milk before the office? 
+206,kitchen,"According to the context, the football was in the garden before Daniel went to the bedroom.",Where was the football before the bedroom? 
+207,bathroom,"According to the context, the football was in the garden before Sandra went to the bedroom",Where was the football before the bedroom? 
+208,bathroom,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+209,bathroom,"According to the context, the football was in the garden before Sandra went there. So,",Where was the football before the garden? 
+210,bedroom,"According to the context, the milk was in the bathroom before John travelled to the office",Where was the milk before the office? 
+211,bedroom,"According to the context, the milk was in the bedroom before John dropped it in the office",Where was the milk before the office? 
+212,bedroom,"According to the text, the milk was in the bedroom before John travelled to the office",Where was the milk before the office? 
+213,kitchen,"According to the context, the milk was in the bedroom before John travelled to the garden",Where was the milk before the garden? 
+214,kitchen,"According to the context, the milk was in the bedroom before John travelled to the garden",Where was the milk before the garden? 
+215,hallway,"According to the text, the football was in the hallway before Mary went to the bathroom",Where was the football before the bathroom? 
+216,hallway,"According to the context, the football was left in the hallway before Sandra went to the",Where was the football before the bathroom? 
+217,hallway,"According to the context, the football was in the hallway before Mary went to the bathroom",Where was the football before the bathroom? 
+218,bathroom,"According to the context, the milk was in the bathroom before John went to the kitchen.",Where was the milk before the kitchen? 
+219,garden,"According to the context, the football was in the hallway before Mary put it down.",Where was the football before the hallway? 
+220,bedroom,"According to the context, the apple was:
+
+1. In Daniel's hand (",Where was the apple before the kitchen? 
+221,bathroom,"Based on the context, the apple was:
+
+* Discarded by Daniel in the kitchen",Where was the apple before the hallway? 
+222,bathroom,"Based on the context, the apple was dropped in the kitchen by Daniel before he went to the",Where was the apple before the hallway? 
+223,bathroom,"According to the context, the apple was:
+
+* In Daniel's hand (before",Where was the apple before the hallway? 
+224,bathroom,"Based on the context provided, the apple was:
+
+* In Daniel's hand (",Where was the apple before the hallway? 
+225,hallway,"According to the context, the apple was picked up by Mary in a place where the archway",Where was the apple before the bathroom? 
+226,office,"According to the text, the milk was left in the hallway before Daniel journeyed to the",Where was the milk before the garden? 
+227,bathroom,"According to the context, the milk was in the office before Daniel moved to the office. So",Where was the milk before the office? 
+228,bathroom,"According to the context, the milk was in the hallway before Mary went back to the office",Where was the milk before the office? 
+229,hallway,"According to the context, the football was in the kitchen before it was moved to the bedroom",Where was the football before the bedroom? 
+230,bathroom,"According to the text, the milk was dropped by Daniel in the office.",Where was the milk before the office? 
+231,bathroom,"According to the context, the apple was in the hallway before Mary went to the garden.",Where was the apple before the garden? 
+232,bathroom,"According to the context, the apple was in the bedroom before Mary moved it to the garden",Where was the apple before the garden? 
+233,bathroom,"According to the context, the apple was in the kitchen before Mary journeyed to the garden.",Where was the apple before the garden? 
+234,garden,"According to the context, the football was in the hallway before John got it. So,",Where was the football before the hallway? 
+235,garden,"According to the context, the football was picked up by Sandra before she moved it to the",Where was the football before the kitchen? 
+236,garden,"According to the text, the football was picked up by Sandra before she moved to the kitchen",Where was the football before the kitchen? 
+237,kitchen,"According to the context, the apple was in the kitchen before Sandra moved it to the bath",Where was the apple before the bathroom? 
+238,bathroom,"According to the context, the apple was in the kitchen before Sandra moved it to the hall",Where was the apple before the hallway? 
+239,office,"According to the context, the football was in the hallway before Mary moved it to the bed",Where was the football before the bedroom? 
+240,kitchen,"According to the context, the football was in the bedroom before Sandra travelled to the",Where was the football before the garden? 
+241,bedroom,"According to the context, the football was in the bedroom before Sandra moved it to the",Where was the football before the hallway? 
+242,bathroom,"According to the context, the apple was in the bathroom before John dropped it in the garden",Where was the apple before the garden? 
+243,office,"According to the context, the apple was dropped by John before he went back to the bathroom",Where was the apple before the bathroom? 
+244,kitchen,"According to the context, the apple was in the kitchen before John moved it to the bedroom",Where was the apple before the bedroom? 
+245,kitchen,"According to the context, the apple was in the kitchen before John went back to the bedroom",Where was the apple before the bedroom? 
+246,kitchen,"According to the context, the apple was in the kitchen before John went back to the bedroom",Where was the apple before the bedroom? 
+247,office,"According to the context, the apple was taken by Mary to the office before she moved to the",Where was the apple before the bathroom? 
+248,office,"According to the context, the apple was moved to the bathroom by Mary. Therefore, before",Where was the apple before the bathroom? 
+249,bathroom,"According to the context, the apple was in the bathroom before the office.",Where was the apple before the office? 
+250,office,"According to the context, the milk was in the bedroom before Sandra left it.",Where was the milk before the bedroom? 
+251,office,"According to the context, the milk was in the hallway before Sandra went back to the",Where was the milk before the bedroom? 
+252,garden,"According to the context, the football was:
+
+* In Daniel's hand before he",Where was the football before the kitchen? 
+253,bedroom,"According to the context, the apple was in the office before Sandra moved it to the garden",Where was the apple before the garden? 
+254,garden,"According to the context, the apple was in the garden before Sandra journeyed to the kitchen",Where was the apple before the kitchen? 
+255,kitchen,"According to the context, the milk was left in the hallway before Mary moved it to the",Where was the milk before the bathroom? 
+256,garden,"According to the context, the football was in the garden before Mary moved to the bathroom.",Where was the football before the bathroom? 
+257,garden,"According to the context, the apple was in the garden before Sandra went back to the bath",Where was the apple before the bathroom? 
+258,hallway,"According to the passage, the milk was in the hallway before Mary went back to the office",Where was the milk before the office? 
+259,office,"According to the context, the milk was picked up by Mary before she went back to the bath",Where was the milk before the bathroom? 
+260,office,"Based on the text, the milk was in the hallway before Mary went back to the bath",Where was the milk before the bathroom? 
+261,office,"According to the poem, the milk was picked up by Mary before she went back to the hall",Where was the milk before the bathroom? 
+262,bedroom,"According to the context, the football was in the bedroom before the office.
+
+Here",Where was the football before the office? 
+263,hallway,"According to the context, the football was in the office before the bathroom.",Where was the football before the bathroom? 
+264,hallway,"According to the text, the football was in the bedroom before the bathroom. So,",Where was the football before the bathroom? 
+265,hallway,"According to the context, the football was in the office before John went to the bathroom.",Where was the football before the bathroom? 
+266,bathroom,"According to the context, the milk was left in the office before John travelled to the hall",Where was the milk before the hallway? 
+267,office,"According to the context, the football was in the office before Sandra moved it to the bath",Where was the football before the bathroom? 
+268,office,"According to the context, the football was in the garden before Sandra moved to the bathroom",Where was the football before the bathroom? 
+269,bathroom,"According to the context, the football was in the office before Sandra moved it to the garden",Where was the football before the garden? 
+270,hallway,"According to the context, the football was:
+
+* In the garden
+* In the",Where was the football before the bedroom? 
+271,hallway,"According to the context, the football was in the bedroom before Sandra moved it to the",Where was the football before the bedroom? 
+272,office,"According to the text, the milk was moved to the bedroom before Ruth drank the spirits",Where was the milk before the hallway? 
+273,office,"According to the text, the milk was left in the bar. The sentence ""Daniel left the",Where was the milk before the hallway? 
+274,kitchen,"According to the text, the milk was in the hallway before Daniel moved it to the garden",Where was the milk before the garden? 
+275,kitchen,"According to the context, the milk was in the kitchen before Daniel dropped it in the garden.",Where was the milk before the garden? 
+276,garden,"According to the context, the milk was in the kitchen before John discarded it in the hall",Where was the milk before the hallway? 
+277,bedroom,"According to the context, the football was in the kitchen before the bathroom.",Where was the football before the bathroom? 
+278,hallway,"According to the context, the milk was in the garden before the bedroom.",Where was the milk before the bedroom? 
+279,bedroom,"According to the text, the football was in the hallway before Mary took it and moved it",Where was the football before the bathroom? 
+280,hallway,"According to the context, the apple was in the garden before John moved it to the bedroom",Where was the apple before the bedroom? 
+281,bedroom,"According to the context, the milk was on the table before John went to the bathroom.",Where was the milk before the bathroom? 
+282,bedroom,"According to the text, the milk was on the table in the bedroom before John went to",Where was the milk before the bathroom? 
+283,office,"According to the text, the apple was in the garden before Sandra moved to the bathroom",Where was the apple before the bathroom? 
+284,office,"According to the context, the apple was in the garden before Sandra moved to the bathroom",Where was the apple before the bathroom? 
+285,office,"According to the context, the apple was in the garden before Sandra moved to the bathroom",Where was the apple before the bathroom? 
+286,garden,"According to the context, the football was in the hallway before Mary went to the bedroom",Where was the football before the bedroom? 
+287,garden,"According to the context, the milk was in the kitchen before Mary put it down in the bed",Where was the milk before the bedroom? 
+288,garden,"According to the context, the milk was in the bathroom before Mary went to the bedroom",Where was the milk before the bedroom? 
+289,garden,"According to the context, the football was in the kitchen before Mary put it down in the bed",Where was the football before the bedroom? 
+290,garden,"According to the context, the football was in the hallway before Mary went to the bedroom",Where was the football before the bedroom? 
+291,bathroom,"According to the context, the apple was picked up by Mary in the office.",Where was the apple before the garden? 
+292,bathroom,"According to the context, the apple was in the hallway before Mary moved it to the garden",Where was the apple before the garden? 
+293,bedroom,"According to the context, the milk was in the kitchen before it was moved to the hallway",Where was the milk before the hallway? 
+294,bedroom,"According to the context, the milk was in the kitchen before John journeyed to the garden.",Where was the milk before the garden? 
+295,bedroom,"According to the context, the milk was in the kitchen before Sandra took it and went to",Where was the milk before the garden? 
+296,bedroom,"According to the context, the milk was in the kitchen before it was moved to the garden.",Where was the milk before the garden? 
+297,hallway,"According to the context, the milk was in the kitchen before Sandra moved to the bathroom",Where was the milk before the bathroom? 
+298,kitchen,"According to the text, the milk was taken by Daniel and left at the kitchen. So,",Where was the milk before the office? 
+299,kitchen,"According to the text, the milk was left at the milk shop before the office. The sentence",Where was the milk before the office? 
+300,kitchen,"According to the context, the milk was left at the office before Daniel journeyed there.",Where was the milk before the office? 
+301,hallway,"According to the context, the football was in the kitchen before Daniel journeyed to the garden.",Where was the football before the garden? 
+302,bathroom,"According to the context, the football was in the hallway before the garden.",Where was the football before the garden? 
+303,bathroom,"According to the text, the apple was in the bathroom before John went back to the garden",Where was the apple before the garden? 
+304,bathroom,"According to the context, the milk was in the kitchen before Sandra got it in the bed",Where was the milk before the bedroom? 
+305,bathroom,"According to the text, the milk was picked up by Daniel in the hacienda of X",Where was the milk before the kitchen? 
+306,hallway,"According to the text, the apple was in the garden before Mary journeyed to the kitchen.",Where was the apple before the bedroom? 
+307,kitchen,"According to the context, the football was in the bedroom before the garden. So, the",Where was the football before the garden? 
+308,kitchen,"According to the context, the milk was in the kitchen before Daniel moved it to the garden.",Where was the milk before the garden? 
+309,kitchen,"According to the context, the milk was in the kitchen before Daniel travelled to the garden.",Where was the milk before the garden? 
+310,hallway,"According to the context, the apple was in the bathroom before Daniel journeyed there. So",Where was the apple before the bathroom? 
+311,hallway,"According to the context, the apple was in the office before Daniel journeyed to the bathroom",Where was the apple before the bathroom? 
+312,hallway,"According to the context, the apple was in the hallway before Daniel journeyed to the bath",Where was the apple before the bathroom? 
+313,bedroom,"According to the context, the football was in the garden before the kitchen. Mary put it down",Where was the football before the kitchen? 
+314,office,"According to the context, the milk was in the kitchen before Daniel moved it to the bedroom",Where was the milk before the bedroom? 
+315,office,"According to the context, the milk was grabbed by Daniel before he moved to the bed",Where was the milk before the bedroom? 
+316,office,"According to the context, the milk was in the office before Daniel moved it to the bedroom",Where was the milk before the bedroom? 
+317,bedroom,"According to the context, the milk was left in the office before Daniel grabbed it.",Where was the milk before the office? 
+318,bathroom,"According to the context, the football was in the hallway before Mary moved it to the garden",Where was the football before the hallway? 
+319,bedroom,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the hallway? 
+320,bathroom,"According to the context, the milk was left in the bedroom before Sandra moved it to",Where was the milk before the hallway? 
+321,bathroom,"According to the context, the milk was in the hallway before Sandra moved to the bed",Where was the milk before the hallway? 
+322,hallway,"According to the context, the football was in the garden before Mary went to the bathroom.",Where was the football before the bathroom? 
+323,office,"According to the context, the milk was in the kitchen before Sandra moved to the bathroom",Where was the milk before the bathroom? 
+324,office,"According to the context, the football was in the office before Sandra moved it to the bath",Where was the football before the bathroom? 
+325,office,"According to the context, the football was in the hallway before Sandra went to the bath",Where was the football before the bathroom? 
+326,bathroom,"According to the context, the football was in the hallway before Sandra moved it to the",Where was the football before the kitchen? 
+327,office,"According to the context, the football was in the hallway before the bedroom.",Where was the football before the bedroom? 
+328,garden,"According to the context, the milk was left in the office before the boys moved it to the",Where was the milk before the kitchen? 
+329,kitchen,"According to the context, the milk was left at the public lobby before Mary picked it",Where was the milk before the garden? 
+330,office,"According to the context, the milk was left in the office before Mary picked it up and took",Where was the milk before the garden? 
+331,garden,"According to the context, the football was in the garden before the bedroom. Here is the",Where was the football before the bedroom? 
+332,office,"According to the context, the milk was left in the office before the group went to the garden",Where was the milk before the garden? 
+333,kitchen,"According to the context, the apple was picked up by Sandra in the kitchen before she tra",Where was the apple before the garden? 
+334,kitchen,"According to the context, the apple was in the bathroom before it was picked up by Sand",Where was the apple before the garden? 
+335,kitchen,"According to the text, the apple was picked up by Sandra in the kitchen. Before that",Where was the apple before the garden? 
+336,hallway,"According to the context, the apple was taken by John before he went to the garden. Therefore",Where was the apple before the garden? 
+337,garden,"According to the text, the apple was taken by John and left in the bathroom. Before",Where was the apple before the bathroom? 
+338,hallway,"According to the context, the apple was taken by John before he went to the office. So",Where was the apple before the office? 
+339,bathroom,"According to the context, the milk was in the kitchen before Sandra left it.",Where was the milk before the bedroom? 
+340,bedroom,"According to the context, the apple was in the bedroom before Mary went to the bathroom",Where was the apple before the bathroom? 
+341,hallway,"According to the context, the football was moved to the bathroom before Daniel moved there. Therefore",Where was the football before the bathroom? 
+342,bedroom,"According to the context, the apple was in the garden before it was moved to the kitchen.",Where was the apple before the kitchen? 
+343,bedroom,"According to the context, the apple was in the garden before it was moved to the kitchen.",Where was the apple before the kitchen? 
+344,kitchen,"According to the context, the apple was in the kitchen before Sandra moved it to the garden",Where was the apple before the garden? 
+345,kitchen,"According to the context, the apple was in the office before Sandra moved it to the garden",Where was the apple before the garden? 
+346,hallway,"According to the context, the football was in the hallway before Mary put it down in the",Where was the football before the garden? 
+347,kitchen,"According to the context, the football was picked up by Mary before she left it in the garden",Where was the football before the office? 
+348,kitchen,"According to the context, the football was in the garden before John went to the office. Therefore",Where was the football before the office? 
+349,garden,"According to the context, the milk was picked up by Mary before she went to the hallway",Where was the milk before the hallway? 
+350,garden,"According to the context, the milk was in the hallway before Mary picked it up. So",Where was the milk before the hallway? 
+351,garden,"According to the context, the milk was picked up by Mary before she went to the hallway",Where was the milk before the hallway? 
+352,garden,"According to the context, the milk was picked up by Mary and then put down in the hall",Where was the milk before the hallway? 
+353,hallway,"According to the context, the apple was in the office before Mary went to the garden. So",Where was the apple before the garden? 
+354,bathroom,"According to the context, the football was:
+
+* In Mary's hands before she",Where was the football before the bedroom? 
+355,bathroom,"According to the context, the football was in the following locations before the bedroom:",Where was the football before the bedroom? 
+356,hallway,"According to the context, the apple was picked up by Daniel in the bathroom before he went",Where was the apple before the garden? 
+357,bathroom,"According to the context, the apple was in the hallway before Daniel dropped it. So,",Where was the apple before the hallway? 
+358,garden,"According to the context, the football was in the garden before the hallway.",Where was the football before the hallway? 
+359,garden,"According to the context, the football was in the garden before Mary moved to the bedroom.",Where was the football before the bedroom? 
+360,bathroom,"According to the context, the milk was in the garden before Daniel moved to the hallway.",Where was the milk before the hallway? 
+361,hallway,"According to the context, the milk was in the bedroom before Sandra discarded it.",Where was the milk before the office? 
+362,hallway,"According to the context, the milk was in the kitchen before Daniel moved to the office. So",Where was the milk before the office? 
+363,bathroom,"According to the context, the milk was in the bedroom before Daniel moved it to the hall",Where was the milk before the hallway? 
+364,office,"According to the context, the milk was in the hallway before it was moved to the kitchen",Where was the milk before the kitchen? 
+365,kitchen,"According to the context, the milk was in the kitchen before Daniel moved to the garden. So",Where was the milk before the garden? 
+366,office,"According to the context, the milk was in the office before it was moved to the kitchen.",Where was the milk before the kitchen? 
+367,bathroom,"According to the context, the apple was in the following locations before the kitchen:
+
+1",Where was the apple before the kitchen? 
+368,kitchen,"According to the context, the apple was in the following locations before the office:
+
+1",Where was the apple before the office? 
+369,hallway,"According to the text, the milk was in the hallway before Mary went to the kitchen.",Where was the milk before the kitchen? 
+370,bathroom,"According to the text, the milk was in the kitchen before Mary went to the bathroom.",Where was the milk before the hallway? 
+371,bedroom,"According to the context, the milk was in the kitchen before Sandra left it. So,",Where was the milk before the office? 
+372,bedroom,"According to the context, the milk was in the kitchen before Mary picked it up and moved it",Where was the milk before the office? 
+373,hallway,"According to the context, the apple was in the garden before it was picked up by Sandra",Where was the apple before the bedroom? 
+374,garden,"According to the text, the milk was in the kitchen before Mary moved it to the office.",Where was the milk before the office? 
+375,garden,"According to the context, the milk was in the kitchen before Mary moved to the office.",Where was the milk before the office? 
+376,garden,"According to the text, the milk was in the garden before Mary moved it to the office.",Where was the milk before the office? 
+377,garden,"According to the context, the milk was in the kitchen before Mary moved to the office.",Where was the milk before the office? 
+378,hallway,"According to the context, the football was:
+
+* In Daniel's hands in the",Where was the football before the office? 
+379,bedroom,"According to the context, the milk was in the yard before Sandra discarded it.",Where was the milk before the kitchen? 
+380,bedroom,"According to the context, the milk was in the garden before Sandra discarded it.",Where was the milk before the kitchen? 
+381,garden,"According to the text, the football was in the kitchen before John went to the bathroom.",Where was the football before the bathroom? 
+382,hallway,"According to the context, the football was in the office before Sandra moved it to the garden",Where was the football before the garden? 
+383,bathroom,"According to the context, the milk was in the kitchen before Mary moved to the hallway.",Where was the milk before the hallway? 
+384,bedroom,"According to the context, the football was picked up by Daniel after Mary went back to the bed",Where was the football before the office? 
+385,bedroom,"According to the context, the football was in the bedroom before Daniel moved it to the office",Where was the football before the office? 
+386,bedroom,"According to the context, the football was in the bedroom before the office. Here is the",Where was the football before the office? 
+387,bathroom,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+388,hallway,"According to the context, the apple was in the garden before Mary went to the bedroom.",Where was the apple before the bedroom? 
+389,garden,"According to the context, the milk was in the kitchen before Mary went back to the bedroom",Where was the milk before the bedroom? 
+390,garden,"According to the context, the milk was in the office before John picked it up and put it",Where was the milk before the bedroom? 
+391,garden,"Based on the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+392,garden,"Based on the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+393,garden,"According to the context, the apple was in the office before Mary moved it to the kitchen.",Where was the apple before the kitchen? 
+394,office,"According to the context, the milk was in the kitchen before John moved it to the hallway",Where was the milk before the hallway? 
+395,hallway,"According to the context, the football was in the kitchen before Daniel moved it to the bathroom",Where was the football before the bathroom? 
+396,hallway,"According to the context, the football was in the kitchen before Daniel moved to the bathroom.",Where was the football before the bathroom? 
+397,bedroom,"According to the context, the football was in the bathroom before John moved it to the hall",Where was the football before the hallway? 
+398,hallway,"According to the context, the milk was picked up by Mary before she journeyed to the bed",Where was the milk before the bedroom? 
+399,hallway,"According to the context, the milk was left in the kitchen before Mary journeyed to the bed",Where was the milk before the bedroom? 
+400,bedroom,"According to the context, the milk was in the kitchen before Mary left it.",Where was the milk before the kitchen? 
+401,kitchen,"According to the context, the apple was in the kitchen before Mary moved it to the bedroom",Where was the apple before the bedroom? 
+402,kitchen,"According to the context, the apple was in the kitchen before the bedroom.",Where was the apple before the bedroom? 
+403,office,"According to the context, the football was in the office before Sandra went to the garden.",Where was the football before the garden? 
+404,garden,"According to the context, the football was in the garden before Sandra moved it to the hall",Where was the football before the hallway? 
+405,garden,"According to the context, the milk was in the kitchen before Daniel went to the office.",Where was the milk before the office? 
+406,office,"According to the context, the milk was in the bedroom before Daniel dropped it in the kitchen",Where was the milk before the kitchen? 
+407,kitchen,"According to the text, the football was in the garden before Sandra moved to the garden.",Where was the football before the garden? 
+408,bedroom,"According to the text, the apple was in the kitchen before John moved to the bathroom.",Where was the apple before the bathroom? 
+409,office,"According to the context, the apple was picked up by Daniel in the hallway. Therefore,",Where was the apple before the bedroom? 
+410,garden,"According to the passage, the apple was picked up by Daniel in the hallway. Therefore,",Where was the apple before the office? 
+411,garden,"According to the context, the apple was in the kitchen before Mary moved to the office.",Where was the apple before the office? 
+412,garden,"According to the context, the apple was left in the office before Mary moved to the garden.",Where was the apple before the office? 
+413,hallway,"According to the text, the apple was discarded by Daniel in the bathroom. So,",Where was the apple before the bathroom? 
+414,bedroom,"According to the context, the football was in the garden before John went to the kitchen. So",Where was the football before the kitchen? 
+415,hallway,"According to the context, the apple was discarded by Daniel in the bathroom. Therefore,",Where was the apple before the bathroom? 
+416,bathroom,"According to the context, the apple was in the kitchen before John moved it to the hallway",Where was the apple before the hallway? 
+417,office,"According to the context, the apple was in the hallway before it was moved to the kitchen",Where was the apple before the kitchen? 
+418,garden,"According to the context, the football was in the bedroom before John moved it to the hall",Where was the football before the hallway? 
+419,garden,"According to the context, the football was in the bedroom before John went to the hallway",Where was the football before the hallway? 
+420,garden,"According to the context, the apple was:
+
+* In the kitchen (before Sandra",Where was the apple before the office? 
+421,garden,"According to the context, the apple was in the garden before the office.",Where was the apple before the office? 
+422,garden,"According to the context, the apple was in the kitchen before the office.",Where was the apple before the office? 
+423,bedroom,"According to the text, the apple was in the bathroom before Mary went to the garden.",Where was the apple before the garden? 
+424,bedroom,"According to the context, the apple was in the office before Mary moved it to the garden.",Where was the apple before the garden? 
+425,kitchen,"According to the text, the apple was in the garden before Mary went to the bedroom.",Where was the apple before the bedroom? 
+426,office,"According to the context, the apple was in the garden before it was moved to the bedroom",Where was the apple before the bedroom? 
+427,office,"According to the context, the apple was in the garden before it was moved to the bedroom",Where was the apple before the bedroom? 
+428,garden,"According to the context, the apple was in the garden before the bathroom.",Where was the apple before the bathroom? 
+429,garden,"According to the context, the apple was in the kitchen before Mary moved it to the bathroom",Where was the apple before the bathroom? 
+430,bathroom,"According to the context, the apple was in the garden before John moved to the kitchen.",Where was the apple before the kitchen? 
+431,bathroom,"According to the context, the apple was in the office before John moved it to the kitchen.",Where was the apple before the kitchen? 
+432,bathroom,"According to the context, the milk was in the office before John moved it to the bedroom",Where was the milk before the bedroom? 
+433,bathroom,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+434,bathroom,"According to the context, the milk was in the kitchen before John moved it to the bedroom",Where was the milk before the bedroom? 
+435,bathroom,"According to the context, the apple was in the office before Mary went to the garden. So",Where was the apple before the garden? 
+436,garden,"According to the context, the apple was in the garden before the bedroom.",Where was the apple before the bedroom? 
+437,garden,"According to the context, the apple was in the bedroom before Daniel moved to the kitchen.",Where was the apple before the kitchen? 
+438,office,"According to the context, the football was in the bedroom before Daniel moved it to the garden",Where was the football before the garden? 
+439,garden,"According to the context, the football was in the bedroom before Mary journeyed to the garden",Where was the football before the kitchen? 
+440,garden,"According to the context, the football was in the living room before it was moved to the kitchen",Where was the football before the kitchen? 
+441,garden,"According to the context, the apple was picked up by Daniel in the garden before he journeyed",Where was the apple before the bathroom? 
+442,kitchen,"According to the context, the apple was in the kitchen before Mary moved to the bedroom.",Where was the apple before the bedroom? 
+443,bathroom,"According to the text, the football was with Mary before she went to the office. So,",Where was the football before the office? 
+444,bathroom,"According to the context, the football was in Mary's possession before she went to the office",Where was the football before the office? 
+445,bedroom,"According to the context, the football was in the living room before Mary moved it to the kitchen",Where was the football before the kitchen? 
+446,bedroom,"According to the context, the football was in the bathroom before Mary moved it to the kitchen",Where was the football before the kitchen? 
+447,bedroom,"According to the context, the football was put down in the bedroom before the kitchen. So",Where was the football before the kitchen? 
+448,garden,"According to the context, the football was:
+
+* In Mary's hands in the",Where was the football before the bedroom? 
+449,garden,"According to the context, the football was in the kitchen before John moved to the bedroom.",Where was the football before the bedroom? 
+450,garden,"According to the context, the football was in the kitchen before Hannah left the house. Mary",Where was the football before the bedroom? 
+451,garden,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+452,bedroom,"According to the context, the apple was in the bedroom before John discarded it.",Where was the apple before the bathroom? 
+453,garden,"According to the context, the milk was picked up by Sandra in the kitchen before Mary moved",Where was the milk before the bedroom? 
+454,garden,"According to the passage, the milk was in the kitchen before Daniel dropped it. So, the",Where was the milk before the bedroom? 
+455,garden,"According to the text, the milk was picked up by Daniel before he moved to the bedroom",Where was the milk before the bedroom? 
+456,garden,"According to the context, the milk was in the kitchen before Daniel moved it to the bedroom",Where was the milk before the bedroom? 
+457,garden,"According to the context, the football was in the office before Sandra grabbed it in",Where was the football before the bedroom? 
+458,bathroom,"According to the context, the milk was picked up by Daniel in the bathroom before he tra",Where was the milk before the hallway? 
+459,garden,"According to the context, the apple was in the garden before Sandra went to the office.",Where was the apple before the office? 
+460,garden,"According to the context, the apple was in the hallway before Sandra moved it to the",Where was the apple before the office? 
+461,garden,"According to the context, the apple was picked up by Sandra in the garden before she moved",Where was the apple before the office? 
+462,office,"According to the context, the apple was in the bathroom before Sandra moved it to the",Where was the apple before the hallway? 
+463,garden,"According to the context, the football was in the garden before Sandra picked it up and moved",Where was the football before the kitchen? 
+464,garden,"According to the context, the football was in the bedroom before it was moved to the kitchen",Where was the football before the kitchen? 
+465,garden,"According to the context, the football was in the garden before Sandra went to the kitchen.",Where was the football before the kitchen? 
+466,hallway,"According to the context, the milk was put down by Mary in the garden. Before the office",Where was the milk before the office? 
+467,office,"According to the context, the milk was in the kitchen before Mary moved to the hallway.",Where was the milk before the hallway? 
+468,office,"According to the context, the football was in the hallway before Mary moved it to the bath",Where was the football before the bathroom? 
+469,kitchen,"According to the context, the apple was in the bedroom before John moved it to the garden",Where was the apple before the garden? 
+470,kitchen,"According to the context, the apple was in the following locations before John moved it to the garden",Where was the apple before the garden? 
+471,bedroom,"According to the context, the football was in the hallway before Mary went to the kitchen.",Where was the football before the kitchen? 
+472,kitchen,"According to the context, the apple was in the bedroom before John moved it to the garden",Where was the apple before the garden? 
+473,bathroom,"According to the context, the milk was in the kitchen before Daniel moved to the office. So",Where was the milk before the office? 
+474,bathroom,"According to the context, the football was picked up by Mary in the office before Sandra got",Where was the football before the garden? 
+475,bedroom,"According to the context, the football was in the garden before the office.",Where was the football before the office? 
+476,bedroom,"According to the context, the football was in the kitchen before the office.",Where was the football before the office? 
+477,bedroom,"According to the context, the milk was in the kitchen before the office.",Where was the milk before the office? 
+478,office,"According to the context, the milk was in the kitchen before John moved it to the bedroom",Where was the milk before the bedroom? 
+479,bathroom,"According to the context, the football was picked up by Sandra in the bathroom. Before",Where was the football before the hallway? 
+480,bathroom,"According to the context, the apple was left in the garden before Sandra moved to the hall",Where was the apple before the hallway? 
+481,office,"According to the context, the milk was grabbed by Sandra at a previous location before",Where was the milk before the hallway? 
+482,garden,"According to the text, the apple was in the garden before Mary moved to the bedroom.",Where was the apple before the bedroom? 
+483,bathroom,"According to the context, the football was in the garden before Sandra moved it to the kitchen",Where was the football before the kitchen? 
+484,bathroom,"According to the context, the apple was in the hallway before Mary moved it to the garden",Where was the apple before the garden? 
+485,garden,"According to the context, the milk was in the garden before Sandra moved to the office.",Where was the milk before the office? 
+486,garden,"According to the context, the football was in the garden before Mary moved to the bedroom.",Where was the football before the bedroom? 
+487,garden,"According to the context, the football was in the garden before Mary went to the bedroom.",Where was the football before the bedroom? 
+488,garden,"According to the context, the football was in the kitchen before Mary moved it to the bedroom",Where was the football before the bedroom? 
+489,garden,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+490,garden,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+491,garden,"According to the context, the milk was dropped by Sandra before he went to the office.",Where was the milk before the office? 
+492,garden,"According to the context, the milk was in the kitchen before Mary went to the office.",Where was the milk before the office? 
+493,garden,"According to the context, the milk was in the kitchen before Mary moved to the office.",Where was the milk before the office? 
+494,garden,"According to the context, the football was in the kitchen before Sandra moved to the bedroom",Where was the football before the bathroom? 
+495,bathroom,"According to the text, the football was in the bedroom before John journeyed to the office",Where was the football before the office? 
+496,garden,"According to the context, the milk was in the bathroom before Mary moved it to the hall",Where was the milk before the hallway? 
+497,garden,"According to the context, the milk was in the bathroom before Mary grabbed it and",Where was the milk before the hallway? 
+498,garden,"According to the passage, the milk was in the kitchen before Mary grabbed it and took",Where was the milk before the hallway? 
+499,hallway,"According to the context, the football was in the office before the garden.",Where was the football before the garden? 
+500,garden,"According to the context, the football was in the garden before John moved to the office. So",Where was the football before the office? 
+501,hallway,"According to the context, the football was in the garden before Mary moved it to the kitchen.",Where was the football before the kitchen? 
+502,hallway,"According to the context, the football was in the garden before Mary moved it to the kitchen.",Where was the football before the kitchen? 
+503,kitchen,"According to the context, the football was in the garden before Mary moved to the hallway.",Where was the football before the hallway? 
+504,hallway,"According to the context, the milk was in the garden before Mary put it down in the kitchen",Where was the milk before the kitchen? 
+505,bedroom,"According to the context, the milk was at the garden before the office. The sentence is:",Where was the milk before the office? 
+506,garden,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+507,garden,"According to the text, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+508,garden,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+509,garden,"According to the text, the football was left in the garden before John went back to the bed",Where was the football before the bedroom? 
+510,office,"According to the context, the apple was picked up by Mary before she went to the bathroom",Where was the apple before the bathroom? 
+511,bathroom,"According to the context, the football was in the office before Mary moved it to the garden.",Where was the football before the garden? 
+512,bathroom,"According to the context, the football was in the office before Mary moved it to the garden.",Where was the football before the garden? 
+513,office,"According to the context, the football was in the hallway before Mary took it to the kitchen",Where was the football before the kitchen? 
+514,office,"According to the text, the football was in the hallway before Mary went to the kitchen.",Where was the football before the kitchen? 
+515,office,"According to the context, the apple was dropped in the kitchen.",Where was the apple before the kitchen? 
+516,bathroom,"According to the context, the apple was dropped in the hallway.",Where was the apple before the hallway? 
+517,hallway,"According to the context, the apple was in the kitchen before Mary moved to the office. So",Where was the apple before the office? 
+518,kitchen,"According to the context, the milk was in the kitchen before John went to the office.",Where was the milk before the office? 
+519,kitchen,"According to the context, the milk was in the kitchen before Mary picked it up. So,",Where was the milk before the office? 
+520,bathroom,"According to the context, the milk was dropped by Mary in the hallway. Before that,",Where was the milk before the hallway? 
+521,bathroom,"According to the context, the milk was in the kitchen before Mary moved it to the hallway",Where was the milk before the hallway? 
+522,bathroom,"According to the context, the apple was in the bedroom before John went to the office.",Where was the apple before the hallway? 
+523,bathroom,"According to the text, the apple was in the bathroom before Mary travelled to the kitchen",Where was the apple before the kitchen? 
+524,garden,"According to the context, the apple was in the blue twilight, where Mary had mo",Where was the apple before the kitchen? 
+525,bedroom,"According to the context, the milk was in the kitchen before John journeyed to the bathroom",Where was the milk before the bathroom? 
+526,bedroom,"According to the context, the milk was picked up by Daniel and then put down in the bath",Where was the milk before the bathroom? 
+527,garden,"According to the context, the football was in the garden before it was discarded in the bed",Where was the football before the bedroom? 
+528,garden,"According to the context, the apple was taken by Sandra before she went to the bathroom",Where was the apple before the bathroom? 
+529,office,"According to the context, the apple was taken by Sandra before she journeyed to the hall",Where was the apple before the hallway? 
+530,hallway,"According to the context, the apple was taken by Sandra before she journeyed to the kitchen",Where was the apple before the kitchen? 
+531,bathroom,"According to the context, the milk was in the kitchen before John went to the office.",Where was the milk before the office? 
+532,bathroom,"According to the context, the milk was in the following locations before the office:
+
+1",Where was the milk before the office? 
+533,bathroom,"According to the context, the football was in the kitchen before the hallway.",Where was the football before the hallway? 
+534,bathroom,"According to the context, the football was in the kitchen before John moved it to the hallway",Where was the football before the hallway? 
+535,hallway,"According to the context, the milk was in the kitchen before Sandra moved to the bedroom",Where was the milk before the bedroom? 
+536,hallway,"According to the context, the milk was in the kitchen before Sandra moved to the bedroom",Where was the milk before the bedroom? 
+537,hallway,"According to the context, the milk was in the kitchen before Sandra moved to the bedroom",Where was the milk before the bedroom? 
+538,kitchen,"According to the context, the apple was in the bedroom before John moved it to the hall",Where was the apple before the hallway? 
+539,garden,"According to the context, the milk was in the kitchen before John went to the office.",Where was the milk before the office? 
+540,office,"According to the context, the milk was in the kitchen before John went to the garden. So",Where was the milk before the garden? 
+541,hallway,"According to the context, the football was in the garden before Sandra picked it up. So",Where was the football before the garden? 
+542,bathroom,"According to the context, the milk was in the office before Sandra moved it to the kitchen",Where was the milk before the kitchen? 
+543,bathroom,"According to the context, the milk was in the office before Sandra picked it up.",Where was the milk before the kitchen? 
+544,bathroom,"According to the context, the football was in the hallway before John moved it to the garden",Where was the football before the garden? 
+545,bathroom,"According to the context, the football was in the hallway before John moved it to the garden",Where was the football before the garden? 
+546,bathroom,"According to the context, the apple was in the hallway before John moved it to the garden",Where was the apple before the garden? 
+547,garden,"According to the text, the football was in the garden before Sandra moved it to the kitchen",Where was the football before the kitchen? 
+548,garden,"According to the text, the football was in the bathroom before Sandra moved it to the",Where was the football before the kitchen? 
+549,office,"According to the context, the apple was picked up by Daniel in the office. So, before",Where was the apple before the bedroom? 
+550,office,"According to the context, the milk was in Daniel's hand before he discarded it.",Where was the milk before the bathroom? 
+551,garden,"According to the text, the milk was picked up by Daniel in the kitchen. Before entering the",Where was the milk before the kitchen? 
+552,bathroom,"According to the context, the milk was dropped by Sandra in the kitchen. Before the kitchen",Where was the milk before the kitchen? 
+553,bathroom,"According to the context, the football was dropped in the kitchen before Mary went to the bedroom",Where was the football before the bedroom? 
+554,bathroom,"According to the context, the milk was in the office before John moved it to the kitchen.",Where was the milk before the kitchen? 
+555,bathroom,"According to the context, the milk was in the office before John went to the kitchen.",Where was the milk before the kitchen? 
+556,bathroom,"According to the context, the apple was in the garden before Sandra dropped it. So,",Where was the apple before the garden? 
+557,bedroom,"According to the text, the milk was taken to the office by Daniel. Therefore, the answer",Where was the milk before the office? 
+558,bedroom,"According to the context, the milk was in the garden before it was taken to the office by",Where was the milk before the office? 
+559,bedroom,"According to the context, the milk was in the garden before John went to the office. The",Where was the milk before the office? 
+560,bedroom,"According to the text, the milk was in the kitchen before it was taken to the office by",Where was the milk before the office? 
+561,kitchen,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+562,kitchen,"According to the context, the apple was dropped by Sandra in the following locations:",Where was the apple before the office? 
+563,kitchen,"According to the context, the apple was in the garden before Sandra moved to the office.",Where was the apple before the office? 
+564,kitchen,"According to the context, the apple was:
+
+1. In the bedroom (S",Where was the apple before the office? 
+565,bathroom,"According to the context, the apple was in the garden before it was moved to the kitchen.",Where was the apple before the kitchen? 
+566,office,"According to the context, the football was left in the bathroom before John went to the garden",Where was the football before the garden? 
+567,kitchen,"Based on the context provided, the football was in the following locations before the hallway:",Where was the football before the hallway? 
+568,kitchen,"According to the context, the football was:
+
+* In the garden (mentioned by",Where was the football before the hallway? 
+569,office,"According to the context, the milk was in the garden before John picked it up and brought it",Where was the milk before the kitchen? 
+570,kitchen,"According to the context, the football was in the garden before the hallway. Mary journeyed",Where was the football before the hallway? 
+571,office,"According to the context, the milk was in the garden before John went to the kitchen. So",Where was the milk before the kitchen? 
+572,hallway,"According to the text, the milk was in the kitchen before Sandra went to the bedroom",Where was the milk before the bedroom? 
+573,hallway,"According to the text, the milk was in the kitchen before it was discarded by Daniel.",Where was the milk before the bedroom? 
+574,office,"According to the context, the milk was in the kitchen before John moved it to the garden.",Where was the milk before the garden? 
+575,office,"According to the context, the milk was in the bedroom before John moved it to the garden",Where was the milk before the garden? 
+576,office,"According to the context, the milk was picked up by Daniel in the bathroom. Therefore,",Where was the milk before the garden? 
+577,bedroom,"According to the context, the milk was in the office before Daniel journeyed to the office.",Where was the milk before the office? 
+578,bedroom,"According to the text, the milk was in the hallway before it was discarded by Daniel",Where was the milk before the office? 
+579,kitchen,"According to the context, the milk was in the kitchen before Daniel dropped it in the hallway",Where was the milk before the hallway? 
+580,office,"According to the context, the milk was taken to the bedroom before Mary left it there.",Where was the milk before the bedroom? 
+581,hallway,"According to the context, the milk was in the kitchen before Mary moved it to the bedroom",Where was the milk before the bedroom? 
+582,hallway,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+583,bathroom,"According to the context, the football was picked up by Daniel before he moved to the hallway",Where was the football before the hallway? 
+584,bathroom,"According to the context, the football was picked up by Daniel in the garden.",Where was the football before the hallway? 
+585,hallway,"According to the context, the apple was picked up by Daniel in the kitchen before being dropped.",Where was the apple before the bedroom? 
+586,bedroom,"According to the context, the apple was in the kitchen before Mary moved to the garden. So",Where was the apple before the hallway? 
+587,hallway,"According to the context, the apple was picked up by Sandra in the kitchen before moving to",Where was the apple before the bedroom? 
+588,hallway,"According to the passage, the apple was picked up by Daniel in the kitchen. Before the bed",Where was the apple before the bedroom? 
+589,kitchen,"According to the context, the milk was dropped by Daniel in the hallway before he journeyed",Where was the milk before the bedroom? 
+590,garden,"According to the context, the football was in the following locations before the hallway:",Where was the football before the hallway? 
+591,garden,"According to the context, the football was in the garden before John went back to the office.",Where was the football before the hallway? 
+592,kitchen,"According to the context, the milk was picked up by Daniel before he went to the office.",Where was the milk before the office? 
+593,kitchen,"According to the context, the milk was in the kitchen before Daniel left it.",Where was the milk before the office? 
+594,office,"According to the context, the milk was in the office before Mary moved to the bathroom.",Where was the milk before the bathroom? 
+595,office,"According to the context, the milk was in the bathroom before Daniel grabbed it.",Where was the milk before the kitchen? 
+596,garden,"According to the context, the apple was in the garden before Mary moved to the bathroom.",Where was the apple before the bathroom? 
+597,garden,"According to the context, the milk was picked up by Daniel before he journeyed to the bath",Where was the milk before the bathroom? 
+598,kitchen,"According to the context, the football was in the kitchen before the office. Here's the",Where was the football before the office? 
+599,kitchen,"According to the context, the milk was picked up by Sandra in the kitchen before she went",Where was the milk before the garden? 
+600,kitchen,"According to the text, the milk was in the kitchen before Sandra went to the garden.",Where was the milk before the garden? 
+601,kitchen,"According to the text, the milk was in the kitchen before John went to the office.",Where was the milk before the office? 
+602,office,"According to the context, the football was in the office before Mary dropped it in the hallway",Where was the football before the hallway? 
+603,office,"According to the context, the football was in the garden before Mary picked it up and travelled",Where was the football before the hallway? 
+604,office,"According to the text, the football was in the office before Daniel left it. So, the",Where was the football before the bedroom? 
+605,office,"According to the context, the football was in the office before Daniel moved it to the bedroom",Where was the football before the bedroom? 
+606,office,"According to the context, the milk was at the office before Daniel went to the bedroom.",Where was the milk before the bedroom? 
+607,kitchen,"According to the context, the apple was picked up by Sandra in the kitchen. Therefore,",Where was the apple before the office? 
+608,office,"According to the context, the football was in the hallway before Daniel moved it to the bed",Where was the football before the hallway? 
+609,bathroom,"According to the text, the milk was in the hallway before John traveled to the",Where was the milk before the bedroom? 
+610,bedroom,"According to the context, the milk was in the hallway before John took it to the kitchen",Where was the milk before the kitchen? 
+611,garden,"According to the context, the football was in the garden before Mary journeyed to the office.",Where was the football before the office? 
+612,garden,"According to the context, the football was in the garden before Mary journeyed to the office.",Where was the football before the office? 
+613,garden,"According to the text, the football was in the garden before Mary journeyed to the office.",Where was the football before the office? 
+614,bedroom,"According to the passage, the apple was dropped by John in the hallway. So, before",Where was the apple before the kitchen? 
+615,bedroom,"According to the context, the apple was picked up by John in the hallway before he went",Where was the apple before the kitchen? 
+616,bedroom,"According to the context, the milk was in the kitchen before John moved to the office. Therefore",Where was the milk before the office? 
+617,bedroom,"According to the context, the milk was in the kitchen before John took it to the office.",Where was the milk before the office? 
+618,bedroom,"According to the context, the apple was in the office before John journeyed to the bathroom",Where was the apple before the bathroom? 
+619,hallway,"According to the context, the apple was dropped by Sandra in the hallway before she moved",Where was the apple before the office? 
+620,hallway,"According to the context, the apple was in the hallway before Sandra moved to the office",Where was the apple before the office? 
+621,hallway,"According to the context, the apple was moved to the hallway before Daniel went to the office",Where was the apple before the office? 
+622,hallway,"According to the context, the milk was in the kitchen before Sandra journeyed to the bath",Where was the milk before the bathroom? 
+623,garden,"According to the context, the football was in the office before Sandra went to the bathroom",Where was the football before the bathroom? 
+624,garden,"According to the context, the football was in the office before Sandra went to the bathroom",Where was the football before the bathroom? 
+625,bathroom,"According to the context, the apple was in the hallway before the office.",Where was the apple before the office? 
+626,garden,"According to the context, the apple was in the hallway before Sandra went to the bath",Where was the apple before the bathroom? 
+627,bathroom,"According to the context, the apple was in the garden before the office.",Where was the apple before the office? 
+628,kitchen,"According to the context, the milk was in the front room before Daniel went to the garden.",Where was the milk before the garden? 
+629,kitchen,"According to the context, the milk was in the office before Sandra moved it to the garden",Where was the milk before the garden? 
+630,office,"According to the context, the milk was in the kitchen before Mary moved it to the bedroom",Where was the milk before the bedroom? 
+631,office,"According to the context, the milk was in the kitchen before Sandra moved to the bedroom",Where was the milk before the bedroom? 
+632,bedroom,"According to the context, the apple was in the kitchen before the bathroom.",Where was the apple before the bathroom? 
+633,hallway,"Based on the context of the poem, the apple was in the garden before Daniel traveled",Where was the apple before the bathroom? 
+634,bathroom,"According to the text, the apple was dropped by Daniel in the hallway. So, before",Where was the apple before the hallway? 
+635,office,"According to the context, the milk was with Mary before she traveled to the bathroom",Where was the milk before the bathroom? 
+636,bathroom,"According to the context, the milk was in the kitchen before Sandra went to the office.",Where was the milk before the office? 
+637,kitchen,"According to the context, the football was in the bathroom before Sandra put it down in",Where was the football before the garden? 
+638,kitchen,"According to the text, the milk was left at the Maison Lavenue before John travel",Where was the milk before the hallway? 
+639,kitchen,"According to the context, the milk was taken to the hallway by John. Therefore, the",Where was the milk before the hallway? 
+640,office,"According to the context, the milk was originally in the kitchen. It was then moved to the",Where was the milk before the bathroom? 
+641,office,"According to the context, the milk was dropped by John in the kitchen.",Where was the milk before the bathroom? 
+642,office,"According to the text, the milk was in the kitchen before John dropped it in the bathroom",Where was the milk before the bathroom? 
+643,bathroom,"According to the context, the apple was in the kitchen before Sandra picked it up. So",Where was the apple before the kitchen? 
+644,bathroom,"According to the context, the apple was in the hallway before it was picked up by Sand",Where was the apple before the kitchen? 
+645,bathroom,"According to the context, the apple was in the kitchen before Sandra picked it up. So",Where was the apple before the kitchen? 
+646,bedroom,"According to the context, the milk was dropped by Sandra in the bathroom before she went",Where was the milk before the garden? 
+647,garden,"According to the context, the milk was in the kitchen before Sandra moved to the bedroom",Where was the milk before the bedroom? 
+648,office,"According to the context, the milk was in the kitchen before Sandra went to the bathroom",Where was the milk before the bathroom? 
+649,office,"According to the context, the milk was in the kitchen before Sandra went back to the bath",Where was the milk before the bathroom? 
+650,office,"According to the context, the milk was in the kitchen before Sandra moved it to the bath",Where was the milk before the bathroom? 
+651,office,"According to the context, the apple was in the garden before John travelled to the kitchen.",Where was the apple before the kitchen? 
+652,office,"According to the context, the apple was in the garden before John travelled to the kitchen.",Where was the apple before the kitchen? 
+653,garden,"According to the context, the milk was picked up by Sandra in the bathroom.",Where was the milk before the office? 
+654,garden,"According to the context, the milk was dropped by Sandra in the garden before she journeyed",Where was the milk before the office? 
+655,garden,"According to the context, the milk was picked up by Sandra in the garden. Before going",Where was the milk before the office? 
+656,hallway,"According to the context, the apple was in the garden before Mary moved to the bedroom.",Where was the apple before the bedroom? 
+657,office,"According to the context, the football was in the garden before Mary journeyed to the office.",Where was the football before the hallway? 
+658,office,"According to the context, the football was with Mary before she moved to the hallway. So",Where was the football before the hallway? 
+659,bedroom,"According to the context, the apple was moved to the bedroom before Mary moved to the hall",Where was the apple before the hallway? 
+660,hallway,"According to the context, the milk was left in the garden before John moved it to the hall",Where was the milk before the garden? 
+661,hallway,"According to the context, the milk was in the kitchen before Daniel journeyed to the garden.",Where was the milk before the garden? 
+662,kitchen,"According to the context, the football was dropped by Sandra in the kitchen.",Where was the football before the hallway? 
+663,garden,"According to the context, the football was dropped by Sandra in the bathroom.",Where was the football before the office? 
+664,hallway,"According to the context, the apple was in the garden before Mary moved to the kitchen. Therefore",Where was the apple before the bathroom? 
+665,hallway,"According to the context, the apple was in the garden before Sandra moved to the bathroom",Where was the apple before the bathroom? 
+666,bedroom,"According to the context, the football was in the hallway before Sandra moved to the bath",Where was the football before the bathroom? 
+667,bedroom,"According to the context, the football was in the hallway before Sandra moved to the bath",Where was the football before the bathroom? 
+668,bedroom,"According to the context, the apple was:
+
+* In the garden (before John travel",Where was the apple before the hallway? 
+669,garden,"According to the text, the football was in the garden before John journeyed to the office.",Where was the football before the office? 
+670,garden,"According to the text, the football was in the garden before John journeyed to the office.",Where was the football before the office? 
+671,garden,"According to the context, the football was in the garden before John travelled to the office.",Where was the football before the office? 
+672,garden,"According to the text, the football was:
+
+* In John's hands (at",Where was the football before the office? 
+673,kitchen,"According to the context, the milk was in Daniel's possession before he moved it to the",Where was the milk before the garden? 
+674,kitchen,"According to the context, the milk was in Daniel's possession before he journeyed to the",Where was the milk before the garden? 
+675,bedroom,"According to the context, the football was picked up by Mary in the bathroom. Therefore,",Where was the football before the kitchen? 
+676,bedroom,"According to the context, the football was picked up by Daniel in the bathroom. Before Daniel",Where was the football before the kitchen? 
+677,hallway,"According to the context, the football was picked up by Daniel before he went to the bedroom",Where was the football before the bedroom? 
+678,hallway,"According to the context, the football was in the hallway before Daniel moved it to the bed",Where was the football before the bedroom? 
+679,office,"According to the context, the milk was taken to the bathroom by Daniel. Therefore, the",Where was the milk before the bathroom? 
+680,garden,"According to the context, the milk was in the kitchen before Mary moved it to the office.",Where was the milk before the office? 
+681,garden,"According to the context, the milk was in the kitchen before John discarded it in the office",Where was the milk before the office? 
+682,garden,"According to the context, the apple was in the bathroom before the kitchen.",Where was the apple before the kitchen? 
+683,kitchen,"According to the context, the apple was:
+
+1. In John's hand (",Where was the apple before the garden? 
+684,kitchen,"According to the context, the apple was left in the bedroom before Mary moved to the garden",Where was the apple before the garden? 
+685,kitchen,"According to the context, the apple was in the following locations before it ended up in the garden",Where was the apple before the garden? 
+686,bathroom,"According to the context, the football was picked up by John in the garden. Therefore, the",Where was the football before the hallway? 
+687,garden,"According to the context, the milk was left in the hallway by John before he went to",Where was the milk before the bathroom? 
+688,kitchen,"According to the context, the apple was in the bedroom before Daniel moved it to the bath",Where was the apple before the bathroom? 
+689,kitchen,"According to the context, the apple was in the bedroom before it was dropped in the bath",Where was the apple before the bathroom? 
+690,kitchen,"According to the context, the apple was in the kitchen before Daniel went back to the bathroom",Where was the apple before the bathroom? 
+691,garden,"According to the context, the apple was picked up by Daniel in the kitchen, and then it",Where was the apple before the kitchen? 
+692,garden,"According to the context, the apple was in the garden before it was picked up by John and",Where was the apple before the kitchen? 
+693,bathroom,"According to the context, the milk was in the hallway before Mary left it there.",Where was the milk before the hallway? 
+694,bathroom,"According to the context, the milk was in the bathroom before Mary went back to the hall",Where was the milk before the hallway? 
+695,bathroom,"According to the context, the milk was in the bathroom before Mary moved it to the hall",Where was the milk before the hallway? 
+696,bedroom,"According to the context, the apple was in the garden before Mary journeyed to the kitchen.",Where was the apple before the kitchen? 
+697,bathroom,"According to the context, the apple was in the garden before Mary went to the bedroom.",Where was the apple before the bedroom? 
+698,garden,"According to the context, the apple was left in the kitchen before the bedroom.",Where was the apple before the bedroom? 
+699,garden,"According to the context, the apple was left in the kitchen before the bedroom.",Where was the apple before the bedroom? 
+700,bedroom,"According to the context, the apple was in the following locations before John went to the garden:",Where was the apple before the garden? 
+701,bedroom,"According to the context, the apple was in the following locations before John journeyed to the garden",Where was the apple before the garden? 
+702,bedroom,"According to the context, the apple was:
+
+* In John's hand before he",Where was the apple before the garden? 
+703,garden,"According to the context, the apple was in the bedroom before Daniel moved to the hallway",Where was the apple before the hallway? 
+704,office,"According to the context, the apple was in the office before Daniel moved it to the garden.",Where was the apple before the garden? 
+705,hallway,"According to the text, the football was in the hallway before Sandra moved it to the",Where was the football before the kitchen? 
+706,hallway,"According to the context, the football was in the front of the poorhouse before the kitchen.",Where was the football before the kitchen? 
+707,hallway,"According to the text, the football was in the hallway before Sandra moved it to the",Where was the football before the kitchen? 
+708,bathroom,"According to the text, the milk was in the hallway before Sandra grabbed it",Where was the milk before the hallway? 
+709,bathroom,"According to the context, the milk was in the hallway before Sandra grabbed it",Where was the milk before the hallway? 
+710,bedroom,"According to the context, the football was in the bathroom before the kitchen.",Where was the football before the kitchen? 
+711,hallway,"According to the context, the apple was in the garden before Sandra put it down in the",Where was the apple before the bedroom? 
+712,hallway,"According to the context, the apple was in the garden before Sandra moved it to the bed",Where was the apple before the bedroom? 
+713,hallway,"According to the context, the football was in the kitchen before Mary went to the bedroom.",Where was the football before the bedroom? 
+714,hallway,"According to the context, the milk was in the kitchen before John took it to the office.",Where was the milk before the office? 
+715,hallway,"According to the text, the apple was:
+
+* In the bedroom (before Sand",Where was the apple before the bedroom? 
+716,hallway,"According to the context, the apple was:
+
+1. In the hallway
+2",Where was the apple before the bedroom? 
+717,bedroom,"According to the context, the apple was in the bedroom before John moved to the bathroom",Where was the apple before the bathroom? 
+718,office,"According to the context, the milk was in the kitchen before John moved to the bedroom.",Where was the milk before the bedroom? 
+719,bathroom,"According to the context, the milk was in the bathroom before John discarded it.",Where was the milk before the office? 
+720,hallway,"According to the context, the milk was in the kitchen before Sandra journeyed to the garden",Where was the milk before the garden? 
+721,hallway,"According to the text, the milk was in the kitchen before Sandra journeyed to the garden",Where was the milk before the garden? 
+722,hallway,"According to the text, the milk was dropped by Sandra in the bathroom before she journey",Where was the milk before the garden? 
+723,kitchen,"According to the context, the football was in the bedroom before Mary journeyed there.",Where was the football before the bedroom? 
+724,kitchen,"According to the context, the football was left in the kitchen before Mary went to the bedroom",Where was the football before the bedroom? 
+725,kitchen,"According to the context, the football was in the kitchen before Mary went to the bedroom.",Where was the football before the bedroom? 
+726,hallway,"According to the context, the football was left in the bedroom before the bathroom.",Where was the football before the bathroom? 
+727,bathroom,"According to the context, the football was in the bedroom before the hallway. The sentence",Where was the football before the hallway? 
+728,garden,"According to the context, the milk was picked up by Sandra before she journeyed to the",Where was the milk before the hallway? 
+729,garden,"According to the context, the milk was in the kitchen before Sandra picked it up and moved",Where was the milk before the hallway? 
+730,garden,"According to the context, the milk was picked up by Sandra before she journeyed to the",Where was the milk before the hallway? 
+731,bedroom,"According to the context, the football was dropped by Mary in the kitchen. Before the hallway",Where was the football before the hallway? 
+732,bedroom,"According to the context, the football was with Mary before she moved to the hallway. So",Where was the football before the hallway? 
+733,bedroom,"According to the context, the milk was in the kitchen before Daniel dropped it in the hallway",Where was the milk before the hallway? 
+734,bedroom,"According to the context, the milk was in the office before Daniel went back to the hallway",Where was the milk before the hallway? 
+735,bedroom,"According to the context, the milk was in the hallway before John put it down.",Where was the milk before the hallway? 
+736,bedroom,"According to the context, the milk was in the bedroom before John moved to the hallway",Where was the milk before the hallway? 
+737,bedroom,"According to the context, the milk was in the hallway before John moved it. So,",Where was the milk before the hallway? 
+738,garden,"According to the context, the milk was in the garden before Daniel travelled to the office.",Where was the milk before the office? 
+739,garden,"According to the context, the milk was in the bedroom before John went to get it for",Where was the milk before the office? 
+740,bedroom,"According to the context, the milk was in the kitchen before Daniel moved to the hallway.",Where was the milk before the hallway? 
+741,bedroom,"According to the context, the milk was picked up by Mary in the kitchen, dropped in the",Where was the milk before the hallway? 
+742,bathroom,"According to the context, the football was in the kitchen before Sandra moved it to the garden",Where was the football before the garden? 
+743,hallway,"According to the context, the milk was in the bathroom before John picked it up.",Where was the milk before the bathroom? 
+744,kitchen,"According to the context, the milk was in the kitchen before Daniel moved to the garden.",Where was the milk before the garden? 
+745,kitchen,"According to the context, the football was in the kitchen before Sandra went to the bathroom",Where was the football before the bathroom? 
+746,kitchen,"According to the context, the football was in the office before Sandra moved it to the bath",Where was the football before the bathroom? 
+747,bedroom,"According to the context, the apple was in the bedroom before Sandra moved it to the",Where was the apple before the garden? 
+748,garden,"According to the context, the apple was dropped in the hallway.",Where was the apple before the hallway? 
+749,bedroom,"According to the context, the apple was dropped by Sandra in the hallway before she moved",Where was the apple before the garden? 
+750,bedroom,"According to the text, the apple was dropped by Sandra in the hallway.",Where was the apple before the garden? 
+751,garden,"According to the context, the milk was in the hallway before John journeyed to the office",Where was the milk before the office? 
+752,hallway,"According to the context, the milk was in the hallway before Mary moved it to the garden",Where was the milk before the garden? 
+753,hallway,"According to the context, the milk was in the office before John moved it to the garden.",Where was the milk before the garden? 
+754,kitchen,"According to the context, the football was in the garden before Mary moved to the office. So",Where was the football before the office? 
+755,bathroom,"According to the context, the football was in the hallway before Mary moved it to the garden",Where was the football before the hallway? 
+756,bathroom,"According to the context, the football was in the bedroom before Mary moved it to the hall",Where was the football before the hallway? 
+757,hallway,"According to the context, the milk was in the kitchen before Sandra moved to the office.",Where was the milk before the office? 
+758,office,"According to the context, the milk was in the kitchen before Sandra went to the bathroom",Where was the milk before the bathroom? 
+759,bedroom,"According to the context, the apple was in the kitchen before Mary went to the garden. So",Where was the apple before the garden? 
+760,kitchen,"According to the text, the apple was in the hallway before Mary moved it to the bed",Where was the apple before the bedroom? 
+761,garden,"According to the context, the apple was in the hallway before Mary went to the kitchen.",Where was the apple before the kitchen? 
+762,bathroom,"According to the context, the football was dropped by John in the lake before he plunged",Where was the football before the hallway? 
+763,bathroom,"According to the context, the football was in the office before the garden.",Where was the football before the garden? 
+764,garden,"According to the text, the football was left in the office before the bedroom.",Where was the football before the bedroom? 
+765,bathroom,"According to the text, the football was in the office before the garden.",Where was the football before the garden? 
+766,office,"According to the context, the football was in the bathroom before the hallway.",Where was the football before the hallway? 
+767,office,"According to the context, the football was in the bathroom before the hallway.",Where was the football before the hallway? 
+768,garden,"According to the context, the milk was in the kitchen before John journeyed to the office.",Where was the milk before the office? 
+769,garden,"According to the context, the milk was in the garden before John journeyed to the office.",Where was the milk before the office? 
+770,garden,"According to the context, the milk was in the garden before John picked it up and journeyed",Where was the milk before the office? 
+771,garden,"According to the context, the apple was in the bedroom before John moved it to the hall",Where was the apple before the hallway? 
+772,bathroom,"According to the context, the milk was in the office before John moved it to the hallway",Where was the milk before the hallway? 
+773,bathroom,"According to the context, the milk was in the office before John moved it to the hallway",Where was the milk before the hallway? 
+774,garden,"According to the context, the milk was in the office before John moved it to the kitchen.",Where was the milk before the kitchen? 
+775,bedroom,"According to the context, the football was:
+
+* In Daniel's possession before he",Where was the football before the hallway? 
+776,garden,"According to the context, the milk was in Mary's possession before she took it to the",Where was the milk before the hallway? 
+777,garden,"According to the passage, the milk was in the kitchen before John moved it to the hallway",Where was the milk before the hallway? 
+778,garden,"According to the context, the milk was in the bedroom before Mary moved it to the kitchen",Where was the milk before the hallway? 
+779,garden,"According to the context, the milk was in the hallway before John moved it to the bed",Where was the milk before the hallway? 
+780,bedroom,"According to the context, the milk was in the kitchen before John took it and put it in",Where was the milk before the garden? 
+781,office,"According to the context, the milk was in the kitchen before John went back to the bedroom",Where was the milk before the bedroom? 
+782,office,"According to the context, the milk was in the kitchen before John went back to the bedroom",Where was the milk before the bedroom? 
+783,bedroom,"According to the context, the apple was:
+
+1. Mary's hand (before",Where was the apple before the office? 
+784,bedroom,"According to the context, the apple was in the garden before Mary went to the office.",Where was the apple before the office? 
+785,office,"According to the context, the apple was dropped by Mary in the hallway. So, before",Where was the apple before the garden? 
+786,office,"According to the context, the milk was in the office before Mary went to the kitchen.",Where was the milk before the kitchen? 
+787,hallway,"According to the context, the apple was picked up by Daniel in the hallway.",Where was the apple before the bedroom? 
+788,hallway,"According to the context, the apple was picked up by Daniel and was in his possession before he",Where was the apple before the bedroom? 
+789,kitchen,"According to the text, the football was in the kitchen before the hallway.",Where was the football before the hallway? 
+790,kitchen,"According to the context, the football was with Mary before she went to the hallway. So",Where was the football before the hallway? 
+791,hallway,"According to the context, the milk was in the kitchen before Mary took it to the garden.",Where was the milk before the garden? 
+792,bathroom,"According to the context, the milk was in the kitchen before John picked it up and took it",Where was the milk before the garden? 
+793,bedroom,"According to the text, the milk was put down in the bathroom. Therefore, the answer",Where was the milk before the bathroom? 
+794,kitchen,"According to the context, the milk was in the bathroom before Daniel moved it to the hall",Where was the milk before the hallway? 
+795,bathroom,"According to the context, the milk was picked up by Daniel and then put down again. Before",Where was the milk before the office? 
+796,garden,"According to the context, the milk was picked up by Daniel and then put down in the bath",Where was the milk before the bathroom? 
+797,bedroom,"According to the context, the apple was picked up by Daniel in the hallway. Before it",Where was the apple before the bathroom? 
+798,hallway,"According to the context, the football was in the hallway before Sandra went to the kitchen",Where was the football before the kitchen? 
+799,hallway,"According to the context, the football was:
+
+* Grabbed by Sandra in",Where was the football before the kitchen? 
+800,hallway,"According to the context, the football was in the bedroom before Sandra moved it to the",Where was the football before the kitchen? 
+801,garden,"According to the context, the football was in the kitchen before Mary moved it to the bedroom",Where was the football before the bedroom? 
+802,hallway,"According to the context, the apple was in the top drawer of the dresser before Mary",Where was the apple before the bedroom? 
+803,garden,"According to the context, the apple was in the bedroom before Mary moved it to the hall",Where was the apple before the hallway? 
+804,garden,"According to the context, the milk was in the kitchen before the office.",Where was the milk before the office? 
+805,bathroom,"According to the context, the milk was in the kitchen before Sandra grabbed it and",Where was the milk before the bedroom? 
+806,bathroom,"According to the context, the apple was in the hands of Daniel before he moved to the bath",Where was the apple before the garden? 
+807,garden,"According to the context, the apple was in the bedroom before Daniel moved it to the office",Where was the apple before the office? 
+808,garden,"According to the context, the apple was picked up by Daniel before he journeyed to the office",Where was the apple before the office? 
+809,garden,"According to the context, the apple was picked up by Daniel and then moved to the bathroom",Where was the apple before the office? 
+810,hallway,"According to the context, the apple was in the hallway before it was moved to the garden",Where was the apple before the garden? 
+811,hallway,"According to the text, the football was in the garden before John discarded it. So,",Where was the football before the kitchen? 
+812,hallway,"According to the context, the football was in the garden before John moved it to the kitchen.",Where was the football before the kitchen? 
+813,hallway,"According to the context, the football was in the hallway before Sandra picked it up and",Where was the football before the kitchen? 
+814,kitchen,"According to the context, the football was in the garden before the characters reached the hallway.",Where was the football before the hallway? 
+815,hallway,"According to the context, the football was in the hallway before the kitchen.",Where was the football before the kitchen? 
+816,kitchen,"According to the context, the milk was in the kitchen before Sandra went to the garden.",Where was the milk before the garden? 
+817,hallway,"According to the context, the milk was in the kitchen before Mary travelled to the bathroom",Where was the milk before the bathroom? 
+818,office,"According to the context, the football was:
+
+* In Mary's possession in the",Where was the football before the hallway? 
+819,office,"According to the context, the football was:
+
+* In Mary's possession before she",Where was the football before the hallway? 
+820,office,"According to the context, the football was:
+
+* In Mary's hands before she",Where was the football before the hallway? 
+821,kitchen,"According to the context, the milk was in the house before John went to the bathroom.",Where was the milk before the bathroom? 
+822,kitchen,"According to the context, the milk was in the kitchen before John went to the bathroom.",Where was the milk before the bathroom? 
+823,bathroom,"According to the context, the football was in the garden before Mary moved to the bedroom.",Where was the football before the bedroom? 
+824,bathroom,"According to the context, the football was in the garden before the bedroom.",Where was the football before the bedroom? 
+825,hallway,"According to the context, the milk was in the kitchen before Mary went to the bedroom.",Where was the milk before the bedroom? 
+826,bathroom,"According to the context, the apple was in the bathroom before Mary journeyed to the hall",Where was the apple before the hallway? 
+827,bathroom,"According to the context, the apple was in the bathroom before Mary journeyed to the hall",Where was the apple before the hallway? 
+828,bathroom,"According to the text, the apple was in the bathroom before Mary moved it to the hall",Where was the apple before the hallway? 
+829,bathroom,"According to the context, the apple was in the hallway before Mary moved to the bedroom",Where was the apple before the hallway? 
+830,bathroom,"According to the context, the apple was in the kitchen before the hallway.",Where was the apple before the hallway? 
+831,hallway,"According to the text, the football was in the hallway before the Brownies moved to the",Where was the football before the garden? 
+832,bathroom,"According to the text, the milk was left in the bedroom before Sandra travelled to",Where was the milk before the hallway? 
+833,bathroom,"According to the context, the milk was left in the bedroom before the hallway.",Where was the milk before the hallway? 
+834,bathroom,"According to the context, the milk was left in the kitchen before Sandra moved to the hall",Where was the milk before the hallway? 
+835,hallway,"According to the context, the milk was in the garden before Sandra moved it to the kitchen",Where was the milk before the kitchen? 
+836,hallway,"According to the context, the milk was in the garden before Sandra moved it to the office",Where was the milk before the kitchen? 
+837,bathroom,"According to the context, the football was picked up by Mary before she traveled to the",Where was the football before the office? 
+838,bedroom,"According to the context, the football was in the bathroom before Mary picked it up. The",Where was the football before the bathroom? 
+839,bedroom,"According to the text, the football was picked up by Daniel in the kitchen. Before the office",Where was the football before the office? 
+840,hallway,"According to the context, the milk was in the hallway before John journeyed to the bed",Where was the milk before the bedroom? 
+841,hallway,"According to the context, the milk was in the kitchen before John went to the bedroom.",Where was the milk before the bedroom? 
+842,hallway,"According to the context, the milk was in the kitchen before John went to the bedroom.",Where was the milk before the bedroom? 
+843,bedroom,"According to the context, the apple was in the garden before John went to the office. So",Where was the apple before the office? 
+844,hallway,"According to the context, the apple was in the hallway before Mary went to the bedroom",Where was the apple before the bedroom? 
+845,hallway,"According to the context, the football was in the hallway before Sandra moved it to the",Where was the football before the bedroom? 
+846,bedroom,"According to the context, the milk was left by Mary before she moved to the bathroom.",Where was the milk before the bathroom? 
+847,hallway,"According to the context, the football was in the kitchen before Big Lazy-bones went",Where was the football before the bedroom? 
+848,kitchen,"According to the context, the milk was grabbed by Daniel after he left the milk.",Where was the milk before the bathroom? 
+849,office,"According to the context, the football was in the kitchen before Sandra moved to the bathroom",Where was the football before the bathroom? 
+850,office,"According to the context, the football was:
+
+* In Mary's hands in the",Where was the football before the kitchen? 
+851,bedroom,"According to the context, the apple was in the garden before Daniel journeyed to the bedroom",Where was the apple before the office? 
+852,bedroom,"According to the context, the apple was moved to the office by Daniel. Therefore, before the",Where was the apple before the office? 
+853,bathroom,"According to the context, the milk was in the kitchen before Mary moved to the bedroom.",Where was the milk before the bedroom? 
+854,hallway,"According to the context, the football was in the garden before Mary moved it to the hallway",Where was the football before the garden? 
+855,garden,"According to the text, the milk was in the garden before John moved it to the bedroom",Where was the milk before the bedroom? 
+856,kitchen,"According to the context, the football was in the garden before John moved it to the bedroom",Where was the football before the garden? 
+857,bedroom,"According to the context, the football was in the hallway before the office.",Where was the football before the office? 
+858,garden,"According to the text, the football was in the hallway before John moved it to the bed",Where was the football before the bedroom? 
+859,hallway,"According to the context, the football was in the garden before the kitchen. The sentence ""John",Where was the football before the kitchen? 
+860,hallway,"According to the context, the football was with John before he went to the kitchen. So,",Where was the football before the kitchen? 
+861,hallway,"According to the context, the football was in the hallway before the kitchen.",Where was the football before the kitchen? 

@@ -1,0 +1,863 @@
+,target,output,question
+0,office,garden</s><s>,Where was the apple before the bathroom? 
+1,office,garden</s><s>,Where was the apple before the hallway? 
+2,office,garden</s><s>,Where was the apple before the hallway? 
+3,bathroom,garden</s> office,Where was the football before the garden? 
+4,bathroom,garden</s> office,Where was the football before the garden? 
+5,garden,garden</s><s>,Where was the apple before the bathroom? 
+6,kitchen,garden</s> office,Where was the milk before the office? 
+7,kitchen,garden</s> office,Where was the apple before the office? 
+8,kitchen,garden</s> office,Where was the apple before the office? 
+9,garden,garden</s> office,Where was the apple before the bedroom? 
+10,garden,garden</s> office,Where was the apple before the bedroom? 
+11,garden,garden</s><s>,Where was the milk before the bathroom? 
+12,garden,garden</s> office,Where was the milk before the bathroom? 
+13,garden,garden</s><s>,Where was the milk before the bathroom? 
+14,kitchen,garden</s> office,Where was the football before the garden? 
+15,kitchen,garden</s> office,Where was the football before the garden? 
+16,garden,garden</s><s>,Where was the milk before the bedroom? 
+17,garden,garden</s><s>,Where was the milk before the bedroom? 
+18,bedroom,garden</s><s>,Where was the football before the bathroom? 
+19,garden,garden</s><s>,Where was the football before the hallway? 
+20,garden,garden</s><s>,Where was the football before the office? 
+21,hallway,garden</s> office,Where was the football before the garden? 
+22,office,garden</s><s>,Where was the milk before the kitchen? 
+23,kitchen,garden</s> office,Where was the milk before the bedroom? 
+24,bathroom,garden</s> office,Where was the football before the bedroom? 
+25,office,garden</s><s>,Where was the football before the bedroom? 
+26,garden,garden</s> office,Where was the football before the office? 
+27,garden,garden</s> office,Where was the football before the office? 
+28,garden,garden</s><s>,Where was the apple before the office? 
+29,bathroom,garden</s> office,Where was the apple before the hallway? 
+30,office,garden</s><s>,Where was the apple before the kitchen? 
+31,office,garden</s><s>,Where was the apple before the kitchen? 
+32,hallway,garden</s> office,Where was the milk before the bedroom? 
+33,bedroom,garden</s><s>,Where was the milk before the garden? 
+34,hallway,garden</s> office,Where was the apple before the bathroom? 
+35,hallway,garden</s> office,Where was the football before the kitchen? 
+36,garden,garden</s><s>,Where was the football before the hallway? 
+37,garden,garden</s> office,Where was the football before the hallway? 
+38,garden,garden</s><s>,Where was the milk before the hallway? 
+39,hallway,garden</s> office,Where was the milk before the bathroom? 
+40,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+41,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+42,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+43,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+44,bedroom,garden</s><s>,Where was the milk before the hallway? 
+45,kitchen,garden</s> office,Where was the apple before the garden? 
+46,garden,garden</s> office,Where was the apple before the bedroom? 
+47,garden,garden</s> office,Where was the football before the kitchen? 
+48,bathroom,garden</s> office,Where was the apple before the bedroom? 
+49,bathroom,garden</s> office,Where was the apple before the bedroom? 
+50,office,garden</s><s>,Where was the football before the hallway? 
+51,kitchen,garden</s> office,Where was the apple before the office? 
+52,office,garden</s><s>,Where was the football before the garden? 
+53,office,garden</s><s>,Where was the football before the bedroom? 
+54,garden,garden</s><s>,Where was the apple before the hallway? 
+55,hallway,garden</s> office,Where was the football before the bedroom? 
+56,bathroom,garden</s> office,Where was the football before the hallway? 
+57,bedroom,garden</s><s>,Where was the football before the kitchen? 
+58,garden,garden</s><s>,Where was the football before the bathroom? 
+59,garden,garden</s><s>,Where was the football before the bathroom? 
+60,bathroom,garden</s> office,Where was the milk before the office? 
+61,bathroom,garden</s> office,Where was the milk before the office? 
+62,bathroom,garden</s> office,Where was the milk before the office? 
+63,garden,garden</s> office,Where was the football before the bedroom? 
+64,kitchen,garden</s> office,Where was the football before the bathroom? 
+65,office,garden</s><s>,Where was the football before the hallway? 
+66,hallway,garden</s> office,Where was the apple before the garden? 
+67,bathroom,garden</s> office,Where was the milk before the kitchen? 
+68,kitchen,garden</s> office,Where was the apple before the bathroom? 
+69,garden,garden</s><s>,Where was the milk before the hallway? 
+70,hallway,garden</s> office,Where was the milk before the office? 
+71,garden,garden</s><s>,Where was the milk before the hallway? 
+72,office,garden</s><s>,Where was the apple before the bathroom? 
+73,office,garden</s><s>,Where was the apple before the bathroom? 
+74,kitchen,garden</s> office,Where was the milk before the office? 
+75,kitchen,garden</s> office,Where was the milk before the office? 
+76,kitchen,garden</s> office,Where was the milk before the office? 
+77,bathroom,garden</s> office,Where was the apple before the hallway? 
+78,bathroom,garden</s> office,Where was the milk before the bedroom? 
+79,garden,garden</s><s>,Where was the apple before the bathroom? 
+80,bathroom,garden</s> office,Where was the milk before the kitchen? 
+81,bathroom,garden</s> office,Where was the milk before the kitchen? 
+82,garden,garden</s><s>,Where was the milk before the bathroom? 
+83,bathroom,garden</s> office,Where was the football before the bedroom? 
+84,hallway,garden</s> office,Where was the milk before the kitchen? 
+85,hallway,garden</s> office,Where was the milk before the kitchen? 
+86,garden,garden</s> office,Where was the milk before the bedroom? 
+87,bedroom,garden</s><s>,Where was the football before the kitchen? 
+88,kitchen,garden</s> office,Where was the apple before the hallway? 
+89,kitchen,garden</s> office,Where was the apple before the hallway? 
+90,hallway,garden</s> office,Where was the apple before the kitchen? 
+91,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+92,bathroom,garden</s> office,Where was the milk before the bedroom? 
+93,hallway,garden</s> office,Where was the football before the bathroom? 
+94,garden,garden</s><s>,Where was the football before the hallway? 
+95,garden,garden</s><s>,Where was the football before the hallway? 
+96,hallway,garden</s> office,Where was the apple before the bathroom? 
+97,hallway,garden</s> office,Where was the apple before the bathroom? 
+98,garden,garden</s><s>,Where was the apple before the hallway? 
+99,garden,garden</s><s>,Where was the apple before the hallway? 
+100,hallway,garden</s> office,Where was the football before the kitchen? 
+101,hallway,garden</s> office,Where was the football before the kitchen? 
+102,kitchen,garden</s> office,Where was the apple before the garden? 
+103,hallway,garden</s> office,Where was the milk before the bathroom? 
+104,hallway,garden</s> office,Where was the milk before the bathroom? 
+105,hallway,garden</s> office,Where was the milk before the bathroom? 
+106,garden,garden</s><s>,Where was the apple before the kitchen? 
+107,garden,garden</s><s>,Where was the milk before the hallway? 
+108,garden,garden</s><s>,Where was the milk before the hallway? 
+109,garden,garden</s> office,Where was the milk before the hallway? 
+110,kitchen,garden</s> office,Where was the milk before the garden? 
+111,kitchen,garden</s> office,Where was the milk before the garden? 
+112,kitchen,garden</s> office,Where was the milk before the garden? 
+113,office,garden</s><s>,Where was the apple before the kitchen? 
+114,office,garden</s><s>,Where was the apple before the kitchen? 
+115,garden,garden</s> office,Where was the milk before the kitchen? 
+116,bathroom,garden</s> office,Where was the milk before the office? 
+117,bathroom,garden</s> office,Where was the milk before the office? 
+118,bathroom,garden</s> office,Where was the milk before the office? 
+119,bathroom,garden</s> office,Where was the apple before the hallway? 
+120,garden,garden</s><s>,Where was the football before the kitchen? 
+121,garden,garden</s> office,Where was the football before the kitchen? 
+122,garden,garden</s><s>,Where was the football before the kitchen? 
+123,bedroom,garden</s><s>,Where was the football before the garden? 
+124,bedroom,garden</s><s>,Where was the football before the garden? 
+125,kitchen,garden</s> office,Where was the milk before the bedroom? 
+126,kitchen,garden</s> office,Where was the milk before the bedroom? 
+127,kitchen,garden</s> office,Where was the milk before the bedroom? 
+128,bathroom,garden</s> office,Where was the football before the hallway? 
+129,bathroom,garden</s> office,Where was the football before the hallway? 
+130,office,garden</s><s>,Where was the football before the garden? 
+131,garden,garden</s><s>,Where was the football before the hallway? 
+132,garden,garden</s><s>,Where was the football before the hallway? 
+133,garden,garden</s><s>,Where was the football before the hallway? 
+134,hallway,garden</s> office,Where was the milk before the kitchen? 
+135,bathroom,garden</s> office,Where was the apple before the office? 
+136,bathroom,garden</s> office,Where was the apple before the office? 
+137,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+138,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+139,garden,garden</s><s>,Where was the apple before the hallway? 
+140,office,garden</s><s>,Where was the football before the kitchen? 
+141,office,garden</s><s>,Where was the apple before the bedroom? 
+142,office,garden</s><s>,Where was the football before the kitchen? 
+143,garden,garden</s><s>,Where was the milk before the office? 
+144,bathroom,garden</s> office,Where was the milk before the bedroom? 
+145,kitchen,garden</s> office,Where was the milk before the office? 
+146,kitchen,garden</s> office,Where was the milk before the office? 
+147,kitchen,garden</s> office,Where was the milk before the office? 
+148,kitchen,garden</s> office,Where was the milk before the garden? 
+149,bedroom,garden</s><s>,Where was the milk before the kitchen? 
+150,bathroom,garden</s><s>,Where was the football before the kitchen? 
+151,bathroom,garden</s> office,Where was the football before the kitchen? 
+152,bathroom,garden</s> office,Where was the football before the office? 
+153,bathroom,garden</s> office,Where was the football before the office? 
+154,bathroom,garden</s> office,Where was the milk before the office? 
+155,office,garden</s><s>,Where was the football before the bedroom? 
+156,bedroom,garden</s><s>,Where was the football before the garden? 
+157,kitchen,garden</s> office,Where was the football before the garden? 
+158,kitchen,garden</s> office,Where was the football before the garden? 
+159,hallway,garden</s> office,Where was the football before the bedroom? 
+160,garden,garden</s> office,Where was the milk before the bedroom? 
+161,bathroom,garden</s> office,Where was the football before the hallway? 
+162,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+163,kitchen,garden</s> office,Where was the apple before the office? 
+164,kitchen,garden</s> office,Where was the football before the bathroom? 
+165,hallway,garden</s> office,Where was the milk before the kitchen? 
+166,bedroom,garden</s><s>,Where was the football before the bathroom? 
+167,hallway,garden</s> office,Where was the milk before the kitchen? 
+168,hallway,garden</s> office,Where was the milk before the kitchen? 
+169,hallway,garden</s> office,Where was the apple before the office? 
+170,bathroom,garden</s> office,Where was the apple before the office? 
+171,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+172,bathroom,garden</s> office,Where was the apple before the office? 
+173,garden,garden</s> office,Where was the milk before the bedroom? 
+174,bedroom,garden</s><s>,Where was the milk before the garden? 
+175,bedroom,garden</s><s>,Where was the milk before the garden? 
+176,bedroom,garden</s><s>,Where was the milk before the garden? 
+177,bedroom,garden</s><s>,Where was the apple before the garden? 
+178,kitchen,garden</s> office,Where was the apple before the hallway? 
+179,kitchen,garden</s> office,Where was the apple before the hallway? 
+180,kitchen,garden</s> office,Where was the milk before the office? 
+181,garden,garden</s><s>,Where was the milk before the kitchen? 
+182,bathroom,garden</s> office,Where was the football before the hallway? 
+183,hallway,garden</s> office,Where was the football before the kitchen? 
+184,hallway,garden</s> office,Where was the football before the kitchen? 
+185,kitchen,garden</s> office,Where was the milk before the garden? 
+186,office,garden</s><s>,Where was the football before the hallway? 
+187,hallway,garden</s> office,Where was the apple before the bedroom? 
+188,hallway,garden</s> office,Where was the apple before the bedroom? 
+189,hallway,garden</s> office,Where was the apple before the bedroom? 
+190,bedroom,garden</s><s>,Where was the milk before the garden? 
+191,bedroom,garden</s><s>,Where was the milk before the garden? 
+192,bedroom,garden</s><s>,Where was the milk before the garden? 
+193,bedroom,garden</s><s>,Where was the milk before the office? 
+194,bedroom,garden</s><s>,Where was the milk before the office? 
+195,bedroom,garden</s><s>,Where was the milk before the hallway? 
+196,bedroom,garden</s><s>,Where was the milk before the hallway? 
+197,bedroom,garden</s><s>,Where was the milk before the hallway? 
+198,hallway,garden</s> office,Where was the apple before the bedroom? 
+199,hallway,garden</s> office,Where was the football before the bedroom? 
+200,kitchen,garden</s> office,Where was the apple before the garden? 
+201,kitchen,garden</s> office,Where was the apple before the garden? 
+202,bedroom,garden</s><s>,Where was the milk before the office? 
+203,bedroom,garden</s><s>,Where was the milk before the office? 
+204,bedroom,garden</s><s>,Where was the milk before the office? 
+205,bedroom,garden</s><s>,Where was the milk before the office? 
+206,kitchen,garden</s> office,Where was the football before the bedroom? 
+207,bathroom,garden</s> office,Where was the football before the bedroom? 
+208,bathroom,garden</s> office,Where was the football before the bedroom? 
+209,bathroom,garden</s> office,Where was the football before the garden? 
+210,bedroom,garden</s><s>,Where was the milk before the office? 
+211,bedroom,garden</s><s>,Where was the milk before the office? 
+212,bedroom,garden</s><s>,Where was the milk before the office? 
+213,kitchen,garden</s> office,Where was the milk before the garden? 
+214,kitchen,garden</s> office,Where was the milk before the garden? 
+215,hallway,garden</s> office,Where was the football before the bathroom? 
+216,hallway,garden</s> office,Where was the football before the bathroom? 
+217,hallway,garden</s> office,Where was the football before the bathroom? 
+218,bathroom,garden</s> office,Where was the milk before the kitchen? 
+219,garden,garden</s><s>,Where was the football before the hallway? 
+220,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+221,bathroom,garden</s> office,Where was the apple before the hallway? 
+222,bathroom,garden</s> office,Where was the apple before the hallway? 
+223,bathroom,garden</s> office,Where was the apple before the hallway? 
+224,bathroom,garden</s> office,Where was the apple before the hallway? 
+225,hallway,garden</s> office,Where was the apple before the bathroom? 
+226,office,garden</s><s>,Where was the milk before the garden? 
+227,bathroom,garden</s> office,Where was the milk before the office? 
+228,bathroom,garden</s> office,Where was the milk before the office? 
+229,hallway,garden</s> office,Where was the football before the bedroom? 
+230,bathroom,garden</s> office,Where was the milk before the office? 
+231,bathroom,garden</s> office,Where was the apple before the garden? 
+232,bathroom,garden</s> office,Where was the apple before the garden? 
+233,bathroom,garden</s> office,Where was the apple before the garden? 
+234,garden,garden</s><s>,Where was the football before the hallway? 
+235,garden,garden</s><s>,Where was the football before the kitchen? 
+236,garden,garden</s> office,Where was the football before the kitchen? 
+237,kitchen,garden</s> office,Where was the apple before the bathroom? 
+238,bathroom,garden</s> office,Where was the apple before the hallway? 
+239,office,garden</s><s>,Where was the football before the bedroom? 
+240,kitchen,garden</s> office,Where was the football before the garden? 
+241,bedroom,garden</s><s>,Where was the football before the hallway? 
+242,bathroom,garden</s> office,Where was the apple before the garden? 
+243,office,garden</s><s>,Where was the apple before the bathroom? 
+244,kitchen,garden</s> office,Where was the apple before the bedroom? 
+245,kitchen,garden</s> office,Where was the apple before the bedroom? 
+246,kitchen,garden</s> office,Where was the apple before the bedroom? 
+247,office,garden</s><s>,Where was the apple before the bathroom? 
+248,office,garden</s><s>,Where was the apple before the bathroom? 
+249,bathroom,garden</s> office,Where was the apple before the office? 
+250,office,garden</s><s>,Where was the milk before the bedroom? 
+251,office,garden</s><s>,Where was the milk before the bedroom? 
+252,garden,garden</s> office,Where was the football before the kitchen? 
+253,bedroom,garden</s><s>,Where was the apple before the garden? 
+254,garden,garden</s> office,Where was the apple before the kitchen? 
+255,kitchen,garden</s> office,Where was the milk before the bathroom? 
+256,garden,garden</s><s>,Where was the football before the bathroom? 
+257,garden,garden</s><s>,Where was the apple before the bathroom? 
+258,hallway,garden</s> office,Where was the milk before the office? 
+259,office,garden</s><s>,Where was the milk before the bathroom? 
+260,office,garden</s><s>,Where was the milk before the bathroom? 
+261,office,garden</s><s>,Where was the milk before the bathroom? 
+262,bedroom,garden</s><s>,Where was the football before the office? 
+263,hallway,garden</s> office,Where was the football before the bathroom? 
+264,hallway,garden</s> office,Where was the football before the bathroom? 
+265,hallway,garden</s> office,Where was the football before the bathroom? 
+266,bathroom,garden</s> office,Where was the milk before the hallway? 
+267,office,garden</s><s>,Where was the football before the bathroom? 
+268,office,garden</s><s>,Where was the football before the bathroom? 
+269,bathroom,garden</s> office,Where was the football before the garden? 
+270,hallway,garden</s> office,Where was the football before the bedroom? 
+271,hallway,garden</s> office,Where was the football before the bedroom? 
+272,office,garden</s><s>,Where was the milk before the hallway? 
+273,office,garden</s><s>,Where was the milk before the hallway? 
+274,kitchen,garden</s> office,Where was the milk before the garden? 
+275,kitchen,garden</s> office,Where was the milk before the garden? 
+276,garden,garden</s><s>,Where was the milk before the hallway? 
+277,bedroom,garden</s><s>,Where was the football before the bathroom? 
+278,hallway,garden</s> office,Where was the milk before the bedroom? 
+279,bedroom,garden</s><s>,Where was the football before the bathroom? 
+280,hallway,garden</s> office,Where was the apple before the bedroom? 
+281,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+282,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+283,office,garden</s><s>,Where was the apple before the bathroom? 
+284,office,garden</s><s>,Where was the apple before the bathroom? 
+285,office,garden</s><s>,Where was the apple before the bathroom? 
+286,garden,garden</s><s>,Where was the football before the bedroom? 
+287,garden,garden</s><s>,Where was the milk before the bedroom? 
+288,garden,garden</s><s>,Where was the milk before the bedroom? 
+289,garden,garden</s><s>,Where was the football before the bedroom? 
+290,garden,garden</s> office,Where was the football before the bedroom? 
+291,bathroom,garden</s> office,Where was the apple before the garden? 
+292,bathroom,garden</s> office,Where was the apple before the garden? 
+293,bedroom,garden</s><s>,Where was the milk before the hallway? 
+294,bedroom,garden</s><s>,Where was the milk before the garden? 
+295,bedroom,garden</s><s>,Where was the milk before the garden? 
+296,bedroom,garden</s><s>,Where was the milk before the garden? 
+297,hallway,garden</s> office,Where was the milk before the bathroom? 
+298,kitchen,garden</s> office,Where was the milk before the office? 
+299,kitchen,garden</s> office,Where was the milk before the office? 
+300,kitchen,garden</s> office,Where was the milk before the office? 
+301,hallway,garden</s> office,Where was the football before the garden? 
+302,bathroom,garden</s> office,Where was the football before the garden? 
+303,bathroom,garden</s> office,Where was the apple before the garden? 
+304,bathroom,garden</s> office,Where was the milk before the bedroom? 
+305,bathroom,garden</s> office,Where was the milk before the kitchen? 
+306,hallway,garden</s> office,Where was the apple before the bedroom? 
+307,kitchen,garden</s> office,Where was the football before the garden? 
+308,kitchen,garden</s> office,Where was the milk before the garden? 
+309,kitchen,garden</s> office,Where was the milk before the garden? 
+310,hallway,garden</s> office,Where was the apple before the bathroom? 
+311,hallway,garden</s> office,Where was the apple before the bathroom? 
+312,hallway,garden</s> office,Where was the apple before the bathroom? 
+313,bedroom,garden</s><s>,Where was the football before the kitchen? 
+314,office,garden</s><s>,Where was the milk before the bedroom? 
+315,office,garden</s><s>,Where was the milk before the bedroom? 
+316,office,garden</s><s>,Where was the milk before the bedroom? 
+317,bedroom,garden</s><s>,Where was the milk before the office? 
+318,bathroom,garden</s> office,Where was the football before the hallway? 
+319,bedroom,garden</s><s>,Where was the milk before the hallway? 
+320,bathroom,garden</s> office,Where was the milk before the hallway? 
+321,bathroom,garden</s> office,Where was the milk before the hallway? 
+322,hallway,garden</s> office,Where was the football before the bathroom? 
+323,office,garden</s><s>,Where was the milk before the bathroom? 
+324,office,garden</s><s>,Where was the football before the bathroom? 
+325,office,garden</s><s>,Where was the football before the bathroom? 
+326,bathroom,garden</s> office,Where was the football before the kitchen? 
+327,office,garden</s><s>,Where was the football before the bedroom? 
+328,garden,garden</s><s>,Where was the milk before the kitchen? 
+329,kitchen,garden</s> office,Where was the milk before the garden? 
+330,office,garden</s><s>,Where was the milk before the garden? 
+331,garden,garden</s> office,Where was the football before the bedroom? 
+332,office,garden</s><s>,Where was the milk before the garden? 
+333,kitchen,garden</s> office,Where was the apple before the garden? 
+334,kitchen,garden</s> office,Where was the apple before the garden? 
+335,kitchen,garden</s> office,Where was the apple before the garden? 
+336,hallway,garden</s> office,Where was the apple before the garden? 
+337,garden,garden</s><s>,Where was the apple before the bathroom? 
+338,hallway,garden</s> office,Where was the apple before the office? 
+339,bathroom,garden</s> office,Where was the milk before the bedroom? 
+340,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+341,hallway,garden</s> office,Where was the football before the bathroom? 
+342,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+343,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+344,kitchen,garden</s> office,Where was the apple before the garden? 
+345,kitchen,garden</s> office,Where was the apple before the garden? 
+346,hallway,garden</s> office,Where was the football before the garden? 
+347,kitchen,garden</s> office,Where was the football before the office? 
+348,kitchen,garden</s> office,Where was the football before the office? 
+349,garden,garden</s><s>,Where was the milk before the hallway? 
+350,garden,garden</s><s>,Where was the milk before the hallway? 
+351,garden,garden</s><s>,Where was the milk before the hallway? 
+352,garden,garden</s><s>,Where was the milk before the hallway? 
+353,hallway,garden</s> office,Where was the apple before the garden? 
+354,bathroom,garden</s> office,Where was the football before the bedroom? 
+355,bathroom,garden</s> office,Where was the football before the bedroom? 
+356,hallway,garden</s> office,Where was the apple before the garden? 
+357,bathroom,garden</s> office,Where was the apple before the hallway? 
+358,garden,garden</s><s>,Where was the football before the hallway? 
+359,garden,garden</s><s>,Where was the football before the bedroom? 
+360,bathroom,garden</s> office,Where was the milk before the hallway? 
+361,hallway,garden</s> office,Where was the milk before the office? 
+362,hallway,garden</s> office,Where was the milk before the office? 
+363,bathroom,garden</s> office,Where was the milk before the hallway? 
+364,office,garden</s><s>,Where was the milk before the kitchen? 
+365,kitchen,garden</s> office,Where was the milk before the garden? 
+366,office,garden</s><s>,Where was the milk before the kitchen? 
+367,bathroom,garden</s> office,Where was the apple before the kitchen? 
+368,kitchen,garden</s> office,Where was the apple before the office? 
+369,hallway,garden</s> office,Where was the milk before the kitchen? 
+370,bathroom,garden</s> office,Where was the milk before the hallway? 
+371,bedroom,garden</s><s>,Where was the milk before the office? 
+372,bedroom,garden</s><s>,Where was the milk before the office? 
+373,hallway,garden</s> office,Where was the apple before the bedroom? 
+374,garden,garden</s><s>,Where was the milk before the office? 
+375,garden,garden</s><s>,Where was the milk before the office? 
+376,garden,garden</s><s>,Where was the milk before the office? 
+377,garden,garden</s><s>,Where was the milk before the office? 
+378,hallway,garden</s> office,Where was the football before the office? 
+379,bedroom,garden</s><s>,Where was the milk before the kitchen? 
+380,bedroom,garden</s><s>,Where was the milk before the kitchen? 
+381,garden,garden</s><s>,Where was the football before the bathroom? 
+382,hallway,garden</s> office,Where was the football before the garden? 
+383,bathroom,garden</s> office,Where was the milk before the hallway? 
+384,bedroom,garden</s><s>,Where was the football before the office? 
+385,bedroom,garden</s><s>,Where was the football before the office? 
+386,bedroom,garden</s><s>,Where was the football before the office? 
+387,bathroom,garden</s> office,Where was the milk before the bedroom? 
+388,hallway,garden</s> office,Where was the apple before the bedroom? 
+389,garden,garden</s> office,Where was the milk before the bedroom? 
+390,garden,garden</s> office,Where was the milk before the bedroom? 
+391,garden,garden</s> office,Where was the milk before the bedroom? 
+392,garden,garden</s> office,Where was the milk before the bedroom? 
+393,garden,garden</s> office,Where was the apple before the kitchen? 
+394,office,garden</s><s>,Where was the milk before the hallway? 
+395,hallway,garden</s> office,Where was the football before the bathroom? 
+396,hallway,garden</s> office,Where was the football before the bathroom? 
+397,bedroom,garden</s><s>,Where was the football before the hallway? 
+398,hallway,garden</s> office,Where was the milk before the bedroom? 
+399,hallway,garden</s> office,Where was the milk before the bedroom? 
+400,bedroom,garden</s><s>,Where was the milk before the kitchen? 
+401,kitchen,garden</s> office,Where was the apple before the bedroom? 
+402,kitchen,garden</s> office,Where was the apple before the bedroom? 
+403,office,garden</s><s>,Where was the football before the garden? 
+404,garden,garden</s><s>,Where was the football before the hallway? 
+405,garden,garden</s><s>,Where was the milk before the office? 
+406,office,garden</s><s>,Where was the milk before the kitchen? 
+407,kitchen,garden</s> office,Where was the football before the garden? 
+408,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+409,office,garden</s> office,Where was the apple before the bedroom? 
+410,garden,garden</s> office,Where was the apple before the office? 
+411,garden,garden</s> office,Where was the apple before the office? 
+412,garden,garden</s> office,Where was the apple before the office? 
+413,hallway,garden</s> office,Where was the apple before the bathroom? 
+414,bedroom,garden</s><s>,Where was the football before the kitchen? 
+415,hallway,garden</s> office,Where was the apple before the bathroom? 
+416,bathroom,garden</s> office,Where was the apple before the hallway? 
+417,office,garden</s><s>,Where was the apple before the kitchen? 
+418,garden,garden</s><s>,Where was the football before the hallway? 
+419,garden,garden</s><s>,Where was the football before the hallway? 
+420,garden,garden</s> office,Where was the apple before the office? 
+421,garden,garden</s> office,Where was the apple before the office? 
+422,garden,garden</s> office,Where was the apple before the office? 
+423,bedroom,garden</s><s>,Where was the apple before the garden? 
+424,bedroom,garden</s><s>,Where was the apple before the garden? 
+425,kitchen,garden</s> office,Where was the apple before the bedroom? 
+426,office,garden</s><s>,Where was the apple before the bedroom? 
+427,office,garden</s><s>,Where was the apple before the bedroom? 
+428,garden,garden</s><s>,Where was the apple before the bathroom? 
+429,garden,garden</s><s>,Where was the apple before the bathroom? 
+430,bathroom,garden</s> office,Where was the apple before the kitchen? 
+431,bathroom,garden</s> office,Where was the apple before the kitchen? 
+432,bathroom,garden</s> office,Where was the milk before the bedroom? 
+433,bathroom,garden</s> office,Where was the milk before the bedroom? 
+434,bathroom,garden</s> office,Where was the milk before the bedroom? 
+435,bathroom,garden</s> office,Where was the apple before the garden? 
+436,garden,garden</s> office,Where was the apple before the bedroom? 
+437,garden,garden</s><s>,Where was the apple before the kitchen? 
+438,office,garden</s><s>,Where was the football before the garden? 
+439,garden,garden</s><s>,Where was the football before the kitchen? 
+440,garden,garden</s><s>,Where was the football before the kitchen? 
+441,garden,garden</s><s>,Where was the apple before the bathroom? 
+442,kitchen,garden</s> office,Where was the apple before the bedroom? 
+443,bathroom,garden</s> office,Where was the football before the office? 
+444,bathroom,garden</s> office,Where was the football before the office? 
+445,bedroom,garden</s><s>,Where was the football before the kitchen? 
+446,bedroom,garden</s><s>,Where was the football before the kitchen? 
+447,bedroom,garden</s><s>,Where was the football before the kitchen? 
+448,garden,garden</s><s>,Where was the football before the bedroom? 
+449,garden,garden</s><s>,Where was the football before the bedroom? 
+450,garden,garden</s><s>,Where was the football before the bedroom? 
+451,garden,garden</s><s>,Where was the football before the bedroom? 
+452,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+453,garden,garden</s><s>,Where was the milk before the bedroom? 
+454,garden,garden</s> office,Where was the milk before the bedroom? 
+455,garden,garden</s><s>,Where was the milk before the bedroom? 
+456,garden,garden</s><s>,Where was the milk before the bedroom? 
+457,garden,garden</s> office,Where was the football before the bedroom? 
+458,bathroom,garden</s> office,Where was the milk before the hallway? 
+459,garden,garden</s><s>,Where was the apple before the office? 
+460,garden,garden</s><s>,Where was the apple before the office? 
+461,garden,garden</s> office,Where was the apple before the office? 
+462,office,garden</s><s>,Where was the apple before the hallway? 
+463,garden,garden</s> office,Where was the football before the kitchen? 
+464,garden,garden</s> office,Where was the football before the kitchen? 
+465,garden,garden</s> office,Where was the football before the kitchen? 
+466,hallway,garden</s> office,Where was the milk before the office? 
+467,office,garden</s><s>,Where was the milk before the hallway? 
+468,office,garden</s><s>,Where was the football before the bathroom? 
+469,kitchen,garden</s> office,Where was the apple before the garden? 
+470,kitchen,garden</s> office,Where was the apple before the garden? 
+471,bedroom,garden</s><s>,Where was the football before the kitchen? 
+472,kitchen,garden</s> office,Where was the apple before the garden? 
+473,bathroom,garden</s> office,Where was the milk before the office? 
+474,bathroom,garden</s> office,Where was the football before the garden? 
+475,bedroom,garden</s><s>,Where was the football before the office? 
+476,bedroom,garden</s><s>,Where was the football before the office? 
+477,bedroom,garden</s><s>,Where was the milk before the office? 
+478,office,garden</s><s>,Where was the milk before the bedroom? 
+479,bathroom,garden</s> office,Where was the football before the hallway? 
+480,bathroom,garden</s> office,Where was the apple before the hallway? 
+481,office,garden</s><s>,Where was the milk before the hallway? 
+482,garden,garden</s> office,Where was the apple before the bedroom? 
+483,bathroom,garden</s> office,Where was the football before the kitchen? 
+484,bathroom,garden</s> office,Where was the apple before the garden? 
+485,garden,garden</s><s>,Where was the milk before the office? 
+486,garden,garden</s><s>,Where was the football before the bedroom? 
+487,garden,garden</s><s>,Where was the football before the bedroom? 
+488,garden,garden</s><s>,Where was the football before the bedroom? 
+489,garden,garden</s><s>,Where was the milk before the bedroom? 
+490,garden,garden</s><s>,Where was the milk before the bedroom? 
+491,garden,garden</s><s>,Where was the milk before the office? 
+492,garden,garden</s> office,Where was the milk before the office? 
+493,garden,garden</s> office,Where was the milk before the office? 
+494,garden,garden</s><s>,Where was the football before the bathroom? 
+495,bathroom,garden</s> office,Where was the football before the office? 
+496,garden,garden</s><s>,Where was the milk before the hallway? 
+497,garden,garden</s><s>,Where was the milk before the hallway? 
+498,garden,garden</s><s>,Where was the milk before the hallway? 
+499,hallway,garden</s> office,Where was the football before the garden? 
+500,garden,garden</s> office,Where was the football before the office? 
+501,hallway,garden</s> office,Where was the football before the kitchen? 
+502,hallway,garden</s> office,Where was the football before the kitchen? 
+503,kitchen,garden</s> office,Where was the football before the hallway? 
+504,hallway,garden</s> office,Where was the milk before the kitchen? 
+505,bedroom,garden</s><s>,Where was the milk before the office? 
+506,garden,garden</s><s>,Where was the football before the bedroom? 
+507,garden,garden</s><s>,Where was the football before the bedroom? 
+508,garden,garden</s><s>,Where was the football before the bedroom? 
+509,garden,garden</s><s>,Where was the football before the bedroom? 
+510,office,garden</s><s>,Where was the apple before the bathroom? 
+511,bathroom,garden</s> office,Where was the football before the garden? 
+512,bathroom,garden</s> office,Where was the football before the garden? 
+513,office,garden</s><s>,Where was the football before the kitchen? 
+514,office,garden</s><s>,Where was the football before the kitchen? 
+515,office,garden</s><s>,Where was the apple before the kitchen? 
+516,bathroom,garden</s> office,Where was the apple before the hallway? 
+517,hallway,garden</s> office,Where was the apple before the office? 
+518,kitchen,garden</s> office,Where was the milk before the office? 
+519,kitchen,garden</s> office,Where was the milk before the office? 
+520,bathroom,garden</s> office,Where was the milk before the hallway? 
+521,bathroom,garden</s> office,Where was the milk before the hallway? 
+522,bathroom,garden</s> office,Where was the apple before the hallway? 
+523,bathroom,garden</s> office,Where was the apple before the kitchen? 
+524,garden,garden</s> office,Where was the apple before the kitchen? 
+525,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+526,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+527,garden,garden</s><s>,Where was the football before the bedroom? 
+528,garden,garden</s><s>,Where was the apple before the bathroom? 
+529,office,garden</s><s>,Where was the apple before the hallway? 
+530,hallway,garden</s> office,Where was the apple before the kitchen? 
+531,bathroom,garden</s> office,Where was the milk before the office? 
+532,bathroom,garden</s> office,Where was the milk before the office? 
+533,bathroom,garden</s> office,Where was the football before the hallway? 
+534,bathroom,garden</s> office,Where was the football before the hallway? 
+535,hallway,garden</s> office,Where was the milk before the bedroom? 
+536,hallway,garden</s> office,Where was the milk before the bedroom? 
+537,hallway,garden</s> office,Where was the milk before the bedroom? 
+538,kitchen,garden</s> office,Where was the apple before the hallway? 
+539,garden,garden</s> office,Where was the milk before the office? 
+540,office,garden</s> office,Where was the milk before the garden? 
+541,hallway,garden</s> office,Where was the football before the garden? 
+542,bathroom,garden</s> office,Where was the milk before the kitchen? 
+543,bathroom,garden</s> office,Where was the milk before the kitchen? 
+544,bathroom,garden</s> office,Where was the football before the garden? 
+545,bathroom,garden</s> office,Where was the football before the garden? 
+546,bathroom,garden</s> office,Where was the apple before the garden? 
+547,garden,garden</s><s>,Where was the football before the kitchen? 
+548,garden,garden</s><s>,Where was the football before the kitchen? 
+549,office,garden</s><s>,Where was the apple before the bedroom? 
+550,office,garden</s><s>,Where was the milk before the bathroom? 
+551,garden,garden</s> office,Where was the milk before the kitchen? 
+552,bathroom,garden</s> office,Where was the milk before the kitchen? 
+553,bathroom,garden</s> office,Where was the football before the bedroom? 
+554,bathroom,garden</s> office,Where was the milk before the kitchen? 
+555,bathroom,garden</s> office,Where was the milk before the kitchen? 
+556,bathroom,garden</s> office,Where was the apple before the garden? 
+557,bedroom,garden</s><s>,Where was the milk before the office? 
+558,bedroom,garden</s><s>,Where was the milk before the office? 
+559,bedroom,garden</s><s>,Where was the milk before the office? 
+560,bedroom,garden</s><s>,Where was the milk before the office? 
+561,kitchen,garden</s> office,Where was the football before the bedroom? 
+562,kitchen,garden</s> office,Where was the apple before the office? 
+563,kitchen,garden</s> office,Where was the apple before the office? 
+564,kitchen,garden</s> office,Where was the apple before the office? 
+565,bathroom,garden</s> office,Where was the apple before the kitchen? 
+566,office,garden</s> office,Where was the football before the garden? 
+567,kitchen,garden</s> office,Where was the football before the hallway? 
+568,kitchen,garden</s> office,Where was the football before the hallway? 
+569,office,garden</s><s>,Where was the milk before the kitchen? 
+570,kitchen,garden</s> office,Where was the football before the hallway? 
+571,office,garden</s><s>,Where was the milk before the kitchen? 
+572,hallway,garden</s> office,Where was the milk before the bedroom? 
+573,hallway,garden</s> office,Where was the milk before the bedroom? 
+574,office,garden</s> office,Where was the milk before the garden? 
+575,office,garden</s> office,Where was the milk before the garden? 
+576,office,garden</s> office,Where was the milk before the garden? 
+577,bedroom,garden</s><s>,Where was the milk before the office? 
+578,bedroom,garden</s><s>,Where was the milk before the office? 
+579,kitchen,garden</s> office,Where was the milk before the hallway? 
+580,office,garden</s><s>,Where was the milk before the bedroom? 
+581,hallway,garden</s> office,Where was the milk before the bedroom? 
+582,hallway,garden</s> office,Where was the milk before the bedroom? 
+583,bathroom,garden</s> office,Where was the football before the hallway? 
+584,bathroom,garden</s> office,Where was the football before the hallway? 
+585,hallway,garden</s> office,Where was the apple before the bedroom? 
+586,bedroom,garden</s><s>,Where was the apple before the hallway? 
+587,hallway,garden</s> office,Where was the apple before the bedroom? 
+588,hallway,garden</s> office,Where was the apple before the bedroom? 
+589,kitchen,garden</s> office,Where was the milk before the bedroom? 
+590,garden,garden</s><s>,Where was the football before the hallway? 
+591,garden,garden</s><s>,Where was the football before the hallway? 
+592,kitchen,garden</s> office,Where was the milk before the office? 
+593,kitchen,garden</s> office,Where was the milk before the office? 
+594,office,garden</s><s>,Where was the milk before the bathroom? 
+595,office,garden</s><s>,Where was the milk before the kitchen? 
+596,garden,garden</s><s>,Where was the apple before the bathroom? 
+597,garden,garden</s><s>,Where was the milk before the bathroom? 
+598,kitchen,garden</s> office,Where was the football before the office? 
+599,kitchen,garden</s> office,Where was the milk before the garden? 
+600,kitchen,garden</s> office,Where was the milk before the garden? 
+601,kitchen,garden</s> office,Where was the milk before the office? 
+602,office,garden</s><s>,Where was the football before the hallway? 
+603,office,garden</s><s>,Where was the football before the hallway? 
+604,office,garden</s><s>,Where was the football before the bedroom? 
+605,office,garden</s><s>,Where was the football before the bedroom? 
+606,office,garden</s><s>,Where was the milk before the bedroom? 
+607,kitchen,garden</s> office,Where was the apple before the office? 
+608,office,garden</s><s>,Where was the football before the hallway? 
+609,bathroom,garden</s> office,Where was the milk before the bedroom? 
+610,bedroom,garden</s><s>,Where was the milk before the kitchen? 
+611,garden,garden</s> office,Where was the football before the office? 
+612,garden,garden</s> office,Where was the football before the office? 
+613,garden,garden</s><s>,Where was the football before the office? 
+614,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+615,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+616,bedroom,garden</s><s>,Where was the milk before the office? 
+617,bedroom,garden</s><s>,Where was the milk before the office? 
+618,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+619,hallway,garden</s> office,Where was the apple before the office? 
+620,hallway,garden</s> office,Where was the apple before the office? 
+621,hallway,garden</s> office,Where was the apple before the office? 
+622,hallway,garden</s> office,Where was the milk before the bathroom? 
+623,garden,garden</s><s>,Where was the football before the bathroom? 
+624,garden,garden</s><s>,Where was the football before the bathroom? 
+625,bathroom,garden</s> office,Where was the apple before the office? 
+626,garden,garden</s><s>,Where was the apple before the bathroom? 
+627,bathroom,garden</s> office,Where was the apple before the office? 
+628,kitchen,garden</s> office,Where was the milk before the garden? 
+629,kitchen,garden</s> office,Where was the milk before the garden? 
+630,office,garden</s><s>,Where was the milk before the bedroom? 
+631,office,garden</s><s>,Where was the milk before the bedroom? 
+632,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+633,hallway,garden</s> office,Where was the apple before the bathroom? 
+634,bathroom,garden</s> office,Where was the apple before the hallway? 
+635,office,garden</s><s>,Where was the milk before the bathroom? 
+636,bathroom,garden</s> office,Where was the milk before the office? 
+637,kitchen,garden</s> office,Where was the football before the garden? 
+638,kitchen,garden</s> office,Where was the milk before the hallway? 
+639,kitchen,garden</s> office,Where was the milk before the hallway? 
+640,office,garden</s><s>,Where was the milk before the bathroom? 
+641,office,garden</s><s>,Where was the milk before the bathroom? 
+642,office,garden</s><s>,Where was the milk before the bathroom? 
+643,bathroom,garden</s> office,Where was the apple before the kitchen? 
+644,bathroom,garden</s> office,Where was the apple before the kitchen? 
+645,bathroom,garden</s> office,Where was the apple before the kitchen? 
+646,bedroom,garden</s><s>,Where was the milk before the garden? 
+647,garden,garden</s> office,Where was the milk before the bedroom? 
+648,office,garden</s><s>,Where was the milk before the bathroom? 
+649,office,garden</s><s>,Where was the milk before the bathroom? 
+650,office,garden</s><s>,Where was the milk before the bathroom? 
+651,office,garden</s><s>,Where was the apple before the kitchen? 
+652,office,garden</s><s>,Where was the apple before the kitchen? 
+653,garden,garden</s><s>,Where was the milk before the office? 
+654,garden,garden</s> office,Where was the milk before the office? 
+655,garden,garden</s><s>,Where was the milk before the office? 
+656,hallway,garden</s> office,Where was the apple before the bedroom? 
+657,office,garden</s><s>,Where was the football before the hallway? 
+658,office,garden</s><s>,Where was the football before the hallway? 
+659,bedroom,garden</s><s>,Where was the apple before the hallway? 
+660,hallway,garden</s> office,Where was the milk before the garden? 
+661,hallway,garden</s> office,Where was the milk before the garden? 
+662,kitchen,garden</s> office,Where was the football before the hallway? 
+663,garden,garden</s> office,Where was the football before the office? 
+664,hallway,garden</s> office,Where was the apple before the bathroom? 
+665,hallway,garden</s> office,Where was the apple before the bathroom? 
+666,bedroom,garden</s><s>,Where was the football before the bathroom? 
+667,bedroom,garden</s><s>,Where was the football before the bathroom? 
+668,bedroom,garden</s><s>,Where was the apple before the hallway? 
+669,garden,garden</s> office,Where was the football before the office? 
+670,garden,garden</s> office,Where was the football before the office? 
+671,garden,garden</s><s>,Where was the football before the office? 
+672,garden,garden</s><s>,Where was the football before the office? 
+673,kitchen,garden</s> office,Where was the milk before the garden? 
+674,kitchen,garden</s> office,Where was the milk before the garden? 
+675,bedroom,garden</s><s>,Where was the football before the kitchen? 
+676,bedroom,garden</s><s>,Where was the football before the kitchen? 
+677,hallway,garden</s> office,Where was the football before the bedroom? 
+678,hallway,garden</s> office,Where was the football before the bedroom? 
+679,office,garden</s><s>,Where was the milk before the bathroom? 
+680,garden,garden</s> office,Where was the milk before the office? 
+681,garden,garden</s><s>,Where was the milk before the office? 
+682,garden,garden</s><s>,Where was the apple before the kitchen? 
+683,kitchen,garden</s> office,Where was the apple before the garden? 
+684,kitchen,garden</s> office,Where was the apple before the garden? 
+685,kitchen,garden</s> office,Where was the apple before the garden? 
+686,bathroom,garden</s> office,Where was the football before the hallway? 
+687,garden,garden</s><s>,Where was the milk before the bathroom? 
+688,kitchen,garden</s> office,Where was the apple before the bathroom? 
+689,kitchen,garden</s> office,Where was the apple before the bathroom? 
+690,kitchen,garden</s> office,Where was the apple before the bathroom? 
+691,garden,garden</s> office,Where was the apple before the kitchen? 
+692,garden,garden</s> office,Where was the apple before the kitchen? 
+693,bathroom,garden</s> office,Where was the milk before the hallway? 
+694,bathroom,garden</s> office,Where was the milk before the hallway? 
+695,bathroom,garden</s> office,Where was the milk before the hallway? 
+696,bedroom,garden</s><s>,Where was the apple before the kitchen? 
+697,bathroom,garden</s> office,Where was the apple before the bedroom? 
+698,garden,garden</s> office,Where was the apple before the bedroom? 
+699,garden,garden</s><s>,Where was the apple before the bedroom? 
+700,bedroom,garden</s><s>,Where was the apple before the garden? 
+701,bedroom,garden</s><s>,Where was the apple before the garden? 
+702,bedroom,garden</s><s>,Where was the apple before the garden? 
+703,garden,garden</s><s>,Where was the apple before the hallway? 
+704,office,garden</s><s>,Where was the apple before the garden? 
+705,hallway,garden</s> office,Where was the football before the kitchen? 
+706,hallway,garden</s> office,Where was the football before the kitchen? 
+707,hallway,garden</s> office,Where was the football before the kitchen? 
+708,bathroom,garden</s> office,Where was the milk before the hallway? 
+709,bathroom,garden</s> office,Where was the milk before the hallway? 
+710,bedroom,garden</s><s>,Where was the football before the kitchen? 
+711,hallway,garden</s> office,Where was the apple before the bedroom? 
+712,hallway,garden</s> office,Where was the apple before the bedroom? 
+713,hallway,garden</s> office,Where was the football before the bedroom? 
+714,hallway,garden</s> office,Where was the milk before the office? 
+715,hallway,garden</s> office,Where was the apple before the bedroom? 
+716,hallway,garden</s> office,Where was the apple before the bedroom? 
+717,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+718,office,garden</s><s>,Where was the milk before the bedroom? 
+719,bathroom,garden</s> office,Where was the milk before the office? 
+720,hallway,garden</s> office,Where was the milk before the garden? 
+721,hallway,garden</s> office,Where was the milk before the garden? 
+722,hallway,garden</s> office,Where was the milk before the garden? 
+723,kitchen,garden</s> office,Where was the football before the bedroom? 
+724,kitchen,garden</s> office,Where was the football before the bedroom? 
+725,kitchen,garden</s> office,Where was the football before the bedroom? 
+726,hallway,garden</s> office,Where was the football before the bathroom? 
+727,bathroom,garden</s> office,Where was the football before the hallway? 
+728,garden,garden</s><s>,Where was the milk before the hallway? 
+729,garden,garden</s><s>,Where was the milk before the hallway? 
+730,garden,garden</s><s>,Where was the milk before the hallway? 
+731,bedroom,garden</s><s>,Where was the football before the hallway? 
+732,bedroom,garden</s><s>,Where was the football before the hallway? 
+733,bedroom,garden</s><s>,Where was the milk before the hallway? 
+734,bedroom,garden</s><s>,Where was the milk before the hallway? 
+735,bedroom,garden</s><s>,Where was the milk before the hallway? 
+736,bedroom,garden</s><s>,Where was the milk before the hallway? 
+737,bedroom,garden</s><s>,Where was the milk before the hallway? 
+738,garden,garden</s> office,Where was the milk before the office? 
+739,garden,garden</s><s>,Where was the milk before the office? 
+740,bedroom,garden</s><s>,Where was the milk before the hallway? 
+741,bedroom,garden</s><s>,Where was the milk before the hallway? 
+742,bathroom,garden</s> office,Where was the football before the garden? 
+743,hallway,garden</s> office,Where was the milk before the bathroom? 
+744,kitchen,garden</s> office,Where was the milk before the garden? 
+745,kitchen,garden</s> office,Where was the football before the bathroom? 
+746,kitchen,garden</s> office,Where was the football before the bathroom? 
+747,bedroom,garden</s><s>,Where was the apple before the garden? 
+748,garden,garden</s><s>,Where was the apple before the hallway? 
+749,bedroom,garden</s><s>,Where was the apple before the garden? 
+750,bedroom,garden</s><s>,Where was the apple before the garden? 
+751,garden,garden</s> office,Where was the milk before the office? 
+752,hallway,garden</s> office,Where was the milk before the garden? 
+753,hallway,garden</s> office,Where was the milk before the garden? 
+754,kitchen,garden</s> office,Where was the football before the office? 
+755,bathroom,garden</s> office,Where was the football before the hallway? 
+756,bathroom,garden</s> office,Where was the football before the hallway? 
+757,hallway,garden</s> office,Where was the milk before the office? 
+758,office,garden</s><s>,Where was the milk before the bathroom? 
+759,bedroom,garden</s><s>,Where was the apple before the garden? 
+760,kitchen,garden</s> office,Where was the apple before the bedroom? 
+761,garden,garden</s><s>,Where was the apple before the kitchen? 
+762,bathroom,garden</s> office,Where was the football before the hallway? 
+763,bathroom,garden</s> office,Where was the football before the garden? 
+764,garden,garden</s> office,Where was the football before the bedroom? 
+765,bathroom,garden</s> office,Where was the football before the garden? 
+766,office,garden</s><s>,Where was the football before the hallway? 
+767,office,garden</s><s>,Where was the football before the hallway? 
+768,garden,garden</s> office,Where was the milk before the office? 
+769,garden,garden</s> office,Where was the milk before the office? 
+770,garden,garden</s><s>,Where was the milk before the office? 
+771,garden,garden</s><s>,Where was the apple before the hallway? 
+772,bathroom,garden</s> office,Where was the milk before the hallway? 
+773,bathroom,garden</s> office,Where was the milk before the hallway? 
+774,garden,garden</s><s>,Where was the milk before the kitchen? 
+775,bedroom,garden</s><s>,Where was the football before the hallway? 
+776,garden,garden</s><s>,Where was the milk before the hallway? 
+777,garden,garden</s><s>,Where was the milk before the hallway? 
+778,garden,garden</s><s>,Where was the milk before the hallway? 
+779,garden,garden</s> office,Where was the milk before the hallway? 
+780,bedroom,garden</s><s>,Where was the milk before the garden? 
+781,office,garden</s><s>,Where was the milk before the bedroom? 
+782,office,garden</s><s>,Where was the milk before the bedroom? 
+783,bedroom,garden</s><s>,Where was the apple before the office? 
+784,bedroom,garden</s><s>,Where was the apple before the office? 
+785,office,garden</s><s>,Where was the apple before the garden? 
+786,office,garden</s><s>,Where was the milk before the kitchen? 
+787,hallway,garden</s> office,Where was the apple before the bedroom? 
+788,hallway,garden</s> office,Where was the apple before the bedroom? 
+789,kitchen,garden</s> office,Where was the football before the hallway? 
+790,kitchen,garden</s> office,Where was the football before the hallway? 
+791,hallway,garden</s> office,Where was the milk before the garden? 
+792,bathroom,garden</s> office,Where was the milk before the garden? 
+793,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+794,kitchen,garden</s> office,Where was the milk before the hallway? 
+795,bathroom,garden</s> office,Where was the milk before the office? 
+796,garden,garden</s><s>,Where was the milk before the bathroom? 
+797,bedroom,garden</s><s>,Where was the apple before the bathroom? 
+798,hallway,garden</s> office,Where was the football before the kitchen? 
+799,hallway,garden</s> office,Where was the football before the kitchen? 
+800,hallway,garden</s> office,Where was the football before the kitchen? 
+801,garden,garden</s><s>,Where was the football before the bedroom? 
+802,hallway,garden</s> office,Where was the apple before the bedroom? 
+803,garden,garden</s><s>,Where was the apple before the hallway? 
+804,garden,garden</s> office,Where was the milk before the office? 
+805,bathroom,garden</s> office,Where was the milk before the bedroom? 
+806,bathroom,garden</s> office,Where was the apple before the garden? 
+807,garden,garden</s><s>,Where was the apple before the office? 
+808,garden,garden</s><s>,Where was the apple before the office? 
+809,garden,garden</s><s>,Where was the apple before the office? 
+810,hallway,garden</s> office,Where was the apple before the garden? 
+811,hallway,garden</s> office,Where was the football before the kitchen? 
+812,hallway,garden</s> office,Where was the football before the kitchen? 
+813,hallway,garden</s> office,Where was the football before the kitchen? 
+814,kitchen,garden</s> office,Where was the football before the hallway? 
+815,hallway,garden</s> office,Where was the football before the kitchen? 
+816,kitchen,garden</s> office,Where was the milk before the garden? 
+817,hallway,garden</s> office,Where was the milk before the bathroom? 
+818,office,garden</s><s>,Where was the football before the hallway? 
+819,office,garden</s><s>,Where was the football before the hallway? 
+820,office,garden</s><s>,Where was the football before the hallway? 
+821,kitchen,garden</s> office,Where was the milk before the bathroom? 
+822,kitchen,garden</s> office,Where was the milk before the bathroom? 
+823,bathroom,garden</s> office,Where was the football before the bedroom? 
+824,bathroom,garden</s> office,Where was the football before the bedroom? 
+825,hallway,garden</s> office,Where was the milk before the bedroom? 
+826,bathroom,garden</s> office,Where was the apple before the hallway? 
+827,bathroom,garden</s> office,Where was the apple before the hallway? 
+828,bathroom,garden</s> office,Where was the apple before the hallway? 
+829,bathroom,garden</s> office,Where was the apple before the hallway? 
+830,bathroom,garden</s> office,Where was the apple before the hallway? 
+831,hallway,garden</s> office,Where was the football before the garden? 
+832,bathroom,garden</s> office,Where was the milk before the hallway? 
+833,bathroom,garden</s> office,Where was the milk before the hallway? 
+834,bathroom,garden</s> office,Where was the milk before the hallway? 
+835,hallway,garden</s> office,Where was the milk before the kitchen? 
+836,hallway,garden</s> office,Where was the milk before the kitchen? 
+837,bathroom,garden</s> office,Where was the football before the office? 
+838,bedroom,garden</s><s>,Where was the football before the bathroom? 
+839,bedroom,garden</s><s>,Where was the football before the office? 
+840,hallway,garden</s> office,Where was the milk before the bedroom? 
+841,hallway,garden</s> office,Where was the milk before the bedroom? 
+842,hallway,garden</s> office,Where was the milk before the bedroom? 
+843,bedroom,garden</s><s>,Where was the apple before the office? 
+844,hallway,garden</s> office,Where was the apple before the bedroom? 
+845,hallway,garden</s> office,Where was the football before the bedroom? 
+846,bedroom,garden</s><s>,Where was the milk before the bathroom? 
+847,hallway,garden</s> office,Where was the football before the bedroom? 
+848,kitchen,garden</s> office,Where was the milk before the bathroom? 
+849,office,garden</s><s>,Where was the football before the bathroom? 
+850,office,garden</s><s>,Where was the football before the kitchen? 
+851,bedroom,garden</s><s>,Where was the apple before the office? 
+852,bedroom,garden</s><s>,Where was the apple before the office? 
+853,bathroom,garden</s> office,Where was the milk before the bedroom? 
+854,hallway,garden</s> office,Where was the football before the garden? 
+855,garden,garden</s> office,Where was the milk before the bedroom? 
+856,kitchen,garden</s> office,Where was the football before the garden? 
+857,bedroom,garden</s><s>,Where was the football before the office? 
+858,garden,garden</s><s>,Where was the football before the bedroom? 
+859,hallway,garden</s> office,Where was the football before the kitchen? 
+860,hallway,garden</s> office,Where was the football before the kitchen? 
+861,hallway,garden</s> office,Where was the football before the kitchen? 

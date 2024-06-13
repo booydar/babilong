@@ -1,0 +1,16 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about people and their locations hidden in some random text and a question. You need to answer the question based only on the information from the facts. If a person was in different locations, use the latest location the person was in to answer the question.",
+        "examples": "<example>\nJohn is not in the bathroom. Sandra is not in the bedroom. Is John in the bathroom?\nAnswer: no\n</example>\n<example>\nMary journeyed to the kitchen. John is in the bedroom. Sandra is not in the garden. Is Mary in the kitchen?\nAnswer: yes\n</example>\n",
+        "post_prompt": "Your answer should contain only one word - $yes$ or $no$. Do not write anything else. Do not explain your answer.",
+        "template": null
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "eos_token_id": null
+    }
+}

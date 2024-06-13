@@ -1,0 +1,15 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about animals, their names and relations. The facts and a question are hidden in some random text. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nMice are afraid of wolves. Gertrude is a mouse. Cats are afraid of sheep. Winona is a mouse. Sheep are afraid of wolves. Emily is a mouse. Jessica is a wolf. What is gertrude afraid of?\nAnswer: wolf\n</example>\n<example>\nMice are afraid of wolves. Gertrude is a mouse. Cats are afraid of sheep. Winona is a mouse. Sheep are afraid of wolves. Emily is a mouse. Jessica is a wolf. What is jessica afraid of?\nAnswer: cat\n</example>\n<example>\nMice are afraid of cats. Wolves are afraid of sheep. Emily is a wolf. Cats are afraid of sheep. Gertrude is a wolf. Sheep are afraid of cats. Winona is a wolf. What is emily afraid of?\nAnswer: sheep\n</example>\n<context>\n",
+        "post_prompt": "Your answer should contain only one word - an animal species. Do not write anything else after that. Do not explain your answer.",
+        "template": "{instruction}\n{examples}\n{post_prompt}\nContext: {context}\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null
+    }
+}

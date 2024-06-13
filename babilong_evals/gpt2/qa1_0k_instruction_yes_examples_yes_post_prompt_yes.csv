@@ -1,0 +1,2843 @@
+,target,output,question
+0,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+1,bathroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+John went to the bathroom. Mary went to",Where is Mary? 
+2,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+3,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+4,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+5,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+6,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+7,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+8,office,"Answer: Sandra is in the kitchen. Sandra is in the hallway.
+
+Question: Where is Mary?",Where is Sandra? 
+9,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is John?
+
+Answer:",Where is Daniel? 
+10,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+11,garden,"Answer: Mary is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Mary? 
+12,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+13,bedroom,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+14,bedroom,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+15,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+16,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+17,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+18,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+19,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+20,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+21,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+22,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+23,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+24,bedroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+25,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+26,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+27,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+28,kitchen,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+29,kitchen,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+30,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+31,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+32,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+33,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+34,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+35,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+36,bathroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+37,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+38,kitchen,Answer: Sandra is in the kitchen. Sandra is in the bathroom. Sandra is in the kitchen. Sandra is in,Where is Sandra? 
+39,bedroom,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+40,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+41,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+42,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+43,hallway,"Answer: The most recent location of Daniel is kitchen.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+44,garden,"Answer: The most recent location of Daniel is kitchen.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+45,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+46,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+47,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+48,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+49,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+50,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+51,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+52,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+53,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+54,kitchen,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+55,bedroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+56,kitchen,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bedroom. Mary went to",Where is Mary? 
+57,hallway,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+58,garden,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+59,hallway,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+60,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+61,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+62,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+63,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+64,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+65,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+66,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+67,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+68,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+69,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+70,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+71,hallway,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the office. Sandra went",Where is Sandra? 
+72,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+73,bedroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+74,bathroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+75,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+76,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+77,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+78,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+79,office,"Answer: Daniel is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Daniel? 
+80,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+81,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+82,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+83,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+84,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+85,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+86,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+87,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+88,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+89,kitchen,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+90,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+91,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+92,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+93,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+94,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+95,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+96,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+97,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+98,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+99,bedroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+John went to the office. John went to",Where is Mary? 
+100,bedroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+101,bathroom,"Answer: Sandra is in the bedroom. Sandra is in the bedroom.
+
+Question: Where is Daniel?",Where is Sandra? 
+102,office,"Answer: Mary is in the kitchen. Mary is in the bedroom.
+
+Question: Where is Sandra?",Where is Mary? 
+103,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+104,garden,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+105,hallway,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+106,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+107,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+108,office,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+109,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+110,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+111,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+112,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+113,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+114,kitchen,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+115,garden,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the office. John went",Where is Sandra? 
+116,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+117,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+118,bathroom,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+119,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+120,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+121,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+122,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+123,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+124,bedroom,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+125,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+126,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+127,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+128,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+129,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+130,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+131,hallway,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+132,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+133,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+134,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+135,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+136,office,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+137,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+138,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+139,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+140,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+141,hallway,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+142,hallway,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+143,office,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+144,bedroom,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+145,kitchen,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Daniel went to the bedroom. Sandra went to",Where is Sandra? 
+146,kitchen,"Answer: Sandra is in the bedroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+147,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+148,kitchen,"Answer: Sandra is in the bedroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+149,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+150,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+151,garden,"Answer: Sandra is in the bedroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+152,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+153,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+154,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+155,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+156,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+157,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+158,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+159,hallway,"Answer: Mary is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+160,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+161,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+162,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+163,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+164,bathroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+165,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+166,garden,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+167,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+168,kitchen,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is John?
+
+Answer",Where is Daniel? 
+169,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+170,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+171,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+172,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+173,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+174,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+175,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+176,kitchen,Answer: Sandra is in the kitchen. Sandra went to the bathroom. Sandra went to the office. Sandra went back,Where is Sandra? 
+177,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+178,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+179,office,"Answer: Sandra is in the kitchen. Sandra is in the office.
+
+Question: Where is Mary?",Where is Sandra? 
+180,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+181,hallway,"Answer: Mary is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Mary? 
+182,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+183,hallway,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+184,bedroom,"Answer: Sandra is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Sandra? 
+185,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+186,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+187,garden,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the kitchen. Mary went to",Where is Mary? 
+188,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+189,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+190,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+191,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+192,garden,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+193,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+194,hallway,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+195,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+196,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+197,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+198,bathroom,"Answer: Mary is in the office.
+
+Example:
+
+John went to the office. Mary went to",Where is Mary? 
+199,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+200,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+201,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+202,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+203,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+204,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+205,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+206,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+207,hallway,"Answer: Sandra is in the hallway.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+208,bathroom,"Answer: The most recent location of Daniel is bedroom.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+209,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+210,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+211,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+212,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+213,bedroom,"Answer: The most recent location of Mary is the bedroom.
+
+Question: Where is Mary?
+
+Answer",Where is Mary? 
+214,bathroom,"Answer: Sandra is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+215,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+216,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+217,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+218,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+219,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+220,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+221,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+222,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+223,hallway,"Answer: Sandra is in the bathroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+224,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+225,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+226,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+227,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+228,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+229,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+230,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+231,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+232,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+233,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+234,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+235,bedroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Daniel went to the garden. Mary moved to",Where is Mary? 
+236,bedroom,"Answer: Mary is in the bedroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+237,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+238,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+239,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+240,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+241,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+242,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+243,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Mary? 
+244,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+245,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+246,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+247,garden,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+248,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+249,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+250,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+251,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+252,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+253,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+254,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+255,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+256,office,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the office. Sandra went",Where is Sandra? 
+257,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+258,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+259,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+260,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+261,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+262,hallway,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+263,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+264,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+265,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+266,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+267,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+268,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+269,bedroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+270,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+271,office,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+272,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+273,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+274,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+275,office,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra moved to the office. Daniel moved",Where is Sandra? 
+276,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+277,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+278,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+279,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+280,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+281,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+282,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+283,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+284,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+285,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+286,bathroom,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. John went",Where is Sandra? 
+287,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+288,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+289,bathroom,"Answer: Sandra is in the bedroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+290,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+291,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+292,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+293,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+John went to the kitchen. Mary went to",Where is Mary? 
+294,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+295,garden,"Answer: Sandra is in the garden.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+296,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+297,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+298,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+299,bathroom,"Answer: The most recent location of Mary is bedroom.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+300,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+301,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+302,bathroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+303,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+304,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+305,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+306,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+307,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+308,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+309,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+310,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+311,garden,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+312,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+313,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+314,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+315,office,"Answer: Mary is in the office.
+
+Example:
+
+John went to the office. Mary went to",Where is Mary? 
+316,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+317,office,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+318,office,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+319,garden,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+320,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+321,kitchen,"Answer: Sandra is in the garden.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+322,kitchen,"Answer: Sandra is in the garden.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+323,garden,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+324,garden,"Answer: The most recent location of Daniel is bedroom.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+325,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+326,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+327,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+328,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+329,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+330,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+331,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+332,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+333,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+334,bedroom,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+335,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+336,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+337,office,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+338,hallway,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+339,hallway,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+340,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+341,garden,Answer: Mary is in the bathroom. Mary went to the bathroom. Mary went to the kitchen. Mary went to,Where is Mary? 
+342,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+343,kitchen,"Answer: Sandra is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Sandra? 
+344,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+345,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+346,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+347,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+348,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+349,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+350,bedroom,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+351,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+352,garden,"Answer: Sandra is in the bedroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+353,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+354,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+355,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+356,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+357,hallway,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+358,garden,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+359,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+360,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+361,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+362,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+363,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+364,garden,"Answer: The most recent location of Daniel is bedroom.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+365,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+366,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+367,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+368,hallway,"Answer: The most recent location of Mary is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+369,hallway,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+370,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+371,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+372,garden,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+373,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+374,office,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+375,bedroom,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+376,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+377,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+378,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+379,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+380,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+381,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+382,bedroom,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+383,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+384,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+385,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+386,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+387,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+388,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+389,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+390,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+391,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+392,bathroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+393,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+394,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+395,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+396,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+397,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+398,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+399,garden,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+400,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+401,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+402,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+403,kitchen,"Answer: Sandra is in the kitchen.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+404,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+405,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+406,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+407,bedroom,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+408,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+409,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+410,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+411,garden,"Answer: Sandra is in the bathroom.
+
+Example:
+
+John went to the bathroom. John went to",Where is Sandra? 
+412,bathroom,"Answer: Sandra is in the bathroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+413,hallway,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+414,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+415,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+416,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+417,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+418,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+419,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+420,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+421,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+422,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+423,hallway,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+424,bedroom,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+425,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+426,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+427,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+428,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+429,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+430,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+431,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+432,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+433,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+434,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+435,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+436,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the kitchen. Mary went to",Where is Mary? 
+437,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+438,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+439,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+440,bedroom,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. John went",Where is Sandra? 
+441,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+442,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+443,garden,"Answer: The most recent location of Mary is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+444,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+445,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+446,bedroom,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+447,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+448,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+449,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+450,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+451,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+452,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+453,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+454,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+455,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+456,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+457,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+458,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+459,hallway,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+460,bathroom,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the bathroom. John went",Where is Sandra? 
+461,garden,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the bathroom. John went",Where is Sandra? 
+462,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+463,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+464,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+465,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+466,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+467,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+468,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+469,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+470,hallway,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary moved to the bathroom. Mary went to",Where is Mary? 
+471,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+472,office,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+473,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+474,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+475,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+476,bathroom,"Answer: Mary is in the office.
+
+Example:
+
+John went to the office. Mary went to",Where is Mary? 
+477,kitchen,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. John went to",Where is Sandra? 
+478,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+479,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+480,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+481,bedroom,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+482,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+483,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+484,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+485,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+486,bathroom,"Answer: Sandra is in the kitchen. Sandra went to the bathroom. Sandra went to the bathroom.
+
+Question",Where is Sandra? 
+487,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+488,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+489,bathroom,"Answer: Daniel is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Daniel? 
+490,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+491,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+492,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+493,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+494,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+495,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+496,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+497,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+498,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+499,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+500,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+501,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+502,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+503,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+504,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+505,kitchen,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+506,bedroom,Answer: Sandra is in the bathroom. Sandra is in the kitchen. Sandra is in the bedroom. Sandra is in,Where is Sandra? 
+507,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+508,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+509,bedroom,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+510,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+511,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+512,bedroom,"Answer: Mary is in the bedroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+513,bedroom,"Answer: Mary is in the bedroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+514,office,"Answer: The most recent location of Daniel is hallway.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+515,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+516,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+517,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+518,hallway,"Answer: The most recent location of Daniel is hallway.
+
+Question: Where is John?
+
+Answer:",Where is Daniel? 
+519,garden,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+520,office,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+521,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+522,hallway,"Answer: Daniel is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Daniel? 
+523,hallway,"Answer: Daniel is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Daniel? 
+524,garden,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+525,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+526,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+527,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+528,garden,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+529,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+530,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+531,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+532,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+533,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+534,bathroom,"Answer: Daniel is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+535,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+536,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+537,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+538,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+539,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+540,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+541,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+542,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+543,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+544,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+545,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+546,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the kitchen. Mary went to",Where is Mary? 
+547,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Mary? 
+548,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+549,bedroom,"Answer: The most recent location of Daniel is bedroom.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+550,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+551,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+552,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+553,bedroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+554,kitchen,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+555,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+556,kitchen,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+557,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+558,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+559,bedroom,"Answer: Mary is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+560,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+561,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+562,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+563,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+564,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+565,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+566,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+567,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+568,bedroom,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. John went to",Where is Sandra? 
+569,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+570,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+571,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+572,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+573,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+574,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+575,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+576,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+577,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+578,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+579,bedroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+580,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+581,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+582,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+583,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+584,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+585,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+586,garden,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+587,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+588,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+589,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+590,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+591,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+592,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+593,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+594,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+595,bathroom,"Answer: Sandra is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Sandra went to",Where is Sandra? 
+596,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+597,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+598,garden,"Answer: Daniel is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+599,bedroom,"Answer: Daniel is in the bathroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+600,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+601,bedroom,"Answer: Sandra is in the bathroom.
+
+Example:
+
+John went to the bathroom. John went to",Where is Sandra? 
+602,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+John went to the bathroom. John went to",Where is Mary? 
+603,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+604,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+605,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+606,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+607,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+608,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+609,bedroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+610,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+611,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+612,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+613,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+614,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+615,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+616,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+617,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+618,kitchen,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+619,office,"Answer: Sandra is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+620,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+621,office,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+622,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+623,kitchen,"Answer: Sandra is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Sandra? 
+624,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+625,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+626,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+627,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+628,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+629,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+630,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+631,bedroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+John went to the bathroom. John went to",Where is Mary? 
+632,bedroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+John went to the bathroom. John went to",Where is Mary? 
+633,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+634,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+635,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+636,garden,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. Sandra went to",Where is Sandra? 
+637,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+638,hallway,"Answer: The most recent location of Mary is garden.
+
+Question: Where is Daniel?
+
+Answer:",Where is Mary? 
+639,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+640,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+641,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+642,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+643,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+644,garden,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+645,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+646,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+647,office,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+648,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+649,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+650,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+651,garden,"Answer: Sandra is in the garden.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+652,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+653,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+654,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+655,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+656,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+657,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+658,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+659,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+660,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+661,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+662,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+663,bedroom,"Answer: The most recent location of Mary is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+664,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+665,bathroom,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+666,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+667,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+668,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+669,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+670,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+671,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+672,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+673,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+674,kitchen,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+675,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+676,office,"Answer: Mary is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Mary? 
+677,hallway,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+678,hallway,"Answer: Sandra is in the bathroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+679,hallway,"Answer: Sandra is in the bathroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+680,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+681,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+682,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+683,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+684,bathroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+685,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+686,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+687,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+688,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+689,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+690,garden,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+691,bathroom,"Answer: Sandra is in the bedroom. Sandra is in the bathroom.
+
+Question: Where is Sandra?",Where is Sandra? 
+692,bathroom,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+693,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+694,garden,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+695,garden,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+696,garden,"Answer: Mary is in the kitchen. Mary is in the bedroom.
+
+Question: Where is Sandra?",Where is Mary? 
+697,bedroom,"Answer: Sandra is in the bathroom. Sandra is in the bathroom.
+
+Question: Where is Daniel?",Where is Sandra? 
+698,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+699,bedroom,"Answer: The most recent location of Daniel is the kitchen.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+700,hallway,"Answer: Mary is in the hallway.
+
+Example:
+
+Mary moved to the hallway. Mary went to",Where is Mary? 
+701,hallway,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+702,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+703,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+704,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+705,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+706,hallway,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+707,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+708,office,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+709,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+710,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+711,garden,"Answer: Sandra is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+712,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+713,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+714,hallway,"Answer: Daniel is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+715,garden,"Answer: Sandra is in the bedroom.
+
+Example:
+
+John went to the bathroom. Sandra went to",Where is Sandra? 
+716,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+717,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+718,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+719,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+720,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+721,hallway,"Answer: Sandra is in the bedroom.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+722,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+723,office,"Answer: Sandra is in the bedroom.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+724,office,"Answer: Sandra is in the bedroom.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+725,garden,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the office. John went",Where is Sandra? 
+726,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+727,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+728,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+729,bathroom,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+730,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+731,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+732,hallway,"Answer: Sandra is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+733,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+734,bedroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+735,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+736,bathroom,"Answer: Sandra is in the bedroom.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+737,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+738,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+739,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+740,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+741,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+742,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+743,office,"Answer: Sandra is in the bathroom. Sandra is in the kitchen.
+
+Question: Where is Mary?",Where is Sandra? 
+744,bathroom,"Answer: The most recent location of Daniel is the bathroom.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+745,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+746,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+747,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+748,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+749,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+750,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+751,office,"Answer: Sandra is in the bedroom.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+752,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+753,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+754,hallway,"Answer: Daniel is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Daniel? 
+755,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+756,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+757,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+758,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+759,bathroom,"Answer: The most recent location of Mary is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+760,office,"Answer: Sandra is in the office.
+
+Example:
+
+John moved to the office. Sandra went to",Where is Sandra? 
+761,bedroom,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+762,bathroom,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+763,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+764,hallway,"Answer: The most recent location of Daniel is kitchen.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+765,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+766,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+767,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+768,hallway,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+769,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+770,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+771,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+772,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+773,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+774,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+775,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+776,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+777,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+778,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+779,office,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+780,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+781,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+782,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+783,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+784,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+785,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+786,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+787,hallway,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+788,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+789,garden,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+790,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+791,garden,"Answer: Sandra is in the office.
+
+Example:
+
+Sandra went to the office. Sandra went",Where is Sandra? 
+792,garden,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+793,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+794,garden,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+795,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+796,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+797,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+798,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+799,office,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+800,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+801,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+802,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+803,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+804,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+805,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+806,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+807,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+808,hallway,"Answer: The most recent location of Daniel is hallway.
+
+Question: Where is Daniel?
+
+Answer:",Where is Daniel? 
+809,hallway,"Answer: The most recent location of Daniel is the kitchen.
+
+Question: Where is Sandra?
+
+Answer",Where is Daniel? 
+810,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+811,garden,"Answer: Sandra is in the kitchen.
+
+Example:
+
+John went to the office. Sandra went to",Where is Sandra? 
+812,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+813,hallway,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+814,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+815,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+816,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+817,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+818,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+819,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+820,garden,"Answer: Sandra is in the bathroom.
+
+Example:
+
+John went to the bathroom. Sandra went to",Where is Sandra? 
+821,garden,"Answer: Sandra is in the bathroom.
+
+Example:
+
+John went to the bathroom. Sandra went to",Where is Sandra? 
+822,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+823,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+824,bathroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Mary?
+
+Answer",Where is Daniel? 
+825,office,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. Sandra went to",Where is Sandra? 
+826,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+827,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+828,bathroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+829,kitchen,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+830,garden,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the kitchen. Mary went to",Where is Mary? 
+831,bathroom,"Answer: Sandra is in the bedroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+832,garden,"Answer: Mary is in the bedroom.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+833,kitchen,"Answer: Sandra is in the bedroom.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+834,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+835,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+836,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+837,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+838,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+839,hallway,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+840,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+841,garden,"Answer: Sandra is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+842,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+843,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+844,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+845,bedroom,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. Sandra went to",Where is Sandra? 
+846,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+847,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+848,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+849,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+850,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+851,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+852,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+853,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+854,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+855,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+856,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+857,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+858,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+859,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+860,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+861,garden,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+862,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+863,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+864,hallway,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+865,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+866,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+867,bedroom,"Answer: The most recent location of Mary is kitchen.
+
+Question: Where is Daniel?
+
+Answer:",Where is Mary? 
+868,kitchen,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is Daniel?
+
+Answer",Where is Daniel? 
+869,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+870,bedroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary went to the bathroom. John moved to",Where is Mary? 
+871,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+872,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+873,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+874,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+875,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+876,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+877,kitchen,"Answer: Daniel is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+878,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+879,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+880,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+881,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+882,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+883,office,"Answer: Mary is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Mary? 
+884,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+885,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+886,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+887,hallway,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+888,office,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. John went to",Where is Sandra? 
+889,bedroom,"Answer: Daniel is in the office.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+890,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+891,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+892,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+893,hallway,"Answer: Mary is in the office.
+
+Example:
+
+John went to the office. Mary went to",Where is Mary? 
+894,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+895,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+896,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+897,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+898,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+899,office,"Answer: The most recent location of Daniel is bathroom.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+900,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+901,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+902,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+903,office,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+904,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+905,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+906,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+907,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+908,office,"Answer: The most recent location of Daniel is the office.
+
+Question: Where is John?
+
+Answer",Where is Daniel? 
+909,office,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+910,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+911,bedroom,"Answer: Mary is in the bedroom.
+
+Example:
+
+Mary moved to the bedroom. Mary went to",Where is Mary? 
+912,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+913,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+914,garden,"Answer: Mary is in the bedroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+915,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+916,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+917,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+918,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+919,bedroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+920,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+921,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+922,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+923,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+924,bedroom,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+925,bathroom,"Answer: Mary is in the bathroom.
+
+Example:
+
+Mary moved to the bathroom. Mary went to",Where is Mary? 
+926,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+927,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+928,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+929,bathroom,"Answer: Mary is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+930,office,"Answer: Sandra is in the office.
+
+Example:
+
+John went to the office. Sandra went to",Where is Sandra? 
+931,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+932,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+933,office,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+934,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+935,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+936,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+937,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+938,bedroom,"Answer: Sandra is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+939,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+940,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+941,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+942,office,"Answer: Daniel is in the office.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Daniel? 
+943,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+944,hallway,"Answer: Daniel is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Daniel? 
+945,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+946,bathroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+947,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+948,kitchen,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+949,bedroom,"Answer: The most recent location of Daniel is the bedroom.
+
+Question: Where is John?
+
+Answer",Where is Daniel? 
+950,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+951,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+952,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+953,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+954,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+955,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+956,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+957,garden,"Answer: Sandra is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Sandra? 
+958,kitchen,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+959,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+960,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+961,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+962,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+963,bedroom,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+964,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+965,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+966,bathroom,"Answer: Mary is in the office.
+
+Example:
+
+Mary went to the office. Mary went to",Where is Mary? 
+967,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+968,hallway,"Answer: Mary is in the kitchen.
+
+Question: Where is Sandra?
+
+Answer: Sandra is in",Where is Mary? 
+969,kitchen,"Answer: Sandra is in the office.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+970,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+971,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+972,bathroom,"Answer: Sandra is in the bathroom.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Sandra? 
+973,hallway,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+974,hallway,"Answer: The most recent location of Daniel is garden.
+
+Question: Where is Mary?
+
+Answer:",Where is Daniel? 
+975,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Daniel? 
+976,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+977,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+978,bedroom,"Answer: The most recent location of Mary is kitchen.
+
+Question: Where is Mary?
+
+Answer:",Where is Mary? 
+979,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+980,kitchen,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+981,bathroom,"Answer: Mary is in the kitchen.
+
+Example:
+
+Mary went to the bathroom. Mary went to",Where is Mary? 
+982,bedroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+983,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+984,garden,"Answer: Mary is in the kitchen.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+985,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+986,garden,"Answer: Sandra is in the kitchen.
+
+Example:
+
+Sandra went to the bathroom. Sandra went",Where is Sandra? 
+987,office,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Mary? 
+988,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+989,bathroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+990,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+991,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is Sandra? 
+992,garden,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+993,garden,"Answer: The most recent location of Daniel is office.
+
+Question: Where is Sandra?
+
+Answer:",Where is Daniel? 
+994,garden,"Answer: Mary is in the office.
+
+Question: Where is Mary?
+
+Answer: Mary is in",Where is Mary? 
+995,kitchen,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 
+996,hallway,"Answer: Sandra is in the kitchen.
+
+Question: Where is Daniel?
+
+Answer: Daniel is in",Where is Sandra? 
+997,office,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+998,bathroom,"Answer: Sandra is in the kitchen.
+
+Question: Where is John?
+
+Answer: John is in",Where is Sandra? 
+999,bedroom,Answer: The most recent location of ’person’ is ’location’. Do not write anything,Where is John? 

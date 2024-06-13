@@ -1,0 +1,1005 @@
+,target,output,question
+0,hallway,John is in the hallway.,Where is John? 
+1,bathroom,Mary is in the bathroom.,Where is Mary? 
+2,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+3,hallway,Sandra is currently in the kitchen. The context mentions that she journeyed or travelled to,Where is Sandra? 
+4,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+5,hallway,"Based on the context provided, Sandra has travelled to the kitchen and then to the hallway.",Where is Sandra? 
+6,garden,Sandra is currently in the garden.,Where is Sandra? 
+7,hallway,Daniel is in the hallway.,Where is Daniel? 
+8,office,"Sandra is currently in the garden. The last action mentioned for Sandra was ""Sandra moved",Where is Sandra? 
+9,office,"At the moment, Daniel is in the office. He has travelled or journeyed there from the",Where is Daniel? 
+10,kitchen,Mary is in the kitchen.,Where is Mary? 
+11,garden,Mary is currently in the garden.,Where is Mary? 
+12,office,Daniel is at the office.,Where is Daniel? 
+13,bedroom,Mary is currently in the kitchen. The context states that she moved there most recently.,Where is Mary? 
+14,bedroom,Mary is currently in the kitchen.,Where is Mary? 
+15,kitchen,"Based on the context provided, John could be in the hallway or the kitchen. The context mentions",Where is John? 
+16,garden,"The context states that John moved to the hallway and later journeyed to the garden. Therefore, John",Where is John? 
+17,kitchen,John is currently in the kitchen.,Where is John? 
+18,office,Daniel is in the office.,Where is Daniel? 
+19,kitchen,"John could be in either the kitchen or the hallway, as mentioned in the context, he went to",Where is John? 
+20,hallway,Mary could be in either the kitchen or the hallway based on the given context.,Where is Mary? 
+21,office,John is in the office.,Where is John? 
+22,office,John is in the office.,Where is John? 
+23,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+24,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+25,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+26,bedroom,"At the moment, Mary is in the bedroom.",Where is Mary? 
+27,kitchen,"At the moment, Daniel is in the kitchen.",Where is Daniel? 
+28,kitchen,"At the moment, Daniel is in the kitchen. Previously, he was in the bedroom.",Where is Daniel? 
+29,kitchen,"At the moment, Daniel is in the kitchen.",Where is Daniel? 
+30,hallway,Sandra is in the hallway.,Where is Sandra? 
+31,office,John is in the office.,Where is John? 
+32,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+33,kitchen,Sandra is currently in the kitchen. The context mentions that she has gone there multiple times.,Where is Sandra? 
+34,bathroom,Sandra is currently in the bathroom. The last mentioned location for Sandra in the context was her,Where is Sandra? 
+35,office,Mary could be in either the bedroom or the office based on the given context. The context states that,Where is Mary? 
+36,bathroom,"At the moment, it is not clear where Mary is as the context states that she went back to",Where is Mary? 
+37,garden,Mary is currently in the garden.,Where is Mary? 
+38,kitchen,Sandra is currently in the kitchen. The context mentions that she moved there after being in the,Where is Sandra? 
+39,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+40,bathroom,Sandra is either at the office or in the bathroom based on the context provided.,Where is Sandra? 
+41,garden,Daniel is in the garden.,Where is Daniel? 
+42,bathroom,Sandra is at the office.,Where is Sandra? 
+43,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+44,garden,Daniel is currently in the garden.,Where is Daniel? 
+45,kitchen,Mary is in the kitchen.,Where is Mary? 
+46,hallway,Daniel is in the hallway.,Where is Daniel? 
+47,bathroom,"The last mention of Sandra in the context was ""Sandra moved to the bathroom."" Therefore,",Where is Sandra? 
+48,office,John is in the office.,Where is John? 
+49,bedroom,John is currently in the bedroom.,Where is John? 
+50,bedroom,"Based on the context provided, John could be in either the hallway or the bedroom. The context does",Where is John? 
+51,office,"John could be in any of the mentioned places - the hallway, the bedroom, or the office.",Where is John? 
+52,garden,"John could be in any of the following places based on the context provided: the hallway, the bedroom",Where is John? 
+53,garden,"John could be in any of the following places based on the context provided: the hallway, the bedroom",Where is John? 
+54,kitchen,"At the moment, Daniel is in the garden. However, he previously went back to the kitchen.",Where is Daniel? 
+55,bedroom,Mary is in the bedroom.,Where is Mary? 
+56,kitchen,Mary is in the kitchen.,Where is Mary? 
+57,hallway,Mary is currently in the hallway.,Where is Mary? 
+58,garden,Daniel is in the garden.,Where is Daniel? 
+59,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+60,hallway,"Sandra is in the hallway.
+
+Question: Where is John?
+
+Answer:",Where is Sandra? 
+61,office,Daniel is in the office.,Where is Daniel? 
+62,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+63,garden,"At the moment, Daniel is in the garden.",Where is Daniel? 
+64,garden,"At the moment, Daniel is in the garden. The last action mentioned about him was ""Daniel",Where is Daniel? 
+65,kitchen,John is in the kitchen.,Where is John? 
+66,kitchen,John is in the kitchen.,Where is John? 
+67,bathroom,"At the moment, Daniel is in the bathroom. However, it's important to note that the",Where is Daniel? 
+68,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+69,office,"At the moment, Daniel is in the office. The last action mentioned about him was ""Daniel",Where is Daniel? 
+70,garden,Mary is in the garden.,Where is Mary? 
+71,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+72,garden,Mary is currently in the garden.,Where is Mary? 
+73,bedroom,Mary is currently in the garden. The context mentions that she journeyed or traveled there multiple times,Where is Mary? 
+74,bathroom,Mary is currently in the bathroom.,Where is Mary? 
+75,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+76,kitchen,John is in the kitchen.,Where is John? 
+77,kitchen,"The context mentions that Daniel went to the kitchen, then went to the garden, and later moved",Where is Daniel? 
+78,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+79,office,"Based on the context provided, Daniel is currently at the office. The last mention of Daniel in the",Where is Daniel? 
+80,garden,"John is also in the garden, as stated in the context that he traveled there.",Where is John? 
+81,bathroom,John is currently in the bathroom. The context states that he travelled there after going to the garden,Where is John? 
+82,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+83,garden,Mary is in the garden.,Where is Mary? 
+84,office,Daniel is at the office.,Where is Daniel? 
+85,garden,"Sandra is also in the garden, just like John.",Where is Sandra? 
+86,garden,"Based on the context provided, Mary has been to both the garden and the office. However, the",Where is Mary? 
+87,hallway,John is currently in the hallway.,Where is John? 
+88,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+89,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+90,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The first statement says she moved",Where is Sandra? 
+91,bathroom,John is in the bathroom.,Where is John? 
+92,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+93,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The last action mentioned was """,Where is Sandra? 
+94,bathroom,"Sandra is currently in the garden. The last action mentioned was ""Sandra travelled to the",Where is Sandra? 
+95,kitchen,John is in the kitchen.,Where is John? 
+96,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+97,kitchen,"Mary is currently in the kitchen. She has journeyed there from the bedroom, as mentioned in the",Where is Mary? 
+98,bedroom,"The context states that Mary journeyed to the bedroom and travelled to the kitchen. So currently,",Where is Mary? 
+99,bedroom,"At the moment, Mary is in the kitchen. She has travelled there from the bedroom. However",Where is Mary? 
+100,bedroom,"Based on the context provided, Mary has moved from the garden to the bedroom. Therefore, the answer",Where is Mary? 
+101,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+102,office,Mary is currently in the office.,Where is Mary? 
+103,garden,"The last action performed by Daniel was going to the garden. Therefore, Daniel is currently in the garden",Where is Daniel? 
+104,garden,"At the moment, Daniel is in the garden. However, it's important to note that the",Where is Daniel? 
+105,hallway,Mary is in the hallway.,Where is Mary? 
+106,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+107,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+108,office,"At the moment, Daniel is in the office. However, earlier he was in the bathroom.",Where is Daniel? 
+109,bedroom,"At the moment, John is in the bedroom.",Where is John? 
+110,bathroom,Daniel is in the office or the bathroom based on the context provided. The first sentence states that Daniel,Where is Daniel? 
+111,bathroom,Daniel is in the office.,Where is Daniel? 
+112,kitchen,"John is currently in the kitchen. The context states that he went there twice, first traveling from an",Where is John? 
+113,hallway,John is currently in the hallway.,Where is John? 
+114,kitchen,Mary is in the kitchen.,Where is Mary? 
+115,garden,Sandra is in the garden.,Where is Sandra? 
+116,office,John is in the office.,Where is John? 
+117,kitchen,Mary is in the kitchen.,Where is Mary? 
+118,bathroom,At the bathroom. The context states that Daniel travelled to the bathroom.,Where is Daniel? 
+119,office,"At the moment, Daniel is in the garden. The last action mentioned about him was ""Daniel",Where is Daniel? 
+120,bedroom,"Based on the context provided, Daniel could be in either the office or the bedroom. The context does",Where is Daniel? 
+121,bathroom,Mary is in the bathroom.,Where is Mary? 
+122,bedroom,Daniel is at the office.,Where is Daniel? 
+123,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+124,bedroom,"At the moment, Mary is in the bedroom.",Where is Mary? 
+125,office,Sandra is in the office.,Where is Sandra? 
+126,garden,"John is currently in the garden. Both ""moved to the kitchen"" and ""journeyed",Where is John? 
+127,garden,Daniel is in the garden.,Where is Daniel? 
+128,garden,Sandra is currently in the garden.,Where is Sandra? 
+129,bathroom,"Sandra is currently in the bathroom. The last action mentioned was ""Sandra moved to the bathroom",Where is Sandra? 
+130,garden,Sandra is in the garden.,Where is Sandra? 
+131,hallway,Mary is in the hallway.,Where is Mary? 
+132,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+133,garden,Sandra is currently in the garden.,Where is Sandra? 
+134,kitchen,John is in the kitchen.,Where is John? 
+135,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+136,office,Sandra is currently in the office.,Where is Sandra? 
+137,kitchen,John is in the kitchen.,Where is John? 
+138,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+139,bathroom,John is currently in the bathroom.,Where is John? 
+140,office,Mary could be at the garden or at the office based on the given context.,Where is Mary? 
+141,hallway,"Mary could be in any of the three places mentioned in the context: the garden, the office,",Where is Mary? 
+142,hallway,"Mary could be in any of the mentioned places based on the context provided: the garden, the office",Where is Mary? 
+143,office,Sandra is at the office.,Where is Sandra? 
+144,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+145,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+146,kitchen,"Sandra is in the kitchen. (Based on the context provided, Sandra went to the kitchen",Where is Sandra? 
+147,kitchen,"The context mentions that Daniel moved from the bedroom to the kitchen, so currently Daniel is in the",Where is Daniel? 
+148,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+149,kitchen,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+150,garden,Daniel is in the garden.,Where is Daniel? 
+151,garden,Sandra is currently in the garden.,Where is Sandra? 
+152,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+153,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+154,bedroom,"At the moment, John is in the bedroom.",Where is John? 
+155,bathroom,Mary is in the bathroom.,Where is Mary? 
+156,garden,"Daniel is currently in the garden. The context states that he journeyed to the bedroom earlier, but",Where is Daniel? 
+157,bedroom,John is in the bedroom.,Where is John? 
+158,office,John is currently in the office.,Where is John? 
+159,hallway,Mary is currently in the hallway.,Where is Mary? 
+160,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+161,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+162,bedroom,"Based on the context provided, Mary is currently in the bedroom. Here's a summary of her",Where is Mary? 
+163,garden,Mary is currently in the garden.,Where is Mary? 
+164,bathroom,Daniel is currently in the bathroom.,Where is Daniel? 
+165,garden,Sandra is in the garden.,Where is Sandra? 
+166,garden,Sandra is in the garden.,Where is Sandra? 
+167,garden,Daniel is currently in the garden.,Where is Daniel? 
+168,kitchen,"At the moment, Daniel is in the kitchen. Previously, he was in the garden, but",Where is Daniel? 
+169,bedroom,"The last time Mary was mentioned in the context, she was in the bedroom.",Where is Mary? 
+170,office,It is not possible to determine where Daniel is currently based on the context provided. The context only ment,Where is Daniel? 
+171,office,Daniel could be in the kitchen or the office as stated in the context.,Where is Daniel? 
+172,garden,John is in the garden.,Where is John? 
+173,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+174,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+175,office,The context provided does not give enough information to determine which location Sandra is currently at. Sandra,Where is Sandra? 
+176,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+177,bedroom,Sandra is currently in the bedroom. The last place Sandra was mentioned going to was the bedroom,Where is Sandra? 
+178,office,Sandra is currently in the office.,Where is Sandra? 
+179,office,Sandra is currently in the office.,Where is Sandra? 
+180,hallway,Mary is in the hallway.,Where is Mary? 
+181,hallway,Mary is in the hallway.,Where is Mary? 
+182,hallway,"At the moment, Daniel is in the office. However, the context mentions that he went back",Where is Daniel? 
+183,hallway,The context mentions that Mary moved to the office and also moved to the hallway. It's,Where is Mary? 
+184,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+185,bathroom,John is in the bathroom.,Where is John? 
+186,office,Daniel is at the office.,Where is Daniel? 
+187,garden,Mary is in the garden.,Where is Mary? 
+188,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+189,office,Sandra is currently in the kitchen.,Where is Sandra? 
+190,hallway,Mary is in the hallway.,Where is Mary? 
+191,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+192,garden,Sandra is currently in the garden.,Where is Sandra? 
+193,hallway,"Sandra is currently in the garden. The last action mentioned about Sandra was ""Sandra journey",Where is Sandra? 
+194,hallway,"Sandra is currently in the garden. The last action mentioned about Sandra was ""Sandra journey",Where is Sandra? 
+195,garden,Mary is in the garden.,Where is Mary? 
+196,office,John is at the office.,Where is John? 
+197,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+198,bathroom,"At the moment, Mary is in the bathroom. The context states that she went there most recently.",Where is Mary? 
+199,bedroom,"The last time John was mentioned in the context, he went back to the bedroom. Therefore, John",Where is John? 
+200,hallway,Mary is in the hallway.,Where is Mary? 
+201,office,"Based on the context provided, John is currently in the office.",Where is John? 
+202,office,Daniel is in the office.,Where is Daniel? 
+203,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+204,hallway,"At the moment, Sandra is in the bedroom. However, the context also mentions that she",Where is Sandra? 
+205,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+206,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+207,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+208,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+209,hallway,John is in the hallway.,Where is John? 
+210,bathroom,John is in the bathroom.,Where is John? 
+211,bedroom,"Based on the context provided, John is currently in the office. The context states that he moved there",Where is John? 
+212,hallway,Daniel is in the hallway.,Where is Daniel? 
+213,bedroom,Mary is in the bedroom.,Where is Mary? 
+214,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+215,bedroom,Mary is in the bedroom.,Where is Mary? 
+216,bathroom,John is currently in the bathroom.,Where is John? 
+217,hallway,John is currently in the hallway.,Where is John? 
+218,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+219,bathroom,John is currently in the bathroom.,Where is John? 
+220,bathroom,Mary is in the bathroom.,Where is Mary? 
+221,hallway,Daniel is in the hallway.,Where is Daniel? 
+222,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+223,hallway,"The last time Sandra was mentioned in the context, she was in the hallway.",Where is Sandra? 
+224,bedroom,John is currently in the bedroom.,Where is John? 
+225,office,John is in the office.,Where is John? 
+226,hallway,Daniel is in the hallway.,Where is Daniel? 
+227,garden,Sandra is in the garden.,Where is Sandra? 
+228,bathroom,"At the moment, John is in the bathroom.",Where is John? 
+229,bathroom,John is currently in the bathroom.,Where is John? 
+230,office,Daniel is in the office.,Where is Daniel? 
+231,garden,Mary is in the garden.,Where is Mary? 
+232,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+233,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+234,hallway,"At the moment, John is in the hallway.",Where is John? 
+235,bedroom,Mary is in the bedroom.,Where is Mary? 
+236,bedroom,Mary is in the bedroom.,Where is Mary? 
+237,bedroom,Mary is in the bedroom.,Where is Mary? 
+238,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+239,office,"At the moment, Sandra is in the office.",Where is Sandra? 
+240,hallway,"Daniel is in the hallway, just like Mary.",Where is Daniel? 
+241,kitchen,Mary is in the kitchen.,Where is Mary? 
+242,garden,Mary is currently in the garden.,Where is Mary? 
+243,garden,Mary is currently in the garden.,Where is Mary? 
+244,kitchen,"At the moment, Mary is in the kitchen.",Where is Mary? 
+245,kitchen,John is in the kitchen. Both Daniel and John have traveled or journeyed to the kitchen according to,Where is John? 
+246,garden,Sandra is currently in the garden.,Where is Sandra? 
+247,garden,Sandra is currently in the garden.,Where is Sandra? 
+248,garden,Sandra is currently in the garden.,Where is Sandra? 
+249,garden,Daniel is currently in the garden.,Where is Daniel? 
+250,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+251,office,Mary is at the office.,Where is Mary? 
+252,bathroom,"At the moment, it is not clear where Daniel is as the last action mentioned was ""Daniel",Where is Daniel? 
+253,bathroom,"At the moment, Daniel could be in any of the following places based on the context provided: the",Where is Daniel? 
+254,bedroom,John is currently in the bedroom.,Where is John? 
+255,bedroom,John is in the bedroom.,Where is John? 
+256,office,Sandra is currently in the office.,Where is Sandra? 
+257,office,Sandra is currently in the garden.,Where is Sandra? 
+258,kitchen,"At the moment, Mary is in the kitchen. However, based on the context provided, she has",Where is Mary? 
+259,garden,Mary is currently in the garden.,Where is Mary? 
+260,garden,Sandra is in the garden.,Where is Sandra? 
+261,office,Mary is in the bedroom.,Where is Mary? 
+262,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+263,office,John is currently in the garden. The context mentions that he journeyed to the garden in one,Where is John? 
+264,office,John is currently in the garden.,Where is John? 
+265,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+266,garden,Sandra is currently in the garden.,Where is Sandra? 
+267,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+268,bathroom,John is currently in the bathroom.,Where is John? 
+269,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+270,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+271,office,Sandra is at the office.,Where is Sandra? 
+272,office,Sandra is at the office.,Where is Sandra? 
+273,kitchen,"At the moment, Daniel is in the kitchen.",Where is Daniel? 
+274,bathroom,"At the moment, the context does not provide enough information to determine exactly where Daniel is. However,",Where is Daniel? 
+275,office,Sandra is in the office.,Where is Sandra? 
+276,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+277,hallway,"The context mentions that Mary moved to the garden, the kitchen, and the hallway. Based on",Where is Mary? 
+278,office,John is currently in the office.,Where is John? 
+279,bathroom,John is currently in the bathroom.,Where is John? 
+280,bathroom,Sandra could be at the office or in the bathroom based on the given context.,Where is Sandra? 
+281,garden,Daniel is currently in the garden.,Where is Daniel? 
+282,office,Sandra is currently at the office.,Where is Sandra? 
+283,office,Sandra is currently at the office.,Where is Sandra? 
+284,garden,John is in the garden.,Where is John? 
+285,office,John is in the office.,Where is John? 
+286,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+287,office,John is in the office.,Where is John? 
+288,garden,Daniel is in the garden.,Where is Daniel? 
+289,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+290,kitchen,"Mary is in the kitchen, just like John.",Where is Mary? 
+291,kitchen,John is in the kitchen.,Where is John? 
+292,bedroom,John is in the bedroom.,Where is John? 
+293,kitchen,"At the moment, Mary is in the kitchen. However, she was previously in the bathroom and later",Where is Mary? 
+294,kitchen,John is currently in the kitchen.,Where is John? 
+295,garden,"Sandra is in the garden. Based on the context provided, both Sandra and Daniel went to",Where is Sandra? 
+296,garden,Daniel is in the garden.,Where is Daniel? 
+297,hallway,John is in the hallway.,Where is John? 
+298,hallway,"Based on the context provided, Mary is currently in the garden. However, there is a contradiction",Where is Mary? 
+299,bathroom,Mary is currently in the bathroom.,Where is Mary? 
+300,bathroom,"Mary is also in the bathroom, just like Sandra.",Where is Mary? 
+301,bathroom,Mary is in the bathroom.,Where is Mary? 
+302,bathroom,Mary is in the bathroom.,Where is Mary? 
+303,office,John is currently in the office.,Where is John? 
+304,hallway,Mary is currently in the hallway.,Where is Mary? 
+305,garden,Daniel is currently in the garden.,Where is Daniel? 
+306,bathroom,"Based on the context provided, Daniel could be in any of the following places: bathroom, garden,",Where is Daniel? 
+307,office,"The context does not currently provide information on where Daniel is located. The last mention of Daniel was """,Where is Daniel? 
+308,office,"The context does not currently provide information on where Daniel is located. The last mention of Daniel was """,Where is Daniel? 
+309,kitchen,John is currently in the kitchen.,Where is John? 
+310,garden,"Daniel is also in the garden, just like Sandra.",Where is Daniel? 
+311,garden,Sandra is in the garden.,Where is Sandra? 
+312,office,Daniel has journeyed to the garden and also to the office.,Where is Daniel? 
+313,bedroom,Sandra is currently in the bedroom. The context states that she traveled there after her previous visit to,Where is Sandra? 
+314,garden,John is currently in the garden.,Where is John? 
+315,office,Mary is at the office.,Where is Mary? 
+316,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+317,office,"The context states that Mary went to the office three times. So, currently, Mary is at the",Where is Mary? 
+318,office,The context states that Mary went to the office in the last mentioned action.,Where is Mary? 
+319,garden,"At the moment, Daniel is in the kitchen.",Where is Daniel? 
+320,garden,"John is in the garden, just like Sandra.",Where is John? 
+321,kitchen,The context does not currently provide enough information to determine where Sandra is at this exact moment. The,Where is Sandra? 
+322,kitchen,Sandra could be in the bathroom or the kitchen based on the given context.,Where is Sandra? 
+323,garden,Daniel is currently in the garden.,Where is Daniel? 
+324,garden,Daniel is currently in the garden.,Where is Daniel? 
+325,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+326,bedroom,John is in the bedroom.,Where is John? 
+327,garden,Sandra is currently in the garden.,Where is Sandra? 
+328,garden,Sandra is currently in the garden.,Where is Sandra? 
+329,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+330,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+331,office,John is currently in the office.,Where is John? 
+332,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+333,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+334,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+335,office,John is at the office.,Where is John? 
+336,hallway,Daniel is in the hallway.,Where is Daniel? 
+337,office,"Sandra is currently at the office. However, it was mentioned that she previously traveled to the garden",Where is Sandra? 
+338,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+339,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+340,hallway,Mary could be in the bathroom or the hallway based on the given context.,Where is Mary? 
+341,garden,Mary is in the garden.,Where is Mary? 
+342,office,Daniel is currently in the office.,Where is Daniel? 
+343,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+344,garden,"At the moment, the context does not provide information on Sandra's current location. The last",Where is Sandra? 
+345,office,Mary is in the office.,Where is Mary? 
+346,hallway,Daniel is in the hallway.,Where is Daniel? 
+347,hallway,John is in the hallway.,Where is John? 
+348,kitchen,"The context mentions that Mary went to the garden at one point. Therefore, Mary is currently in",Where is Mary? 
+349,kitchen,John is currently in the kitchen.,Where is John? 
+350,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+351,garden,John is in the garden.,Where is John? 
+352,garden,Sandra is currently in the garden. The context states that she traveled there twice.,Where is Sandra? 
+353,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+354,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+355,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+356,office,John is in the office.,Where is John? 
+357,hallway,Mary is currently in the hallway.,Where is Mary? 
+358,garden,Mary is currently in the garden.,Where is Mary? 
+359,hallway,"At the moment, Mary is in the garden. However, she has moved back to the hallway since",Where is Mary? 
+360,garden,Daniel could be in either the kitchen or the garden based on the given context.,Where is Daniel? 
+361,bathroom,It is not clear where Daniel is currently located based on the context provided. The context states that Daniel,Where is Daniel? 
+362,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+363,garden,John is in the garden.,Where is John? 
+364,garden,Daniel is currently in the office.,Where is Daniel? 
+365,garden,The context provided does not indicate where Sandra currently is. The first sentence describes her going to the,Where is Sandra? 
+366,garden,"Sandra is in the hallway. The first statement in the context says ""Sandra travelled to",Where is Sandra? 
+367,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+368,hallway,"At the moment, Mary is in the hallway.",Where is Mary? 
+369,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+370,hallway,"Based on the context provided, Daniel is currently in the hallway of the office.",Where is Daniel? 
+371,hallway,Daniel is at the office.,Where is Daniel? 
+372,garden,Mary is in the garden.,Where is Mary? 
+373,garden,Mary is in the garden.,Where is Mary? 
+374,office,Mary is currently in the office.,Where is Mary? 
+375,bedroom,The context does not provide enough information to determine where Mary currently is. The first sentence states that Mary,Where is Mary? 
+376,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+377,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+378,bathroom,Sandra is currently in the bathroom. The context states that she went to the bathroom after moving to,Where is Sandra? 
+379,bedroom,"At the moment, John could be in any of the following locations based on the context provided: the",Where is John? 
+380,bathroom,Mary is in the bathroom.,Where is Mary? 
+381,bedroom,John is in the bedroom.,Where is John? 
+382,bedroom,Mary is currently in the bathroom. The context states that she went to the bathroom earlier in the sequence,Where is Mary? 
+383,office,Sandra is currently in the office.,Where is Sandra? 
+384,office,Mary is currently in the office.,Where is Mary? 
+385,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+386,office,"Based on the context provided, Mary is currently in the garden. However, it's important to",Where is Mary? 
+387,office,John is in the office.,Where is John? 
+388,office,Mary is currently in the garden.,Where is Mary? 
+389,kitchen,Sandra is currently in the office. The context mentions that she traveled there twice (once from,Where is Sandra? 
+390,kitchen,Mary is in the kitchen.,Where is Mary? 
+391,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+392,bathroom,Mary is currently in the bathroom.,Where is Mary? 
+393,bedroom,Mary is currently in the bedroom.,Where is Mary? 
+394,office,Sandra is currently in the office.,Where is Sandra? 
+395,office,Daniel could be in either the kitchen or the office based on the given context. The context does not,Where is Daniel? 
+396,bedroom,The context does not currently provide enough information to determine where Daniel is. The last mention of Daniel was,Where is Daniel? 
+397,office,"The context mentions that Daniel went back to the kitchen, moved to the office, and went back",Where is Daniel? 
+398,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+399,garden,Sandra is currently in the garden.,Where is Sandra? 
+400,bedroom,John is in the bedroom.,Where is John? 
+401,garden,"Based on the context provided, John is currently in the garden.",Where is John? 
+402,bedroom,"Based on the context provided, John is currently in the bathroom. The last action mentioned was ""John",Where is John? 
+403,kitchen,"Sandra is currently in the kitchen. The last mentioned location for Sandra in the context was """,Where is Sandra? 
+404,office,"Sandra could be in any of the following places based on the given context: the garden, the",Where is Sandra? 
+405,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+406,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+407,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+408,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+409,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+410,bedroom,"Based on the context provided, John has been in two different rooms: the bathroom and the bedroom.",Where is John? 
+411,garden,Sandra is in the garden.,Where is Sandra? 
+412,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+413,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+414,office,Sandra is currently in the bedroom.,Where is Sandra? 
+415,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+416,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+417,kitchen,"John is currently in the kitchen. The last time John was mentioned in the context, it was stated",Where is John? 
+418,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+419,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+420,hallway,Sandra is in the hallway.,Where is Sandra? 
+421,hallway,Sandra is in the hallway.,Where is Sandra? 
+422,bathroom,Sandra is currently in the bathroom. The context mentions that she went there twice. The last,Where is Sandra? 
+423,hallway,Daniel is in the hallway.,Where is Daniel? 
+424,bedroom,Mary is currently in the bedroom.,Where is Mary? 
+425,kitchen,John is in the kitchen.,Where is John? 
+426,kitchen,John is in the kitchen.,Where is John? 
+427,office,John is in the office.,Where is John? 
+428,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+429,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+430,office,John is at the office.,Where is John? 
+431,kitchen,John is currently in the kitchen.,Where is John? 
+432,kitchen,"At the moment, Mary is in the garden. However, she went to the kitchen afterwards. So",Where is Mary? 
+433,kitchen,"At the moment, Mary is in the garden. The context mentions that she moved there earlier but",Where is Mary? 
+434,office,Daniel is in the office.,Where is Daniel? 
+435,garden,Sandra is in the garden.,Where is Sandra? 
+436,kitchen,Mary is in the kitchen.,Where is Mary? 
+437,bathroom,John is currently in the bathroom.,Where is John? 
+438,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+439,garden,"At the moment, John is in the garden.",Where is John? 
+440,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+441,hallway,Daniel is in the hallway.,Where is Daniel? 
+442,bathroom,"At the moment, Daniel is in the bathroom. However, based on the context provided, Daniel first",Where is Daniel? 
+443,garden,Mary is in the garden.,Where is Mary? 
+444,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+445,garden,Daniel is in the garden.,Where is Daniel? 
+446,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+447,hallway,The context does not currently provide information on where Daniel is located. The last mention of Daniel was that,Where is Daniel? 
+448,garden,Daniel is currently in the garden.,Where is Daniel? 
+449,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+450,kitchen,John is currently in the kitchen. The context states that he went from the bathroom to the kitchen.,Where is John? 
+451,kitchen,John is currently in the kitchen.,Where is John? 
+452,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+453,garden,"Sandra is currently in the garden. The last action mentioned was ""Sandra went to the garden",Where is Sandra? 
+454,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+455,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+456,bedroom,Mary is in the bedroom.,Where is Mary? 
+457,hallway,John is in the hallway.,Where is John? 
+458,garden,John is in the garden.,Where is John? 
+459,hallway,Sandra is in the hallway.,Where is Sandra? 
+460,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+461,garden,Sandra is in the garden.,Where is Sandra? 
+462,bedroom,John is in the office.,Where is John? 
+463,office,John is currently in the office.,Where is John? 
+464,garden,At the garden.,Where is John? 
+465,garden,Sandra is in the garden.,Where is Sandra? 
+466,bedroom,"Based on the context provided, Daniel is currently in the bedroom.",Where is Daniel? 
+467,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+468,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+469,office,John is in the office.,Where is John? 
+470,hallway,Mary is in the hallway.,Where is Mary? 
+471,office,"Based on the context provided, Mary is currently in the office.",Where is Mary? 
+472,office,"At the moment, Mary is in the bathroom. However, based on the context, she has also",Where is Mary? 
+473,bathroom,John is currently in the bathroom.,Where is John? 
+474,kitchen,John is currently in the kitchen.,Where is John? 
+475,garden,John is in the garden.,Where is John? 
+476,bathroom,Mary is currently in the bathroom.,Where is Mary? 
+477,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+478,garden,John is currently in the garden.,Where is John? 
+479,bathroom,John is currently in the garden.,Where is John? 
+480,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+481,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+482,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+483,hallway,John is in the hallway.,Where is John? 
+484,garden,John is in the garden.,Where is John? 
+485,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+486,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+487,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+488,bedroom,John is currently in the bedroom.,Where is John? 
+489,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+490,kitchen,Daniel is in the kitchen. Both John and Daniel went to the kitchen according to the context provided.,Where is Daniel? 
+491,bedroom,John is currently in the bedroom. The context mentions that he went there after being in the kitchen,Where is John? 
+492,bedroom,John is currently in the bedroom.,Where is John? 
+493,garden,John is currently in the garden.,Where is John? 
+494,garden,John is currently in the garden.,Where is John? 
+495,kitchen,Mary is in the kitchen.,Where is Mary? 
+496,kitchen,Mary is in the kitchen.,Where is Mary? 
+497,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+498,hallway,John is currently in the hallway.,Where is John? 
+499,hallway,John is currently in the hallway.,Where is John? 
+500,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+501,garden,Daniel is currently in the garden.,Where is Daniel? 
+502,bathroom,Daniel is currently in the bathroom.,Where is Daniel? 
+503,hallway,John is currently in the hallway.,Where is John? 
+504,bathroom,Daniel is currently in the bathroom.,Where is Daniel? 
+505,kitchen,Mary could be in either the bathroom or the kitchen based on the given context.,Where is Mary? 
+506,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+507,office,"At the moment, Daniel could be in any of the following places based on the context provided: the",Where is Daniel? 
+508,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+509,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+510,bedroom,John is in the bedroom.,Where is John? 
+511,office,"At the moment, Mary is likely at the office based on the sequence of events provided in the context",Where is Mary? 
+512,bedroom,"At the moment, it is not clear where Mary is. The context mentions that she moved to",Where is Mary? 
+513,bedroom,"At the moment, Mary is in the bedroom. However, she was previously in the bathroom.",Where is Mary? 
+514,office,Daniel is currently at the office. The context mentions that Daniel traveled to the office.,Where is Daniel? 
+515,bathroom,Mary is in the bathroom.,Where is Mary? 
+516,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+517,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+518,hallway,Daniel is in the hallway.,Where is Daniel? 
+519,garden,"At the moment, Daniel is in the kitchen. However, it's important to note that the",Where is Daniel? 
+520,office,Sandra could be in either the bathroom or the office based on the given context.,Where is Sandra? 
+521,office,Daniel is in the office.,Where is Daniel? 
+522,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+523,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+524,garden,Sandra is currently in the garden.,Where is Sandra? 
+525,hallway,Mary is in the hallway.,Where is Mary? 
+526,office,Daniel is in the office.,Where is Daniel? 
+527,garden,"At the moment, Daniel is in the garden.",Where is Daniel? 
+528,garden,"At the moment, it is not clear where Daniel is, as the last mentioned location for him was",Where is Daniel? 
+529,hallway,"At the moment, Mary is in the bedroom. However, she has recently been in the hallway twice",Where is Mary? 
+530,garden,John is in the garden.,Where is John? 
+531,garden,John is in the garden.,Where is John? 
+532,garden,John is currently in the bedroom.,Where is John? 
+533,office,Sandra is currently in the office.,Where is Sandra? 
+534,bathroom,"Based on the context provided, Daniel is currently in the hallway.",Where is Daniel? 
+535,garden,Sandra is in the garden.,Where is Sandra? 
+536,bedroom,"Based on the context provided, Sandra is currently in the bedroom.",Where is Sandra? 
+537,hallway,"Sandra is currently in the hallway. The last mentioned location in the context was ""the hallway.""",Where is Sandra? 
+538,hallway,Sandra is currently in the bedroom. The context indicates that she went back to the bedroom after her,Where is Sandra? 
+539,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+540,garden,John is in the garden.,Where is John? 
+541,office,Mary is at the office.,Where is Mary? 
+542,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+543,hallway,The context mentions that John went to the hallway and also traveled to the bedroom. The most recent,Where is John? 
+544,kitchen,"At the moment, it is not clear where Daniel is, as the text provides conflicting information about",Where is Daniel? 
+545,garden,Sandra could be in either the kitchen or the garden based on the given context.,Where is Sandra? 
+546,kitchen,Mary is in the kitchen.,Where is Mary? 
+547,kitchen,Mary is in the kitchen.,Where is Mary? 
+548,hallway,John is currently in the hallway.,Where is John? 
+549,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+550,bedroom,John is in the bedroom.,Where is John? 
+551,bathroom,John is currently in the bathroom.,Where is John? 
+552,office,"John could be in either the bedroom or the office, as he visited both places.",Where is John? 
+553,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+554,kitchen,"At the present moment, Daniel is in the kitchen.",Where is Daniel? 
+555,hallway,Sandra is in the hallway.,Where is Sandra? 
+556,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+557,bedroom,"Based on the context provided, Daniel is currently in the bedroom.",Where is Daniel? 
+558,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+559,bedroom,Mary is currently in the bedroom.,Where is Mary? 
+560,garden,Daniel could be in either the kitchen or the garden based on the given context.,Where is Daniel? 
+561,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+562,garden,Sandra is currently in the garden.,Where is Sandra? 
+563,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+564,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+565,bathroom,The context does not provide enough information to determine exactly where John is currently located. It only mentions,Where is John? 
+566,bathroom,"John could be in the garden or the bathroom, as he has been to both places.",Where is John? 
+567,kitchen,Daniel is currently in the garden.,Where is Daniel? 
+568,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+569,bedroom,"Sandra is currently in the bedroom. The last action mentioned about her was ""Sandra travelled",Where is Sandra? 
+570,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+571,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+572,kitchen,"Sandra is currently in the garden. The context states that she went to the garden earlier, but",Where is Sandra? 
+573,kitchen,John is currently in the kitchen. The context states that he journeyed to the kitchen.,Where is John? 
+574,office,Sandra is currently in the office.,Where is Sandra? 
+575,bathroom,"Based on the context provided, John could be in either the hallway or the bathroom. We cannot determine",Where is John? 
+576,bedroom,The context does not currently provide information on where John is located. The last mention of John was that,Where is John? 
+577,hallway,Daniel is in the hallway.,Where is Daniel? 
+578,bedroom,Daniel is currently in the bedroom. The context states that he journeyed to the bedroom after his previous,Where is Daniel? 
+579,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+580,hallway,John is in the hallway.,Where is John? 
+581,hallway,John is in the hallway.,Where is John? 
+582,garden,Daniel is in the garden.,Where is Daniel? 
+583,kitchen,"At the moment, Daniel is in the kitchen. However, he previously went to the garden.",Where is Daniel? 
+584,bedroom,Mary is currently in the bedroom.,Where is Mary? 
+585,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+586,garden,Sandra is currently in the garden.,Where is Sandra? 
+587,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+588,bedroom,John is currently in the bedroom.,Where is John? 
+589,bedroom,Mary is in the bedroom.,Where is Mary? 
+590,office,Sandra could be in either the bathroom or the office based on the given context.,Where is Sandra? 
+591,hallway,Mary is in the hallway.,Where is Mary? 
+592,office,John is in the office.,Where is John? 
+593,garden,John is currently in the garden.,Where is John? 
+594,bathroom,"At the moment, John is in the bathroom.",Where is John? 
+595,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+596,office,Sandra is currently in the office.,Where is Sandra? 
+597,office,Sandra is currently in the office.,Where is Sandra? 
+598,garden,Daniel is currently in the garden. The context states that he went back to the garden after being in,Where is Daniel? 
+599,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+600,bedroom,"Based on the context provided, John has moved from the bathroom to the bedroom. Therefore, the answer",Where is John? 
+601,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+602,kitchen,"At the moment, Mary is in the kitchen.",Where is Mary? 
+603,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+604,office,"The context states that John has moved or journeyed to the following locations: bathroom, bedroom, office",Where is John? 
+605,garden,Mary is in the garden.,Where is Mary? 
+606,kitchen,John is in the kitchen.,Where is John? 
+607,hallway,John is currently in the hallway.,Where is John? 
+608,garden,Sandra is currently in the garden.,Where is Sandra? 
+609,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+610,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+611,office,Sandra is at the office.,Where is Sandra? 
+612,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+613,garden,John is in the garden.,Where is John? 
+614,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+615,office,Daniel is at the office.,Where is Daniel? 
+616,kitchen,Sandra is currently in the bathroom. The context mentions that she moved there from the office.,Where is Sandra? 
+617,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+618,kitchen,Mary is in the kitchen.,Where is Mary? 
+619,office,Sandra is currently in the office.,Where is Sandra? 
+620,garden,John is in the garden.,Where is John? 
+621,office,"Mary could be in the bathroom, the office or any other place where she has been before based on",Where is Mary? 
+622,office,Mary could be in the bathroom or in the office based on the given context. The context states that,Where is Mary? 
+623,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+624,bathroom,John is currently in the bathroom.,Where is John? 
+625,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+626,bathroom,John is currently in the bathroom.,Where is John? 
+627,bathroom,John is in the bathroom.,Where is John? 
+628,bedroom,"At the moment, John is in the bedroom. However, the context shows that he previously went to",Where is John? 
+629,bedroom,"At the moment, based on the context provided, John is in the bedroom. However, it'",Where is John? 
+630,bathroom,The context does not provide enough information to determine exactly where John is currently located. It only mentions,Where is John? 
+631,bedroom,"Based on the context provided, Mary is currently in the bedroom.",Where is Mary? 
+632,bedroom,"At the moment, based on the context provided, Mary is in the bedroom. The last action mentioned",Where is Mary? 
+633,kitchen,"At the moment, Mary is in the bedroom. The context mentions that she went back there after",Where is Mary? 
+634,garden,John is currently in the garden.,Where is John? 
+635,garden,John is at the garden.,Where is John? 
+636,garden,Sandra is in the garden based on the context provided.,Where is Sandra? 
+637,kitchen,John is currently in the kitchen.,Where is John? 
+638,hallway,Mary is in the hallway.,Where is Mary? 
+639,bathroom,Sandra is in the bathroom.,Where is Sandra? 
+640,garden,Daniel is in the garden.,Where is Daniel? 
+641,garden,Daniel is in the garden.,Where is Daniel? 
+642,bedroom,"The last action mentioned about Daniel was that he went back to the bedroom. Therefore, Daniel is currently",Where is Daniel? 
+643,office,John is currently in the office.,Where is John? 
+644,garden,Sandra is currently in the garden.,Where is Sandra? 
+645,garden,Mary is in the garden.,Where is Mary? 
+646,hallway,"Based on the context provided, Sandra is currently in the hallway.",Where is Sandra? 
+647,office,Sandra is currently at the office.,Where is Sandra? 
+648,kitchen,"The last mention of Sandra in the context is ""Sandra moved to the kitchen."" So,",Where is Sandra? 
+649,kitchen,"The last mention of Sandra in the context is ""Sandra moved to the kitchen."" So,",Where is Sandra? 
+650,bathroom,Daniel could be in the garden or in the bathroom based on the given context.,Where is Daniel? 
+651,garden,Sandra is in the garden.,Where is Sandra? 
+652,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+653,kitchen,"At the moment, Mary is in the kitchen.",Where is Mary? 
+654,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+655,bathroom,Mary is in the bathroom. The context states that she traveled there.,Where is Mary? 
+656,kitchen,"Based on the context provided, John is currently in the kitchen.",Where is John? 
+657,kitchen,John is currently in the office.,Where is John? 
+658,garden,"The last action mentioned about Daniel was ""Daniel moved to the garden."" So, Daniel is currently",Where is Daniel? 
+659,kitchen,The context mentions that Daniel went to the kitchen most recently.,Where is Daniel? 
+660,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+661,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+662,garden,John is currently in the garden. The last action mentioned about John was that he traveled to the garden,Where is John? 
+663,bedroom,"At the moment, Mary is in the bedroom. However, she previously was in the hallway and also",Where is Mary? 
+664,bedroom,"At the moment, Mary is in the hallway.",Where is Mary? 
+665,bathroom,Mary is in the bathroom.,Where is Mary? 
+666,office,Daniel is in the office.,Where is Daniel? 
+667,office,"Based on the context provided, John is currently in the office. He went to the office from the",Where is John? 
+668,office,John is currently in the office.,Where is John? 
+669,office,"John is currently in the office. The context states that he moved there twice, once from an un",Where is John? 
+670,bedroom,John is in the bedroom.,Where is John? 
+671,bedroom,John is in the bedroom.,Where is John? 
+672,office,"Daniel is currently in the garden. The context mentions that he went back to the office initially,",Where is Daniel? 
+673,bathroom,"Daniel is currently in the garden. The last action mentioned was ""Daniel went to the garden.""",Where is Daniel? 
+674,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+675,bathroom,Mary is in the bathroom.,Where is Mary? 
+676,office,"At the moment, Mary is in the office.",Where is Mary? 
+677,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+678,hallway,Sandra is currently in the bathroom.,Where is Sandra? 
+679,hallway,Sandra is currently in the bathroom. The context states that she travelled to the bathroom earlier in,Where is Sandra? 
+680,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+681,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+682,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+683,office,"At the moment, Mary is in the office.",Where is Mary? 
+684,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+685,garden,John is in the garden.,Where is John? 
+686,bathroom,Mary is in the bathroom.,Where is Mary? 
+687,office,Daniel is in the office.,Where is Daniel? 
+688,bathroom,"The context mentions that John went to the kitchen and later went to the bathroom. So, John",Where is John? 
+689,hallway,John is currently in the hallway.,Where is John? 
+690,garden,The context does not provide enough information to determine exactly where Sandra is currently located. She has been,Where is Sandra? 
+691,bathroom,"Based on the context provided, Sandra could be in any of the following places: the bedroom,",Where is Sandra? 
+692,bathroom,The context does not currently provide information on where Sandra is located. The last mention of Sandra,Where is Sandra? 
+693,office,Sandra is currently in the office.,Where is Sandra? 
+694,garden,"At the moment, Mary is in the garden. The last action mentioned about Mary was ""Mary",Where is Mary? 
+695,garden,Mary could be in the bathroom or in the garden based on the given context.,Where is Mary? 
+696,garden,Mary is in the bathroom.,Where is Mary? 
+697,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+698,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+699,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+700,hallway,Mary is in the hallway.,Where is Mary? 
+701,hallway,Mary is in the hallway.,Where is Mary? 
+702,bathroom,"Based on the context provided, John could be in the kitchen as he was recently mentioned as having moved",Where is John? 
+703,bathroom,"At the moment, based on the context provided, John could be in either the kitchen or the office",Where is John? 
+704,office,"At the moment, based on the context provided, John could be in either the office or the kitchen",Where is John? 
+705,hallway,Mary is in the hallway.,Where is Mary? 
+706,hallway,Mary is in the hallway.,Where is Mary? 
+707,bathroom,"The last time Daniel was mentioned in the context, he was in the bathroom.",Where is Daniel? 
+708,office,Sandra is in the office.,Where is Sandra? 
+709,hallway,Mary is currently in the hallway.,Where is Mary? 
+710,garden,The context does not provide enough information to determine where John currently is. The first sentence states that John,Where is John? 
+711,garden,Sandra is in the garden.,Where is Sandra? 
+712,kitchen,"John could be in any of the following places based on the context provided: bathroom, garden, or",Where is John? 
+713,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+714,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+715,garden,Sandra is in the garden.,Where is Sandra? 
+716,hallway,Mary is in the hallway.,Where is Mary? 
+717,office,The last place Daniel was mentioned going to was the office.,Where is Daniel? 
+718,hallway,Mary is in the hallway.,Where is Mary? 
+719,office,Sandra is currently in the office.,Where is Sandra? 
+720,garden,Daniel is in the garden.,Where is Daniel? 
+721,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+722,garden,Daniel is in the garden.,Where is Daniel? 
+723,office,"Based on the context provided, Sandra is currently in the office.",Where is Sandra? 
+724,office,Sandra is currently in the kitchen. The last place she was mentioned going to was the kitchen.,Where is Sandra? 
+725,garden,Sandra is in the garden.,Where is Sandra? 
+726,office,John is at the office.,Where is John? 
+727,bathroom,The last place Mary was mentioned going to in the context was the bathroom.,Where is Mary? 
+728,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+729,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+730,bedroom,John is in the bedroom.,Where is John? 
+731,bedroom,John is in the bedroom.,Where is John? 
+732,hallway,"Sandra is currently in the bathroom. The context states that John went to the bedroom, Sandra",Where is Sandra? 
+733,office,"At the moment, Mary is in the office.",Where is Mary? 
+734,bedroom,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+735,hallway,John is in the hallway.,Where is John? 
+736,bathroom,"Based on the context provided, Sandra is currently in the bathroom.",Where is Sandra? 
+737,bathroom,"At the moment, John is in the garden.",Where is John? 
+738,bathroom,John is currently in the garden.,Where is John? 
+739,kitchen,John is currently in the kitchen.,Where is John? 
+740,garden,"Based on the context provided, John could be in either the bathroom or the garden. The context does",Where is John? 
+741,garden,John is in the bathroom.,Where is John? 
+742,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+743,office,Sandra is currently in the office. The context mentions that she traveled to the office after being,Where is Sandra? 
+744,bathroom,"At the moment, Daniel is in the bathroom.",Where is Daniel? 
+745,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+746,bathroom,John is in the bathroom.,Where is John? 
+747,hallway,"At the moment, John is in the hallway.",Where is John? 
+748,office,"At the moment, John is in the office.",Where is John? 
+749,kitchen,"At the moment, John is in the kitchen. The context shows that he went there after being in",Where is John? 
+750,office,"Based on the context provided, Sandra could be in either the bedroom or the office. The context",Where is Sandra? 
+751,office,"Sandra could be in either the bedroom or the office, as she visited both places.",Where is Sandra? 
+752,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+753,bedroom,"At the moment, Mary is in the bedroom. However, it's important to note that in",Where is Mary? 
+754,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+755,garden,Daniel could be in either the hallway or the garden based on the given context.,Where is Daniel? 
+756,garden,Daniel is in the hallway.,Where is Daniel? 
+757,office,John is in the office.,Where is John? 
+758,kitchen,Sandra is currently in the office.,Where is Sandra? 
+759,bathroom,"Mary is currently in the garden. The context states that she travelled to the garden. However,",Where is Mary? 
+760,office,Sandra is in the office.,Where is Sandra? 
+761,bedroom,"Sandra is in the office. The context states that ""Sandra went back to the office.""",Where is Sandra? 
+762,bathroom,Mary is in the bathroom.,Where is Mary? 
+763,garden,Daniel is currently in the garden.,Where is Daniel? 
+764,hallway,"At the moment, Daniel is in the garden. However, it was also mentioned that he moved to",Where is Daniel? 
+765,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+766,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+767,kitchen,John is currently in the kitchen.,Where is John? 
+768,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+769,bedroom,"At the moment, John is in the bedroom.",Where is John? 
+770,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+771,bedroom,John is currently in the bedroom.,Where is John? 
+772,office,John is currently in the office.,Where is John? 
+773,office,John is currently in the office.,Where is John? 
+774,kitchen,"At the moment, Mary is in the kitchen. The context states that she journeyed to the kitchen",Where is Mary? 
+775,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+776,bathroom,"At the moment, John is in the bathroom.",Where is John? 
+777,bathroom,"John is currently in the kitchen or the bathroom based on the context provided. However, the context ment",Where is John? 
+778,bathroom,John is currently in the kitchen or the bathroom. The context mentions that he moved to the kitchen,Where is John? 
+779,office,Daniel is currently in the office.,Where is Daniel? 
+780,bedroom,John is in the bedroom.,Where is John? 
+781,office,Daniel is currently in the office.,Where is Daniel? 
+782,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+783,bathroom,John is currently in the bathroom.,Where is John? 
+784,hallway,"At the moment, Sandra is in the kitchen. However, she later went back to the hallway",Where is Sandra? 
+785,office,John is at the office.,Where is John? 
+786,office,John is at the office.,Where is John? 
+787,hallway,"At the moment, the context does not provide enough information to determine exactly where Mary is. The last",Where is Mary? 
+788,hallway,"At the moment, the context does not provide enough information to determine exactly where Mary is. The last",Where is Mary? 
+789,garden,Sandra is in the garden. The context mentions that she journeyed to the garden after her,Where is Sandra? 
+790,garden,"Based on the context provided, Sandra was first at the office and then moved to the garden.",Where is Sandra? 
+791,garden,"Sandra is currently in the office or the garden, depending on which of the two actions described in",Where is Sandra? 
+792,garden,Sandra is in the garden. The first mention of Sandra in the context describes her traveling to,Where is Sandra? 
+793,office,John is currently in the office.,Where is John? 
+794,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+795,office,Daniel is at the office.,Where is Daniel? 
+796,office,Sandra is at the office.,Where is Sandra? 
+797,office,Mary is at the office.,Where is Mary? 
+798,office,"Sandra is currently in the bedroom. However, she previously went to the office.",Where is Sandra? 
+799,office,"Sandra is currently in the bedroom. However, in the context provided, she also went to the",Where is Sandra? 
+800,hallway,Sandra is in the hallway.,Where is Sandra? 
+801,bathroom,Daniel is currently in the bathroom.,Where is Daniel? 
+802,office,"Mary is currently in the office. The context states that she went to the bedroom first, but later",Where is Mary? 
+803,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+804,office,"At the moment, Mary is in the kitchen. The last action mentioned was ""Mary journeyed",Where is Mary? 
+805,garden,John is in the garden.,Where is John? 
+806,bedroom,John is in the bedroom.,Where is John? 
+807,bedroom,"Based on the context provided, John is currently in the bedroom.",Where is John? 
+808,hallway,"At the moment, Daniel is in the bedroom. However, you mentioned that he also traveled to the",Where is Daniel? 
+809,hallway,"At the moment, Daniel is in the bedroom.",Where is Daniel? 
+810,garden,Sandra is in the garden.,Where is Sandra? 
+811,garden,Sandra is in the garden.,Where is Sandra? 
+812,office,Daniel is at the office.,Where is Daniel? 
+813,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+814,hallway,"At the moment, Mary is in the hallway.",Where is Mary? 
+815,office,Daniel could be in either the bedroom or the office based on the given context.,Where is Daniel? 
+816,office,Mary is in the office.,Where is Mary? 
+817,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+818,garden,John is currently in the garden.,Where is John? 
+819,office,Daniel is currently in the office.,Where is Daniel? 
+820,garden,Sandra is in the garden.,Where is Sandra? 
+821,garden,Sandra is in the garden.,Where is Sandra? 
+822,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+823,hallway,John is currently in the hallway.,Where is John? 
+824,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+825,office,Sandra is at the office.,Where is Sandra? 
+826,bathroom,Mary is in the bathroom.,Where is Mary? 
+827,bedroom,"The last place Mary was mentioned going to in the context provided is the bedroom. Therefore, Mary is",Where is Mary? 
+828,bathroom,"At the moment, Mary is in the bathroom.",Where is Mary? 
+829,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+830,garden,Mary is in the garden.,Where is Mary? 
+831,bathroom,The last place Sandra was mentioned going to was the bathroom.,Where is Sandra? 
+832,garden,Mary is in the garden.,Where is Mary? 
+833,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+834,bedroom,"At the moment, Mary is in the bedroom.",Where is Mary? 
+835,bathroom,John is in the bathroom.,Where is John? 
+836,bathroom,John is in the bathroom.,Where is John? 
+837,bathroom,"The context states that Daniel went to the bedroom and later went to the bathroom. So, Daniel is",Where is Daniel? 
+838,office,"At the moment, Daniel is in the office. The last action mentioned was ""Daniel journeyed",Where is Daniel? 
+839,hallway,"At the moment, Sandra is in the hallway. However, she was previously in the garden.",Where is Sandra? 
+840,garden,"Sandra is also in the garden, just like Mary.",Where is Sandra? 
+841,garden,Sandra is in the garden.,Where is Sandra? 
+842,office,Daniel is at the office.,Where is Daniel? 
+843,kitchen,"The context mentions that John traveled to the kitchen most recently. Therefore, John is currently in the",Where is John? 
+844,kitchen,"Based on the context provided, John is currently in the bedroom. The last action mentioned for John was",Where is John? 
+845,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+846,bedroom,"John is currently in the bedroom. The first action was John traveling to the bedroom, and the second",Where is John? 
+847,garden,"Sandra is currently in the garden. The last action mentioned was ""Sandra went back to the",Where is Sandra? 
+848,garden,Sandra is currently in the garden. The last place she went to before the question was asked was,Where is Sandra? 
+849,office,John is currently in the office.,Where is John? 
+850,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+851,hallway,The context does not currently provide enough information to determine exactly where Daniel is. Based on the given context,Where is Daniel? 
+852,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+853,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+854,bedroom,"Based on the context provided, Mary is currently in the bedroom. The last mention of her movement was",Where is Mary? 
+855,bedroom,The context does not provide enough information to determine where Daniel is currently located. The context only mentions,Where is Daniel? 
+856,bedroom,Daniel could be in either the hallway or the bedroom based on the given context.,Where is Daniel? 
+857,bedroom,"Based on the context provided, John is currently in the bedroom.",Where is John? 
+858,kitchen,"At the moment, Mary is in the kitchen. The context mentions that she went back to the",Where is Mary? 
+859,office,"At the moment, Mary is in the office.",Where is Mary? 
+860,bathroom,Mary is in the bathroom.,Where is Mary? 
+861,garden,Mary is in the garden.,Where is Mary? 
+862,office,Mary is currently in the office.,Where is Mary? 
+863,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+864,hallway,Mary is currently in the kitchen.,Where is Mary? 
+865,garden,The context does not provide enough information to determine whether Sandra is currently in the hallway or the garden,Where is Sandra? 
+866,bedroom,Mary is in the bedroom.,Where is Mary? 
+867,bedroom,Mary is in the bedroom.,Where is Mary? 
+868,kitchen,Daniel is currently in the kitchen.,Where is Daniel? 
+869,hallway,John is currently in the kitchen.,Where is John? 
+870,bedroom,Mary is in the bedroom.,Where is Mary? 
+871,garden,John is currently in the garden.,Where is John? 
+872,hallway,"Based on the context provided, John is currently in the hallway.",Where is John? 
+873,hallway,"At the moment, John is in the hallway.",Where is John? 
+874,garden,Mary is currently in the garden.,Where is Mary? 
+875,garden,John could be in either the bedroom or the garden based on the given context.,Where is John? 
+876,garden,John is in the bedroom.,Where is John? 
+877,kitchen,"Daniel is currently in the kitchen. Despite the earlier mention of Daniel traveling to the bathroom, the last",Where is Daniel? 
+878,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+879,office,"At the moment, Sandra is in the office. The context mentions that she journeyed to",Where is Sandra? 
+880,bedroom,John is in the bedroom.,Where is John? 
+881,hallway,Daniel is in the hallway.,Where is Daniel? 
+882,office,Mary is currently in the office.,Where is Mary? 
+883,office,Mary is currently in the office.,Where is Mary? 
+884,hallway,John is currently in the hallway.,Where is John? 
+885,bedroom,"Based on the context provided, John has been to the garden but has since returned to the bedroom.",Where is John? 
+886,bedroom,"The context mentions that Daniel went to the bedroom once, so currently, Daniel is in the bedroom",Where is Daniel? 
+887,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+888,office,"Sandra is at the office. The context states that she ""journeyed to the office.""",Where is Sandra? 
+889,bedroom,"At the moment, based on the context provided, Daniel is in the bedroom. However, it'",Where is Daniel? 
+890,garden,John is in the garden.,Where is John? 
+891,office,John is currently at the office.,Where is John? 
+892,garden,"The context states that John has been to several places including the garden, office, and bedroom. Based",Where is John? 
+893,hallway,Mary is currently in the hallway.,Where is Mary? 
+894,office,John is currently at the office.,Where is John? 
+895,office,John is in the office.,Where is John? 
+896,garden,Sandra is currently in the garden.,Where is Sandra? 
+897,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+898,garden,John is currently in the garden.,Where is John? 
+899,office,"At the moment, Daniel is in the kitchen. However, based on the context provided, Daniel has",Where is Daniel? 
+900,bathroom,Daniel is in the office. The first statement in the context indicates that Daniel went back to the office,Where is Daniel? 
+901,bathroom,Daniel is in the office.,Where is Daniel? 
+902,garden,John is currently in the garden.,Where is John? 
+903,office,"At the moment, Mary is in the office. The context states that she moved there from the hallway",Where is Mary? 
+904,garden,Sandra is in the garden.,Where is Sandra? 
+905,garden,Sandra could be in either the bathroom or the garden based on the given context.,Where is Sandra? 
+906,kitchen,"Sandra could be in any of the following places based on the context provided: bathroom, garden,",Where is Sandra? 
+907,kitchen,Sandra could be in either the bathroom or the kitchen based on the given context.,Where is Sandra? 
+908,office,Daniel is in the office.,Where is Daniel? 
+909,office,Mary is currently in the office.,Where is Mary? 
+910,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+911,bedroom,"At the moment, the context does not provide enough information to determine exactly where Mary is. Based on",Where is Mary? 
+912,office,John is in the office.,Where is John? 
+913,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+914,garden,"At the moment, Mary is in the garden.",Where is Mary? 
+915,kitchen,Mary is in the kitchen.,Where is Mary? 
+916,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+917,garden,Mary is currently in the garden.,Where is Mary? 
+918,garden,Mary is currently in the garden.,Where is Mary? 
+919,bedroom,"Daniel is currently in the bedroom. He went there from the office. However, it's worth",Where is Daniel? 
+920,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+921,hallway,Mary is in the hallway. The context mentions that she went to the hallway after going to the,Where is Mary? 
+922,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+923,kitchen,Mary is in the kitchen.,Where is Mary? 
+924,bedroom,Daniel is currently in the bedroom.,Where is Daniel? 
+925,bathroom,Mary is in the bathroom.,Where is Mary? 
+926,office,"Based on the context provided, Daniel is not currently in any of the mentioned places as the actions described",Where is Daniel? 
+927,kitchen,"At the moment, Daniel is in the kitchen. The last action mentioned was ""Daniel journeyed",Where is Daniel? 
+928,office,Daniel is currently in the office.,Where is Daniel? 
+929,bathroom,Mary is currently in the bathroom.,Where is Mary? 
+930,office,Sandra is at the office.,Where is Sandra? 
+931,office,Daniel is at the office.,Where is Daniel? 
+932,bedroom,"At the moment, John is in the bedroom.",Where is John? 
+933,office,Sandra is currently at the office.,Where is Sandra? 
+934,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+935,hallway,John is in the hallway.,Where is John? 
+936,hallway,John is in the hallway.,Where is John? 
+937,garden,Daniel is currently in the garden.,Where is Daniel? 
+938,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+939,bedroom,Sandra is currently in the bedroom.,Where is Sandra? 
+940,bedroom,The context provided does not give enough information to determine exactly where John is at the moment. John went,Where is John? 
+941,office,"At the moment, Daniel is in the office. The context mentions that he went back to the",Where is Daniel? 
+942,office,"At the moment, Daniel is in the office.",Where is Daniel? 
+943,kitchen,John is in the kitchen.,Where is John? 
+944,hallway,"At the moment, Daniel is in the hallway.",Where is Daniel? 
+945,office,Sandra is in the office.,Where is Sandra? 
+946,bathroom,Mary is in the bathroom.,Where is Mary? 
+947,bathroom,"Based on the context provided, Sandra is currently in the bathroom. The context states that she went",Where is Sandra? 
+948,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+949,bedroom,"At the moment, Daniel is in the garden.",Where is Daniel? 
+950,hallway,John is in the hallway.,Where is John? 
+951,kitchen,John is in the kitchen.,Where is John? 
+952,kitchen,"At the moment, Sandra is in the kitchen.",Where is Sandra? 
+953,kitchen,Mary is currently in the kitchen.,Where is Mary? 
+954,office,Sandra is currently in the office.,Where is Sandra? 
+955,office,John is at the office.,Where is John? 
+956,kitchen,John is in the office.,Where is John? 
+957,garden,Sandra is in the garden.,Where is Sandra? 
+958,kitchen,Sandra is currently in the kitchen.,Where is Sandra? 
+959,bedroom,John is currently in the office.,Where is John? 
+960,hallway,Mary is in the hallway.,Where is Mary? 
+961,bathroom,"Daniel was in the bathroom initially. So, his current location is not mentioned in the context. However",Where is Daniel? 
+962,bathroom,John is currently in the bathroom.,Where is John? 
+963,bedroom,"At the moment, Mary is in the bedroom. However, it's important to note that she",Where is Mary? 
+964,garden,Mary is currently in the garden.,Where is Mary? 
+965,garden,Daniel is in the garden.,Where is Daniel? 
+966,bathroom,Mary is in the bathroom.,Where is Mary? 
+967,bathroom,The last place mentioned for Daniel was the bathroom.,Where is Daniel? 
+968,hallway,Mary is currently in the hallway.,Where is Mary? 
+969,kitchen,Sandra is in the kitchen.,Where is Sandra? 
+970,bathroom,Daniel is in the bathroom.,Where is Daniel? 
+971,kitchen,Daniel is in the kitchen.,Where is Daniel? 
+972,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+973,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+974,hallway,Daniel is currently in the hallway.,Where is Daniel? 
+975,bedroom,Daniel is in the bedroom.,Where is Daniel? 
+976,office,John is in the office.,Where is John? 
+977,office,John is in the office.,Where is John? 
+978,bedroom,"Mary is currently in the garden. The context mentions that she ""journeyed to the garden",Where is Mary? 
+979,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+980,kitchen,Mary is in the kitchen.,Where is Mary? 
+981,bathroom,Mary is in the bathroom.,Where is Mary? 
+982,bedroom,Sandra is in the bedroom.,Where is Sandra? 
+983,office,Sandra is currently in the office.,Where is Sandra? 
+984,garden,Mary is currently in the garden.,Where is Mary? 
+985,garden,Sandra is in the garden.,Where is Sandra? 
+986,garden,Sandra is in the garden.,Where is Sandra? 
+987,office,"The context mentions that Mary went to the bathroom, travelled to the bedroom, and journeyed",Where is Mary? 
+988,bathroom,John is currently in the kitchen.,Where is John? 
+989,bathroom,"Based on the context provided, John is currently in the bathroom. The last mention of John in the",Where is John? 
+990,garden,Sandra is in the garden.,Where is Sandra? 
+991,kitchen,Sandra is currently in the kitchen. Both Mary and Sandra have been in the kitchen at different,Where is Sandra? 
+992,garden,John is in the garden.,Where is John? 
+993,garden,Daniel is in the garden.,Where is Daniel? 
+994,garden,Mary is currently in the garden.,Where is Mary? 
+995,kitchen,John is in the kitchen.,Where is John? 
+996,hallway,Sandra is currently in the hallway.,Where is Sandra? 
+997,office,Sandra is currently in the office.,Where is Sandra? 
+998,bathroom,Sandra is currently in the bathroom.,Where is Sandra? 
+999,bedroom,John is in the bedroom.,Where is John? 

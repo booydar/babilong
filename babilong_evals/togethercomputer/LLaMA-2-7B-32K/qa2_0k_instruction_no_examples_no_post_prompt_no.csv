@@ -1,0 +1,3998 @@
+,target,output,question
+0,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is the milk? 
+1,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Mary went",Where is the football? 
+2,hallway,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the football? 
+3,hallway,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the football? 
+4,garden,"Label: hallway
+
+
+Context: Mary went to the garden. John went to",Where is the milk? 
+5,garden,"Label: office
+
+
+Context: Mary journeyed to the bathroom. Mary journey",Where is the milk? 
+6,bedroom,"Label: garden
+
+
+Context: Mary journeyed to the bathroom. Daniel went",Where is the football? 
+7,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the bathroom. Daniel",Where is the milk? 
+8,kitchen,"Label: garden
+
+
+Context: Mary journeyed to the bathroom. Daniel went",Where is the football? 
+9,kitchen,"Label: hallway
+
+
+Context: Mary journeyed to the bathroom. Daniel",Where is the football? 
+10,bedroom,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+11,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+12,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+13,garden,"Label: hallway
+
+
+Context: Mary went back to the garden. Mary went",Where is the milk? 
+14,bathroom,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the apple? 
+15,garden,"Label: garden
+
+
+Context: Daniel journeyed to the office. John took the",Where is the milk? 
+16,garden,"Label: garden
+
+
+Context: Daniel journeyed to the office. John took the",Where is the milk? 
+17,garden,"Label: garden
+
+
+Context: Daniel journeyed to the office. John took the",Where is the milk? 
+18,kitchen,"Label: garden
+
+
+Context: Daniel journeyed to the office. John took the",Where is the apple? 
+19,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. John took",Where is the apple? 
+20,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the apple? 
+21,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the bedroom. Mary",Where is the apple? 
+22,bathroom,"Label: hallway
+
+
+Context: Mary journeyed to the bedroom. Mary",Where is the football? 
+23,bathroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the football? 
+24,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the milk? 
+25,kitchen,"Label: hallway
+
+
+Context: Daniel moved to the hallway. John journey",Where is the milk? 
+26,kitchen,"Label: office
+
+
+Context: Daniel moved to the hallway. John journeyed",Where is the milk? 
+27,bathroom,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+28,bathroom,"Label: office
+
+
+Context: Daniel journeyed to the hallway. John went",Where is the apple? 
+29,kitchen,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+30,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the apple? 
+31,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the apple? 
+32,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the football? 
+33,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the apple? 
+34,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the apple? 
+35,office,"Label: hallway
+
+
+Context: John went back to the office. Mary went",Where is the milk? 
+36,kitchen,"Label: hallway
+
+
+Context: John went back to the office. Mary went",Where is the football? 
+37,kitchen,"Label: hallway
+
+
+Context: John went back to the office. Mary went",Where is the football? 
+38,kitchen,"Label: hallway
+
+
+Context: John went back to the office. Mary went",Where is the football? 
+39,bedroom,"Label: hallway
+
+
+Context: John went back to the office. Mary went",Where is the milk? 
+40,bedroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+41,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+42,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+43,office,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+44,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+45,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+46,office,"Label: office
+
+
+Context: John went to the bathroom. John went to",Where is the football? 
+47,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+48,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+49,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+50,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+51,hallway,"Label: hallway
+
+
+Context: Daniel took the milk there. John journeyed",Where is the apple? 
+52,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel journeyed",Where is the football? 
+53,kitchen,"Label: hallway
+
+
+Context: Daniel took the milk there. John journeyed",Where is the football? 
+54,kitchen,"Label: hallway
+
+
+Context: Daniel took the milk there. John journeyed",Where is the football? 
+55,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel travel",Where is the apple? 
+56,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel travel",Where is the milk? 
+57,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel travel",Where is the milk? 
+58,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel travel",Where is the milk? 
+59,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel travel",Where is the apple? 
+60,garden,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+61,garden,"Label: garden
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the milk? 
+62,kitchen,"Label: garden
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+63,kitchen,"Label: garden
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+64,kitchen,"Label: garden
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+65,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+66,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+67,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the milk? 
+68,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the milk? 
+69,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+70,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+71,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+72,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+73,bathroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+74,bathroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+75,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+76,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+77,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+78,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+79,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+80,bathroom,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the football? 
+81,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+82,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+83,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the football? 
+84,kitchen,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+85,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the milk? 
+86,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the apple? 
+87,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the milk? 
+88,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the football? 
+89,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the apple? 
+90,kitchen,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the milk? 
+91,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the milk? 
+92,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the milk? 
+93,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the milk? 
+94,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the milk? 
+95,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+96,bathroom,"Label: hallway
+
+
+Context: Mary went to the garden. John picked up",Where is the football? 
+97,bathroom,"Label: hallway
+
+
+Context: Mary went to the garden. John picked up",Where is the football? 
+98,bathroom,"Label: hallway
+
+
+Context: Mary went to the garden. John picked up",Where is the football? 
+99,hallway,"Label: hallway
+
+
+Context: Mary went to the garden. John picked up",Where is the milk? 
+100,office,"Label: bathroom
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+101,office,"Label: office
+
+
+Context: Mary went to the bathroom. Daniel went to",Where is the milk? 
+102,kitchen,"Label: office
+
+
+Context: Mary went to the bathroom. John went to",Where is the milk? 
+103,kitchen,"Label: office
+
+
+Context: Mary went to the garden. Mary went to the",Where is the milk? 
+104,bedroom,"Label: bedroom
+
+
+Context: Mary went to the garden. Daniel went to",Where is the football? 
+105,bathroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+106,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+107,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+108,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+109,bathroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+110,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is the football? 
+111,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is the football? 
+112,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is the football? 
+113,bedroom,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is the football? 
+114,office,"Label: hallway
+
+
+Context: Mary went back to the hallway. Mary",Where is the apple? 
+115,office,"Label: office
+
+
+Context: John was a good friend to me. John was",Where is the football? 
+116,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+117,office,"Label: office
+
+
+Context: John went to the hallway. John went to",Where is the milk? 
+118,bedroom,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+119,bathroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+120,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+121,bedroom,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the milk? 
+122,garden,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the apple? 
+123,garden,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the football? 
+124,garden,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the football? 
+125,kitchen,"Label: hallway
+
+
+Context: Daniel got the apple there. Daniel dropped the",Where is the football? 
+126,kitchen,"Label: office
+
+
+Context: Daniel got the apple there. Daniel dropped the apple",Where is the football? 
+127,kitchen,"Label: hallway
+
+
+Context: Daniel got the apple there. Daniel dropped the",Where is the football? 
+128,bedroom,"Label: office
+
+
+Context: Daniel got the apple there. Daniel dropped the apple",Where is the football? 
+129,bedroom,"Label: office
+
+
+Context: Daniel got the apple there. Daniel dropped the apple",Where is the football? 
+130,kitchen,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is the football? 
+131,kitchen,"Label: office
+
+
+Context: Daniel travelled to the hallway. Mary moved",Where is the football? 
+132,kitchen,"Label: hallway
+
+
+Context: Daniel travelled to the hallway. Mary",Where is the milk? 
+133,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the football? 
+134,hallway,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the football? 
+135,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+136,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+137,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+138,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+139,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+140,bedroom,"Label: bedroom
+
+Context: Daniel journeyed to the hallway. Daniel picked",Where is the football? 
+141,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+142,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+143,bedroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+144,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+145,kitchen,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the apple? 
+146,bathroom,"Label: office
+
+
+Context: John went to the bathroom. John went to",Where is the milk? 
+147,garden,"Label: office
+
+
+Context: John went to the bathroom. John went to",Where is the milk? 
+148,kitchen,"Label: office
+
+
+Context: John went to the bathroom. John went to",Where is the apple? 
+149,kitchen,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+150,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+151,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+152,bedroom,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+153,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the football? 
+154,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+155,hallway,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+156,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+157,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Daniel",Where is the milk? 
+158,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Daniel",Where is the milk? 
+159,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+160,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+161,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+162,garden,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is the apple? 
+163,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+164,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+165,garden,"Label: hallway
+
+
+Context: John went back to the garden. Daniel went",Where is the football? 
+166,garden,"Label: hallway
+
+
+Context: John went back to the garden. Daniel went",Where is the football? 
+167,hallway,"Label: hallway
+
+
+Context: John went back to the garden. Daniel went",Where is the apple? 
+168,hallway,"Label: hallway
+
+
+Context: John went back to the garden. Daniel went",Where is the apple? 
+169,office,"Label: hallway
+
+
+Context: John went back to the garden. Daniel went",Where is the football? 
+170,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is the apple? 
+171,bathroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is the apple? 
+172,hallway,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is the milk? 
+173,hallway,"Label: bedroom
+
+
+Context: John went back to the bedroom. John",Where is the milk? 
+174,bathroom,"Label: hallway
+
+
+Context: John went back to the bedroom. John",Where is the apple? 
+175,kitchen,"Label: bathroom
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the milk? 
+176,hallway,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the apple? 
+177,kitchen,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the apple? 
+178,office,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the milk? 
+179,office,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the milk? 
+180,garden,"Output: garden
+
+
+Context: <context>
+Sandra took the milk there",Where is the milk? 
+181,garden,"Label: bathroom
+
+
+Context: The man went to the store. The man",Where is the milk? 
+182,garden,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is the milk? 
+183,kitchen,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the apple? 
+184,kitchen,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+185,office,"Label: office
+
+
+Context: A man went to the bathroom. A woman",Where is the apple? 
+186,office,"Label: office
+
+
+Context: The man went to the bathroom. The woman",Where is the apple? 
+187,kitchen,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+188,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+189,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+190,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is the apple? 
+191,garden,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel went",Where is the apple? 
+192,garden,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel went",Where is the apple? 
+193,bedroom,"Label: hallway
+
+
+Context: Mary went to the bedroom. Daniel went",Where is the milk? 
+194,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+195,bathroom,"Label: bathroom
+
+
+Context: John journeyed to the bathroom. John",Where is the apple? 
+196,bathroom,"Label: garden
+
+
+Context: John journeyed to the bathroom. John journey",Where is the apple? 
+197,garden,"Label: garden
+
+
+Context: John journeyed to the bathroom. John journey",Where is the milk? 
+198,kitchen,"Label: garden
+
+
+Context: John journeyed to the bathroom. John journey",Where is the milk? 
+199,kitchen,"Label: garden
+
+
+Context: John went to the bathroom. John went to",Where is the milk? 
+200,office,"Label: office
+
+
+Context: Mary went to the hallway. Mary journeyed",Where is the milk? 
+201,office,"Label: office
+
+
+Context: Mary went to the hallway. Mary journeyed",Where is the milk? 
+202,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the milk? 
+203,garden,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the milk? 
+204,garden,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the milk? 
+205,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+206,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+207,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+208,bathroom,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+209,bathroom,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is the milk? 
+210,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the football? 
+211,kitchen,"Label: bathroom
+
+
+Context: Daniel journeyed to the office. Daniel went",Where is the football? 
+212,kitchen,"Label: bedroom
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is the football? 
+213,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is the milk? 
+214,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the office. Daniel journey",Where is the football? 
+215,office,"Label: bedroom
+
+
+Context: Daniel went to the office. Mary took the",Where is the apple? 
+216,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+217,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+218,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+219,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+220,office,"Output: office
+
+
+Context: <context>
+John picked up the apple there",Where is the apple? 
+221,office,"Label: office
+
+
+Context: John picked up the apple there. John moved to",Where is the apple? 
+222,office,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+223,bedroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+224,bedroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+225,bedroom,"Label: bedroom
+
+
+Context: The man went to the office. The man",Where is the apple? 
+226,kitchen,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the apple? 
+227,garden,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+228,bathroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+229,garden,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is the football? 
+230,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the football? 
+231,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the football? 
+232,bathroom,"Label: hallway
+
+
+Context: Daniel took the apple there. John moved to",Where is the football? 
+233,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the apple? 
+234,bathroom,"Label: hallway
+
+
+Context: Daniel took the apple there. John moved to",Where is the football? 
+235,bedroom,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel dropped",Where is the apple? 
+236,bedroom,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel dropped",Where is the apple? 
+237,kitchen,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel dropped",Where is the football? 
+238,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+239,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+240,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+241,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+242,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+243,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+244,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+245,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the office. John gra",Where is the milk? 
+246,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is the milk? 
+247,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+248,garden,"Label: hallway
+
+
+Context: John journeyed to the office. John went",Where is the football? 
+249,garden,"Label: hallway
+
+
+Context: John journeyed to the office. John went",Where is the football? 
+250,bathroom,"Output: bathroom
+
+
+Context: Daniel went back to the bathroom. Daniel",Where is the apple? 
+251,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+252,hallway,"Label: hallway
+
+
+Context: Daniel went back to the bathroom. Daniel",Where is the apple? 
+253,hallway,"Label: hallway
+
+
+Context: Daniel went back to the bathroom. Daniel",Where is the apple? 
+254,hallway,"Label: hallway
+
+
+Context: Daniel went back to the bathroom. Daniel",Where is the apple? 
+255,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+256,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+257,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+258,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+259,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+260,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the football? 
+261,garden,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+262,garden,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is the football? 
+263,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. John went to",Where is the apple? 
+264,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+265,garden,"Label: hallway
+
+
+Context: Daniel grabbed the apple there. Daniel",Where is the apple? 
+266,garden,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+267,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+268,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+269,garden,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+270,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+271,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+272,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went back",Where is the apple? 
+273,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+274,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+275,hallway,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+276,hallway,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+277,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+278,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+279,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+280,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. Daniel",Where is the football? 
+281,bathroom,"Label: bathroom
+
+
+Context: Daniel journeyed to the bathroom. Daniel",Where is the football? 
+282,office,"Label: office
+
+
+Context: Daniel journeyed to the bathroom. Daniel journey",Where is the milk? 
+283,office,"Label: office
+
+
+Context: Daniel journeyed to the bathroom. Daniel journey",Where is the milk? 
+284,office,"Label: office
+
+
+Context: Daniel journeyed to the bathroom. Daniel journey",Where is the milk? 
+285,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. Daniel",Where is the football? 
+286,bedroom,"Label: garden
+
+
+Context: John went back to the bedroom. Daniel went",Where is the football? 
+287,bedroom,"Label: garden
+
+
+Context: John went back to the bedroom. Daniel went",Where is the football? 
+288,bedroom,"Label: bedroom
+
+
+Context: John went back to the bedroom. Daniel",Where is the football? 
+289,bedroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the football? 
+290,office,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+291,office,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+292,office,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+293,office,"Label: hallway
+
+
+Context: John went to the hallway. John journey",Where is the apple? 
+294,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. John journey",Where is the milk? 
+295,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the milk? 
+296,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the football? 
+297,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the milk? 
+298,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the apple? 
+299,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the apple? 
+300,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+301,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+302,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+303,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+304,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+305,bathroom,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+306,bathroom,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+307,bathroom,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+308,bathroom,"Label: bedroom
+
+
+Context: Mary grabbed the milk there. John",Where is the milk? 
+309,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+310,kitchen,"Output: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+311,kitchen,"Label: hallway
+
+
+Context: John moved to the bathroom. John moved",Where is the milk? 
+312,kitchen,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary went",Where is the milk? 
+313,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+314,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+315,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+316,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+317,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+318,office,"Label: bedroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the milk? 
+319,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+320,bathroom,"Label: garden
+
+
+Context: Daniel grabbed the football there. Daniel went",Where is the football? 
+321,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the football? 
+322,bathroom,"Label: bedroom
+
+
+Context: Daniel grabbed the football there. Daniel",Where is the football? 
+323,bathroom,"Label: bedroom
+
+
+Context: Daniel grabbed the football there. Daniel",Where is the football? 
+324,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+325,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+326,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+327,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+328,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+329,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+330,garden,"Label: office
+
+
+Context: John journeyed to the garden. Daniel journeyed",Where is the football? 
+331,bathroom,"Label: office
+
+
+Context: John journeyed to the garden. Daniel journeyed",Where is the apple? 
+332,bathroom,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is the apple? 
+333,hallway,"Label: office
+
+
+Context: John journeyed to the garden. Daniel journeyed",Where is the football? 
+334,hallway,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel journey",Where is the football? 
+335,hallway,"Label: hallway
+
+
+Context: John went back to the office. Daniel journey",Where is the football? 
+336,hallway,"Label: hallway
+
+
+Context: John went back to the office. Daniel journey",Where is the football? 
+337,hallway,"Label: hallway
+
+
+Context: John went back to the office. Daniel journey",Where is the football? 
+338,hallway,"Label: hallway
+
+
+Context: John went back to the office. Daniel journey",Where is the football? 
+339,bedroom,"Label: hallway
+
+
+Context: John went back to the office. Daniel journey",Where is the milk? 
+340,garden,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+341,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+342,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+343,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+344,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+345,garden,"Output: garden
+
+
+Context: John went to the office. Mary journeyed to",Where is the football? 
+346,garden,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+347,garden,"Label: garden
+
+
+Context: Mary journeyed to the office. Daniel went to",Where is the apple? 
+348,garden,"Label: garden
+
+
+Context: Mary journeyed to the office. John went back",Where is the apple? 
+349,garden,"Label: garden
+
+
+Context: Mary journeyed to the office. Daniel went to",Where is the apple? 
+350,bedroom,"Label: garden
+
+
+Context: Mary picked up the football there. Daniel went back",Where is the milk? 
+351,office,"Label: office
+
+
+Context: Mary picked up the football there. Daniel went back",Where is the milk? 
+352,office,"Label: office
+
+
+Context: Mary picked up the football there. Daniel went back",Where is the milk? 
+353,office,"Label: bedroom
+
+
+Context: Mary went to the garden. Daniel went to",Where is the milk? 
+354,kitchen,"Label: bedroom
+
+
+Context: Mary went to the garden. Daniel went to",Where is the football? 
+355,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John moved",Where is the football? 
+356,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John moved",Where is the football? 
+357,office,"Label: hallway
+
+
+Context: John went to the bedroom. John moved",Where is the milk? 
+358,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John moved",Where is the milk? 
+359,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John moved",Where is the milk? 
+360,bedroom,"Label: bathroom
+
+
+Context: Mary went back to the hallway. Daniel",Where is the football? 
+361,bedroom,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the football? 
+362,bedroom,"Label: office
+
+
+Context: Mary went back to the bathroom. Daniel went",Where is the apple? 
+363,bedroom,"Label: bedroom
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the apple? 
+364,bedroom,"Label: bedroom
+
+
+Context: Mary went back to the hallway. Daniel",Where is the football? 
+365,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+366,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+367,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+368,bedroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the apple? 
+369,bedroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the apple? 
+370,kitchen,"Label: bathroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+371,kitchen,"Label: bathroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+372,kitchen,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+373,kitchen,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+374,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the milk? 
+375,kitchen,"Label: kitchen
+
+
+Context: John washed the dishes there. John put",Where is the milk? 
+376,kitchen,"Label: office
+
+
+Context: John journeyed to the office. John journeyed",Where is the milk? 
+377,kitchen,"Label: office
+
+
+Context: John journeyed to the office. John journeyed",Where is the milk? 
+378,office,"Label: hallway
+
+
+Context: John journeyed to the office. John went",Where is the apple? 
+379,office,"Label: hallway
+
+
+Context: John journeyed to the office. John went",Where is the apple? 
+380,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+381,bathroom,"Label: bathroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+382,bathroom,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+383,bedroom,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the milk? 
+384,bedroom,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+385,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+386,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+387,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+388,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+389,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Mary went",Where is the apple? 
+390,hallway,"Label: hallway
+
+
+Context: John journeyed to the garden. John went",Where is the milk? 
+391,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. John went",Where is the milk? 
+392,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. John went",Where is the milk? 
+393,garden,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel went",Where is the milk? 
+394,kitchen,"Label: hallway
+
+
+Context: John journeyed to the garden. Daniel went",Where is the football? 
+395,bedroom,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the apple? 
+396,bedroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+397,bedroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+398,garden,"Label: office
+
+
+Context: John went to the office. John went back to",Where is the football? 
+399,garden,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+400,bathroom,"Label: bathroom
+
+
+Context: John journeyed to the hallway. John",Where is the milk? 
+401,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+402,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the football? 
+403,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. John",Where is the football? 
+404,garden,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the football? 
+405,hallway,"Label: office
+
+
+Context: Daniel grabbed the football there. Daniel disc",Where is the football? 
+406,bathroom,"Label: bedroom
+
+
+Context: Daniel grabbed the football there. Daniel",Where is the football? 
+407,bathroom,"Label: office
+
+
+Context: Daniel grabbed the football there. Daniel disc",Where is the football? 
+408,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+409,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+410,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+411,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+412,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+413,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+414,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+415,bedroom,"Label: office
+
+
+Context: <context>
+Sandra journeyed to the",Where is the football? 
+416,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the bedroom. Mary",Where is the football? 
+417,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John went",Where is the apple? 
+418,hallway,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+419,office,"Label: hallway
+
+
+Context: John went to the office. John went back",Where is the football? 
+420,kitchen,"Label: bathroom
+
+
+Context: John journeyed to the bathroom. John",Where is the apple? 
+421,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+422,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+423,kitchen,"Label: hallway
+
+
+Context: John journeyed to the bathroom. John",Where is the apple? 
+424,kitchen,"Label: hallway
+
+
+Context: John journeyed to the bathroom. Daniel",Where is the milk? 
+425,bathroom,"Label: garden
+
+
+Context: Daniel went back to the hallway. Mary went",Where is the milk? 
+426,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the hallway. Mary",Where is the milk? 
+427,kitchen,"Label: bedroom
+
+
+Context: Daniel went back to the hallway. Mary",Where is the milk? 
+428,kitchen,"Label: bedroom
+
+
+Context: Daniel went back to the hallway. Mary",Where is the milk? 
+429,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+430,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is the football? 
+431,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+432,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+433,hallway,"Label: hallway
+
+
+Context: Mary went to the office. John took the",Where is the apple? 
+434,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. John took the",Where is the apple? 
+435,kitchen,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is the apple? 
+436,kitchen,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the football? 
+437,kitchen,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the football? 
+438,hallway,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the milk? 
+439,hallway,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the milk? 
+440,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. John",Where is the milk? 
+441,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. John",Where is the milk? 
+442,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. John",Where is the milk? 
+443,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. John",Where is the apple? 
+444,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. John",Where is the apple? 
+445,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+446,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+447,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the football? 
+448,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+449,kitchen,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+450,garden,"Label: office
+
+
+Context: Mary went to the hallway. Mary went to",Where is the milk? 
+451,hallway,"Label: office
+
+
+Context: Mary went to the hallway. Mary went to",Where is the football? 
+452,hallway,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the football? 
+453,garden,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the milk? 
+454,garden,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the milk? 
+455,bedroom,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is the milk? 
+456,bedroom,"Label: bedroom
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+457,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+458,office,"Label: hallway
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the milk? 
+459,office,"Label: bedroom
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+460,bathroom,"Label: hallway
+
+
+Context: Mary journeyed to the garden. John went",Where is the apple? 
+461,bathroom,"Label: hallway
+
+
+Context: Mary journeyed to the garden. John went",Where is the apple? 
+462,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the football? 
+463,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the football? 
+464,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+465,garden,"Label: bathroom
+
+
+Context: Mary went to the office. Daniel grabb",Where is the milk? 
+466,garden,"Label: bathroom
+
+
+Context: Mary went to the office. Daniel grabb",Where is the milk? 
+467,hallway,"Label: hallway
+
+
+Context: Mary went to the office. Daniel grabb",Where is the football? 
+468,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+469,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+470,garden,"Label: garden
+
+
+Context: John journeyed to the hallway. John went",Where is the football? 
+471,garden,"Label: bathroom
+
+
+Context: John journeyed to the hallway. John",Where is the football? 
+472,garden,"Label: bathroom
+
+
+Context: John journeyed to the hallway. Daniel",Where is the football? 
+473,garden,"Label: bathroom
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+474,garden,"Label: bedroom
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+475,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. John went",Where is the football? 
+476,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. Mary",Where is the football? 
+477,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is the football? 
+478,hallway,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is the football? 
+479,kitchen,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Daniel",Where is the milk? 
+480,office,"Label: office
+
+
+Context: Mary went to the hallway. Mary went to",Where is the football? 
+481,office,"Label: office
+
+
+Context: Mary went to the hallway. Mary went to",Where is the football? 
+482,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the football? 
+483,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the apple? 
+484,kitchen,"Label: hallway
+
+
+Context: Mary went to the hallway. Mary went",Where is the apple? 
+485,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+486,bathroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+487,bathroom,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is the milk? 
+488,bathroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+489,bathroom,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+490,bathroom,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the apple? 
+491,bathroom,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the apple? 
+492,office,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the apple? 
+493,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the apple? 
+494,bedroom,"Label: hallway
+
+
+Context: Mary went to the bedroom. Mary went",Where is the apple? 
+495,office,"Label: office
+
+
+Context: Daniel travelled to the garden. Mary journeyed",Where is the football? 
+496,hallway,"Label: office
+
+
+Context: Daniel went to the garden. Daniel went to the",Where is the apple? 
+497,bedroom,"Label: office
+
+
+Context: Daniel went to the garden. Daniel went to the",Where is the football? 
+498,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+499,hallway,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+500,office,"Label: garden
+
+
+Context: Mary journeyed to the office. Mary moved to",Where is the apple? 
+501,office,"Label: garden
+
+
+Context: Mary journeyed to the office. Mary moved to",Where is the apple? 
+502,garden,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is the milk? 
+503,garden,"Label: garden
+
+
+Context: Mary journeyed to the office. Mary moved to",Where is the milk? 
+504,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the office. Mary moved",Where is the milk? 
+505,bedroom,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is the milk? 
+506,bedroom,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is the apple? 
+507,kitchen,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is the football? 
+508,kitchen,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is the milk? 
+509,kitchen,"Label: hallway
+
+
+Context: John went to the office. Mary went to",Where is the milk? 
+510,office,"Label: hallway
+
+
+Context: John went to the kitchen. Mary journeyed",Where is the football? 
+511,office,"Label: hallway
+
+
+Context: John went to the bedroom. John went",Where is the football? 
+512,office,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+513,office,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the milk? 
+514,office,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+515,office,"Label: garden
+
+
+Context: Daniel went back to the garden. Mary went to",Where is the apple? 
+516,office,"Label: garden
+
+
+Context: Daniel went back to the garden. Mary went to",Where is the apple? 
+517,office,"Label: garden
+
+
+Context: Daniel went back to the garden. Mary went to",Where is the apple? 
+518,hallway,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary went",Where is the apple? 
+519,bathroom,"Label: hallway
+
+
+Context: Daniel went back to the garden. Mary went",Where is the apple? 
+520,office,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the apple? 
+521,office,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the apple? 
+522,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+523,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+524,garden,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the football? 
+525,hallway,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Mary",Where is the football? 
+526,hallway,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Mary",Where is the milk? 
+527,garden,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the milk? 
+528,office,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the apple? 
+529,office,"Label: hallway
+
+
+Context: Mary went back to the bathroom. Daniel",Where is the apple? 
+530,bedroom,Label: hallway,Where is the football? 
+531,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+532,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+533,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+534,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+535,kitchen,"Label: office
+
+
+Context: Daniel went to the office. John travelled to",Where is the apple? 
+536,kitchen,"Label: office
+
+
+Context: Daniel went to the office. John travelled to",Where is the apple? 
+537,kitchen,"Label: office
+
+
+Context: Daniel went to the office. John travelled to",Where is the milk? 
+538,kitchen,"Label: office
+
+
+Context: Daniel went to the office. John travelled to",Where is the milk? 
+539,garden,"Label: office
+
+
+Context: Daniel went to the office. John travelled to",Where is the football? 
+540,office,"Label: office
+
+
+Context: John journeyed to the bedroom. John went",Where is the football? 
+541,office,"Label: office
+
+
+Context: John journeyed to the bedroom. Daniel went",Where is the football? 
+542,garden,"Label: office
+
+
+Context: John journeyed to the bedroom. Daniel went",Where is the milk? 
+543,bathroom,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Daniel",Where is the apple? 
+544,bedroom,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Daniel",Where is the apple? 
+545,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+546,bathroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+547,bathroom,"Label: bathroom
+
+
+Context: John went to the office. John went to",Where is the milk? 
+548,bathroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+549,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+550,bathroom,"Label: office
+
+
+Context: Daniel journeyed to the bathroom. John went",Where is the apple? 
+551,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. John",Where is the football? 
+552,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. John",Where is the apple? 
+553,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. John",Where is the apple? 
+554,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. John",Where is the milk? 
+555,garden,"Label: garden
+
+
+Context: Daniel grabbed the apple there. Mary got",Where is the milk? 
+556,office,"Label: garden
+
+
+Context: Daniel grabbed the apple there. Mary got",Where is the milk? 
+557,office,"Label: garden
+
+
+Context: Daniel grabbed the apple there. Mary got",Where is the milk? 
+558,bathroom,"Label: bathroom
+
+
+Context: Daniel went back to the garden. Daniel went",Where is the milk? 
+559,office,"Label: garden
+
+
+Context: Daniel went back to the garden. Daniel went back",Where is the apple? 
+560,bedroom,"Label: bedroom
+
+
+Context: Daniel went back to the bedroom. Daniel",Where is the milk? 
+561,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the bedroom. Daniel",Where is the apple? 
+562,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+563,bathroom,"Label: bedroom
+
+
+Context: Daniel went back to the bedroom. Daniel",Where is the apple? 
+564,garden,"Label: office
+
+
+Context: Daniel went back to the bedroom. Daniel journey",Where is the football? 
+565,office,"Label: garden
+
+
+Context: John went back to the office. Daniel travelled",Where is the football? 
+566,bedroom,"Label: office
+
+
+Context: John went back to the office. Daniel travelled",Where is the milk? 
+567,hallway,"Label: hallway
+
+
+Context: John went back to the office. Daniel travel",Where is the apple? 
+568,office,"Label: hallway
+
+
+Context: John went back to the office. Daniel travel",Where is the apple? 
+569,bedroom,"Label: office
+
+
+Context: John went back to the office. Daniel travelled",Where is the milk? 
+570,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+571,bedroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+572,bathroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+573,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+574,office,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+575,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+576,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+577,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+578,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+579,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+580,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+581,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+582,office,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+583,garden,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the milk? 
+584,garden,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+585,garden,"Label: garden
+
+
+Context:",Where is the milk? 
+586,garden,"Label: garden
+
+
+Context:",Where is the milk? 
+587,garden,"Label: garden
+
+
+Context: John went back to the hallway. Daniel went",Where is the milk? 
+588,garden,"Label: garden
+
+
+Context: John went back to the hallway. Daniel went",Where is the milk? 
+589,garden,"Label: hallway
+
+
+Context: John went back to the hallway. Daniel",Where is the milk? 
+590,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+591,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+592,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+593,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+594,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+595,hallway,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is the milk? 
+596,hallway,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+597,hallway,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is the milk? 
+598,kitchen,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the football? 
+599,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is the apple? 
+600,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+601,kitchen,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+602,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+603,garden,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the apple? 
+604,hallway,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+605,bedroom,"Label: hallway
+
+
+Context: John took the football there. John put down",Where is the football? 
+606,bedroom,"Label: hallway
+
+
+Context: John took the football there. John put down",Where is the milk? 
+607,bedroom,"Label: hallway
+
+
+Context: John took the football there. John put down",Where is the milk? 
+608,bathroom,"Label: bedroom
+
+
+Context: John took the football there. John put down",Where is the milk? 
+609,hallway,"Label: hallway
+
+
+Context: John took the football there. John put down",Where is the apple? 
+610,garden,"Label: garden
+
+Context: Daniel went to the office. Mary took the apple there",Where is the apple? 
+611,garden,"Label: hallway
+
+
+Context: Daniel went to the office. Mary took the",Where is the apple? 
+612,garden,"Label: garden
+
+
+Context: Daniel went to the office. Mary took the apple",Where is the apple? 
+613,garden,"Label: garden
+
+
+Context: Daniel went to the office. Mary took the apple",Where is the apple? 
+614,garden,"Label: garden
+
+
+Context: Daniel went to the office. Mary took the apple",Where is the apple? 
+615,garden,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Daniel went",Where is the apple? 
+616,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bathroom. Daniel",Where is the apple? 
+617,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+618,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+619,kitchen,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the milk? 
+620,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Mary travel",Where is the football? 
+621,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Mary travel",Where is the football? 
+622,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. Mary travel",Where is the football? 
+623,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Mary travel",Where is the apple? 
+624,garden,"Label: hallway
+
+
+Context: John went to the hallway. Mary travel",Where is the apple? 
+625,kitchen,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is the football? 
+626,kitchen,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+627,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+628,bathroom,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+629,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+630,bathroom,"Label: garden
+
+
+Context: John went to the garden. John went to the",Where is the football? 
+631,kitchen,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the apple? 
+632,kitchen,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+633,kitchen,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+634,office,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+635,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel went to",Where is the football? 
+636,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Daniel went to",Where is the football? 
+637,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+638,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+639,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+640,office,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is the milk? 
+641,office,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is the apple? 
+642,bathroom,"Label: office
+
+
+Context: John went to the hallway. Daniel went to",Where is the milk? 
+643,bathroom,"Label: office
+
+
+Context: John went to the hallway. John went to",Where is the milk? 
+644,office,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the apple? 
+645,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Mary journeyed",Where is the football? 
+646,office,"Label: hallway
+
+
+Context: Mary went to the garden. Mary journeyed",Where is the milk? 
+647,office,"Label: hallway
+
+
+Context: Mary went to the garden. Mary journeyed",Where is the milk? 
+648,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Mary journeyed",Where is the football? 
+649,garden,"Label: hallway
+
+
+Context: Mary went to the garden. Mary journeyed",Where is the football? 
+650,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+651,office,"Label: hallway
+
+
+Context: John went back to the office. Daniel went",Where is the apple? 
+652,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+653,garden,"Label: hallway
+
+
+Context: John went back to the office. Daniel went",Where is the football? 
+654,garden,"Label: hallway
+
+
+Context: John went back to the office. Daniel went",Where is the football? 
+655,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+656,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the apple? 
+657,bathroom,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the football? 
+658,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the apple? 
+659,garden,"Label: bedroom
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the apple? 
+660,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+661,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+662,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+663,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+664,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+665,kitchen,"Label: hallway
+
+
+Context: Mary went back to the garden. Mary gra",Where is the apple? 
+666,garden,"Label: office
+
+
+Context: Mary went back to the garden. Mary grabb",Where is the football? 
+667,garden,"Label: hallway
+
+
+Context: Mary went back to the garden. Mary gra",Where is the milk? 
+668,hallway,"Label: hallway
+
+
+Context: Mary went back to the garden. Mary gra",Where is the apple? 
+669,hallway,"Label: hallway
+
+
+Context: Mary went back to the garden. Mary gra",Where is the apple? 
+670,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+671,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+672,bathroom,"Label: bathroom
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+673,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the milk? 
+674,bathroom,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the milk? 
+675,garden,"Label: garden
+
+
+Context: Daniel went to the bathroom. Mary took the",Where is the football? 
+676,garden,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary took",Where is the football? 
+677,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+678,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+679,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+680,bedroom,"Label: hallway
+
+
+Context: John went to the garden. John travelled",Where is the milk? 
+681,bedroom,"Label: hallway
+
+
+Context: John went to the garden. John travelled",Where is the football? 
+682,bedroom,"Label: hallway
+
+
+Context: John went to the garden. John travelled",Where is the milk? 
+683,bathroom,"Label: bedroom
+
+
+Context: John went to the garden. John travelled",Where is the football? 
+684,office,"Label: bedroom
+
+
+Context: John went to the garden. John travelled",Where is the football? 
+685,kitchen,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is the apple? 
+686,garden,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is the football? 
+687,garden,"Label: office
+
+
+Context: John went to the garden. Daniel went to the",Where is the football? 
+688,bathroom,"Label: bedroom
+
+
+Context: John went back to the garden. Daniel went",Where is the football? 
+689,bathroom,"Label: office
+
+
+Context: John went to the garden. John went to the",Where is the football? 
+690,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is the apple? 
+691,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+692,bedroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+693,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+694,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+695,bathroom,"Label: office
+
+
+Context: Mary went to the office. Daniel went to the",Where is the apple? 
+696,bathroom,"Label: office
+
+
+Context: Mary journeyed to the bedroom. Daniel journey",Where is the apple? 
+697,kitchen,"Label: bedroom
+
+
+Context: Mary went to the office. Daniel went to",Where is the football? 
+698,kitchen,"Label: bedroom
+
+
+Context: Mary journeyed to the bedroom. Daniel",Where is the football? 
+699,garden,"Label: bedroom
+
+
+Context: Mary journeyed to the office. Daniel journey",Where is the football? 
+700,bathroom,"Label: hallway
+
+
+Context: Mary moved to the hallway. Daniel took",Where is the milk? 
+701,bathroom,"Label: hallway
+
+
+Context: Mary moved to the hallway. Daniel took",Where is the milk? 
+702,bathroom,"Label: hallway
+
+
+Context: Mary moved to the hallway. Daniel took",Where is the milk? 
+703,bathroom,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is the milk? 
+704,office,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+705,bedroom,"Label: bathroom
+
+
+Context: Mary journeyed to the garden. Mary journey",Where is the football? 
+706,bedroom,"Label: bathroom
+
+
+Context: Mary journeyed to the garden. Mary journey",Where is the football? 
+707,bedroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+708,bedroom,"Label: bathroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+709,bedroom,"Label: bedroom
+
+
+Context: Mary journeyed to the garden. Mary went",Where is the football? 
+710,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel travel",Where is the milk? 
+711,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel travel",Where is the apple? 
+712,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel travel",Where is the apple? 
+713,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel travel",Where is the apple? 
+714,garden,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel travel",Where is the milk? 
+715,office,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+716,office,"Label: hallway
+
+
+Context: John went back to the bathroom. John",Where is the milk? 
+717,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+718,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+719,office,"Label: office
+
+
+Context: John went back to the garden. John went back",Where is the milk? 
+720,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+721,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+722,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+723,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+724,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+725,office,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+726,office,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+727,kitchen,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+728,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+729,kitchen,"Label: office
+
+
+Context: Daniel went to the office. Daniel went to the",Where is the football? 
+730,bedroom,"Label: bathroom
+
+
+Context: John went to the bathroom. John went",Where is the milk? 
+731,bathroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+732,bathroom,"Label: bedroom
+
+
+Context: John went to the office. John went to",Where is the football? 
+733,bathroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. Mary took",Where is the milk? 
+734,bathroom,"Label: bedroom
+
+
+Context: John journeyed to the garden. Mary took",Where is the football? 
+735,bathroom,"Label: hallway
+
+
+Context: John took the apple there. John went to",Where is the milk? 
+736,bathroom,"Label: hallway
+
+
+Context: John took the apple there. John went to",Where is the football? 
+737,bathroom,"Label: hallway
+
+
+Context: John took the apple there. John went to",Where is the milk? 
+738,bathroom,"Label: hallway
+
+
+Context: John took the apple there. Daniel went to",Where is the milk? 
+739,bathroom,"Label: hallway
+
+
+Context:",Where is the milk? 
+740,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+741,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+742,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+743,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+744,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+745,hallway,"Label: hallway
+
+
+Context: Daniel grabbed the football there. Mary",Where is the milk? 
+746,hallway,"Label: hallway
+
+
+Context: Daniel grabbed the football there. Mary",Where is the milk? 
+747,hallway,"Label: hallway
+
+
+Context: Daniel grabbed the football there. Mary",Where is the milk? 
+748,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+749,hallway,"Label: hallway
+
+
+Context: John journeyed to the bathroom. Daniel",Where is the milk? 
+750,office,"Label: office
+
+
+Context: Daniel got the football there. Mary travelled to",Where is the football? 
+751,hallway,"Label: hallway
+
+
+Context: Daniel got the football there. Mary travelled",Where is the football? 
+752,garden,"Label: hallway
+
+
+Context: Daniel got the football there. Mary travelled",Where is the football? 
+753,garden,"Label: hallway
+
+
+Context: Daniel got the football there. Mary travelled",Where is the football? 
+754,garden,"Label: hallway
+
+
+Context: Daniel got the football there. Mary travelled",Where is the football? 
+755,kitchen,"Label: garden
+
+
+Context: John went back to the hallway. Mary went",Where is the apple? 
+756,kitchen,"Label: hallway
+
+
+Context: John went back to the hallway. Mary",Where is the apple? 
+757,bedroom,"Label: hallway
+
+
+Context: John went back to the hallway. Daniel",Where is the football? 
+758,bedroom,"Label: office
+
+
+Context: John went back to the hallway. Daniel went",Where is the football? 
+759,bedroom,"Label: office
+
+
+Context: John went back to the hallway. Daniel went",Where is the football? 
+760,kitchen,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+761,office,"Label: garden
+
+
+Context: Daniel went to the garden. Mary went to the",Where is the milk? 
+762,office,"Label: garden
+
+
+Context: Daniel went to the office. Mary took the football",Where is the milk? 
+763,kitchen,"Label: garden
+
+
+Context: John went to the garden. Daniel went to the",Where is the apple? 
+764,bathroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the apple? 
+765,kitchen,"Output: kitchen
+
+
+Context: <context>
+Sandra picked up the milk",Where is the milk? 
+766,kitchen,"Label: bathroom
+
+
+Context: The man went to the bathroom. The",Where is the milk? 
+767,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+768,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+769,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+770,garden,"Label: office
+
+
+Context: Daniel journeyed to the hallway. Mary went",Where is the football? 
+771,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Mary",Where is the football? 
+772,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Mary",Where is the football? 
+773,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Mary",Where is the football? 
+774,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Mary",Where is the football? 
+775,kitchen,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+776,office,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+777,bathroom,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the apple? 
+778,office,"Label: hallway
+
+
+Context: John went to the garden. Mary journeyed",Where is the football? 
+779,office,"Label: office
+
+
+Context: John went to the garden. Mary journeyed to",Where is the apple? 
+780,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+781,garden,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+782,bathroom,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+783,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+784,kitchen,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+785,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+786,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+787,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+788,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+789,bathroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+790,bedroom,"Output: bedroom
+
+
+Context: <context>
+Sandra picked up the",Where is the football? 
+791,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. John went to",Where is the football? 
+792,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+793,bathroom,"Label: bathroom
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+794,office,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+795,hallway,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel travel",Where is the apple? 
+796,office,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the football? 
+797,hallway,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the football? 
+798,hallway,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the football? 
+799,hallway,"Label: hallway
+
+
+Context: Daniel picked up the apple there. Daniel went",Where is the football? 
+800,office,"Label: office
+
+
+Context: John journeyed to the bedroom. Mary got",Where is the apple? 
+801,office,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is the apple? 
+802,kitchen,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is the apple? 
+803,kitchen,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is the milk? 
+804,kitchen,"Label: hallway
+
+
+Context: John journeyed to the bedroom. Mary",Where is the milk? 
+805,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John journey",Where is the football? 
+806,garden,"Label: hallway
+
+
+Context: John went to the bathroom. John journey",Where is the apple? 
+807,office,"Label: hallway
+
+
+Context: John went to the bathroom. John journey",Where is the apple? 
+808,office,"Label: hallway
+
+
+Context: John went to the bathroom. John journey",Where is the apple? 
+809,office,"Label: hallway
+
+
+Context: John went to the bathroom. John journey",Where is the apple? 
+810,bathroom,"Label: hallway
+
+
+Context: Daniel got the football there. Daniel went back",Where is the football? 
+811,hallway,"Label: hallway
+
+
+Context: Daniel got the football there. Daniel went back",Where is the football? 
+812,hallway,"Label: hallway
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the football? 
+813,hallway,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the football? 
+814,kitchen,"Label: hallway
+
+
+Context: Daniel got the football there. Daniel went back",Where is the milk? 
+815,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+816,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the apple? 
+817,office,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+818,garden,"Label: hallway
+
+
+Context: Mary went to the office. Daniel went to",Where is the milk? 
+819,garden,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the apple? 
+820,office,"Label: office
+
+
+Context: John went to the bathroom. Daniel went back",Where is the football? 
+821,office,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+822,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+823,bedroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+824,bedroom,"Label: hallway
+
+
+Context: Mary went to the garden. Mary went to",Where is the apple? 
+825,office,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+826,office,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+827,kitchen,"Label: hallway
+
+
+Context: Daniel went to the office. Daniel went to",Where is the apple? 
+828,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the apple? 
+829,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the apple? 
+830,hallway,"Label: hallway
+
+
+Context: John went to the garden. John went to",Where is the football? 
+831,garden,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the milk? 
+832,bedroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+833,bedroom,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the football? 
+834,bedroom,"Label: hallway
+
+
+Context: John went to the hallway. John went",Where is the football? 
+835,garden,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the milk? 
+836,garden,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the milk? 
+837,garden,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the milk? 
+838,kitchen,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the football? 
+839,bathroom,"Label: bedroom
+
+
+Context: Daniel went to the bedroom. Daniel went",Where is the football? 
+840,bedroom,"Label: bedroom
+
+
+Context: John went to the hallway. Daniel went",Where is the milk? 
+841,bedroom,"Label: bedroom
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+842,bedroom,"Label: bedroom
+
+
+Context: John went to the hallway. Daniel went",Where is the football? 
+843,office,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+844,office,"Label: hallway
+
+
+Context: John went to the hallway. Daniel went",Where is the apple? 
+845,office,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+846,office,"Label: office
+
+
+Context: John went to the office. Daniel went to the",Where is the football? 
+847,kitchen,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the apple? 
+848,office,"Label: office
+
+
+Context: John went to the garden. John grabbed",Where is the football? 
+849,bedroom,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+850,kitchen,"Label: bedroom
+
+
+Context: John went to the bedroom. Daniel went",Where is the football? 
+851,bathroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+852,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+853,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+854,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+855,kitchen,"Label: bedroom
+
+
+Context: John went to the office. John went to",Where is the apple? 
+856,office,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the apple? 
+857,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the apple? 
+858,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the football? 
+859,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the hallway. Mary",Where is the apple? 
+860,bathroom,"Label: garden
+
+
+Context: John went to the bedroom. Mary went to",Where is the milk? 
+861,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+862,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. Mary",Where is the milk? 
+863,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+864,hallway,"Label: hallway
+
+
+Context: Mary went to the garden. John went to",Where is the milk? 
+865,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary moved",Where is the football? 
+866,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary moved",Where is the football? 
+867,hallway,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary moved",Where is the football? 
+868,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary moved",Where is the football? 
+869,office,"Label: hallway
+
+
+Context: Daniel went to the hallway. Mary moved",Where is the apple? 
+870,kitchen,"Label: garden
+
+
+Context: John moved to the garden. Daniel journeyed to",Where is the milk? 
+871,garden,"Label: hallway
+
+
+Context: John moved to the garden. Daniel journeyed",Where is the football? 
+872,garden,"Label: hallway
+
+
+Context: John moved to the garden. Daniel journeyed",Where is the football? 
+873,garden,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the football? 
+874,garden,"Label: hallway
+
+
+Context: John moved to the garden. Daniel went to",Where is the football? 
+875,garden,"Label: hallway
+
+
+Context: Daniel journeyed to the garden. Mary moved",Where is the football? 
+876,bathroom,"Label: hallway
+
+Context: Daniel journeyed to the garden. Mary moved to",Where is the football? 
+877,office,"Label: hallway
+
+
+Context: Daniel journeyed to the garden. Mary moved",Where is the milk? 
+878,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the garden. Mary moved",Where is the apple? 
+879,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the garden. Mary moved",Where is the football? 
+880,office,"Output: office
+
+
+Context: John was a good man. He was a good",Where is the apple? 
+881,office,"Label: office
+
+
+Context: John journeyed to the office. John grabb",Where is the apple? 
+882,kitchen,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the football? 
+883,bathroom,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+884,bathroom,"Label: garden
+
+
+Context: John went to the office. John went to the",Where is the apple? 
+885,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+886,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+887,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+888,bedroom,"Label: bedroom
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+889,bedroom,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+890,hallway,"Label: hallway
+
+
+Context: Daniel went to the bathroom. Mary went",Where is the milk? 
+891,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the apple? 
+892,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+893,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+894,garden,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the apple? 
+895,garden,"Label: garden
+
+
+Context: Mary went back to the bathroom. John went",Where is the milk? 
+896,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+897,garden,"Label: garden
+
+
+Context: Mary went back to the bathroom. John went",Where is the milk? 
+898,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+899,garden,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the milk? 
+900,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Mary went to",Where is the milk? 
+901,bedroom,"Label: bedroom
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+902,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. John went to",Where is the milk? 
+903,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. John went to",Where is the milk? 
+904,bedroom,"Label: hallway
+
+
+Context: Mary went to the office. John went to",Where is the milk? 
+905,hallway,"Label: hallway
+
+
+Context: John went to the bedroom. Daniel went",Where is the apple? 
+906,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+907,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+908,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the apple? 
+909,garden,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+910,office,"Output: office
+
+
+Context: <context>
+John went to the store.",Where is the milk? 
+911,office,"Label: office
+
+
+Context: John went to the office. John went to the",Where is the milk? 
+912,bathroom,"Label: office
+
+
+Context: John went back to the office. John went back",Where is the football? 
+913,bathroom,"Label: office
+
+
+Context: John went back to the office. John went back",Where is the football? 
+914,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+915,hallway,"Label: hallway
+
+
+Context: Mary went back to the office. Daniel journey",Where is the apple? 
+916,hallway,"Label: hallway
+
+
+Context: Mary went back to the office. Daniel journey",Where is the milk? 
+917,hallway,"Label: hallway
+
+
+Context: Mary went back to the office. Daniel journey",Where is the apple? 
+918,hallway,"Label: hallway
+
+
+Context: Mary went back to the office. Daniel journey",Where is the football? 
+919,hallway,"Label: hallway
+
+
+Context: Mary went back to the office. Daniel journey",Where is the milk? 
+920,kitchen,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+921,kitchen,"Label: hallway
+
+
+Context: Daniel went to the garden. Daniel went to",Where is the milk? 
+922,bathroom,"Label: hallway
+
+
+Context: Daniel went to the hallway. Daniel went",Where is the milk? 
+923,bathroom,"Label: hallway
+
+
+Context: Daniel went back to the hallway. Daniel",Where is the milk? 
+924,bathroom,"Label: hallway
+
+
+Context: Daniel journeyed to the hallway. Daniel",Where is the milk? 
+925,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+926,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the football? 
+927,garden,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+928,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the apple? 
+929,garden,"Label: hallway
+
+
+Context: John went to the office. John went to",Where is the milk? 
+930,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the milk? 
+931,hallway,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the milk? 
+932,bedroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the apple? 
+933,bedroom,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the apple? 
+934,garden,"Label: hallway
+
+
+Context: John went back to the bedroom. Daniel",Where is the milk? 
+935,garden,"Label: garden
+
+
+Context: John went to the store. He bought a car",Where is the apple? 
+936,garden,"Label: garden
+
+
+Context: John went to the garden. Mary journeyed to",Where is the apple? 
+937,garden,"Label: garden
+
+
+Context: John went to the bathroom. John went to",Where is the apple? 
+938,bathroom,"Label: office
+
+
+Context: Mary journeyed to the garden. Mary picked up",Where is the football? 
+939,hallway,"Label: hallway
+
+
+Context: Mary journeyed to the garden. John went",Where is the football? 
+940,bedroom,"Label: garden
+
+
+Context: John journeyed to the bathroom. Daniel went",Where is the apple? 
+941,bedroom,"Label: garden
+
+
+Context: John journeyed to the bathroom. Daniel went",Where is the apple? 
+942,office,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the football? 
+943,office,"Label: hallway
+
+
+Context: John journeyed to the bathroom. Daniel",Where is the football? 
+944,office,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the apple? 
+945,bedroom,"Label: bedroom
+
+
+Context: John went to the bathroom. Mary journey",Where is the apple? 
+946,bedroom,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the apple? 
+947,kitchen,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the milk? 
+948,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Mary journey",Where is the football? 
+949,bathroom,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+950,hallway,"Label: hallway
+
+
+Context: Mary grabbed the milk there. Daniel",Where is the football? 
+951,hallway,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is the football? 
+952,hallway,"Label: garden
+
+
+Context: John went to the bathroom. Daniel went to",Where is the football? 
+953,garden,"Label: hallway
+
+
+Context: Mary went to the bathroom. Daniel went",Where is the milk? 
+954,garden,"Label: hallway
+
+
+Context: Mary went to the office. Mary went to",Where is the milk? 
+955,bedroom,"Label: bedroom
+
+
+Context: <context>
+John took the football there",Where is the football? 
+956,bedroom,"Label: bedroom
+
+
+Context: John took the football there. John moved to",Where is the football? 
+957,bedroom,"Label: bedroom
+
+
+Context: John took the football there. John moved to",Where is the football? 
+958,bedroom,"Label: bedroom
+
+
+Context: John took the football there. John moved to",Where is the football? 
+959,bedroom,"Label: bedroom
+
+
+Context: John went to the office. John went to",Where is the football? 
+960,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+961,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+962,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+963,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the apple? 
+964,hallway,"Label: hallway
+
+
+Context: John went to the garden. Daniel went to",Where is the milk? 
+965,hallway,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+966,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+967,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+968,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+969,bedroom,"Label: hallway
+
+
+Context: John journeyed to the office. Daniel journey",Where is the football? 
+970,office,"Output: office
+
+
+Context: John took the milk there. Mary grabbed",Where is the apple? 
+971,kitchen,"Label: office
+
+
+Context: Mary grabbed the apple there. John took",Where is the apple? 
+972,kitchen,"Label: office
+
+
+Context: Mary grabbed the apple there. John took",Where is the apple? 
+973,kitchen,"Label: office
+
+
+Context: Mary grabbed the apple there. John took",Where is the apple? 
+974,office,"Label: office
+
+
+Context: Mary grabbed the apple there. John took",Where is the apple? 
+975,garden,"Label: hallway
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+976,garden,"Label: bedroom
+
+
+Context: John went to the bathroom. Daniel went",Where is the football? 
+977,kitchen,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the football? 
+978,bathroom,"Label: hallway
+
+
+Context: John journeyed to the bathroom. Daniel",Where is the milk? 
+979,bathroom,"Label: hallway
+
+
+Context: John journeyed to the hallway. Daniel",Where is the milk? 
+980,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is the apple? 
+981,office,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is the football? 
+982,hallway,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is the apple? 
+983,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is the apple? 
+984,bedroom,"Label: hallway
+
+
+Context: Daniel journeyed to the bedroom. Daniel",Where is the apple? 
+985,kitchen,"Label: bathroom
+
+
+Context: John went to the bathroom. Mary journey",Where is the football? 
+986,kitchen,"Label: office
+
+
+Context: John went to the bathroom. Daniel went to",Where is the football? 
+987,bathroom,"Label: bathroom
+
+
+Context: John journeyed to the bathroom. Mary",Where is the milk? 
+988,bedroom,"Label: hallway
+
+
+Context: Mary journeyed to the bathroom. John",Where is the milk? 
+989,garden,"Label: hallway
+
+
+Context: Mary journeyed to the bathroom. Daniel",Where is the milk? 
+990,garden,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+991,garden,"Label: garden
+
+
+Context: John went to the office. Daniel went to the",Where is the milk? 
+992,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+993,office,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+994,bedroom,"Label: hallway
+
+
+Context: John went to the office. Daniel went to",Where is the milk? 
+995,kitchen,"Label: bedroom
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+996,kitchen,"Label: bedroom
+
+
+Context: John took the football there. John left the",Where is the apple? 
+997,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the apple? 
+998,hallway,"Label: hallway
+
+
+Context: John went to the bathroom. John went",Where is the football? 

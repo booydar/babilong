@@ -1,0 +1,19 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about people and their locations hidden in some random text and a question. You need to answer the question based only on the information from the facts. If a person was in different locations, use the latest location the person was in to answer the question.",
+        "examples": "<example>\nBill is in the kitchen. Julie is either in the school or the cinema. Is Bill in the bedroom?\nAnswer: no\n</example>\n<example>\nFred is in the bedroom. Mary is either in the school or the cinema. Is Mary in the school?\nAnswer: maybe\n</example>\n<example>\nFred is either in the kitchen or the park. Bill moved to the cinema. Is Bill in the cinema?\nAnswer: yes\n</example>\n<context>\n",
+        "post_prompt": "Your answer should contain only one word - $yes$ or $no$ or $maybe$. Do not write anything else. Do not explain your answer.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": true
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "max_length": null,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": 0.0,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}

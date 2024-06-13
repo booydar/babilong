@@ -1,0 +1,863 @@
+,target,output,result,question
+0,office," Before the bathroom, the apple was in John's hand.",0.0,Where was the apple before the bathroom? 
+1,office," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+2,office," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+3,bathroom, The football was in the garden before the garden.,0.0,Where was the football before the garden? 
+4,bathroom, The football was in the garden before the garden.,0.0,Where was the football before the garden? 
+5,garden," Before the bathroom, the apple was with Sandra.",0.0,Where was the apple before the bathroom? 
+6,kitchen, The milk was in the office.,0.0,Where was the milk before the office? 
+7,kitchen," Before the office, the apple was in the orchard.",0.0,Where was the apple before the office? 
+8,kitchen," Before the office, the apple was in the orchard.",0.0,Where was the apple before the office? 
+9,garden, The apple was in the bedroom before Daniel discarded it.,0.0,Where was the apple before the bedroom? 
+10,garden, Daniel got the apple.,0.0,Where was the apple before the bedroom? 
+11,garden," Before the bathroom, the milk was in the kitchen.",0.0,Where was the milk before the bathroom? 
+12,garden," Before the bathroom, the milk was in the kitchen.",0.0,Where was the milk before the bathroom? 
+13,garden," Before the bathroom, the milk was in the kitchen.",0.0,Where was the milk before the bathroom? 
+14,kitchen," Before the garden, the football was in the house.",0.0,Where was the football before the garden? 
+15,kitchen," Before the garden, the football was in the house.",0.0,Where was the football before the garden? 
+16,garden, The milk was in the kitchen before it was taken to the bedroom.,0.0,Where was the milk before the bedroom? 
+17,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+18,bedroom," Before the bathroom, the football was at the football field.",0.0,Where was the football before the bathroom? 
+19,garden," Before Mary went to the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+20,garden, The football was in the office before Sandra took it.,0.0,Where was the football before the office? 
+21,hallway," Before the garden, the football was in John's possession.",0.0,Where was the football before the garden? 
+22,office, The milk was in the kitchen before it was picked up by Sandra.,0.0,Where was the milk before the kitchen? 
+23,kitchen, The milk was at the store before the bedroom.,0.0,Where was the milk before the bedroom? 
+24,bathroom," Before the bedroom, the football was with Sandra.",0.0,Where was the football before the bedroom? 
+25,office, The football was in the bedroom before it was dropped.,0.0,Where was the football before the bedroom? 
+26,garden, The football was in the office before it was dropped by Sandra.,0.0,Where was the football before the office? 
+27,garden, The football was in the office before it was dropped by Sandra.,0.0,Where was the football before the office? 
+28,garden, The apple was in the office before the office.,0.0,Where was the apple before the office? 
+29,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+30,office, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+31,office," Before the kitchen, the apple was in the living room.",0.0,Where was the apple before the kitchen? 
+32,hallway, The milk was in the kitchen before it was in the bedroom.,0.0,Where was the milk before the bedroom? 
+33,bedroom, The milk was in the garden.,0.0,Where was the milk before the garden? 
+34,hallway," Before the bathroom, the apple was in the hands of Sandra.",0.0,Where was the apple before the bathroom? 
+35,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+36,garden, The football was in the hallway.,0.0,Where was the football before the hallway? 
+37,garden, The football was in the hallway.,0.0,Where was the football before the hallway? 
+38,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+39,hallway, The milk was in the fridge before it was discarded in the bathroom.,0.0,Where was the milk before the bathroom? 
+40,bedroom," Before going to the bathroom, the apple was in the hands of Mary.",0.0,Where was the apple before the bathroom? 
+41,bedroom," Before the bathroom, the apple was in the hands of John.",0.0,Where was the apple before the bathroom? 
+42,bedroom," Before the bathroom, the apple was in the hands of John.",0.0,Where was the apple before the bathroom? 
+43,bedroom," Before the bathroom, the apple was in the hands of John.",0.0,Where was the apple before the bathroom? 
+44,bedroom," Before Mary moved to the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+45,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+46,garden, The apple was in the bedroom before Daniel took it.,0.0,Where was the apple before the bedroom? 
+47,garden," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+48,bathroom, The apple was in the bedroom before it was taken by Daniel.,0.0,Where was the apple before the bedroom? 
+49,bathroom, The apple was in the bedroom before it was taken by Daniel.,0.0,Where was the apple before the bedroom? 
+50,office, The football was in the office before Mary moved it to the hallway.,1.0,Where was the football before the hallway? 
+51,kitchen, The apple was in the office before the office.,0.0,Where was the apple before the office? 
+52,office," Before the garden, the football was in Mary's possession.",0.0,Where was the football before the garden? 
+53,office, The football was in the bedroom before Mary discarded it.,0.0,Where was the football before the bedroom? 
+54,garden," Before Mary picked it up, the apple was on a table.",0.0,Where was the apple before the hallway? 
+55,hallway, The football was in the bedroom before it was discarded.,0.0,Where was the football before the bedroom? 
+56,bathroom, The football was in the hallway before John discarded it.,0.0,Where was the football before the hallway? 
+57,bedroom," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+58,garden, The football was in the bathroom before Mary took it there.,0.0,Where was the football before the bathroom? 
+59,garden, The football was in the bathroom before Mary took it there.,0.0,Where was the football before the bathroom? 
+60,bathroom, The milk was in the office before Sandra took it.,0.0,Where was the milk before the office? 
+61,bathroom," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+62,bathroom," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+63,garden," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+64,kitchen," Before the bathroom, the football was in the hands of either Sandra or John.",0.0,Where was the football before the bathroom? 
+65,office," Before the hallway, the football was in Daniel's hands.",0.0,Where was the football before the hallway? 
+66,hallway, The apple was on the ground before John picked it up and took it to the garden.,0.0,Where was the apple before the garden? 
+67,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the kitchen? 
+68,kitchen, The apple was in the bathroom before it was dropped.,0.0,Where was the apple before the bathroom? 
+69,garden, The milk was in John's hands before he dropped it in the hallway.,0.0,Where was the milk before the hallway? 
+70,hallway, The milk was in John's hands before it was dropped at the office.,0.0,Where was the milk before the office? 
+71,garden, The milk was in John's hand before he dropped it in the hallway.,0.0,Where was the milk before the hallway? 
+72,office, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+73,office," Before going to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+74,kitchen, The milk was at the store before Mary picked it up.,0.0,Where was the milk before the office? 
+75,kitchen, The milk was at the store before Mary got it.,0.0,Where was the milk before the office? 
+76,kitchen, The milk was at the store before Mary got it.,0.0,Where was the milk before the office? 
+77,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+78,bathroom, The milk was in the kitchen before the bedroom.,0.0,Where was the milk before the bedroom? 
+79,garden, The apple was in John's hand before he left it in the bathroom.,0.0,Where was the apple before the bathroom? 
+80,bathroom, The milk was in the kitchen before it was dropped.,0.0,Where was the milk before the kitchen? 
+81,bathroom, The milk was in the kitchen before it was dropped.,0.0,Where was the milk before the kitchen? 
+82,garden," Before the bathroom, the milk was in the kitchen.",0.0,Where was the milk before the bathroom? 
+83,bathroom, The football was in the bedroom before Mary grabbed it.,0.0,Where was the football before the bedroom? 
+84,hallway, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+85,hallway, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+86,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+87,bedroom," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+88,kitchen, The apple was in the hallway before Daniel took it.,0.0,Where was the apple before the hallway? 
+89,kitchen, The apple was in the hallway before Daniel took it.,0.0,Where was the apple before the hallway? 
+90,hallway, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+91,bedroom," Before John took the milk, it was in the refrigerator.",0.0,Where was the milk before the bathroom? 
+92,bathroom," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+93,hallway, The football was in the garden.,0.0,Where was the football before the bathroom? 
+94,garden, The football was in the hallway before Daniel took it.,0.0,Where was the football before the hallway? 
+95,garden, Daniel took the football from the hallway.,0.0,Where was the football before the hallway? 
+96,hallway," Before the bathroom, the apple was in the hands of Sandra.",0.0,Where was the apple before the bathroom? 
+97,hallway," Before the bathroom, the apple was in the hands of Sandra.",0.0,Where was the apple before the bathroom? 
+98,garden," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+99,garden," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+100,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+101,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+102,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+103,hallway, The milk was in the kitchen before it was taken to the bathroom.,0.0,Where was the milk before the bathroom? 
+104,hallway, The milk was in the kitchen before it was taken to the bathroom.,0.0,Where was the milk before the bathroom? 
+105,hallway, The milk was in the kitchen before it was taken to the bathroom.,0.0,Where was the milk before the bathroom? 
+106,garden, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+107,garden, The milk was in the fridge before the hallway.,0.0,Where was the milk before the hallway? 
+108,garden," Before John picked it up, the milk was in the fridge.",0.0,Where was the milk before the hallway? 
+109,garden, The milk was in the fridge.,0.0,Where was the milk before the hallway? 
+110,kitchen," Before Mary went to the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+111,kitchen," Before the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+112,kitchen," Before Mary went to the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+113,office, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+114,office, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+115,garden, The milk was in the kitchen before it was dropped.,0.0,Where was the milk before the kitchen? 
+116,bathroom, The milk was in the office.,0.0,Where was the milk before the office? 
+117,bathroom, The milk was in the office.,0.0,Where was the milk before the office? 
+118,bathroom, The milk was in the office before it was dropped.,0.0,Where was the milk before the office? 
+119,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+120,garden," Before the kitchen, the football was with Sandra.",0.0,Where was the football before the kitchen? 
+121,garden, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+122,garden, The football was in the bathroom before the kitchen.,0.0,Where was the football before the kitchen? 
+123,bedroom, The football was in the garden before John picked it up.,0.0,Where was the football before the garden? 
+124,bedroom, The football was in the garden before Mary took it.,0.0,Where was the football before the garden? 
+125,kitchen, The milk was in the kitchen.,1.0,Where was the milk before the bedroom? 
+126,kitchen, The milk was in the refrigerator before it was moved to the bedroom.,0.0,Where was the milk before the bedroom? 
+127,kitchen," Before the bedroom, the milk was in the kitchen.",1.0,Where was the milk before the bedroom? 
+128,bathroom, The football was in the hallway before it was dropped.,0.0,Where was the football before the hallway? 
+129,bathroom, The football was in the hallway before it was dropped.,0.0,Where was the football before the hallway? 
+130,office, The football was in the garden before Daniel dropped it.,0.0,Where was the football before the garden? 
+131,garden, The football was in the hallway.,0.0,Where was the football before the hallway? 
+132,garden," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+133,garden," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+134,hallway, The milk was in the fridge before it was moved to the kitchen.,0.0,Where was the milk before the kitchen? 
+135,bathroom, The apple was in the office before Sandra got it.,0.0,Where was the apple before the office? 
+136,bathroom, The apple was in the office.,0.0,Where was the apple before the office? 
+137,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+138,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+139,garden," Before the hallway, the apple was in the room.",0.0,Where was the apple before the hallway? 
+140,office," Before the kitchen, the football was with Mary.",0.0,Where was the football before the kitchen? 
+141,office, The apple was in the garden before the bedroom.,0.0,Where was the apple before the bedroom? 
+142,office," Before the kitchen, the football was with Sandra.",0.0,Where was the football before the kitchen? 
+143,garden," Before the office, the milk was at John's house.",0.0,Where was the milk before the office? 
+144,bathroom, The milk was at the kitchen counter.,0.0,Where was the milk before the bedroom? 
+145,kitchen," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+146,kitchen," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+147,kitchen," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+148,kitchen," Before going to the garden, the milk was taken by Sandra from Mary.",0.0,Where was the milk before the garden? 
+149,bedroom, The milk was in the fridge before it was taken by Mary.,0.0,Where was the milk before the kitchen? 
+150,bathroom, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+151,bathroom, The football was in the bathroom before John picked it up.,1.0,Where was the football before the kitchen? 
+152,bathroom, The football was in the office before it was discarded.,0.0,Where was the football before the office? 
+153,bathroom, The football was in the office before it was discarded.,0.0,Where was the football before the office? 
+154,bathroom," Before the office, the milk was in the store.",0.0,Where was the milk before the office? 
+155,office, In the street.,0.0,Where was the football before the bedroom? 
+156,bedroom," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+157,kitchen," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+158,kitchen," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+159,hallway, The football was in the bedroom before the bedroom.,0.0,Where was the football before the bedroom? 
+160,garden," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+161,bathroom," Before Mary moved to the hallway, the football was in the room.",0.0,Where was the football before the hallway? 
+162,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+163,kitchen," Before the office, the apple was in the garden.",0.0,Where was the apple before the office? 
+164,kitchen," Before the bathroom, the football was in the living room.",0.0,Where was the football before the bathroom? 
+165,hallway, The milk was in the fridge before it was picked up by Daniel.,0.0,Where was the milk before the kitchen? 
+166,bedroom," Before the bathroom, the football was in the hands of either John or Sandra.",0.0,Where was the football before the bathroom? 
+167,hallway, The milk was in the kitchen.,0.0,Where was the milk before the kitchen? 
+168,hallway, The milk was in the kitchen before it was picked up by Daniel.,0.0,Where was the milk before the kitchen? 
+169,hallway, The apple was in the office.,0.0,Where was the apple before the office? 
+170,bathroom, The apple was in the office before John moved it.,0.0,Where was the apple before the office? 
+171,bedroom," Before the bathroom, the apple was in the hands of Sandra.",0.0,Where was the apple before the bathroom? 
+172,bathroom," Before the office, the apple was in the hands of Daniel.",0.0,Where was the apple before the office? 
+173,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+174,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+175,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+176,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+177,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the garden? 
+178,kitchen," Before the hallway, the apple was in the kitchen.",1.0,Where was the apple before the hallway? 
+179,kitchen," Before the hallway, the apple was in the kitchen.",1.0,Where was the apple before the hallway? 
+180,kitchen," Before the office, the milk was at John's house.",0.0,Where was the milk before the office? 
+181,garden," Before John grabbed the milk, it was at the store.",0.0,Where was the milk before the kitchen? 
+182,bathroom," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+183,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+184,hallway, The football was in the kitchen before it was discarded.,0.0,Where was the football before the kitchen? 
+185,kitchen, Mary grabbed the milk there.,0.0,Where was the milk before the garden? 
+186,office," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+187,hallway," Before Mary moved to the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+188,hallway," Before Mary moved to the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+189,hallway," Before Mary moved to the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+190,bedroom, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+191,bedroom, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+192,bedroom, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+193,bedroom, The milk was at the store before the office.,0.0,Where was the milk before the office? 
+194,bedroom, The milk was at the store before the office.,0.0,Where was the milk before the office? 
+195,bedroom," Before the hallway, the milk was in the fridge.",0.0,Where was the milk before the hallway? 
+196,bedroom, The milk was in the hallway before it was discarded.,0.0,Where was the milk before the hallway? 
+197,bedroom, The milk was in the kitchen before it was discarded.,0.0,Where was the milk before the hallway? 
+198,hallway, The apple was in the bedroom before John left it there.,0.0,Where was the apple before the bedroom? 
+199,hallway, The football was in the bedroom before it was picked up by Mary.,0.0,Where was the football before the bedroom? 
+200,kitchen," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+201,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+202,bedroom, The milk was in the fridge.,0.0,Where was the milk before the office? 
+203,bedroom, The milk was in the fridge.,0.0,Where was the milk before the office? 
+204,bedroom, Mary picked up the milk.,0.0,Where was the milk before the office? 
+205,bedroom, The milk was in the fridge before Mary picked it up.,0.0,Where was the milk before the office? 
+206,kitchen, The football was in the bedroom before Daniel took it.,0.0,Where was the football before the bedroom? 
+207,bathroom, The football was in the bedroom before Daniel moved to the bedroom.,0.0,Where was the football before the bedroom? 
+208,bathroom, The football was in the living room before it was moved to the bedroom.,0.0,Where was the football before the bedroom? 
+209,bathroom," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+210,bedroom, The milk was in the fridge.,0.0,Where was the milk before the office? 
+211,bedroom, The milk was at home before John travelled to the office.,0.0,Where was the milk before the office? 
+212,bedroom, The milk was at home before John travelled to the office.,0.0,Where was the milk before the office? 
+213,kitchen," Before the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+214,kitchen," Before the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+215,hallway, The football was in the bathroom before Sandra grabbed it.,0.0,Where was the football before the bathroom? 
+216,hallway, The football was with Daniel before Mary went to the bathroom.,0.0,Where was the football before the bathroom? 
+217,hallway, The football was in the bathroom before the bathroom.,0.0,Where was the football before the bathroom? 
+218,bathroom, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+219,garden, Daniel's house,0.0,Where was the football before the hallway? 
+220,bedroom," Before the kitchen, the apple was in the hands of Daniel.",0.0,Where was the apple before the kitchen? 
+221,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+222,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+223,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+224,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+225,hallway," Before Mary picked it up, the apple was on a table in the hallway.",1.0,Where was the apple before the bathroom? 
+226,office, The milk was in the house.,0.0,Where was the milk before the garden? 
+227,bathroom, The milk was in the hallway before the office.,0.0,Where was the milk before the office? 
+228,bathroom," Before the office, the milk was in the hallway.",0.0,Where was the milk before the office? 
+229,hallway," Before the bedroom, the football was on the ground.",0.0,Where was the football before the bedroom? 
+230,bathroom, The milk was at the store before the office.,0.0,Where was the milk before the office? 
+231,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+232,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+233,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+234,garden," Before the hallway, the football was with Mary.",0.0,Where was the football before the hallway? 
+235,garden," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+236,garden," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+237,kitchen," Before the bathroom, the apple was in the kitchen.",1.0,Where was the apple before the bathroom? 
+238,bathroom," Before the hallway, the apple was in Sandra's possession.",0.0,Where was the apple before the hallway? 
+239,office," Before the bedroom, the football was outside.",0.0,Where was the football before the bedroom? 
+240,kitchen, The football was in the garden.,0.0,Where was the football before the garden? 
+241,bedroom," Before the hallway, the football was outside.",0.0,Where was the football before the hallway? 
+242,bathroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+243,office," Before the bathroom, the apple was in John's hand.",0.0,Where was the apple before the bathroom? 
+244,kitchen, The apple was in the kitchen.,1.0,Where was the apple before the bedroom? 
+245,kitchen, The apple was in the kitchen.,1.0,Where was the apple before the bedroom? 
+246,kitchen, The apple was not in the bedroom before John moved to the bedroom.,0.0,Where was the apple before the bedroom? 
+247,office, The apple was in the bedroom before Mary moved it to the bathroom.,0.0,Where was the apple before the bathroom? 
+248,office, The apple was in the bathroom.,0.0,Where was the apple before the bathroom? 
+249,bathroom, The apple was in the office.,0.0,Where was the apple before the office? 
+250,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+251,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+252,garden, The football was in the kitchen before it was discarded.,0.0,Where was the football before the kitchen? 
+253,bedroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+254,garden, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+255,kitchen, The milk was in the kitchen.,1.0,Where was the milk before the bathroom? 
+256,garden, The football was in the bathroom before Mary went back to the bathroom.,0.0,Where was the football before the bathroom? 
+257,garden, The apple was on the table before it was dropped by Sandra.,0.0,Where was the apple before the bathroom? 
+258,hallway, In the hallway.,1.0,Where was the milk before the office? 
+259,office, The milk was in the hallway before the bathroom.,0.0,Where was the milk before the bathroom? 
+260,office, The milk was in the hallway.,0.0,Where was the milk before the bathroom? 
+261,office, The milk was in the kitchen before the bathroom.,0.0,Where was the milk before the bathroom? 
+262,bedroom, The football was in the office before it was picked up by Mary.,0.0,Where was the football before the office? 
+263,hallway, The football was in the living room before John picked it up and took it to the bathroom.,0.0,Where was the football before the bathroom? 
+264,hallway, The football was in the living room before John picked it up and took it to the bathroom.,0.0,Where was the football before the bathroom? 
+265,hallway, The football was in the living room before John picked it up and took it to the bathroom.,0.0,Where was the football before the bathroom? 
+266,bathroom, The milk was in the hallway before it was dropped by John.,0.0,Where was the milk before the hallway? 
+267,office, The football was in the bedroom before the bathroom.,0.0,Where was the football before the bathroom? 
+268,office, The football was in the bedroom before the bathroom.,0.0,Where was the football before the bathroom? 
+269,bathroom," Before the garden, the football was with Sandra.",0.0,Where was the football before the garden? 
+270,hallway, The football was in the living room before John went to the bedroom.,0.0,Where was the football before the bedroom? 
+271,hallway, The football was in the living room before it was taken to the bedroom.,0.0,Where was the football before the bedroom? 
+272,office, In the bedroom.,0.0,Where was the milk before the hallway? 
+273,office, Daniel left the milk there.,0.0,Where was the milk before the hallway? 
+274,kitchen, The milk was in the fridge before it was dropped in the garden.,0.0,Where was the milk before the garden? 
+275,kitchen, The milk was in the fridge before it was dropped in the garden.,0.0,Where was the milk before the garden? 
+276,garden, The milk was in the kitchen.,0.0,Where was the milk before the hallway? 
+277,bedroom, The football was in the bathroom.,0.0,Where was the football before the bathroom? 
+278,hallway," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+279,bedroom," Before the bathroom, the football was in the hands of Mary.",0.0,Where was the football before the bathroom? 
+280,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+281,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+282,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+283,office," Before the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+284,office," Before the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+285,office," Before the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+286,garden, The football was in the living room before it was moved to the bedroom.,0.0,Where was the football before the bedroom? 
+287,garden, The milk was in the kitchen before Mary went to the bedroom.,0.0,Where was the milk before the bedroom? 
+288,garden," Before Mary went to the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+289,garden, The football was in the bedroom before Daniel moved it.,0.0,Where was the football before the bedroom? 
+290,garden, The football was in the bedroom before Daniel moved it.,0.0,Where was the football before the bedroom? 
+291,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+292,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+293,bedroom," Before Mary went to the hallway, the milk was with Sandra.",0.0,Where was the milk before the hallway? 
+294,bedroom, The milk was in the fridge before it was taken to the garden.,0.0,Where was the milk before the garden? 
+295,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+296,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+297,hallway," Before the bathroom, the milk was at the store.",0.0,Where was the milk before the bathroom? 
+298,kitchen, The milk was at the office before Daniel took it.,0.0,Where was the milk before the office? 
+299,kitchen, The milk was in the dais.,0.0,Where was the milk before the office? 
+300,kitchen, The milk was at the office before Daniel took it.,0.0,Where was the milk before the office? 
+301,hallway, The football was in the garden before Daniel got it.,0.0,Where was the football before the garden? 
+302,bathroom, The football was in the garden before Daniel got it.,0.0,Where was the football before the garden? 
+303,bathroom," Before the garden, the apple was in the bathroom.",1.0,Where was the apple before the garden? 
+304,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+305,bathroom, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+306,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+307,kitchen, The football was at the garden before Daniel moved it.,0.0,Where was the football before the garden? 
+308,kitchen, The milk was at the store before it was moved to the garden.,0.0,Where was the milk before the garden? 
+309,kitchen, The milk was at the store before it was moved to the garden.,0.0,Where was the milk before the garden? 
+310,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+311,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+312,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+313,bedroom, The football was in the kitchen before it was discarded.,0.0,Where was the football before the kitchen? 
+314,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+315,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+316,office, The milk was in the kitchen before it was in the bedroom.,0.0,Where was the milk before the bedroom? 
+317,bedroom, The milk was at the store before Daniel got it.,0.0,Where was the milk before the office? 
+318,bathroom, The football was in the hallway before Daniel left it there.,0.0,Where was the football before the hallway? 
+319,bedroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+320,bathroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+321,bathroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+322,hallway, The football was in the bathroom.,0.0,Where was the football before the bathroom? 
+323,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+324,office, The football was in the bathroom before it was discarded.,0.0,Where was the football before the bathroom? 
+325,office," Before it was in the bathroom, the football was discarded by Sandra.",0.0,Where was the football before the bathroom? 
+326,bathroom," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+327,office," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+328,garden, The milk was in the kitchen before Mr. Sandra picked it up.,0.0,Where was the milk before the kitchen? 
+329,kitchen, The milk was in the fridge before it was picked up by Mary and Sandra.,0.0,Where was the milk before the garden? 
+330,office, The milk was in the fridge before it was picked up by Sandra.,0.0,Where was the milk before the garden? 
+331,garden," Before the bedroom, the football was with John.",0.0,Where was the football before the bedroom? 
+332,office, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+333,kitchen, The apple was in the orchard.,0.0,Where was the apple before the garden? 
+334,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+335,kitchen, The apple was in the orchard.,0.0,Where was the apple before the garden? 
+336,hallway, John took the apple.,0.0,Where was the apple before the garden? 
+337,garden, The apple was in the bathroom.,0.0,Where was the apple before the bathroom? 
+338,hallway, The apple was in the office before John dropped it.,0.0,Where was the apple before the office? 
+339,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+340,bedroom," Before Mary moved to the bathroom, the apple was left on the table.",0.0,Where was the apple before the bathroom? 
+341,hallway, The football was in the bathroom before Daniel got it.,0.0,Where was the football before the bathroom? 
+342,bedroom," Before the kitchen, the apple was in the living room.",0.0,Where was the apple before the kitchen? 
+343,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+344,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+345,kitchen," Before the garden, the apple was in the hands of Sandra.",0.0,Where was the apple before the garden? 
+346,hallway, The football was in the garden.,0.0,Where was the football before the garden? 
+347,kitchen, In the office.,0.0,Where was the football before the office? 
+348,kitchen, The football was in the office before it was discarded.,0.0,Where was the football before the office? 
+349,garden," Before Mary went back to the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+350,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+351,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+352,garden," Before Mary picked it up, the milk was on the kitchen counter.",0.0,Where was the milk before the hallway? 
+353,hallway, The apple was in the garden before John moved it.,0.0,Where was the apple before the garden? 
+354,bathroom, The football was in the bedroom before Mary took it.,0.0,Where was the football before the bedroom? 
+355,bathroom, The football was in the bedroom before John went to the bedroom.,0.0,Where was the football before the bedroom? 
+356,hallway, The apple was in the garden before Daniel picked it up.,0.0,Where was the apple before the garden? 
+357,bathroom," Before the hallway, the apple was on the table.",0.0,Where was the apple before the hallway? 
+358,garden," Before Mary took the football, it was in the hallway.",0.0,Where was the football before the hallway? 
+359,garden," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+360,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the hallway? 
+361,hallway, The milk was in the fridge before it was discarded.,0.0,Where was the milk before the office? 
+362,hallway, The milk was in the office before Daniel put it down.,0.0,Where was the milk before the office? 
+363,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the hallway? 
+364,office, The milk was in the kitchen before it was picked up by John.,0.0,Where was the milk before the kitchen? 
+365,kitchen, The milk was in the fridge.,0.0,Where was the milk before the garden? 
+366,office, The milk was in the kitchen before Mary moved it.,0.0,Where was the milk before the kitchen? 
+367,bathroom," Before the kitchen, the apple was left by John.",0.0,Where was the apple before the kitchen? 
+368,kitchen, The apple was in the office before it was left by John.,0.0,Where was the apple before the office? 
+369,hallway, The milk was in the fridge before it was taken by Mary.,0.0,Where was the milk before the kitchen? 
+370,bathroom," Before Mary left the milk in the hallway, it was in the kitchen.",0.0,Where was the milk before the hallway? 
+371,bedroom," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+372,bedroom," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+373,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+374,garden, The milk was in the fridge before the office.,0.0,Where was the milk before the office? 
+375,garden, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+376,garden, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+377,garden, The milk was in the office before Mary moved it.,0.0,Where was the milk before the office? 
+378,hallway, The football was in the office.,0.0,Where was the football before the office? 
+379,bedroom, The milk was in the kitchen before it was discarded.,0.0,Where was the milk before the kitchen? 
+380,bedroom," Before the kitchen, the milk was in the refrigerator.",0.0,Where was the milk before the kitchen? 
+381,garden," Before the bathroom, the football was in the hands of Daniel.",0.0,Where was the football before the bathroom? 
+382,hallway, The football was in the garden.,0.0,Where was the football before the garden? 
+383,bathroom," Before Sandra took the milk, it was in the fridge.",0.0,Where was the milk before the hallway? 
+384,bedroom, Daniel's house.,0.0,Where was the football before the office? 
+385,bedroom, The football was in the kitchen.,0.0,Where was the football before the office? 
+386,bedroom, Daniel picked it up.,0.0,Where was the football before the office? 
+387,bathroom, The milk was at the store before it was in the bedroom.,0.0,Where was the milk before the bedroom? 
+388,hallway, The apple was in the bedroom before Mary left it there.,0.0,Where was the apple before the bedroom? 
+389,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+390,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+391,garden, The milk was in the kitchen before it was moved to the bedroom.,0.0,Where was the milk before the bedroom? 
+392,garden, The milk was in the kitchen before it was moved to the bedroom.,0.0,Where was the milk before the bedroom? 
+393,garden, The apple was in the kitchen before Mary moved it.,0.0,Where was the apple before the kitchen? 
+394,office," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+395,hallway, The football was at John's house.,0.0,Where was the football before the bathroom? 
+396,hallway, The football was with John before he travelled to the bathroom.,0.0,Where was the football before the bathroom? 
+397,bedroom," Before the hallway, the football was in John's possession.",0.0,Where was the football before the hallway? 
+398,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+399,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+400,bedroom, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+401,kitchen, The apple was in Mary's hand before she discarded it in the bedroom.,0.0,Where was the apple before the bedroom? 
+402,kitchen, The apple was in Mary's hand before she discarded it in the bedroom.,0.0,Where was the apple before the bedroom? 
+403,office," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+404,garden, The football was in the hallway before the hallway.,0.0,Where was the football before the hallway? 
+405,garden, The milk was in the fridge before it was discarded.,0.0,Where was the milk before the office? 
+406,office, The milk was in the fridge before it was discarded.,0.0,Where was the milk before the kitchen? 
+407,kitchen, The football was in the garden before Sandra took it.,0.0,Where was the football before the garden? 
+408,bedroom," Before John moved it to the bathroom, the apple was sitting on the kitchen counter.",0.0,Where was the apple before the bathroom? 
+409,office," Before the bedroom, the apple was left in the kitchen.",0.0,Where was the apple before the bedroom? 
+410,garden," Before the office, the apple was in the kitchen.",0.0,Where was the apple before the office? 
+411,garden," Before the office, the apple was in the kitchen.",0.0,Where was the apple before the office? 
+412,garden," Before the office, the apple was in the kitchen.",0.0,Where was the apple before the office? 
+413,hallway," Before the bathroom, the apple was in the hands of Daniel.",0.0,Where was the apple before the bathroom? 
+414,bedroom, The football was in the kitchen before Daniel grabbed it.,0.0,Where was the football before the kitchen? 
+415,hallway," Before the bathroom, the apple was in the hands of Daniel.",0.0,Where was the apple before the bathroom? 
+416,bathroom," Before the hallway, the apple was in the room.",0.0,Where was the apple before the hallway? 
+417,office, The apple was in the kitchen before it was discarded.,0.0,Where was the apple before the kitchen? 
+418,garden," Before the hallway, the football was with John.",0.0,Where was the football before the hallway? 
+419,garden," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+420,garden, The apple was in the office before Sandra took it.,0.0,Where was the apple before the office? 
+421,garden, The apple was in the office before Sandra took it.,0.0,Where was the apple before the office? 
+422,garden, The apple was in the office before Sandra took it.,0.0,Where was the apple before the office? 
+423,bedroom," Before the garden, the apple was in the hands of Mary.",0.0,Where was the apple before the garden? 
+424,bedroom, The apple was in the garden before John went to the garden.,0.0,Where was the apple before the garden? 
+425,kitchen, The apple was in the bedroom before Mary discarded it there.,0.0,Where was the apple before the bedroom? 
+426,office," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+427,office," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+428,garden," Before John took the apple, it was in the bathroom.",0.0,Where was the apple before the bathroom? 
+429,garden," Before John moved to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+430,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+431,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+432,bathroom," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+433,bathroom," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+434,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+435,bathroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+436,garden, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+437,garden, The apple was in the hallway before the kitchen.,0.0,Where was the apple before the kitchen? 
+438,office, The football was in the garden.,0.0,Where was the football before the garden? 
+439,garden, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+440,garden, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+441,garden, The apple was in the bathroom before it was discarded.,0.0,Where was the apple before the bathroom? 
+442,kitchen, The apple was not mentioned in the context.,0.0,Where was the apple before the bedroom? 
+443,bathroom," Before the office, the football was with Mary.",0.0,Where was the football before the office? 
+444,bathroom, Mary put down the football there.,0.0,Where was the football before the office? 
+445,bedroom, The football was in the living room before it was in the kitchen.,0.0,Where was the football before the kitchen? 
+446,bedroom, The football was in the living room before it was in the kitchen.,0.0,Where was the football before the kitchen? 
+447,bedroom, The football was in the living room before it was in the kitchen.,0.0,Where was the football before the kitchen? 
+448,garden, The football was in the bedroom before Mary picked it up.,0.0,Where was the football before the bedroom? 
+449,garden, The football was in the bedroom.,0.0,Where was the football before the bedroom? 
+450,garden, The football was in the bedroom.,0.0,Where was the football before the bedroom? 
+451,garden, The football was in the bedroom.,0.0,Where was the football before the bedroom? 
+452,bedroom," Before the bathroom, the apple was in the hands of John.",0.0,Where was the apple before the bathroom? 
+453,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+454,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+455,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+456,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+457,garden," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+458,bathroom, Daniel picked up the milk there.,0.0,Where was the milk before the hallway? 
+459,garden, The apple was in the office.,0.0,Where was the apple before the office? 
+460,garden, The apple was in the office.,0.0,Where was the apple before the office? 
+461,garden, The apple was in the office.,0.0,Where was the apple before the office? 
+462,office," Before John moved to the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+463,garden," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+464,garden," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+465,garden," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+466,hallway, Mary grabbed the milk.,0.0,Where was the milk before the office? 
+467,office," Before Mary grabbed the milk, it was in the fridge.",0.0,Where was the milk before the hallway? 
+468,office," Before the bathroom, the football was in the hands of either John or Sandra.",0.0,Where was the football before the bathroom? 
+469,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+470,kitchen, The apple was in the garden.,0.0,Where was the apple before the garden? 
+471,bedroom, The football was in the kitchen before the kitchen.,0.0,Where was the football before the kitchen? 
+472,kitchen," Before the garden, the apple was in the tree.",0.0,Where was the apple before the garden? 
+473,bathroom, The milk was at the store before the office.,0.0,Where was the milk before the office? 
+474,bathroom," Before the garden, the football was with Sandra.",0.0,Where was the football before the garden? 
+475,bedroom, The football was in the office before it was picked up by Mary.,0.0,Where was the football before the office? 
+476,bedroom, The football was in the office before it was picked up by Mary.,0.0,Where was the football before the office? 
+477,bedroom, The milk was at the store before it was brought to the office.,0.0,Where was the milk before the office? 
+478,office, The milk was in the kitchen before it was in the bedroom.,0.0,Where was the milk before the bedroom? 
+479,bathroom," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+480,bathroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+481,office," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+482,garden, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+483,bathroom," Before the kitchen, the football was with Mary.",0.0,Where was the football before the kitchen? 
+484,bathroom," Before the garden, the apple was in the hands of Mary.",0.0,Where was the apple before the garden? 
+485,garden, The milk was at the store before it was brought to the office.,0.0,Where was the milk before the office? 
+486,garden, The football was with Mary before she went to the bedroom.,0.0,Where was the football before the bedroom? 
+487,garden, The football was in the bedroom before Mary got it.,0.0,Where was the football before the bedroom? 
+488,garden, The football was in the bedroom before Mary got it.,0.0,Where was the football before the bedroom? 
+489,garden, Daniel had the milk.,0.0,Where was the milk before the bedroom? 
+490,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+491,garden, The milk was in the fridge.,0.0,Where was the milk before the office? 
+492,garden, The milk was in the office before Mary went to the office.,0.0,Where was the milk before the office? 
+493,garden, The milk was in the office before it was taken by Daniel.,0.0,Where was the milk before the office? 
+494,garden," Before the bathroom, the football was with John.",0.0,Where was the football before the bathroom? 
+495,bathroom," Before the office, the football was at John's house.",0.0,Where was the football before the office? 
+496,garden," Before Mary went to the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+497,garden," Before Mary went to the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+498,garden, The milk was in the fridge before Mary grabbed it in the hallway.,0.0,Where was the milk before the hallway? 
+499,hallway," Before the garden, the football was with John.",0.0,Where was the football before the garden? 
+500,garden, The football was at the office before John went back to the office.,0.0,Where was the football before the office? 
+501,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+502,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+503,kitchen," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+504,hallway, The milk was at the store.,0.0,Where was the milk before the kitchen? 
+505,bedroom, The milk was at the store.,0.0,Where was the milk before the office? 
+506,garden, The football was in the garden.,1.0,Where was the football before the bedroom? 
+507,garden, The football was in the garden before the bedroom.,1.0,Where was the football before the bedroom? 
+508,garden, The football was in the garden before the bedroom.,1.0,Where was the football before the bedroom? 
+509,garden, The football was in the garden before the bedroom.,1.0,Where was the football before the bedroom? 
+510,office," Before Mary went back to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+511,bathroom, The football was in the garden before it was picked up by Mary.,0.0,Where was the football before the garden? 
+512,bathroom, Mary picked up the football.,0.0,Where was the football before the garden? 
+513,office, The football was in the bathroom before the kitchen.,0.0,Where was the football before the kitchen? 
+514,office, The football was in the kitchen before the kitchen.,0.0,Where was the football before the kitchen? 
+515,office, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+516,bathroom," Before the hallway, the apple was in the hand of John.",0.0,Where was the apple before the hallway? 
+517,hallway," Before the office, the apple was in the orchard.",0.0,Where was the apple before the office? 
+518,kitchen, The milk was in the office before it was dropped.,0.0,Where was the milk before the office? 
+519,kitchen, Mary picked up the milk there.,0.0,Where was the milk before the office? 
+520,bathroom, The milk was in the fridge before Mary picked it up and took it to the hallway.,0.0,Where was the milk before the hallway? 
+521,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the hallway? 
+522,bathroom, The apple was in the hallway.,0.0,Where was the apple before the hallway? 
+523,bathroom, The apple was in the garden.,0.0,Where was the apple before the kitchen? 
+524,garden, the kitchen?,0.0,Where was the apple before the kitchen? 
+525,bedroom, The milk was in the kitchen before the bathroom.,0.0,Where was the milk before the bathroom? 
+526,bedroom, The milk was in the bedroom before the bathroom.,1.0,Where was the milk before the bathroom? 
+527,garden, The football was taken by Daniel from the bedroom.,0.0,Where was the football before the bedroom? 
+528,garden," Before the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+529,office," Before the hallway, the apple was in the orchard.",0.0,Where was the apple before the hallway? 
+530,hallway," Before the kitchen, the apple was in the hands of Sandra.",0.0,Where was the apple before the kitchen? 
+531,bathroom," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+532,bathroom," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+533,bathroom, The football was in the hallway.,0.0,Where was the football before the hallway? 
+534,bathroom, In John's hands.,0.0,Where was the football before the hallway? 
+535,hallway," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+536,hallway," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+537,hallway," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+538,kitchen, The apple was in the kitchen.,1.0,Where was the apple before the hallway? 
+539,garden," Before the office, the milk was in the store.",0.0,Where was the milk before the office? 
+540,office," Before the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+541,hallway, The football was in the garden.,0.0,Where was the football before the garden? 
+542,bathroom, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+543,bathroom, The milk was in the fridge before it was picked up by Sandra.,0.0,Where was the milk before the kitchen? 
+544,bathroom, The football was in the garden.,0.0,Where was the football before the garden? 
+545,bathroom, The football was in the garden.,0.0,Where was the football before the garden? 
+546,bathroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+547,garden, The football was in the garden before it was in the kitchen.,1.0,Where was the football before the kitchen? 
+548,garden, The football was in the kitchen before Sandra picked it up.,0.0,Where was the football before the kitchen? 
+549,office, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+550,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+551,garden, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+552,bathroom," Before it was in the kitchen, the milk was in the fridge.",0.0,Where was the milk before the kitchen? 
+553,bathroom, The football was in the bedroom before it was discarded by Sandra.,0.0,Where was the football before the bedroom? 
+554,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the kitchen? 
+555,bathroom, The milk was in the kitchen.,0.0,Where was the milk before the kitchen? 
+556,bathroom," Before the garden, the apple was in the hands of Sandra.",0.0,Where was the apple before the garden? 
+557,bedroom, The milk was in the kitchen before the office.,0.0,Where was the milk before the office? 
+558,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the office? 
+559,bedroom, The milk was in the kitchen before it was discarded.,0.0,Where was the milk before the office? 
+560,bedroom, The milk was in the hotel before the office.,0.0,Where was the milk before the office? 
+561,kitchen, The football was in the living room before it was taken to the bedroom.,0.0,Where was the football before the bedroom? 
+562,kitchen, The apple was in the office.,0.0,Where was the apple before the office? 
+563,kitchen, The apple was in the office.,0.0,Where was the apple before the office? 
+564,kitchen, The apple was in the office.,0.0,Where was the apple before the office? 
+565,bathroom," Before the kitchen, the apple was in the garden.",0.0,Where was the apple before the kitchen? 
+566,office, The football was in the garden before it was moved to the garden.,0.0,Where was the football before the garden? 
+567,kitchen," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+568,kitchen," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+569,office, The milk was in the fridge before it was picked up by John.,0.0,Where was the milk before the kitchen? 
+570,kitchen," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+571,office, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+572,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+573,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+574,office, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+575,office, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+576,office, The milk was in the fridge before it was discarded.,0.0,Where was the milk before the garden? 
+577,bedroom, The milk was in the office before Daniel discarded it.,0.0,Where was the milk before the office? 
+578,bedroom, The milk was in the office before Daniel discarded it.,0.0,Where was the milk before the office? 
+579,kitchen, The milk was in the hallway before Daniel dropped it.,0.0,Where was the milk before the hallway? 
+580,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+581,hallway, The milk was in the kitchen before the bedroom.,0.0,Where was the milk before the bedroom? 
+582,hallway, The milk was in the kitchen before the bedroom.,0.0,Where was the milk before the bedroom? 
+583,bathroom, The football was in the hallway before John grabbed it.,0.0,Where was the football before the hallway? 
+584,bathroom," Before the hallway, the football was not mentioned in the context, so it is unknown where it",0.0,Where was the football before the hallway? 
+585,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+586,bedroom," Before the hallway, the apple was on the table.",0.0,Where was the apple before the hallway? 
+587,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+588,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+589,kitchen, The milk was in the kitchen.,1.0,Where was the milk before the bedroom? 
+590,garden, The football was in the bathroom before John took it to the hallway.,0.0,Where was the football before the hallway? 
+591,garden," Before the hallway, the football was in the bathroom.",0.0,Where was the football before the hallway? 
+592,kitchen, The milk was in the fridge.,0.0,Where was the milk before the office? 
+593,kitchen, The milk was in the fridge.,0.0,Where was the milk before the office? 
+594,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+595,office, The milk was in the fridge.,0.0,Where was the milk before the kitchen? 
+596,garden," Before Mary traveled to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+597,garden, The milk was in the kitchen before Daniel grabbed it.,0.0,Where was the milk before the bathroom? 
+598,kitchen, The football was in the office before the office.,0.0,Where was the football before the office? 
+599,kitchen, The milk was in the kitchen before Sandra picked it up and went to the garden.,1.0,Where was the milk before the garden? 
+600,kitchen, The milk was in the kitchen before Sandra picked it up.,1.0,Where was the milk before the garden? 
+601,kitchen, The milk was in the office before Mary travelled to the office.,0.0,Where was the milk before the office? 
+602,office, The football was in the hallway before Mary picked it up.,0.0,Where was the football before the hallway? 
+603,office, The football was in the hallway before Mary picked it up.,0.0,Where was the football before the hallway? 
+604,office, The football was in the bedroom before Daniel left it there.,0.0,Where was the football before the bedroom? 
+605,office, The football was in the bedroom before Daniel left it there.,0.0,Where was the football before the bedroom? 
+606,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+607,kitchen, The apple was in the office.,0.0,Where was the apple before the office? 
+608,office, The football was in the hallway before Daniel grabbed it.,0.0,Where was the football before the hallway? 
+609,bathroom, The milk was in the kitchen before it was moved to the bedroom.,0.0,Where was the milk before the bedroom? 
+610,bedroom, The milk was in the kitchen before it was grabbed by Mary.,0.0,Where was the milk before the kitchen? 
+611,garden, Mary had the football before she went to the office.,0.0,Where was the football before the office? 
+612,garden, The football was in the bathroom before the office.,0.0,Where was the football before the office? 
+613,garden, The football was in the hallway before the office.,0.0,Where was the football before the office? 
+614,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+615,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the kitchen? 
+616,bedroom, The milk was in the office.,0.0,Where was the milk before the office? 
+617,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the office? 
+618,bedroom," Before John moved to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+619,hallway, The apple was in the office.,0.0,Where was the apple before the office? 
+620,hallway, The apple was in the office.,0.0,Where was the apple before the office? 
+621,hallway, The apple was in the office.,0.0,Where was the apple before the office? 
+622,hallway," Before the bathroom, the milk was in the kitchen.",0.0,Where was the milk before the bathroom? 
+623,garden, The football was in the bathroom before Sandra got it.,0.0,Where was the football before the bathroom? 
+624,garden, The football was in the bathroom before Sandra got it.,0.0,Where was the football before the bathroom? 
+625,bathroom," Before the office, the apple was in the hands of Sandra.",0.0,Where was the apple before the office? 
+626,garden," Before John went to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+627,bathroom," Before the office, the apple was in the hands of Sandra.",0.0,Where was the apple before the office? 
+628,kitchen, The milk was in the fridge before it was taken to the garden.,0.0,Where was the milk before the garden? 
+629,kitchen, The milk was in the fridge before it was taken to the garden.,0.0,Where was the milk before the garden? 
+630,office, The milk was in the kitchen before the bedroom.,0.0,Where was the milk before the bedroom? 
+631,office, The milk was in the kitchen before it was moved to the bedroom.,0.0,Where was the milk before the bedroom? 
+632,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the bathroom? 
+633,hallway, The apple was in the hallway.,1.0,Where was the apple before the bathroom? 
+634,bathroom," Before the hallway, the apple was in Daniel's hand.",0.0,Where was the apple before the hallway? 
+635,office, Mary got the milk.,0.0,Where was the milk before the bathroom? 
+636,bathroom, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+637,kitchen," Before the garden, the football was in the hands of Sandra.",0.0,Where was the football before the garden? 
+638,kitchen," Before the hallway, the milk was in the kitchen.",1.0,Where was the milk before the hallway? 
+639,kitchen," Before the hallway, the milk was in the kitchen.",1.0,Where was the milk before the hallway? 
+640,office, The milk was in the kitchen before it was dropped in the bathroom.,0.0,Where was the milk before the bathroom? 
+641,office, The milk was in the kitchen before it was dropped in the bathroom.,0.0,Where was the milk before the bathroom? 
+642,office, The milk was in the kitchen before it was dropped in the bathroom.,0.0,Where was the milk before the bathroom? 
+643,bathroom," Before the kitchen, the apple was in Sandra's possession.",0.0,Where was the apple before the kitchen? 
+644,bathroom," Before the kitchen, the apple was in Sandra's possession.",0.0,Where was the apple before the kitchen? 
+645,bathroom, The apple was in the kitchen before it was taken by John.,0.0,Where was the apple before the kitchen? 
+646,bedroom, The milk was in the fridge.,0.0,Where was the milk before the garden? 
+647,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+648,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+649,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+650,office, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+651,office," Before the kitchen, the apple was in the garden.",0.0,Where was the apple before the kitchen? 
+652,office," Before the kitchen, the apple was in the garden.",0.0,Where was the apple before the kitchen? 
+653,garden," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+654,garden, The milk was at the store before Sandra picked it up.,0.0,Where was the milk before the office? 
+655,garden, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+656,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+657,office, The football was in the bedroom before the hallway.,0.0,Where was the football before the hallway? 
+658,office, The football was in the hallway.,0.0,Where was the football before the hallway? 
+659,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+660,hallway, The milk was in the house.,0.0,Where was the milk before the garden? 
+661,hallway, The milk was in the fridge before it was picked up by Mary.,0.0,Where was the milk before the garden? 
+662,kitchen," Before the hallway, the football was in the hands of Sandra.",0.0,Where was the football before the hallway? 
+663,garden, The football was in the office.,0.0,Where was the football before the office? 
+664,hallway," Before John moved to the bathroom, the apple was in the kitchen.",0.0,Where was the apple before the bathroom? 
+665,hallway," Before it was in the bathroom, the apple was somewhere else.",0.0,Where was the apple before the bathroom? 
+666,bedroom," Before the bathroom, the football was with Sandra.",0.0,Where was the football before the bathroom? 
+667,bedroom," Before the bathroom, the football was with Sandra.",0.0,Where was the football before the bathroom? 
+668,bedroom," Before the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+669,garden, The football was at the office.,0.0,Where was the football before the office? 
+670,garden," Before the office, the football was in the hands of John.",0.0,Where was the football before the office? 
+671,garden," Before the office, the football was in the hands of John.",0.0,Where was the football before the office? 
+672,garden," Before the office, the football was in the hands of John.",0.0,Where was the football before the office? 
+673,kitchen, The milk was in the garden before it was discarded by Daniel.,0.0,Where was the milk before the garden? 
+674,kitchen, The milk was in the garden before it was discarded by Daniel.,0.0,Where was the milk before the garden? 
+675,bedroom," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+676,bedroom," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+677,hallway," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+678,hallway," Before the bedroom, the football was in the living room.",0.0,Where was the football before the bedroom? 
+679,office, The milk was in the kitchen before it was taken to the bathroom.,0.0,Where was the milk before the bathroom? 
+680,garden," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+681,garden," Before the office, the milk was at the store.",0.0,Where was the milk before the office? 
+682,garden, The apple was in the living room before it was moved to the kitchen.,0.0,Where was the apple before the kitchen? 
+683,kitchen," Before the garden, the apple was in John's hand.",0.0,Where was the apple before the garden? 
+684,kitchen, The apple was in the garden before Mary got it.,0.0,Where was the apple before the garden? 
+685,kitchen," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+686,bathroom, The football was in the hallway.,0.0,Where was the football before the hallway? 
+687,garden, The milk was in the kitchen.,0.0,Where was the milk before the bathroom? 
+688,kitchen, The apple was on the table before it was dropped by Daniel.,0.0,Where was the apple before the bathroom? 
+689,kitchen, The apple was on the table before it was dropped by Daniel.,0.0,Where was the apple before the bathroom? 
+690,kitchen, The apple was on the table before it was dropped by Daniel.,0.0,Where was the apple before the bathroom? 
+691,garden, The apple was in the living room.,0.0,Where was the apple before the kitchen? 
+692,garden, The apple was in the living room before it was moved to the kitchen.,0.0,Where was the apple before the kitchen? 
+693,bathroom, The milk was in the kitchen before the hallway.,0.0,Where was the milk before the hallway? 
+694,bathroom, The milk was in the fridge before Mary took it to the hallway.,0.0,Where was the milk before the hallway? 
+695,bathroom, The milk was in the fridge before Mary took it to the hallway.,0.0,Where was the milk before the hallway? 
+696,bedroom, The apple was in Mary's hand before it was discarded in the kitchen.,0.0,Where was the apple before the kitchen? 
+697,bathroom, The apple was in the bedroom before Mary picked it up.,0.0,Where was the apple before the bedroom? 
+698,garden, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+699,garden, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+700,bedroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+701,bedroom," Before the garden, the apple was in the orchard.",0.0,Where was the apple before the garden? 
+702,bedroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+703,garden, The apple was in the room before it was in the hallway.,0.0,Where was the apple before the hallway? 
+704,office, The apple was in the garden.,0.0,Where was the apple before the garden? 
+705,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+706,hallway," Before the kitchen, the football was in the hallway.",1.0,Where was the football before the kitchen? 
+707,hallway, The football was in the hallway before the kitchen.,1.0,Where was the football before the kitchen? 
+708,bathroom," Before moving to the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+709,bathroom," Before Sandra moved to the hallway, the milk was in the fridge.",0.0,Where was the milk before the hallway? 
+710,bedroom, The football was in the kitchen before it was left there.,0.0,Where was the football before the kitchen? 
+711,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+712,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+713,hallway, The football was in the bedroom before John moved to the bedroom.,0.0,Where was the football before the bedroom? 
+714,hallway, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+715,hallway, The apple was in the bedroom before John left it there.,0.0,Where was the apple before the bedroom? 
+716,hallway, The apple was in the kitchen.,0.0,Where was the apple before the bedroom? 
+717,bedroom," Before the bathroom, the apple was in the hands of John.",0.0,Where was the apple before the bathroom? 
+718,office, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+719,bathroom," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+720,hallway, The milk was in the fridge before it was dropped by Sandra.,0.0,Where was the milk before the garden? 
+721,hallway, The milk was in the fridge before it was dropped by Sandra.,0.0,Where was the milk before the garden? 
+722,hallway, The milk was in the fridge before it was dropped by Sandra.,0.0,Where was the milk before the garden? 
+723,kitchen, The football was in the garden before the bedroom.,0.0,Where was the football before the bedroom? 
+724,kitchen, The football was in the garden before the bedroom.,0.0,Where was the football before the bedroom? 
+725,kitchen, The football was in the garden before the bedroom.,0.0,Where was the football before the bedroom? 
+726,hallway, The football was in the living room before it was taken to the bathroom.,0.0,Where was the football before the bathroom? 
+727,bathroom, The football was in the hallway.,0.0,Where was the football before the hallway? 
+728,garden, The milk was in the kitchen before the hallway.,0.0,Where was the milk before the hallway? 
+729,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+730,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+731,bedroom," Before the hallway, the football was in the room.",0.0,Where was the football before the hallway? 
+732,bedroom," Before the hallway, the football was in the possession of John.",0.0,Where was the football before the hallway? 
+733,bedroom, The milk was in the hallway before it was discarded.,0.0,Where was the milk before the hallway? 
+734,bedroom," Before the hallway, the milk was in Daniel's hands.",0.0,Where was the milk before the hallway? 
+735,bedroom, The milk was in the kitchen before John moved it to the hallway.,0.0,Where was the milk before the hallway? 
+736,bedroom, The milk was in the kitchen before the hallway.,0.0,Where was the milk before the hallway? 
+737,bedroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+738,garden, The milk was in the office before Mary dropped it.,0.0,Where was the milk before the office? 
+739,garden, The milk was in the fridge.,0.0,Where was the milk before the office? 
+740,bedroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+741,bedroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+742,bathroom," Before the garden, the football was in the garden.",0.0,Where was the football before the garden? 
+743,hallway, The milk was in the kitchen before it was moved to the bathroom.,0.0,Where was the milk before the bathroom? 
+744,kitchen, The milk was in the fridge before the garden.,0.0,Where was the milk before the garden? 
+745,kitchen," Before the bathroom, the football was outside.",0.0,Where was the football before the bathroom? 
+746,kitchen," Before the bathroom, the football was outside.",0.0,Where was the football before the bathroom? 
+747,bedroom, The apple was in the kitchen.,0.0,Where was the apple before the garden? 
+748,garden," Before the hallway, the apple was in the room.",0.0,Where was the apple before the hallway? 
+749,bedroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+750,bedroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+751,garden, The milk was in the office before John took it.,0.0,Where was the milk before the office? 
+752,hallway," Before the garden, the milk was in the fridge.",0.0,Where was the milk before the garden? 
+753,hallway, The milk was in the house before John grabbed it.,0.0,Where was the milk before the garden? 
+754,kitchen, The football was in the office before it was picked up by Sandra.,0.0,Where was the football before the office? 
+755,bathroom," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+756,bathroom," Before the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+757,hallway, The milk was in the kitchen before the office.,0.0,Where was the milk before the office? 
+758,office, Before it was in the kitchen.,0.0,Where was the milk before the bathroom? 
+759,bedroom, The apple was in the garden before Mary grabbed it.,0.0,Where was the apple before the garden? 
+760,kitchen, The apple was in the kitchen.,1.0,Where was the apple before the bedroom? 
+761,garden, The apple was in the kitchen before John moved to the kitchen.,0.0,Where was the apple before the kitchen? 
+762,bathroom," Before the hallway, the football was in the hands of either John or Sandra.",0.0,Where was the football before the hallway? 
+763,bathroom, The football was in the garden.,0.0,Where was the football before the garden? 
+764,garden, The football was in the living room before it was in the bedroom.,0.0,Where was the football before the bedroom? 
+765,bathroom, The football was in the garden.,0.0,Where was the football before the garden? 
+766,office," Before Mary went to the hallway, the football was in the living room.",0.0,Where was the football before the hallway? 
+767,office, The football was in the hallway before Mary got it.,0.0,Where was the football before the hallway? 
+768,garden, The milk was at the supermarket.,0.0,Where was the milk before the office? 
+769,garden, The milk was in the fridge.,0.0,Where was the milk before the office? 
+770,garden," Before the office, the milk was in the fridge.",0.0,Where was the milk before the office? 
+771,garden," Before John moved the apple to the hallway, the apple was in the kitchen.",0.0,Where was the apple before the hallway? 
+772,bathroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+773,bathroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+774,garden, The milk was in the kitchen.,0.0,Where was the milk before the kitchen? 
+775,bedroom," Before the hallway, the football was at the park.",0.0,Where was the football before the hallway? 
+776,garden, The milk was in the fridge before Mary took it from the hallway.,0.0,Where was the milk before the hallway? 
+777,garden," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+778,garden," Before the hallway, the milk was in the fridge.",0.0,Where was the milk before the hallway? 
+779,garden, The milk was in the fridge before Mary took it.,0.0,Where was the milk before the hallway? 
+780,bedroom, The milk was in the kitchen.,0.0,Where was the milk before the garden? 
+781,office," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+782,office," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+783,bedroom," Before the office, the apple was in a tree.",0.0,Where was the apple before the office? 
+784,bedroom," Before the office, the apple was in the orchard.",0.0,Where was the apple before the office? 
+785,office, The apple was in the garden.,0.0,Where was the apple before the garden? 
+786,office, The milk was in the fridge before the kitchen.,0.0,Where was the milk before the kitchen? 
+787,hallway, The apple was in the bedroom.,0.0,Where was the apple before the bedroom? 
+788,hallway, The apple was in the hallway before the bedroom.,1.0,Where was the apple before the bedroom? 
+789,kitchen, The football was in the hallway.,0.0,Where was the football before the hallway? 
+790,kitchen, The football was in the hallway before Mary grabbed it.,0.0,Where was the football before the hallway? 
+791,hallway, The milk was in the fridge before it was taken to the garden.,0.0,Where was the milk before the garden? 
+792,bathroom, The milk was in the bedroom before the garden.,0.0,Where was the milk before the garden? 
+793,bedroom, The milk was in the bathroom.,0.0,Where was the milk before the bathroom? 
+794,kitchen," Before Mary went back to the hallway, the milk was in the kitchen.",1.0,Where was the milk before the hallway? 
+795,bathroom, The milk was in the office before the office.,0.0,Where was the milk before the office? 
+796,garden, The milk was in the kitchen before it was discarded in the bathroom.,0.0,Where was the milk before the bathroom? 
+797,bedroom," Before Mary traveled to the bathroom, the apple was left by Daniel.",0.0,Where was the apple before the bathroom? 
+798,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+799,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+800,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+801,garden, The football was in the living room before it was moved to the bedroom.,0.0,Where was the football before the bedroom? 
+802,hallway," Before the bedroom, the apple was in the kitchen.",0.0,Where was the apple before the bedroom? 
+803,garden, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+804,garden," Before the office, the milk was at Sandra's house.",0.0,Where was the milk before the office? 
+805,bathroom," Before the bedroom, the milk was in the kitchen.",0.0,Where was the milk before the bedroom? 
+806,bathroom, The apple was in the garden.,0.0,Where was the apple before the garden? 
+807,garden, The apple was in Daniel's hand.,0.0,Where was the apple before the office? 
+808,garden, The apple was in the office.,0.0,Where was the apple before the office? 
+809,garden, The apple was in the office.,0.0,Where was the apple before the office? 
+810,hallway, The apple was in the house.,0.0,Where was the apple before the garden? 
+811,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+812,hallway," Before the kitchen, the football was in the living room.",0.0,Where was the football before the kitchen? 
+813,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+814,kitchen," Before the hallway, the football was with Sandra.",0.0,Where was the football before the hallway? 
+815,hallway, The football was in the kitchen.,0.0,Where was the football before the kitchen? 
+816,kitchen," Before the garden, the milk was in the kitchen.",1.0,Where was the milk before the garden? 
+817,hallway, The milk was in the bedroom before Mary dropped it in the bathroom.,0.0,Where was the milk before the bathroom? 
+818,office, The football was in the hallway before Mary dropped it there.,0.0,Where was the football before the hallway? 
+819,office," Before the hallway, the football was in Mary's hands.",0.0,Where was the football before the hallway? 
+820,office," Before the hallway, the football was in Mary's hands.",0.0,Where was the football before the hallway? 
+821,kitchen, The milk was in the kitchen before it was moved to the bathroom.,1.0,Where was the milk before the bathroom? 
+822,kitchen, The milk was in the kitchen before it was moved to the bathroom.,1.0,Where was the milk before the bathroom? 
+823,bathroom," Before the bedroom, the football was with Mary.",0.0,Where was the football before the bedroom? 
+824,bathroom," Before the bedroom, the football was with Mary.",0.0,Where was the football before the bedroom? 
+825,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+826,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+827,bathroom," Before the hallway, the apple was in the room.",0.0,Where was the apple before the hallway? 
+828,bathroom," Before the hallway, the apple was in the room.",0.0,Where was the apple before the hallway? 
+829,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+830,bathroom, The apple was in the kitchen.,0.0,Where was the apple before the hallway? 
+831,hallway, The football was in the garden.,0.0,Where was the football before the garden? 
+832,bathroom," Before the hallway, the milk was in the kitchen.",0.0,Where was the milk before the hallway? 
+833,bathroom," Before Sandra grabbed the milk, the milk was in the fridge.",0.0,Where was the milk before the hallway? 
+834,bathroom, Before it was in the kitchen.,0.0,Where was the milk before the hallway? 
+835,hallway," Before the kitchen, the milk was at the store.",0.0,Where was the milk before the kitchen? 
+836,hallway, The milk was in the kitchen before it was picked up by Mary.,0.0,Where was the milk before the kitchen? 
+837,bathroom, The football was at the office.,0.0,Where was the football before the office? 
+838,bedroom, Mary went to the bathroom.,0.0,Where was the football before the bathroom? 
+839,bedroom, The football was in the office before it was dropped.,0.0,Where was the football before the office? 
+840,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+841,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+842,hallway, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+843,bedroom," Before the office, the apple was in the orchard.",0.0,Where was the apple before the office? 
+844,hallway, There is not enough information to answer this question.,0.0,Where was the apple before the bedroom? 
+845,hallway, The football was in the bedroom before Big L Sandra left the football.,0.0,Where was the football before the bedroom? 
+846,bedroom, The milk was in the kitchen before it was moved to the bathroom.,0.0,Where was the milk before the bathroom? 
+847,hallway, The football was in the bedroom before the journey.,0.0,Where was the football before the bedroom? 
+848,kitchen, The milk was in the kitchen before it was moved to the bathroom.,1.0,Where was the milk before the bathroom? 
+849,office," Before the bathroom, the football was with Sandra.",0.0,Where was the football before the bathroom? 
+850,office, The football was in the kitchen before it was discarded.,0.0,Where was the football before the kitchen? 
+851,bedroom, The apple was in Mary's hand before it was discarded by Daniel in the office.,0.0,Where was the apple before the office? 
+852,bedroom, The apple was on Avon's banks before it was discarded in the office.,0.0,Where was the apple before the office? 
+853,bathroom, The milk was in the kitchen before it was in the bedroom.,0.0,Where was the milk before the bedroom? 
+854,hallway, The football was in the garden.,0.0,Where was the football before the garden? 
+855,garden, The milk was in the kitchen.,0.0,Where was the milk before the bedroom? 
+856,kitchen, The football was in the garden before John left it.,0.0,Where was the football before the garden? 
+857,bedroom, The football was in the office.,0.0,Where was the football before the office? 
+858,garden, The football was in the bedroom before John left it there.,0.0,Where was the football before the bedroom? 
+859,hallway," Before the kitchen, the football was outside.",0.0,Where was the football before the kitchen? 
+860,hallway, The football was in the kitchen before John took it.,0.0,Where was the football before the kitchen? 
+861,hallway," Before the kitchen, the football was with John.",0.0,Where was the football before the kitchen? 

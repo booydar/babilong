@@ -1,0 +1,17 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about different people, their location and actions, hidden in some random text and a question. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nThe hallway is south of the kitchen. The bedroom is north of the kitchen. What is the kitchen south of?\nAnswer: bedroom\n</example>\n<example>\nThe garden is west of the bedroom. The bedroom is west of the kitchen. What is west of the bedroom?\nAnswer: garden\n</example>",
+        "post_prompt": "Your answer should contain only one word - location. Do not write anything else after that.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}

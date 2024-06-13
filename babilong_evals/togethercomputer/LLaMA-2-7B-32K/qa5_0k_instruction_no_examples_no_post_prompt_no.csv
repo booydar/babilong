@@ -1,0 +1,3442 @@
+,target,output,question
+0,football,"Output: football
+
+
+Context: The man was a doctor. He was a doctor",What did Fred give to Jeff? 
+1,Fred,"Label: Fred
+
+
+Context: The man went to the bathroom. The man",Who gave the football to Jeff? 
+2,football,"Label: football
+
+
+Context: The man went to the bathroom. The man",What did Fred give to Jeff? 
+3,Jeff,"Label: Jeff
+
+
+Context: The man went to the bathroom. The man",Who did Fred give the football to? 
+4,Fred,"Label: Fred
+
+
+Context: The man went to the bathroom. The man",Who did Jeff give the football to? 
+5,Jeff,"Label: Mary
+
+
+Context: Mary moved to the hallway. Jeff moved to",Who gave the apple? 
+6,Bill,"Label: Mary
+
+
+Context: Mary moved to the hallway. Jeff moved to",Who received the apple? 
+7,apple,"Label: apple
+
+
+Context: Mary moved to the hallway. Jeff moved to",What did Bill give to Fred? 
+8,apple,"Label: apple
+
+
+Context: Mary moved to the hallway. Jeff moved to",What did Bill give to Fred? 
+9,Fred,"Label: Mary
+
+
+Context: Mary moved to the hallway. Jeff moved to",Who received the apple? 
+10,Mary,"Label: Mary
+
+
+Context: Fred journeyed to the bedroom. Fred got",Who received the milk? 
+11,milk,"Label: milk
+
+
+Context: Fred journeyed to the bedroom. Fred got",What did Mary give to Bill? 
+12,Bill,Label: Mary,Who received the milk? 
+13,Bill,"Label: Bill
+
+
+Context: Fred journeyed to the bedroom. Fred got",Who did Mary give the milk to? 
+14,milk,"Label: milk
+
+
+Context: Fred journeyed to the bedroom. Fred got",What did Mary give to Bill? 
+15,Jeff,"Output: Fred
+
+
+Context: A: The man is a doctor.",Who received the football? 
+16,Fred,"Label: Fred
+
+
+Context: The man went to the park. The man went",Who gave the football to Jeff? 
+17,football,"Label: football
+
+
+Context: The man went to the garden. The man went",What did Fred give to Jeff? 
+18,Jeff,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who received the football? 
+19,Mary,"Label: Mary
+
+
+Context: Fred went to the garden. Fred went to the",Who gave the milk? 
+20,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Mary? 
+21,Mary,Label: Mary,Who gave the milk to Jeff? 
+22,Mary,Label: Mary,Who gave the milk to Jeff? 
+23,Bill,Label: Mary,Who gave the apple to Jeff? 
+24,Jeff,Label: Mary,Who gave the apple? 
+25,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Jeff give to Fred? 
+26,Fred,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+27,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+28,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+29,Fred,Label: Jeff,Who did Jeff give the apple to? 
+30,Mary,"Label: Mary
+
+
+Context: John went to the hallway. John went to",Who gave the milk? 
+31,Bill,Label: Mary,Who gave the milk? 
+32,Bill,"Label: Jeff
+
+
+Context: John went to the bathroom. John went to",Who gave the milk to Mary? 
+33,milk,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Bill give to Mary? 
+34,apple,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Mary give to Fred? 
+35,Jeff,Label: Mary,Who did Fred give the milk to? 
+36,Jeff,Label: Mary,Who did Fred give the milk to? 
+37,milk,Label: milk,What did Jeff give to Mary? 
+38,milk,Label: milk,What did Jeff give to Mary? 
+39,Fred,Label: Mary,Who gave the apple? 
+40,Mary,Label: Mary,Who gave the milk? 
+41,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+42,Jeff,Label: Mary,Who gave the milk? 
+43,Fred,Label: Mary,Who received the milk? 
+44,Mary,Label: Mary,Who gave the milk? 
+45,Bill,"Label: Bill
+
+
+Context: Mary went back to the hallway. Mary went",Who did Mary give the milk to? 
+46,milk,"Label: milk
+
+
+Context: Mary went back to the hallway. Mary went",What did Mary give to Bill? 
+47,Mary,Label: Mary,Who gave the milk? 
+48,Mary,Label: Mary,Who did Bill give the milk to? 
+49,Bill,Label: Bill,Who gave the milk to Mary? 
+50,Mary,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple to Fred? 
+51,Fred,Label: Fred,Who gave the apple to Mary? 
+52,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+53,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Mary give to Jeff? 
+54,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Mary give to Jeff? 
+55,Fred,"Label: Fred
+
+
+Context: Mary took the apple there. Jeff moved to the",Who received the football? 
+56,football,"Label: football
+
+
+Context: Mary took the apple there. Jeff moved to the",What did Bill give to Fred? 
+57,Bill,"Label: Mary
+
+
+Context: Mary took the apple there. Jeff moved to the",Who gave the apple? 
+58,Bill,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Mary give the apple to? 
+59,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+60,Jeff,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who did Bill give the apple to? 
+61,Bill,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who gave the apple to Jeff? 
+62,Jeff,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who gave the apple to Bill? 
+63,Bill,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who received the apple? 
+64,Mary,"Output: Mary
+
+
+
+Context: Mary went to the garden. Mary went to",Who gave the milk? 
+65,Mary,"Label: Fred
+
+
+Context: John went to the garden. Fred went to the",Who gave the apple to Bill? 
+66,Bill,"Label: Fred
+
+
+Context: John went to the office. Fred went to the",Who did Mary give the apple to? 
+67,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+68,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+69,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+70,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+71,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+72,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+73,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+74,apple,Label: apple,What did Fred give to Bill? 
+75,Fred,"Output: Fred
+
+
+Context: The man went to the store. The man bought",Who gave the football? 
+76,Fred,"Label: Fred
+
+
+Context: The man went to the store. The man bought",Who gave the football? 
+77,Mary,Label: Mary,Who received the football? 
+78,Mary,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+79,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+80,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Fred give to Jeff? 
+81,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Fred give to Jeff? 
+82,Fred,Label: Fred,Who did Jeff give the milk to? 
+83,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Jeff give to Fred? 
+84,Jeff,Label: Jeff,Who gave the milk to Fred? 
+85,Fred,"Label: Fred
+
+
+Context: John was a doctor. John was a doctor.",Who did Mary give the apple to? 
+86,Fred,"Label: Fred
+
+
+Context: The man went to the store. The man bought",Who gave the apple to Mary? 
+87,Mary,Label: Fred,Who gave the apple? 
+88,Jeff,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who did Mary give the apple to? 
+89,Jeff,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who received the football? 
+90,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Jeff? 
+91,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the football? 
+92,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+93,Jeff,"Label: Jeff
+
+
+Context: John went to the hallway. John went to",Who did Mary give the football to? 
+94,Bill,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Fred give the apple to? 
+95,Jeff,"Output: Jeff
+
+
+Context: John was a good friend to me. John was",Who did Mary give the apple to? 
+96,Mary,"Label: Mary
+
+
+Context: John was a doctor. John was a lawyer.",Who gave the apple to Jeff? 
+97,apple,"Label: apple
+
+
+Context: Mary went to the bathroom. Mary went to",What did Jeff give to Fred? 
+98,Fred,"Label: Fred
+
+
+Context: Mary went to the bathroom. Mary went to",Who did Jeff give the apple to? 
+99,milk,"Label: milk
+
+
+Context: Mary went to the bathroom. Mary went to",What did Bill give to Mary? 
+100,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who did Mary give the apple to? 
+101,Bill,Label: Jeff,Who received the apple? 
+102,Fred,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who gave the apple? 
+103,Bill,Label: Mary,Who gave the apple? 
+104,apple,Label: the apple,What did Mary give to Bill? 
+105,Jeff,"Output: Mary
+
+
+Context: Jeff gave the milk to Mary.",Who received the milk? 
+106,Mary,"Output: Mary
+
+
+Context: Mary grabbed the milk there. Mary gave",Who gave the milk? 
+107,Jeff,"Label: Jeff
+
+
+Context: Mary went to the garden. Mary went to the",Who did Mary give the milk to? 
+108,football,"Label: football
+
+
+Context: Mary went to the bathroom. Mary went to",What did Bill give to Mary? 
+109,Mary,"Label: Mary
+
+
+Context: Mary went to the office. Mary went to the",Who gave the football? 
+110,apple,"Label: apple
+
+
+Context: Mary journeyed to the bedroom. Fred went",What did Jeff give to Mary? 
+111,apple,"Label: apple
+
+
+Context: Mary journeyed to the bedroom. Fred went",What did Jeff give to Mary? 
+112,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Fred went",Who gave the apple? 
+113,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Fred went",Who gave the apple? 
+114,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Fred went",Who received the apple? 
+115,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who gave the milk? 
+116,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+117,Bill,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Mary give the milk to? 
+118,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+119,Mary,Label: Mary,Who did Bill give the milk to? 
+120,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+121,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk? 
+122,Mary,Label: Mary,Who gave the milk? 
+123,Jeff,Label: Jeff,Who did Bill give the football to? 
+124,Bill,Label: Bill,Who gave the football to Jeff? 
+125,Jeff,"Label: Jeff
+
+
+Context: John went to the garden. John went to the",Who received the football? 
+126,Jeff,"Label: Fred
+
+
+Context: Mary journeyed to the garden. Fred took the",Who gave the football to Bill? 
+127,football,"Label: the football
+
+
+Context: Mary journeyed to the garden. Fred took",What did Jeff give to Bill? 
+128,football,"Label: the football
+
+
+Context: Mary journeyed to the garden. Fred took",What did Jeff give to Bill? 
+129,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+130,Bill,"Output: Bill
+
+
+Context: The man was a doctor. The man was a",Who received the apple? 
+131,apple,"Label: apple
+
+
+Context: John was a doctor. He was a doctor.",What did Mary give to Bill? 
+132,apple,"Label: apple
+
+
+Context: John was a doctor. He was a good doctor",What did Mary give to Bill? 
+133,apple,"Label: apple
+
+
+Context: John was in the bedroom. John went to",What did Jeff give to Mary? 
+134,Fred,"Label: Mary
+
+
+Context: John was in the bedroom. John went to",Who gave the apple? 
+135,football,"Label: football
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Jeff? 
+136,football,"Label: football
+
+
+Context: The man went to the bathroom. The man",What did Fred give to Jeff? 
+137,Jeff,"Label: Fred
+
+
+Context: The man went to the bathroom. The man",Who gave the football? 
+138,Fred,Label: Fred,Who did Jeff give the football to? 
+139,football,"Label: the football
+
+
+Context: John went to the office. John went to",What did Fred give to Mary? 
+140,football,"Label: football
+
+
+Context:",What did Jeff give to Mary? 
+141,Mary,"Label: Mary
+
+
+Context: A: The man is a doctor. B:",Who received the football? 
+142,football,"Label: football
+
+
+Context:",What did Mary give to Jeff? 
+143,Jeff,"Label: Mary
+
+
+Context:
+
+The man went to the office. The",Who gave the football? 
+144,Bill,Label: Mary,Who received the apple? 
+145,Fred,"Label: Fred
+
+
+Context: John went to the garden. Mary journeyed to",Who received the apple? 
+146,Fred,"Label: Fred
+
+
+Context: John went to the garden. Mary journeyed to",Who received the apple? 
+147,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who did Bill give the football to? 
+148,Bill,"Label: Jeff
+
+
+
+Context: John went to the garden. John went to",Who gave the football to Mary? 
+149,Fred,Label: Mary,Who received the football? 
+150,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who received the apple? 
+151,Jeff,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who gave the apple to Bill? 
+152,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who received the apple? 
+153,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who gave the apple to Jeff? 
+154,apple,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Mary went",What did Bill give to Jeff? 
+155,football,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+156,football,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+157,Mary,"Label: Mary
+
+
+
+Context: The man went to the office. The man",Who did Bill give the football to? 
+158,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+159,Bill,Label: Mary,Who received the apple? 
+160,Bill,"Label: Bill
+
+
+Context: John went to the garden. John went to the",Who did Fred give the apple to? 
+161,apple,"Label: apple
+
+
+Context: The man went to the garden. The man went",What did Fred give to Bill? 
+162,apple,"Label: apple
+
+
+Context: John journeyed to the garden. John journeyed",What did Fred give to Bill? 
+163,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+164,Jeff,Label: Mary,Who received the apple? 
+165,Jeff,Label: Jeff,Who received the apple? 
+166,Jeff,Label: Mary,Who received the apple? 
+167,Jeff,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who received the apple? 
+168,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Jeff? 
+169,Bill,Label: Mary,Who gave the milk to Fred? 
+170,football,"Label: football
+
+
+Context: The man went to the office. The woman went",What did Mary give to Bill? 
+171,Bill,"Label: Bill
+
+
+Context: Fred journeyed to the garden. Jeff went to",Who did Mary give the football to? 
+172,football,"Label: football
+
+
+Context:
+
+Jeff went to the garden. Fred",What did Bill give to Mary? 
+173,football,"Label: football
+
+
+Context: Fred journeyed to the garden. Mary went to",What did Bill give to Mary? 
+174,Mary,"Label: Mary
+
+
+Context: Fred journeyed to the garden. Mary journeyed",Who did Bill give the football to? 
+175,football,"Label: football
+
+
+Context: Mary went to the bathroom. Mary went to",What did Jeff give to Bill? 
+176,football,"Label: football
+
+
+Context: Mary went to the bathroom. Mary went to",What did Bill give to Mary? 
+177,Mary,"Label: Mary
+
+
+Context: Mary went to the bathroom. Mary went to",Who received the football? 
+178,Bill,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who gave the football? 
+179,football,"Label: football
+
+
+Context: Mary went to the garden. Mary went to the",What did Bill give to Fred? 
+180,Fred,"Label: Fred
+
+
+Context: A: I'm going to the store.",Who gave the milk to Jeff? 
+181,milk,"Label: milk
+
+
+Context: Jeff took the milk there. Jeff put down the",What did Jeff give to Mary? 
+182,Mary,Label: Fred,Who received the milk? 
+183,Mary,Label: Fred,Who gave the milk? 
+184,Fred,Label: Fred,Who received the milk? 
+185,football,"Label: football
+
+
+Context: Mary went back to the bedroom. Jeff picked",What did Mary give to Bill? 
+186,football,"Label: football
+
+
+Context: Mary went back to the bedroom. Jeff picked",What did Mary give to Bill? 
+187,football,"Label: football
+
+
+Context: Mary went back to the bedroom. Jeff picked",What did Mary give to Bill? 
+188,Bill,"Label: Mary
+
+
+Context: Mary went back to the bedroom. Jeff picked",Who gave the football? 
+189,football,"Label: football
+
+
+Context: Mary went back to the bedroom. Jeff picked",What did Bill give to Mary? 
+190,Fred,Label: Jeff,Who gave the football? 
+191,Fred,Label: Mary,Who gave the football to Jeff? 
+192,football,Label: football,What did Fred give to Jeff? 
+193,apple,Label: the football,What did Bill give to Fred? 
+194,Bill,Label: Mary,Who gave the apple to Fred? 
+195,milk,"Label: milk
+
+
+Context: Mary went to the garden. Mary went to the",What did Mary give to Bill? 
+196,Mary,Label: Mary,Who gave the milk? 
+197,Bill,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who gave the milk? 
+198,milk,"Label: milk
+
+
+Context: Mary went to the garden. Mary went to the",What did Bill give to Mary? 
+199,Mary,Label: Mary,Who gave the milk? 
+200,milk,"Label: milk
+
+
+Context: Mary went to the bedroom. Mary went back",What did Jeff give to Bill? 
+201,milk,"Label: milk
+
+
+Context: Mary went to the bedroom. Mary went back",What did Jeff give to Bill? 
+202,milk,"Label: milk
+
+
+Context: Mary went to the bedroom. Mary went back",What did Jeff give to Bill? 
+203,Mary,"Label: Mary
+
+
+Context: Mary went to the bedroom. Mary went back",Who gave the football? 
+204,Fred,"Label: Fred
+
+
+Context: Mary went to the bedroom. Mary went back",Who did Mary give the football to? 
+205,Fred,Label: Mary,Who received the football? 
+206,Fred,Label: Fred,Who did Mary give the football to? 
+207,Jeff,Label: Mary,Who did Fred give the football to? 
+208,Fred,Label: Mary,Who gave the football to Jeff? 
+209,Jeff,Label: Mary,Who gave the football to Fred? 
+210,Fred,"Label: Fred
+
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk to Jeff? 
+211,Fred,Label: Jeff,Who gave the milk? 
+212,Jeff,"Label: Jeff
+
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk to Fred? 
+213,Jeff,"Label: Jeff
+
+
+Context: Jeff went back to the garden. Bill went to",Who gave the milk to Fred? 
+214,Fred,Label: Mary,Who gave the milk? 
+215,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple to Mary? 
+216,Mary,Label: Mary,Who received the apple? 
+217,Bill,Label: Mary,Who received the apple? 
+218,Mary,Label: Mary,Who did Fred give the milk to? 
+219,Mary,Label: Mary,Who gave the apple? 
+220,Bill,Label: Fred,Who gave the apple to Mary? 
+221,Bill,Label: Fred,Who gave the apple to Mary? 
+222,Mary,Label: Mary,Who gave the apple to Bill? 
+223,Bill,Label: Bill,Who did Mary give the apple to? 
+224,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+225,football,"Label: football
+
+
+Context: The man was a doctor. The man was a",What did Jeff give to Fred? 
+226,Jeff,"Label: Jeff
+
+
+Context: The man was a doctor. The man was a",Who gave the football to Fred? 
+227,football,"Label: football
+
+
+Context: The man was a doctor. The man was a",What did Jeff give to Fred? 
+228,football,"Label: football
+
+
+Context: The man washed the dishes there. The",What did Jeff give to Fred? 
+229,football,"Label: football
+
+
+Context: The man went to the office. The man went",What did Jeff give to Fred? 
+230,apple,"Label: apple
+
+
+Context:
+
+Bill washed the dishes.",What did Fred give to Bill? 
+231,Bill,"Output: Bill
+
+
+Context: The man was a doctor. He was a doctor",Who did Fred give the apple to? 
+232,Fred,"Output: Fred
+
+
+Context: The man was a doctor. The man was a",Who gave the apple to Bill? 
+233,Fred,"Output: Fred
+
+
+Context: Fred picked up the apple there. Fred gave the",Who gave the apple to Bill? 
+234,Fred,"Label: Fred
+
+
+Context: The man went to the bathroom. The man",Who gave the apple? 
+235,Bill,Label: Bill,Who gave the football to Mary? 
+236,Bill,Label: Mary,Who gave the football? 
+237,football,"Label: football
+
+
+Context: I went to the office. I went to the",What did Bill give to Mary? 
+238,Bill,Label: Bill,Who gave the football to Mary? 
+239,Bill,"Output: Mary
+
+
+Context: John went to the office. John went to the garden",Who gave the football? 
+240,Fred,"Label: Fred
+
+
+Context: Mary went to the bathroom. Fred journeyed",Who gave the football to Bill? 
+241,Fred,"Label: Fred
+
+
+Context: Mary went to the bathroom. Fred journeyed",Who gave the football? 
+242,Fred,"Label: Fred
+
+
+Context: Mary went to the bathroom. Fred journeyed",Who gave the football to Bill? 
+243,Bill,"Label: Mary
+
+
+Context: Mary went to the bathroom. Fred journeyed",Who gave the football to Fred? 
+244,football,"Label: football
+
+
+Context: Mary went to the bathroom. Fred journeyed",What did Bill give to Fred? 
+245,football,"Label: football
+
+
+Context:
+
+Jeff went back to the garden.",What did Jeff give to Mary? 
+246,Mary,"Output: Jeff
+
+
+Context: A man went to the store. A woman went",Who gave the football? 
+247,Mary,"Label: Mary
+
+
+Context: Jeff went back to the garden. Mary journeyed",Who gave the football? 
+248,Bill,Label: Mary,Who gave the apple? 
+249,Mary,"Label: Mary
+
+
+Context: Jeff went back to the garden. Mary journeyed",Who gave the apple to Bill? 
+250,apple,"Label: apple
+
+
+Context: The man went to the office. The man went",What did Mary give to Fred? 
+251,Fred,Label: Mary,Who received the apple? 
+252,Mary,Label: Mary,Who gave the apple? 
+253,Jeff,Label: Mary,Who received the apple? 
+254,apple,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Fred give to Jeff? 
+255,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the milk? 
+256,Jeff,"Label: Mary
+
+
+Context: Mary went to the office. Mary went to the",Who gave the milk to Fred? 
+257,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk? 
+258,football,"Label: milk
+
+
+Context: Mary went to the office. Mary went to the",What did Bill give to Mary? 
+259,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Fred give the milk to? 
+260,Jeff,"A: Jeff
+<context>
+Jeff grabbed the apple there. Jeff",Who gave the apple to Mary? 
+261,Fred,"Label: Jeff
+
+
+Context: The man was a doctor. The man was a",Who gave the apple to Mary? 
+262,Mary,"Label: Fred
+
+
+Context: The man went to the store. The man bought",Who gave the apple? 
+263,apple,"Label: apple
+
+
+Context: The man went to the store. The man bought",What did Mary give to Bill? 
+264,apple,"Label: apple
+
+
+Context: The man went to the bedroom. The man",What did Mary give to Bill? 
+265,football,"Label: apple
+
+
+Context: Jeff moved to the bedroom. Jeff moved to",What did Fred give to Bill? 
+266,Fred,"Label: Fred
+
+
+Context: Jeff moved to the bedroom. Jeff moved to",Who gave the football? 
+267,Fred,"Label: Fred
+
+
+Context: Jeff moved to the bedroom. Jeff moved to",Who gave the football to Bill? 
+268,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who did Bill give the football to? 
+269,Mary,"Label: Bill
+
+
+Context: John went to the garden. John went to the",Who gave the football? 
+270,Mary,"Label: Mary
+
+
+Context: John went to the bathroom. John went to",Who received the apple? 
+271,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who gave the apple? 
+272,apple,"Label: apple
+
+
+Context: Mary went to the garden. Mary went to the",What did Mary give to Jeff? 
+273,Bill,Label: Mary,Who gave the apple to Jeff? 
+274,apple,"Label: apple
+
+
+Context: Mary went to the garden. Mary went back to",What did Jeff give to Fred? 
+275,Mary,Label: Mary,Who received the football? 
+276,Mary,Label: Mary,Who received the football? 
+277,football,Label: the football,What did Mary give to Jeff? 
+278,Mary,Label: Mary,Who did Jeff give the football to? 
+279,Mary,Label: Mary,Who received the football? 
+280,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+281,apple,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+282,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the apple to Mary? 
+283,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+284,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+285,Fred,"Label: Mary
+
+
+Context: Mary went to the hallway. Mary went to",Who gave the apple? 
+286,Fred,"Label: Mary
+
+
+Context: Mary went to the hallway. Mary went to",Who gave the apple to Bill? 
+287,Fred,"Label: Mary
+
+
+Context: Mary went to the hallway. Mary went to",Who gave the apple to Bill? 
+288,apple,"Label: apple
+
+
+Context: Mary went to the hallway. Mary went to",What did Fred give to Bill? 
+289,Bill,Label: Fred,Who gave the apple to Mary? 
+290,Mary,"Label: Mary
+
+
+Context: A: The man is a doctor.",Who gave the milk to Bill? 
+291,Bill,"Label: Jeff
+
+
+Context: Jeff went back to the hallway. Bill picked",Who gave the milk? 
+292,Mary,"Label: Mary
+
+
+Context: Jeff went back to the hallway. Bill picked",Who gave the milk to Bill? 
+293,Bill,"Label: Bill
+
+
+Context: Jeff went back to the hallway. Bill picked",Who did Mary give the milk to? 
+294,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+295,milk,"Label: milk
+
+
+Context: Mary journeyed to the hallway. Mary travel",What did Mary give to Jeff? 
+296,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary journey",Who gave the milk? 
+297,milk,"Label: milk
+
+
+Context: Mary journeyed to the hallway. Mary travel",What did Mary give to Jeff? 
+298,milk,"Label: milk
+
+
+Context: Mary journeyed to the hallway. Mary travel",What did Mary give to Jeff? 
+299,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary travel",Who gave the milk to Jeff? 
+300,football,"Label: milk
+
+
+Context: John went to the bedroom. John took the",What did Mary give to Fred? 
+301,Fred,"Label: Fred
+
+
+Context: John went to the bedroom. John took the",Who did Mary give the football to? 
+302,Mary,"Label: Jeff
+
+
+Context: John went to the bedroom. John went to",Who gave the football to Fred? 
+303,Mary,Label: Mary,Who did Fred give the apple to? 
+304,Fred,Label: Bill,Who gave the apple to Mary? 
+305,Jeff,"Label: Jeff
+
+
+Context: Fred journeyed to the hallway. Mary journey",Who gave the apple to Mary? 
+306,Mary,"Label: Mary
+
+
+Context: Fred journeyed to the hallway. Mary journey",Who did Jeff give the apple to? 
+307,milk,"Label: milk
+
+
+Context: Fred journeyed to the hallway. Fred went",What did Mary give to Fred? 
+308,Fred,"Label: Fred
+
+
+Context: Fred journeyed to the hallway. Fred journey",Who did Mary give the milk to? 
+309,Fred,"Label: Mary
+
+
+Context: Fred journeyed to the hallway. Fred journey",Who received the milk? 
+310,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who gave the football to Bill? 
+311,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Mary went",Who gave the football? 
+312,football,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Mary went",What did Bill give to Mary? 
+313,apple,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Mary went",What did Bill give to Mary? 
+314,Bill,Label: Mary,Who did Jeff give the football to? 
+315,milk,"Label: milk
+
+
+Context: The man went to the store. He bought a",What did Jeff give to Bill? 
+316,Bill,"Label: Jeff
+
+
+Context: The man went to the store. The man bought",Who received the milk? 
+317,milk,"Label: milk
+
+
+Context: The man went to the office. The woman went",What did Jeff give to Bill? 
+318,apple,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+319,Fred,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who did Mary give the apple to? 
+320,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who gave the apple? 
+321,apple,"Label: apple
+
+
+Context: Jeff moved to the garden. Mary picked up the",What did Mary give to Bill? 
+322,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who did Jeff give the football to? 
+323,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who received the football? 
+324,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who received the football? 
+325,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who gave the football to Mary? 
+326,Bill,Label: Mary,Who gave the football? 
+327,Jeff,Label: Mary,Who received the apple? 
+328,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Bill give to Jeff? 
+329,apple,"Label: apple
+
+
+Context: The man went to the office. The man went",What did Bill give to Jeff? 
+330,apple,"Label: apple
+
+
+Context: John went to the bathroom. Fred went to",What did Fred give to Mary? 
+331,apple,"Label: apple
+
+
+Context: John went to the bathroom. Fred went to",What did Fred give to Mary? 
+332,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. Fred went to",Who gave the apple? 
+333,Bill,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who received the apple? 
+334,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Mary give to Bill? 
+335,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+336,apple,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+337,apple,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+338,apple,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+339,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Fred give the apple to? 
+340,apple,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Fred give to Bill? 
+341,Bill,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who gave the apple to Fred? 
+342,Bill,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who received the apple? 
+343,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+344,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+345,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Mary give to Jeff? 
+346,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who gave the milk to Jeff? 
+347,Jeff,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who gave the milk? 
+348,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the milk? 
+349,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk to Fred? 
+350,Jeff,"Label: Jeff
+
+
+Context: Jeff went to the office. Fred went to the",Who gave the milk? 
+351,Mary,"Label: Mary
+
+
+Context: Jeff went to the office. Fred went to the",Who gave the milk to Bill? 
+352,milk,"Label: milk
+
+
+Context: Jeff went to the office. Fred went to the",What did Bill give to Jeff? 
+353,Bill,"Label: Mary
+
+
+Context: Jeff went to the office. Fred went to the",Who received the milk? 
+354,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+355,Bill,"Label: Fred
+
+
+Context: A: The man went to the store.",Who gave the milk? 
+356,Bill,"Label: Bill
+
+
+Context: A: The man went to the store. The",Who gave the milk to Fred? 
+357,Bill,"Label: Bill
+
+
+Context: Jeff moved to the bedroom. Fred journeyed",Who gave the milk to Fred? 
+358,apple,"Label: milk
+
+
+Context: Fred journeyed to the garden. Fred journeyed",What did Jeff give to Fred? 
+359,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Jeff give the apple to? 
+360,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary journey",Who received the apple? 
+361,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary journey",Who did Mary give the apple to? 
+362,apple,"Label: apple
+
+
+Context: Mary journeyed to the bathroom. Mary journey",What did Mary give to Bill? 
+363,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary journey",Who did Bill give the apple to? 
+364,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary journey",Who received the apple? 
+365,Jeff,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+366,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+367,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the football? 
+368,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the football? 
+369,Bill,"Label: Bill
+
+
+Context: John went to the hallway. John went to",Who did Mary give the football to? 
+370,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who did Mary give the football to? 
+371,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the football to Fred? 
+372,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the football to Mary? 
+373,Jeff,Label: Fred,Who did Mary give the football to? 
+374,football,Label: the football,What did Mary give to Jeff? 
+375,Fred,Label: Mary,Who received the apple? 
+376,Fred,"Label: Mary
+
+
+Context: John went to the bathroom. John went to",Who gave the apple? 
+377,Bill,"Label: Mary
+
+
+
+Context: John went to the bathroom. John went",Who gave the apple? 
+378,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Bill? 
+379,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who did Bill give the apple to? 
+380,milk,"Output: milk
+
+
+Context: The man was a doctor. The man was a",What did Mary give to Bill? 
+381,Bill,"Output: Mary
+
+
+Context: John went to the park. John went to the",Who gave the milk? 
+382,milk,"Label: milk
+
+
+Context: John went to the hallway. John went to",What did Mary give to Fred? 
+383,milk,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Mary? 
+384,milk,"Label: milk
+
+
+Context: Mary went to the hallway. Mary went to",What did Fred give to Mary? 
+385,football,"Label: football
+
+
+Context: John went to the park. John went to the",What did Bill give to Mary? 
+386,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the football to? 
+387,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+388,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Mary give the football to? 
+389,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+390,Fred,"Label: Jeff
+
+
+Context: John went to the park. He saw a dog",Who gave the apple? 
+391,apple,"Label: apple
+
+
+Context: John went to the kitchen. John picked up the",What did Fred give to Jeff? 
+392,Fred,"Label: Fred
+
+
+Context: John went to the kitchen. John picked up the",Who received the apple? 
+393,Fred,"Label: Jeff
+
+
+Context: John went to the kitchen. John picked up the",Who received the apple? 
+394,Jeff,"Label: Jeff
+
+
+Context: John went to the bathroom. John put down",Who gave the apple to Fred? 
+395,Mary,"Label: Mary
+
+
+Context: Mary went to the office. Mary went to the",Who gave the apple? 
+396,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who did Mary give the apple to? 
+397,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple to Bill? 
+398,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+399,Fred,"Label: Mary
+
+
+Context: Mary went to the office. Mary went to the",Who received the apple? 
+400,Mary,"Output: Mary
+
+
+Context: The man was a doctor. The man was a",Who gave the football to Fred? 
+401,Fred,"Label: Fred
+
+
+Context: The man went to the store. The man bought",Who did Mary give the football to? 
+402,Fred,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who did Mary give the football to? 
+403,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple to Jeff? 
+404,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+405,apple,Label: apple,What did Fred give to Bill? 
+406,Fred,Label: Mary,Who gave the apple? 
+407,Fred,Label: Mary,Who received the apple? 
+408,Fred,Label: Mary,Who gave the apple to Jeff? 
+409,apple,Label: apple,What did Fred give to Jeff? 
+410,milk,"Label: milk
+
+
+Context: Mary went to the hallway. Mary went to",What did Bill give to Jeff? 
+411,Jeff,"Label: Mary
+
+
+Context: Mary went to the hallway. Mary went to",Who gave the milk to Bill? 
+412,milk,"Label: milk
+
+
+Context: Mary went to the hallway. Mary went to",What did Jeff give to Bill? 
+413,milk,"Label: milk
+
+
+Context: Mary went to the hallway. Mary went to",What did Jeff give to Bill? 
+414,Jeff,Label: Jeff,Who gave the milk to Mary? 
+415,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+416,milk,"Label: milk
+
+
+Context: The man went to the office. The man went",What did Jeff give to Fred? 
+417,Fred,Label: Fred,Who received the milk? 
+418,Jeff,Label: Jeff,Who did Fred give the milk to? 
+419,Jeff,Label: Jeff,Who gave the milk to Fred? 
+420,Fred,"Label: Mary
+
+
+Context: John went to the hallway. John went to",Who gave the football? 
+421,Fred,"Label: Mary
+
+
+Context: John went to the hallway. John went to",Who received the football? 
+422,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+423,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+424,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the football to Mary? 
+425,apple,"Label: apple
+
+
+Context: Jeff journeyed to the bedroom. Jeff went",What did Fred give to Bill? 
+426,Fred,"Label: Fred
+
+
+Context: Jeff journeyed to the bedroom. Jeff went",Who received the apple? 
+427,apple,"Label: apple
+
+
+Context: Jeff journeyed to the bedroom. Jeff went",What did Fred give to Mary? 
+428,Fred,"Label: Fred
+
+
+Context: Jeff journeyed to the bedroom. Jeff went",Who received the apple? 
+429,Mary,Label: Mary,Who gave the apple? 
+430,Jeff,"Label: Jeff
+
+
+Context: A: I'm going to the store.",Who did Fred give the apple to? 
+431,apple,"Label: apple
+
+
+Context: Jeff went back to the hallway. Fred journey",What did Fred give to Jeff? 
+432,Fred,"Label: Fred
+
+
+Context: Jeff went back to the hallway. Fred journey",Who gave the apple to Jeff? 
+433,Jeff,"Output: Jeff
+
+
+Context: Jeff went back to the hallway. Fred journey",Who received the apple? 
+434,Mary,"Label: Fred
+
+
+Context: Jeff went back to the hallway. Fred journey",Who received the football? 
+435,apple,"Label: apple
+
+
+Context:
+
+Jeff went back to the garden.",What did Bill give to Mary? 
+436,Mary,"Label: Mary
+
+
+Context: Jeff went back to the garden. Mary travelled",Who did Bill give the apple to? 
+437,Fred,Label: Mary,Who gave the apple? 
+438,Fred,"Label: Mary
+
+
+Context: Jeff went back to the garden. Mary travelled",Who received the apple? 
+439,Mary,"Label: Mary
+
+
+Context: John went to the office. Mary went to the",Who gave the apple to Fred? 
+440,apple,"Label: apple
+
+
+Context: Mary went to the garden. Fred went to the",What did Mary give to Bill? 
+441,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Fred went to the",Who did Bill give the apple to? 
+442,apple,"Label: apple
+
+
+Context: Mary went to the garden. Mary went to the",What did Bill give to Mary? 
+443,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Fred went to the",Who gave the apple? 
+444,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Fred went to the",Who gave the apple? 
+445,apple,"Output: apple
+
+
+Context: The man was a doctor. The man was a",What did Mary give to Fred? 
+446,Fred,"Label: Fred
+
+
+Context: John was a good friend of mine. He was",Who did Mary give the apple to? 
+447,milk,"Label: milk
+
+
+Context: John washed the dishes. John put the",What did Mary give to Bill? 
+448,Bill,"Label: Mary
+
+
+Context: John washed the dishes. John put the",Who received the milk? 
+449,milk,"Label: milk
+
+
+Context: John washed the dishes. John put the",What did Bill give to Mary? 
+450,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the office. Jeff journeyed",Who gave the apple to Bill? 
+451,apple,"Label: apple
+
+
+Context: Mary journeyed to the office. Mary journeyed",What did Mary give to Bill? 
+452,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the office. Jeff journeyed",Who gave the apple to Fred? 
+453,Fred,"Label: Mary
+
+
+Context: Mary journeyed to the office. Jeff journeyed",Who gave the apple to Bill? 
+454,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the office. Jeff journeyed",Who received the apple? 
+455,Fred,"Label: Bill
+
+
+Context: Jeff journeyed to the garden. Bill picked up",Who did Mary give the milk to? 
+456,Mary,"Output: Mary
+
+
+
+Context: Jeff journeyed to the garden. Bill picked",Who gave the milk? 
+457,Fred,"Label: Fred
+
+
+
+Context: Jeff journeyed to the garden. Bill picked",Who did Mary give the milk to? 
+458,Mary,Label: Mary,Who gave the milk? 
+459,milk,Label: milk,What did Fred give to Jeff? 
+460,Mary,"Label: Mary
+
+
+Context: Mary went to the hallway. Jeff went back",Who gave the milk? 
+461,milk,"Label: milk
+
+
+Context: Mary went to the hallway. Jeff went back",What did Mary give to Bill? 
+462,Bill,Label: Mary,Who did Jeff give the football to? 
+463,football,"Label: milk
+
+
+Context: Mary went to the hallway. Jeff went back",What did Jeff give to Bill? 
+464,football,"Label: milk
+
+
+Context: Mary went to the hallway. Jeff went back",What did Jeff give to Bill? 
+465,Bill,"A: Bill
+
+
+Context: The man was a doctor. The man was a",Who did Fred give the apple to? 
+466,Bill,"Label: Bill
+
+
+Context: Fred grabbed the apple there. Fred handed",Who gave the apple to Fred? 
+467,apple,"Label: apple
+
+
+Context: The man washed the dishes. The man",What did Bill give to Fred? 
+468,Bill,"Label: Bill
+
+
+Context: The man went to the bathroom. The man",Who gave the apple to Fred? 
+469,Jeff,"Label: Bill
+
+
+
+
+
+Context: Fred grabbed the apple there",Who gave the apple to Fred? 
+470,Fred,Label: Mary,Who gave the apple? 
+471,apple,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Fred give to Mary? 
+472,Mary,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who received the apple? 
+473,Mary,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who gave the apple? 
+474,apple,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Mary give to Bill? 
+475,apple,"Label: apple
+
+
+Context: Jeff went back to the hallway. Fred journey",What did Mary give to Fred? 
+476,apple,"Label: milk
+
+
+Context: Jeff journeyed to the hallway. Fred journey",What did Fred give to Bill? 
+477,Fred,"Label: Mary
+
+
+Context: Jeff journeyed to the hallway. Fred journey",Who gave the apple to Bill? 
+478,Bill,"Label: Mary
+
+
+Context: Jeff journeyed to the office. Fred journeyed",Who gave the apple to Fred? 
+479,Fred,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who gave the apple to Bill? 
+480,Fred,Label: Mary,Who gave the apple? 
+481,Fred,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who gave the apple? 
+482,apple,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Fred give to Bill? 
+483,Bill,"Label: Mary
+
+
+
+Context: Mary went to the office. Mary went to",Who gave the apple? 
+484,Bill,"Label: Bill
+
+
+Context: Mary went to the office. Mary went to the",Who gave the apple to Mary? 
+485,Bill,"Label: Fred
+
+
+Context: John went to the hallway. Fred went to",Who did Fred give the apple to? 
+486,apple,"Label: apple
+
+
+Context: Mary went to the hallway. Fred picked up",What did Fred give to Bill? 
+487,Bill,"Label: Mary
+
+
+Context: Mary went to the hallway. Fred picked up",Who gave the apple? 
+488,Bill,"Label: Fred
+
+
+Context: Mary went to the hallway. Fred picked up",Who gave the apple to Mary? 
+489,Bill,"Label: Mary
+
+
+Context: Mary went to the hallway. Fred picked up",Who gave the apple? 
+490,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple to Mary? 
+491,Mary,"Label: Mary
+
+
+Context: Fred went to the hallway. Fred went to",Who received the apple? 
+492,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+493,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+494,Fred,Label: Mary,Who gave the milk to Jeff? 
+495,Jeff,"Label: Jeff
+
+
+Context: The man went to the office. The woman went",Who did Fred give the football to? 
+496,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+497,Fred,"Label: Jeff
+
+
+Context: The man went to the office. The woman went",Who received the football? 
+498,football,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+499,Mary,Label: Mary,Who received the milk? 
+500,Fred,"Output: Fred
+
+
+Context: The man took the ball from the woman.",Who received the football? 
+501,Jeff,"Label: Jeff
+
+
+Context: A: The man is a doctor.",Who gave the football? 
+502,football,"Label: milk
+
+
+Context: The man went to the bedroom. The man",What did Fred give to Jeff? 
+503,Fred,"Label: Jeff
+
+
+Context: The man went to the bedroom. The man",Who gave the football? 
+504,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+505,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+506,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who gave the football to Fred? 
+507,Bill,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+508,Bill,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+509,Bill,"Label: Fred
+
+
+Context: John went to the bedroom. John went to",Who did Fred give the football to? 
+510,Fred,Label: Mary,Who received the milk? 
+511,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the milk? 
+512,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+513,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+514,Fred,Label: Mary,Who gave the apple to Bill? 
+515,Bill,"Label: Bill
+
+
+Context: Mary went to the hallway. Jeff moved to",Who gave the apple to Mary? 
+516,Fred,"Label: Mary
+
+
+Context: Mary went to the hallway. Jeff moved to",Who gave the apple? 
+517,Fred,"Label: Fred
+
+
+Context: Mary went to the hallway. Jeff moved to",Who gave the apple to Mary? 
+518,Mary,"Label: Mary
+
+
+Context: Mary went to the hallway. Jeff moved to",Who received the apple? 
+519,apple,"Label: apple
+
+
+Context: Mary went to the hallway. Jeff moved to",What did Fred give to Mary? 
+520,apple,"Label: milk
+
+
+Context: The man went to the bedroom. The man",What did Mary give to Fred? 
+521,Mary,"Output: Fred
+
+
+Context: The man went to the bedroom. The man",Who gave the apple? 
+522,Fred,"Label: Fred
+
+
+Context: John washed the dishes. John washed",Who did Mary give the milk to? 
+523,milk,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+524,Mary,"Label: Mary
+
+
+Context: Mary picked up the apple there. Fred travelled",Who gave the milk to Fred? 
+525,milk,"Label: milk
+
+
+Context: Mary went to the bathroom. Fred went to",What did Mary give to Fred? 
+526,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Fred went to the",Who received the milk? 
+527,Mary,"Label: Mary
+
+
+Context: Mary went to the office. Fred went to the",Who received the milk? 
+528,Mary,"Label: Mary
+
+
+Context: Mary went to the office. Fred went to the",Who received the milk? 
+529,Jeff,"Label: Mary
+
+
+Context: Mary went to the bathroom. Mary went to",Who gave the football to Mary? 
+530,Bill,"Label: Bill
+
+
+Context: John went to the bathroom. John journeyed",Who gave the apple to Mary? 
+531,apple,"Label: apple
+
+
+Context: John went to the bathroom. John journeyed",What did Bill give to Mary? 
+532,Mary,"Label: Mary
+
+
+Context: John went to the bathroom. John journeyed",Who received the apple? 
+533,apple,"Label: apple
+
+
+Context: John went to the bathroom. John journeyed",What did Bill give to Mary? 
+534,Fred,"Label: Fred
+
+
+
+Context: John went to the bathroom. John journey",Who did Mary give the football to? 
+535,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+536,Bill,Label: Bill,Who did Fred give the milk to? 
+537,Bill,"Label: Bill
+
+
+Context: The man went to the office. The man went",Who did Fred give the milk to? 
+538,Mary,Label: Mary,Who did Bill give the milk to? 
+539,Mary,Label: Mary,Who did Bill give the milk to? 
+540,Jeff,"Label: Jeff
+
+
+Context: The man went to the store. The man bought",Who received the apple? 
+541,Jeff,"Label: Jeff
+
+
+Context: The man went to the store. The man went",Who received the apple? 
+542,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Bill give to Jeff? 
+543,apple,"Label: apple
+
+
+Context: Jeff journeyed to the bedroom. Jeff went",What did Bill give to Mary? 
+544,Mary,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who did Bill give the apple to? 
+545,Jeff,"Label: Jeff
+
+
+Context: Jeff moved to the hallway. Jeff picked up",Who did Mary give the apple to? 
+546,Jeff,"Label: Mary
+
+
+Context: Jeff moved to the hallway. Jeff picked up",Who received the apple? 
+547,Jeff,"Label: Jeff
+
+
+Context: Jeff moved to the hallway. Jeff picked up",Who did Mary give the apple to? 
+548,Bill,"Label: Mary
+
+
+Context: Jeff moved to the hallway. Jeff picked up",Who received the apple? 
+549,Mary,"Label: Mary
+
+
+Context: Jeff moved to the hallway. Jeff picked up",Who gave the apple to Bill? 
+550,Mary,"Label: Mary
+
+
+Context: Mary went back to the garden. Fred went to",Who gave the milk to Jeff? 
+551,Jeff,"Label: Mary
+
+
+Context: Mary went back to the garden. Fred went to",Who received the milk? 
+552,Mary,"Label: Mary
+
+
+Context: Mary went back to the garden. Fred went to",Who did Fred give the football to? 
+553,Fred,"Label: Mary
+
+
+Context: John went to the garden. Fred went to the",Who gave the football? 
+554,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the football? 
+555,Bill,"Label: Fred
+
+
+Context: The man went to the store. The man bought",Who gave the apple? 
+556,Bill,"Output: Fred
+
+
+Context: Fred took the apple there. Fred moved to the",Who gave the apple? 
+557,apple,"Label: milk
+
+
+Context: Fred took the apple there. Fred moved to the",What did Bill give to Fred? 
+558,apple,"Label: apple
+
+
+Context: Fred took the apple there. Fred moved to the",What did Fred give to Bill? 
+559,Fred,"Label: Fred
+
+
+Context: Fred took the apple there. Fred moved to the",Who received the apple? 
+560,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Fred give to Mary? 
+561,Fred,Label: Mary,Who received the apple? 
+562,apple,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Mary give to Fred? 
+563,football,"Label: apple
+
+
+Context: Mary went to the office. Mary went to the",What did Fred give to Mary? 
+564,Fred,Label: Mary,Who received the football? 
+565,apple,"Label: apple
+
+
+Context: Jeff picked up the apple there. Mary travelled",What did Jeff give to Mary? 
+566,Mary,"Label: Jeff
+
+
+Context: Jeff picked up the apple there. Mary travelled",Who gave the apple? 
+567,apple,"Label: apple
+
+
+Context: Jeff picked up the apple there. Mary travelled",What did Mary give to Jeff? 
+568,apple,"Label: apple
+
+
+Context: Jeff picked up the apple there. Mary travelled",What did Jeff give to Mary? 
+569,Jeff,"Label: Jeff
+
+
+Context: Jeff picked up the apple there. Mary travelled",Who gave the apple to Mary? 
+570,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Jeff? 
+571,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Mary? 
+572,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Mary? 
+573,Fred,Label: Mary,Who received the milk? 
+574,Fred,Label: Mary,Who received the milk? 
+575,football,"Label: football
+
+
+Context: Mary journeyed to the hallway. Fred travel",What did Bill give to Mary? 
+576,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Fred travel",Who gave the football to Fred? 
+577,football,"Label: the football
+
+
+Context: Mary journeyed to the hallway. Fred",What did Mary give to Fred? 
+578,football,"Label: football
+
+
+Context: Mary journeyed to the hallway. Fred travel",What did Mary give to Fred? 
+579,Fred,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Fred travel",Who did Mary give the football to? 
+580,Fred,"Label: Fred
+
+
+Context: John got the ball there. John got the ball",Who gave the milk to Bill? 
+581,Bill,"Label: Jeff
+
+
+Context: John was a good friend of mine. He was",Who did Fred give the milk to? 
+582,milk,"Label: milk
+
+
+Context:",What did Fred give to Bill? 
+583,Jeff,"Label: Jeff
+
+
+Context: John went to the bathroom. John went to",Who gave the apple to Mary? 
+584,Jeff,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who received the apple? 
+585,milk,"Label: milk
+
+
+Context: The man went to the store. The man bought",What did Mary give to Bill? 
+586,Mary,"Label: Mary
+
+
+Context: A: The man is a doctor.",Who gave the milk? 
+587,Bill,"Label: Jeff
+
+
+Context: The man went to the store. The man bought",Who did Mary give the milk to? 
+588,Jeff,"Label: Jeff
+
+
+Context: John was in the garden. John went to the",Who gave the apple to Fred? 
+589,Fred,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who gave the apple? 
+590,milk,"Label: milk
+
+
+Context: Jeff journeyed to the office. Mary went to",What did Bill give to Fred? 
+591,milk,"Label: milk
+
+
+Context: Jeff journeyed to the office. Mary went to",What did Bill give to Fred? 
+592,milk,"Label: milk
+
+
+Context: Jeff journeyed to the office. Mary went to",What did Bill give to Fred? 
+593,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+594,football,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Fred? 
+595,Jeff,Label: Jeff,Who gave the milk to Bill? 
+596,Jeff,"Label: Bill
+
+
+Context: The man went to the bedroom. The man",Who received the milk? 
+597,Bill,"Label: Bill
+
+
+Context: The man went to the bedroom. The man",Who received the milk? 
+598,Jeff,"Label: Jeff
+
+
+Context: The man went to the bedroom. The man",Who gave the milk? 
+599,milk,"Label: milk
+
+
+Context: Jeff journeyed to the bedroom. Jeff put",What did Jeff give to Bill? 
+600,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the football? 
+601,Mary,Label: Mary,Who did Jeff give the football to? 
+602,Jeff,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who gave the football? 
+603,Jeff,Label: Mary,Who gave the football? 
+604,Jeff,Label: Jeff,Who did Bill give the milk to? 
+605,Fred,"Label: Fred
+
+
+Context:
+
+Jeff went back to the hallway",Who did Mary give the football to? 
+606,Mary,"Label: Mary
+
+
+Context:
+
+Jeff went back to the hallway",Who gave the football to Fred? 
+607,Fred,"Label: Fred
+
+
+Context:
+
+Jeff went back to the hallway",Who did Bill give the football to? 
+608,Fred,"Label: Fred
+
+
+Context:
+
+Jeff went back to the hallway",Who gave the football? 
+609,football,"Label: football
+
+
+Context:
+
+Jeff went back to the hallway",What did Fred give to Bill? 
+610,football,"Label: football
+
+
+Context:
+
+Bill went back to the hallway",What did Jeff give to Fred? 
+611,Jeff,"Label: Fred
+
+
+Context:
+
+Bill went back to the hallway",Who did Fred give the football to? 
+612,Fred,"Output: Fred
+
+
+Context: John went to the office. John went to the garden",Who gave the football? 
+613,Mary,"Output: Fred
+
+
+Context: John went to the office. John went to the garden",Who gave the football? 
+614,Mary,Label: Mary,Who gave the football? 
+615,football,"Label: football
+
+
+Context: A: The man is a doctor.",What did Jeff give to Fred? 
+616,Jeff,"Label: Jeff
+
+
+Context: The man went to the store. The man bought",Who did Fred give the football to? 
+617,Fred,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who gave the football to Jeff? 
+618,apple,"Label: apple
+
+
+Context: The man went to the office. The man went",What did Bill give to Jeff? 
+619,apple,"Label: the football
+
+
+Context: The man went to the office. The man",What did Jeff give to Bill? 
+620,Jeff,Label: Mary,Who gave the apple? 
+621,Jeff,Label: Jeff,Who gave the apple to Fred? 
+622,Fred,Label: Mary,Who gave the apple to Bill? 
+623,apple,"Label: apple
+
+
+Context: The man went to the office. The man went",What did Fred give to Bill? 
+624,Bill,Label: Bill,Who did Fred give the apple to? 
+625,football,"Label: milk
+
+
+Context: Fred journeyed to the garden. Fred journeyed",What did Jeff give to Fred? 
+626,football,"Label: football
+
+
+Context: Fred journeyed to the garden. Fred journeyed",What did Jeff give to Fred? 
+627,Fred,"Label: Fred
+
+
+Context: Fred journeyed to the garden. Fred journeyed",Who gave the football to Jeff? 
+628,Jeff,"Label: Fred
+
+
+Context: Fred journeyed to the garden. Fred journeyed",Who received the football? 
+629,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the football to Jeff? 
+630,Fred,Label: Fred,Who did Jeff give the football to? 
+631,football,Label: football,What did Fred give to Jeff? 
+632,Fred,Label: Fred,Who gave the football to Jeff? 
+633,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Jeff? 
+634,apple,"Label: football
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+635,Jeff,"Label: Jeff
+
+
+Context: A: The man is a doctor.",Who gave the milk? 
+636,Jeff,"Label: Jeff
+
+
+Context: A: The man is a doctor.",Who gave the milk? 
+637,milk,"Label: milk
+
+
+Context: John washed the dishes. John put the",What did Jeff give to Bill? 
+638,football,"Label: football
+
+
+Context: John went to the garden. John went to the",What did Mary give to Fred? 
+639,Mary,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+640,Jeff,"Label: Jeff
+
+
+Context: John was a good friend of Bill. John was",Who received the milk? 
+641,Jeff,"Output: Jeff
+
+
+Context: The man went to the park. The man went",Who gave the milk? 
+642,Bill,"Label: Fred
+
+
+Context: The man went to the garden. The man went",Who did Jeff give the milk to? 
+643,Bill,"Label: Fred
+
+
+Context:
+
+Bill went to the garden. Fred",Who did Fred give the milk to? 
+644,milk,"Label: milk
+
+
+Context:
+
+Bill went to the garden. Fred",What did Fred give to Bill? 
+645,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple to Bill? 
+646,apple,"Label: apple
+
+
+Context: Mary went to the bedroom. Mary went to",What did Bill give to Mary? 
+647,Bill,"Label: Jeff
+
+
+Context: Mary went to the office. Mary went to the",Who gave the apple to Mary? 
+648,Bill,"Label: Mary
+
+
+Context: Mary went to the bedroom. Mary went to",Who did Mary give the apple to? 
+649,Mary,"Label: Mary
+
+
+Context: Mary went to the bedroom. Mary went to",Who received the apple? 
+650,Bill,"Label: Mary
+
+
+Context: Fred went to the office. Fred went to the",Who gave the apple? 
+651,Bill,Label: Mary,Who received the milk? 
+652,Bill,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who did Jeff give the milk to? 
+653,Bill,Label: Mary,Who did Jeff give the milk to? 
+654,milk,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+655,Bill,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who did Mary give the apple to? 
+656,Mary,"Label: Mary
+
+
+
+Context: John went to the garden. John went to",Who gave the apple to Bill? 
+657,Fred,Label: Fred,Who gave the football to Mary? 
+658,Mary,Label: Mary,Who gave the football? 
+659,football,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Mary give to Fred? 
+660,Mary,"Output: Mary
+
+
+Context: A man was walking down the street. He saw",Who gave the apple to Jeff? 
+661,apple,"Label: football
+
+
+Context: A: The man is a doctor.",What did Jeff give to Mary? 
+662,apple,"Label: apple
+
+
+Context: The man went to the store. The man bought",What did Mary give to Jeff? 
+663,apple,"Label: apple
+
+
+Context: Mary took the apple there. Mary handed the apple",What did Mary give to Jeff? 
+664,Fred,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who received the football? 
+665,Mary,Label: Mary,Who did Bill give the football to? 
+666,Mary,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who did Bill give the football to? 
+667,Bill,Label: Bill,Who gave the football to Mary? 
+668,Jeff,Label: Mary,Who gave the football to Fred? 
+669,Fred,Label: Fred,Who gave the football? 
+670,apple,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Fred? 
+671,apple,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+672,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Bill give to Fred? 
+673,Bill,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who gave the apple? 
+674,Jeff,Label: Mary,Who did Bill give the apple to? 
+675,Mary,"Label: Mary
+
+
+Context: Jeff moved to the hallway. Jeff travelled",Who gave the apple? 
+676,Mary,"Label: Mary
+
+
+Context: Jeff moved to the hallway. Jeff travelled",Who received the apple? 
+677,apple,"Label: apple
+
+
+Context: Jeff moved to the hallway. Jeff travelled",What did Mary give to Jeff? 
+678,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+679,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+680,apple,"Label: apple
+
+
+Context: John was a good friend to Bill.",What did Bill give to Mary? 
+681,Mary,"Label: Mary
+
+
+Context: John was a good friend to Bill. Bill was",Who did Bill give the apple to? 
+682,Bill,"Label: Mary
+
+
+Context: John was a doctor. He was a good doctor",Who gave the apple? 
+683,Bill,"Label: Fred
+
+
+
+
+
+Context: John went to the bedroom.",Who gave the apple to Mary? 
+684,apple,"Label: apple
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Bill? 
+685,football,"Label: milk
+
+
+Context: Mary went to the bedroom. Fred went to",What did Mary give to Bill? 
+686,football,"Label: milk
+
+
+Context: Mary went to the garden. Fred went to the",What did Mary give to Bill? 
+687,Mary,"Label: Mary
+
+
+Context: Mary went to the office. Fred went to the",Who gave the football? 
+688,Jeff,"Label: Mary
+
+
+Context: Mary went to the office. Fred went to the",Who gave the milk? 
+689,milk,"Label: milk
+
+
+Context: Mary went to the office. Fred went to the",What did Fred give to Jeff? 
+690,Mary,Label: Mary,Who gave the apple to Bill? 
+691,apple,"Label: milk
+
+
+Context: Jeff got the football there. Fred travelled to",What did Bill give to Mary? 
+692,Bill,Label: Bill,Who did Mary give the apple to? 
+693,apple,"Label: milk
+
+
+Context: Jeff got the football there. Fred travelled to",What did Bill give to Mary? 
+694,Mary,Label: Mary,Who received the apple? 
+695,milk,"Label: milk
+
+
+Context: Mary went back to the bathroom. Mary journey",What did Mary give to Fred? 
+696,milk,"Label: milk
+
+
+Context: Mary went back to the bathroom. Mary journey",What did Mary give to Fred? 
+697,milk,"Label: milk
+
+
+Context: Mary went back to the bathroom. Mary journey",What did Mary give to Fred? 
+698,Mary,Label: Mary,Who did Fred give the apple to? 
+699,Fred,"Label: Mary
+
+
+Context: Mary went back to the bathroom. Mary journey",Who received the apple? 
+700,Bill,"Label: Bill
+
+
+Context: A man went to the store. He bought a",Who gave the apple to Fred? 
+701,apple,"Label: apple
+
+
+Context: The man went to the bedroom. The woman",What did Bill give to Fred? 
+702,Fred,"Label: Fred
+
+
+Context: John washed the dishes. John washed",Who did Bill give the apple to? 
+703,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who received the apple? 
+704,Mary,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who gave the football to Fred? 
+705,Fred,"Label: Fred
+
+
+Context: John was a doctor. He was a doctor.",Who gave the football? 
+706,football,"Label: football
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Mary? 
+707,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who gave the football to Mary? 
+708,Jeff,Label: Mary,Who received the apple? 
+709,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Fred give the apple to? 
+710,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple to Bill? 
+711,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+712,Jeff,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple to Bill? 
+713,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+714,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+715,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Mary give to Fred? 
+716,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+717,Fred,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who gave the apple to Bill? 
+718,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+719,Bill,"Label: Bill
+
+
+Context: John went to the garden. John went to the",Who did Fred give the apple to? 
+720,apple,"Label: apple
+
+
+Context: Jeff went to the garden. Mary went to the",What did Bill give to Jeff? 
+721,Jeff,"Label: Jeff
+
+
+Context: John went to the garden. John went to the",Who gave the apple? 
+722,milk,"Label: the milk
+
+
+Context: Jeff went to the garden. Fred went to",What did Jeff give to Bill? 
+723,milk,"Label: the milk
+
+
+Context: Jeff went to the garden. Fred went to",What did Jeff give to Bill? 
+724,Bill,"Label: Bill
+
+
+Context: John went to the garden. John went to the",Who did Jeff give the milk to? 
+725,football,"Label: football
+
+
+Context: Fred went to the garden. Fred picked up the",What did Mary give to Fred? 
+726,football,"Label: football
+
+
+Context: Fred went to the garden. Fred picked up the",What did Fred give to Mary? 
+727,football,"Label: football
+
+
+Context:",What did Fred give to Mary? 
+728,Mary,"Label: Mary
+
+
+Context: Fred went to the garden. Fred picked up the",Who gave the football to Fred? 
+729,Bill,"Label: Mary
+
+
+Context: Fred went to the garden. Fred picked up the",Who gave the milk to Jeff? 
+730,Fred,"Label: Fred
+
+
+Context: A: The man went to the store. B",Who did Bill give the milk to? 
+731,Fred,Label: Fred,Who did Bill give the milk to? 
+732,Bill,"Label: Bill
+
+
+Context: A man went to the office. A woman went",Who gave the milk to Fred? 
+733,Fred,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who did Bill give the milk to? 
+734,apple,"Label: apple
+
+
+Context: Jeff went back to the office. Fred went back",What did Mary give to Fred? 
+735,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who did Mary give the milk to? 
+736,Mary,"Label: Mary
+
+
+Context: John went to the bathroom. John went to",Who did Fred give the milk to? 
+737,milk,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Mary? 
+738,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who gave the football to Bill? 
+739,football,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Bill? 
+740,Mary,Label: Mary,Who gave the milk to Fred? 
+741,Fred,"Label: Fred
+
+
+Context: Jeff went back to the office. Jeff travelled",Who received the milk? 
+742,milk,"Label: milk
+
+
+Context: Jeff went back to the office. Jeff travelled",What did Mary give to Fred? 
+743,football,"Label: football
+
+
+Context: Jeff went back to the office. Jeff travelled",What did Mary give to Fred? 
+744,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+745,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who did Fred give the milk to? 
+746,Bill,Label: Mary,Who did Fred give the milk to? 
+747,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+748,Bill,Label: Fred,Who gave the milk to Mary? 
+749,milk,Label: milk,What did Mary give to Fred? 
+750,Bill,Label: Mary,Who gave the apple to Jeff? 
+751,Jeff,Label: Jeff,Who did Bill give the apple to? 
+752,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+753,Bill,Label: Bill,Who did Jeff give the football to? 
+754,football,Label: apple,What did Bill give to Jeff? 
+755,Fred,"Label: Fred
+
+
+Context: Jeff journeyed to the garden. Fred went to",Who gave the apple to Jeff? 
+756,Jeff,"Label: Jeff
+
+
+Context: Jeff journeyed to the garden. Fred went to",Who did Fred give the apple to? 
+757,Fred,"Label: Fred
+
+
+Context: Jeff journeyed to the garden. Fred went to",Who gave the apple to Jeff? 
+758,Fred,"Label: Jeff
+
+
+Context: Jeff journeyed to the garden. Fred went to",Who gave the milk? 
+759,Fred,"Label: Jeff
+
+
+Context: Jeff journeyed to the garden. Fred went to",Who gave the milk? 
+760,apple,"Label: apple
+
+
+Context: A: The man went to the store.",What did Fred give to Jeff? 
+761,Jeff,"Label: Jeff
+
+
+Context: A: I'm going to the store.",Who did Mary give the apple to? 
+762,Mary,"Label: Mary
+
+
+Context: Jeff went to the bathroom. Fred went to",Who gave the apple? 
+763,Mary,"Label: Mary
+
+
+Context: Jeff went to the bathroom. Fred went to",Who gave the apple? 
+764,Jeff,"Label: Jeff
+
+
+Context: Jeff went to the bathroom. Fred went to",Who did Mary give the apple to? 
+765,Fred,"Label: Fred
+
+
+Context: John was a doctor. He was a doctor.",Who received the football? 
+766,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+767,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+768,Bill,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who received the football? 
+769,Jeff,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the football to Bill? 
+770,Bill,"Output: Mary
+
+
+Context: John was a good friend of Bill. Bill was",Who gave the apple? 
+771,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who did Bill give the apple to? 
+772,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Mary give to Bill? 
+773,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Bill give to Mary? 
+774,Bill,Label: Fred,Who gave the apple to Mary? 
+775,Mary,Label: Mary,Who gave the milk? 
+776,milk,Label: milk,What did Mary give to Fred? 
+777,Fred,Label: Fred,Who did Bill give the apple to? 
+778,apple,Label: the football,What did Fred give to Bill? 
+779,Bill,Label: Fred,Who received the apple? 
+780,Mary,"Label: Mary
+
+
+Context: A man went to the store. He bought a",Who received the football? 
+781,Mary,"Label: Mary
+
+
+Context:
+
+Jeff journeyed to the bedroom",Who did Bill give the football to? 
+782,apple,"Label: the football
+
+
+Context: Jeff journeyed to the bedroom. Fred",What did Jeff give to Mary? 
+783,Mary,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who did Jeff give the apple to? 
+784,apple,"Label: the football
+
+
+Context: Jeff journeyed to the bedroom. Fred",What did Mary give to Fred? 
+785,milk,"Label: milk
+
+
+Context: Fred went to the bathroom. Fred went to",What did Fred give to Mary? 
+786,milk,"Label: milk
+
+
+Context: Fred went to the bathroom. Fred went to",What did Fred give to Mary? 
+787,milk,"Label: milk
+
+
+Context: Fred went to the office. Fred went to the",What did Fred give to Mary? 
+788,milk,"Label: milk
+
+
+Context: Fred went to the office. Fred went to the",What did Bill give to Mary? 
+789,milk,"Label: milk
+
+
+Context: Fred went to the office. Fred went to the",What did Bill give to Mary? 
+790,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Fred give to Mary? 
+791,Fred,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who gave the apple to Mary? 
+792,Mary,Label: Mary,Who gave the apple? 
+793,Mary,Label: Mary,Who did Jeff give the apple to? 
+794,Mary,Label: Mary,Who received the apple? 
+795,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+796,Mary,Label: Mary,Who received the apple? 
+797,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+798,Mary,Label: Mary,Who gave the apple to Bill? 
+799,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Bill? 
+800,Jeff,"Label: Jeff
+
+
+Context: The man went to the store. The man went",Who gave the football to Fred? 
+801,football,"Label: football
+
+
+Context: The man went to the bathroom. The woman",What did Jeff give to Fred? 
+802,Jeff,"Label: Jeff
+
+
+Context: The man went to the office. The woman went",Who gave the football to Fred? 
+803,football,"Label: the football
+
+
+Context: The man went to the office. The man",What did Mary give to Fred? 
+804,Mary,Label: Mary,Who received the football? 
+805,Jeff,"Label: Mary
+
+
+Context: Mary went to the garden. Mary went to the",Who gave the apple? 
+806,apple,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Bill travel",What did Jeff give to Mary? 
+807,apple,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Bill travel",What did Jeff give to Mary? 
+808,Jeff,"Label: Mary
+
+
+
+Context: Mary went to the garden. Mary went to",Who received the milk? 
+809,milk,"Label: apple
+
+
+Context: Mary went to the garden. Mary went to the",What did Jeff give to Fred? 
+810,Mary,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+811,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+812,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the football? 
+813,Mary,"Label: Mary
+
+
+Context:
+
+Bill went to the office. Jeff",Who gave the football to Bill? 
+814,Bill,"Label: Jeff
+
+
+Context: John went to the office. John went to the",Who did Mary give the football to? 
+815,milk,"Label: milk
+
+
+Context: John was a doctor. He was a doctor.",What did Bill give to Jeff? 
+816,Jeff,"Label: Mary
+
+
+Context: John was a doctor. He was a doctor.",Who received the milk? 
+817,Bill,"Label: Mary
+
+
+Context: John went to the bedroom. John went to",Who gave the milk to Jeff? 
+818,Bill,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the milk? 
+819,milk,"Label: milk
+
+
+Context: Mary journeyed to the bedroom. Mary journey",What did Fred give to Bill? 
+820,football,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Fred give to Bill? 
+821,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who did Bill give the football to? 
+822,football,"Label: milk
+
+
+Context: John went to the bathroom. John went to",What did Bill give to Fred? 
+823,apple,"Label: milk
+
+
+Context: Fred went to the bathroom. Fred went to",What did Bill give to Mary? 
+824,Mary,"Label: Mary
+
+
+Context: Fred went to the bathroom. Fred went to",Who received the apple? 
+825,Bill,"Label: Bill
+
+
+Context: The man went to the office. The woman went",Who did Fred give the milk to? 
+826,Bill,"Label: Bill
+
+
+Context: The man went to the office. The woman went",Who did Fred give the milk to? 
+827,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Fred give to Bill? 
+828,Mary,Label: Mary,Who gave the milk? 
+829,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Fred? 
+830,Bill,Label: Fred,Who gave the apple to Mary? 
+831,Mary,Label: Mary,Who did Bill give the apple to? 
+832,Mary,Label: Mary,Who did Bill give the apple to? 
+833,Bill,Label: Bill,Who gave the apple? 
+834,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Bill give to Mary? 
+835,Mary,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who did Bill give the football to? 
+836,Mary,Label: Bill,Who gave the football to Fred? 
+837,Fred,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who did Mary give the football to? 
+838,Fred,Label: Mary,Who gave the football to Bill? 
+839,Bill,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who did Fred give the football to? 
+840,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the apple? 
+841,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+842,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+843,Mary,Label: Mary,Who received the apple? 
+844,Mary,Label: Mary,Who gave the apple? 
+845,Fred,Label: Mary,Who received the football? 
+846,Mary,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who gave the football? 
+847,football,"Label: football
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+848,Bill,Label: Mary,Who did Jeff give the apple to? 
+849,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Jeff give to Bill? 
+850,apple,"Label: apple
+
+
+Context: Mary went to the garden. Mary went to the",What did Jeff give to Mary? 
+851,apple,"Label: apple
+
+
+Context: Mary went to the garden. Mary went to the",What did Jeff give to Mary? 
+852,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Jeff went back to",Who did Jeff give the apple to? 
+853,football,"Label: football
+
+
+Context: Mary went to the garden. Mary went to the",What did Jeff give to Mary? 
+854,Mary,"Label: Mary
+
+
+Context: Mary went to the garden. Jeff went back to",Who did Jeff give the football to? 
+855,football,"Label: milk
+
+
+Context: Jeff journeyed to the garden. Mary travelled",What did Mary give to Fred? 
+856,Mary,"Label: Mary
+
+
+Context: Jeff journeyed to the garden. Mary travelled",Who gave the football? 
+857,Mary,"Label: Jeff
+
+
+Context: Jeff journeyed to the garden. Mary travelled",Who gave the football to Fred? 
+858,milk,"Label: milk
+
+
+Context: Jeff journeyed to the garden. Mary travelled",What did Fred give to Mary? 
+859,Fred,Label: Mary,Who gave the milk? 
+860,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Jeff give to Mary? 
+861,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who received the milk? 
+862,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Jeff give to Mary? 
+863,Jeff,Label: Jeff,Who did Mary give the apple to? 
+864,Jeff,Label: Mary,Who gave the apple? 
+865,Mary,Label: Fred,Who gave the milk to Fred? 
+866,milk,"Label: milk
+
+
+Context:
+
+Bill went to the garden. Fred",What did Fred give to Mary? 
+867,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+868,Mary,Label: Mary,Who did Fred give the milk to? 
+869,Mary,Label: Fred,Who gave the milk? 
+870,Bill,"Label: Fred
+
+
+
+Context: John went to the office. John went to",Who gave the milk to Mary? 
+871,Bill,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who did Mary give the football to? 
+872,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the football to? 
+873,Mary,"Label: Mary
+
+
+Context: The man went to the office. The man went",Who gave the football? 
+874,Mary,"Output: Mary
+
+
+Context: Mary went to the hallway. Mary went to",Who gave the milk? 
+875,Mary,"Label: Mary
+
+
+Context: A man went to the store. He bought a",Who received the football? 
+876,Mary,"Label: Mary
+
+
+Context: The man went to the garden. The woman went",Who did Bill give the football to? 
+877,football,"Label: football
+
+
+Context: The man went to the garden. The woman went",What did Mary give to Bill? 
+878,football,"Label: football
+
+
+Context: Jeff went to the garden. Mary went to the",What did Mary give to Bill? 
+879,Fred,"Label: Bill
+
+
+Context: The man went to the garden. The woman went",Who did Mary give the football to? 
+880,Jeff,Label: Mary,Who gave the apple? 
+881,Jeff,Label: Mary,Who gave the apple? 
+882,milk,Label: milk,What did Bill give to Fred? 
+883,Bill,Label: Mary,Who gave the milk to Fred? 
+884,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Bill give to Fred? 
+885,Bill,Label: Mary,Who received the apple? 
+886,Bill,Label: Bill,Who did Jeff give the apple to? 
+887,Jeff,"Label: Mary
+
+
+
+Context: John went to the garden. John went to",Who received the apple? 
+888,Jeff,Label: Mary,Who did Bill give the apple to? 
+889,Jeff,Label: Mary,Who did Bill give the apple to? 
+890,Bill,"Label: Mary
+
+
+Context: Jeff went to the bedroom. Jeff went to",Who gave the apple? 
+891,apple,"Label: apple
+
+
+Context: Jeff went to the bedroom. Jeff went to",What did Mary give to Fred? 
+892,Fred,"Label: Fred
+
+
+Context: Jeff journeyed to the office. Jeff went to",Who received the apple? 
+893,Mary,"Label: Mary
+
+
+Context: Jeff journeyed to the office. Jeff went to",Who gave the apple? 
+894,Fred,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who did Bill give the apple to? 
+895,Fred,"Label: Mary
+
+
+
+
+
+Context: John went to the bathroom.",Who gave the apple? 
+896,Fred,"Label: Fred
+
+
+Context: John went to the bathroom. John went to",Who did Mary give the apple to? 
+897,Fred,"Label: Mary
+
+
+Context: John washed the dishes. John put the",Who received the apple? 
+898,Mary,Label: Mary,Who received the football? 
+899,Bill,Label: Mary,Who gave the football? 
+900,Jeff,Label: Mary,Who received the apple? 
+901,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Fred give to Jeff? 
+902,Jeff,Label: Jeff,Who did Fred give the apple to? 
+903,apple,"Label: apple
+
+
+Context: John went to the garden. John went to the",What did Fred give to Jeff? 
+904,Fred,Label: Mary,Who received the apple? 
+905,Bill,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk to Fred? 
+906,milk,"Label: milk
+
+
+Context: Mary went to the office. Mary went to the",What did Fred give to Bill? 
+907,Fred,Label: Fred,Who did Bill give the milk to? 
+908,Bill,"Label: Mary
+
+
+
+Context: John went to the office. John went to",Who gave the milk to Fred? 
+909,Fred,Label: Mary,Who gave the milk? 
+910,milk,"Label: milk
+
+
+Context: A man went to the office. A woman went",What did Fred give to Jeff? 
+911,Jeff,"Label: Jeff
+
+
+Context: A man went to the office. A woman went",Who did Fred give the milk to? 
+912,Mary,Label: Mary,Who received the milk? 
+913,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk? 
+914,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Mary? 
+915,football,"Label: football
+
+
+Context: John went to the park. John went to the",What did Fred give to Mary? 
+916,Mary,"Label: Mary
+
+
+Context: A man went to the store. He bought a",Who received the football? 
+917,Mary,"Label: Mary
+
+
+Context: Fred journeyed to the bathroom. Fred went",Who gave the football? 
+918,Mary,"Label: Mary
+
+
+Context:
+
+Jeff journeyed to the hallway",Who gave the football? 
+919,Fred,"Label: Mary
+
+
+Context: John went to the bathroom. John went to",Who gave the football to Jeff? 
+920,Mary,"Output: Mary
+
+
+Context:
+
+Mary picked up the apple there.",Who gave the apple to Fred? 
+921,Fred,"Output: Fred
+
+
+Context: The man was a doctor. The man was a",Who did Mary give the apple to? 
+922,Fred,"Label: Fred
+
+
+Context: The man went to the office. The man went",Who did Mary give the apple to? 
+923,Mary,"Label: Mary
+
+
+Context: John was a doctor. John was a doctor.",Who gave the apple? 
+924,football,"Label: football
+
+
+Context: Mary picked up the apple there. Mary handed the",What did Jeff give to Mary? 
+925,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary moved",Who gave the milk? 
+926,Bill,"Label: Mary
+
+
+Context: Mary journeyed to the bathroom. Mary moved",Who did Fred give the milk to? 
+927,Fred,"Label: Fred
+
+
+Context: Mary journeyed to the bathroom. Mary moved",Who gave the apple? 
+928,milk,"Label: apple
+
+
+Context: Mary journeyed to the bathroom. Mary moved",What did Fred give to Bill? 
+929,apple,"Label: apple
+
+
+Context: Mary journeyed to the bathroom. Mary moved",What did Bill give to Fred? 
+930,apple,"Label: apple
+
+
+Context: The man went to the office. The man went",What did Mary give to Fred? 
+931,Mary,"Label: Mary
+
+
+Context: Fred went back to the hallway. Bill journey",Who gave the apple? 
+932,apple,"Label: apple
+
+
+Context: John went to the office. John went to the",What did Mary give to Fred? 
+933,Jeff,Label: Mary,Who gave the apple to Fred? 
+934,Jeff,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the apple? 
+935,Fred,"Label: Fred
+
+
+Context: John went to the garden. John picked up the",Who did Bill give the apple to? 
+936,Bill,"Label: Fred
+
+
+Context: John went to the garden. John picked up the",Who gave the apple? 
+937,apple,"Label: apple
+
+
+Context: John went to the garden. John picked up the",What did Fred give to Bill? 
+938,Bill,"Label: Bill
+
+
+Context: John went to the garden. John picked up the",Who did Fred give the apple to? 
+939,Bill,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who received the apple? 
+940,football,"Label: football
+
+
+Context:
+
+Jeff went to the bathroom.",What did Jeff give to Bill? 
+941,football,"Label: football
+
+
+Context:
+
+Jeff went to the bathroom.",What did Bill give to Jeff? 
+942,Bill,"Label: Jeff
+
+
+Context:",Who gave the football to Jeff? 
+943,apple,"Label: football
+
+
+Context:
+
+Jeff went to the bathroom.",What did Fred give to Mary? 
+944,Fred,"Label: Fred
+
+
+Context: The man went to the office. The woman went",Who did Mary give the apple to? 
+945,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who gave the apple to Jeff? 
+946,Bill,"Label: Bill
+
+
+Context: John went to the office. John went to the",Who did Jeff give the apple to? 
+947,Bill,"Label: Jeff
+
+
+Context: John went to the bathroom. John went to",Who received the apple? 
+948,Bill,Label: Jeff,Who gave the apple? 
+949,Jeff,Label: Jeff,Who did Bill give the apple to? 
+950,Fred,"Label: Fred
+
+
+Context: The man went to the office. The woman went",Who gave the milk to Jeff? 
+951,Jeff,"Label: Jeff
+
+
+Context: The man went to the office. The woman went",Who received the milk? 
+952,Fred,Label: Fred,Who did Jeff give the milk to? 
+953,Jeff,Label: Jeff,Who did Fred give the milk to? 
+954,milk,"Label: milk
+
+
+Context: John went to the office. John went to the",What did Jeff give to Fred? 
+955,milk,"Label: milk
+
+
+Context: John went to the garden. Fred went to the",What did Mary give to Bill? 
+956,Mary,"Label: Mary
+
+
+Context: John went to the garden. Fred went to the",Who did Bill give the milk to? 
+957,Bill,"Label: Bill
+
+
+Context: John went to the garden. John went to the",Who gave the milk to Mary? 
+958,Mary,"Output: Mary
+
+
+Context: John went to the office. John went to the office",Who gave the football? 
+959,Mary,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who received the football? 
+960,apple,"Label: apple
+
+
+Context: Mary journeyed to the hallway. Fred journey",What did Fred give to Jeff? 
+961,Jeff,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Fred journey",Who did Fred give the apple to? 
+962,Fred,"Label: Mary
+
+
+Context: Mary journeyed to the hallway. Fred journey",Who gave the apple to Jeff? 
+963,Fred,Label: Mary,Who gave the apple? 
+964,Fred,Label: Fred,Who gave the apple? 
+965,Fred,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Jeff travel",Who received the apple? 
+966,Mary,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Jeff travel",Who gave the apple to Fred? 
+967,Fred,"Label: Fred
+
+
+Context: Mary journeyed to the bedroom. Jeff travel",Who did Mary give the apple to? 
+968,apple,"Label: apple
+
+
+Context: Mary journeyed to the bedroom. Jeff travel",What did Mary give to Fred? 
+969,Fred,"Label: Mary
+
+
+Context: Mary journeyed to the bedroom. Jeff travel",Who gave the apple? 
+970,Bill,Label: Mary,Who received the milk? 
+971,Bill,"Label: Mary
+
+
+Context: John went to the office. John went to the",Who gave the milk? 
+972,Bill,"Label: Fred
+
+
+Context: John went to the office. John went to the",Who gave the milk to Mary? 
+973,Mary,Label: Mary,Who gave the milk to Jeff? 
+974,Fred,Label: Mary,Who gave the football? 
+975,football,"Label: football
+
+
+Context: A man went to the store. He bought a",What did Jeff give to Bill? 
+976,football,"Label: football
+
+
+Context: John went to the garden. John went to the",What did Jeff give to Bill? 
+977,Jeff,"Label: Fred
+
+
+Context: John went to the garden. John went to the",Who did Mary give the milk to? 
+978,milk,"Label: milk
+
+
+Context: John went to the garden. John went to the",What did Mary give to Jeff? 
+979,Mary,"Label: Mary
+
+
+Context: John went to the garden. John went to the",Who received the football? 
+980,milk,"Label: milk
+
+
+Context: John went to the bedroom. John went to",What did Fred give to Mary? 
+981,Fred,Label: Mary,Who gave the milk? 
+982,Fred,"Label: Mary
+
+
+Context: John went to the bedroom. John went to",Who gave the milk to Mary? 
+983,Fred,Label: Mary,Who received the milk? 
+984,Fred,Label: Mary,Who gave the milk? 
+985,Jeff,"Label: Jeff
+
+
+Context: A man went to the bathroom. A woman",Who received the milk? 
+986,Fred,"Label: Jeff
+
+
+Context: The man went to the bathroom. The man",Who gave the milk? 
+987,Fred,"Label: Fred
+
+
+Context: Fred went back to the garden. Fred took the",Who gave the milk to Jeff? 
+988,Fred,"Label: Jeff
+
+
+Context: Fred went back to the garden. Fred took the",Who gave the milk? 
+989,Bill,Label: Mary,Who received the milk? 
+990,apple,"Label: apple
+
+
+Context: Mary went to the garden. Bill went back to",What did Bill give to Fred? 
+991,Fred,"Label: Fred
+
+
+Context: Mary went to the garden. Bill went back to",Who did Bill give the apple to? 
+992,Bill,"Label: Fred
+
+
+Context: Mary went to the hallway. Bill went to",Who gave the apple? 
+993,football,"Label: football
+
+
+Context: Mary went to the hallway. Mary went to",What did Jeff give to Mary? 
+994,Jeff,Label: Fred,Who gave the football to Mary? 
+995,Bill,"Label: Fred
+
+
+Context: Fred journeyed to the bedroom. Bill moved",Who received the football? 
+996,Fred,"Label: Fred
+
+
+Context: Fred journeyed to the bedroom. Bill moved",Who gave the football? 
+997,football,Label: milk,What did Mary give to Bill? 
+998,football,"Label: milk
+
+
+Context: Fred journeyed to the bedroom. Bill moved",What did Mary give to Bill? 

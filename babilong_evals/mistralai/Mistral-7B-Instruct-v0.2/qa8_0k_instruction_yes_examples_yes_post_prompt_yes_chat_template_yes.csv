@@ -1,0 +1,1298 @@
+,target,output,question
+0,milk,milk,What is Mary carrying? 
+1,football,"football, milk (it's possible that John is carrying both objects, but the question only asks",What is John carrying? 
+2,football,football (or nothing if John is not carrying anything when he goes to the bathroom or garden),What is John carrying? 
+3,"football,apple","football, apple (depending on which location John is at)",What is John carrying? 
+4,"football,apple","football, apple (depending on which location John is at)",What is John carrying? 
+5,milk,milk,What is Daniel carrying? 
+6,nothing,milk (before dropping it),What is Daniel carrying? 
+7,nothing,$nothing$,What is Daniel carrying? 
+8,nothing,milk (before dropping it),What is Daniel carrying? 
+9,milk,"milk
+
+<context>
+Daniel grabbed the milk there. Sandra went back to the",What is John carrying? 
+10,milk,milk,What is Mary carrying? 
+11,apple,apple,What is Daniel carrying? 
+12,nothing,$nothing$,What is Daniel carrying? 
+13,nothing,$nothing$,What is Daniel carrying? 
+14,nothing,milk,What is Mary carrying? 
+15,football,football,What is Daniel carrying? 
+16,nothing,$football$ (until he dropped it),What is Daniel carrying? 
+17,milk,milk,What is Sandra carrying? 
+18,milk,"milk
+
+<context>
+Mary went to the kitchen. Daniel took the football there.",What is Sandra carrying? 
+19,milk,milk (in the last instance where she grabbed it from the kitchen),What is Sandra carrying? 
+20,milk,milk,What is Mary carrying? 
+21,milk,milk,What is Mary carrying? 
+22,milk,milk,What is Mary carrying? 
+23,football,football,What is Daniel carrying? 
+24,football,football,What is Daniel carrying? 
+25,apple,apple,What is Daniel carrying? 
+26,football,football,What is Sandra carrying? 
+27,nothing,$nothing$,What is Sandra carrying? 
+28,nothing,$nothing$,What is Daniel carrying? 
+29,nothing,$nothing$,What is Daniel carrying? 
+30,football,football,What is Sandra carrying? 
+31,milk,milk,What is Daniel carrying? 
+32,milk,milk,What is Daniel carrying? 
+33,nothing,"apple (or nothing, if he put it down before carrying the object mentioned in the question)",What is John carrying? 
+34,nothing,"milk (or nothing, if the milk was left before Daniel took it)",What is Daniel carrying? 
+35,milk,milk,What is Sandra carrying? 
+36,milk,"milk
+
+<context>
+Sandra grabbed the milk there. Sandra went back to the",What is Sandra carrying? 
+37,nothing,nothing,What is Sandra carrying? 
+38,nothing,$nothing$,What is Sandra carrying? 
+39,nothing,Answer: nothing,What is Sandra carrying? 
+40,milk,milk,What is Sandra carrying? 
+41,milk,"milk (in the first instance when she goes to the bathroom)
+
+$nothing$ (",What is Sandra carrying? 
+42,milk,"milk (in the first instance when she goes back to the garden)
+
+or
+
+n",What is Sandra carrying? 
+43,nothing,$nothing$,What is Sandra carrying? 
+44,apple,apple,What is Sandra carrying? 
+45,apple,apple,What is Daniel carrying? 
+46,apple,apple,What is Daniel carrying? 
+47,"apple,milk","apple, milk (Daniel carried both apple and milk at different points in time)",What is Daniel carrying? 
+48,"apple,milk","apple, milk (Daniel carried both apple and milk at different points in time)",What is Daniel carrying? 
+49,football,football,What is John carrying? 
+50,nothing,"milk (when Daniel is at the office)
+
+(Note: Daniel puts down the milk at",What is Daniel carrying? 
+51,nothing,"milk (when Daniel is at the office)
+
+(Note: Daniel puts down the milk at",What is Daniel carrying? 
+52,nothing,milk (from the last time he went to the office),What is Daniel carrying? 
+53,apple,apple,What is John carrying? 
+54,nothing,nothing,What is Sandra carrying? 
+55,football,football,What is Mary carrying? 
+56,football,football,What is Mary carrying? 
+57,nothing,$nothing$,What is Mary carrying? 
+58,nothing,$nothing$,What is Mary carrying? 
+59,nothing,$nothing$,What is Mary carrying? 
+60,milk,milk,What is Mary carrying? 
+61,milk,milk,What is Mary carrying? 
+62,nothing,"$nothing$ (in this context, ""carrying"" implies that Mary is currently holding an",What is Mary carrying? 
+63,milk,"milk
+
+<context>
+John moved to the garden. Sandra went to the office.",What is John carrying? 
+64,nothing,"$nothing$ (in this context, ""carrying"" implies having an object in hand or",What is Mary carrying? 
+65,milk,milk,What is Sandra carrying? 
+66,nothing,Answer: nothing (in her current action),What is Sandra carrying? 
+67,nothing,Answer: nothing (in her current action),What is Sandra carrying? 
+68,nothing,$nil$ or $milk$ (Answer cannot be determined based on the given context),What is Mary carrying? 
+69,nothing,"Nothing
+
+Explanation: In the context provided, Mary dropped the milk she had been carrying",What is Mary carrying? 
+70,milk,milk,What is Sandra carrying? 
+71,apple,apple,What is John carrying? 
+72,apple,apple,What is John carrying? 
+73,nothing,$nothing$,What is Sandra carrying? 
+74,milk,"milk
+
+<context>
+Sandra took the milk there. John got the apple there.",What is Sandra carrying? 
+75,apple,apple,What is John carrying? 
+76,nothing,"apple (before discarding it)
+
+Question: What is Daniel carrying?
+
+Answer",What is John carrying? 
+77,apple,"apple (in the question context, John got the apple from the bedroom and then discarded it in",What is John carrying? 
+78,"apple,football","apple, football",What is John carrying? 
+79,football,"football, apple (depending on the specific location in the context where the answer is sought)",What is John carrying? 
+80,apple,$apple$,What is Daniel carrying? 
+81,football,football,What is Mary carrying? 
+82,nothing,"$nothing$ (in this context, ""put down"" and ""dropped"" imply that",What is Daniel carrying? 
+83,apple,apple,What is Daniel carrying? 
+84,apple,"apple (in the context provided, Daniel got the apple multiple times)",What is Daniel carrying? 
+85,milk,milk,What is Sandra carrying? 
+86,milk,milk,What is Sandra carrying? 
+87,nothing,$nothing$,What is Sandra carrying? 
+88,milk,milk,What is Sandra carrying? 
+89,milk,milk,What is Sandra carrying? 
+90,football,football,What is Sandra carrying? 
+91,nothing,football,What is Sandra carrying? 
+92,nothing,"football (in the garden)
+
+Question: What is Mary carrying?
+
+Answer:",What is Sandra carrying? 
+93,nothing,"football (in the garden)
+
+Question: What is Mary carrying? (when she is in",What is Sandra carrying? 
+94,football,football,What is Sandra carrying? 
+95,milk,milk,What is Daniel carrying? 
+96,milk,milk,What is Daniel carrying? 
+97,nothing,$nothing$,What is Daniel carrying? 
+98,nothing,$nothing$,What is John carrying? 
+99,apple,"apple (in the context provided, John got the apple)",What is John carrying? 
+100,apple,apple,What is Sandra carrying? 
+101,apple,apple,What is Sandra carrying? 
+102,apple,$apple$ or $nothing$ (depending on which instance of Sandra moving to the,What is Sandra carrying? 
+103,milk,milk,What is John carrying? 
+104,"apple,football",apple or football (either one is possible based on the context),What is Sandra carrying? 
+105,apple,apple,What is John carrying? 
+106,nothing,$nothing$,What is John carrying? 
+107,apple,$nothing$ (John did not carry anything in the given context after leaving the apple in the,What is John carrying? 
+108,nothing,$nothing$,What is John carrying? 
+109,nothing,$nothing$,What is John carrying? 
+110,football,football,What is Daniel carrying? 
+111,nothing,$nothing$ (Daniel dropped the football),What is Daniel carrying? 
+112,nothing,$nothing$ (Daniel dropped the football),What is Daniel carrying? 
+113,apple,apple,What is Mary carrying? 
+114,apple,apple,What is Mary carrying? 
+115,football,football,What is Sandra carrying? 
+116,football,football,What is Sandra carrying? 
+117,nothing,$nothing$,What is Sandra carrying? 
+118,nothing,$nothing$,What is Sandra carrying? 
+119,nothing,$nothing$,What is Daniel carrying? 
+120,milk,milk,What is Sandra carrying? 
+121,apple,"apple, milk (in different instances)",What is Mary carrying? 
+122,apple,"apple, milk (in different instances)",What is Mary carrying? 
+123,nothing,$nothing$,What is Mary carrying? 
+124,nothing,$nothing$,What is Mary carrying? 
+125,apple,apple,What is Sandra carrying? 
+126,nothing,$nothing$,What is Sandra carrying? 
+127,apple,"apple (in the first instance of ""took the apple there"")
+
+or
+
+n",What is Sandra carrying? 
+128,apple,"apple (in the first instance of ""Sandra took the apple there"")
+
+or",What is Sandra carrying? 
+129,nothing,$nothing$,What is Sandra carrying? 
+130,milk,milk,What is Daniel carrying? 
+131,milk,milk,What is Daniel carrying? 
+132,milk,milk,What is Daniel carrying? 
+133,apple,apple,What is Sandra carrying? 
+134,nothing,"milk (in the bathroom) or nothing (in the bedroom)
+
+(Note: The answer",What is Daniel carrying? 
+135,apple,apple,What is Sandra carrying? 
+136,apple,"apple (from the first sentence)
+
+However, since the context states that Sandra moved to",What is Sandra carrying? 
+137,milk,milk,What is Mary carrying? 
+138,milk,milk,What is Mary carrying? 
+139,nothing,$nothing$,What is Sandra carrying? 
+140,apple,apple,What is Sandra carrying? 
+141,football,football,What is John carrying? 
+142,nothing,answer: apple.,What is Sandra carrying? 
+143,nothing,$nothing$,What is Mary carrying? 
+144,apple,apple,What is Daniel carrying? 
+145,apple,apple,What is Mary carrying? 
+146,nothing,"$nothing$
+
+Answer explanation: In the context provided, after Mary put down the",What is Mary carrying? 
+147,nothing,"apple (when she goes to the bathroom)
+
+Question: What does Sandra get from the",What is Mary carrying? 
+148,nothing,"milk
+
+<context>
+Daniel moved to the bedroom. Mary travelled to the bathroom",What is John carrying? 
+149,nothing,milk or nothing (depending on if he picked it up again after discarding it),What is John carrying? 
+150,football,football,What is John carrying? 
+151,football,football,What is John carrying? 
+152,nothing,football (until he leaves it),What is John carrying? 
+153,nothing,"football (in the bedroom)
+
+or
+
+nothing (in the garden)",What is John carrying? 
+154,apple,apple,What is Mary carrying? 
+155,nothing,$nothing$,What is John carrying? 
+156,milk,"milk
+
+<context>
+John got the milk there. John left the milk. Daniel went",What is John carrying? 
+157,nothing,$nothing$,What is John carrying? 
+158,milk,milk,What is Mary carrying? 
+159,milk,milk,What is Mary carrying? 
+160,milk,milk,What is Mary carrying? 
+161,nothing,milk,What is Mary carrying? 
+162,football,football,What is John carrying? 
+163,nothing,milk,What is Mary carrying? 
+164,nothing,milk,What is Mary carrying? 
+165,milk,milk,What is Mary carrying? 
+166,milk,milk,What is Mary carrying? 
+167,nothing,$nothing$,What is Mary carrying? 
+168,nothing,$nothing$,What is Mary carrying? 
+169,nothing,$nothing$,What is Mary carrying? 
+170,milk,milk,What is Sandra carrying? 
+171,nothing,"$milk$
+
+<context>
+Sandra got the milk there. Mary went back",What is Sandra carrying? 
+172,milk,milk,What is Sandra carrying? 
+173,milk,milk,What is Sandra carrying? 
+174,milk,"milk
+
+<context>
+Sandra got the milk there. Mary went back to the hallway",What is Sandra carrying? 
+175,apple,apple,What is Mary carrying? 
+176,nothing,"apple (in the garden) or nothing (in the office)
+
+Answer: apple.",What is Mary carrying? 
+177,apple,apple (in the last instance where she grabbed it),What is Mary carrying? 
+178,football,football,What is Daniel carrying? 
+179,football,football,What is Daniel carrying? 
+180,apple,apple,What is Daniel carrying? 
+181,"apple,milk","apple, milk",What is Daniel carrying? 
+182,nothing,$nothing$,What is John carrying? 
+183,nothing,$nothing$,What is John carrying? 
+184,nothing,"milk (or nothing, if the discarded apple is still in his hand)",What is Daniel carrying? 
+185,milk,milk,What is Daniel carrying? 
+186,milk,milk,What is Daniel carrying? 
+187,football,football,What is John carrying? 
+188,nothing,"milk (or nothing, if we consider the last action Daniel did)",What is Daniel carrying? 
+189,"football,milk","milk, football (depending on which part of the context John is in)",What is John carrying? 
+190,football,football,What is Daniel carrying? 
+191,apple,apple,What is Sandra carrying? 
+192,"football,milk","football, milk or nothing (depending on the last action Daniel did before the question)",What is Daniel carrying? 
+193,"football,milk","football, milk or nothing (depending on the last action Daniel did before the question)",What is Daniel carrying? 
+194,nothing,$nothing$,What is Sandra carrying? 
+195,nothing,$nothing$,What is John carrying? 
+196,nothing,$nothing$,What is John carrying? 
+197,milk,milk or nothing (depending on whether he currently has the milk or not),What is John carrying? 
+198,nothing,$nothing$,What is John carrying? 
+199,nothing,"milk (or nothing, depending on the specific action)",What is John carrying? 
+200,milk,milk,What is Daniel carrying? 
+201,milk,milk,What is Daniel carrying? 
+202,apple,apple,What is Mary carrying? 
+203,nothing,$nothing$,What is Mary carrying? 
+204,football,football,What is John carrying? 
+205,milk,milk,What is John carrying? 
+206,apple,"apple
+
+<context>
+John journeyed to the office. John got the milk there.",What is Mary carrying? 
+207,apple,apple,What is Mary carrying? 
+208,nothing,$nothing$,What is John carrying? 
+209,nothing,$nothing$,What is John carrying? 
+210,milk,milk,What is John carrying? 
+211,football,"football, milk (it's unclear which one John is carrying at the moment based on the",What is John carrying? 
+212,nothing,"milk, football (it's unclear which one John is carrying at the moment, as he",What is John carrying? 
+213,nothing,"milk, football (it's unclear which one John is carrying at the moment, as he",What is John carrying? 
+214,nothing,$Nothing$,What is Mary carrying? 
+215,apple,apple,What is John carrying? 
+216,nothing,$nothing$,What is John carrying? 
+217,nothing,football,What is Daniel carrying? 
+218,apple,$apple$ or $nothing$ (depending on whether he picked it up after dropping it,What is John carrying? 
+219,apple,"apple (in the office)
+
+Question: What does Daniel have with him in the kitchen?",What is John carrying? 
+220,football,football,What is Daniel carrying? 
+221,football,football,What is Daniel carrying? 
+222,milk,milk,What is John carrying? 
+223,nothing,$nothing$,What is Daniel carrying? 
+224,nothing,$nothing$,What is Daniel carrying? 
+225,football,football,What is Daniel carrying? 
+226,nothing,"milk (at the beginning of the context)
+
+$Nothing$ (at the end of the",What is Mary carrying? 
+227,milk,milk,What is Mary carrying? 
+228,nothing,football (or nothing if Daniel is not carrying anything when he goes to the bedroom),What is Daniel carrying? 
+229,milk,milk,What is Mary carrying? 
+230,milk,milk,What is Daniel carrying? 
+231,milk,milk,What is Daniel carrying? 
+232,milk,milk,What is Daniel carrying? 
+233,nothing,$nothing$,What is Daniel carrying? 
+234,nothing,$nothing$,What is Daniel carrying? 
+235,milk,milk,What is Mary carrying? 
+236,nothing,$nothing$,What is Mary carrying? 
+237,nothing,$nothing$,What is Mary carrying? 
+238,nothing,$nothing$,What is Mary carrying? 
+239,milk,milk or nothing (depending on whether he is still carrying the milk from the kitchen or not),What is John carrying? 
+240,apple,apple,What is Daniel carrying? 
+241,apple,"apple (in the first instance of ""Daniel grabbed the apple there"")
+
+(Note:",What is Daniel carrying? 
+242,apple,apple,What is Daniel carrying? 
+243,apple,apple,What is Daniel carrying? 
+244,nothing,$nothing$,What is Daniel carrying? 
+245,milk,milk,What is John carrying? 
+246,milk,milk,What is John carrying? 
+247,nothing,milk (in the bathroom),What is John carrying? 
+248,nothing,milk (in the bathroom),What is John carrying? 
+249,football,"football, milk (at different times)",What is John carrying? 
+250,milk,milk (in the last instance where John went to the garden),What is John carrying? 
+251,milk,milk (in the kitchen) or nothing (in the other instances),What is John carrying? 
+252,milk,"milk (in the context of the question ""What is John carrying?"", the last mention of John",What is John carrying? 
+253,football,football,What is Mary carrying? 
+254,nothing,"milk (in the context provided, John got the milk from the garden)",What is John carrying? 
+255,apple,apple,What is Daniel carrying? 
+256,apple,apple,What is Daniel carrying? 
+257,milk,milk,What is Mary carrying? 
+258,nothing,$nothing$,What is Daniel carrying? 
+259,nothing,$nothing$,What is Daniel carrying? 
+260,apple,apple,What is Mary carrying? 
+261,apple,apple,What is Mary carrying? 
+262,nothing,"apple (in the context provided, Mary took the apple and later put it down)",What is Mary carrying? 
+263,nothing,$apple$ or $nothing$ (depending on the last action mentioned for John),What is John carrying? 
+264,nothing,$apple$ or $nothing$ (depending on the last action John did),What is John carrying? 
+265,football,football,What is Sandra carrying? 
+266,nothing,football (or nothing if Sandra is not carrying anything at that moment in the context),What is Sandra carrying? 
+267,football,football,What is Sandra carrying? 
+268,nothing,football,What is Sandra carrying? 
+269,nothing,football,What is Sandra carrying? 
+270,football,football,What is Daniel carrying? 
+271,"football,apple","football, apple",What is Daniel carrying? 
+272,"football,apple","football, apple",What is Daniel carrying? 
+273,"football,apple","football, apple (depending on which part of the context Daniel is in)",What is Daniel carrying? 
+274,"football,apple","football, apple (depending on which part of the context Daniel is in)",What is Daniel carrying? 
+275,milk,milk,What is Mary carrying? 
+276,nothing,milk,What is Mary carrying? 
+277,nothing,$nothing$,What is Mary carrying? 
+278,apple,apple,What is Sandra carrying? 
+279,apple,apple,What is Sandra carrying? 
+280,football,football,What is Sandra carrying? 
+281,nothing,$nothing$,What is Sandra carrying? 
+282,nothing,$nothing$,What is Sandra carrying? 
+283,football,football,What is John carrying? 
+284,football,football,What is John carrying? 
+285,apple,apple,What is Daniel carrying? 
+286,nothing,apple (from the first action Daniel took in the context),What is Daniel carrying? 
+287,nothing,apple (from the first action Daniel took in the context),What is Daniel carrying? 
+288,apple,"apple (from the first instance of ""Daniel grabbed the apple there"")",What is Daniel carrying? 
+289,football,football or nothing (depending on if he still has the milk),What is John carrying? 
+290,apple,apple,What is Sandra carrying? 
+291,apple,apple,What is Sandra carrying? 
+292,milk,"milk, apple (it's impossible to determine for certain which one based on the given context)",What is John carrying? 
+293,nothing,$nothing$,What is Sandra carrying? 
+294,nothing,milk or nothing (it's not clear if John is carrying the milk when he goes back to,What is John carrying? 
+295,milk,milk,What is Sandra carrying? 
+296,nothing,"$milk$
+
+<context>
+Sandra got the milk there. Daniel journeyed",What is Sandra carrying? 
+297,nothing,football,What is Daniel carrying? 
+298,nothing,"football (or nothing, if Daniel is not carrying anything at the moment described in the context)",What is Daniel carrying? 
+299,nothing,football or nothing (depending on where she is going next in the text),What is Sandra carrying? 
+300,milk,milk,What is Sandra carrying? 
+301,apple,apple,What is Sandra carrying? 
+302,nothing,$nothing$,What is Sandra carrying? 
+303,apple,"apple
+
+<context>
+Sandra grabbed the milk there. Mary travelled to the office",What is Mary carrying? 
+304,nothing,$nothing$,What is Sandra carrying? 
+305,apple,apple,What is Sandra carrying? 
+306,apple,apple,What is Sandra carrying? 
+307,apple,apple,What is Sandra carrying? 
+308,"apple,football",football or apple (it's not clear which one she got last),What is Sandra carrying? 
+309,"apple,football","apple, football (or just football if it was mentioned before)",What is Sandra carrying? 
+310,football,football,What is John carrying? 
+311,football,football,What is John carrying? 
+312,football,football,What is John carrying? 
+313,milk,milk,What is Mary carrying? 
+314,nothing,milk,What is Mary carrying? 
+315,milk,"milk
+
+<context>
+Mary took the book there. John took the pen there.",What is Daniel carrying? 
+316,nothing,$nothing$,What is Daniel carrying? 
+317,nothing,$nothing$,What is Mary carrying? 
+318,football,football,What is John carrying? 
+319,apple,apple,What is Mary carrying? 
+320,apple,apple,What is Mary carrying? 
+321,nothing,$nothing$,What is Mary carrying? 
+322,nothing,$nothing$,What is Mary carrying? 
+323,apple,$nothing$ (at the time of the question),What is Mary carrying? 
+324,nothing,$nothing$ (at the time of the question),What is Mary carrying? 
+325,apple,apple,What is Sandra carrying? 
+326,apple,apple,What is Sandra carrying? 
+327,nothing,$nothing$,What is Sandra carrying? 
+328,nothing,$nothing$,What is Sandra carrying? 
+329,milk,milk,What is Daniel carrying? 
+330,apple,apple,What is Daniel carrying? 
+331,apple,apple,What is Daniel carrying? 
+332,football,"football, apple (depending on which part of the context Daniel is in)",What is Daniel carrying? 
+333,nothing,"apple, football (at different times)",What is Daniel carrying? 
+334,nothing,"football, apple (at different times)",What is Daniel carrying? 
+335,milk,milk,What is Daniel carrying? 
+336,milk,milk,What is Daniel carrying? 
+337,nothing,$nothing$,What is Daniel carrying? 
+338,nothing,$nothing$,What is Daniel carrying? 
+339,apple,"apple, football (at different times)",What is John carrying? 
+340,milk,"milk (in the second instance of John moving to the office, he is not carrying anything mentioned in",What is John carrying? 
+341,milk,"milk (in the first instance of John moving to the office)
+
+(Note: In the",What is John carrying? 
+342,nothing,$nothing$,What is Daniel carrying? 
+343,nothing,football (or nothing if Daniel is not carrying anything when he moves to the kitchen),What is Daniel carrying? 
+344,apple,apple,What is Mary carrying? 
+345,milk,milk,What is Daniel carrying? 
+346,nothing,$nothing$,What is Mary carrying? 
+347,nothing,$nothing$,What is Mary carrying? 
+348,milk,"milk (in the context provided, Daniel got the milk from the kitchen and later discarded it there",What is Daniel carrying? 
+349,milk,"milk (in the context provided, Daniel discarded the milk and then got it again)",What is Daniel carrying? 
+350,apple,apple,What is Sandra carrying? 
+351,apple,apple,What is Sandra carrying? 
+352,nothing,$nothing$,What is Sandra carrying? 
+353,apple,apple,What is Daniel carrying? 
+354,nothing,apple,What is Daniel carrying? 
+355,milk,milk,What is Daniel carrying? 
+356,milk,milk,What is Daniel carrying? 
+357,milk,milk,What is Daniel carrying? 
+358,milk,milk,What is John carrying? 
+359,football,football,What is Sandra carrying? 
+360,apple,apple,What is Mary carrying? 
+361,nothing,$nothing$ (at the time of the question),What is Mary carrying? 
+362,nothing,$nothing$,What is Mary carrying? 
+363,nothing,$nothing$,What is Mary carrying? 
+364,nothing,Answer: nothing,What is Sandra carrying? 
+365,nothing,$nil$ or $milk$ (depending on which occurrence of Sandra picking up,What is Sandra carrying? 
+366,nothing,"milk
+
+<context>
+Daniel went back to the bedroom. John journeyed to the",What is Sandra carrying? 
+367,football,football,What is Daniel carrying? 
+368,nothing,"milk
+
+<context>
+Daniel went back to the bedroom. John journeyed to the",What is Sandra carrying? 
+369,nothing,"football, milk (depending on which part of the context Daniel is carrying it)",What is Daniel carrying? 
+370,milk,milk,What is Sandra carrying? 
+371,nothing,$nothing$,What is Sandra carrying? 
+372,nothing,$nothing$,What is Sandra carrying? 
+373,nothing,$nothing$,What is Sandra carrying? 
+374,milk,milk,What is Daniel carrying? 
+375,nothing,football,What is Mary carrying? 
+376,football,football,What is Mary carrying? 
+377,apple,"football, apple (depending on the specific instance in the context where the question is being asked)",What is Mary carrying? 
+378,football,football or nothing (depending on when in the sequence the action took place),What is Sandra carrying? 
+379,apple,"football, apple (depending on which part of the context Mary is carrying it)",What is Mary carrying? 
+380,nothing,milk,What is John carrying? 
+381,nothing,milk (in the kitchen),What is John carrying? 
+382,nothing,milk (in the kitchen),What is John carrying? 
+383,apple,apple,What is Sandra carrying? 
+384,nothing,$nothing$,What is Sandra carrying? 
+385,football,football,What is Mary carrying? 
+386,apple,apple,What is John carrying? 
+387,milk,"milk, football (depending on which journey to the garden is being referred to)",What is Sandra carrying? 
+388,apple,apple,What is John carrying? 
+389,nothing,"football, milk (depending on which journey to the garden is being referred to)",What is Mary carrying? 
+390,apple,apple,What is Sandra carrying? 
+391,apple,apple,What is Sandra carrying? 
+392,apple,$nothing$,What is Sandra carrying? 
+393,"apple,milk","milk
+
+<context>
+Sandra journeyed to the bathroom. Mary moved to the bathroom",What is Sandra carrying? 
+394,"apple,milk",milk (in the last instance where she picked it up),What is Sandra carrying? 
+395,milk,milk,What is Daniel carrying? 
+396,milk,milk,What is Daniel carrying? 
+397,"milk,football","milk, football",What is Daniel carrying? 
+398,apple,apple,What is John carrying? 
+399,football,"milk, football",What is Daniel carrying? 
+400,apple,apple,What is Daniel carrying? 
+401,nothing,$nothing$,What is Daniel carrying? 
+402,nothing,$nothing$,What is Daniel carrying? 
+403,nothing,$nothing$,What is Daniel carrying? 
+404,nothing,$nothing$,What is Mary carrying? 
+405,apple,apple,What is Daniel carrying? 
+406,apple,apple,What is Daniel carrying? 
+407,apple,apple,What is Daniel carrying? 
+408,football,football or nothing (it's not clear if John is carrying the football when he goes to the,What is John carrying? 
+409,football,football or nothing (depending on whether he is still carrying the football from the garden when he goes,What is John carrying? 
+410,football,football,What is Mary carrying? 
+411,football,"football
+
+<context>
+Sandra journeyed to the kitchen. John moved to the bedroom",What is Mary carrying? 
+412,nothing,$nothing$,What is Mary carrying? 
+413,football,football,What is John carrying? 
+414,football,football,What is John carrying? 
+415,football,"football
+
+<context>
+Mary carried the book to the library. John carried the ball",What is Sandra carrying? 
+416,football,"football (in the first instance)
+
+nothing (in the second instance)",What is Sandra carrying? 
+417,nothing,$football$ (assuming the last mention of Sandra picking up the football is the one,What is Sandra carrying? 
+418,apple,apple,What is Daniel carrying? 
+419,apple,apple,What is Daniel carrying? 
+420,apple,apple,What is Sandra carrying? 
+421,apple,apple,What is Sandra carrying? 
+422,nothing,$nothing$,What is Sandra carrying? 
+423,nothing,$nothing$,What is Sandra carrying? 
+424,nothing,milk,What is Mary carrying? 
+425,football,football,What is Mary carrying? 
+426,football,football,What is Mary carrying? 
+427,football,football,What is Mary carrying? 
+428,nothing,football,What is Mary carrying? 
+429,nothing,$nothing$,What is John carrying? 
+430,apple,apple,What is Daniel carrying? 
+431,apple,"apple (when he went back to the garden)
+nothing (when he dropped the apple)",What is Daniel carrying? 
+432,apple,$nothing$ (Daniel dropped the apple) or $apple$ (Daniel took the,What is Daniel carrying? 
+433,apple,$nothing$,What is Daniel carrying? 
+434,nothing,$nothing$,What is Daniel carrying? 
+435,football,football,What is Daniel carrying? 
+436,"football,apple","football, apple",What is Daniel carrying? 
+437,apple,"apple (from the kitchen) or football (from the garden)
+
+(Note: Since the",What is Daniel carrying? 
+438,nothing,apple (or nothing if the apple was dropped before the question was asked),What is Daniel carrying? 
+439,nothing,"apple (in the context provided, Daniel grabbed the apple in the kitchen before going to the garden)",What is Daniel carrying? 
+440,apple,apple,What is Daniel carrying? 
+441,apple,apple,What is Daniel carrying? 
+442,milk,"milk, apple (I apologize for the mistake in my previous answer. The context states that Daniel",What is Daniel carrying? 
+443,nothing,"apple (in the first instance where he grabbed it)
+or
+nothing (in the last",What is Daniel carrying? 
+444,nothing,"apple (from the context: ""Daniel grabbed the apple there."")
+
+However, it'",What is Daniel carrying? 
+445,football,football,What is Daniel carrying? 
+446,apple,apple,What is Sandra carrying? 
+447,nothing,$nothing$,What is Sandra carrying? 
+448,nothing,$nothing$,What is Sandra carrying? 
+449,apple,apple (in the last instance where she moved to the bathroom),What is Sandra carrying? 
+450,apple,apple,What is John carrying? 
+451,nothing,Nothing. (John put down the apple.),What is John carrying? 
+452,apple,apple,What is John carrying? 
+453,nothing,"apple (when he is in the kitchen or office)
+
+Nothing (when he is in the",What is John carrying? 
+454,nothing,"apple (when he is in the kitchen or the garden)
+nothing (when he is in",What is John carrying? 
+455,football,football,What is Sandra carrying? 
+456,football,football,What is Sandra carrying? 
+457,nothing,"$football$
+
+Question: What is Daniel carrying? [
+
+Answer: $",What is Sandra carrying? 
+458,apple,apple,What is Mary carrying? 
+459,nothing,"apple (before he dropped it)
+
+Explanation: The context states that Daniel picked up",What is Daniel carrying? 
+460,milk,milk,What is Daniel carrying? 
+461,milk,milk,What is Daniel carrying? 
+462,milk,milk,What is Daniel carrying? 
+463,football,football,What is Sandra carrying? 
+464,nothing,"milk (in the first instance when he went to the bathroom)
+
+Nothing (in all other",What is Daniel carrying? 
+465,milk,milk,What is Mary carrying? 
+466,milk,milk,What is Mary carrying? 
+467,"milk,football","milk
+
+<context>
+Sandra went to the living room. Mary went to the living",What is Mary carrying? 
+468,"milk,football",milk,What is Mary carrying? 
+469,football,football (or nothing if Mary is not carrying anything at that moment in the text),What is Mary carrying? 
+470,football,football,What is Daniel carrying? 
+471,football,football,What is Daniel carrying? 
+472,milk,milk,What is Mary carrying? 
+473,milk,milk,What is Mary carrying? 
+474,nothing,$nothing$,What is Daniel carrying? 
+475,milk,milk,What is Sandra carrying? 
+476,milk,milk,What is Sandra carrying? 
+477,milk,milk,What is Sandra carrying? 
+478,"milk,football","milk, football",What is Sandra carrying? 
+479,football,"football (or nothing if the context does not specify which ""there"" Sandra is currently at)",What is Sandra carrying? 
+480,apple,apple,What is Mary carrying? 
+481,nothing,$nothing$,What is Mary carrying? 
+482,nothing,$nothing$,What is Mary carrying? 
+483,football,football,What is Daniel carrying? 
+484,nothing,football (in the bathroom),What is Daniel carrying? 
+485,apple,apple,What is John carrying? 
+486,apple,apple,What is John carrying? 
+487,nothing,milk (in the garden),What is Sandra carrying? 
+488,milk,"milk (in the first instance where she took it from the office)
+
+or
+
+n",What is Sandra carrying? 
+489,nothing,"milk (in the first instance where she takes the milk from the office)
+
+or",What is Sandra carrying? 
+490,apple,apple,What is Sandra carrying? 
+491,nothing,$nothing$,What is Sandra carrying? 
+492,apple,apple,What is Mary carrying? 
+493,nothing,Nothing. (Mary dropped the apple before she traveled to the kitchen.),What is Mary carrying? 
+494,nothing,"Nothing. (At the time of the question, Mary is not carrying anything according to the given context",What is Mary carrying? 
+495,football,football,What is Sandra carrying? 
+496,football,football,What is Sandra carrying? 
+497,nothing,$nothing$,What is Sandra carrying? 
+498,nothing,Answer: nothing,What is Sandra carrying? 
+499,nothing,$nothing$,What is Sandra carrying? 
+500,apple,apple,What is Sandra carrying? 
+501,"apple,milk","apple, milk
+
+<context>
+Daniel journeyed to the bathroom. Sandra journey",What is Sandra carrying? 
+502,"apple,milk","apple or milk
+
+(Note: Based on the context provided, Sandra took both an apple",What is Sandra carrying? 
+503,"apple,milk",apple (in the office) or milk (in the garden),What is Sandra carrying? 
+504,apple,apple,What is Mary carrying? 
+505,football,football,What is Daniel carrying? 
+506,"football,milk","football, milk",What is Daniel carrying? 
+507,football,"football, milk (Daniel took both objects with him when he moved to the bathroom, but the",What is Daniel carrying? 
+508,nothing,"football, milk (at different times)",What is Daniel carrying? 
+509,nothing,"football, milk (at different times)",What is Daniel carrying? 
+510,football,football,What is Daniel carrying? 
+511,football,football,What is Daniel carrying? 
+512,nothing,$nothing$,What is Daniel carrying? 
+513,nothing,$nothing$,What is Daniel carrying? 
+514,football,football,What is John carrying? 
+515,milk,milk,What is Daniel carrying? 
+516,milk,milk,What is Daniel carrying? 
+517,nothing,$Nothing$,What is Mary carrying? 
+518,nothing,$Nothing$,What is Mary carrying? 
+519,nothing,$nothing$,What is Daniel carrying? 
+520,milk,milk,What is Sandra carrying? 
+521,milk,milk,What is Sandra carrying? 
+522,nothing,$nothing$,What is John carrying? 
+523,football,football or nothing (it's not clear if Sandra got the football before or after leaving the,What is Sandra carrying? 
+524,football,football or nothing (it's not clear if Sandra is still carrying the apple from earlier in,What is Sandra carrying? 
+525,nothing,$nothing$,What is Mary carrying? 
+526,apple,$nothing$,What is Mary carrying? 
+527,apple,apple,What is Mary carrying? 
+528,nothing,"apple
+
+<context>
+Sandra went back to the bathroom. Sandra travelled to",What is Mary carrying? 
+529,nothing,apple (in the kitchen),What is Mary carrying? 
+530,nothing,"$football$
+
+<context>
+Daniel put down the football. Daniel picked up",What is Daniel carrying? 
+531,nothing,$nothing$,What is Daniel carrying? 
+532,nothing,$nothing$,What is Daniel carrying? 
+533,football,football,What is Daniel carrying? 
+534,milk,milk,What is Mary carrying? 
+535,football,football,What is Daniel carrying? 
+536,football,football,What is Daniel carrying? 
+537,milk,milk,What is Sandra carrying? 
+538,nothing,"football (initially)
+
+Question: What is Sandra carrying?
+
+Answer:",What is Daniel carrying? 
+539,nothing,$nothing$,What is Daniel carrying? 
+540,football,football,What is Sandra carrying? 
+541,football,football,What is Sandra carrying? 
+542,football,football,What is Sandra carrying? 
+543,nothing,$nothing$,What is Sandra carrying? 
+544,football,"football (in the last instance where she picked it up from the kitchen)
+
+However, it",What is Sandra carrying? 
+545,football,football,What is Mary carrying? 
+546,football,football,What is Mary carrying? 
+547,"football,apple","football, apple (depending on which ""there"" Mary took the apple from)",What is Mary carrying? 
+548,"football,apple",apple,What is Mary carrying? 
+549,apple,"apple (in the context provided, Mary took the apple before dropping the football)",What is Mary carrying? 
+550,apple,apple,What is John carrying? 
+551,apple,apple,What is John carrying? 
+552,nothing,$nothing$,What is Mary carrying? 
+553,apple,apple,What is Daniel carrying? 
+554,apple,apple,What is Daniel carrying? 
+555,milk,milk,What is Sandra carrying? 
+556,milk,milk,What is Sandra carrying? 
+557,milk,milk,What is Sandra carrying? 
+558,football,football,What is Daniel carrying? 
+559,football,football,What is Daniel carrying? 
+560,football,football,What is Mary carrying? 
+561,football,football,What is Mary carrying? 
+562,football,football or nothing (depending on which office she went to),What is Mary carrying? 
+563,nothing,"$nothing$ (in the context of the question)
+
+Explanation: Mary went",What is Mary carrying? 
+564,nothing,$nothing$,What is Mary carrying? 
+565,apple,apple,What is John carrying? 
+566,apple,apple (from the office),What is John carrying? 
+567,"apple,football","apple, football",What is John carrying? 
+568,"apple,football","apple, football",What is John carrying? 
+569,"apple,football,milk","apple, football",What is John carrying? 
+570,football,football,What is Daniel carrying? 
+571,milk,milk,What is Mary carrying? 
+572,football,football,What is Daniel carrying? 
+573,nothing,football,What is Daniel carrying? 
+574,nothing,football,What is Daniel carrying? 
+575,milk,milk,What is Mary carrying? 
+576,milk,milk,What is Mary carrying? 
+577,milk,milk,What is Mary carrying? 
+578,nothing,milk (from the last time she went to the bathroom),What is Mary carrying? 
+579,nothing,milk (from the last time she went to the bathroom),What is Mary carrying? 
+580,"apple,football","apple, football",What is Sandra carrying? 
+581,football,football,What is John carrying? 
+582,nothing,apple,What is Sandra carrying? 
+583,football,"football (or nothing, if he didn't pick it up after discarding it)",What is John carrying? 
+584,football,"football (or nothing, if he discarded it before the question)",What is John carrying? 
+585,nothing,$nothing$ (Daniel dropped the apple),What is Daniel carrying? 
+586,nothing,"apple (when he got it from the kitchen)
+
+or
+
+nothing (when he",What is Daniel carrying? 
+587,apple,"apple (when he went to the garden and when he went to the bathroom)
+
+(Note",What is Daniel carrying? 
+588,apple,"apple (when he got it from the kitchen)
+or
+nothing (when he dropped it",What is Daniel carrying? 
+589,apple,$apple$ (assuming the last mention of Daniel getting the apple in the kitchen is the most,What is Daniel carrying? 
+590,"milk,football","milk, football",What is Daniel carrying? 
+591,"milk,football","milk, football",What is Daniel carrying? 
+592,milk,"milk, football (it's possible that Daniel is no longer carrying the football after dropping it,",What is Daniel carrying? 
+593,milk,"milk (or football, but the question asks specifically for what Daniel is carrying at the time it is",What is Daniel carrying? 
+594,milk,"milk, football (it's mentioned that he picked up both, but since the question asks for",What is Daniel carrying? 
+595,milk,milk,What is Sandra carrying? 
+596,nothing,milk,What is Sandra carrying? 
+597,nothing,"milk
+
+<context>
+Mary moved to the office. John journeyed to the kitchen",What is Sandra carrying? 
+598,nothing,"milk (or nothing, if she didn't have the milk when she went to the bedroom)",What is Sandra carrying? 
+599,milk,milk (from the last instance of John getting the milk in the bathroom),What is John carrying? 
+600,milk,milk,What is Sandra carrying? 
+601,milk,milk,What is Sandra carrying? 
+602,milk,milk,What is Sandra carrying? 
+603,football,football,What is Mary carrying? 
+604,nothing,"Nothing
+
+[Explanation: At the time of the question, Daniel has put down the",What is Daniel carrying? 
+605,football,football,What is Sandra carrying? 
+606,football,football,What is Sandra carrying? 
+607,nothing,$nothing$,What is Sandra carrying? 
+608,football,"football
+
+Question: What is John carrying? [
+answer: nothing
+
+Question: What",What is Sandra carrying? 
+609,apple,apple,What is Mary carrying? 
+610,football,football,What is Mary carrying? 
+611,football,$nothing$ (Mary did not carry anything in the context provided when she went back to,What is Mary carrying? 
+612,milk,milk,What is Sandra carrying? 
+613,milk,milk,What is Sandra carrying? 
+614,nothing,"milk
+
+<context>
+John went back to the office. Sandra went back to the",What is Sandra carrying? 
+615,milk,milk,What is John carrying? 
+616,nothing,$nothing$ or $milk$ (depending on the state of the text before the,What is John carrying? 
+617,nothing,$nothing$,What is John carrying? 
+618,football,football,What is Mary carrying? 
+619,football,football,What is Daniel carrying? 
+620,milk,milk,What is Daniel carrying? 
+621,nothing,$nothing$,What is Daniel carrying? 
+622,nothing,$nothing$,What is Daniel carrying? 
+623,nothing,$nothing$,What is Sandra carrying? 
+624,football,"football (or nothing, if Sandra didn't get the football in the given context)",What is Sandra carrying? 
+625,milk,milk,What is John carrying? 
+626,milk,milk,What is John carrying? 
+627,nothing,"milk (when he is in the bathroom)
+
+or
+
+nothing (when he is",What is John carrying? 
+628,nothing,"milk (when he is in the bathroom)
+or
+nothing (when he is in the",What is John carrying? 
+629,milk,"milk
+
+Explanation: Sandra went to the kitchen and then went back to the bathroom",What is Sandra carrying? 
+630,apple,apple,What is Sandra carrying? 
+631,nothing,$nothing$,What is Sandra carrying? 
+632,nothing,$nothing$,What is Sandra carrying? 
+633,nothing,$nothing$,What is John carrying? 
+634,football,football,What is Mary carrying? 
+635,milk,milk,What is Sandra carrying? 
+636,milk,"milk
+
+<context>
+Sandra went back to the bedroom. Mary went to the bathroom",What is Sandra carrying? 
+637,apple,apple,What is John carrying? 
+638,apple,apple,What is John carrying? 
+639,football,football or nothing (it's not clear if she's carrying it when she goes to the,What is Mary carrying? 
+640,milk,milk,What is Mary carrying? 
+641,nothing,milk,What is Mary carrying? 
+642,milk,milk,What is Mary carrying? 
+643,"milk,football","milk
+
+Question: What does Daniel have?
+
+Answer: nothing",What is Mary carrying? 
+644,nothing,milk,What is Mary carrying? 
+645,milk,milk,What is Mary carrying? 
+646,nothing,"$nothing$
+
+<context>
+Sandra journeyed to the bathroom. Mary grabbed",What is Mary carrying? 
+647,nothing,$nothing$,What is Mary carrying? 
+648,nothing,$nothing$,What is Mary carrying? 
+649,football,football (or nothing if Mary was not carrying anything when she went to the garden),What is Mary carrying? 
+650,apple,apple,What is Daniel carrying? 
+651,nothing,apple (before he put it down in the garden),What is Daniel carrying? 
+652,nothing,"apple (before going to the garden)
+
+or
+
+nothing (after putting down the",What is Daniel carrying? 
+653,nothing,"apple (in the context provided, Daniel picked up the apple before traveling to the garden)",What is Daniel carrying? 
+654,milk,"apple, milk (in different instances)",What is Daniel carrying? 
+655,apple,apple,What is Daniel carrying? 
+656,apple,apple,What is Daniel carrying? 
+657,milk,milk,What is Mary carrying? 
+658,nothing,$nothing$,What is Daniel carrying? 
+659,milk,milk,What is Mary carrying? 
+660,"milk,football","milk, football (it's possible for Mary to be carrying both items at the same time)",What is Mary carrying? 
+661,"milk,football","milk, football (it's possible that Mary is carrying both objects at different times in the text",What is Mary carrying? 
+662,football,"milk, football (it's unclear which one based on the context, but the question asks",What is Mary carrying? 
+663,football,"milk, football (it's possible that Mary was carrying both items at different times, based on",What is Mary carrying? 
+664,football,"milk, football (it's unclear which one based on the context, but the question asks",What is Mary carrying? 
+665,football,football,What is Daniel carrying? 
+666,football,football,What is Daniel carrying? 
+667,apple,apple,What is Sandra carrying? 
+668,nothing,football,What is Daniel carrying? 
+669,nothing,football (or nothing if Daniel is not carrying the football when he goes to the office),What is Daniel carrying? 
+670,football,football,What is Daniel carrying? 
+671,football,football,What is Daniel carrying? 
+672,football,football,What is Daniel carrying? 
+673,"football,apple","football, apple",What is Daniel carrying? 
+674,"football,apple","football, apple",What is Daniel carrying? 
+675,milk,milk,What is John carrying? 
+676,milk,milk,What is John carrying? 
+677,milk,milk,What is John carrying? 
+678,nothing,$nothing$,What is John carrying? 
+679,nothing,$nothing$,What is John carrying? 
+680,apple,apple,What is Daniel carrying? 
+681,nothing,apple (in the bathroom),What is Daniel carrying? 
+682,nothing,apple (in the hallway) or nothing (in the bathroom),What is Daniel carrying? 
+683,apple,apple (or nothing if the apple was left before Daniel took it again),What is Daniel carrying? 
+684,nothing,apple (at different points in the text),What is Daniel carrying? 
+685,apple,apple,What is Mary carrying? 
+686,apple,apple,What is Mary carrying? 
+687,"apple,milk",milk,What is Mary carrying? 
+688,apple,"apple (in the first instance of ""Mary went to the kitchen"") or milk (in the",What is Mary carrying? 
+689,"apple,football","football, milk (in different instances)",What is Mary carrying? 
+690,apple,apple,What is Mary carrying? 
+691,apple,apple,What is Mary carrying? 
+692,nothing,apple (before she dropped it),What is Mary carrying? 
+693,nothing,$nothing$,What is Mary carrying? 
+694,apple,football (or nothing if John left the football before the question was asked),What is John carrying? 
+695,apple,apple,What is John carrying? 
+696,apple,apple,What is John carrying? 
+697,"apple,football","apple
+
+<context>
+John moved to the office. John took the apple there. Sand",What is John carrying? 
+698,apple,apple,What is John carrying? 
+699,nothing,"football
+
+<context>
+John moved to the office. John took the apple there. Sand",What is Mary carrying? 
+700,milk,milk,What is John carrying? 
+701,milk,milk or nothing (I cannot determine for certain based on the given context),What is John carrying? 
+702,milk,milk or nothing (cannot be certain with given context),What is John carrying? 
+703,football,football,What is Daniel carrying? 
+704,football,football (or nothing if Daniel is not carrying anything when he goes to the office),What is Daniel carrying? 
+705,milk,milk,What is John carrying? 
+706,nothing,milk,What is John carrying? 
+707,nothing,milk,What is John carrying? 
+708,nothing,"milk
+
+<context>
+Daniel moved to the office. John got the milk there.",What is John carrying? 
+709,milk,milk,What is Mary carrying? 
+710,milk,milk,What is John carrying? 
+711,milk,milk,What is John carrying? 
+712,milk,milk,What is John carrying? 
+713,milk,milk,What is John carrying? 
+714,football,football,What is Daniel carrying? 
+715,milk,milk,What is John carrying? 
+716,nothing,"milk
+
+<context>
+Mary took the book there. John journeyed to the kitchen",What is John carrying? 
+717,milk,"milk (in the first instance of ""John took the milk there"")
+
+nothing (in",What is John carrying? 
+718,milk,milk (or nothing if he dropped it before the question was asked),What is John carrying? 
+719,milk,"milk (or nothing, if the milk was dropped before the question was asked)",What is John carrying? 
+720,apple,apple,What is Mary carrying? 
+721,nothing,$nothing$,What is Mary carrying? 
+722,apple,"Nothing. (In the first instance where she goes to the office with an apple, it is stated",What is Mary carrying? 
+723,nothing,$nothing$,What is Mary carrying? 
+724,nothing,apple,What is Daniel carrying? 
+725,nothing,$nothing$ (She dropped the milk.),What is Sandra carrying? 
+726,"milk,apple","milk, apple",What is Sandra carrying? 
+727,apple,"apple
+
+Explanation: In the context, Sandra grabbed the apple in the kitchen before",What is Sandra carrying? 
+728,apple,"apple (or nothing, if the last time she grabbed something was the apple and she didn't",What is Sandra carrying? 
+729,nothing,football,What is John carrying? 
+730,apple,apple,What is Sandra carrying? 
+731,milk,milk,What is Mary carrying? 
+732,football,$nothing$ (at the time of the question),What is Mary carrying? 
+733,football,$nothing$ (at the time of the question),What is Mary carrying? 
+734,nothing,$nothing$,What is Sandra carrying? 
+735,apple,apple,What is Daniel carrying? 
+736,milk,milk,What is Sandra carrying? 
+737,nothing,milk (before she dropped it),What is Sandra carrying? 
+738,milk,milk,What is Sandra carrying? 
+739,nothing,"apple (when he moves to the office)
+
+Explanation: The context states that Daniel",What is Daniel carrying? 
+740,apple,apple,What is John carrying? 
+741,apple,apple,What is John carrying? 
+742,apple,apple,What is John carrying? 
+743,milk,milk,What is Mary carrying? 
+744,nothing,$nothing$ (at the time of the question),What is Mary carrying? 
+745,milk,milk,What is Daniel carrying? 
+746,milk,"milk (initially)
+
+Explanation: Daniel first grabbed the milk in the bathroom,",What is Daniel carrying? 
+747,nothing,"milk (initially)
+
+Explanation: Daniel grabbed the milk in the bathroom, so",What is Daniel carrying? 
+748,milk,milk (in one of the instances where he got or took it from the bathroom),What is Daniel carrying? 
+749,milk,milk (in one of the instances where he got or took it from the bathroom),What is Daniel carrying? 
+750,apple,apple,What is Mary carrying? 
+751,nothing,$nothing$,What is Mary carrying? 
+752,apple,apple (in the last instance where she is going to the bathroom),What is Mary carrying? 
+753,nothing,$nothing$,What is Mary carrying? 
+754,apple,apple (in the last instance where she got it from the office),What is Mary carrying? 
+755,milk,milk,What is Daniel carrying? 
+756,nothing,$nothing$,What is Daniel carrying? 
+757,nothing,$nothing$,What is Daniel carrying? 
+758,apple,apple,What is Sandra carrying? 
+759,apple,apple,What is Sandra carrying? 
+760,football,football,What is Mary carrying? 
+761,nothing,football,What is Mary carrying? 
+762,nothing,football,What is Mary carrying? 
+763,nothing,football,What is Mary carrying? 
+764,nothing,football,What is Mary carrying? 
+765,apple,"apple (from the context, John got the apple before going back to the kitchen)",What is John carrying? 
+766,apple,$nothing$,What is John carrying? 
+767,football,football,What is Mary carrying? 
+768,football,football,What is Mary carrying? 
+769,nothing,football,What is Mary carrying? 
+770,football,football,What is John carrying? 
+771,football,football,What is John carrying? 
+772,"football,apple","football, apple (depending on which part of the context John is carrying these objects)",What is John carrying? 
+773,"football,apple","football, apple (depending on which part of the context John is carrying these objects)",What is John carrying? 
+774,"football,apple","football, apple (depending on which part of the context John is carrying these objects)",What is John carrying? 
+775,apple,apple,What is Sandra carrying? 
+776,apple,apple,What is Sandra carrying? 
+777,football,football,What is Daniel carrying? 
+778,football,football,What is Daniel carrying? 
+779,nothing,football,What is Daniel carrying? 
+780,"football,milk","football, milk",What is Mary carrying? 
+781,"football,milk","football, milk",What is Mary carrying? 
+782,"football,milk","football, milk",What is Mary carrying? 
+783,apple,apple,What is Daniel carrying? 
+784,apple,"$nothing$ (in the given context, Daniel did not carry anything at the time of the",What is Daniel carrying? 
+785,nothing,"$nothing$
+
+<context>
+John travelled to the office. Sandra trav",What is Mary carrying? 
+786,nothing,$Nothing$,What is Mary carrying? 
+787,milk,milk,What is Daniel carrying? 
+788,apple,"apple (or nothing, if the apple was consumed or given away before Sandra went to the bathroom",What is Sandra carrying? 
+789,nothing,$nothing$,What is Sandra carrying? 
+790,milk,milk,What is Sandra carrying? 
+791,nothing,$nothing$,What is Sandra carrying? 
+792,milk,"milk
+
+<context>
+Mary moved to the garden. Sandra moved to the bathroom",What is Sandra carrying? 
+793,milk,"milk
+
+<context>
+Mary moved to the garden. Sandra moved to the bathroom",What is Sandra carrying? 
+794,nothing,"milk
+
+<context>
+Mary moved to the garden. Sandra moved to the bathroom",What is Sandra carrying? 
+795,milk,milk,What is Mary carrying? 
+796,milk,milk,What is Mary carrying? 
+797,milk,"milk (in the garden)
+milk (in the office)
+
+Answer:",What is Mary carrying? 
+798,nothing,"$nothing$ (in the context of the question)
+
+Explanation: Mary disc",What is Mary carrying? 
+799,nothing,"milk
+
+<context>
+Daniel went back to the bathroom. Mary grabbed the milk there",What is Sandra carrying? 
+800,football,football,What is Daniel carrying? 
+801,football,football,What is Daniel carrying? 
+802,football,"milk (or nothing, if he left it)",What is Daniel carrying? 
+803,football,"milk (or nothing, if he left it)",What is Daniel carrying? 
+804,nothing,"$nothing$
+
+Explanation: Daniel left both the football and the milk before traveling",What is Daniel carrying? 
+805,football,football,What is Mary carrying? 
+806,nothing,$nothing$ (Mary dropped the football before taking anything else),What is Mary carrying? 
+807,nothing,$nothing$,What is Mary carrying? 
+808,apple,"apple (in the office) or football (in the garden)
+
+Answer: I cannot",What is Mary carrying? 
+809,nothing,$nothing$,What is John carrying? 
+810,milk,milk,What is John carrying? 
+811,football,football,What is Daniel carrying? 
+812,football,football,What is Daniel carrying? 
+813,football,football,What is Daniel carrying? 
+814,nothing,$nothing$,What is John carrying? 
+815,apple,apple,What is Daniel carrying? 
+816,nothing,$nothing$,What is Sandra carrying? 
+817,nothing,$nothing$,What is Sandra carrying? 
+818,nothing,$nothing$,What is Daniel carrying? 
+819,apple,"apple (in the first instance where Daniel got the apple from the bathroom)
+
+or",What is Daniel carrying? 
+820,football,football,What is Mary carrying? 
+821,football,football,What is Mary carrying? 
+822,football,football,What is Mary carrying? 
+823,apple,apple,What is Daniel carrying? 
+824,apple,apple,What is Daniel carrying? 
+825,milk,milk,What is Mary carrying? 
+826,football,football,What is Daniel carrying? 
+827,milk,milk,What is Mary carrying? 
+828,nothing,football (until he leaves it),What is Daniel carrying? 
+829,nothing,"football (until he leaves it)
+
+Therefore, the answer is: football.",What is Daniel carrying? 
+830,football,football,What is Sandra carrying? 
+831,football,football,What is Sandra carrying? 
+832,apple,apple,What is Mary carrying? 
+833,apple,apple,What is Mary carrying? 
+834,apple,apple,What is Mary carrying? 
+835,football,football,What is Daniel carrying? 
+836,football,football,What is Daniel carrying? 
+837,nothing,$nothing$ (Daniel dropped the football),What is Daniel carrying? 
+838,nothing,$nothing$ (Daniel dropped the football),What is Daniel carrying? 
+839,milk,milk,What is Mary carrying? 
+840,football,football,What is John carrying? 
+841,football,football,What is John carrying? 
+842,nothing,football (or nothing if John is not carrying anything at the moment specified in the question),What is John carrying? 
+843,football,football (in the last instance where John took the football to the office),What is John carrying? 
+844,nothing,"football (in the first instance where John takes the football to the office)
+
+(Note:",What is John carrying? 
+845,apple,apple,What is John carrying? 
+846,apple,apple,What is John carrying? 
+847,nothing,milk (in the last journey to the office),What is Sandra carrying? 
+848,nothing,$nothing$,What is John carrying? 
+849,milk,milk,What is Daniel carrying? 
+850,apple,apple,What is John carrying? 
+851,apple,apple,What is John carrying? 
+852,nothing,"apple
+
+<context>
+John went back to the bedroom. John grabbed the apple there.",What is John carrying? 
+853,nothing,"Answer: apple (during his journey to the kitchen)
+
+Explanation: The context",What is John carrying? 
+854,nothing,$nothing$ (John put down the apple before traveling to the office and the garden),What is John carrying? 
+855,milk,$nothing$,What is Sandra carrying? 
+856,milk,"milk
+
+<context>
+Sandra took the milk there. Sandra went back to the",What is Sandra carrying? 
+857,apple,apple,What is Daniel carrying? 
+858,apple,apple,What is Daniel carrying? 
+859,milk,milk,What is Sandra carrying? 
+860,milk,milk,What is Mary carrying? 
+861,"milk,apple","milk, apple (it's unclear which one based on the context, but the question asks",What is Mary carrying? 
+862,"milk,apple","milk, apple",What is Mary carrying? 
+863,football,football,What is John carrying? 
+864,football,"football, or nothing if John is not carrying anything in the given context.",What is John carrying? 
+865,football,football,What is Sandra carrying? 
+866,nothing,football,What is Sandra carrying? 
+867,football,football,What is Sandra carrying? 
+868,football,football,What is Sandra carrying? 
+869,nothing,football,What is Sandra carrying? 
+870,football,football,What is Mary carrying? 
+871,football,football,What is Mary carrying? 
+872,nothing,$nothing$,What is Daniel carrying? 
+873,nothing,$apple$ (until he left it),What is Daniel carrying? 
+874,milk,milk,What is Sandra carrying? 
+875,apple,apple,What is John carrying? 
+876,apple,apple,What is John carrying? 
+877,football,football,What is Daniel carrying? 
+878,nothing,football (until he leaves it),What is Daniel carrying? 
+879,apple,apple,What is John carrying? 
+880,milk,milk,What is Sandra carrying? 
+881,milk,milk,What is Sandra carrying? 
+882,football,football,What is John carrying? 
+883,football,football,What is John carrying? 
+884,apple,apple,What is Mary carrying? 
+885,nothing,$nothing$,What is Sandra carrying? 
+886,nothing,$nothing$,What is Sandra carrying? 
+887,"milk,football",football,What is John carrying? 
+888,apple,"$apple$ (in the first instance when she went to the garden)
+$nothing$",What is Sandra carrying? 
+889,apple,$apple$ or $nothing$ (depending on whether she picked up the apple before going,What is Sandra carrying? 
+890,football,football,What is Sandra carrying? 
+891,nothing,$nothing$,What is Sandra carrying? 
+892,milk,"milk
+
+<context>
+Mary got the milk there. Sandra grabbed the football there",What is Mary carrying? 
+893,apple,apple,What is Daniel carrying? 
+894,milk,"milk (in the first instance of ""Mary got the milk there"")
+
+Answer:",What is Mary carrying? 
+895,nothing,"$milk$
+
+<context>
+Sandra grabbed the milk there. Sandra dropped",What is Sandra carrying? 
+896,nothing,$nothing$,What is Sandra carrying? 
+897,nothing,"milk (or nothing, if she didn't pick it up again after dropping it)",What is Sandra carrying? 
+898,milk,milk,What is Sandra carrying? 
+899,nothing,$nothing$,What is Daniel carrying? 
+900,apple,apple,What is John carrying? 
+901,nothing,Nothing. (John discarded the apple before carrying anything else.),What is John carrying? 
+902,apple,"apple (when John went to the kitchen)
+
+nothing (when John journeyed to the",What is John carrying? 
+903,apple,"apple (in the context provided, John was last seen with the apple)",What is John carrying? 
+904,apple,"apple (when he went to the kitchen)
+
+or
+
+apple (when he took it",What is John carrying? 
+905,football,football,What is Mary carrying? 
+906,football,football,What is Mary carrying? 
+907,football,"football (in her first movement to the bedroom)
+
+Question: What is Daniel carrying in the",What is Mary carrying? 
+908,milk,milk or nothing (cannot be certain based on given context),What is Daniel carrying? 
+909,nothing,"milk (or nothing, if the discarded milk is no longer being carried)",What is Daniel carrying? 
+910,milk,milk,What is Mary carrying? 
+911,milk,milk,What is Mary carrying? 
+912,milk,milk (from the last time she was in the garden),What is Mary carrying? 
+913,apple,apple,What is Daniel carrying? 
+914,apple,apple,What is Daniel carrying? 
+915,milk,milk,What is Daniel carrying? 
+916,"milk,apple","milk, apple (depending on which ""there"" Daniel is referring to)",What is Daniel carrying? 
+917,"milk,apple","milk, apple (depending on which ""there"" Daniel is referring to)",What is Daniel carrying? 
+918,"milk,apple","milk (in the first instance of ""Daniel got the milk there"")
+
+nothing (",What is Daniel carrying? 
+919,apple,"milk (in the first instance of ""Daniel got the milk there"")
+
+nothing (",What is Daniel carrying? 
+920,football,football,What is Daniel carrying? 
+921,football,football,What is Daniel carrying? 
+922,"football,apple","football, apple (depending on which ""there"" Daniel is at when he grabs the apple",What is Daniel carrying? 
+923,"football,apple","football, apple (if the previous action of grabbing the apple happened before the current question about what",What is Daniel carrying? 
+924,football,"football, apple (depending on which part of the context Daniel is carrying it)",What is Daniel carrying? 
+925,football,football,What is Mary carrying? 
+926,milk,milk,What is Daniel carrying? 
+927,football,"football
+
+Question: What is Daniel carrying? [
+answer: milk
+
+I apologize",What is Mary carrying? 
+928,milk,milk,What is Daniel carrying? 
+929,nothing,$nothing$,What is Mary carrying? 
+930,"apple,football","apple, football",What is Mary carrying? 
+931,milk,milk,What is Daniel carrying? 
+932,"apple,football","apple, football",What is Mary carrying? 
+933,milk,milk,What is Daniel carrying? 
+934,football,"apple, football (or nothing if the context does not allow for either object to still be in her",What is Mary carrying? 
+935,apple,apple,What is John carrying? 
+936,apple,"apple (when John grabbed it from the kitchen)
+
+(Note: I assumed the question referred",What is John carrying? 
+937,apple,$nothing$ (John dropped the apple before carrying anything to the office),What is John carrying? 
+938,apple,"apple (when John grabbed it from the bathroom)
+
+or
+
+nothing (when John",What is John carrying? 
+939,football,football,What is Sandra carrying? 
+940,milk,milk,What is Mary carrying? 
+941,milk,milk,What is Mary carrying? 
+942,apple,apple,What is Sandra carrying? 
+943,nothing,$nothing$,What is Mary carrying? 
+944,nothing,$nothing$,What is Mary carrying? 
+945,apple,apple,What is Sandra carrying? 
+946,apple,"apple (from the context: ""Sandra grabbed the apple there."")",What is Sandra carrying? 
+947,football,football,What is John carrying? 
+948,football,football,What is John carrying? 
+949,nothing,$nothing$,What is Sandra carrying? 
+950,apple,apple,What is Mary carrying? 
+951,apple,apple,What is Mary carrying? 
+952,apple,apple,What is Mary carrying? 
+953,nothing,$nothing$,What is Mary carrying? 
+954,nothing,$nothing$,What is Mary carrying? 
+955,football,football (or nothing if Daniel is not carrying anything at the moment specified in the question),What is Daniel carrying? 
+956,football,football (or nothing if Daniel is not carrying anything at that moment in the context),What is Daniel carrying? 
+957,football,football (or nothing if Daniel is not carrying anything at that moment in the context),What is Daniel carrying? 
+958,"milk,apple","milk, apple (based on the context provided, Sandra got the milk in the office and picked",What is Sandra carrying? 
+959,"milk,apple",milk,What is Sandra carrying? 
+960,apple,apple,What is Daniel carrying? 
+961,"apple,milk","apple, milk",What is Daniel carrying? 
+962,milk,"apple, milk",What is Daniel carrying? 
+963,nothing,"apple, milk (before putting down the apple)
+or
+nothing (after dropping the milk",What is Daniel carrying? 
+964,nothing,"apple,milk (Daniel carried both apple and milk at different points in the text)",What is Daniel carrying? 
+965,milk,milk,What is Mary carrying? 
+966,milk,milk,What is John carrying? 
+967,football,"$nothing$
+
+Explanation: In the context, it is stated that Mary put",What is Mary carrying? 
+968,nothing,$nothing$,What is Mary carrying? 
+969,nothing,$nothing$,What is Mary carrying? 
+970,football,"football (in the first part of the context)
+
+Nothing (in the second part of the",What is Sandra carrying? 
+971,nothing,$nothing$,What is Sandra carrying? 
+972,nothing,$nothing$,What is Sandra carrying? 
+973,football,football,What is Sandra carrying? 
+974,nothing,"football (in the beginning)
+
+football (at the end)",What is Sandra carrying? 
+975,milk,milk,What is Sandra carrying? 
+976,"milk,apple","apple, milk",What is Sandra carrying? 
+977,apple,"apple (in the question, it is mentioned that Sandra grabbed the apple after dropping the milk in",What is Sandra carrying? 
+978,apple,"apple (in the context provided, Sandra grabbed the apple after dropping the milk in the kitchen)",What is Sandra carrying? 
+979,nothing,$nothing$,What is Sandra carrying? 
+980,milk,milk,What is John carrying? 
+981,milk,milk,What is John carrying? 
+982,football,football (or nothing if Mary wasn't carrying anything when she went to the bathroom),What is Mary carrying? 
+983,nothing,"milk (when he moved to the office)
+or
+nothing (when he put down the",What is John carrying? 
+984,nothing,apple,What is Sandra carrying? 
+985,milk,milk,What is Sandra carrying? 
+986,nothing,$nothing$,What is Sandra carrying? 
+987,milk,milk,What is Sandra carrying? 
+988,milk,milk (in the last instance where she moved to the office),What is Sandra carrying? 
+989,football,football,What is Daniel carrying? 
+990,football,football,What is Mary carrying? 
+991,football,football,What is Mary carrying? 
+992,"football,apple,milk","apple, milk",What is Mary carrying? 
+993,"football,apple","apple, milk (in different instances)",What is Mary carrying? 
+994,"football,apple","football, apple (in different instances)",What is Mary carrying? 
+995,football,football,What is Daniel carrying? 
+996,football,football,What is Daniel carrying? 
+997,football,football,What is Daniel carrying? 
+998,milk,milk or nothing (it's not clear from the context which one),What is John carrying? 
+999,milk,milk or nothing (it's not clear from the context which object John picked up last),What is John carrying? 

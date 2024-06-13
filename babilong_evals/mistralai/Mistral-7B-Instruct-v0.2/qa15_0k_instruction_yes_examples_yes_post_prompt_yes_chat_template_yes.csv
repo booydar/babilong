@@ -1,0 +1,1876 @@
+,target,output,question
+0,sheep,"mouse (She is a mouse herself, but she is afraid of mice according to the context.)",What is gertrude afraid of?
+1,wolf,wolf,What is gertrude afraid of?
+2,sheep,"mouse (but the context does not provide this information, I'm just guessing based on the",What is winona afraid of?
+3,sheep,mice,What is winona afraid of?
+4,mouse,"mouse
+
+<context>
+Mice are afraid of sheep. Wolves are afraid of sheep",What is gertrude afraid of?
+5,wolf,wolf,What is winona afraid of?
+6,cat,"cat
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of cats",What is gertrude afraid of?
+7,wolf,mouse,What is jessica afraid of?
+8,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Emily is a mouse. She",What is winona afraid of?
+9,wolf,wolf,What is emily afraid of?
+10,cat,"mouse
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+11,sheep,sheep,What is emily afraid of?
+12,sheep,mouse,What is gertrude afraid of?
+13,sheep,"mouse (She is a mouse herself, but she is afraid of a different animal species according to the",What is gertrude afraid of?
+14,wolf,wolf,What is gertrude afraid of?
+15,wolf,"mice (The context states that wolves are afraid of mice, but the question asks about",What is emily afraid of?
+16,cat,mouse,What is jessica afraid of?
+17,wolf,wolf,What is gertrude afraid of?
+18,cat,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+19,wolf,sheep,What is emily afraid of?
+20,cat,"mouse
+
+<context>
+Wolves are afraid of mice. Cats are afraid of",What is jessica afraid of?
+21,wolf,mouse,What is winona afraid of?
+22,mouse,"mouse (since wolves are afraid of mice and gertrude is a wolf, it follows",What is gertrude afraid of?
+23,sheep,mouse,What is gertrude afraid of?
+24,cat,cat,What is winona afraid of?
+25,mouse,mouse,What is jessica afraid of?
+26,sheep,"mouse
+
+<context>
+Sheep are afraid of mice. Wolves are afraid of",What is jessica afraid of?
+27,mouse,mouse,What is winona afraid of?
+28,cat,"cat
+
+<context>
+
+<context>
+Cats are afraid of wolves.",What is gertrude afraid of?
+29,wolf,cat (based on the given context),What is jessica afraid of?
+30,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Jessica is a sheep. M",What is jessica afraid of?
+31,cat,"cat (based on the context provided, Winona is a wolf and wolves are afraid of cats",What is winona afraid of?
+32,cat,wolf,What is gertrude afraid of?
+33,sheep,"cat (or mice, since mice are afraid of cats and winona is a mouse,",What is winona afraid of?
+34,sheep,sheep,What is gertrude afraid of?
+35,wolf,"cat (from the given context, cats are afraid of wolves, but gertrude is a",What is gertrude afraid of?
+36,cat,mouse,What is emily afraid of?
+37,sheep,mouse,What is jessica afraid of?
+38,wolf,wolf,What is gertrude afraid of?
+39,mouse,"mouse
+
+<context>
+Mice are afraid of cats. Emily is a mouse. C",What is jessica afraid of?
+40,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Jessica is a cat.",What is jessica afraid of?
+41,cat,"mouse (Gertrude or Winona)
+
+Explanation: Based on the context",What is emily afraid of?
+42,cat,"cat (based on the given context, Gertrude is a sheep and cats are afraid of sheep",What is gertrude afraid of?
+43,cat,wolf,What is gertrude afraid of?
+44,wolf,mouse,What is emily afraid of?
+45,wolf,"mouse
+
+<context>
+Mice are afraid of sheep. Emily is a mouse. Wol",What is jessica afraid of?
+46,cat,cat,What is winona afraid of?
+47,mouse,"mouse (Wolves are afraid of mice, but Emily is a wolf, so Emily cannot be",What is emily afraid of?
+48,wolf,sheep,What is emily afraid of?
+49,sheep,"cat (based on the given context, even though the text states that cats are afraid of sheep,",What is jessica afraid of?
+50,wolf,wolf,What is emily afraid of?
+51,cat,"wolf (Wolves are afraid of cats, but that information is not relevant to Emily being a sheep",What is emily afraid of?
+52,sheep,"cat (from the given context, wolves are afraid of sheep, cats are afraid of wolves",What is winona afraid of?
+53,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is gertrude afraid of?
+54,sheep,sheep,What is winona afraid of?
+55,mouse,"mouse
+
+<context>
+Mice are afraid of cats. Jessica is a mouse. She",What is winona afraid of?
+56,wolf,mouse.,What is winona afraid of?
+57,mouse,"mouse
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is emily afraid of?
+58,wolf,wolf,What is winona afraid of?
+59,wolf,wolf,What is gertrude afraid of?
+60,cat,"cat
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of cats",What is gertrude afraid of?
+61,wolf,"mouse (since cats are afraid of mice and mice are afraid of sheep, it follows that",What is winona afraid of?
+62,sheep,"cat (based on the given context, Winona is a wolf and wolves are afraid of cats",What is winona afraid of?
+63,sheep,"mouse
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+64,cat,"cat (based on the given context, Winona is a mouse and mice are afraid of cats",What is winona afraid of?
+65,mouse,mouse,What is emily afraid of?
+66,sheep,"cat (from the given context, cats are afraid of sheep, but the question asks about Jessica,",What is jessica afraid of?
+67,cat,"mouse
+
+<context>
+Mice are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+68,sheep,"mouse (but the context does not provide this information, I'm just guessing based on the",What is winona afraid of?
+69,sheep,mouse,What is gertrude afraid of?
+70,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is emily afraid of?
+71,sheep,"mouse (from the given context, mice are afraid of sheep, but gertrude is a",What is gertrude afraid of?
+72,wolf,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is gertrude afraid of?
+73,mouse,mouse,What is jessica afraid of?
+74,sheep,cat,What is winona afraid of?
+75,cat,"cat
+
+<context>
+Wolves are afraid of sheep. Cats are afraid of w",What is emily afraid of?
+76,mouse,mouse,What is gertrude afraid of?
+77,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is jessica afraid of?
+78,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of m",What is jessica afraid of?
+79,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is jessica afraid of?
+80,cat,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+81,mouse,"mouse (Wolves are afraid of mice, and Winona is a wolf.)",What is winona afraid of?
+82,wolf,wolf,What is gertrude afraid of?
+83,mouse,mouse,What is winona afraid of?
+84,sheep,"mouse
+
+<context>
+Cats are afraid of sheep. Wolves are afraid of sheep",What is emily afraid of?
+85,wolf,"mouse
+
+<context>
+Wolves are afraid of cats. Sheep are afraid of m",What is gertrude afraid of?
+86,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Cats are afraid of w",What is winona afraid of?
+87,mouse,mice,What is winona afraid of?
+88,sheep,"mouse
+
+<context>
+Cats are afraid of sheep. Winona is a cat.",What is emily afraid of?
+89,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Emily is a mouse.",What is winona afraid of?
+90,mouse,mice,What is winona afraid of?
+91,wolf,wolf,What is gertrude afraid of?
+92,sheep,"cat (from the given context, cats are afraid of sheep, but the question asks about Jessica,",What is jessica afraid of?
+93,cat,"mouse
+
+<context>
+Mice are afraid of cats. Wolves are afraid of cats",What is jessica afraid of?
+94,wolf,"wolf (from the given context, mice are not mentioned to be afraid of wolves)",What is emily afraid of?
+95,cat,mice,What is emily afraid of?
+96,sheep,sheep,What is emily afraid of?
+97,mouse,mouse,What is gertrude afraid of?
+98,sheep,"mouse (mice in the context are afraid of wolves, but the question asks about Jessica,",What is jessica afraid of?
+99,mouse,mice,What is emily afraid of?
+100,cat,"cat
+
+<context>
+
+<context>
+Mice are afraid of cats. C",What is gertrude afraid of?
+101,cat,"cat
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is winona afraid of?
+102,wolf,"mouse. (Answer should be the animal species that Emily is afraid of, according to the context",What is emily afraid of?
+103,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Jessica is a sheep.",What is jessica afraid of?
+104,wolf,mouse,What is gertrude afraid of?
+105,mouse,"mouse
+
+<context>
+
+<context>
+Cats are afraid of mice.",What is gertrude afraid of?
+106,wolf,cat,What is jessica afraid of?
+107,mouse,"mouse
+
+<context>
+
+<context>
+Cats are afraid of mice.",What is gertrude afraid of?
+108,mouse,"mouse
+
+<context>
+
+<context>
+Sheep are afraid of mice.",What is jessica afraid of?
+109,wolf,"mouse
+
+<context>
+Mice are afraid of wolves. Winona is a mouse",What is jessica afraid of?
+110,cat,mouse,What is emily afraid of?
+111,mouse,cat,What is jessica afraid of?
+112,cat,"mouse
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+113,sheep,"mouse (mice in general)
+
+Explanation: Gertrude is a mouse,",What is gertrude afraid of?
+114,cat,cat,What is jessica afraid of?
+115,sheep,sheep,What is emily afraid of?
+116,wolf,wolf,What is gertrude afraid of?
+117,mouse,"mouse (Wolves are afraid of mice, but Emily is a wolf, so Emily cannot be",What is emily afraid of?
+118,cat,"cat
+
+<context>
+
+<context>
+Sheep are afraid of cats. M",What is gertrude afraid of?
+119,wolf,mouse,What is jessica afraid of?
+120,wolf,mice,What is emily afraid of?
+121,mouse,mouse,What is gertrude afraid of?
+122,cat,"mouse
+
+<context>
+Wolves are afraid of mice. Cats are afraid of",What is jessica afraid of?
+123,cat,cat,What is jessica afraid of?
+124,cat,"mouse.
+
+Explanation: Based on the context provided, Emily is a wolf, and",What is emily afraid of?
+125,sheep,sheep,What is emily afraid of?
+126,mouse,"mouse.
+
+<context>
+Mice are afraid of cats. Sheep are afraid of",What is winona afraid of?
+127,sheep,"mouse
+
+<context>
+Cats are afraid of sheep. Wolves are afraid of sheep",What is gertrude afraid of?
+128,cat,"mouse
+
+<context>
+Mice are afraid of cats. Gertrude is a mouse",What is jessica afraid of?
+129,sheep,"cat (based on the given context, mice are afraid of sheep and wolves are afraid of",What is jessica afraid of?
+130,sheep,mice,What is emily afraid of?
+131,sheep,"cat (but the context states that mice are afraid of cats, so Emily being a mouse,",What is emily afraid of?
+132,mouse,mouse,What is jessica afraid of?
+133,sheep,sheep,What is gertrude afraid of?
+134,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+135,sheep,"cat (from the given context, mice are afraid of cats, and winona is a mouse",What is winona afraid of?
+136,sheep,"mouse (based on the given context, Emily is a mouse and mice are afraid of sheep,",What is emily afraid of?
+137,mouse,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is jessica afraid of?
+138,mouse,mouse,What is jessica afraid of?
+139,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Emily is a mouse. C",What is jessica afraid of?
+140,mouse,mouse,What is gertrude afraid of?
+141,mouse,wolf,What is winona afraid of?
+142,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+143,wolf,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+144,mouse,cat.,What is jessica afraid of?
+145,wolf,wolf,What is gertrude afraid of?
+146,wolf,"wolf (from the given context, mice are not mentioned as being afraid of wolves)",What is emily afraid of?
+147,sheep,"mouse
+
+<context>
+Mice are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+148,wolf,wolf,What is gertrude afraid of?
+149,sheep,sheep,What is winona afraid of?
+150,sheep,mouse,What is emily afraid of?
+151,cat,"mouse (or mice, since it's not clear from the context if ""mice""",What is jessica afraid of?
+152,mouse,"mouse
+
+<context>
+
+<context>
+Cats are afraid of mice.",What is gertrude afraid of?
+153,wolf,wolf,What is gertrude afraid of?
+154,wolf,"mouse (This is a common mistake in the given context, as the text states that mice are",What is emily afraid of?
+155,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Cats are afraid of",What is gertrude afraid of?
+156,wolf,wolf,What is gertrude afraid of?
+157,wolf,"mice (The context states that wolves are afraid of mice, but the question asks about",What is emily afraid of?
+158,mouse,"mouse.
+
+<context>
+Sheep are afraid of wolves. Wolves are afraid",What is jessica afraid of?
+159,wolf,"cat
+
+<context>
+Mice are afraid of sheep. Cats are afraid of m",What is emily afraid of?
+160,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is jessica afraid of?
+161,wolf,"wolf (based on the context provided, Emily is a mouse and mice are afraid of wolves",What is emily afraid of?
+162,mouse,"mouse.
+
+<context>
+Cats are afraid of wolves. Mice are afraid",What is emily afraid of?
+163,wolf,"wolf (from the given context, wolves are afraid of mice but the question asks what ger",What is gertrude afraid of?
+164,wolf,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is gertrude afraid of?
+165,mouse,mice,What is gertrude afraid of?
+166,cat,cat,What is winona afraid of?
+167,wolf,mouse,What is emily afraid of?
+168,sheep,sheep,What is winona afraid of?
+169,mouse,"mouse
+
+<context>
+
+<context>
+Sheep are afraid of wolves.",What is gertrude afraid of?
+170,mouse,mouse,What is jessica afraid of?
+171,cat,wolf,What is gertrude afraid of?
+172,sheep,"wolf (based on the context provided, Emily is a mouse, but the fear of mice for",What is emily afraid of?
+173,wolf,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+174,cat,"mouse (mice in the context are afraid of cats, so gertrude as a mouse would",What is gertrude afraid of?
+175,sheep,"mouse
+
+<context>
+Wolves are afraid of mice. Cats are afraid of",What is emily afraid of?
+176,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Winona is a cat",What is emily afraid of?
+177,wolf,wolf,What is gertrude afraid of?
+178,mouse,"cat (or mouse, but the context states that Emily is a sheep, so the answer should be",What is emily afraid of?
+179,wolf,"mouse (Wolves are afraid of mice, and Gertrude is a sheep, so Ger",What is gertrude afraid of?
+180,cat,mouse,What is winona afraid of?
+181,sheep,mouse,What is gertrude afraid of?
+182,wolf,wolf,What is gertrude afraid of?
+183,mouse,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is winona afraid of?
+184,cat,cat,What is gertrude afraid of?
+185,wolf,wolf,What is gertrude afraid of?
+186,sheep,"cat
+
+<context>
+Mice are afraid of sheep. Jessica is a mouse. C",What is jessica afraid of?
+187,wolf,wolf,What is emily afraid of?
+188,wolf,mouse,What is winona afraid of?
+189,sheep,mouse,What is emily afraid of?
+190,cat,cat,What is winona afraid of?
+191,wolf,cat,What is jessica afraid of?
+192,sheep,sheep,What is emily afraid of?
+193,cat,cat,What is emily afraid of?
+194,wolf,wolf,What is winona afraid of?
+195,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Mice are afraid of sheep",What is jessica afraid of?
+196,cat,cat,What is gertrude afraid of?
+197,mouse,mouse,What is emily afraid of?
+198,sheep,cat,What is jessica afraid of?
+199,mouse,cat,What is gertrude afraid of?
+200,sheep,mouse,What is emily afraid of?
+201,cat,mice,What is emily afraid of?
+202,mouse,mouse,What is emily afraid of?
+203,wolf,"wolf (but the given context states that wolves are afraid of mice, so the answer may",What is emily afraid of?
+204,cat,"mouse
+
+<context>
+Cats are afraid of sheep. Sheep are afraid of cats",What is jessica afraid of?
+205,mouse,mouse.,What is emily afraid of?
+206,wolf,wolf,What is gertrude afraid of?
+207,wolf,"mouse (Wolves are afraid of mice, and Gertrude is a sheep, so Ger",What is gertrude afraid of?
+208,sheep,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is emily afraid of?
+209,wolf,"mouse
+
+<context>
+Mice are afraid of sheep. Emily is a mouse. Wol",What is jessica afraid of?
+210,mouse,"mouse (based on the given context, mice are afraid of sheep, but the question asks about",What is winona afraid of?
+211,sheep,"mouse (based on the given context, Emily is a mouse and mice are afraid of sheep,",What is emily afraid of?
+212,sheep,mouse,What is emily afraid of?
+213,cat,"cat (based on the given context, Gertrude is a sheep, but the question asks about",What is gertrude afraid of?
+214,wolf,mouse (since mice are afraid of wolves and gertrude is a mouse),What is gertrude afraid of?
+215,sheep,"mouse
+
+Explanation: In the context provided, it is stated that cats are afraid of",What is jessica afraid of?
+216,cat,"cat (based on the context provided, Winona is a wolf and wolves are afraid of cats",What is winona afraid of?
+217,cat,wolf,What is gertrude afraid of?
+218,sheep,"mouse (Mice are afraid of sheep, but the context states that Sheep are afraid of m",What is winona afraid of?
+219,mouse,"mouse (Wolves are afraid of mice, but Emily is a wolf, so Emily cannot be",What is emily afraid of?
+220,sheep,cat,What is jessica afraid of?
+221,sheep,cat,What is jessica afraid of?
+222,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+223,wolf,mouse,What is jessica afraid of?
+224,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is jessica afraid of?
+225,wolf,mice,What is emily afraid of?
+226,wolf,wolf,What is gertrude afraid of?
+227,wolf,sheep,What is emily afraid of?
+228,sheep,sheep,What is emily afraid of?
+229,wolf,wolf,What is winona afraid of?
+230,cat,cat,What is jessica afraid of?
+231,sheep,mouse,What is winona afraid of?
+232,cat,sheep,What is emily afraid of?
+233,wolf,wolf,What is emily afraid of?
+234,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of m",What is jessica afraid of?
+235,mouse,mouse,What is emily afraid of?
+236,wolf,wolf,What is gertrude afraid of?
+237,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Gertrude is a",What is jessica afraid of?
+238,sheep,sheep,What is emily afraid of?
+239,sheep,sheep,What is winona afraid of?
+240,sheep,mouse,What is emily afraid of?
+241,wolf,wolf (from the context: Sheep are afraid of wolves. Jessica is a sheep.),What is jessica afraid of?
+242,mouse,mice,What is winona afraid of?
+243,wolf,"mouse (or mice, since mice are a collective noun and can be afraid of multiple",What is jessica afraid of?
+244,cat,"cat
+
+<context>
+
+<context>
+Cats are afraid of wolves.",What is gertrude afraid of?
+245,wolf,wolf,What is winona afraid of?
+246,mouse,"mouse (Wolves are afraid of mice, but Emily is a wolf, so Emily cannot be",What is emily afraid of?
+247,mouse,mouse,What is winona afraid of?
+248,sheep,"mouse (since mice are afraid of cats and gertrude is a cat)
+
+However",What is gertrude afraid of?
+249,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Winona is a wolf.",What is jessica afraid of?
+250,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of w",What is jessica afraid of?
+251,cat,wolf,What is gertrude afraid of?
+252,cat,cat,What is gertrude afraid of?
+253,sheep,"mouse (Mices are afraid of sheep, but the context states that Emily is a mouse, so",What is emily afraid of?
+254,cat,wolf,What is gertrude afraid of?
+255,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is emily afraid of?
+256,mouse,mice,What is emily afraid of?
+257,sheep,sheep,What is emily afraid of?
+258,sheep,"cat
+
+<context>
+Sheep are afraid of mice. Cats are afraid of",What is jessica afraid of?
+259,sheep,mouse,What is emily afraid of?
+260,sheep,sheep,What is gertrude afraid of?
+261,cat,cat,What is emily afraid of?
+262,mouse,"cat (based on the given context, Emily is a cat and cats are afraid of wolves,",What is jessica afraid of?
+263,sheep,wolf,What is gertrude afraid of?
+264,wolf,wolf,What is gertrude afraid of?
+265,wolf,"cat (from the given context, cats are afraid of mice but the context states that mice",What is emily afraid of?
+266,wolf,"cat (based on the context provided, Winona is a cat and cats are afraid of wolves",What is winona afraid of?
+267,sheep,"cat
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is jessica afraid of?
+268,sheep,wolf,What is gertrude afraid of?
+269,sheep,"mouse (She is a mouse herself, but she is afraid of a different animal species according to the",What is gertrude afraid of?
+270,mouse,"mouse (Wolves are afraid of mice, but Gertrude is a cat.)",What is gertrude afraid of?
+271,mouse,"mouse
+
+<context>
+Mice are afraid of cats. Emily is a mouse. C",What is jessica afraid of?
+272,mouse,mouse,What is winona afraid of?
+273,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Gertrude is a",What is jessica afraid of?
+274,wolf,sheep,What is emily afraid of?
+275,sheep,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is jessica afraid of?
+276,wolf,wolf,What is gertrude afraid of?
+277,cat,"cat
+
+<context>
+Wolves are afraid of mice. Sheep are afraid of",What is jessica afraid of?
+278,cat,"cat
+
+<context>
+Wolves are afraid of cats. Winona is a wolf.",What is winona afraid of?
+279,sheep,"cat
+
+<context>
+Sheep are afraid of mice. Cats are afraid of",What is jessica afraid of?
+280,wolf,"cat
+
+<context>
+Sheep are afraid of cats. Mice are afraid of w",What is emily afraid of?
+281,wolf,mouse,What is winona afraid of?
+282,wolf,wolf,What is gertrude afraid of?
+283,wolf,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is jessica afraid of?
+284,sheep,mouse,What is gertrude afraid of?
+285,mouse,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is jessica afraid of?
+286,mouse,mouse,What is gertrude afraid of?
+287,mouse,"mouse (Wolves are afraid of mice, and Winona is a wolf.)",What is winona afraid of?
+288,mouse,"mouse (Mices are afraid of wolves, but the question asks what Winona, who is",What is winona afraid of?
+289,wolf,sheep,What is emily afraid of?
+290,sheep,cat,What is jessica afraid of?
+291,cat,"cat
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+292,wolf,wolf,What is gertrude afraid of?
+293,sheep,cat (based on the given context),What is emily afraid of?
+294,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is winona afraid of?
+295,mouse,"cat (or mouse, but the context states that Emily is a sheep, so the answer should be",What is emily afraid of?
+296,cat,mouse,What is jessica afraid of?
+297,wolf,sheep,What is emily afraid of?
+298,cat,"cat (but the answer in the context is that mice are afraid of cats, so gertr",What is gertrude afraid of?
+299,cat,"mouse
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+300,wolf,sheep,What is emily afraid of?
+301,wolf,mouse (wolves are not mentioned in relation to winona),What is winona afraid of?
+302,wolf,"cat (or sheep, but based on the given context, the answer is cat)",What is winona afraid of?
+303,mouse,"cat
+
+<context>
+Wolves are afraid of cats. Mice are afraid of sheep",What is jessica afraid of?
+304,cat,"mouse (Gertrude or Winona)
+
+Explanation: Based on the context",What is emily afraid of?
+305,mouse,"mouse.
+
+<context>
+Sheep are afraid of wolves. Wolves are afraid",What is jessica afraid of?
+306,wolf,wolf,What is gertrude afraid of?
+307,mouse,"mouse (Mice are afraid of cats, but the text states that Sheep are afraid of m",What is gertrude afraid of?
+308,mouse,mouse.,What is jessica afraid of?
+309,cat,"cat (based on the given context, Emily is a sheep and cats are afraid of sheep, but",What is emily afraid of?
+310,wolf,mice.,What is emily afraid of?
+311,wolf,wolf,What is winona afraid of?
+312,sheep,mouse. (Answer should be only one word.),What is gertrude afraid of?
+313,wolf,wolf,What is winona afraid of?
+314,mouse,"mouse
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is gertrude afraid of?
+315,mouse,"mouse.
+
+<context>
+Sheep are afraid of wolves. Wolves are afraid",What is jessica afraid of?
+316,cat,cat,What is gertrude afraid of?
+317,sheep,cat (based on the given context),What is gertrude afraid of?
+318,cat,cat,What is winona afraid of?
+319,sheep,"cat (or mice, but based on the given context, the answer is cat)",What is winona afraid of?
+320,cat,cat,What is winona afraid of?
+321,wolf,wolf,What is gertrude afraid of?
+322,cat,"cat (based on the given context, Gertrude is a sheep and cats are afraid of sheep",What is gertrude afraid of?
+323,cat,cat,What is emily afraid of?
+324,wolf,sheep,What is emily afraid of?
+325,sheep,"mouse (from the given context, mice are afraid of sheep, but gertrude is a",What is gertrude afraid of?
+326,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Jessica is a sheep.",What is jessica afraid of?
+327,mouse,"mouse (Mice are afraid of cats, but the context states that Emily is a cat. Therefore",What is emily afraid of?
+328,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is emily afraid of?
+329,wolf,wolf,What is emily afraid of?
+330,wolf,"mouse (Wolves are afraid of mice, but Emily is a mouse, so she cannot be",What is emily afraid of?
+331,cat,cat (based on the given context),What is emily afraid of?
+332,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Emily is a mouse.",What is winona afraid of?
+333,sheep,sheep,What is emily afraid of?
+334,sheep,"mouse
+
+Explanation: In the context provided, it is stated that cats are afraid of",What is jessica afraid of?
+335,wolf,"wolf (based on the context provided, Winona is a mouse and mice are afraid of w",What is winona afraid of?
+336,wolf,wolf,What is gertrude afraid of?
+337,wolf,mice,What is winona afraid of?
+338,cat,sheep,What is winona afraid of?
+339,wolf,"cat (Emily) is afraid of wolves, so Jessica being a mouse does not affect the",What is jessica afraid of?
+340,sheep,"mouse
+
+<context>
+Sheep are afraid of wolves. Jessica is a sheep.",What is emily afraid of?
+341,sheep,mouse,What is jessica afraid of?
+342,wolf,mouse,What is jessica afraid of?
+343,mouse,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is emily afraid of?
+344,wolf,"cat
+
+<context>
+Wolves are afraid of sheep. Jessica is a wolf. C",What is gertrude afraid of?
+345,cat,cats,What is winona afraid of?
+346,mouse,"mouse
+
+<context>
+
+<context>
+Sheep are afraid of wolves.",What is gertrude afraid of?
+347,mouse,cat.,What is jessica afraid of?
+348,sheep,"cat (Given that cats are afraid of wolves and winona is a wolf, it may",What is winona afraid of?
+349,mouse,mouse,What is gertrude afraid of?
+350,mouse,mouse.,What is winona afraid of?
+351,cat,"cat (based on the given context, Gertrude is a sheep, but the question asks about",What is gertrude afraid of?
+352,wolf,wolf,What is winona afraid of?
+353,mouse,mouse.,What is emily afraid of?
+354,wolf,mouse,What is winona afraid of?
+355,wolf,"wolf (Wolves are afraid of sheep, but the context states that Emily is a sheep, so",What is emily afraid of?
+356,wolf,mouse,What is emily afraid of?
+357,wolf,cat,What is jessica afraid of?
+358,wolf,"cat (or sheep, but based on the given context, the answer is cat)",What is winona afraid of?
+359,wolf,wolf,What is winona afraid of?
+360,cat,cat,What is jessica afraid of?
+361,wolf,"mouse (mice in general)
+
+Explanation: Winona is a mouse, and",What is winona afraid of?
+362,wolf,"mouse (mice in general)
+
+Explanation:
+Jessica is a mouse",What is jessica afraid of?
+363,wolf,"mouse
+
+<context>
+
+<context>
+Cats are afraid of wolves.",What is gertrude afraid of?
+364,cat,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+365,sheep,mouse,What is gertrude afraid of?
+366,wolf,"mouse
+
+<context>
+Mice are afraid of wolves. Emily is a mouse.",What is jessica afraid of?
+367,sheep,mouse,What is jessica afraid of?
+368,sheep,"mouse (Mice are afraid of sheep, but the context states that Sheep are afraid of m",What is winona afraid of?
+369,wolf,wolf,What is emily afraid of?
+370,cat,mouse,What is jessica afraid of?
+371,sheep,"mouse (mice in the context are afraid of gertrude, so gertrude must be",What is gertrude afraid of?
+372,cat,"cat
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of cats",What is gertrude afraid of?
+373,wolf,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is emily afraid of?
+374,mouse,"mouse
+
+<context>
+Mice are afraid of cats. Sheep are afraid of cats",What is jessica afraid of?
+375,wolf,"wolf (based on the context provided, Winona is a mouse and mice are afraid of w",What is winona afraid of?
+376,cat,sheep,What is emily afraid of?
+377,sheep,"cat (from the given context, Winona is a wolf, but the question asks about the fear",What is winona afraid of?
+378,wolf,wolf,What is emily afraid of?
+379,wolf,sheep,What is emily afraid of?
+380,wolf,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is emily afraid of?
+381,wolf,wolf,What is winona afraid of?
+382,wolf,"mouse (or: mice)
+
+Explanation: In the context provided, it is",What is jessica afraid of?
+383,wolf,"wolf (based on the given context, Winona is a mouse and mice are afraid of w",What is winona afraid of?
+384,wolf,mouse,What is emily afraid of?
+385,cat,cat,What is gertrude afraid of?
+386,mouse,"mouse
+
+<context>
+
+<context>
+Cats are afraid of mice.",What is gertrude afraid of?
+387,sheep,cat (based on the given context),What is winona afraid of?
+388,sheep,wolf,What is gertrude afraid of?
+389,cat,"cat
+
+Explanation: Based on the context provided, Winona is a sheep and cats",What is winona afraid of?
+390,mouse,mice,What is emily afraid of?
+391,sheep,mice,What is emily afraid of?
+392,mouse,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is emily afraid of?
+393,cat,"cat
+
+<context>
+Wolves are afraid of cats. Winona is a wolf.",What is winona afraid of?
+394,mouse,mice,What is emily afraid of?
+395,cat,cat (based on the given context),What is gertrude afraid of?
+396,mouse,mouse,What is emily afraid of?
+397,wolf,"wolf (based on the given context, Winona is a mouse and mice are afraid of w",What is winona afraid of?
+398,mouse,Sheep.,What is emily afraid of?
+399,wolf,mouse,What is emily afraid of?
+400,sheep,"cat
+
+<context>
+Wolves are afraid of sheep. Gertrude is a wolf",What is jessica afraid of?
+401,wolf,wolf (from the context: Cats are afraid of wolves. Winona is a cat.),What is winona afraid of?
+402,cat,"cat (from the given context, cats are afraid of wolves, but the question asks what Jessica",What is jessica afraid of?
+403,sheep,cat,What is jessica afraid of?
+404,sheep,"mouse
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+405,mouse,wolf,What is gertrude afraid of?
+406,mouse,mouse,What is jessica afraid of?
+407,sheep,sheep,What is emily afraid of?
+408,wolf,mouse,What is emily afraid of?
+409,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+410,mouse,cat,What is jessica afraid of?
+411,wolf,wolf,What is gertrude afraid of?
+412,sheep,mouse,What is winona afraid of?
+413,wolf,"mouse (Wolves are afraid of mice, and Gertrude is a cat, so Ger",What is gertrude afraid of?
+414,sheep,"mouse (She is a mouse herself, but she is afraid of mice according to the context.)",What is gertrude afraid of?
+415,wolf,mice,What is emily afraid of?
+416,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is emily afraid of?
+417,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of m",What is emily afraid of?
+418,wolf,wolf,What is gertrude afraid of?
+419,wolf,cat,What is emily afraid of?
+420,wolf,sheep,What is emily afraid of?
+421,wolf,"cat
+
+<context>
+Wolves are afraid of sheep. Jessica is a wolf. C",What is gertrude afraid of?
+422,wolf,wolf,What is gertrude afraid of?
+423,cat,cat,What is gertrude afraid of?
+424,wolf,wolf,What is gertrude afraid of?
+425,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+426,wolf,"mouse (Wolves are afraid of mice, but Emily is a mouse, so she cannot be",What is emily afraid of?
+427,mouse,wolf,What is winona afraid of?
+428,cat,cat,What is winona afraid of?
+429,cat,cat,What is jessica afraid of?
+430,wolf,"mouse (Wolves are afraid of mice, but that information is not relevant to the question about",What is emily afraid of?
+431,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+432,cat,"mouse
+
+<context>
+Mice are afraid of cats. Wolves are afraid of cats",What is jessica afraid of?
+433,wolf,wolf,What is gertrude afraid of?
+434,sheep,"mouse
+
+<context>
+Cats are afraid of sheep. Winona is a cat.",What is winona afraid of?
+435,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is emily afraid of?
+436,wolf,"mouse (This is a common mistake in the given context, as the text states that mice are",What is emily afraid of?
+437,cat,"cat
+
+<context>
+Cats are afraid of sheep. Wolves are afraid of sheep",What is winona afraid of?
+438,cat,mice,What is emily afraid of?
+439,mouse,"cat (Cats are afraid of mice, but that information is not relevant to the question about",What is winona afraid of?
+440,mouse,"cat (Emily)
+
+Explanation: Based on the context provided, Winona is",What is winona afraid of?
+441,cat,"cat
+
+<context>
+Wolves are afraid of cats. Sheep are afraid of m",What is jessica afraid of?
+442,mouse,mouse,What is gertrude afraid of?
+443,cat,wolf,What is gertrude afraid of?
+444,cat,"cat (based on the context provided, Winona is a wolf and wolves are afraid of cats",What is winona afraid of?
+445,sheep,"cat
+
+<context>
+Wolves are afraid of sheep. Cats are afraid of w",What is jessica afraid of?
+446,cat,"cat (based on the given context, Gertrude is a wolf, but the question asks about",What is gertrude afraid of?
+447,cat,cat,What is jessica afraid of?
+448,cat,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is winona afraid of?
+449,wolf,wolf,What is gertrude afraid of?
+450,mouse,"mouse
+
+<context>
+Mice are afraid of sheep. Cats are afraid of w",What is gertrude afraid of?
+451,cat,"cat
+
+<context>
+Wolves are afraid of cats. Winona is a wolf.",What is winona afraid of?
+452,cat,mouse,What is emily afraid of?
+453,wolf,wolf,What is gertrude afraid of?
+454,sheep,mouse,What is winona afraid of?
+455,cat,"cat (from the given context, Gertrude is a wolf, but the question asks what she",What is gertrude afraid of?
+456,wolf,"wolf (from the given context, cats are afraid of wolves, and gertrude is a",What is gertrude afraid of?
+457,wolf,wolf,What is gertrude afraid of?
+458,wolf,"mouse (based on the given context, Jessica is a cat and cats are afraid of mice)",What is jessica afraid of?
+459,mouse,mouse,What is winona afraid of?
+460,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is winona afraid of?
+461,mouse,mouse,What is jessica afraid of?
+462,cat,"cat (from the given context, Emily is a sheep, but the question asks about what Emily is",What is emily afraid of?
+463,mouse,mouse,What is emily afraid of?
+464,wolf,sheep,What is emily afraid of?
+465,wolf,wolf,What is gertrude afraid of?
+466,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Winona is a wolf.",What is emily afraid of?
+467,mouse,mice,What is emily afraid of?
+468,sheep,"mouse (Mice are afraid of cats, but the context states that Emily is a mouse, so",What is emily afraid of?
+469,cat,cats,What is emily afraid of?
+470,cat,sheep,What is emily afraid of?
+471,sheep,mouse,What is jessica afraid of?
+472,wolf,cat,What is jessica afraid of?
+473,sheep,"mouse
+
+<context>
+Sheep are afraid of mice. Wolves are afraid of",What is winona afraid of?
+474,sheep,"cat
+
+<context>
+Sheep are afraid of cats. Jessica is a sheep. M",What is emily afraid of?
+475,wolf,wolf,What is gertrude afraid of?
+476,cat,cat,What is winona afraid of?
+477,sheep,"cat (or mice, but based on the given context, the answer is cat)",What is winona afraid of?
+478,cat,cat,What is emily afraid of?
+479,cat,cat,What is jessica afraid of?
+480,cat,mice,What is emily afraid of?
+481,wolf,cat,What is jessica afraid of?
+482,cat,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+483,sheep,"cat
+
+<context>
+Sheep are afraid of cats. Jessica is a sheep. M",What is emily afraid of?
+484,wolf,"mouse (since the context states that cats are afraid of wolves and Emily is a cat, but",What is emily afraid of?
+485,sheep,mouse,What is gertrude afraid of?
+486,sheep,"cat (from the given context, mice are afraid of cats, and winona is a mouse",What is winona afraid of?
+487,mouse,cat,What is jessica afraid of?
+488,wolf,cat.,What is jessica afraid of?
+489,cat,mice,What is emily afraid of?
+490,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Sheep are afraid of",What is emily afraid of?
+491,wolf,mouse,What is jessica afraid of?
+492,wolf,wolf,What is winona afraid of?
+493,wolf,wolf,What is gertrude afraid of?
+494,sheep,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is emily afraid of?
+495,wolf,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is emily afraid of?
+496,mouse,mouse,What is jessica afraid of?
+497,sheep,"cat (from the context, cats are afraid of sheep and Jessica is a cat, so Jessica cannot",What is jessica afraid of?
+498,sheep,sheep,What is emily afraid of?
+499,cat,"cat
+
+<context>
+
+<context>
+Mice are afraid of cats. Emily",What is gertrude afraid of?
+500,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+501,wolf,cat (based on the given context),What is jessica afraid of?
+502,wolf,sheep,What is emily afraid of?
+503,cat,"cat
+
+<context>
+
+<context>
+Sheep are afraid of mice.",What is jessica afraid of?
+504,mouse,mouse,What is winona afraid of?
+505,wolf,wolf,What is winona afraid of?
+506,wolf,"mouse (Wolves are afraid of mice, but Emily is a mouse, so she cannot be",What is emily afraid of?
+507,wolf,"mouse (Winona)
+
+<context>
+Mistake in the example: The question",What is emily afraid of?
+508,sheep,cat (based on the given context),What is jessica afraid of?
+509,sheep,"mouse (since sheep are afraid of mice and winona is a wolf, winona cannot be",What is winona afraid of?
+510,wolf,"mouse
+
+<context>
+Sheep are afraid of cats. Mice are afraid of cats",What is emily afraid of?
+511,mouse,mouse,What is emily afraid of?
+512,mouse,"mouse
+
+<context>
+Mice are afraid of sheep. Sheep are afraid of w",What is gertrude afraid of?
+513,sheep,mouse,What is emily afraid of?
+514,wolf,mouse,What is jessica afraid of?
+515,sheep,mouse,What is winona afraid of?
+516,mouse,mouse,What is gertrude afraid of?
+517,cat,"mouse
+
+Explanation: The context states that cats are afraid of sheep, but it does",What is jessica afraid of?
+518,wolf,wolf,What is gertrude afraid of?
+519,cat,cats,What is emily afraid of?
+520,mouse,mouse,What is emily afraid of?
+521,wolf,cat,What is emily afraid of?
+522,wolf,wolf,What is gertrude afraid of?
+523,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Wolves are afraid of cats",What is emily afraid of?
+524,wolf,"mouse (but based on the context provided, the answer should be ""sheep"" as per the",What is emily afraid of?
+525,sheep,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is jessica afraid of?
+526,wolf,cat,What is emily afraid of?
+527,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Gertrude is a wolf",What is gertrude afraid of?
+528,cat,"mouse
+
+Explanation: Based on the context provided, wolves are afraid of cats,",What is winona afraid of?
+529,cat,"cat (but the context does not provide enough information for Jessica to be afraid of Emily, so the",What is emily afraid of?
+530,cat,"cat (based on the given context, Winona is a mouse and mice are afraid of cats",What is winona afraid of?
+531,mouse,mouse,What is winona afraid of?
+532,cat,cat,What is jessica afraid of?
+533,mouse,"mouse
+
+<context>
+Wolves are afraid of sheep. Cats are afraid of m",What is gertrude afraid of?
+534,mouse,Sheep.,What is emily afraid of?
+535,wolf,mouse (wolves are not mentioned in relation to winona),What is winona afraid of?
+536,sheep,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+537,mouse,"mouse
+
+<context>
+
+<context>
+Sheep are afraid of mice.",What is jessica afraid of?
+538,mouse,mouse,What is winona afraid of?
+539,wolf,wolf,What is gertrude afraid of?
+540,cat,"cat
+
+<context>
+Wolves are afraid of cats. Cats are afraid of m",What is jessica afraid of?
+541,wolf,mouse.,What is emily afraid of?
+542,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Emily is a mouse. She",What is jessica afraid of?
+543,sheep,sheep,What is emily afraid of?
+544,cat,"cat (Gertrude)
+
+<context>
+Wolves are afraid of cats.",What is emily afraid of?
+545,wolf,mice.,What is emily afraid of?
+546,sheep,"cat (from the context, cats are afraid of sheep and Jessica is a cat, so Jessica cannot",What is jessica afraid of?
+547,wolf,wolf,What is winona afraid of?
+548,cat,"cat
+
+<context>
+
+<context>
+Cats are afraid of mice.",What is gertrude afraid of?
+549,sheep,"cat (from the given context, cats are afraid of sheep and sheep are afraid of wolves,",What is jessica afraid of?
+550,wolf,wolf,What is winona afraid of?
+551,sheep,sheep,What is emily afraid of?
+552,sheep,wolf,What is gertrude afraid of?
+553,wolf,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+554,wolf,wolf,What is gertrude afraid of?
+555,mouse,mice,What is winona afraid of?
+556,mouse,mouse,What is emily afraid of?
+557,mouse,mouse.,What is winona afraid of?
+558,wolf,cat,What is jessica afraid of?
+559,wolf,wolf,What is winona afraid of?
+560,wolf,sheep,What is emily afraid of?
+561,sheep,mouse,What is winona afraid of?
+562,wolf,wolf,What is gertrude afraid of?
+563,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+564,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Cats are afraid of",What is jessica afraid of?
+565,cat,cat,What is emily afraid of?
+566,mouse,mouse,What is gertrude afraid of?
+567,sheep,"mouse (but the context does not provide this information, I'm just guessing based on the",What is winona afraid of?
+568,sheep,"mouse (mice in the context are afraid of winona, so winona must be afraid of",What is winona afraid of?
+569,sheep,"mouse (Mices are afraid of sheep, but the context states that Winona is a mouse,",What is winona afraid of?
+570,cat,cat,What is emily afraid of?
+571,wolf,cat (but the context does not provide enough information for Jessica's fear),What is emily afraid of?
+572,cat,"cat
+
+<context>
+
+<context>
+Mice are afraid of cats. C",What is gertrude afraid of?
+573,wolf,wolf,What is gertrude afraid of?
+574,wolf,sheep,What is emily afraid of?
+575,wolf,mice.,What is emily afraid of?
+576,cat,"cat (from the given context, cats are afraid of wolves, but the question asks what Jessica",What is jessica afraid of?
+577,wolf,wolf,What is gertrude afraid of?
+578,wolf,wolf,What is gertrude afraid of?
+579,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is winona afraid of?
+580,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Winona is a cat",What is winona afraid of?
+581,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Cats are afraid of w",What is gertrude afraid of?
+582,wolf,wolf,What is emily afraid of?
+583,mouse,mouse,What is gertrude afraid of?
+584,mouse,mice,What is winona afraid of?
+585,sheep,"cat
+
+<context>
+Wolves are afraid of sheep. Jessica is a wolf. C",What is jessica afraid of?
+586,mouse,"cat (or mouse, but the context states that Emily is a sheep, so the answer should be",What is emily afraid of?
+587,wolf,wolf,What is winona afraid of?
+588,mouse,mice,What is emily afraid of?
+589,wolf,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is jessica afraid of?
+590,cat,cat,What is emily afraid of?
+591,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+592,sheep,mouse,What is emily afraid of?
+593,wolf,"There is no animal named Jessica mentioned in the context. Therefore, I cannot answer this question.",What is jessica afraid of?
+594,sheep,wolf,What is gertrude afraid of?
+595,wolf,wolf,What is winona afraid of?
+596,mouse,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is gertrude afraid of?
+597,sheep,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is jessica afraid of?
+598,wolf,cat,What is jessica afraid of?
+599,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+600,wolf,wolf,What is winona afraid of?
+601,wolf,"mouse (This is incorrect based on the given context. The correct answer should be ""wolves""",What is emily afraid of?
+602,cat,cat,What is winona afraid of?
+603,wolf,"mouse
+
+<context>
+Sheep are afraid of cats. Mice are afraid of cats",What is winona afraid of?
+604,cat,mice,What is emily afraid of?
+605,wolf,mouse,What is jessica afraid of?
+606,mouse,"cat (from the given context, cats are afraid of mice, but the question asks what ger",What is gertrude afraid of?
+607,mouse,mouse,What is winona afraid of?
+608,sheep,sheep,What is emily afraid of?
+609,mouse,"mouse
+
+<context>
+
+<context>
+Sheep are afraid of mice.",What is jessica afraid of?
+610,mouse,"mouse (Answer: The context states that sheep are afraid of mice, and Gertrude",What is gertrude afraid of?
+611,cat,"cat
+
+<context>
+Wolves are afraid of cats. Cats are afraid of m",What is winona afraid of?
+612,sheep,"wolf
+
+<context>
+Mice are afraid of sheep. Jessica is a mouse. C",What is jessica afraid of?
+613,cat,"cat
+
+<context>
+Wolves are afraid of cats. Winona is a wolf.",What is winona afraid of?
+614,sheep,wolf,What is gertrude afraid of?
+615,wolf,wolf,What is gertrude afraid of?
+616,wolf,"cat
+
+<context>
+Sheep are afraid of cats. Mice are afraid of w",What is emily afraid of?
+617,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+618,wolf,wolf,What is winona afraid of?
+619,mouse,"mouse (based on the given context, Jessica is a sheep but the question asks about what she is",What is jessica afraid of?
+620,mouse,mouse,What is winona afraid of?
+621,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+622,wolf,wolf,What is gertrude afraid of?
+623,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Jessica is a sheep. M",What is jessica afraid of?
+624,cat,cat,What is winona afraid of?
+625,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+626,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is emily afraid of?
+627,cat,cat,What is emily afraid of?
+628,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is jessica afraid of?
+629,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+630,cat,"wolf (from the given context, Emily is a wolf, and wolves are afraid of cats,",What is emily afraid of?
+631,cat,mice.,What is emily afraid of?
+632,wolf,sheep,What is winona afraid of?
+633,wolf,wolf,What is gertrude afraid of?
+634,mouse,mouse,What is winona afraid of?
+635,mouse,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is winona afraid of?
+636,cat,cat,What is emily afraid of?
+637,cat,cat,What is emily afraid of?
+638,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of cats",What is emily afraid of?
+639,mouse,mouse,What is emily afraid of?
+640,wolf,"mouse
+
+<context>
+Wolves are afraid of mice. Sheep are afraid of",What is jessica afraid of?
+641,mouse,mouse,What is gertrude afraid of?
+642,mouse,cat,What is jessica afraid of?
+643,cat,"cat
+
+<context>
+Cats are afraid of sheep. Sheep are afraid of cats",What is jessica afraid of?
+644,cat,wolf,What is gertrude afraid of?
+645,wolf,mice,What is emily afraid of?
+646,cat,"mouse (Mice are afraid of sheep, but the question asks about Winona, who is a",What is winona afraid of?
+647,sheep,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+648,cat,wolf,What is gertrude afraid of?
+649,mouse,"cat
+
+<context>
+Wolves are afraid of mice. Winona is a wolf",What is gertrude afraid of?
+650,mouse,"cat (based on the given context, cats are afraid of wolves, but the question asks what",What is jessica afraid of?
+651,wolf,wolf,What is gertrude afraid of?
+652,wolf,wolf,What is gertrude afraid of?
+653,wolf,"cat (Wolves are afraid of cats in the context, but Gertrude is a sheep,",What is gertrude afraid of?
+654,cat,"cat
+
+<context>
+Wolves are afraid of cats. Cats are afraid of m",What is winona afraid of?
+655,wolf,"mouse
+
+<context>
+Mice are afraid of wolves. Emily is a mouse.",What is jessica afraid of?
+656,mouse,mouse,What is emily afraid of?
+657,mouse,"mouse (Gertrude)
+
+<context>
+Wolves are afraid of sheep.",What is emily afraid of?
+658,sheep,"cat (from the given context, mice are afraid of cats, and winona is a mouse",What is winona afraid of?
+659,wolf,cat (based on the given context),What is jessica afraid of?
+660,cat,cat,What is winona afraid of?
+661,wolf,wolf (based on the given context),What is gertrude afraid of?
+662,sheep,"cat
+
+<context>
+
+<context>
+Cats are afraid of sheep. Wol",What is gertrude afraid of?
+663,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Cats are afraid of",What is jessica afraid of?
+664,mouse,"mouse
+
+<context>
+Mice are afraid of sheep. Wolves are afraid of sheep",What is gertrude afraid of?
+665,mouse,mouse,What is emily afraid of?
+666,mouse,"mouse
+
+<context>
+Wolves are afraid of sheep. Cats are afraid of m",What is gertrude afraid of?
+667,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+668,mouse,"mouse (Answer: The context states that sheep are afraid of mice, and Gertrude",What is gertrude afraid of?
+669,wolf,wolf,What is gertrude afraid of?
+670,cat,Sheep.,What is jessica afraid of?
+671,wolf,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is jessica afraid of?
+672,sheep,"cat
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is jessica afraid of?
+673,mouse,mouse,What is emily afraid of?
+674,cat,"mouse (mice in the context are afraid of cats, so gertrude as a mouse would",What is gertrude afraid of?
+675,wolf,cat,What is winona afraid of?
+676,mouse,mouse,What is winona afraid of?
+677,cat,"mouse
+
+<context>
+Sheep are afraid of wolves. Cats are afraid of",What is jessica afraid of?
+678,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+679,wolf,wolf,What is winona afraid of?
+680,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is emily afraid of?
+681,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Sheep are afraid of",What is winona afraid of?
+682,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+683,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+684,wolf,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is jessica afraid of?
+685,wolf,mouse,What is jessica afraid of?
+686,mouse,mouse.,What is jessica afraid of?
+687,cat,cat,What is jessica afraid of?
+688,sheep,Sheep.,What is emily afraid of?
+689,cat,cats,What is winona afraid of?
+690,mouse,cat,What is emily afraid of?
+691,cat,cat (based on the given context),What is emily afraid of?
+692,wolf,mouse (since mice are afraid of sheep and the context states that Emily is a mouse),What is emily afraid of?
+693,wolf,"wolf (from the given context, cats are afraid of wolves, and gertrude is a",What is gertrude afraid of?
+694,cat,cat,What is emily afraid of?
+695,sheep,wolf,What is gertrude afraid of?
+696,wolf,wolf,What is gertrude afraid of?
+697,cat,"cat
+
+<context>
+Sheep are afraid of cats. Wolves are afraid of cats",What is gertrude afraid of?
+698,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Emily is a mouse.",What is winona afraid of?
+699,wolf,mice.,What is jessica afraid of?
+700,wolf,wolf,What is winona afraid of?
+701,cat,cat,What is gertrude afraid of?
+702,mouse,cat,What is winona afraid of?
+703,mouse,mouse,What is winona afraid of?
+704,wolf,"cat (Jessica) is afraid of wolves (including Gertrude), so wolves",What is emily afraid of?
+705,sheep,sheep,What is emily afraid of?
+706,sheep,"cat (from the given context, cats are afraid of sheep and sheep are afraid of wolves,",What is jessica afraid of?
+707,sheep,"cat
+
+<context>
+
+<context>
+Cats are afraid of sheep. Wol",What is gertrude afraid of?
+708,sheep,mouse,What is jessica afraid of?
+709,cat,cat,What is winona afraid of?
+710,wolf,"mouse
+
+Explanation: Based on the context provided, Winona is a sheep and sheep",What is winona afraid of?
+711,wolf,wolf,What is gertrude afraid of?
+712,wolf,wolf,What is winona afraid of?
+713,sheep,"cat (based on the context provided, cats are afraid of mice but the question asks what Jessica",What is jessica afraid of?
+714,mouse,cat,What is winona afraid of?
+715,mouse,mouse,What is winona afraid of?
+716,wolf,sheep,What is emily afraid of?
+717,wolf,sheep,What is emily afraid of?
+718,wolf,"mouse
+
+<context>
+Cats are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+719,mouse,mouse,What is winona afraid of?
+720,wolf,wolf,What is gertrude afraid of?
+721,mouse,"mouse (Answer: The context states that ""Sheep are afraid of mice,"" so Win",What is winona afraid of?
+722,mouse,"mouse
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is gertrude afraid of?
+723,mouse,"cat
+
+<context>
+Sheep are afraid of mice. Cats are afraid of",What is jessica afraid of?
+724,sheep,sheep (based on the context provided),What is gertrude afraid of?
+725,wolf,"mouse
+
+<context>
+Sheep are afraid of cats. Mice are afraid of cats",What is emily afraid of?
+726,sheep,"cat
+
+<context>
+Cats are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+727,wolf,wolf,What is gertrude afraid of?
+728,mouse,"cat (from the given context, cats are afraid of mice, but the question asks what ger",What is gertrude afraid of?
+729,wolf,sheep,What is emily afraid of?
+730,wolf,"mouse
+
+<context>
+Sheep are afraid of mice. Mice are afraid of",What is jessica afraid of?
+731,mouse,"mouse
+
+<context>
+Sheep are afraid of mice. Wolves are afraid of",What is winona afraid of?
+732,mouse,mouse.,What is winona afraid of?
+733,wolf,"wolf (from the given context, cats are afraid of wolves, and gertrude is a",What is gertrude afraid of?
+734,wolf,wolf,What is gertrude afraid of?
+735,wolf,mice.,What is jessica afraid of?
+736,mouse,"mouse
+
+<context>
+Mice are afraid of sheep. Wolves are afraid of sheep",What is jessica afraid of?
+737,sheep,"mouse (Mice are afraid of sheep, but Winona is a cat. Therefore, the answer",What is winona afraid of?
+738,wolf,mice,What is emily afraid of?
+739,wolf,wolf,What is emily afraid of?
+740,cat,"cat (but the context does not provide enough information for Jessica to be afraid of Emily, so the",What is emily afraid of?
+741,mouse,"cat
+
+<context>
+Wolves are afraid of cats. Mice are afraid of sheep",What is jessica afraid of?
+742,sheep,wolf,What is gertrude afraid of?
+743,wolf,cat,What is emily afraid of?
+744,sheep,"mouse (Mices)
+
+Explanation: Based on the context provided, Winona is",What is winona afraid of?
+745,wolf,wolf,What is gertrude afraid of?
+746,sheep,"mouse (She is a mouse herself, but she is afraid of mice due to the given context",What is gertrude afraid of?
+747,mouse,mouse,What is emily afraid of?
+748,mouse,"cat (from the context provided, Gertrude is a wolf, but the question asks what she",What is gertrude afraid of?
+749,sheep,"mouse
+
+<context>
+Cats are afraid of sheep. Winona is a cat.",What is emily afraid of?
+750,wolf,wolf,What is gertrude afraid of?
+751,mouse,mouse,What is emily afraid of?
+752,mouse,"mouse
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is emily afraid of?
+753,sheep,wolf,What is gertrude afraid of?
+754,wolf,wolf,What is emily afraid of?
+755,mouse,"wolf (based on the context provided, Winona is a cat, but the question asks about her",What is winona afraid of?
+756,sheep,"cat
+
+<context>
+Wolves are afraid of sheep. Cats are afraid of w",What is jessica afraid of?
+757,mouse,mouse,What is winona afraid of?
+758,sheep,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+759,wolf,mouse,What is jessica afraid of?
+760,wolf,wolf,What is gertrude afraid of?
+761,mouse,mouse,What is emily afraid of?
+762,sheep,"mouse (based on the given context, Emily is a mouse and mice are afraid of sheep,",What is emily afraid of?
+763,wolf,"mouse (Mices are afraid of wolves, but Winona is a mouse, so she is",What is winona afraid of?
+764,wolf,wolf (based on the given context),What is gertrude afraid of?
+765,mouse,wolf,What is gertrude afraid of?
+766,mouse,"cat
+
+<context>
+Wolves are afraid of cats. Mice are afraid of sheep",What is jessica afraid of?
+767,wolf,wolf,What is gertrude afraid of?
+768,mouse,mouse,What is winona afraid of?
+769,wolf,"cat
+
+<context>
+
+<context>
+Cats are afraid of wolves.",What is gertrude afraid of?
+770,sheep,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is gertrude afraid of?
+771,mouse,mouse,What is winona afraid of?
+772,wolf,wolf,What is gertrude afraid of?
+773,wolf,wolf,What is gertrude afraid of?
+774,mouse,mouse,What is jessica afraid of?
+775,cat,"cat
+
+<context>
+Mice are afraid of sheep. Wolves are afraid of cats",What is jessica afraid of?
+776,cat,cat,What is jessica afraid of?
+777,mouse,mouse,What is winona afraid of?
+778,sheep,mouse. (Answer should be: mouse),What is emily afraid of?
+779,sheep,"mouse
+
+Explanation: Winona is a wolf, and the context states that wolves",What is winona afraid of?
+780,wolf,mouse,What is winona afraid of?
+781,mouse,mouse,What is gertrude afraid of?
+782,cat,"cat
+
+<context>
+Wolves are afraid of cats. Sheep are afraid of cats",What is jessica afraid of?
+783,cat,"mouse (Gertrude or Winona)
+
+Explanation: Based on the context",What is emily afraid of?
+784,mouse,"mouse (based on the given context, mice are afraid of sheep, but the question asks about",What is winona afraid of?
+785,wolf,"cats
+
+<context>
+Cats are afraid of wolves. Emily is a cat.",What is winona afraid of?
+786,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Wolves are afraid of cats",What is emily afraid of?
+787,wolf,mouse,What is jessica afraid of?
+788,mouse,mouse,What is winona afraid of?
+789,wolf,wolf,What is gertrude afraid of?
+790,wolf,"wolf (Wolves are afraid of sheep, but the context states that Emily is a sheep, so",What is emily afraid of?
+791,mouse,"cat
+
+<context>
+
+<context>
+Cats are afraid of sheep. Wol",What is jessica afraid of?
+792,sheep,"cat (Given that cats are afraid of wolves and winona is a wolf, it may",What is winona afraid of?
+793,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Cats are afraid of",What is jessica afraid of?
+794,cat,"cat (based on the given context, Winona is a mouse and mice are afraid of cats",What is winona afraid of?
+795,mouse,mouse,What is jessica afraid of?
+796,mouse,mouse,What is winona afraid of?
+797,wolf,mice,What is emily afraid of?
+798,sheep,mouse,What is jessica afraid of?
+799,wolf,cat.,What is winona afraid of?
+800,wolf,mouse,What is emily afraid of?
+801,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Gertrude is a wolf",What is gertrude afraid of?
+802,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Jessica is a sheep. Wol",What is jessica afraid of?
+803,mouse,"mouse
+
+<context>
+Wolves are afraid of mice. Sheep are afraid of",What is emily afraid of?
+804,wolf,"mouse (Mices are afraid of wolves, but Winona is a mouse, so she is",What is winona afraid of?
+805,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Jessica is a sheep.",What is jessica afraid of?
+806,mouse,"mouse (Wolves are afraid of mice, but Gertrude is a cat.)",What is gertrude afraid of?
+807,wolf,wolf,What is gertrude afraid of?
+808,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Mice are afraid of w",What is jessica afraid of?
+809,mouse,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is winona afraid of?
+810,sheep,sheep,What is emily afraid of?
+811,wolf,"mouse (based on the given context, Jessica is a cat and cats are afraid of mice)",What is jessica afraid of?
+812,sheep,"mouse. (Answer: The context states that sheep are afraid of mice, and wolves",What is jessica afraid of?
+813,mouse,mouse,What is winona afraid of?
+814,wolf,"mouse (Sheep are afraid of mice, and Winona is a mouse.)",What is winona afraid of?
+815,wolf,wolf,What is gertrude afraid of?
+816,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Winona is a cat",What is emily afraid of?
+817,mouse,mouse,What is emily afraid of?
+818,sheep,mouse.,What is jessica afraid of?
+819,mouse,mouse,What is winona afraid of?
+820,mouse,"cat (based on the given context, Emily is a cat and cats are afraid of wolves,",What is jessica afraid of?
+821,sheep,mouse,What is winona afraid of?
+822,sheep,"cat
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is jessica afraid of?
+823,cat,cat,What is emily afraid of?
+824,sheep,"mouse (She is a mouse herself, but she is afraid of a different animal species according to the",What is gertrude afraid of?
+825,mouse,"wolf (based on the context provided, Winona is a cat, but the question asks about her",What is winona afraid of?
+826,mouse,cat (based on the context provided),What is winona afraid of?
+827,mouse,"mouse
+
+<context>
+Sheep are afraid of mice. Wolves are afraid of",What is emily afraid of?
+828,sheep,"mouse
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+829,wolf,wolf,What is winona afraid of?
+830,cat,cat,What is winona afraid of?
+831,cat,cat,What is gertrude afraid of?
+832,wolf,mouse,What is jessica afraid of?
+833,wolf,"cats (or mice, but the context states that Emily is a cat)",What is emily afraid of?
+834,cat,"cat
+
+<context>
+Sheep are afraid of cats. Wolves are afraid of m",What is emily afraid of?
+835,cat,cat,What is gertrude afraid of?
+836,wolf,"cat (based on the given context, Jessica is a sheep and cats are afraid of sheep, but",What is jessica afraid of?
+837,sheep,sheep,What is emily afraid of?
+838,sheep,mouse,What is winona afraid of?
+839,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+840,sheep,"mouse (mice in the context are afraid of gertrude, so gertrude must be",What is gertrude afraid of?
+841,mouse,mouse,What is gertrude afraid of?
+842,cat,cat,What is gertrude afraid of?
+843,cat,cat,What is jessica afraid of?
+844,wolf,"sheep (based on the context provided, Emily is a cat but the question asks about what Emily is",What is emily afraid of?
+845,wolf,sheep,What is winona afraid of?
+846,cat,"mouse.
+
+Explanation: Based on the context provided, Emily is a wolf, and",What is emily afraid of?
+847,mouse,mouse,What is winona afraid of?
+848,cat,"cat
+
+<context>
+Cats are afraid of mice. Sheep are afraid of",What is jessica afraid of?
+849,sheep,mouse,What is emily afraid of?
+850,mouse,mouse,What is jessica afraid of?
+851,mouse,mouse,What is emily afraid of?
+852,cat,cat,What is gertrude afraid of?
+853,cat,cat,What is gertrude afraid of?
+854,cat,sheep,What is emily afraid of?
+855,wolf,wolf,What is gertrude afraid of?
+856,sheep,sheep,What is winona afraid of?
+857,mouse,mouse,What is jessica afraid of?
+858,wolf,"mouse (or mice, since mice are a collective noun and can be afraid of multiple",What is jessica afraid of?
+859,wolf,wolf,What is gertrude afraid of?
+860,mouse,mice,What is emily afraid of?
+861,sheep,cat,What is winona afraid of?
+862,mouse,"mouse
+
+Explanation: Based on the context provided, Gertrude is a sheep and",What is gertrude afraid of?
+863,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is emily afraid of?
+864,cat,"cat (based on the given context, Gertrude is a wolf and wolves are afraid of",What is gertrude afraid of?
+865,cat,"cat (from the given context, Emily is a sheep, but the question asks about what Emily is",What is emily afraid of?
+866,sheep,wolf,What is gertrude afraid of?
+867,cat,wolf,What is gertrude afraid of?
+868,wolf,cat.,What is jessica afraid of?
+869,cat,mouse,What is winona afraid of?
+870,mouse,"cat (Given that cats are afraid of sheep and mice are afraid of sheep, it is",What is winona afraid of?
+871,wolf,mouse (since mice are afraid of sheep and the context states that Emily is a mouse),What is emily afraid of?
+872,wolf,wolf,What is gertrude afraid of?
+873,wolf,cat,What is jessica afraid of?
+874,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is winona afraid of?
+875,wolf,mouse,What is winona afraid of?
+876,cat,sheep,What is emily afraid of?
+877,mouse,"cat (Cats are afraid of mice, but that information is not relevant to the question about",What is winona afraid of?
+878,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+879,mouse,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+880,cat,cat (Answer should contain only one word - an animal species. Do not write anything else after,What is jessica afraid of?
+881,wolf,"cat
+
+<context>
+
+<context>
+Cats are afraid of wolves.",What is gertrude afraid of?
+882,wolf,wolf,What is winona afraid of?
+883,wolf,"mouse (based on the given context, Jessica is a cat and cats are afraid of mice)",What is jessica afraid of?
+884,mouse,"cat
+
+<context>
+Sheep are afraid of mice. Wolves are afraid of",What is gertrude afraid of?
+885,wolf,"cat
+
+<context>
+Cats are afraid of mice. Wolves are afraid of",What is jessica afraid of?
+886,cat,"mouse
+
+<context>
+Wolves are afraid of cats. Gertrude is a wolf",What is jessica afraid of?
+887,wolf,wolf,What is emily afraid of?
+888,wolf,mouse,What is jessica afraid of?
+889,sheep,"mouse (based on the given context, Gertrude is a mouse and mice are afraid of",What is gertrude afraid of?
+890,mouse,mouse (Answer should contain only one word - an animal species. Do not write anything else after,What is winona afraid of?
+891,mouse,"mouse (based on the given context, Jessica is a sheep but the question asks about what she is",What is jessica afraid of?
+892,cat,mice,What is emily afraid of?
+893,mouse,mouse,What is winona afraid of?
+894,mouse,mouse,What is emily afraid of?
+895,cat,"cat
+
+<context>
+Wolves are afraid of cats. Cats are afraid of m",What is winona afraid of?
+896,mouse,mouse,What is jessica afraid of?
+897,wolf,"cat
+
+<context>
+Mice are afraid of sheep. Cats are afraid of m",What is emily afraid of?
+898,mouse,cat (based on the given context),What is winona afraid of?
+899,cat,"mouse (or mice, since it's not clear from the context if ""mice""",What is jessica afraid of?
+900,wolf,mouse,What is jessica afraid of?
+901,cat,cat (based on the given context),What is winona afraid of?
+902,cat,mice. (Answer should be the animal that the given animal is afraid of.),What is emily afraid of?
+903,wolf,"cat
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+904,wolf,"cat
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+905,mouse,cat,What is jessica afraid of?
+906,wolf,mice.,What is emily afraid of?
+907,sheep,"cat (This is based on the given context that cats are afraid of wolves, and wolves",What is jessica afraid of?
+908,mouse,mice,What is emily afraid of?
+909,sheep,cat,What is winona afraid of?
+910,mouse,cats.,What is emily afraid of?
+911,cat,cat,What is winona afraid of?
+912,sheep,sheep,What is emily afraid of?
+913,wolf,mice,What is emily afraid of?
+914,wolf,"mouse
+
+<context>
+Wolves are afraid of cats. Sheep are afraid of m",What is gertrude afraid of?
+915,wolf,"mouse
+
+<context>
+
+Question: What is jessica afraid of?
+</",What is gertrude afraid of?
+916,cat,cats,What is winona afraid of?
+917,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is winona afraid of?
+918,sheep,"mouse
+
+<context>
+Wolves are afraid of sheep. Sheep are afraid of m",What is emily afraid of?
+919,cat,wolf,What is gertrude afraid of?
+920,sheep,"mouse
+
+<context>
+Mice are afraid of sheep. Sheep are afraid of w",What is jessica afraid of?
+921,wolf,"mouse (Answer: Mice are afraid of sheep. Emily is a mouse. Therefore, Win",What is winona afraid of?
+922,cat,cat,What is gertrude afraid of?
+923,cat,"mouse
+
+Explanation: Based on the context provided, Emily is a sheep and the given",What is emily afraid of?
+924,mouse,wolf,What is winona afraid of?
+925,mouse,mice,What is emily afraid of?
+926,wolf,wolf,What is winona afraid of?
+927,wolf,wolf,What is gertrude afraid of?
+928,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+929,wolf,"mouse
+
+<context>
+Sheep are afraid of wolves. Mice are afraid of",What is jessica afraid of?
+930,wolf,"mouse
+
+<context>
+Sheep are afraid of mice. Cats are afraid of",What is jessica afraid of?
+931,wolf,"wolf (from the given context, wolves are afraid of mice but the question asks what ger",What is gertrude afraid of?
+932,cat,wolf,What is gertrude afraid of?
+933,mouse,"cat (Given that cats are afraid of wolves and wolves are afraid of mice,",What is emily afraid of?
+934,wolf,mouse (since mice are afraid of sheep and the context states that Emily is a mouse),What is emily afraid of?
+935,cat,wolf,What is winona afraid of?
+936,wolf,"cat (from the given context, cats are afraid of wolves, but the question asks what Emily",What is emily afraid of?
+937,sheep,"mouse
+
+<context>
+Mice are afraid of wolves. Wolves are afraid of",What is jessica afraid of?
+938,wolf,"cat
+
+<context>
+Wolves are afraid of sheep. Jessica is a wolf. C",What is gertrude afraid of?
+939,wolf,"cat
+
+<context>
+Cats are afraid of wolves. Sheep are afraid of",What is jessica afraid of?
+940,sheep,sheep,What is gertrude afraid of?
+941,wolf,"cats
+
+<context>
+Cats are afraid of wolves. Emily is a cat.",What is winona afraid of?
+942,cat,"cat
+
+<context>
+Cats are afraid of sheep. Wolves are afraid of sheep",What is winona afraid of?
+943,wolf,wolf (from the context: Cats are afraid of wolves. Winona is a cat.),What is winona afraid of?
+944,wolf,"cat (but the context states that Emily is a sheep, so the answer is incorrect based on the",What is emily afraid of?
+945,mouse,mouse.,What is emily afraid of?
+946,mouse,mouse,What is emily afraid of?
+947,wolf,wolf,What is winona afraid of?
+948,wolf,"mouse (Wolves are afraid of mice, but that information is not relevant to the question about",What is emily afraid of?
+949,cat,"cat
+
+<context>
+Cats are afraid of wolves. Wolves are afraid of",What is winona afraid of?
+950,sheep,sheep,What is emily afraid of?
+951,cat,"mouse
+
+<context>
+Mice are afraid of cats. Gertrude is a mouse",What is jessica afraid of?
+952,mouse,mouse.,What is gertrude afraid of?
+953,wolf,"cat (from the given context, cats are afraid of sheep, but Emily is a sheep, so",What is emily afraid of?
+954,cat,cat,What is gertrude afraid of?
+955,sheep,mouse.,What is jessica afraid of?
+956,mouse,mouse,What is gertrude afraid of?
+957,mouse,mice,What is emily afraid of?
+958,sheep,"mouse (mice in the context are afraid of gertrude, so gertrude must be",What is gertrude afraid of?
+959,mouse,mouse,What is jessica afraid of?
+960,mouse,mouse,What is jessica afraid of?
+961,wolf,"mouse
+
+<context>
+Wolves are afraid of mice. Mice are afraid of",What is jessica afraid of?
+962,sheep,sheep,What is winona afraid of?
+963,wolf,wolf,What is gertrude afraid of?
+964,cat,mouse,What is emily afraid of?
+965,wolf,cat,What is jessica afraid of?
+966,mouse,mouse,What is emily afraid of?
+967,sheep,"cat (from the given context, cats are afraid of sheep and sheep are afraid of wolves,",What is jessica afraid of?
+968,mouse,"mouse
+
+<context>
+Cats are afraid of mice. Mice are afraid of",What is emily afraid of?
+969,wolf,wolf,What is winona afraid of?
+970,mouse,mouse,What is gertrude afraid of?
+971,wolf,wolf,What is winona afraid of?
+972,wolf,wolf,What is emily afraid of?
+973,mouse,mouse,What is gertrude afraid of?
+974,wolf,wolf,What is gertrude afraid of?
+975,wolf,wolf,What is gertrude afraid of?
+976,cat,cat,What is winona afraid of?
+977,wolf,wolf,What is winona afraid of?
+978,cat,sheep,What is emily afraid of?
+979,sheep,mouse,What is emily afraid of?
+980,wolf,mice,What is winona afraid of?
+981,wolf,mouse,What is emily afraid of?
+982,cat,cat,What is winona afraid of?
+983,wolf,wolf,What is winona afraid of?
+984,cat,mice,What is winona afraid of?
+985,cat,"mouse
+
+<context>
+Sheep are afraid of cats. Wolves are afraid of m",What is jessica afraid of?
+986,cat,cat,What is winona afraid of?
+987,sheep,"mouse
+
+<context>
+Cats are afraid of mice. Emily is a cat.",What is jessica afraid of?
+988,sheep,"wolf (but the answer in the context is actually ""sheep"", as the text has a mistake",What is winona afraid of?
+989,cat,"mouse
+
+Explanation: The context states that wolves are afraid of cats, but the",What is gertrude afraid of?
+990,sheep,sheep (based on the context provided),What is gertrude afraid of?
+991,wolf,mouse,What is emily afraid of?
+992,mouse,"cat (Given that cats are afraid of wolves and wolves are afraid of mice,",What is emily afraid of?
+993,mouse,mouse,What is winona afraid of?
+994,wolf,"mice (The context states that wolves are afraid of mice, but the question asks about",What is emily afraid of?
+995,cat,"mouse
+
+<context>
+Mice are afraid of wolves. Gertrude is a",What is jessica afraid of?
+996,sheep,mouse,What is gertrude afraid of?
+997,wolf,wolf,What is gertrude afraid of?
+998,wolf,"mouse (Winona)
+
+<context>
+Mistake in the example: The question",What is emily afraid of?

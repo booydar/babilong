@@ -1,0 +1,863 @@
+,target,output,question
+0,office,The apple was in the kitchen before John went to the bathroom.,Where was the apple before the bathroom? 
+1,office,The apple was in the kitchen before the hallway. John put it down there after picking it up from,Where was the apple before the hallway? 
+2,office,The apple was with John before he went to the hallway. John picked it up before leaving for the,Where was the apple before the hallway? 
+3,bathroom,The football was in the office before Daniel took it to the garden.,Where was the football before the garden? 
+4,bathroom,The football was in the hallway before John took it to the garden. (Daniel also took it,Where was the football before the garden? 
+5,garden,"Before Sandra went to the bathroom, she had the apple with her in the context of the given",Where was the apple before the bathroom? 
+6,kitchen,"The milk was with Daniel before he went to the office. However, Daniel dropped the milk on his",Where was the milk before the office? 
+7,kitchen,"The apple was with Mary before she went to the office. However, the text mentions that she",Where was the apple before the office? 
+8,kitchen,"The apple was dropped at the office by Mary before she traveled to the bathroom. However, later in",Where was the apple before the office? 
+9,garden,The apple was with Daniel before he went to the bedroom. He discarded it there.,Where was the apple before the bedroom? 
+10,garden,The apple was in the kitchen before Daniel went to the bedroom. Daniel got the apple from the kitchen,Where was the apple before the bedroom? 
+11,garden,The context does not provide information on where the milk was before it was picked up by Sandra in,Where was the milk before the bathroom? 
+12,garden,The last time the milk was mentioned before the bathroom was when Sandra picked it up from the hallway,Where was the milk before the bathroom? 
+13,garden,The context does not provide information on where the milk was before it was mentioned in the bathroom. The,Where was the milk before the bathroom? 
+14,kitchen,The football was with Sandra before the garden. She had it in the office before they all went,Where was the football before the garden? 
+15,kitchen,The football was at the office before the garden. John left it there after Sandra got it from,Where was the football before the garden? 
+16,garden,The milk was in the office before Daniel moved it to the bathroom and then Sandra took it back,Where was the milk before the bedroom? 
+17,garden,"The milk was put down in the office before Daniel moved to the bedroom. However, Sandra took",Where was the milk before the bedroom? 
+18,bedroom,"The football was left in the office before Daniel and Sandra went to the bathroom. However, the",Where was the football before the bathroom? 
+19,garden,The football was with John before he dropped it in the hallway.,Where was the football before the hallway? 
+20,garden,"The football was with Sandra before she went to the office. However, there is a contradiction",Where was the football before the office? 
+21,hallway,The context does not provide information on where the football was before it was taken to the garden by Daniel,Where was the football before the garden? 
+22,office,The context does not provide information on where the milk was before it was mentioned in the kitchen. The,Where was the milk before the kitchen? 
+23,kitchen,The milk was in the kitchen before the bedroom. Sandra picked it up from the kitchen and later,Where was the milk before the bedroom? 
+24,bathroom,"The football was in the bedroom before it was dropped there by Sandra. However, the context also",Where was the football before the bedroom? 
+25,office,"The football was last seen in the bedroom when Sandra dropped it there. Before that, it was",Where was the football before the bedroom? 
+26,garden,"The football was with Sandra before she went to the office. However, it is not explicitly stated",Where was the football before the office? 
+27,garden,"The football was last seen in the office when Daniel dropped it there. Before that, Sandra had",Where was the football before the office? 
+28,garden,"The apple was left by John in the office before he moved to the kitchen. However, it is",Where was the apple before the office? 
+29,bathroom,The apple was in the garden before the hallway. Sandra picked it up from the garden and later,Where was the apple before the hallway? 
+30,office,The apple was before the office before Sandra moved it to the kitchen.,Where was the apple before the kitchen? 
+31,office,The apple was left there by Sandra before she moved to the bathroom.,Where was the apple before the kitchen? 
+32,hallway,"The milk was with Daniel in the garden before he went to the bedroom. However, there are conflic",Where was the milk before the bedroom? 
+33,bedroom,The milk was with Daniel before he went to the garden. There is no mention of John or Mary,Where was the milk before the garden? 
+34,hallway,The apple was with Sandra before she went to the bathroom. There is no mention of the apple,Where was the apple before the bathroom? 
+35,hallway,"The football was in the bathroom before the kitchen. Sandra discarded it there. Later, Sand",Where was the football before the kitchen? 
+36,garden,The football was left there by Daniel before he went to the bathroom. (Daniel discarded the,Where was the football before the hallway? 
+37,garden,The football was dropped there by John before he moved to the bathroom. (John dropped the football there,Where was the football before the hallway? 
+38,garden,"The milk was discarded in the hallway by Sandra before Daniel picked it up again. However,",Where was the milk before the hallway? 
+39,hallway,"The milk was discarded in the hallway by Sandra before she went to the bathroom. However,",Where was the milk before the bathroom? 
+40,bedroom,The apple was in the hallway before Mary went to the bathroom. Mary went to the kitchen after leaving,Where was the apple before the bathroom? 
+41,bedroom,The apple was with John before he went to the bathroom. He dropped it during the hurlybur,Where was the apple before the bathroom? 
+42,bedroom,The apple was in John's possession before he went to the bathroom. There is no mention of,Where was the apple before the bathroom? 
+43,bedroom,The apple was with John before he went to the bathroom. He dropped it there after McFarl,Where was the apple before the bathroom? 
+44,bedroom,"Before the hallway, the milk was in Mary's hands. She discarded it there. However",Where was the milk before the hallway? 
+45,kitchen,The apple was discarded in the kitchen before Daniel and Sandra went to the garden.,Where was the apple before the garden? 
+46,garden,The apple was discarded in the office before Sandra went to the bedroom. (Daniel disc,Where was the apple before the bedroom? 
+47,garden,"The football was discarded in the office by Daniel before going to the kitchen. Therefore, it was",Where was the football before the kitchen? 
+48,bathroom,The apple was discarded in the bedroom by Sandra before the context mentions its current location.,Where was the apple before the bedroom? 
+49,bathroom,The last time the apple was mentioned before the bedroom was when Sandra picked it up in the kitchen,Where was the apple before the bedroom? 
+50,office,The context does not provide information on where the football was before Mary went to the hallway. The passage,Where was the football before the hallway? 
+51,kitchen,The apple was in Mary's possession before she went to the office. It is mentioned that she,Where was the apple before the office? 
+52,office,The football was with Mary before she went to the garden. The context does not specify where exactly she,Where was the football before the garden? 
+53,office,The football was in the garden before the bedroom. Mary discarded it there. The context does not,Where was the football before the bedroom? 
+54,garden,The apple was with Sandra before she discarded it in the hallway.,Where was the apple before the hallway? 
+55,hallway,"The football was in the office before the bedroom. Daniel went to the office, picked up the football",Where was the football before the bedroom? 
+56,bathroom,The football was with Daniel before he went back to the office. It was not mentioned again in the,Where was the football before the hallway? 
+57,bedroom,The football was with Daniel before he went to the kitchen.,Where was the football before the kitchen? 
+58,garden,The football was in the kitchen before the bathroom. (John put it down there before moving to the,Where was the football before the bathroom? 
+59,garden,The football was in the kitchen before John traveled to the bathroom. John discarded the football before going,Where was the football before the bathroom? 
+60,bathroom,The context does not provide information on where the milk was before Sandra traveled to the office with it,Where was the milk before the office? 
+61,bathroom,"The milk was dropped by Sandra before she went to the office. However, it was later picked",Where was the milk before the office? 
+62,bathroom,The context does not provide clear information about where the milk was before Sandra traveled to the office with,Where was the milk before the office? 
+63,garden,The context does not provide clear information about where the football was before it was in the bedroom. The,Where was the football before the bedroom? 
+64,kitchen,The football was in the bedroom before the bathroom. Sandra grabbed it from there and put it down,Where was the football before the bathroom? 
+65,office,The football was on the ground in the kitchen before the hallway. Daniel picked it up and then dropped,Where was the football before the hallway? 
+66,hallway,The apple was in the hallway before Daniel dropped it in the garden. John had grabbed the apple from,Where was the apple before the garden? 
+67,bathroom,"Before the kitchen, the milk was in Sandra's hands. However, she left it there",Where was the milk before the kitchen? 
+68,kitchen,The apple was last mentioned as being in the kitchen before the bathroom. There is no mention of it,Where was the apple before the bathroom? 
+69,garden,"Before the milk was taken to the hallway, John took it from an unspecified location and dropped",Where was the milk before the hallway? 
+70,hallway,"Before the incident in the room, John had taken the milk to the office. However, during the",Where was the milk before the office? 
+71,garden,"The milk was in John's hand before he went to the hallway. However, he dropped it",Where was the milk before the hallway? 
+72,office,The apple was with Daniel before he went to the bathroom.,Where was the apple before the bathroom? 
+73,office,The apple was with Daniel before he went to the bathroom.,Where was the apple before the bathroom? 
+74,kitchen,The milk was picked up by Mary at the scene of the accident before she moved to the office.,Where was the milk before the office? 
+75,kitchen,The milk was on the ground before the office after Mary dropped it. The context does not provide information,Where was the milk before the office? 
+76,kitchen,"The milk was with Mary before she moved to the office. However, during the train accident, she",Where was the milk before the office? 
+77,bathroom,"The apple was on the ground in the kitchen before the hallway. The context states that ""Mary",Where was the apple before the hallway? 
+78,bathroom,The milk was left in the hallway before John traveled to the bedroom. (John left the milk there,Where was the milk before the bedroom? 
+79,garden,The apple was at the office before the bathroom. John took the apple there and later left it there,Where was the apple before the bathroom? 
+80,bathroom,The context does not provide clear information on where the milk was before it was taken to the kitchen.,Where was the milk before the kitchen? 
+81,bathroom,The context does not provide clear information on where the milk was before it was taken to the kitchen.,Where was the milk before the kitchen? 
+82,garden,The last time the milk was mentioned before the bathroom was when Sandra put it down in the hallway,Where was the milk before the bathroom? 
+83,bathroom,The football was with Mary before she went to the bedroom. It is mentioned that she grabbed the football,Where was the football before the bedroom? 
+84,hallway,"The milk was with Sandra before she took it to the kitchen. The context states that ""S",Where was the milk before the kitchen? 
+85,hallway,The milk was left in the office by Sandra before she went back to the kitchen.,Where was the milk before the kitchen? 
+86,garden,"The milk was in the kitchen before Mary took it to the bedroom. However, in the given context",Where was the milk before the bedroom? 
+87,bedroom,The football was in the hallway before the kitchen. Daniel dropped it there after traveling from the bathroom.,Where was the football before the kitchen? 
+88,kitchen,"The apple was left there before Mary went to the hallway. (From the context, it was mentioned",Where was the apple before the hallway? 
+89,kitchen,"The apple was left in the hallway before Daniel grabbed it. However, after Mary went to the hallway",Where was the apple before the hallway? 
+90,hallway,The apple was left in the hallway before Daniel went to the kitchen.,Where was the apple before the kitchen? 
+91,bedroom,"Before the events described in the text, the milk was with John in the bedroom. However, during",Where was the milk before the bathroom? 
+92,bathroom,"Before John went back to the bedroom, the milk was in the hallway.",Where was the milk before the bedroom? 
+93,hallway,"Daniel took the football before he journeyed to the bathroom. Therefore, the football was with Daniel before",Where was the football before the bathroom? 
+94,garden,"The football was with Daniel before he went to the hallway. The text states that ""Daniel took",Where was the football before the hallway? 
+95,garden,The football was with Daniel before he traveled to the bathroom. There is no mention of Daniel discarding,Where was the football before the hallway? 
+96,hallway,The apple was in the hallway before the bathroom. Sandra picked it up there and then dropped it,Where was the apple before the bathroom? 
+97,hallway,The apple was in the hallway before the bathroom. Sandra picked it up there and then moved to,Where was the apple before the bathroom? 
+98,garden,"The apple was with John before he went to the hallway. However, there seems to be some confusion",Where was the apple before the hallway? 
+99,garden,The apple was with John before the hallway. (John picked it up in the kitchen and then went,Where was the apple before the hallway? 
+100,hallway,"Daniel had the football before he went to the kitchen, but it is not mentioned again in the context",Where was the football before the kitchen? 
+101,hallway,"Daniel had picked up the football before going to the kitchen. However, the text does not mention where",Where was the football before the kitchen? 
+102,kitchen,The text does not provide information on where the apple was before John went to the garden. The context,Where was the apple before the garden? 
+103,hallway,The milk was with Daniel in the bedroom before he went to the bathroom.,Where was the milk before the bathroom? 
+104,hallway,The milk was with Sandra before she went to the bathroom. She picked it up from where Daniel,Where was the milk before the bathroom? 
+105,hallway,The milk was in the kitchen before Daniel took it to the bathroom.,Where was the milk before the bathroom? 
+106,garden,The apple was with John before he went to the kitchen.,Where was the apple before the kitchen? 
+107,garden,"John was holding the milk before he traveled to the garden. So, the milk was with John in",Where was the milk before the hallway? 
+108,garden,The text does not provide information on where the milk was before John traveled to the hallway.,Where was the milk before the hallway? 
+109,garden,"Before John left it in the hallway, the milk was with John in the bedroom.",Where was the milk before the hallway? 
+110,kitchen,The milk was in Sandra's hands before she went back to the office. It is not,Where was the milk before the garden? 
+111,kitchen,"Mary dropped the milk there. Therefore, the milk was in the garden before Mary went there.",Where was the milk before the garden? 
+112,kitchen,"Mary had put down the milk in the office before she went to the garden. Therefore, the milk",Where was the milk before the garden? 
+113,office,The apple was in the office before the kitchen. Daniel picked it up from the office and later dropped,Where was the apple before the kitchen? 
+114,office,The apple was in the hallway before Daniel picked it up and went to the kitchen.,Where was the apple before the kitchen? 
+115,garden,"Before the milk was in the kitchen, it was dropped by John in two different instances: first in",Where was the milk before the kitchen? 
+116,bathroom,The context does not provide information on where the milk was before it was taken to the office by John,Where was the milk before the office? 
+117,bathroom,"The milk was dropped in the kitchen before John traveled to the office. However, Daniel picked it up",Where was the milk before the office? 
+118,bathroom,"The milk was dropped by John in the hallway before he traveled to the office. However, Daniel picked",Where was the milk before the office? 
+119,bathroom,The apple was in the bedroom before the hallway. Daniel put it down there after taking it from where,Where was the apple before the hallway? 
+120,garden,The football was with Sandra before the kitchen. There is no mention of it being in the kitchen,Where was the football before the kitchen? 
+121,garden,The context does not provide information on where the football was before it was taken to the kitchen by Mary,Where was the football before the kitchen? 
+122,garden,The football was with Mary before she went to the kitchen. There is no mention of it being in,Where was the football before the kitchen? 
+123,bedroom,"Before the football was taken to the garden by Mary, it was discarded by her in the bathroom",Where was the football before the garden? 
+124,bedroom,The context does not provide information on where the football was before it was taken to the garden by Sand,Where was the football before the garden? 
+125,kitchen,John got the milk in the kitchen before going to the bedroom.,Where was the milk before the bedroom? 
+126,kitchen,The milk was in the kitchen before John dropped it in the bedroom. There is no mention of John,Where was the milk before the bedroom? 
+127,kitchen,"The milk was dropped there by John. However, the text also mentions that John dropped the milk",Where was the milk before the bedroom? 
+128,bathroom,The football was at the kitchen before the hallway. John dropped it there.,Where was the football before the hallway? 
+129,bathroom,The football was dropped there by John before he moved to the hallway. (John dropped the football there,Where was the football before the hallway? 
+130,office,"The football was with Daniel before they went to the garden. However, Daniel left the football there when",Where was the football before the garden? 
+131,garden,"The football was with Daniel before he went to the hallway. However, he dropped it there. So",Where was the football before the hallway? 
+132,garden,The football was with Sandra before the hallway. She had picked it up from the garden and was,Where was the football before the hallway? 
+133,garden,The football was at the garden before the hallway. Daniel had it there and later dropped it.,Where was the football before the hallway? 
+134,hallway,The context does not provide information on where the milk was before it was taken to the kitchen by John,Where was the milk before the kitchen? 
+135,bathroom,"The apple was with Sandra before she went to the office. However, she discarded it and",Where was the apple before the office? 
+136,bathroom,The apple was left by Mary in the office before the events described in the text unfolded.,Where was the apple before the office? 
+137,bedroom,"The apple was last seen in the bathroom before the text mentions it being moved again. However,",Where was the apple before the bathroom? 
+138,bedroom,"The apple was discarded by Sandra in the bathroom earlier in the text, but before that,",Where was the apple before the bathroom? 
+139,garden,The apple was in the bedroom before the hallway. Mary moved from the bedroom to the hallway with the,Where was the apple before the hallway? 
+140,office,"Before the football was taken to the kitchen, it was in the hallway.",Where was the football before the kitchen? 
+141,office,The apple was before the office before John picked it up and went to the bedroom.,Where was the apple before the bedroom? 
+142,office,"Before the kitchen, the football was with Mary.",Where was the football before the kitchen? 
+143,garden,The milk was left in the kitchen before John went to the office.,Where was the milk before the office? 
+144,bathroom,The milk was left in the garden before John took it to the bedroom.,Where was the milk before the bedroom? 
+145,kitchen,"Before the office, the milk was in Sandra's possession.",Where was the milk before the office? 
+146,kitchen,The milk was with Sandra before she went to the office. There is no mention of her disc,Where was the milk before the office? 
+147,kitchen,The milk was with Sandra before she discarded it. The text does not mention where she disc,Where was the milk before the office? 
+148,kitchen,"The milk was with Mary before she went to the garden. It is mentioned that she ""took",Where was the milk before the garden? 
+149,bedroom,"Before the milk was in the kitchen, it was with Sandra. The text states that ""S",Where was the milk before the kitchen? 
+150,bathroom,The context does not provide information on the location of the football after John picked it up until Sandra,Where was the football before the kitchen? 
+151,bathroom,"The football was before the kitchen, specifically the location where John picked it up after the smaller mark was",Where was the football before the kitchen? 
+152,bathroom,The football was at the location where Mary grabbed it before going to the kitchen. It is not explicitly,Where was the football before the office? 
+153,bathroom,The football was discarded there before the office by John. (John discarded the football there.),Where was the football before the office? 
+154,bathroom,"Before the office, the milk was left by Mary. However, it's important to note that",Where was the milk before the office? 
+155,office,"Before entering the bedroom, Sandra and Jane followed Whitwell, who had gone to the bedroom in",Where was the football before the bedroom? 
+156,bedroom,The football was with Sandra before she moved to the office. It is not mentioned where she took,Where was the football before the garden? 
+157,kitchen,The football was with Sandra before she went to the garden. It is mentioned that she picked it,Where was the football before the garden? 
+158,kitchen,"The context does not explicitly state where the football was before the garden. However, it mentions that",Where was the football before the garden? 
+159,hallway,"The football was in the garden before it was taken to the bedroom by Sandra. Specifically,",Where was the football before the bedroom? 
+160,garden,The milk was discarded in the garden before it was picked up by John and taken to the bedroom,Where was the milk before the bedroom? 
+161,bathroom,The football was in the bedroom before the hallway. Mary picked it up from there and then went to,Where was the football before the hallway? 
+162,bedroom,The milk was in the bedroom before Mary went to the bathroom. Mary picked up the milk from where,Where was the milk before the bathroom? 
+163,kitchen,"The context describes several movements of different people and objects, but it does not explicitly state that the apple",Where was the apple before the office? 
+164,kitchen,The football was in the hallway before Sandra discarded it in the bathroom.,Where was the football before the bathroom? 
+165,hallway,Daniel had the milk with him before he went to the kitchen. There is no mention of him putting,Where was the milk before the kitchen? 
+166,bedroom,The football was in the hallway before the bathroom. Mary journeyed to the hallway and picked up the,Where was the football before the bathroom? 
+167,hallway,The milk was with Daniel before he journeyed to the kitchen.,Where was the milk before the kitchen? 
+168,hallway,"Daniel had the milk before he went to the kitchen. So, the milk was in the bathroom or",Where was the milk before the kitchen? 
+169,hallway,"The apple was with Sandra before she went to the office. However, she discarded it before",Where was the apple before the office? 
+170,bathroom,"The apple was with Daniel before he went to the office. However, he left it there when he",Where was the apple before the office? 
+171,bedroom,"Before the bathroom, the apple was in the hallway, as Daniel picked it up there before going to",Where was the apple before the bathroom? 
+172,bathroom,The apple was at the bathroom before the office. (Daniel picked it up there and later disc,Where was the apple before the office? 
+173,garden,"The milk was left in the hallway before Sandra moved to the bedroom. However, she later picked",Where was the milk before the bedroom? 
+174,bedroom,The milk was in the bedroom before Sandra traveled to the garden with it.,Where was the milk before the garden? 
+175,bedroom,The milk was in the bathroom before the garden. Sandra grabbed it there but later discarded it,Where was the milk before the garden? 
+176,bedroom,The milk was with Sandra in the bedroom before she went to the garden. There is a mistake,Where was the milk before the garden? 
+177,bedroom,The apple was in Sandra's hand before she went to the garden.,Where was the apple before the garden? 
+178,kitchen,The apple was with Sandra before she moved to the bedroom. It was dropped there after that.,Where was the apple before the hallway? 
+179,kitchen,The apple was in Sandra's possession before she moved to the bedroom. It was dropped in,Where was the apple before the hallway? 
+180,kitchen,The milk was left behind in the kitchen before John moved to the office.,Where was the milk before the office? 
+181,garden,"The milk was left in the kitchen by John before he moved to another location. However, there is",Where was the milk before the kitchen? 
+182,bathroom,The football was with John before he went to the hallway. It is mentioned that he sat there quietly,Where was the football before the hallway? 
+183,hallway,The football was in the hallway before John took it to the kitchen.,Where was the football before the kitchen? 
+184,hallway,The football was in the hallway before John traveled to the kitchen and picked it up.,Where was the football before the kitchen? 
+185,kitchen,The milk was with Mary before she went to the garden. There is no mention of her dropping it,Where was the milk before the garden? 
+186,office,The football was at the bathroom before Sandra discarded it there. Sandra then took the apple,Where was the football before the hallway? 
+187,hallway,The apple was in the office before the bedroom. Sandra took it from there and later put it,Where was the apple before the bedroom? 
+188,hallway,The apple was discarded in the hallway before the bedroom. (Sandra discarded the apple there,Where was the apple before the bedroom? 
+189,hallway,The apple was in the hallway before the bedroom. Sandra discarded it there before going to the,Where was the apple before the bedroom? 
+190,bedroom,"Before the garden, the milk was in Daniel's hand. However, Daniel dropped the milk in",Where was the milk before the garden? 
+191,bedroom,"Before the garden, the milk was with Daniel. So, the milk was likely in the same place",Where was the milk before the garden? 
+192,bedroom,The milk was with Daniel before he went to the garden.,Where was the milk before the garden? 
+193,bedroom,"The milk was dropped by Daniel in the office before it was picked up again by John. However,",Where was the milk before the office? 
+194,bedroom,The context does not provide clear information on where the milk was before it was taken to the office.,Where was the milk before the office? 
+195,bedroom,"The milk was taken by John to the hallway. Before that, its location was not mentioned in the",Where was the milk before the hallway? 
+196,bedroom,The milk was in the kitchen before John went to the hallway. (John went to the kitchen to,Where was the milk before the hallway? 
+197,bedroom,"The milk was in John's hand before he went to the hallway, but it was discarded",Where was the milk before the hallway? 
+198,hallway,The context does not provide enough information to determine exactly where the apple was before John went to the bedroom,Where was the apple before the bedroom? 
+199,hallway,The football was in the hallway before it was taken by Daniel to the bedroom.,Where was the football before the bedroom? 
+200,kitchen,The apple was with Sandra before she went to the garden. It is mentioned that John got the,Where was the apple before the garden? 
+201,kitchen,The apple was with Daniel in the kitchen before he went to the garden.,Where was the apple before the garden? 
+202,bedroom,The milk was in Mary's hands before she went to the office.,Where was the milk before the office? 
+203,bedroom,The milk was in Mary's hands before she went back to the bedroom. It is not mentioned,Where was the milk before the office? 
+204,bedroom,"The milk was in Mary's hands before she went to the office. However, she put it",Where was the milk before the office? 
+205,bedroom,"Before the context mentions Mary picking up the milk and putting it down in the kitchen, it does",Where was the milk before the office? 
+206,kitchen,The football was before the kitchen before Daniel journeyed to the bedroom.,Where was the football before the bedroom? 
+207,bathroom,"The football was in the bedroom before Sandra dropped it there. However, the context also mentions",Where was the football before the bedroom? 
+208,bathroom,The football was in the bedroom before Sandra dropped it there.,Where was the football before the bedroom? 
+209,bathroom,The football was with Sandra before she went to the bathroom. She took it from there and went,Where was the football before the garden? 
+210,bedroom,The milk was in John's hands before he dropped it at the office. There is no mention,Where was the milk before the office? 
+211,bedroom,"The milk was with John before he traveled to the office, but there is no mention of where he",Where was the milk before the office? 
+212,bedroom,"The milk was before the office after John traveled there and dropped it there. However, the context also",Where was the milk before the office? 
+213,kitchen,"The milk was in John's possession before he went to the garden. However, he discarded",Where was the milk before the garden? 
+214,kitchen,The context does not provide clear information about where the milk was before it was taken to the garden.,Where was the milk before the garden? 
+215,hallway,"The football was in the hallway before Mary went to the bathroom. After that, Sandra moved to",Where was the football before the bathroom? 
+216,hallway,The football was in the hallway before the bathroom.,Where was the football before the bathroom? 
+217,hallway,The football was in the office before the bathroom. Sandra left it there before going to the bathroom,Where was the football before the bathroom? 
+218,bathroom,The milk was left in the hallway before the kitchen. John picked it up and then went to the,Where was the milk before the kitchen? 
+219,garden,The football was in the hallway before Daniel put it down there.,Where was the football before the hallway? 
+220,bedroom,"The apple was in Daniel's hand before he went to the kitchen. However, he discarded",Where was the apple before the kitchen? 
+221,bathroom,"The apple was with Daniel before the hallway. Daniel discarded the apple in the context, but it",Where was the apple before the hallway? 
+222,bathroom,The apple was in the kitchen before the hallway. Daniel dropped it there before going to the bedroom.,Where was the apple before the hallway? 
+223,bathroom,The apple was dropped in the kitchen by Daniel before he went to the hallway.,Where was the apple before the hallway? 
+224,bathroom,The apple was last mentioned with Daniel having it in the kitchen before he went back to the hallway.,Where was the apple before the hallway? 
+225,hallway,The apple was with Mary before she went to the bathroom. The context does not provide information about the,Where was the apple before the bathroom? 
+226,office,The milk was with Daniel before he journeyed to the garden.,Where was the milk before the garden? 
+227,bathroom,The milk was with Daniel before he journeyed to the office.,Where was the milk before the office? 
+228,bathroom,The milk was left before the office by Daniel before Mary went to the bathroom. (Daniel got,Where was the milk before the office? 
+229,hallway,The football was before the office before Mary moved it to the office and then put it down there.,Where was the football before the bedroom? 
+230,bathroom,The milk was dropped by Daniel in the context of the given text before he moved to the office.,Where was the milk before the office? 
+231,bathroom,The context does not provide clear information on where the apple was before it was taken to the garden.,Where was the apple before the garden? 
+232,bathroom,The apple was with Mary before she went to the garden. It is mentioned that she discarded the,Where was the apple before the garden? 
+233,bathroom,"The apple was discarded in the location where John was before he went to the kitchen. However,",Where was the apple before the garden? 
+234,garden,The football was in the garden before it was picked up by Mary and brought to the hallway.,Where was the football before the hallway? 
+235,garden,The football was in the garden before it was grabbed by Sandra in the kitchen.,Where was the football before the kitchen? 
+236,garden,The football was in the garden before John journeyed there. Sandra picked it up earlier in the,Where was the football before the kitchen? 
+237,kitchen,"The apple was with Sandra before she went to the bathroom. However, it was discarded in",Where was the apple before the bathroom? 
+238,bathroom,The apple was in the garden before the hallway. Sandra grabbed it from the garden and moved to,Where was the apple before the hallway? 
+239,office,"The football was before the bedroom, specifically in the context it was left there by Sandra. However",Where was the football before the bedroom? 
+240,kitchen,The football was in the bedroom before Sandra traveled to the garden.,Where was the football before the garden? 
+241,bedroom,The football was in the bedroom before the hallway. Sandra had gone to the bedroom with it earlier,Where was the football before the hallway? 
+242,bathroom,"The apple was in John's hand before he went to the garden. So, the apple was",Where was the apple before the garden? 
+243,office,"The apple was with John before he went to the bathroom. The context mentions ""John grabbed the",Where was the apple before the bathroom? 
+244,kitchen,The apple was in the kitchen before John put it down there. John took it from there and went,Where was the apple before the bedroom? 
+245,kitchen,The apple was in the kitchen before John put it down in the bedroom.,Where was the apple before the bedroom? 
+246,kitchen,The apple was on the kitchen table before John went to the bedroom. (John put down the apple,Where was the apple before the bedroom? 
+247,office,"Before Mary moved to the bathroom, the apple was with Mary. So, the apple was in the",Where was the apple before the bathroom? 
+248,office,The apple was with Mary before she moved to the bathroom.,Where was the apple before the bathroom? 
+249,bathroom,"Mary had the apple before going to the office. However, the text does not mention where the apple",Where was the apple before the office? 
+250,office,The milk was in the hallway before the bedroom. Sandra got it from there and dropped it there,Where was the milk before the bedroom? 
+251,office,"The milk was in the bedroom before Sandra discarded it. However, later in the text,",Where was the milk before the bedroom? 
+252,garden,The football was with Daniel before he went to the kitchen.,Where was the football before the kitchen? 
+253,bedroom,The apple was on the table in the office before Sandra took it and went to the garden.,Where was the apple before the garden? 
+254,garden,The apple was in the garden before it was picked up by Sandra in the kitchen.,Where was the apple before the kitchen? 
+255,kitchen,"Before the events described in the context, the milk was left in the garden by Mary. However,",Where was the milk before the bathroom? 
+256,garden,The football was in the garden before Mary picked it up in the hallway. There is no mention of,Where was the football before the bathroom? 
+257,garden,The apple was in the garden before it was taken to the bathroom by Sandra.,Where was the apple before the bathroom? 
+258,hallway,The milk was with Mary before she went back to the office. There is no mention of it being,Where was the milk before the office? 
+259,office,"The milk was with Mary before she went to the bathroom, but she discarded it there. Therefore",Where was the milk before the bathroom? 
+260,office,The milk was discarded before the bathroom. It is not clear where it was before that point in,Where was the milk before the bathroom? 
+261,office,"The milk was discarded before the bathroom. Therefore, it was not present in the bathroom. The",Where was the milk before the bathroom? 
+262,bedroom,"Mary had the football before going to the office. However, the text does not explicitly state where she",Where was the football before the office? 
+263,hallway,The football was in the bedroom before Daniel took it to the bathroom.,Where was the football before the bathroom? 
+264,hallway,"Before the football was taken to the bathroom by Daniel, it was in the hallway.",Where was the football before the bathroom? 
+265,hallway,The football was in the kitchen before the bathroom. John picked it up there before going to the bathroom,Where was the football before the bathroom? 
+266,bathroom,The context does not provide clear information on where the milk was before it was left in the hallway.,Where was the milk before the hallway? 
+267,office,The context does not provide information about the location of the football before Sandra moved to the bathroom.,Where was the football before the bathroom? 
+268,office,The context does not provide information on where the football was before Sandra moved to the bathroom.,Where was the football before the bathroom? 
+269,bathroom,The football was with Sandra before she moved to the office. It is not mentioned that she had,Where was the football before the garden? 
+270,hallway,"The football was in the office before the bedroom. However, it's important to note that the",Where was the football before the bedroom? 
+271,hallway,"The football was with Sandra in the office before she went to the bedroom. However, it is",Where was the football before the bedroom? 
+272,office,The milk was in Daniel's possession before he went back to the hallway.,Where was the milk before the hallway? 
+273,office,The milk was left on the table at the public house before Daniel left for the hallway.,Where was the milk before the hallway? 
+274,kitchen,The milk was in the hallway before Daniel traveled to the kitchen.,Where was the milk before the garden? 
+275,kitchen,"The milk was at the scene of the incident before the garden, but it was dropped by Mary during",Where was the milk before the garden? 
+276,garden,The milk was in John's hands before he discarded it in the hallway. There is no,Where was the milk before the hallway? 
+277,bedroom,"The football was in the hallway before Mary traveled to the bathroom with it. However, Daniel dropped it",Where was the football before the bathroom? 
+278,hallway,"The last time the milk was mentioned before the bedroom, John had it in his possession and was going",Where was the milk before the bedroom? 
+279,bedroom,"The football was in the hallway before Mary went to the bathroom. Specifically, Daniel picked it up",Where was the football before the bathroom? 
+280,hallway,The apple was in the hallway before it was dropped by Daniel.,Where was the apple before the bedroom? 
+281,bedroom,The milk was in John's hand before he went to the bathroom.,Where was the milk before the bathroom? 
+282,bedroom,"The milk was in John's hand before he went to the bathroom. However, he dropped it",Where was the milk before the bathroom? 
+283,office,The apple was with Sandra before she went to the bathroom.,Where was the apple before the bathroom? 
+284,office,The apple was in the garden before Sandra moved to the bathroom.,Where was the apple before the bathroom? 
+285,office,"Before Sandra went to the bathroom, she had the apple. The context does not provide information on",Where was the apple before the bathroom? 
+286,garden,The football was in the hallway before it went to the bedroom (John had it there).,Where was the football before the bedroom? 
+287,garden,The context does not provide information on where the milk was before it was taken to the bedroom by Mary,Where was the milk before the bedroom? 
+288,garden,"The milk was in the bedroom before Mary went to get it. The context states that ""Mary",Where was the milk before the bedroom? 
+289,garden,The football was in the garden before the bedroom. It was mentioned that John picked it up from the,Where was the football before the bedroom? 
+290,garden,The football was in the hallway before it was picked up by John and then later dropped by Mary in,Where was the football before the bedroom? 
+291,bathroom,The context does not provide information on where the apple was before it was taken to the garden by Daniel,Where was the apple before the garden? 
+292,bathroom,The context does not provide information on where the apple was before Mary went to the garden with it.,Where was the apple before the garden? 
+293,bedroom,The milk was in Sandra's possession before she went to the hallway. It is mentioned that,Where was the milk before the hallway? 
+294,bedroom,The context does not provide enough information to determine exactly where the milk was before Sandra went to the,Where was the milk before the garden? 
+295,bedroom,The context does not provide information on where the milk was before Sandra traveled to the garden. The,Where was the milk before the garden? 
+296,bedroom,The milk was in the office before the garden. (Sandra went to the office to get the,Where was the milk before the garden? 
+297,hallway,"The milk was in the office before Daniel went to the bathroom. However, it's important to",Where was the milk before the bathroom? 
+298,kitchen,"The milk was left at the office before Daniel traveled there. However, Daniel picked it up there but",Where was the milk before the office? 
+299,kitchen,"Before the office, the milk was left by Daniel at the kitchen. However, Daniel had picked up",Where was the milk before the office? 
+300,kitchen,The milk was left in the kitchen before Daniel traveled to the office.,Where was the milk before the office? 
+301,hallway,"The football was in Daniel's possession before he went to the garden, but it is not explicitly",Where was the football before the garden? 
+302,bathroom,The football was in the bedroom before the garden. Daniel picked it up there and later discarded it,Where was the football before the garden? 
+303,bathroom,"Before the garden, the apple was with John in the cabin.",Where was the apple before the garden? 
+304,bathroom,The context does not provide information on where the milk was before Sandra got it in the bedroom.,Where was the milk before the bedroom? 
+305,bathroom,The context does not provide information on where the milk was before the kitchen. The only mention of milk,Where was the milk before the kitchen? 
+306,hallway,"Before the bedroom, the apple was with John in the hallway.",Where was the apple before the bedroom? 
+307,kitchen,The football was in the bathroom before the garden. Daniel got it from there before they all traveled to,Where was the football before the garden? 
+308,kitchen,The milk was in the kitchen before the garden. Daniel picked it up from the kitchen and later left,Where was the milk before the garden? 
+309,kitchen,The milk was in the kitchen before the garden. Daniel picked it up from the kitchen and later traveled,Where was the milk before the garden? 
+310,hallway,"Before Daniel journeyed to the bathroom, the apple was with Daniel. So, the apple was in",Where was the apple before the bathroom? 
+311,hallway,Before Daniel picked it up in the hallway.,Where was the apple before the bathroom? 
+312,hallway,"Before Daniel journeyed to the bathroom, Daniel had the apple. However, the context does not explicitly",Where was the apple before the bathroom? 
+313,bedroom,The football was in the hallway before it was taken to the kitchen by Mary.,Where was the football before the kitchen? 
+314,office,The milk was left in the garden by Daniel before he went to the bedroom.,Where was the milk before the bedroom? 
+315,office,The milk was in the office before the bedroom. Daniel took it from there and then moved to the,Where was the milk before the bedroom? 
+316,office,"The milk was left in the office before Mary moved to the garden. Therefore, it was not in",Where was the milk before the bedroom? 
+317,bedroom,"The milk was in the garden before the office. Daniel discarded it there, but later went back",Where was the milk before the office? 
+318,bathroom,The football was in the garden before it was moved to the hallway by Sandra.,Where was the football before the hallway? 
+319,bedroom,The milk was in the garden before the hallway. Mary took it from there and later discarded it,Where was the milk before the hallway? 
+320,bathroom,"The milk was in the kitchen before the hallway. Sandra went to the kitchen, grabbed the milk",Where was the milk before the hallway? 
+321,bathroom,"The milk was with Sandra before the hallway. Sandra discarded it there, but later picked",Where was the milk before the hallway? 
+322,hallway,The football was at the kitchen before the bathroom. John dropped it there after he went back from the,Where was the football before the bathroom? 
+323,office,The milk was in the kitchen before it was dropped by John in the bathroom.,Where was the milk before the bathroom? 
+324,office,The football was with Sandra before she went to the office. There is no mention of her disc,Where was the football before the bathroom? 
+325,office,The football was in the hallway before Sandra went to the bathroom. She grabbed it there and later,Where was the football before the bathroom? 
+326,bathroom,The football was with Sandra before she discarded it in the hallway. There is no mention of,Where was the football before the kitchen? 
+327,office,The football was in the hallway before Sandra went to the bedroom.,Where was the football before the bedroom? 
+328,garden,The milk was left in the office before the kitchen.,Where was the milk before the kitchen? 
+329,kitchen,The milk was left in the office before Sandra went to the garden.,Where was the milk before the garden? 
+330,office,The milk was in the office before it was taken by Sandra and then left there by her.,Where was the milk before the garden? 
+331,garden,The football was in the kitchen before the bedroom. Daniel picked it up from there and then dropped it,Where was the football before the bedroom? 
+332,office,"The last time the milk was mentioned before the garden was when John discarded it there. So,",Where was the milk before the garden? 
+333,kitchen,The context does not provide information about where the apple was before it appeared in the garden. The first,Where was the apple before the garden? 
+334,kitchen,The apple was in Sandra's possession before she went to the garden. She discarded it,Where was the apple before the garden? 
+335,kitchen,"The apple was with Sandra before she discarded it in the garden. So, it was in",Where was the apple before the garden? 
+336,hallway,The apple was with John before he went to the garden. It was mentioned that John took the apple,Where was the apple before the garden? 
+337,garden,The apple was with John before he went to the bathroom. There is a mention of John dropping the,Where was the apple before the bathroom? 
+338,hallway,"The apple was with John before he went back to the office. However, it's important to",Where was the apple before the office? 
+339,bathroom,The context does not provide information on where the milk was before it was mentioned in the bedroom. The,Where was the milk before the bedroom? 
+340,bedroom,"The apple was in the bathroom after Mary picked it up from the hallway. Before that, it was",Where was the apple before the bathroom? 
+341,hallway,The football was with Daniel before he moved to the bathroom.,Where was the football before the bathroom? 
+342,bedroom,"Before the kitchen, the apple was in Sandra's possession as she journeyed to the bedroom",Where was the apple before the kitchen? 
+343,bedroom,"Before the kitchen, Sandra was holding the apple. However, in the given text, it is",Where was the apple before the kitchen? 
+344,kitchen,Sandra had the apple before she went to the kitchen. There is no mention of the apple being,Where was the apple before the garden? 
+345,kitchen,"Sandra had the apple before she moved to the garden. However, the text does not explicitly state",Where was the apple before the garden? 
+346,hallway,The football was in John's hand before he went to the garden. There is no mention of,Where was the football before the garden? 
+347,kitchen,"The football was discarded at the hallway before John went to the office. Therefore, it was not",Where was the football before the office? 
+348,kitchen,"The football was with John before he traveled to the office. However, Sandra dropped it there when",Where was the football before the office? 
+349,garden,"Before Mary went to the hallway, she picked up the milk. Therefore, the milk was likely in",Where was the milk before the hallway? 
+350,garden,"Before the hallway, Mary put down the milk. However, there seems to be a discrepancy",Where was the milk before the hallway? 
+351,garden,"The milk was left in the hallway before Mary went back to it. However, the context does mention",Where was the milk before the hallway? 
+352,garden,"Before Mary put it down in the hallway, the milk was most likely in her hands or near her",Where was the milk before the hallway? 
+353,hallway,The apple was in the kitchen before Mary went to the garden with it. Here are the relevant steps,Where was the apple before the garden? 
+354,bathroom,"The football was with Daniel before he moved to the bedroom. However, he left it there before he",Where was the football before the bedroom? 
+355,bathroom,"The football was with Daniel before it was in the bedroom. The context states that ""Daniel grabbed",Where was the football before the bedroom? 
+356,hallway,"Daniel had the apple before going to the garden. So, the apple was in Daniel's possession",Where was the apple before the garden? 
+357,bathroom,The apple was with Daniel before he went to the hallway.,Where was the apple before the hallway? 
+358,garden,The football was in the kitchen before it was discarded by Daniel.,Where was the football before the hallway? 
+359,garden,"The football was in the office before Sandra went to the bedroom. However, the text mentions",Where was the football before the bedroom? 
+360,bathroom,The context does not provide information on where the milk was before it was mentioned that Sandra went to,Where was the milk before the hallway? 
+361,hallway,The milk was with Sandra before she discarded it in the context provided. It is not explicitly,Where was the milk before the office? 
+362,hallway,The context does not provide information on where the milk was before it was taken to the office by Daniel,Where was the milk before the office? 
+363,bathroom,The context does not provide information on where the milk was before it was taken to the hallway by Daniel,Where was the milk before the hallway? 
+364,office,"Before the context mentions the milk being in the kitchen, it is mentioned several times that Mary took",Where was the milk before the kitchen? 
+365,kitchen,The milk was left in the kitchen before Daniel journeyed to the garden.,Where was the milk before the garden? 
+366,office,"The milk was left in the bathroom by Mary before she traveled to the kitchen. However, there are",Where was the milk before the kitchen? 
+367,bathroom,The apple was in the bedroom before it was taken to the kitchen by various characters.,Where was the apple before the kitchen? 
+368,kitchen,"The apple was with Daniel before he went to the office. He dropped it there. However, later",Where was the apple before the office? 
+369,hallway,The milk was mentioned as being taken by Mary from the kitchen. There is no information given in the,Where was the milk before the kitchen? 
+370,bathroom,"Mary took the milk from the kitchen before she went to the bathroom. She went to the bathroom,",Where was the milk before the hallway? 
+371,bedroom,The milk was in the bathroom before it was taken by Mary to the office.,Where was the milk before the office? 
+372,bedroom,"Before the office, the milk was in the bathroom, specifically where Mary had left it. However,",Where was the milk before the office? 
+373,hallway,"The apple was discarded by Sandra in the context before she went to the bedroom. Therefore,",Where was the apple before the bedroom? 
+374,garden,The context does not provide information on where the milk was before Mary moved to the office. The text,Where was the milk before the office? 
+375,garden,"The milk was before the office when Mary picked it up. However, she later discarded it in",Where was the milk before the office? 
+376,garden,"Before the context provided, Mary moved with the milk to the office. Therefore, the milk was in",Where was the milk before the office? 
+377,garden,"Before the events described in the text, it is not explicitly stated where the milk was before Mary moved",Where was the milk before the office? 
+378,hallway,The football was in the kitchen before the office. Daniel picked it up from there and later dropped it,Where was the football before the office? 
+379,bedroom,"In Sandra's hands before she discarded it in the kitchen. However, the context also",Where was the milk before the kitchen? 
+380,bedroom,The context does not provide information on where the milk was before it was mentioned in the kitchen. The,Where was the milk before the kitchen? 
+381,garden,"The football was in the bedroom before the bathroom. The text states that ""Daniel left the football",Where was the football before the bathroom? 
+382,hallway,The football was in the bedroom before the garden. Daniel took it there after John left it.,Where was the football before the garden? 
+383,bathroom,"The milk was in Sandra's hand before she went to the hallway. However, there are",Where was the milk before the hallway? 
+384,bedroom,The football was with Daniel before he traveled to the office.,Where was the football before the office? 
+385,bedroom,The football was with Daniel before he moved to the bedroom. It was discarded there but the text,Where was the football before the office? 
+386,bedroom,"The football was with Daniel before he went to the office. However, it was discarded by him",Where was the football before the office? 
+387,bathroom,The milk was in the office before the bedroom. Daniel picked it up from there and later left it,Where was the milk before the bedroom? 
+388,hallway,The apple was in the garden before it was taken to the bedroom by John.,Where was the apple before the bedroom? 
+389,garden,The milk was left in the office by Daniel before he went to the bedroom.,Where was the milk before the bedroom? 
+390,garden,The context does not provide information on where the milk was before it was taken to the bedroom. The,Where was the milk before the bedroom? 
+391,garden,"The milk was in the garden before the bedroom. The context states that ""Daniel grabbed the football",Where was the milk before the bedroom? 
+392,garden,The milk was in the office before John went to get it in the bedroom.,Where was the milk before the bedroom? 
+393,garden,"The apple was before the kitchen, but the exact location is not specified in the context. It was",Where was the apple before the kitchen? 
+394,office,The milk was in the kitchen before John left it.,Where was the milk before the hallway? 
+395,hallway,The football was with Daniel before he went to the bathroom.,Where was the football before the bathroom? 
+396,hallway,The football was in the kitchen before Daniel traveled to the bathroom. (John later picked it up from,Where was the football before the bathroom? 
+397,bedroom,The football was in the kitchen before the hallway. Daniel picked it up there before moving to the hallway,Where was the football before the hallway? 
+398,hallway,The milk was in the office before Mary went to the bedroom.,Where was the milk before the bedroom? 
+399,hallway,The context does not provide information on where the milk was before it was left in the bedroom. The,Where was the milk before the bedroom? 
+400,bedroom,The context does not provide information on where the milk was before it was taken to the kitchen by Mary,Where was the milk before the kitchen? 
+401,kitchen,"The apple was in the kitchen before Mary moved there and took it. Therefore, the apple was not",Where was the apple before the bedroom? 
+402,kitchen,The apple was in the kitchen before Mary journeyed to the bedroom with it. (From the context,Where was the apple before the bedroom? 
+403,office,The context does not provide information on where the football was before Sandra went to the garden. The,Where was the football before the garden? 
+404,garden,The context does not provide information on where the football was before Sandra went to the hallway. The,Where was the football before the hallway? 
+405,garden,The context does not provide information on where the milk was before John went to the office. The information,Where was the milk before the office? 
+406,office,"The milk was in Daniel's hand before he went to the kitchen, but he discarded it",Where was the milk before the kitchen? 
+407,kitchen,The context does not provide information on where the football was before Sandra went to the garden. The,Where was the football before the garden? 
+408,bedroom,The apple was in the bedroom before the bathroom. Sandra left the apple there after her journey to,Where was the apple before the bathroom? 
+409,office,The apple was left in the bedroom by Mary before Sandra took it and put it in the kitchen,Where was the apple before the bedroom? 
+410,garden,The apple was left in the bathroom by Sandra before she journeyed to the office.,Where was the apple before the office? 
+411,garden,The apple was left in the bathroom by Sandra before she went to the office.,Where was the apple before the office? 
+412,garden,"The apple was left in the bathroom by Sandra before she traveled to the office. However, later",Where was the apple before the office? 
+413,hallway,The apple was with Daniel before he went to the bathroom. He discarded it before entering the bathroom,Where was the apple before the bathroom? 
+414,bedroom,"The football was with Daniel before he went to the kitchen. However, it is mentioned that he put",Where was the football before the kitchen? 
+415,hallway,"The apple was in Daniel's hand before he went to the bathroom. However, he discarded",Where was the apple before the bathroom? 
+416,bathroom,The apple was discarded before the hallway. It is mentioned that Daniel discarded the apple before he,Where was the apple before the hallway? 
+417,office,"The apple was with Daniel before he went to the kitchen. However, Daniel discarded the apple before",Where was the apple before the kitchen? 
+418,garden,The football was in the bedroom before the hallway. John picked it up from there and later put it,Where was the football before the hallway? 
+419,garden,"The football was in Daniel's possession before he went to the hallway. However, he put it",Where was the football before the hallway? 
+420,garden,"The apple was last mentioned as being in Sandra's possession before the office, but there is",Where was the apple before the office? 
+421,garden,"The apple was left in the office by Mary before Sandra moved there. However, Sandra later",Where was the apple before the office? 
+422,garden,"The last time the apple was mentioned before the office was when Sandra left it there. So,",Where was the apple before the office? 
+423,bedroom,The apple was in the office before the garden. Mary discarded it there before going to the garden,Where was the apple before the garden? 
+424,bedroom,"Before the garden, the apple was in Mary's hand. However, she discarded it there",Where was the apple before the garden? 
+425,kitchen,The apple was in the kitchen before Mary traveled to the bedroom. Mary took the apple from the kitchen,Where was the apple before the bedroom? 
+426,office,"The apple was discarded in the bedroom by Mary before John picked it up from there. However,",Where was the apple before the bedroom? 
+427,office,The apple was in the kitchen before Mary took it to the bedroom. Mary discarded the apple in,Where was the apple before the bedroom? 
+428,garden,"The apple was in the garden before Mary took it to the bathroom. The context states that ""S",Where was the apple before the bathroom? 
+429,garden,"The apple was in the kitchen before Mary took it to the bathroom. The context states that ""S",Where was the apple before the bathroom? 
+430,bathroom,The context does not provide enough information to determine where the apple was before it was taken to the kitchen,Where was the apple before the kitchen? 
+431,bathroom,The apple was in the garden before it was taken by Sandra to the kitchen.,Where was the apple before the kitchen? 
+432,bathroom,The context does not provide information on where the milk was before it was taken to the bedroom by John,Where was the milk before the bedroom? 
+433,bathroom,The context does not provide information on where the milk was before it was taken to the bedroom by John,Where was the milk before the bedroom? 
+434,bathroom,John got the milk from the kitchen. There is no mention of the milk being in the bedroom before,Where was the milk before the bedroom? 
+435,bathroom,"The apple was in the kitchen before the garden. (Based on the context provided, Sandra took",Where was the apple before the garden? 
+436,garden,The apple was discarded in a ravine before the bedroom. (Reference: 188,Where was the apple before the bedroom? 
+437,garden,The apple was in the bedroom before Daniel discarded it in the kitchen.,Where was the apple before the kitchen? 
+438,office,The football was in the bedroom before the garden. Daniel took it from there and later left it in,Where was the football before the garden? 
+439,garden,The football was in the bedroom before the kitchen. Daniel moved it there from an earlier location.,Where was the football before the kitchen? 
+440,garden,The football was in the hallway before the kitchen. Daniel grabbed it from there and moved to the kitchen,Where was the football before the kitchen? 
+441,garden,"The apple was in the garden before Daniel moved there and discarded it. Therefore, it was not",Where was the apple before the bathroom? 
+442,kitchen,"The apple was in the kitchen before John put it down there in the bedroom. So, the answer",Where was the apple before the bedroom? 
+443,bathroom,The context does not provide information on the location of the football before the office. The text mentions,Where was the football before the office? 
+444,bathroom,The context does not provide information on where the football was before Mary went to the office with it.,Where was the football before the office? 
+445,bedroom,"The football was left there by John before he went to the kitchen. (From the context, """,Where was the football before the kitchen? 
+446,bedroom,"The football was before the milk in the kitchen after Mary put it down there. So, the answer",Where was the football before the kitchen? 
+447,bedroom,"The football was before the milk in the bathroom before John picked up the milk. So, the football",Where was the football before the kitchen? 
+448,garden,The football was in the kitchen before John journeyed to the bedroom with it.,Where was the football before the bedroom? 
+449,garden,The football was in the office before the bedroom. Mary picked it up there after John left the milk,Where was the football before the bedroom? 
+450,garden,The football was in the office before it was taken to the bedroom by Mary.,Where was the football before the bedroom? 
+451,garden,"The football was in the garden before the bedroom. The context states that ""Mary grabbed the football",Where was the football before the bedroom? 
+452,bedroom,The apple was in the bedroom before John took it to the bathroom. (John took the apple there,Where was the apple before the bathroom? 
+453,garden,The milk was in Sandra's hands before she dropped it in the kitchen. Daniel later picked,Where was the milk before the bedroom? 
+454,garden,"Before the events described in the context, it is mentioned that Sandra picked up the milk in the",Where was the milk before the bedroom? 
+455,garden,"Before the milk was dropped in the bedroom, it was in Daniel's hand. Therefore, it",Where was the milk before the bedroom? 
+456,garden,"The milk was in Daniel's hand before he went to the bedroom. However, he dropped it",Where was the milk before the bedroom? 
+457,garden,The football was in the office before the bedroom.,Where was the football before the bedroom? 
+458,bathroom,The milk was in the kitchen before the hallway. The context mentions that Daniel picked up the milk,Where was the milk before the hallway? 
+459,garden,The apple was in Sandra's hand before she traveled to the garden. There is no mention,Where was the apple before the office? 
+460,garden,The apple was before the bathroom when Sandra put it down there. (Sandra moved to the,Where was the apple before the office? 
+461,garden,The apple was in the bathroom before Sandra put it down there.,Where was the apple before the office? 
+462,office,The apple was with Sandra before she went to the bathroom. It is mentioned that she put it,Where was the apple before the hallway? 
+463,garden,The football was at the hallway before the kitchen. Sandra put it down there.,Where was the football before the kitchen? 
+464,garden,The football was in the bathroom before the kitchen. Sandra dropped it there before going to the kitchen,Where was the football before the kitchen? 
+465,garden,The football was in the bathroom before the kitchen. Sandra dropped it there before traveling to the kitchen,Where was the football before the kitchen? 
+466,hallway,"The milk was in the kitchen before Daniel went to the office. However, it is later mentioned that",Where was the milk before the office? 
+467,office,The milk was in the kitchen before the hallway. Daniel put it down there before his journey to the,Where was the milk before the hallway? 
+468,office,"The football was with Sandra before she discarded it in the bedroom. Therefore, it was not",Where was the football before the bathroom? 
+469,kitchen,The context does not provide information on where the apple was before it was taken to the garden by John,Where was the apple before the garden? 
+470,kitchen,"The apple was with Daniel before he went to the garden. So, it was in the office or",Where was the apple before the garden? 
+471,bedroom,"The football was discarded in the bedroom before John went to the kitchen. However, it's",Where was the football before the kitchen? 
+472,kitchen,"The apple was last mentioned as being in the office before anyone traveled to the garden. Therefore, the",Where was the apple before the garden? 
+473,bathroom,"Daniel picked up the milk at the office. However, he left it there before continuing on to the",Where was the milk before the office? 
+474,bathroom,The football was in the office before the garden. This is inferred from the text as the last,Where was the football before the garden? 
+475,bedroom,The football was left in the garden before the office. (Sandra left the football there in one,Where was the football before the office? 
+476,bedroom,"The football was at the office before Daniel took it. The context states that ""Sandra got the",Where was the football before the office? 
+477,bedroom,"The milk was left in the office by Daniel before it was taken by John. However, there is",Where was the milk before the office? 
+478,office,The context does not provide information on where the milk was before it was left in the bedroom. The,Where was the milk before the bedroom? 
+479,bathroom,The football was in the office before the hallway. Sandra picked it up there.,Where was the football before the hallway? 
+480,bathroom,The apple was at the office before the hallway. Sandra picked it up from there and later left,Where was the apple before the hallway? 
+481,office,The milk was in Sandra's possession before she went to the bathroom. It is not explicitly,Where was the milk before the hallway? 
+482,garden,The apple was in the hallway before Mary went to the bedroom. Mary put down the apple there before,Where was the apple before the bedroom? 
+483,bathroom,The football was in the hallway before it was picked up by Daniel and then later by Sandra in,Where was the football before the kitchen? 
+484,bathroom,"The apple was in the hallway before Mary put it down there. The context states, ""Mary",Where was the apple before the garden? 
+485,garden,The milk was on the ground in the garden before Sandra picked it up and went to the office,Where was the milk before the office? 
+486,garden,"Mary got the football before going to the garden. Therefore, the football was in the garden before going",Where was the football before the bedroom? 
+487,garden,The football was in the garden before the bedroom.,Where was the football before the bedroom? 
+488,garden,The football was in the garden before it was taken to the bedroom by Mary.,Where was the football before the bedroom? 
+489,garden,The milk was in the kitchen before Daniel took it to the bedroom.,Where was the milk before the bedroom? 
+490,garden,The milk was in Mary's possession before she went to the bedroom. There is no mention of,Where was the milk before the bedroom? 
+491,garden,"The milk was with Sandra before she traveled to the office. However, she dropped it during her",Where was the milk before the office? 
+492,garden,"The milk was dropped before reaching the office by Sandra. Therefore, it was not there when she",Where was the milk before the office? 
+493,garden,The milk was last seen with Mary before she journeyed to the office. There is no mention of,Where was the milk before the office? 
+494,garden,The football was in the office before Sandra went to the bathroom. John went to the office and,Where was the football before the bathroom? 
+495,bathroom,"The football was at the office before Daniel got it. So, the context does not provide information on",Where was the football before the office? 
+496,garden,The milk was in the kitchen before the hallway. Mary dropped it in the hallway after Daniel went back,Where was the milk before the hallway? 
+497,garden,"The milk was in the bathroom before the hallway. Mary went to the bathroom to get the milk,",Where was the milk before the hallway? 
+498,garden,The milk was in the kitchen before Mary went to get it and brought it to the hallway. The,Where was the milk before the hallway? 
+499,hallway,The football was in the hallway before the garden. Sandra moved it there from the bedroom.,Where was the football before the garden? 
+500,garden,"The football was in Sandra's possession before she went to the office. However, it is",Where was the football before the office? 
+501,hallway,The football was with Mary before she went to the kitchen. She took it there. (From the,Where was the football before the kitchen? 
+502,hallway,The football was before the kitchen in the garden. Mary took it there before going to the kitchen.,Where was the football before the kitchen? 
+503,kitchen,The football was in the garden before the hallway. Mary took it there before going to the hallway.,Where was the football before the hallway? 
+504,hallway,The milk was in the garden before it was gotten by Mary.,Where was the milk before the kitchen? 
+505,bedroom,"Before the office, the milk was in Mary's hands. She got the milk from the Method",Where was the milk before the office? 
+506,garden,The context does not provide information on the location of the football before John went to the bedroom.,Where was the football before the bedroom? 
+507,garden,The context does not provide information about the location of the football before John went to the bedroom. The,Where was the football before the bedroom? 
+508,garden,The football was in the kitchen before the bedroom. Sandra had it with her when she traveled to,Where was the football before the bedroom? 
+509,garden,"The football was before the bedroom, but it was left there by Sandra. John went back to",Where was the football before the bedroom? 
+510,office,"The apple was with Sandra before she went to the bathroom. So, it was in the bedroom",Where was the apple before the bathroom? 
+511,bathroom,The football was in the hallway before it was taken to the garden by Daniel.,Where was the football before the garden? 
+512,bathroom,The football was in the hallway before Daniel traveled to the garden with it.,Where was the football before the garden? 
+513,office,"Mary dropped the football there. Therefore, the football was in the kitchen before Mary picked it up again",Where was the football before the kitchen? 
+514,office,The football was in the office before the kitchen. Mary dropped it there. There is no mention of,Where was the football before the kitchen? 
+515,office,The apple was last mentioned as being in Mary's possession before she traveled to the kitchen and dropped,Where was the apple before the kitchen? 
+516,bathroom,"The apple was dropped by Mary in the hallway before she traveled to the bathroom. However, the text",Where was the apple before the hallway? 
+517,hallway,The apple was last mentioned as being in Mary's possession before she traveled to the office. However,Where was the apple before the office? 
+518,kitchen,"The milk was with Mary before she went to the office. However, the text mentions that John",Where was the milk before the office? 
+519,kitchen,"The milk was with Mary before she went to the office. However, it is mentioned that she left",Where was the milk before the office? 
+520,bathroom,"The milk was left in the hallway before Mary picked it up again. However, it was also picked",Where was the milk before the hallway? 
+521,bathroom,"The milk was with Mary before she went to the hallway. She dropped it there. However, the",Where was the milk before the hallway? 
+522,bathroom,The apple was left on the table in the bedroom before John went to the hallway.,Where was the apple before the hallway? 
+523,bathroom,The apple was with Mary before she went back to the bathroom. It is not mentioned where she took,Where was the apple before the kitchen? 
+524,garden,"The apple was in Mary's hand before she went back to the kitchen. However, it was",Where was the apple before the kitchen? 
+525,bedroom,The milk was with Daniel before he went to the bathroom. (Footnote i114),Where was the milk before the bathroom? 
+526,bedroom,The milk was with Daniel before he put it down in the bathroom.,Where was the milk before the bathroom? 
+527,garden,The football was with Daniel before he went to the bedroom.,Where was the football before the bedroom? 
+528,garden,The apple was with Sandra before she went to the bathroom. There is no mention of her leaving,Where was the apple before the bathroom? 
+529,office,The apple was with Sandra before she traveled to the garden. It was not mentioned that she left,Where was the apple before the hallway? 
+530,hallway,The apple was with Sandra before she went to the kitchen. There is no mention of Sandra,Where was the apple before the kitchen? 
+531,bathroom,The context does not provide clear information on where the milk was before John went to the office with it,Where was the milk before the office? 
+532,bathroom,"The milk was discarded by John at the bedroom before he journeyed to the office. Therefore,",Where was the milk before the office? 
+533,bathroom,The context does not provide information about the location of the football before the hallway. The text mentions,Where was the football before the hallway? 
+534,bathroom,"Before the hallway, the football was in John's hand. However, he put it down when",Where was the football before the hallway? 
+535,hallway,The milk was at the office before Sandra left it.,Where was the milk before the bedroom? 
+536,hallway,"The milk was at the office before Sandra left it. So, the context does not provide information",Where was the milk before the bedroom? 
+537,hallway,The milk was at the office before Sandra went to get it.,Where was the milk before the bedroom? 
+538,kitchen,"The apple was left in the hallway before Mary dropped it there. However, the text also mentions",Where was the apple before the hallway? 
+539,garden,"The milk was left at the office by John before he traveled to the garden. However, it'",Where was the milk before the office? 
+540,office,The milk was in the kitchen before it was taken to the garden by Sandra and later discarded,Where was the milk before the garden? 
+541,hallway,"The football was in the hallway before Sandra took it to the garden. Specifically, Mary dropped",Where was the football before the garden? 
+542,bathroom,There is no information in the context about where the milk was before it was picked up by Sandra,Where was the milk before the kitchen? 
+543,bathroom,The context does not provide information on where the milk was before it was picked up by Sandra in,Where was the milk before the kitchen? 
+544,bathroom,The football was with John before he went to the garden. There is no mention of him dropping it,Where was the football before the garden? 
+545,bathroom,The football was with John before he went to the garden.,Where was the football before the garden? 
+546,bathroom,The apple was with John before he went to the garden. He put it down in the garden after,Where was the apple before the garden? 
+547,garden,The context does not provide information on where the football was before Sandra journeyed to the kitchen.,Where was the football before the kitchen? 
+548,garden,Sandra had the football before she journeyed to the garden. It was dropped there after an un,Where was the football before the kitchen? 
+549,office,"The apple was with Daniel before he went to the bedroom. However, the text does not provide information",Where was the apple before the bedroom? 
+550,office,The milk was with Daniel before he went to the bathroom.,Where was the milk before the bathroom? 
+551,garden,Daniel had the milk before he moved to the office. It is not clear where the milk was between,Where was the milk before the kitchen? 
+552,bathroom,"Before the kitchen, the milk was dropped by Sandra and was then picked up by Daniel and taken",Where was the milk before the kitchen? 
+553,bathroom,The football was dropped by Sandra in the context of the given text before she moved to the kitchen,Where was the football before the bedroom? 
+554,bathroom,The milk was dropped in the office by Sandra before Daniel picked it up and brought it to the,Where was the milk before the kitchen? 
+555,bathroom,The milk was dropped by Sandra in the office before she went to the kitchen.,Where was the milk before the kitchen? 
+556,bathroom,The apple was with Sandra before she went to the garden.,Where was the apple before the garden? 
+557,bedroom,The milk was at the household of Angeline's mother before the office. Daniel took it from,Where was the milk before the office? 
+558,bedroom,"The milk was at the garden before the office. Daniel took it there. However, Daniel discarded",Where was the milk before the office? 
+559,bedroom,"The milk was with Daniel before he went to the office. However, he discarded it before entering",Where was the milk before the office? 
+560,bedroom,"The milk was with Daniel before he went to the office. However, he discarded it there.",Where was the milk before the office? 
+561,kitchen,"The football was in the office before it was taken by John. However, the context suggests that John",Where was the football before the bedroom? 
+562,kitchen,"The apple was in Sandra's hand before she went to the office. However, she dropped",Where was the apple before the office? 
+563,kitchen,"The apple was in Sandra's hand before she went to the office. However, there is",Where was the apple before the office? 
+564,kitchen,The apple was with Sandra before she went to the office. She picked it up before her journey,Where was the apple before the office? 
+565,bathroom,The apple was with Sandra before she journeyed to the kitchen.,Where was the apple before the kitchen? 
+566,office,The context does not provide information on where the football was before John journeyed to the garden with it,Where was the football before the garden? 
+567,kitchen,"The football was left in the hallway before John grabbed it again. The context mentions that John """,Where was the football before the hallway? 
+568,kitchen,The football was in the garden before the hallway. Mary was the one who had it there. (,Where was the football before the hallway? 
+569,office,The milk was in the garden before it was picked up by John and taken to the kitchen.,Where was the milk before the kitchen? 
+570,kitchen,The football was in the garden before the hallway. Mary had it there before she dropped it.,Where was the football before the hallway? 
+571,office,The milk was in the garden before it was picked up by John and brought to the kitchen.,Where was the milk before the kitchen? 
+572,hallway,The milk was at the office before the bedroom. Daniel picked it up at the office and later disc,Where was the milk before the bedroom? 
+573,hallway,The context does not provide information on where the milk was before it was picked up by Daniel in the,Where was the milk before the bedroom? 
+574,office,"Before Daniel discarded the milk in the context provided, it was in the kitchen.",Where was the milk before the garden? 
+575,office,"Before the garden, the milk was with Daniel in the bedroom. However, in the given text,",Where was the milk before the garden? 
+576,office,"The milk was with Daniel before he went to the garden. He discarded it there, but it",Where was the milk before the garden? 
+577,bedroom,"Daniel moved to the garden with the milk before going to the office. However, he discarded the",Where was the milk before the office? 
+578,bedroom,"Daniel had the milk before going to the garden. However, he discarded it before reaching the hallway",Where was the milk before the office? 
+579,kitchen,The context does not provide information on where the milk was before it was in the hallway. The last,Where was the milk before the hallway? 
+580,office,"The milk was at the National Service Stores before Mary took it to the bedroom. However, she",Where was the milk before the bedroom? 
+581,hallway,The milk was in the kitchen before Mary took it to the bedroom.,Where was the milk before the bedroom? 
+582,hallway,"The milk was in the hallway before Mary went to the bedroom with it. However, she discarded",Where was the milk before the bedroom? 
+583,bathroom,The football was with Daniel before he went to the hallway.,Where was the football before the hallway? 
+584,bathroom,The football was with Daniel before he went to the hallway.,Where was the football before the hallway? 
+585,hallway,The apple was in the kitchen before it was picked up by Daniel and then dropped. There is no,Where was the apple before the bedroom? 
+586,bedroom,The apple was with Mary before she moved to the hallway.,Where was the apple before the hallway? 
+587,hallway,The apple was in the bathroom before Sandra moved to the bedroom with it.,Where was the apple before the bedroom? 
+588,hallway,"The apple was with Daniel before he traveled to the bathroom. After that, Sandra grabbed it while",Where was the apple before the bedroom? 
+589,kitchen,"Daniel dropped the milk in the hallway before going to the bedroom. Therefore, the milk was in the",Where was the milk before the bedroom? 
+590,garden,The football was with John before he went to the hallway.,Where was the football before the hallway? 
+591,garden,"Before the hallway, John was holding the football.",Where was the football before the hallway? 
+592,kitchen,Daniel was holding the milk before he went to the office.,Where was the milk before the office? 
+593,kitchen,"Daniel had the milk with him in the hallway before he went to the office. However, he left",Where was the milk before the office? 
+594,office,The milk was left in the kitchen before Daniel traveled to the bathroom. (Daniel left the milk,Where was the milk before the bathroom? 
+595,office,"Daniel picked up the milk before going to the kitchen. So, the milk was in Daniel's",Where was the milk before the kitchen? 
+596,garden,The apple was in the chest in the office before Mary took it to the bathroom.,Where was the apple before the bathroom? 
+597,garden,"The milk was in Daniel's hand before the bathroom. However, in the next sentence, it",Where was the milk before the bathroom? 
+598,kitchen,"The football was in the kitchen before John traveled to the office. (From the context, it was",Where was the football before the office? 
+599,kitchen,The milk was with Sandra before she went back to the garden. The context does not provide information,Where was the milk before the garden? 
+600,kitchen,The milk was with Sandra before she went back to the garden. There is no mention of Sand,Where was the milk before the garden? 
+601,kitchen,The milk was left before the office by Sandra before she went back to the garden. (From,Where was the milk before the office? 
+602,office,"Before the football was dropped in the hallway, it was in Mary's possession. However, the",Where was the football before the hallway? 
+603,office,"Before the hallway, the football was with Mary.",Where was the football before the hallway? 
+604,office,"Daniel had the football in the office before he went to the bedroom. However, he left it there",Where was the football before the bedroom? 
+605,office,The football was with Daniel in the bedroom before he left it. There is no mention of Daniel dropping,Where was the football before the bedroom? 
+606,office,The milk was in the office before Daniel dropped it.,Where was the milk before the bedroom? 
+607,kitchen,The apple was with Sandra before she went to the office. She picked it up from the hallway,Where was the apple before the office? 
+608,office,The football was in Daniel's possession in the bedroom before he went to the hallway.,Where was the football before the hallway? 
+609,bathroom,"Before the context mentions John traveling to the bedroom with the milk, it was in the garden or",Where was the milk before the bedroom? 
+610,bedroom,The context does not provide information on where the milk was before it was picked up by Daniel in the,Where was the milk before the kitchen? 
+611,garden,"The football was with Mary before she journeyed to the office, but there is no mention of where",Where was the football before the office? 
+612,garden,The context does not provide information on where the football was before Mary journeyed to the office.,Where was the football before the office? 
+613,garden,"The football was with Mary before she went to the office. However, the context does not provide information",Where was the football before the office? 
+614,bedroom,The apple was with John before he went to the kitchen. The context does not mention where he put,Where was the apple before the kitchen? 
+615,bedroom,The apple was with John in the hallway before he went back to the office.,Where was the apple before the kitchen? 
+616,bedroom,"The milk was dropped by Mary in the office before Daniel went there. However, the text does not",Where was the milk before the office? 
+617,bedroom,The milk was at the kitchen before John took it to the office. There is no mention of Sand,Where was the milk before the office? 
+618,bedroom,The apple was in the kitchen before John took it to the bathroom.,Where was the apple before the bathroom? 
+619,hallway,The apple was on the ground in the bedroom before Sandra moved to the office. (Sandra,Where was the apple before the office? 
+620,hallway,The apple was dropped by Sandra in the location where Daniel had previously put it down before going to,Where was the apple before the office? 
+621,hallway,"The apple was on the ground before the office, as mentioned by Daniel when he put it down there",Where was the apple before the office? 
+622,hallway,The milk was in the kitchen before Sandra took it to the bathroom.,Where was the milk before the bathroom? 
+623,garden,The football was in the hallway before Sandra went to the bathroom.,Where was the football before the bathroom? 
+624,garden,"The football was in Sandra's possession before she went to the bathroom. However, the context",Where was the football before the bathroom? 
+625,bathroom,The apple was with Mary before she went to the office. She grabbed it before leaving the context provided,Where was the apple before the office? 
+626,garden,The apple was in the hallway before Sandra went to the bathroom. Mary had grabbed the apple earlier,Where was the apple before the bathroom? 
+627,bathroom,The context does not provide information on where the apple was before Mary went to the office. The text,Where was the apple before the office? 
+628,kitchen,The milk was with Sandra before she went to the office. There is no mention of the milk,Where was the milk before the garden? 
+629,kitchen,The milk was with Sandra before she went to the office. She discarded it there. However,Where was the milk before the garden? 
+630,office,The milk was discarded on an unspecified location before Sandra took it to the bedroom.,Where was the milk before the bedroom? 
+631,office,"The milk was discarded on the floor in the room where Daniel was previously, before Sandra took",Where was the milk before the bedroom? 
+632,bedroom,"Before Mary went to the bathroom, she was in the kitchen with the apple. So, the apple",Where was the apple before the bathroom? 
+633,hallway,The apple was with Daniel before he went to the bathroom. The context does not provide information on what,Where was the apple before the bathroom? 
+634,bathroom,The apple was with Daniel before he went to the hallway.,Where was the apple before the hallway? 
+635,office,"Before the context mentions Mary going to the bathroom with the milk, it is mentioned that she went",Where was the milk before the bathroom? 
+636,bathroom,The milk was left in the hallway before Mary went back to the office.,Where was the milk before the office? 
+637,kitchen,The football was with Sandra before she went to the garden. It was not mentioned where it was,Where was the football before the garden? 
+638,kitchen,The milk was at the Maison Lavenue before John traveled to the hallway.,Where was the milk before the hallway? 
+639,kitchen,"Before the milk was dropped in the hallway, it was with John.",Where was the milk before the hallway? 
+640,office,The context does not provide information on where the milk was before it was dropped in the bathroom. The,Where was the milk before the bathroom? 
+641,office,The milk was dropped in the office before John went to the bathroom.,Where was the milk before the bathroom? 
+642,office,The context does not provide information on where the milk was before it was dropped in the bathroom. The,Where was the milk before the bathroom? 
+643,bathroom,The context does not provide information on where the apple was before it was taken or left in the kitchen,Where was the apple before the kitchen? 
+644,bathroom,The apple was dropped by John in the hallway before he journeyed to the kitchen.,Where was the apple before the kitchen? 
+645,bathroom,"Before the kitchen, the apple was in the hallway. Sandra picked it up there and later left",Where was the apple before the kitchen? 
+646,bedroom,"The milk was in Sandra's hands before she went to the garden. However, she dropped",Where was the milk before the garden? 
+647,garden,The milk was on the ground in the kitchen before Sandra took it to the bedroom.,Where was the milk before the bedroom? 
+648,office,"Before the context mentions Mary discarding the milk in the bathroom, it was in the kitchen.",Where was the milk before the bathroom? 
+649,office,"Before the bathroom, the milk was in Mary's possession, but she discarded it. There",Where was the milk before the bathroom? 
+650,office,The milk was in the kitchen before Sandra took it to the bathroom.,Where was the milk before the bathroom? 
+651,office,"Before the kitchen, the apple was in the bedroom with Daniel. Sandra took it from there and",Where was the apple before the kitchen? 
+652,office,"Before the apple was in the kitchen, it was in the bedroom. Sandra took it from there",Where was the apple before the kitchen? 
+653,garden,The milk was in the bathroom before Sandra picked it up and took it to the office.,Where was the milk before the office? 
+654,garden,"The milk was before the office when Sandra picked it up there. However, she dropped it later",Where was the milk before the office? 
+655,garden,"The milk was in Sandra's hands before she went back to the office. However, she",Where was the milk before the office? 
+656,hallway,"The apple was at the garden before the bedroom. In the context, Daniel discarded the apple there",Where was the apple before the bedroom? 
+657,office,Mary got the football from the garden before going to the hallway.,Where was the football before the hallway? 
+658,office,"Mary had the football before she journeyed to the office. However, the text does not mention where",Where was the football before the hallway? 
+659,bedroom,The apple was in Mary's hand before she dropped it in the hallway.,Where was the apple before the hallway? 
+660,hallway,"Before the events in the garden, the milk was in the bathroom with Daniel.",Where was the milk before the garden? 
+661,hallway,The milk was with Daniel before he went to the garden. He left it there.,Where was the milk before the garden? 
+662,kitchen,The football was before the hallway with Sandra before she put it down.,Where was the football before the hallway? 
+663,garden,The context does not provide clear information on where the football was before it was put down at the office,Where was the football before the office? 
+664,hallway,"The apple was in the kitchen before Sandra moved to the bathroom. However, the text mentions",Where was the apple before the bathroom? 
+665,hallway,"The apple was with Sandra in the bathroom before she went back to the bathroom. So, the",Where was the apple before the bathroom? 
+666,bedroom,The context does not provide information on where the football was before Sandra moved to the bathroom. The,Where was the football before the bathroom? 
+667,bedroom,The context does not provide information about the location of the football before Sandra went to the bathroom with,Where was the football before the bathroom? 
+668,bedroom,The apple was in the bathroom before John went to the hallway with it. (John picked up the,Where was the apple before the hallway? 
+669,garden,The football was in the garden before John journeyed to the office.,Where was the football before the office? 
+670,garden,The context does not provide information on where the football was before John traveled to the office. The context,Where was the football before the office? 
+671,garden,The context does not provide information about the location of the football before John journeyed to the office.,Where was the football before the office? 
+672,garden,The text does not provide information on the location of the football before the office. The text mentions,Where was the football before the office? 
+673,kitchen,The milk was with Daniel before he went to the garden.,Where was the milk before the garden? 
+674,kitchen,The milk was with Daniel before he went to the garden.,Where was the milk before the garden? 
+675,bedroom,The football was in the hallway before it was in the kitchen. Mary left the football in the hallway,Where was the football before the kitchen? 
+676,bedroom,The football was in the hallway before Mary moved to the kitchen. Daniel picked it up from the hallway,Where was the football before the kitchen? 
+677,hallway,"The football was left in the room before Daniel moved to the bedroom. Therefore, it was in the",Where was the football before the bedroom? 
+678,hallway,The football was in the hallway before Daniel moved to the bedroom.,Where was the football before the bedroom? 
+679,office,The milk was in the bedroom before Daniel took it to the bathroom.,Where was the milk before the bathroom? 
+680,garden,"The milk was discarded by John in the office after he grabbed it from the kitchen. Therefore,",Where was the milk before the office? 
+681,garden,The milk was in the kitchen before it was taken to the office by John. The context states that,Where was the milk before the office? 
+682,garden,"Before the kitchen, the apple was in Daniel's possession. He had picked it up from an",Where was the apple before the kitchen? 
+683,kitchen,The apple was last mentioned in the context being held by Sandra in the kitchen before she traveled to,Where was the apple before the garden? 
+684,kitchen,The apple was in the hallway before it was moved to the garden by Mary.,Where was the apple before the garden? 
+685,kitchen,The apple was with Mary in the hallway before she went to the garden.,Where was the apple before the garden? 
+686,bathroom,John was holding the football before he went to the hallway.,Where was the football before the hallway? 
+687,garden,The milk was in the hallway before Mary went to the bathroom. John dropped it there earlier in the,Where was the milk before the bathroom? 
+688,kitchen,The apple was dropped in the bedroom by Daniel before he went to the bathroom.,Where was the apple before the bathroom? 
+689,kitchen,"The apple was dropped in the kitchen before Daniel went to the bathroom. However, it is mentioned that",Where was the apple before the bathroom? 
+690,kitchen,The apple was dropped near the nest before the bathroom. The context does not provide information on where the,Where was the apple before the bathroom? 
+691,garden,The apple was dropped at the office by Daniel before it was picked up by Sandra and then taken,Where was the apple before the kitchen? 
+692,garden,The apple was in the office before the kitchen. Daniel picked it up from there and then went back,Where was the apple before the kitchen? 
+693,bathroom,The milk was in the bathroom before the hallway. Mary put it down there after getting it. (,Where was the milk before the hallway? 
+694,bathroom,"The milk was before the hallway in the context of the text, as Mary got it from there before",Where was the milk before the hallway? 
+695,bathroom,"The milk was at the bathroom before Mary journeyed to it. Therefore, it was not in the",Where was the milk before the hallway? 
+696,bedroom,"Before the kitchen, the apple was in the cupboard in the office where Mary had put it away",Where was the apple before the kitchen? 
+697,bathroom,"The apple was discarded before the office before Mary went to the bedroom. Therefore, it was not",Where was the apple before the bedroom? 
+698,garden,The apple was in the hallway before it was taken by Daniel to the bedroom.,Where was the apple before the bedroom? 
+699,garden,The apple was with Mary in the hallway before it was taken by Daniel and brought to the bedroom.,Where was the apple before the bedroom? 
+700,bedroom,The apple was last mentioned as being in Daniel's possession before he traveled to the garden and disc,Where was the apple before the garden? 
+701,bedroom,The apple was last mentioned as being in Daniel's possession before he journeyed to the kitchen.,Where was the apple before the garden? 
+702,bedroom,The apple was last mentioned as being in Daniel's possession before he went to the garden. However,Where was the apple before the garden? 
+703,garden,"The apple was in Daniel's hand before he went to the hallway. However, he put it",Where was the apple before the hallway? 
+704,office,"The apple was with Daniel before he went to the garden. However, he dropped it before reaching the",Where was the apple before the garden? 
+705,hallway,The football was with Sandra before she went to the kitchen.,Where was the football before the kitchen? 
+706,hallway,The football was with Sandra before she went to the kitchen.,Where was the football before the kitchen? 
+707,hallway,The football was with Sandra before she went to the kitchen.,Where was the football before the kitchen? 
+708,bathroom,The milk was in Sandra's hands when she went to the hallway. There is no mention,Where was the milk before the hallway? 
+709,bathroom,The milk was in Sandra's hand before she went to the bathroom. She discarded it,Where was the milk before the hallway? 
+710,bedroom,"The football was discarded in the hallway before Mary journeyed to the kitchen. However, it is",Where was the football before the kitchen? 
+711,hallway,The apple was before the garden before Sandra went to the bedroom.,Where was the apple before the bedroom? 
+712,hallway,"The apple was discarded there before Sandra went to the bedroom. However, the exact location is",Where was the apple before the bedroom? 
+713,hallway,The football was in the hallway before it was taken by Sandra to the bedroom.,Where was the football before the bedroom? 
+714,hallway,The milk was dropped at the kitchen by Daniel before John picked it up and traveled to the office.,Where was the milk before the office? 
+715,hallway,The apple was in the bedroom before Sandra picked it up again. There is no mention of the,Where was the apple before the bedroom? 
+716,hallway,The apple was with Sandra before she went to the bedroom. It is mentioned that she left the,Where was the apple before the bedroom? 
+717,bedroom,The apple was in the bedroom before Sandra went to the bathroom.,Where was the apple before the bathroom? 
+718,office,The context does not provide information on where the milk was before it was taken to the bedroom by John,Where was the milk before the bedroom? 
+719,bathroom,The context does not provide information on where the milk was before it was taken to the office by John,Where was the milk before the office? 
+720,hallway,"The milk was in the bathroom before Daniel went to the garden and discarded it there. However,",Where was the milk before the garden? 
+721,hallway,The milk was in the bathroom before it was dropped by Daniel in the garden.,Where was the milk before the garden? 
+722,hallway,The milk was in the bathroom before it was dropped by Sandra in the garden.,Where was the milk before the garden? 
+723,kitchen,The football was left there before Mary went to the bedroom. The context does not provide information on where,Where was the football before the bedroom? 
+724,kitchen,The football was left behind at the spot where Mary's wheelchair became entangled with a delivery,Where was the football before the bedroom? 
+725,kitchen,The football was left in the park before the bedroom.,Where was the football before the bedroom? 
+726,hallway,The football was in the bedroom before the bathroom. Daniel took it there from the kitchen.,Where was the football before the bathroom? 
+727,bathroom,The football was in the office before it was picked up by John and taken to the hallway.,Where was the football before the hallway? 
+728,garden,"The milk was before the hallway, specifically at the location where Sandra dropped it. However, the",Where was the milk before the hallway? 
+729,garden,"The milk was before the hallway, but Sandra dropped it there. The context does not provide information",Where was the milk before the hallway? 
+730,garden,"The milk was dropped by Sandra in the kitchen before she journeyed to the hallway. Therefore,",Where was the milk before the hallway? 
+731,bedroom,"Before the hallway, the football was in Mary's possession. She dropped it there during the conversation",Where was the football before the hallway? 
+732,bedroom,"Before Mary dropped it in the hallway, the football was in an unspecified location. The text",Where was the football before the hallway? 
+733,bedroom,The milk was at the office before the hallway. Daniel got it there and later discarded it there,Where was the milk before the hallway? 
+734,bedroom,The milk was at the office before the hallway. Daniel got the milk from the office and later disc,Where was the milk before the hallway? 
+735,bedroom,"Before the hallway, the milk was in John's hand. However, the text does not explicitly",Where was the milk before the hallway? 
+736,bedroom,The milk was in the kitchen before John moved towards the hallway.,Where was the milk before the hallway? 
+737,bedroom,"Before John journeyed to the hallway, he had the milk with him. Therefore, the milk was",Where was the milk before the hallway? 
+738,garden,The milk was in the cupboard in the kitchen before Daniel took it to the office.,Where was the milk before the office? 
+739,garden,The milk was in the kitchen before Daniel traveled to the office. Sandra picked it up from there,Where was the milk before the office? 
+740,bedroom,"The milk was in Daniel's hands before he went to the hallway. However, he discarded",Where was the milk before the hallway? 
+741,bedroom,"The milk was in Daniel's hands before the hallway. However, Daniel discarded it in the",Where was the milk before the hallway? 
+742,bathroom,The football was in the kitchen before Sandra took it to the garden.,Where was the football before the garden? 
+743,hallway,The milk was left by John in the kitchen before he went to the bathroom.,Where was the milk before the bathroom? 
+744,kitchen,"Before the garden, the milk was in the kitchen. John put it down there before he traveled to",Where was the milk before the garden? 
+745,kitchen,"The football was left in the kitchen before Sandra went to the bathroom. (From the context,",Where was the football before the bathroom? 
+746,kitchen,"The football was in the office before Sandra went to the bathroom. (From the context provided,",Where was the football before the bathroom? 
+747,bedroom,"The apple was in the bedroom before Sandra went to the garden. The context mentions that """,Where was the apple before the garden? 
+748,garden,"The apple was with Sandra before she went to the hallway. However, she dropped it there after",Where was the apple before the hallway? 
+749,bedroom,"The apple was with Sandra before she went to the garden. She dropped it there. So,",Where was the apple before the garden? 
+750,bedroom,The apple was with Sandra before she went to the garden. It is mentioned that she dropped the,Where was the apple before the garden? 
+751,garden,The milk was left at the garden before John journeyed to the office. (John left the milk,Where was the milk before the office? 
+752,hallway,The milk was in the kitchen before Sandra took it to the garden.,Where was the milk before the garden? 
+753,hallway,"Before the garden, the milk was with John in the hallway. (John left the milk in the",Where was the milk before the garden? 
+754,kitchen,"The football was in the kitchen before Mary went there from the garden and left it there. So,",Where was the football before the office? 
+755,bathroom,The football was with Mary in the garden before she went to the hallway. She dropped it there.,Where was the football before the hallway? 
+756,bathroom,"The football was in the garden before it was dropped there by Mary. Therefore, it was not in",Where was the football before the hallway? 
+757,hallway,The milk was in the kitchen before Sandra went to the office.,Where was the milk before the office? 
+758,office,The milk was with Sandra before she went to the bathroom.,Where was the milk before the bathroom? 
+759,bedroom,"Before the garden, the apple was in the kitchen. Mary was the one who took the apple there",Where was the apple before the garden? 
+760,kitchen,The apple was in the kitchen before the bedroom. Mary went to the kitchen and grabbed the apple before,Where was the apple before the bedroom? 
+761,garden,"Before the kitchen, the apple was in the context of the text, it was in Mary's",Where was the apple before the kitchen? 
+762,bathroom,"The football was on the ground before the hallway, as John put it down there before moving towards the",Where was the football before the hallway? 
+763,bathroom,"The football was in John's possession before he went to the garden. So, it was with",Where was the football before the garden? 
+764,garden,The football was in the hallway before the bedroom. John picked it up there and then Daniel took it,Where was the football before the bedroom? 
+765,bathroom,"The football was in John's possession before he went to the garden. Therefore, it was with",Where was the football before the garden? 
+766,office,"The football was dropped by Mary in the hallway before she went back to the bathroom. However, the",Where was the football before the hallway? 
+767,office,"Before the football was in the hallway, it was in Mary's possession as she journeyed to",Where was the football before the hallway? 
+768,garden,"Before the context provided, there is no mention of the milk being in the office or being moved to",Where was the milk before the office? 
+769,garden,"Before the context provided, there is no information given about the location of the milk before John journeyed",Where was the milk before the office? 
+770,garden,"Before the context provided, there is no information given about the location of the milk before the office.",Where was the milk before the office? 
+771,garden,The apple was with John in the garden before he went to the hallway.,Where was the apple before the hallway? 
+772,bathroom,"Before the hallway, the milk was in John's hand. He put it down in the hallway",Where was the milk before the hallway? 
+773,bathroom,"Before John picked it up in the garden, the milk was left in the hallway by John.",Where was the milk before the hallway? 
+774,garden,"Before the kitchen, the milk was with John in the garden.",Where was the milk before the kitchen? 
+775,bedroom,The football was last seen with John in the garden before it was left there by him in the hallway,Where was the football before the hallway? 
+776,garden,The milk was in Mary's hands before she discarded it in the hallway.,Where was the milk before the hallway? 
+777,garden,"The milk was in John's hand before he went to the hallway. However, Mary discarded",Where was the milk before the hallway? 
+778,garden,The milk was in John's hand before he traveled to the hallway.,Where was the milk before the hallway? 
+779,garden,"The milk was in Heywood's hand before the hallway. However, Mary discarded it there",Where was the milk before the hallway? 
+780,bedroom,The milk was in the hallway before it was put down by John.,Where was the milk before the garden? 
+781,office,"The milk was in John's hand before he went to the bedroom. However, he put it",Where was the milk before the bedroom? 
+782,office,"Before the bedroom, the milk was in John's hands. However, when he went back to",Where was the milk before the bedroom? 
+783,bedroom,The apple was with Mary before she went to the garden. It is mentioned that she went to the,Where was the apple before the office? 
+784,bedroom,The apple was with Mary before she went to the office. It was picked up by her in the,Where was the apple before the office? 
+785,office,"The apple was with Mary before she went to the garden. It was dropped there by her twice,",Where was the apple before the garden? 
+786,office,The context does not provide information on where the milk was before it was taken to the kitchen. The,Where was the milk before the kitchen? 
+787,hallway,The apple was discarded there before the bedroom. The context does not provide information on the exact location,Where was the apple before the bedroom? 
+788,hallway,The apple was discarded by Daniel in the bedroom after the pursuit of the bandits. Before that,Where was the apple before the bedroom? 
+789,kitchen,Mary was holding the football before she traveled to the hallway.,Where was the football before the hallway? 
+790,kitchen,The football was with Mary before she went to the kitchen. It is not mentioned where she left it,Where was the football before the hallway? 
+791,hallway,"The milk was in the kitchen before Daniel traveled to the garden. (From the context, it is",Where was the milk before the garden? 
+792,bathroom,"Daniel had picked up the milk before going to the bedroom. Therefore, it was not in the garden",Where was the milk before the garden? 
+793,bedroom,"Before Daniel put it down in the bathroom, the milk was likely with Daniel or in the place where",Where was the milk before the bathroom? 
+794,kitchen,The milk was with Daniel before he dropped it in the garden.,Where was the milk before the hallway? 
+795,bathroom,The context does not provide information on where the milk was before the office. The last mention of the,Where was the milk before the office? 
+796,garden,"The milk was last seen with Daniel before he went to the bathroom. However, it was later dropped",Where was the milk before the bathroom? 
+797,bedroom,The apple was in Daniel's possession before he went to the bathroom.,Where was the apple before the bathroom? 
+798,hallway,The football was in the hallway before the kitchen. This is inferred from the text as Sandra,Where was the football before the kitchen? 
+799,hallway,The football was in the bedroom before the kitchen. It was first mentioned as being in the bedroom when,Where was the football before the kitchen? 
+800,hallway,The context does not provide information on where the football was before it was picked up by John in the,Where was the football before the kitchen? 
+801,garden,The football was with Sandra before she went to the bathroom. It is not mentioned where she disc,Where was the football before the bedroom? 
+802,hallway,The apple was in the little shell box in the top drawer of the dresser before Mary went,Where was the apple before the bedroom? 
+803,garden,"Before the hallway, the apple was in Mary's hand.",Where was the apple before the hallway? 
+804,garden,The milk was left at the bathroom before Sandra went to the office.,Where was the milk before the office? 
+805,bathroom,The context does not provide information on where the milk was before it was left in the bedroom.,Where was the milk before the bedroom? 
+806,bathroom,The context does not provide information on where the apple was before Daniel moved to the garden.,Where was the apple before the garden? 
+807,garden,"Before the office, the apple was in Daniel's hand. However, the text states that Daniel",Where was the apple before the office? 
+808,garden,"The apple was in Daniel's hand before he went to the office. However, it is not",Where was the apple before the office? 
+809,garden,"The apple was with Daniel before he went to the office. However, it is mentioned that he put",Where was the apple before the office? 
+810,hallway,The context does not provide information on where the apple was before it was taken to the garden. The,Where was the apple before the garden? 
+811,hallway,The football was left in the garden before John traveled to the kitchen.,Where was the football before the kitchen? 
+812,hallway,The football was left in the garden before the kitchen.,Where was the football before the kitchen? 
+813,hallway,"The football was before the kitchen in the context of the text, specifically in the cave or the area",Where was the football before the kitchen? 
+814,kitchen,The context does not provide information on where the football was before it was mentioned that Sandra went to,Where was the football before the hallway? 
+815,hallway,"The football was before the kitchen when Sandra went there with it. However, later in the text",Where was the football before the kitchen? 
+816,kitchen,"The milk was discarded by John in the hallway before they went to the garden. Therefore, it",Where was the milk before the garden? 
+817,hallway,"Before Mary went to the bathroom, she had the milk in her hand. So, it was in",Where was the milk before the bathroom? 
+818,office,The football was with Mary before the hallway. She had it when she travelled to the bathroom and,Where was the football before the hallway? 
+819,office,The football was in the bathroom before the hallway. Daniel picked it up from there.,Where was the football before the hallway? 
+820,office,The football was in the kitchen before the hallway. Daniel picked it up from the kitchen and dropped it,Where was the football before the hallway? 
+821,kitchen,The milk was at the house before John took it to the bathroom. The context does not provide information,Where was the milk before the bathroom? 
+822,kitchen,The context does not explicitly state where the milk was before it was taken to the bathroom by Mary.,Where was the milk before the bathroom? 
+823,bathroom,The football was in the office before the bedroom. Mary picked it up there and later put it down,Where was the football before the bedroom? 
+824,bathroom,"The football was in the garden before Mary went to the bedroom with it. However, there are some",Where was the football before the bedroom? 
+825,hallway,The context does not provide clear information on where the milk was before it was taken to the bedroom by,Where was the milk before the bedroom? 
+826,bathroom,The text does not provide information on where the apple was before Mary took it in the hallway.,Where was the apple before the hallway? 
+827,bathroom,"Before Mary put it down in the hallway, the apple was with her when she went to the bathroom",Where was the apple before the hallway? 
+828,bathroom,"Mary had the apple before she traveled to the bathroom. However, she put it down in the hallway",Where was the apple before the hallway? 
+829,bathroom,"Before the apple was in Daniel's hand in the hallway, it was in Mary's hand",Where was the apple before the hallway? 
+830,bathroom,"Before the apple was in the hallway, it was in Mary's hand. The context states that",Where was the apple before the hallway? 
+831,hallway,The football was in the hallway before John journeyed to the garden.,Where was the football before the garden? 
+832,bathroom,"The milk was with Sandra before she traveled to the bathroom. Therefore, it was not in the",Where was the milk before the hallway? 
+833,bathroom,The milk was left there by Sandra before she moved to the hallway.,Where was the milk before the hallway? 
+834,bathroom,The milk was left in the bathroom before the hallway. (Sandra left it there.),Where was the milk before the hallway? 
+835,hallway,The milk was left in the bedroom before the kitchen.,Where was the milk before the kitchen? 
+836,hallway,The milk was in the bedroom before it was picked up by Sandra.,Where was the milk before the kitchen? 
+837,bathroom,"The football was left in the kitchen before Mary traveled to the office. However, Daniel later picked it",Where was the football before the office? 
+838,bedroom,The football was left in the bathroom by Mary before she traveled to the office.,Where was the football before the bathroom? 
+839,bedroom,"The football was in the bathroom before it was picked up by Mary. Mary went to the bathroom,",Where was the football before the office? 
+840,hallway,The milk was in the kitchen before John picked it up in the bedroom.,Where was the milk before the bedroom? 
+841,hallway,The milk was in the kitchen before John picked it up and took it to the bedroom.,Where was the milk before the bedroom? 
+842,hallway,The milk was in the kitchen before John put it down there. John picked it up from the kitchen,Where was the milk before the bedroom? 
+843,bedroom,"The apple was with Mary before she went to the office. However, she dropped it there when she",Where was the apple before the office? 
+844,hallway,"The apple was in Sandra's possession before she went to the bedroom. However, she disc",Where was the apple before the bedroom? 
+845,hallway,The football was in the hallway before Sandra went to the bedroom.,Where was the football before the bedroom? 
+846,bedroom,"The milk was in the hallway before the bathroom. However, it was mentioned that Mary left the milk",Where was the milk before the bathroom? 
+847,hallway,"The football was with Sandra before she went to the bedroom. However, she left it before entering",Where was the football before the bedroom? 
+848,kitchen,The milk was in the kitchen before Sandra went to the bathroom. Daniel picked it up and left,Where was the milk before the bathroom? 
+849,office,The football was with Sandra before she went to the bathroom.,Where was the football before the bathroom? 
+850,office,The context does not provide information on where the football was before it was taken to the kitchen by Mary,Where was the football before the kitchen? 
+851,bedroom,"The apple was discarded by Daniel at the location of the office in the given context. However,",Where was the apple before the office? 
+852,bedroom,The apple was with Mary before she went to the bathroom. It is not mentioned that she took the,Where was the apple before the office? 
+853,bathroom,"The milk was in the hallway before Daniel took it to the bedroom. (From the context, """,Where was the milk before the bedroom? 
+854,hallway,The football was in the hallway before Daniel and Sandra both went to the garden.,Where was the football before the garden? 
+855,garden,"The milk was in John's hands before he went to the bedroom. However, the text does",Where was the milk before the bedroom? 
+856,kitchen,The football was in the hallway before John traveled to the garden.,Where was the football before the garden? 
+857,bedroom,"Before the office, the football was with John.",Where was the football before the office? 
+858,garden,"Before the bedroom, the football was in John's possession. However, the text does not explicitly",Where was the football before the bedroom? 
+859,hallway,"Before the kitchen, the football was with John. So, John had it when he moved to the",Where was the football before the kitchen? 
+860,hallway,"Before the kitchen, John took the football from an unspecified location and went there with it.",Where was the football before the kitchen? 
+861,hallway,"Before the kitchen, John had the football with him. However, the text does not mention him leaving",Where was the football before the kitchen? 

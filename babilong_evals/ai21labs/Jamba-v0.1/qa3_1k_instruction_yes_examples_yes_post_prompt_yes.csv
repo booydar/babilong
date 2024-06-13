@@ -1,0 +1,2749 @@
+Unnamed: 0,target,output,question
+0,office,Answer: Before the bathroom the apple was in the garden.,Where was the apple before the bathroom? 
+1,office,"Answer: Before the hallway the apple was in the garden.
+
+Question: Where was the milk before the garden",Where was the apple before the hallway? 
+2,office,"Answer: Before the hallway the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the hallway? 
+3,bathroom,"Answer: Before the garden the football was in the hallway.
+
+I'm not sure if this is the",Where was the football before the garden? 
+4,bathroom,"Answer: Before the garden the football was in the hallway.
+
+
+A: I think you can use a",Where was the football before the garden? 
+5,garden,"Answer: Before the bathroom the apple was in the garden.
+
+
+A: I think you can use a simple",Where was the apple before the bathroom? 
+6,kitchen,"Answer: Before the office the milk was in the garden.
+
+
+A: I think you can use a simple",Where was the milk before the office? 
+7,kitchen,"Answer: Before the office the apple was in the garden.
+
+• I'm not sure if this is a",Where was the apple before the office? 
+8,kitchen,Answer: Before the office the apple was in the garden.,Where was the apple before the office? 
+9,garden,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+10,garden,"Answer: Before the bedroom the apple was in the garden.
+
+
+A: I think you can use a simple",Where was the apple before the bedroom? 
+11,garden,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+12,garden,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the bathroom? 
+13,garden,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm not sure if this is the",Where was the milk before the bathroom? 
+14,kitchen,Answer: Before the garden the football was in the office.,Where was the football before the garden? 
+15,kitchen,Answer: Before the garden the football was in the office.,Where was the football before the garden? 
+16,garden,"Answer: Before the bedroom the milk was in the office.
+
+Question: Where was the apple before the garden?",Where was the milk before the bedroom? 
+17,garden,Answer: Before the bedroom the milk was in the office.,Where was the milk before the bedroom? 
+18,bedroom,"Answer: Before the bathroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bathroom? 
+19,garden,Answer: Before the hallway the football was in the garden.,Where was the football before the hallway? 
+20,garden,"Answer: Before the office the football was in the garden.
+
+I'm looking for a way to solve",Where was the football before the office? 
+21,hallway,"Answer: Before the garden the football was in the bedroom.
+
+
+A: I think you can use a",Where was the football before the garden? 
+22,office,Answer: Before the kitchen the milk was in the office.,Where was the milk before the kitchen? 
+23,kitchen,Answer: Before the bedroom the milk was in the kitchen.,Where was the milk before the bedroom? 
+24,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+25,office,"Answer: Before the bedroom the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the bedroom? 
+26,garden,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the office? 
+27,garden,"Answer: Before the office the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the office? 
+28,garden,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if this",Where was the apple before the office? 
+29,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the hallway? 
+30,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+I'm not sure if this is the",Where was the apple before the kitchen? 
+31,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+I am looking for a solution that can be",Where was the apple before the kitchen? 
+32,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+Question: Where was the apple before the garden",Where was the milk before the bedroom? 
+33,bedroom,"Answer: Before the garden the milk was in the bedroom.
+
+I have a lot of these questions and I",Where was the milk before the garden? 
+34,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the bathroom? 
+35,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the kitchen? 
+36,garden,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the hallway? 
+37,garden,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+38,garden,"Answer: Before the hallway the milk was in the office.
+
+• I'm not sure I understand the",Where was the milk before the hallway? 
+39,hallway,Answer: Before the bathroom the milk was in the kitchen.,Where was the milk before the bathroom? 
+40,bedroom,"Answer: Before the garden the apple was in the hallway.
+
+I'm not sure if this is the",Where was the apple before the bathroom? 
+41,bedroom,"Answer: Before the bathroom the apple was in the hallway.
+
+I'm looking for a way to generate",Where was the apple before the bathroom? 
+42,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the bathroom? 
+43,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the bathroom? 
+44,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+45,kitchen,"Answer: Before the garden the apple was in the office.
+
+Question: Where was the milk before the garden?",Where was the apple before the garden? 
+46,garden,"Answer: Before the bedroom the apple was in the garden.
+
+Question: Where was the milk before the garden?",Where was the apple before the bedroom? 
+47,garden,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the kitchen? 
+48,bathroom,"Answer: Before the bedroom the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the bedroom? 
+49,bathroom,"Answer: Before the bedroom the apple was in the garden.
+
+Question: Where was the milk before the garden?",Where was the apple before the bedroom? 
+50,office,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+51,kitchen,,Where was the apple before the office? 
+52,office,"Answer: Before the garden the football was in the hallway.
+
+
+A: I think you're looking",Where was the football before the garden? 
+53,office,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the bedroom? 
+54,garden,"Answer: Before the hallway the apple was in the garden.
+
+Example:
+John went to the kitchen.",Where was the apple before the hallway? 
+55,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the bedroom? 
+56,bathroom,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the hallway? 
+57,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the kitchen? 
+58,garden,Answer: Before the bathroom the football was in the garden.,Where was the football before the bathroom? 
+59,garden,"Answer: Before the bathroom the football was in the hallway.
+
+Question: Where was the apple before the garden",Where was the football before the bathroom? 
+60,bathroom,"Answer: Before the office the milk was in the bathroom.
+
+I'm looking for a way to generate",Where was the milk before the office? 
+61,bathroom,"Answer: Before the office the milk was in the bathroom.
+
+I am not sure if this is the best",Where was the milk before the office? 
+62,bathroom,"Answer: Before the office the milk was in the bathroom.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+63,garden,"Answer: Before the bedroom the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the bedroom? 
+64,kitchen,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bathroom? 
+65,office,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+66,hallway,"Answer: Before the garden the apple was in the hallway.
+
+I'm trying to make a program that will",Where was the apple before the garden? 
+67,bathroom,"Answer: Before the kitchen the milk was in the bathroom.
+
+I have a lot of these questions and I",Where was the milk before the kitchen? 
+68,kitchen,"Answer: Before the bathroom the apple was in the garden.
+
+• I'm not sure if this is",Where was the apple before the bathroom? 
+69,garden,Answer: Before the hallway the milk was in the garden.,Where was the milk before the hallway? 
+70,hallway,"Answer: Before the office the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the office? 
+71,garden,"Answer: Before the hallway the milk was in the office.
+
+I'm looking for a way to automate",Where was the milk before the hallway? 
+72,office,"Answer: Before the bathroom the apple was in the office.
+
+I'm not sure if this is the",Where was the apple before the bathroom? 
+73,office,"Answer: Before the bathroom the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+74,kitchen,"Answer: Before the office the milk was in the bathroom.
+
+Question: Where was the milk before the kitchen?",Where was the milk before the office? 
+75,kitchen,"Answer: Before the office the milk was in the garden.
+
+Example:
+John went back to the garden",Where was the milk before the office? 
+76,kitchen,"Answer: Before the office the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+77,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+
+Answer: Before the hallway the apple",Where was the apple before the hallway? 
+78,bathroom,"Answer: Before the bedroom the milk was in the kitchen.
+
+
+Answer: I'm not sure if this",Where was the milk before the bedroom? 
+79,garden,"Answer: Before the bathroom the apple was in the garden.
+
+
+Answer: I'm not sure if",Where was the apple before the bathroom? 
+80,bathroom,"Answer: Before the kitchen the milk was in the hallway.
+
+I'm trying to write a program that will",Where was the milk before the kitchen? 
+81,bathroom,"Answer: Before the kitchen the milk was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the milk before the kitchen? 
+82,garden,"Answer: Before the bathroom the milk was in the kitchen.
+
+
+A: I'm not sure if this",Where was the milk before the bathroom? 
+83,bathroom,Answer: Before the bedroom the football was in the hallway.,Where was the football before the bedroom? 
+84,hallway,"Answer: Before the kitchen the milk was in the hallway.
+
+I'm looking for a way to make",Where was the milk before the kitchen? 
+85,hallway,"Answer: Before the kitchen the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the kitchen? 
+86,garden,Answer: Before the bedroom the milk was in the kitchen.,Where was the milk before the bedroom? 
+87,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the kitchen? 
+88,kitchen,"Answer: Before the hallway the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the hallway? 
+89,kitchen,Answer: Before the hallway the apple was in the garden.,Where was the apple before the hallway? 
+90,hallway,Answer: Before the kitchen the apple was in the garden.,Where was the apple before the kitchen? 
+91,bedroom,Answer: Before the bathroom the milk was in the garden.,Where was the milk before the bathroom? 
+92,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+
+Answer: I'm not sure if",Where was the milk before the bedroom? 
+93,hallway,Answer: Before the bathroom the football was in the garden.,Where was the football before the bathroom? 
+94,garden,Answer: Before the hallway the football was in the garden.,Where was the football before the hallway? 
+95,garden,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+96,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+Example:
+John went to the garden.",Where was the apple before the bathroom? 
+97,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+I'm looking for a way to generate",Where was the apple before the bathroom? 
+98,garden,"Answer: Before the hallway the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the hallway? 
+99,garden,Answer: Before the hallway the apple was in the garden.,Where was the apple before the hallway? 
+100,hallway,"Answer: Before the kitchen the football was in the hallway.
+
+
+A: You can use a simple regular",Where was the football before the kitchen? 
+101,hallway,Answer: Before the kitchen the football was in the garden.,Where was the football before the kitchen? 
+102,kitchen,"Answer: Before the garden the apple was in the kitchen.
+
+
+A: I think you are looking for",Where was the apple before the garden? 
+103,hallway,"Answer: Before the bathroom the milk was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the milk before the bathroom? 
+104,hallway,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a way to generate",Where was the milk before the bathroom? 
+105,hallway,"Answer: Before the bathroom the milk was in the kitchen.
+
+Question: Where was the apple before the garden",Where was the milk before the bathroom? 
+106,garden,"Answer: Before the kitchen the apple was in the garden.
+
+
+A: You can use a regular expression to",Where was the apple before the kitchen? 
+107,garden,"Answer: Before the hallway the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the hallway? 
+108,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+Answer: I'm not sure if this",Where was the milk before the hallway? 
+109,garden,"Answer: Before the hallway the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+110,kitchen,"Answer: Before the garden the milk was in the office.
+
+I have a lot of these questions and I",Where was the milk before the garden? 
+111,kitchen,"Answer: Before the garden the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+112,kitchen,"Answer: Before the garden the milk was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the garden? 
+113,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the kitchen? 
+114,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+I have a lot of these questions and I",Where was the apple before the kitchen? 
+115,garden,"Answer: Before the kitchen the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the kitchen? 
+116,bathroom,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the office? 
+117,bathroom,"Answer: Before the office the milk was in the kitchen.
+
+
+Answer: I'm not sure if this",Where was the milk before the office? 
+118,bathroom,"Answer: Before the office the milk was in the kitchen.
+
+
+A: I'm not sure if this",Where was the milk before the office? 
+119,bathroom,Answer: Before the hallway the apple was in the garden.,Where was the apple before the hallway? 
+120,garden,"Answer: Before the kitchen the football was in the garden.
+
+Question: Where was the apple before the kitchen?",Where was the football before the kitchen? 
+121,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+Answer: I'm not sure if",Where was the football before the kitchen? 
+122,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+A: You can use a regular expression",Where was the football before the kitchen? 
+123,bedroom,"Answer: Before the garden the football was in the hallway.
+
+• I'm not sure if this is",Where was the football before the garden? 
+124,bedroom,"Answer: Before the garden the football was in the hallway.
+
+
+A: I'm not sure if",Where was the football before the garden? 
+125,kitchen,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the kitchen",Where was the milk before the bedroom? 
+126,kitchen,"Answer: Before the bedroom the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the bedroom? 
+127,kitchen,"Answer: Before the bedroom the milk was in the hallway.
+
+
+A: I think you can use the",Where was the milk before the bedroom? 
+128,bathroom,"Answer: Before the hallway the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the hallway? 
+129,bathroom,"Answer: Before the hallway the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the hallway? 
+130,office,"Answer: Before the garden the football was in the office.
+
+I have a lot of these questions and I",Where was the football before the garden? 
+131,garden,"Answer: Before the hallway the football was in the garden.
+
+I'm not sure if this is the",Where was the football before the hallway? 
+132,garden,"Answer: Before the hallway the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the hallway? 
+133,garden,"Answer: Before the hallway the football was in the garden.
+
+Question: Where was the milk before the garden",Where was the football before the hallway? 
+134,hallway,"Answer: Before the kitchen the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the kitchen? 
+135,bathroom,"Answer: Before the office the apple was in the bathroom.
+
+I have a lot of these questions and I",Where was the apple before the office? 
+136,bathroom,"Answer: Before the office the apple was in the garden.
+
+
+A: You can use a simple regular expression",Where was the apple before the office? 
+137,bedroom,"Answer: Before the bathroom the apple was in the hallway.
+
+
+A: You can use a simple regex",Where was the apple before the bathroom? 
+138,bedroom,Answer: Before the bathroom the apple was in the office.,Where was the apple before the bathroom? 
+139,garden,"Answer: Before the hallway the apple was in the garden.
+
+Example:
+John journeyed to the garden",Where was the apple before the hallway? 
+140,office,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the kitchen? 
+141,office,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+142,office,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the kitchen? 
+143,garden,"Answer: Before the office the milk was in the bedroom.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+144,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+Question: Where was the apple before the garden",Where was the milk before the bedroom? 
+145,kitchen,"Answer: Before the office the milk was in the hallway.
+
+
+A: I think you can use a",Where was the milk before the office? 
+146,kitchen,"Answer: Before the office the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+147,kitchen,Answer: Before the office the milk was in the hallway.,Where was the milk before the office? 
+148,kitchen,Answer: Before the garden the milk was in the office.,Where was the milk before the garden? 
+149,bedroom,Answer: Before the kitchen the milk was in the office.,Where was the milk before the kitchen? 
+150,bathroom,"Answer: Before the kitchen the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the kitchen? 
+151,bathroom,Answer: Before the kitchen the football was in the garden.,Where was the football before the kitchen? 
+152,bathroom,Answer: Before the office the football was in the garden.,Where was the football before the office? 
+153,bathroom,"Answer: Before the office the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the office? 
+154,bathroom,"Answer: Before the office the milk was in the hallway.
+
+I'm trying to create a function that will",Where was the milk before the office? 
+155,office,"Answer: Before the bedroom the football was in the garden.
+
+
+A: I think you can use a",Where was the football before the bedroom? 
+156,bedroom,"Answer: Before the garden the football was in the office.
+
+I'm not sure if this is the best",Where was the football before the garden? 
+157,kitchen,"Answer: Before the garden the football was in the hallway.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the garden? 
+158,kitchen,"Answer: Before the garden the football was in the office.
+
+I have a solution for this problem but it",Where was the football before the garden? 
+159,hallway,"Answer: Before the bedroom the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the bedroom? 
+160,garden,Answer: Before the bedroom the milk was in the garden.,Where was the milk before the bedroom? 
+161,bathroom,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+162,bedroom,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+163,kitchen,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if this",Where was the apple before the office? 
+164,kitchen,"Answer: Before the bathroom the football was in the hallway.
+
+I'm looking for a way to generate",Where was the football before the bathroom? 
+165,hallway,"Answer: Before the kitchen the milk was in the garden.
+
+
+Answer:
+
+Before the kitchen the",Where was the milk before the kitchen? 
+166,bedroom,"Answer: Before the bathroom the football was in the hallway.
+
+
+A: I'm not sure if",Where was the football before the bathroom? 
+167,hallway,"Answer: Before the kitchen the milk was in the garden.
+
+
+Answer: I'm not sure if this",Where was the milk before the kitchen? 
+168,hallway,"Answer: Before the kitchen the milk was in the garden.
+
+Question: Where was the apple before the garden?",Where was the milk before the kitchen? 
+169,hallway,"Answer: Before the office the apple was in the bathroom.
+
+
+A: I think you're",Where was the apple before the office? 
+170,bathroom,"Answer: Before the office the apple was in the kitchen.
+
+• I'm not sure I understand the",Where was the apple before the office? 
+171,bedroom,"Answer: Before the bathroom the apple was in the office.
+
+I'm not sure if this is the",Where was the apple before the bathroom? 
+172,bathroom,"Answer: Before the office the apple was in the bathroom.
+
+I'm not sure if this is a",Where was the apple before the office? 
+173,garden,"Answer: Before the bedroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+174,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+175,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the garden? 
+176,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+
+Answer: Before the garden the milk",Where was the milk before the garden? 
+177,bedroom,Answer: Before the garden the apple was in the bathroom.,Where was the apple before the garden? 
+178,kitchen,"Answer: Before the hallway the apple was in the office.
+
+I'm looking for a way to solve",Where was the apple before the hallway? 
+179,kitchen,"Answer: Before the hallway the apple was in the garden.
+
+Question: Where was the apple before the garden",Where was the apple before the hallway? 
+180,kitchen,"Answer: Before the office the milk was in the garden.
+
+I'm not sure if this is the best",Where was the milk before the office? 
+181,garden,"Answer: Before the kitchen the milk was in the garden.
+
+
+Answer: I'm not sure if this",Where was the milk before the kitchen? 
+182,bathroom,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the hallway? 
+183,hallway,"Answer: Before the kitchen the football was in the garden.
+
+
+/ John journeyed to the kitchen.",Where was the football before the kitchen? 
+184,hallway,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the kitchen? 
+185,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the garden? 
+186,office,Answer: Before the hallway the football was in the garden.,Where was the football before the hallway? 
+187,hallway,Answer: Before the bedroom the apple was in the hallway.,Where was the apple before the bedroom? 
+188,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+I'm looking for a way to automate",Where was the apple before the bedroom? 
+189,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+• I'm not sure I understand the question",Where was the apple before the bedroom? 
+190,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+
+A: I think you can use the",Where was the milk before the garden? 
+191,bedroom,"Answer: Before the garden the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+192,bedroom,"Answer: Before the garden the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+193,bedroom,Answer: Before the office the milk was in the garden.,Where was the milk before the office? 
+194,bedroom,"Answer: Before the office the milk was in the garden.
+
+• I'm not sure if this is",Where was the milk before the office? 
+195,bedroom,"Answer: Before the hallway the milk was in the bedroom.
+
+Example:
+John went back to the bedroom",Where was the milk before the hallway? 
+196,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+197,bedroom,"Answer: Before the hallway the milk was in the bedroom.
+
+
+
+SCENE III
+
+
+_",Where was the milk before the hallway? 
+198,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+
+Answer: I'm not sure if",Where was the apple before the bedroom? 
+199,hallway,"Answer: Before the bedroom the football was in the hallway.
+
+I'm looking for a way to automate",Where was the football before the bedroom? 
+200,kitchen,"Answer: Before the garden the apple was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the apple before the garden? 
+201,kitchen,"Answer: Before the garden the apple was in the hallway.
+
+
+Answer: I'm not sure if",Where was the apple before the garden? 
+202,bedroom,"Answer: Before the office the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+203,bedroom,"Answer: Before the office the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+204,bedroom,"Answer: Before the office the milk was in the kitchen.
+
+
+Answer:
+
+Before the office the",Where was the milk before the office? 
+205,bedroom,"Answer: Before the office the milk was in the kitchen.
+
+• I'm not sure if this is",Where was the milk before the office? 
+206,kitchen,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+207,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to automatically",Where was the football before the bedroom? 
+208,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to solve",Where was the football before the bedroom? 
+209,bathroom,"Answer: Before the garden the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+210,bedroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+211,bedroom,"Answer: Before the office the milk was in the garden.
+
+Example:
+John went to the garden.",Where was the milk before the office? 
+212,bedroom,"Answer: Before the office the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the office? 
+213,kitchen,"Answer: Before the garden the milk was in the hallway.
+
+I'm not sure if this is the",Where was the milk before the garden? 
+214,kitchen,"Answer: Before the garden the milk was in the hallway.
+
+• I'm not sure if this is a",Where was the milk before the garden? 
+215,hallway,"Answer: Before the bathroom the football was in the garden.
+
+I am looking for a solution that is as",Where was the football before the bathroom? 
+216,hallway,"Answer: Before the bathroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bathroom? 
+217,hallway,"Answer: Before the bathroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bathroom? 
+218,bathroom,"Answer: Before the kitchen the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the kitchen? 
+219,garden,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+220,bedroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+A: I'm not sure if",Where was the apple before the kitchen? 
+221,bathroom,"Answer: Before the hallway the apple was in the kitchen.
+
+
+A: I'm not sure if",Where was the apple before the hallway? 
+222,bathroom,"Answer: Before the hallway the apple was in the kitchen.
+
+
+A: You can use a simple regex",Where was the apple before the hallway? 
+223,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+
+Answer: I'm not sure if",Where was the apple before the hallway? 
+224,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+
+Answer: I'm not sure if this",Where was the apple before the hallway? 
+225,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+226,office,"Answer: Before the garden the milk was in the hallway.
+
+I'm not sure if this is the",Where was the milk before the garden? 
+227,bathroom,"Answer: Before the office the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+228,bathroom,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the office? 
+229,hallway,"Answer: Before the bedroom the football was in the hallway.
+
+
+A: I'm not sure if this",Where was the football before the bedroom? 
+230,bathroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and answers",Where was the milk before the office? 
+231,bathroom,"Answer: Before the garden the apple was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the garden? 
+232,bathroom,"Answer: Before the garden the apple was in the hallway.
+
+
+Answer: I'm not sure if",Where was the apple before the garden? 
+233,bathroom,"Answer: Before the garden the apple was in the hallway.
+
+• I'm not sure I understand the",Where was the apple before the garden? 
+234,garden,"Answer: Before the hallway the football was in the garden.
+
+Question: Where was the milk before the office?",Where was the football before the hallway? 
+235,garden,"Answer: Before the kitchen the football was in the garden.
+
+I have a solution that works, but it",Where was the football before the kitchen? 
+236,garden,"Answer: Before the kitchen the football was in the garden.
+
+I'm trying to write a program that will",Where was the football before the kitchen? 
+237,kitchen,"Answer: Before the bathroom the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+238,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the hallway? 
+239,office,"Answer: Before the bedroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+240,kitchen,"Answer: Before the garden the football was in the office.
+
+I have a lot of these questions and I",Where was the football before the garden? 
+241,bedroom,"Answer: Before the hallway the football was in the garden.
+
+I'm not sure if this is the",Where was the football before the hallway? 
+242,bathroom,"Answer: Before the garden the apple was in the kitchen.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+243,office,"Answer: Before the bathroom the apple was in the garden.
+
+Question: Where was the milk before the garden?",Where was the apple before the bathroom? 
+244,kitchen,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the apple before the bedroom? 
+245,kitchen,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+246,kitchen,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+247,office,"I'm not sure if this is a good idea, but I'm going to try to make a game",Where was the apple before the bathroom? 
+248,office,"Answer: Before the office the apple was in the kitchen.
+
+I'm looking for a solution that can",Where was the apple before the bathroom? 
+249,bathroom,"Answer: Before the office the apple was in the bathroom.
+
+I'm looking for a way to generate",Where was the apple before the office? 
+250,office,"Answer: Before the bedroom the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the bedroom? 
+251,office,"Answer: Before the bedroom the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the bedroom? 
+252,garden,"Answer: Before the kitchen the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the kitchen? 
+253,bedroom,"Answer: Before the garden the apple was in the office.
+
+I'm not sure if this is a",Where was the apple before the garden? 
+254,garden,"Answer: Before the kitchen the apple was in the garden.
+
+I'm looking for a way to automate",Where was the apple before the kitchen? 
+255,kitchen,"Answer: Before the bathroom the milk was in the hallway.
+
+• I'm not sure I understand the",Where was the milk before the bathroom? 
+256,garden,"Answer: Before the bathroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bathroom? 
+257,garden,"Answer: Before the bathroom the apple was in the hallway.
+
+I have a lot of these questions and I",Where was the apple before the bathroom? 
+258,hallway,"Answer: Before the office the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+259,office,"Answer: Before the bathroom the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the bathroom? 
+260,office,Answer: Before the bathroom the milk was in the hallway.,Where was the milk before the bathroom? 
+261,office,"Answer: Before the bathroom the milk was in the hallway.
+
+Question: Where was the apple before the kitchen?",Where was the milk before the bathroom? 
+262,bedroom,,Where was the football before the office? 
+263,hallway,"Answer: Before the bathroom the football was in the office.
+
+Question: Where was the milk before the garden?",Where was the football before the bathroom? 
+264,hallway,Answer: Before the bathroom the football was in the hallway.,Where was the football before the bathroom? 
+265,hallway,"Answer: Before the bathroom the football was in the hallway.
+
+I have a lot of these questions and I",Where was the football before the bathroom? 
+266,bathroom,"Answer: Before the hallway the milk was in the office.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the hallway? 
+267,office,"Answer: Before the bathroom the football was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bathroom? 
+268,office,"Answer: Before the bathroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bathroom? 
+269,bathroom,"Answer: Before the garden the football was in the office.
+
+I'm looking for a way to solve",Where was the football before the garden? 
+270,hallway,"Answer: Before the bedroom the football was in the garden.
+
+I have a few questions like this and I",Where was the football before the bedroom? 
+271,hallway,"Answer: Before the bedroom the football was in the garden.
+
+Question: Where was the milk before the bathroom?",Where was the football before the bedroom? 
+272,office,"I'm not sure if this is the best way to do this, but I'm trying to use a",Where was the milk before the hallway? 
+273,office,"Answer: Before the hallway the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+274,kitchen,Answer: Before the garden the milk was in the office.,Where was the milk before the garden? 
+275,kitchen,"Answer: Before the garden the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the garden? 
+276,garden,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John went back to the garden",Where was the milk before the hallway? 
+277,bedroom,"Answer: Before the bathroom the football was in the hallway.
+
+I'm not sure if this is the",Where was the football before the bathroom? 
+278,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the bedroom? 
+279,bedroom,"Answer: Before the bathroom the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the bathroom? 
+280,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the apple before the bedroom? 
+281,bedroom,"Answer: Before the bathroom the milk was in the garden.
+
+Example:
+John went back to the garden.",Where was the milk before the bathroom? 
+282,bedroom,"Answer: Before the bathroom the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+283,office,"Answer: Before the bathroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bathroom? 
+284,office,"Answer: Before the bathroom the apple was in the garden.
+
+I'm not sure if this is the",Where was the apple before the bathroom? 
+285,office,"Answer: Before the bathroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bathroom? 
+286,garden,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bedroom? 
+287,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the bedroom? 
+288,garden,"Answer: Before the bedroom the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+289,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+290,garden,,Where was the football before the bedroom? 
+291,bathroom,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure if this is",Where was the apple before the garden? 
+292,bathroom,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure if this is a",Where was the apple before the garden? 
+293,bedroom,"Answer: Before the hallway the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+294,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+
+Answer: I'm not sure if",Where was the milk before the garden? 
+295,bedroom,"Answer: Before the garden the milk was in the kitchen.
+
+
+Answer: I'm not sure if",Where was the milk before the garden? 
+296,bedroom,"Answer: Before the garden the milk was in the office.
+
+
+Answer: I'm not sure if",Where was the milk before the garden? 
+297,hallway,Answer: Before the bathroom the milk was in the hallway.,Where was the milk before the bathroom? 
+298,kitchen,"Answer: Before the office the milk was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+299,kitchen,"Answer: Before the office the milk was in the garden.
+
+
+Answer:
+
+Before the office the",Where was the milk before the office? 
+300,kitchen,"Answer: Before the office the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+301,hallway,"Answer: Before the garden the football was in the hallway.
+
+I'm looking for a way to automate",Where was the football before the garden? 
+302,bathroom,"Answer: Before the garden the football was in the hallway.
+
+I'm not sure if this is the",Where was the football before the garden? 
+303,bathroom,"Answer: Before the garden the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the garden? 
+304,bathroom,"Answer: Before the bedroom the milk was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the milk before the bedroom? 
+305,bathroom,"Answer: Before the kitchen the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the kitchen? 
+306,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the bedroom? 
+307,kitchen,"Answer: Before the garden the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+308,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+Question: Where was the apple before the garden?",Where was the milk before the garden? 
+309,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+Question: Where was the apple before the garden?",Where was the milk before the garden? 
+310,hallway,Answer: Before the bathroom the apple was in the garden.,Where was the apple before the bathroom? 
+311,hallway,"Answer: Before the bathroom the apple was in the office.
+
+Context: [Sidenote: LONDON",Where was the apple before the bathroom? 
+312,hallway,"Answer: Before the bathroom the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the bathroom? 
+313,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+314,office,"Answer: Before the bedroom the milk was in the garden.
+
+I have a solution that works for the example",Where was the milk before the bedroom? 
+315,office,"Answer: Before the bedroom the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the bedroom? 
+316,office,"Answer: Before the bedroom the milk was in the office.
+
+
+
+
+/Chap. Daniel journey",Where was the milk before the bedroom? 
+317,bedroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+318,bathroom,"Answer: Before the hallway the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the hallway? 
+319,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+320,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+321,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+322,hallway,"Answer: Before the bathroom the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the bathroom? 
+323,office,"Answer: Before the bathroom the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the bathroom? 
+324,office,"Answer: Before the bathroom the football was in the kitchen.
+
+I'm not sure if this is a",Where was the football before the bathroom? 
+325,office,"Answer: Before the bathroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bathroom? 
+326,bathroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm not sure if this is a",Where was the football before the kitchen? 
+327,office,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bedroom? 
+328,garden,"Answer: Before the kitchen the milk was in the bathroom.
+
+I'm looking for a solution that can",Where was the milk before the kitchen? 
+329,kitchen,"Answer: Before the garden the milk was in the office.
+
+
+Answer: I'm not sure if",Where was the milk before the garden? 
+330,office,"Answer: Before the garden the milk was in the office.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the garden? 
+331,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+332,office,"Answer: Before the garden the milk was in the office.
+
+I have a lot of these questions and I",Where was the milk before the garden? 
+333,kitchen,"Answer: Before the garden the apple was in the kitchen.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+334,kitchen,"Answer: Before the garden the apple was in the kitchen.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+335,kitchen,"Answer: Before the garden the apple was in the bedroom.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+336,hallway,"Answer: Before the garden the apple was in the office.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+337,garden,"Answer: Before the bathroom the apple was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the apple before the bathroom? 
+338,hallway,"Answer: Before the office the apple was in the garden.
+
+I'm not sure if this is the",Where was the apple before the office? 
+339,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the bedroom? 
+340,bedroom,"Answer: Before the bathroom the apple was in the hallway.
+
+Question: Where was the milk before the hallway?",Where was the apple before the bathroom? 
+341,hallway,"Answer: Before the bathroom the football was in the garden.
+
+Example:
+John went to the garden.",Where was the football before the bathroom? 
+342,bedroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom.",Where was the apple before the kitchen? 
+343,bedroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+I'm not sure if this is the",Where was the apple before the kitchen? 
+344,kitchen,"Answer: Before the garden the apple was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the garden? 
+345,kitchen,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure I understand the",Where was the apple before the garden? 
+346,hallway,"Answer: Before the garden the football was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the football before the garden? 
+347,kitchen,Answer: Before the office the football was in the garden.,Where was the football before the office? 
+348,kitchen,"Answer: Before the office the football was in the hallway.
+
+I'm not sure if this is the",Where was the football before the office? 
+349,garden,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John went back to the garden",Where was the milk before the hallway? 
+350,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+Answer: I'm not sure if this",Where was the milk before the hallway? 
+351,garden,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the hallway? 
+352,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I'm not sure if this",Where was the milk before the hallway? 
+353,hallway,"Answer: Before the garden the apple was in the office.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+354,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+355,bathroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the bedroom? 
+356,hallway,"Answer: Before the garden the apple was in the hallway.
+
+• I'm not sure if this is",Where was the apple before the garden? 
+357,bathroom,"Answer: Before the hallway the apple was in the kitchen.
+
+
+A: I'm not sure if",Where was the apple before the hallway? 
+358,garden,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if this",Where was the football before the hallway? 
+359,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+360,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+361,hallway,"Answer: Before the office the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the office? 
+362,hallway,"Answer: Before the office the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+363,bathroom,"Answer: Before the hallway the milk was in the office.
+
+Example:
+John journeyed to the garden.",Where was the milk before the hallway? 
+364,office,"Answer: Before the kitchen the milk was in the bathroom.
+
+
+Answer:
+
+
+*
+
+*",Where was the milk before the kitchen? 
+365,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the garden? 
+366,office,"Answer: Before the kitchen the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the kitchen? 
+367,bathroom,Answer: Before the kitchen the apple was in the bathroom.,Where was the apple before the kitchen? 
+368,kitchen,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the office? 
+369,hallway,"Answer: Before the kitchen the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the kitchen? 
+370,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+I'm not sure if this is a",Where was the milk before the hallway? 
+371,bedroom,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the office? 
+372,bedroom,"Answer: Before the office the milk was in the bathroom.
+
+I'm looking for a way to automate",Where was the milk before the office? 
+373,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+Question: Where was the milk before the garden",Where was the apple before the bedroom? 
+374,garden,"Answer: Before the office the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+375,garden,"Answer: Before the office the milk was in the garden.
+
+I have a few questions about this:",Where was the milk before the office? 
+376,garden,"Answer: Before the office the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+377,garden,"Answer: Before the office the milk was in the kitchen.
+
+I'm looking for a way to solve",Where was the milk before the office? 
+378,hallway,"Answer: Before the office the football was in the garden.
+
+Question: Where was the apple before the garden?",Where was the football before the office? 
+379,bedroom,"Answer: Before the kitchen the milk was in the hallway.
+
+• I'm not sure if this is",Where was the milk before the kitchen? 
+380,bedroom,Answer: Before the kitchen the milk was in the garden.,Where was the milk before the kitchen? 
+381,garden,"Answer: Before the bathroom the football was in the garden.
+
+I'm trying to make a program that will",Where was the football before the bathroom? 
+382,hallway,"Answer: Before the garden the football was in the hallway.
+
+I have a lot of these questions and I",Where was the football before the garden? 
+383,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+384,bedroom,"Answer: Before the office the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the office? 
+385,bedroom,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the office? 
+386,bedroom,"Answer: Before the office the football was in the garden.
+
+I'm looking for a way to solve",Where was the football before the office? 
+387,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+Question: Where was the apple before the garden?",Where was the milk before the bedroom? 
+388,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+I'm looking for a way to automatically",Where was the apple before the bedroom? 
+389,garden,"Answer: Before the bedroom the milk was in the hallway.
+
+Question: Where was the apple before the garden",Where was the milk before the bedroom? 
+390,garden,"Answer: Before the bedroom the milk was in the garden.
+
+• I'm not sure if this is",Where was the milk before the bedroom? 
+391,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Question: Where was the apple before the garden",Where was the milk before the bedroom? 
+392,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Question: Where was the apple before the office",Where was the milk before the bedroom? 
+393,garden,Answer: Before the kitchen the apple was in the bathroom.,Where was the apple before the kitchen? 
+394,office,"Answer: Before the hallway the milk was in the kitchen.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+395,hallway,"Answer: Before the bathroom the football was in the hallway.
+
+I have a lot of these questions and I",Where was the football before the bathroom? 
+396,hallway,"Answer: Before the bathroom the football was in the garden.
+
+Question: Where was the apple before the kitchen",Where was the football before the bathroom? 
+397,bedroom,"Answer: Before the hallway the football was in the garden.
+
+I'm not sure if this is the",Where was the football before the hallway? 
+398,hallway,"Answer: Before the kitchen the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+399,hallway,"Answer: Before the bedroom the milk was in the office.
+
+I have a lot of these questions and I",Where was the milk before the bedroom? 
+400,bedroom,"Answer: Before the kitchen the milk was in the hallway.
+
+I am looking for a solution that can be",Where was the milk before the kitchen? 
+401,kitchen,"Answer: Before the bedroom the apple was in the kitchen.
+
+• I'm not sure if this is",Where was the apple before the bedroom? 
+402,kitchen,"Answer: Before the bedroom the apple was in the kitchen.
+
+I'm not sure if this is the",Where was the apple before the bedroom? 
+403,office,"Answer: Before the garden the football was in the office.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+404,garden,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+405,garden,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the office? 
+406,office,"Answer: Before the kitchen the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the kitchen? 
+407,kitchen,"Answer: Before the garden the football was in the office.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+408,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the bathroom? 
+409,office,Answer: Before the bedroom the apple was in the garden.,Where was the apple before the bedroom? 
+410,garden,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the office? 
+411,garden,"Answer: Before the office the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the office? 
+412,garden,"Answer: Before the office the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the office? 
+413,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+414,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the kitchen? 
+415,hallway,"Answer: Before the bathroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bathroom? 
+416,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the hallway? 
+417,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+A: I'm not sure if",Where was the apple before the kitchen? 
+418,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the hallway? 
+419,garden,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+420,garden,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the office? 
+421,garden,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the office? 
+422,garden,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the office? 
+423,bedroom,"Answer: Before the garden the apple was in the office.
+
+Question: Where was the apple before the garden?",Where was the apple before the garden? 
+424,bedroom,"Answer: Before the garden the apple was in the office.
+
+
+Answer: I'm not sure if",Where was the apple before the garden? 
+425,kitchen,"Answer: Before the bedroom the apple was in the garden.
+
+
+Answer: I'm not sure if this",Where was the apple before the bedroom? 
+426,office,"Answer: Before the bedroom the apple was in the garden.
+
+Question: Where was the apple before the garden",Where was the apple before the bedroom? 
+427,office,"Answer: Before the bedroom the apple was in the garden.
+
+I'm looking for a way to automate",Where was the apple before the bedroom? 
+428,garden,"Answer: Before the bathroom the apple was in the garden.
+
+I have a solution for this problem but it",Where was the apple before the bathroom? 
+429,garden,"Answer: Before the bathroom the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+430,bathroom,"Answer: Before the kitchen the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the kitchen? 
+431,bathroom,"Answer: Before the kitchen the apple was in the garden.
+
+
+A: I'm not sure if this",Where was the apple before the kitchen? 
+432,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+I'm trying to make a program that will",Where was the milk before the bedroom? 
+433,bathroom,"Answer: Before the bedroom the milk was in the bathroom.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+434,bathroom,"Answer: Before the bedroom the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+435,bathroom,"Answer: Before the garden the apple was in the office.
+
+
+Answer: I'm not sure if this",Where was the apple before the garden? 
+436,garden,"Answer: Before the bedroom the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the bedroom? 
+437,garden,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+Answer: Before the kitchen the football",Where was the apple before the kitchen? 
+438,office,"Answer: Before the garden the football was in the office.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+439,garden,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the kitchen? 
+440,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if this",Where was the football before the kitchen? 
+441,garden,Answer: Before the bathroom the apple was in the garden.,Where was the apple before the bathroom? 
+442,kitchen,"Answer: Before the bedroom the apple was in the hallway.
+
+Question: Where was the apple before the garden?",Where was the apple before the bedroom? 
+443,bathroom,Answer: Before the office the football was in the garden.,Where was the football before the office? 
+444,bathroom,"Answer: Before the office the football was in the garden.
+
+Question: Where was the apple before the garden",Where was the football before the office? 
+445,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the kitchen? 
+446,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+• I'm not sure if this is",Where was the football before the kitchen? 
+447,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the kitchen? 
+448,garden,"Answer: Before the bedroom the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+449,garden,"Answer: Before the bedroom the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the bedroom? 
+450,garden,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bedroom? 
+451,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+452,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+453,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the garden",Where was the milk before the bedroom? 
+454,garden,"Answer: Before the bedroom the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the bedroom? 
+455,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the garden",Where was the milk before the bedroom? 
+456,garden,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the garden",Where was the milk before the bedroom? 
+457,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+458,bathroom,"Answer: Before the hallway the milk was in the office.
+
+Example:
+John went to the kitchen. John",Where was the milk before the hallway? 
+459,garden,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a way to solve",Where was the apple before the office? 
+460,garden,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the office? 
+461,garden,"Answer: Before the office the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the office? 
+462,office,"Answer: Before the hallway the apple was in the garden.
+
+
+A: I think you can use a simple",Where was the apple before the hallway? 
+463,garden,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+464,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the kitchen? 
+465,garden,"Answer: Before the kitchen the football was in the garden.
+
+I'm not sure if this is a",Where was the football before the kitchen? 
+466,hallway,"Answer: Before the office the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+467,office,"Answer: Before the hallway the milk was in the garden.
+
+• I'm not sure if this is",Where was the milk before the hallway? 
+468,office,"Answer: Before the bathroom the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the bathroom? 
+469,kitchen,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure I understand the",Where was the apple before the garden? 
+470,kitchen,"Answer: Before the garden the apple was in the office.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+471,bedroom,"Answer: Before the kitchen the football was in the hallway.
+
+• I'm not sure if this is",Where was the football before the kitchen? 
+472,kitchen,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure if this is",Where was the apple before the garden? 
+473,bathroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+474,bathroom,Answer: Before the garden the football was in the office.,Where was the football before the garden? 
+475,bedroom,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the office? 
+476,bedroom,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the kitchen",Where was the football before the office? 
+477,bedroom,"Answer: Before the office the milk was in the garden.
+
+• I'm not sure if this is",Where was the milk before the office? 
+478,office,"Answer: Before the bedroom the milk was in the kitchen.
+
+Example:
+John went to the kitchen.",Where was the milk before the bedroom? 
+479,bathroom,"Answer: Before the hallway the football was in the bathroom.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+480,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+I'm looking for a way to automate",Where was the apple before the hallway? 
+481,office,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I think you can use a",Where was the milk before the hallway? 
+482,garden,"Answer: Before the bedroom the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the bedroom? 
+483,bathroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+484,bathroom,"Answer: Before the garden the apple was in the office.
+
+• I'm not sure I understand the",Where was the apple before the garden? 
+485,garden,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the office? 
+486,garden,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the bedroom? 
+487,garden,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to check",Where was the football before the bedroom? 
+488,garden,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bedroom? 
+489,garden,"Answer: Before the bedroom the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the bedroom? 
+490,garden,"Answer: Before the bedroom the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the bedroom? 
+491,garden,"Answer: Before the office the milk was in the garden.
+
+
+
+
+                               CHAPTER XI.",Where was the milk before the office? 
+492,garden,,Where was the milk before the office? 
+493,garden,"Answer: Before the office the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+494,garden,"Answer: Before the bathroom the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the bathroom? 
+495,bathroom,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the office? 
+496,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I think you can use a",Where was the milk before the hallway? 
+497,garden,"Answer: Before the hallway the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the hallway? 
+498,garden,"• I'm not sure if this is a good fit for this site. It's not a puzzle,",Where was the milk before the hallway? 
+499,hallway,"Answer: Before the garden the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+500,garden,"Answer: Before the office the football was in the garden.
+
+I'm not sure if this is the",Where was the football before the office? 
+501,hallway,"A: I'm not sure if I understand your question correctly, but I think you want to know how",Where was the football before the kitchen? 
+502,hallway,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the kitchen? 
+503,kitchen,"Answer: Before the hallway the football was in the garden.
+
+
+Answer: I'm not sure if",Where was the football before the hallway? 
+504,hallway,"Answer: Before the kitchen the milk was in the hallway.
+
+
+A: I think you can use a",Where was the milk before the kitchen? 
+505,bedroom,Answer: Before the office the milk was in the hallway.,Where was the milk before the office? 
+506,garden,"Answer: Before the bedroom the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the bedroom? 
+507,garden,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the bedroom? 
+508,garden,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to solve",Where was the football before the bedroom? 
+509,garden,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the bedroom? 
+510,office,"Answer: Before the bathroom the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the bathroom? 
+511,bathroom,"Answer: Before the garden the football was in the hallway.
+
+• I'm not sure if this is",Where was the football before the garden? 
+512,bathroom,"Answer: Before the garden the football was in the hallway.
+
+Question: Where was the milk before the hallway?",Where was the football before the garden? 
+513,office,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the kitchen? 
+514,office,Answer: Before the kitchen the football was in the garden.,Where was the football before the kitchen? 
+515,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+A: I think you can use a",Where was the apple before the kitchen? 
+516,bathroom,Answer: Before the hallway the apple was in the office.,Where was the apple before the hallway? 
+517,hallway,Answer: Before the office the apple was in the garden.,Where was the apple before the office? 
+518,kitchen,"Answer: Before the office the milk was in the hallway.
+
+
+Answer: Before the office the milk",Where was the milk before the office? 
+519,kitchen,"Answer: Before the office the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the office? 
+520,bathroom,"Answer: Before the hallway the milk was in the office.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+521,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+522,bathroom,"Answer: Before the hallway the apple was in the kitchen.
+
+Question: Where was the milk before the garden?",Where was the apple before the hallway? 
+523,bathroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John went back to the bedroom",Where was the apple before the kitchen? 
+524,garden,"Answer: Before the kitchen the apple was in the bathroom.
+
+I'm not sure how to approach this",Where was the apple before the kitchen? 
+525,bedroom,"Answer: Before the bathroom the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the bathroom? 
+526,bedroom,"Answer: Before the bathroom the milk was in the garden.
+
+
+A: I'm not sure if this",Where was the milk before the bathroom? 
+527,garden,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bedroom? 
+528,garden,"Answer: Before the bathroom the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the bathroom? 
+529,office,"Answer: Before the hallway the apple was in the garden.
+
+Question: Where was the milk before the office",Where was the apple before the hallway? 
+530,hallway,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+A: I think you can use a",Where was the apple before the kitchen? 
+531,bathroom,"Answer: Before the office the milk was in the hallway.
+
+
+A: I think you can use a",Where was the milk before the office? 
+532,bathroom,"Answer: Before the office the milk was in the hallway.
+
+
+Answer: I'm not sure if this",Where was the milk before the office? 
+533,bathroom,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+534,bathroom,"Answer: Before the hallway the football was in the kitchen.
+
+I'm looking for a way to generate",Where was the football before the hallway? 
+535,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+I'm looking for a way to automate",Where was the milk before the bedroom? 
+536,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+537,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+
+A: I'm not sure if this",Where was the milk before the bedroom? 
+538,kitchen,"Answer: Before the hallway the apple was in the garden.
+
+
+A: I'm not sure if this",Where was the apple before the hallway? 
+539,garden,"Answer: Before the office the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+540,office,Answer: Before the garden the milk was in the hallway.,Where was the milk before the garden? 
+541,hallway,"Answer: Before the garden the football was in the hallway.
+
+
+A: I'm not sure if",Where was the football before the garden? 
+542,bathroom,"Answer: Before the kitchen the milk was in the office.
+
+
+A: I'm not sure if",Where was the milk before the kitchen? 
+543,bathroom,"Answer: Before the kitchen the milk was in the office.
+
+I'm not sure if this is the",Where was the milk before the kitchen? 
+544,bathroom,"Answer: Before the garden the football was in the office.
+
+I'm not sure if this is the",Where was the football before the garden? 
+545,bathroom,"Answer: Before the garden the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the garden? 
+546,bathroom,"Answer: Before the garden the apple was in the office.
+
+I'm looking for a way to solve",Where was the apple before the garden? 
+547,garden,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the football before the kitchen? 
+548,garden,"Answer: Before the kitchen the football was in the garden.
+
+I'm trying to make a program that will",Where was the football before the kitchen? 
+549,office,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+550,office,"Answer: Before the bathroom the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+551,garden,"Answer: Before the kitchen the milk was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the kitchen? 
+552,bathroom,"Answer: Before the kitchen the milk was in the bathroom.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the kitchen? 
+553,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bedroom? 
+554,bathroom,"Answer: Before the kitchen the milk was in the bathroom.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the kitchen? 
+555,bathroom,"Answer: Before the kitchen the milk was in the bathroom.
+
+I'm looking for a solution that can",Where was the milk before the kitchen? 
+556,bathroom,"Answer: Before the garden the apple was in the hallway.
+
+• I'm not sure if this is a",Where was the apple before the garden? 
+557,bedroom,"Answer: Before the office the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+558,bedroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and answers",Where was the milk before the office? 
+559,bedroom,Answer: Before the office the milk was in the garden.,Where was the milk before the office? 
+560,bedroom,"Answer: Before the office the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+561,kitchen,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bedroom? 
+562,kitchen,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the office? 
+563,kitchen,"Answer: Before the office the apple was in the garden.
+
+Example:
+John went to the garden.",Where was the apple before the office? 
+564,kitchen,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the garden",Where was the apple before the office? 
+565,bathroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+• I'm not sure I understand the",Where was the apple before the kitchen? 
+566,office,Answer: Before the garden the football was in the office.,Where was the football before the garden? 
+567,kitchen,"Answer: Before the hallway the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the hallway? 
+568,kitchen,"Answer: Before the hallway the football was in the garden.
+
+I'm not sure if this is a",Where was the football before the hallway? 
+569,office,"Answer: Before the kitchen the milk was in the garden.
+
+
+Answer: I'm not sure if this",Where was the milk before the kitchen? 
+570,kitchen,"Answer: Before the hallway the football was in the garden.
+
+Question: Where was the apple before the garden?",Where was the football before the hallway? 
+571,office,"Answer: Before the kitchen the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the kitchen? 
+572,hallway,"Answer: Before the bedroom the milk was in the office.
+
+
+A: I'm not sure if",Where was the milk before the bedroom? 
+573,hallway,"Answer: Before the bedroom the milk was in the hallway.
+
+• I'm not sure if this is",Where was the milk before the bedroom? 
+574,office,"Answer: Before the garden the milk was in the office.
+
+I'm looking for a way to generate",Where was the milk before the garden? 
+575,office,"Answer: Before the garden the milk was in the office.
+
+
+A: I'm not sure if",Where was the milk before the garden? 
+576,office,"Answer: Before the garden the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+577,bedroom,"Answer: Before the office the milk was in the hallway.
+
+• I'm not sure if this is",Where was the milk before the office? 
+578,bedroom,"Answer: Before the office the milk was in the hallway.
+
+I'm looking for a way to make",Where was the milk before the office? 
+579,kitchen,"Answer: Before the hallway the milk was in the kitchen.
+
+Question: Where was the apple before the garden?",Where was the milk before the hallway? 
+580,office,"Answer: Before the bedroom the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+581,hallway,"Answer: Before the bedroom the milk was in the hallway.
+
+I'm not sure if this is the",Where was the milk before the bedroom? 
+582,hallway,"Answer: Before the bedroom the milk was in the hallway.
+
+I'm not sure if this is the",Where was the milk before the bedroom? 
+583,bathroom,"Answer: Before the hallway the football was in the garden.
+
+• I'm not sure I understand the",Where was the football before the hallway? 
+584,bathroom,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+585,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+586,bedroom,"Answer: Before the hallway the apple was in the kitchen.
+
+I'm looking for a way to generate",Where was the apple before the hallway? 
+587,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the bedroom? 
+588,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+I'm looking for a way to generate",Where was the apple before the bedroom? 
+589,kitchen,"Answer: Before the bedroom the milk was in the hallway.
+
+I am looking for a solution that is as",Where was the milk before the bedroom? 
+590,garden,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+591,garden,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+592,kitchen,"Answer: Before the office the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+593,kitchen,"Answer: Before the office the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the office? 
+594,office,"Answer: Before the bathroom the milk was in the office.
+
+Example:
+John journeyed to the office",Where was the milk before the bathroom? 
+595,office,"Answer: Before the kitchen the milk was in the garden.
+
+I'm not sure if this is the",Where was the milk before the kitchen? 
+596,garden,Answer: Before the bathroom the apple was in the garden.,Where was the apple before the bathroom? 
+597,garden,"Answer: Before the bathroom the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+598,kitchen,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the office? 
+599,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the garden? 
+600,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+I'm looking for a way to generate",Where was the milk before the garden? 
+601,kitchen,"Answer: Before the office the milk was in the hallway.
+
+Example:
+John went back to the garden",Where was the milk before the office? 
+602,office,Answer: Before the hallway the football was in the garden.,Where was the football before the hallway? 
+603,office,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the hallway? 
+604,office,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to automatically",Where was the football before the bedroom? 
+605,office,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bedroom? 
+606,office,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John went to the garden.",Where was the milk before the bedroom? 
+607,kitchen,"Answer: Before the office the apple was in the bathroom.
+
+I'm not sure if this is the",Where was the apple before the office? 
+608,office,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+609,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the bedroom? 
+610,bedroom,"Answer: Before the kitchen the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the kitchen? 
+611,garden,"Answer: Before the office the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the office? 
+612,garden,"Answer: Before the office the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the office? 
+613,garden,"Answer: Before the office the football was in the hallway.
+
+I have a solution that works, but it",Where was the football before the office? 
+614,bedroom,I'm not sure how to approach this problem. I've tried to create a graph of the facts and,Where was the apple before the kitchen? 
+615,bedroom,"Answer: Before the kitchen the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the kitchen? 
+616,bedroom,"Answer: Before the office the milk was in the hallway.
+
+• I'm not sure if this is a",Where was the milk before the office? 
+617,bedroom,"Answer: Before the office the milk was in the hallway.
+
+Question: Where was the apple before the garden?",Where was the milk before the office? 
+618,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+
+Answer: I'm not sure if this",Where was the apple before the bathroom? 
+619,hallway,Answer: Before the office the apple was in the kitchen.,Where was the apple before the office? 
+620,hallway,"Answer: Before the office the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom.",Where was the apple before the office? 
+621,hallway,"Answer: Before the office the apple was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the office? 
+622,hallway,Answer: Before the bathroom the milk was in the garden.,Where was the milk before the bathroom? 
+623,garden,"Answer: Before the bathroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bathroom? 
+624,garden,"Answer: Before the bathroom the football was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bathroom? 
+625,bathroom,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the apple before the office? 
+626,garden,"Answer: Before the bathroom the apple was in the garden.
+
+Question: Where was the milk before the garden?",Where was the apple before the bathroom? 
+627,bathroom,"Answer: Before the office the apple was in the garden.
+
+
+Answer:
+
+Before the office the apple",Where was the apple before the office? 
+628,kitchen,"Answer: Before the garden the milk was in the office.
+
+Question: Where was the apple before the garden?",Where was the milk before the garden? 
+629,kitchen,"Answer: Before the garden the milk was in the office.
+
+I'm looking for a way to generate",Where was the milk before the garden? 
+630,office,"Answer: Before the bedroom the milk was in the office.
+
+Question: Where was the milk before the office?",Where was the milk before the bedroom? 
+631,office,Answer: Before the bedroom the milk was in the office.,Where was the milk before the bedroom? 
+632,bedroom,"Answer: Before the bathroom the apple was in the garden.
+
+
+Answer: I'm not sure if this",Where was the apple before the bathroom? 
+633,hallway,"Answer: Before the bathroom the apple was in the garden.
+
+
+Answer: Before the bathroom the apple",Where was the apple before the bathroom? 
+634,bathroom,"A: I'm not sure if this is what you're looking for, but I've written",Where was the apple before the hallway? 
+635,office,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+636,bathroom,"Answer: Before the office the milk was in the hallway.
+
+Example:
+John went back to the bedroom",Where was the milk before the office? 
+637,kitchen,Answer: Before the garden the football was in the hallway.,Where was the football before the garden? 
+638,kitchen,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the hallway? 
+639,kitchen,"Answer: Before the hallway the milk was in the garden.
+
+I'm not sure if this is a",Where was the milk before the hallway? 
+640,office,"Answer: Before the bathroom the milk was in the hallway.
+
+Example:
+John went back to the bedroom",Where was the milk before the bathroom? 
+641,office,"Answer: Before the bathroom the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the bathroom? 
+642,office,"Answer: Before the bathroom the milk was in the office.
+
+I'm looking for a way to make",Where was the milk before the bathroom? 
+643,bathroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the kitchen? 
+644,bathroom,"Answer: Before the kitchen the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the kitchen? 
+645,bathroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+I'm looking for a solution that can",Where was the apple before the kitchen? 
+646,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+647,garden,"Answer: Before the bedroom the milk was in the hallway.
+
+I'm looking for a way to make",Where was the milk before the bedroom? 
+648,office,"Answer: Before the bathroom the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+649,office,"Answer: Before the bathroom the milk was in the kitchen.
+
+I'm looking for a way to generate",Where was the milk before the bathroom? 
+650,office,"Answer: Before the bathroom the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the bathroom? 
+651,office,"Answer: Before the kitchen the apple was in the bathroom.
+
+
+Answer: I'm not sure if",Where was the apple before the kitchen? 
+652,office,"Answer: Before the kitchen the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the kitchen? 
+653,garden,"Answer: Before the office the milk was in the garden.
+
+
+Answer: Before the office the milk",Where was the milk before the office? 
+654,garden,"A: The milk was in the garden.
+
+
+A: The milk was in the garden.",Where was the milk before the office? 
+655,garden,"Answer: Before the office the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the office? 
+656,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+Question: Where was the milk before the garden",Where was the apple before the bedroom? 
+657,office,"Answer: Before the hallway the football was in the garden.
+
+I have a lot of these questions and answers",Where was the football before the hallway? 
+658,office,"Answer: Before the hallway the football was in the kitchen.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+659,bedroom,Answer: Before the hallway the apple was in the garden.,Where was the apple before the hallway? 
+660,hallway,"Answer: Before the garden the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the garden? 
+661,hallway,"Answer: Before the garden the milk was in the hallway.
+
+
+A: I'm not sure if",Where was the milk before the garden? 
+662,kitchen,"Answer: Before the hallway the football was in the office.
+
+Example:
+John journeyed to the office",Where was the football before the hallway? 
+663,garden,"Answer: Before the office the football was in the garden.
+
+
+A: I think you can use a simple",Where was the football before the office? 
+664,hallway,"Answer: Before the bathroom the apple was in the hallway.
+
+• I'm not sure if this is",Where was the apple before the bathroom? 
+665,hallway,"Answer: Before the bathroom the apple was in the kitchen.
+
+
+Answer: I'm not sure if this",Where was the apple before the bathroom? 
+666,bedroom,"Answer: Before the bathroom the football was in the garden.
+
+Question: Where was the apple before the garden",Where was the football before the bathroom? 
+667,bedroom,"Answer: Before the bathroom the football was in the hallway.
+
+• I'm not sure if this is",Where was the football before the bathroom? 
+668,bedroom,"Answer: Before the hallway the apple was in the garden.
+
+Example:
+John journeyed to the garden",Where was the apple before the hallway? 
+669,garden,"Answer: Before the office the football was in the garden.
+
+Example:
+John went back to the garden",Where was the football before the office? 
+670,garden,"Answer: Before the office the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the office? 
+671,garden,"Answer: Before the office the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the office? 
+672,garden,"Answer: Before the office the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the office? 
+673,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+I'm looking for a way to generate",Where was the milk before the garden? 
+674,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the garden? 
+675,bedroom,"Answer: Before the kitchen the football was in the bedroom.
+
+I'm not sure if this is the",Where was the football before the kitchen? 
+676,bedroom,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the kitchen? 
+677,hallway,"Answer: Before the bedroom the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the bedroom? 
+678,hallway,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to automate",Where was the football before the bedroom? 
+679,office,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+680,garden,"Answer: Before the office the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+681,garden,"Answer: Before the office the milk was in the hallway.
+
+• I'm not sure if this is",Where was the milk before the office? 
+682,garden,"Answer: Before the kitchen the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the kitchen? 
+683,kitchen,"Answer: Before the garden the apple was in the hallway.
+
+I'm looking for a way to solve",Where was the apple before the garden? 
+684,kitchen,"Answer: Before the garden the apple was in the hallway.
+
+I'm not sure if this is the",Where was the apple before the garden? 
+685,kitchen,"Answer: Before the garden the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+686,bathroom,"Answer: Before the hallway the football was in the garden.
+
+Example:
+John went back to the garden",Where was the football before the hallway? 
+687,garden,"Answer: Before the bathroom the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the bathroom? 
+688,kitchen,"Answer: Before the bathroom the apple was in the hallway.
+
+I'm looking for a way to automate",Where was the apple before the bathroom? 
+689,kitchen,"Answer: Before the bathroom the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the bathroom? 
+690,kitchen,"Answer: Before the bathroom the apple was in the garden.
+
+Question: Where was the apple before the garden",Where was the apple before the bathroom? 
+691,garden,"Answer: Before the kitchen the apple was in the garden.
+
+• I'm not sure I understand the",Where was the apple before the kitchen? 
+692,garden,"Answer: Before the kitchen the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the kitchen? 
+693,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the hallway? 
+694,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the hallway? 
+695,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the hallway? 
+696,bedroom,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the kitchen? 
+697,bathroom,"Answer: Before the bedroom the apple was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+698,garden,"Answer: Before the bedroom the apple was in the hallway.
+
+I'm not sure if this is the",Where was the apple before the bedroom? 
+699,garden,"Answer: Before the bedroom the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the bedroom? 
+700,bedroom,"Answer: Before the garden the apple was in the hallway.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+701,bedroom,"Answer: Before the garden the apple was in the hallway.
+
+• I'm not sure if this is",Where was the apple before the garden? 
+702,bedroom,"Answer: Before the garden the apple was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the garden? 
+703,garden,"Answer: Before the hallway the apple was in the office.
+
+I'm looking for a solution that can",Where was the apple before the hallway? 
+704,office,"Answer: Before the garden the apple was in the office.
+
+I'm looking for a way to generate",Where was the apple before the garden? 
+705,hallway,Answer: Before the kitchen the football was in the garden.,Where was the football before the kitchen? 
+706,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+707,hallway,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the kitchen? 
+708,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+
+
+
+CHAPTER VII.--THE MINSTERS",Where was the milk before the hallway? 
+709,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+710,bedroom,Answer: Before the kitchen the football was in the garden.,Where was the football before the kitchen? 
+711,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the bedroom? 
+712,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+I have a solution for this problem, but",Where was the apple before the bedroom? 
+713,hallway,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+714,hallway,"Answer: Before the office the milk was in the garden.
+
+Question: Where was the apple before the hallway?",Where was the milk before the office? 
+715,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the bedroom? 
+716,hallway,"Answer: Before the bedroom the apple was in the kitchen.
+
+
+A: I'm not sure if",Where was the apple before the bedroom? 
+717,bedroom,"Answer: Before the bathroom the apple was in the hallway.
+
+• I'm not sure if this is",Where was the apple before the bathroom? 
+718,office,"Answer: Before the bedroom the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the bedroom? 
+719,bathroom,"Answer: Before the office the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the office? 
+720,hallway,"Answer: Before the garden the milk was in the hallway.
+
+I have a lot of these questions and I",Where was the milk before the garden? 
+721,hallway,"Answer: Before the garden the milk was in the hallway.
+
+I have tried to solve this problem with a",Where was the milk before the garden? 
+722,hallway,"Answer: Before the garden the milk was in the hallway.
+
+
+Answer:
+
+Before the kitchen the milk",Where was the milk before the garden? 
+723,kitchen,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and answers",Where was the football before the bedroom? 
+724,kitchen,"Answer: Before the bedroom the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the bedroom? 
+725,kitchen,"Answer: Before the bedroom the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the bedroom? 
+726,hallway,Answer: Before the bathroom the football was in the hallway.,Where was the football before the bathroom? 
+727,bathroom,"Answer: Before the hallway the football was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the football before the hallway? 
+728,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the hallway? 
+729,garden,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John went back to the bedroom",Where was the milk before the hallway? 
+730,garden,"Answer: Before the hallway the milk was in the kitchen.
+
+I'm looking for a way to solve",Where was the milk before the hallway? 
+731,bedroom,"Answer: Before the hallway the football was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the football before the hallway? 
+732,bedroom,"Answer: Before the hallway the football was in the kitchen.
+
+I'm looking for a way to solve",Where was the football before the hallway? 
+733,bedroom,"Answer: Before the hallway the milk was in the office.
+
+I'm trying to write a program that will",Where was the milk before the hallway? 
+734,bedroom,"Answer: Before the hallway the milk was in the office.
+
+
+A: I'm not sure if this",Where was the milk before the hallway? 
+735,bedroom,"Answer: Before the hallway the milk was in the kitchen.
+
+
+A: I'm not sure if",Where was the milk before the hallway? 
+736,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+
+Answer: I'm not sure if",Where was the milk before the hallway? 
+737,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+I have a lot of these questions and I",Where was the milk before the hallway? 
+738,garden,"Answer: Before the office the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the office? 
+739,garden,"Answer: Before the office the milk was in the garden.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the office? 
+740,bedroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+741,bedroom,"Answer: Before the hallway the milk was in the kitchen.
+
+I have a solution for this problem, but",Where was the milk before the hallway? 
+742,bathroom,"Answer: Before the kitchen the football was in the garden.
+
+Question: Where was the milk before the office",Where was the football before the garden? 
+743,hallway,"Answer: Before the bathroom the milk was in the kitchen.
+
+
+Answer: I'm not sure if this",Where was the milk before the bathroom? 
+744,kitchen,"Answer: Before the garden the milk was in the kitchen.
+
+I'm not sure if this is the",Where was the milk before the garden? 
+745,kitchen,Answer: Before the bathroom the football was in the garden.,Where was the football before the bathroom? 
+746,kitchen,"Answer: Before the bathroom the football was in the garden.
+
+
+Answer: I'm not sure if this",Where was the football before the bathroom? 
+747,bedroom,"Answer: Before the garden the apple was in the bedroom.
+
+
+Answer: You can use a regular expression to",Where was the apple before the garden? 
+748,garden,"Answer: Before the hallway the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the hallway? 
+749,bedroom,"Answer: Before the garden the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+750,bedroom,"Answer: Before the garden the apple was in the hallway.
+
+I have a lot of these questions and I",Where was the apple before the garden? 
+751,garden,"Answer: Before the office the milk was in the garden.
+
+I'm trying to write a program that will",Where was the milk before the office? 
+752,hallway,"Answer: Before the garden the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the garden? 
+753,hallway,"Answer: Before the garden the milk was in the hallway.
+
+I'm looking for a way to generate",Where was the milk before the garden? 
+754,kitchen,"Answer: Before the office the football was in the hallway.
+
+Question: Where was the apple before the garden?",Where was the football before the office? 
+755,bathroom,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+756,bathroom,"Answer: Before the hallway the football was in the garden.
+
+• I'm not sure if this is a",Where was the football before the hallway? 
+757,hallway,"• I'm not sure I understand the question. Is the answer ""Before the office the milk was in the",Where was the milk before the office? 
+758,office,"Answer: Before the bathroom the milk was in the hallway.
+
+
+A: I'm not sure if",Where was the milk before the bathroom? 
+759,bedroom,Answer: Before the garden the apple was in the hallway.,Where was the apple before the garden? 
+760,kitchen,"Answer: Before the bedroom the apple was in the garden.
+
+I have a solution for this problem but it",Where was the apple before the bedroom? 
+761,garden,"Answer: Before the kitchen the apple was in the bathroom.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the kitchen? 
+762,bathroom,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the hallway? 
+763,bathroom,"Answer: Before the garden the football was in the hallway.
+
+• I'm not sure if this is",Where was the football before the garden? 
+764,garden,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+765,bathroom,"Answer: Before the garden the football was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the football before the garden? 
+766,office,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+767,office,"Answer: Before the hallway the football was in the office.
+
+I'm looking for a way to generate",Where was the football before the hallway? 
+768,garden,Answer: Before the office the milk was in the garden.,Where was the milk before the office? 
+769,garden,"Answer: Before the office the milk was in the garden.
+
+Example:
+John went back to the garden.",Where was the milk before the office? 
+770,garden,"Answer: Before the office the milk was in the garden.
+
+• I'm not sure if this is a",Where was the milk before the office? 
+771,garden,"Answer: Before the hallway the apple was in the garden.
+
+I'm not sure if this is the",Where was the apple before the hallway? 
+772,bathroom,"Answer: Before the hallway the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+773,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+774,garden,"Answer: Before the kitchen the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the kitchen? 
+775,bedroom,"Answer: Before the hallway the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the hallway? 
+776,garden,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+777,garden,"Answer: Before the hallway the milk was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the hallway? 
+778,garden,"Answer: Before the hallway the milk was in the kitchen.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+779,garden,"Answer: Before the hallway the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the hallway? 
+780,bedroom,"Answer: Before the garden the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+781,office,"Answer: Before the bedroom the milk was in the kitchen.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the bedroom? 
+782,office,"Answer: Before the bedroom the milk was in the kitchen.
+
+I have a lot of these questions and I",Where was the milk before the bedroom? 
+783,bedroom,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the office? 
+784,bedroom,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the office? 
+785,office,"Answer: Before the garden the apple was in the hallway.
+
+I'm looking for a solution that can",Where was the apple before the garden? 
+786,office,Answer: Before the kitchen the milk was in the garden.,Where was the milk before the kitchen? 
+787,hallway,"Answer: Before the bedroom the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the bedroom? 
+788,hallway,"I am not sure if this is a good idea, but I am going to try it. I am going to",Where was the apple before the bedroom? 
+789,kitchen,"Answer: Before the hallway the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the hallway? 
+790,kitchen,"A: I'm not sure if this is what you're looking for, but I've written",Where was the football before the hallway? 
+791,hallway,"Answer: Before the garden the milk was in the hallway.
+
+
+A: I think you're looking",Where was the milk before the garden? 
+792,bathroom,"Answer: Before the garden the milk was in the bedroom.
+
+I'm not sure if this is a",Where was the milk before the garden? 
+793,bedroom,"Answer: Before the bathroom the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the bathroom? 
+794,kitchen,"Answer: Before the hallway the milk was in the garden.
+
+I'm not sure if this is the right",Where was the milk before the hallway? 
+795,bathroom,Answer: Before the office the milk was in the garden.,Where was the milk before the office? 
+796,garden,"Answer: Before the bathroom the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom.",Where was the milk before the bathroom? 
+797,bedroom,"Answer: Before the bathroom the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the bathroom? 
+798,hallway,"Answer: Before the kitchen the football was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the football before the kitchen? 
+799,hallway,"Answer: Before the kitchen the football was in the hallway.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+800,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the kitchen? 
+801,garden,"Answer: Before the bedroom the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the bedroom? 
+802,hallway,"Answer: Before the bedroom the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the bedroom? 
+803,garden,"Answer: Before the hallway the apple was in the garden.
+
+I'm looking for a way to generate",Where was the apple before the hallway? 
+804,garden,"Answer: Before the office the milk was in the garden.
+
+• I'm not sure if this is",Where was the milk before the office? 
+805,bathroom,"Answer: Before the bedroom the milk was in the office.
+
+• I'm not sure if this is",Where was the milk before the bedroom? 
+806,bathroom,"Answer: Before the garden the apple was in the office.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the garden? 
+807,garden,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a solution that can",Where was the apple before the office? 
+808,garden,"Answer: Before the office the apple was in the garden.
+
+I'm looking for a way to make",Where was the apple before the office? 
+809,garden,"Answer: Before the office the apple was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the office? 
+810,hallway,"Answer: Before the garden the apple was in the hallway.
+
+• I'm not sure if this is",Where was the apple before the garden? 
+811,hallway,"Answer: Before the kitchen the football was in the garden.
+
+• I'm not sure I understand the",Where was the football before the kitchen? 
+812,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I have a lot of these questions and I",Where was the football before the kitchen? 
+813,hallway,"Answer: Before the kitchen the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the kitchen? 
+814,kitchen,"Answer: Before the hallway the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+815,hallway,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the kitchen? 
+816,kitchen,"Answer: Before the garden the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the garden? 
+817,hallway,"Answer: Before the bathroom the milk was in the office.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+818,office,"Answer: Before the hallway the football was in the office.
+
+I have a lot of these questions and I",Where was the football before the hallway? 
+819,office,"Answer: Before the hallway the football was in the garden.
+
+Question: Where was the milk before the office",Where was the football before the hallway? 
+820,office,"Answer: Before the hallway the football was in the office.
+
+I'm looking for a solution that can",Where was the football before the hallway? 
+821,kitchen,Answer: Before the bathroom the milk was in the garden.,Where was the milk before the bathroom? 
+822,kitchen,"Answer: Before the bathroom the milk was in the garden.
+
+
+Answer: I'm not sure if",Where was the milk before the bathroom? 
+823,bathroom,"Answer: Before the bedroom the football was in the garden.
+
+Question: Where was the milk before the garden?",Where was the football before the bedroom? 
+824,bathroom,Answer: Before the bedroom the football was in the garden.,Where was the football before the bedroom? 
+825,hallway,"Answer: Before the bedroom the milk was in the garden.
+
+Example:
+John journeyed to the garden",Where was the milk before the bedroom? 
+826,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+I have a lot of these questions and I",Where was the apple before the hallway? 
+827,bathroom,"Answer: Before the hallway the apple was in the kitchen.
+
+Example:
+John journeyed to the bedroom",Where was the apple before the hallway? 
+828,bathroom,"Answer: Before the hallway the apple was in the office.
+
+
+Answer: I'm not sure if",Where was the apple before the hallway? 
+829,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the hallway? 
+830,bathroom,"Answer: Before the hallway the apple was in the garden.
+
+
+Answer:
+
+Answer: Before the",Where was the apple before the hallway? 
+831,hallway,Answer:,Where was the football before the garden? 
+832,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a way to automate",Where was the milk before the hallway? 
+833,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a way to generate",Where was the milk before the hallway? 
+834,bathroom,"Answer: Before the hallway the milk was in the garden.
+
+I'm looking for a solution that can",Where was the milk before the hallway? 
+835,hallway,Answer: Before the kitchen the milk was in the garden.,Where was the milk before the kitchen? 
+836,hallway,"Answer: Before the kitchen the milk was in the hallway.
+
+I'm not sure if this is a",Where was the milk before the kitchen? 
+837,bathroom,"Answer: Before the office the football was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the football before the office? 
+838,bedroom,"Answer: Before the bathroom the football was in the hallway.
+
+I have a lot of these questions and I",Where was the football before the bathroom? 
+839,bedroom,"Answer: Before the office the football was in the garden.
+
+Question: Where was the apple before the garden?",Where was the football before the office? 
+840,hallway,"Answer: Before the bedroom the milk was in the kitchen.
+
+I'm not sure if this is a",Where was the milk before the bedroom? 
+841,hallway,"Answer: Before the bedroom the milk was in the office.
+
+I'm not sure if this is the",Where was the milk before the bedroom? 
+842,hallway,"Answer: Before the bedroom the milk was in the office.
+
+
+Answer:",Where was the milk before the bedroom? 
+843,bedroom,"Answer: Before the office the apple was in the hallway.
+
+
+A: I'm not sure if",Where was the apple before the office? 
+844,hallway,"Answer: Before the bedroom the apple was in the office.
+
+I'm looking for a way to generate",Where was the apple before the bedroom? 
+845,hallway,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a way to generate",Where was the football before the bedroom? 
+846,bedroom,"Answer: Before the bathroom the milk was in the hallway.
+
+I'm looking for a solution that can",Where was the milk before the bathroom? 
+847,hallway,"Answer: Before the bedroom the football was in the garden.
+
+I'm looking for a solution that can",Where was the football before the bedroom? 
+848,kitchen,"Answer: Before the bathroom the milk was in the hallway.
+
+Example:
+John journeyed to the bedroom",Where was the milk before the bathroom? 
+849,office,"Answer: Before the bathroom the football was in the hallway.
+
+
+A: I think you can use a",Where was the football before the bathroom? 
+850,office,"Answer: Before the kitchen the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the kitchen? 
+851,bedroom,"Answer: Before the office the apple was in the garden.
+
+
+A: I'm not sure if",Where was the apple before the office? 
+852,bedroom,"Answer: Before the office the apple was in the garden.
+
+
+Answer: I'm not sure if this",Where was the apple before the office? 
+853,bathroom,"Answer: Before the bedroom the milk was in the garden.
+
+
+A: I'm not sure if",Where was the milk before the bedroom? 
+854,hallway,"Answer: Before the garden the football was in the office.
+
+
+Answer: I'm not sure if",Where was the football before the garden? 
+855,garden,Answer: Before the bedroom the milk was in the garden.,Where was the milk before the bedroom? 
+856,kitchen,"Answer: Before the garden the football was in the hallway.
+
+
+A: I'm not sure if",Where was the football before the garden? 
+857,bedroom,"Answer: Before the office the football was in the garden.
+
+I'm not sure if this is the",Where was the football before the office? 
+858,garden,"Answer: Before the bedroom the football was in the garden.
+
+Example:
+John journeyed to the bedroom",Where was the football before the bedroom? 
+859,hallway,"Answer: Before the kitchen the football was in the garden.
+
+Question: Where was the apple before the kitchen",Where was the football before the kitchen? 
+860,hallway,"Answer: Before the kitchen the football was in the garden.
+
+
+A: I'm not sure if",Where was the football before the kitchen? 
+861,hallway,Answer: Before the kitchen the football was in the hallway.,Where was the football before the kitchen? 

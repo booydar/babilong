@@ -1,0 +1,3835 @@
+,target,output,question
+0,hallway,"Label: balcony
+
+<context>
+""Father and I had tea",Where is John? 
+1,bathroom,"Answer: The bathroom
+
+<context>
+""I've brought you a",Where is Mary? 
+2,kitchen,"Label: bathroom
+
+<context>
+""I'm glad you've",Where is Sandra? 
+3,hallway,"Label: hallway
+
+<example>
+John went to the hallway. The",Where is Sandra? 
+4,kitchen,"Label: hallway
+
+<context>
+Their lord shall speed the signal on",Where is Sandra? 
+5,hallway,"Label: balcony
+
+<context>
+[204] Tombe",Where is Sandra? 
+6,garden,"Label: balcony
+
+<context>
+You have seen, you must have",Where is Sandra? 
+7,hallway,"Output: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+8,office,"Label: The most recent location of Charlie is balcony.
+
+
+<example",Where is Sandra? 
+9,office,"Output: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+10,kitchen,"Output: The most recent location of Mary is the kitchen.
+
+<context>",Where is Mary? 
+11,garden,"Label: balcony
+
+<context>
+     ""I have been in the",Where is Mary? 
+12,office,"Output: The most recent location of Daniel is the office.
+
+<context>",Where is Daniel? 
+13,bedroom,"Label: The most recent location of Mary is the garden.
+
+<context>",Where is Mary? 
+14,bedroom,"Label: balcony
+
+<context>
+You know
+I've offered",Where is Mary? 
+15,kitchen,"Label: The most recent location of John is hallway.
+</example>",Where is John? 
+16,garden,"Answer: The most recent location of John is garden.
+</example>
+
+<example",Where is John? 
+17,kitchen,"Label: balcony
+
+<example>
+John went to the hallway.",Where is John? 
+18,office,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+19,kitchen,"Output: balcony
+
+<context>
+2]",Where is John? 
+20,hallway,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is Mary? 
+21,office,"Label: office
+
+<context>
+I am not bound to feel for a Ch",Where is John? 
+22,office,"Label: hallway
+
+<context>
+I shall also say more further on of",Where is John? 
+23,hallway,"Label: hallway
+
+<context>
+Surely you
+did not read",Where is Sandra? 
+24,bedroom,"Label: hallway
+
+<context>
+""I'm a-going to",Where is Daniel? 
+25,bedroom,"Label: balcony
+
+<context>
+I'd help if folks",Where is Sandra? 
+26,bedroom,"Label: bedroom
+
+<context>
+""I'm not going to be",Where is Mary? 
+27,kitchen,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+28,kitchen,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+29,kitchen,"Label: bedroom
+
+<context>
+""I have been in the habit of",Where is Daniel? 
+30,hallway,"Output: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+31,office,"Label: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+32,kitchen,"Output: The most recent location of Sandra is office.
+
+<example>",Where is Sandra? 
+33,kitchen,"Label: bedroom
+
+<context>
+The Commandeur, President (abs",Where is Sandra? 
+34,bathroom,"Label: balcony
+
+<context>
+The western waves of ebbing",Where is Sandra? 
+35,office,"Label: balcony
+
+<context>
+--
+    ""Now, by",Where is Mary? 
+36,bathroom,"Label: hallway
+
+<context>
+The hearth's decaying br",Where is Mary? 
+37,garden,"Label: balcony
+
+<context>
+The coal-horses of",Where is Mary? 
+38,kitchen,"Label: balcony
+
+<context>
+The fellow who rushed into business",Where is Sandra? 
+39,bedroom,"Label: hallway
+
+<context>
+""This looks bad for us, old",Where is Daniel? 
+40,bathroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Sandra? 
+41,garden,"Output: balcony
+
+<context>
+Sometimes the stomach is",Where is Daniel? 
+42,bathroom,"Output: balcony
+
+<context>
+The alcohol has in this way",Where is Sandra? 
+43,hallway,"Label: balcony
+
+<context>
+The first thing to do is to",Where is Daniel? 
+44,garden,"Label: The most recent location of Daniel is garden.
+
+<context>
+There",Where is Daniel? 
+45,kitchen,"Label: balcony
+
+<context>
+[Footnote 111:",Where is Mary? 
+46,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+47,bathroom,"Label: hallway
+
+<example>
+Charlie went to the hallway.",Where is Sandra? 
+48,office,"Label: office
+
+<context>
+The first thing that strikes the attention of",Where is John? 
+49,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+50,bedroom,"Output: bedroom
+
+<context>
+The first of the great American railroad",Where is John? 
+51,office,"Label: The most recent location of John is office.
+
+<context>
+In",Where is John? 
+52,garden,"Label: balcony
+
+<context>
+[Illustration: COPYRIG",Where is John? 
+53,garden,"Label: balcony
+
+<context>
+The
+
+
+
+
+CH",Where is John? 
+54,kitchen,"Output: the stable
+
+<context>
+“I’m going to the beach",Where is Daniel? 
+55,bedroom,"Label: balcony
+
+
+
+
+[Illustration]",Where is Mary? 
+56,kitchen,"Label: The most recent location of Mary is the garden.
+
+<context>",Where is Mary? 
+57,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+58,garden,"Label: balcony
+
+<context>
+The
+     old lady, who",Where is Daniel? 
+59,hallway,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+60,hallway,"Label: hallway
+
+<context>
+The first of these was the death of",Where is Sandra? 
+61,office,"Label: office
+
+<example>
+Judith went to the hallway.",Where is Daniel? 
+62,bathroom,"Label: The most recent location of Charlie is balcony.
+
+<context>",Where is Sandra? 
+63,garden,"Output: The office.
+
+<context>
+The mercury does range lower",Where is Daniel? 
+64,garden,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+65,kitchen,"Label: balcony
+
+<context>
+Johnnie was her delighted assistant",Where is John? 
+66,kitchen,"Label: balcony
+
+<context>
+JOHN GOUGH,",Where is John? 
+67,bathroom,"Label: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+68,office,"Output: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+69,office,"Label: balcony
+
+<context>
+The first thing to do is to",Where is Daniel? 
+70,garden,"Label: beach
+
+<context>
+Their advertising, the tales of wonderful",Where is Mary? 
+71,hallway,"Label: balcony
+
+<context>
+""I'll believe what you",Where is Sandra? 
+72,garden,"Label: balcony
+
+<context>
+""But if you feel that way",Where is Mary? 
+73,bedroom,"Label: hallway
+
+<context>
+""So,"" thought Alfred, ""this",Where is Mary? 
+74,bathroom,"Label: bathroom
+
+<context>
+""Wait a minute,"" called Agg",Where is Mary? 
+75,kitchen,"Output: The most recent location of Daniel is the kitchen.
+
+<context>",Where is Daniel? 
+76,kitchen,"Label: balcony
+
+<context>
+The following passage contains questions about the",Where is John? 
+77,kitchen,Label: balcony,Where is Daniel? 
+78,hallway,"Label: balcony
+
+<context>
+John went to the hallway.",Where is Daniel? 
+79,office,"Label: balcony
+
+<context>
+What are the substances which we",Where is Daniel? 
+80,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+81,bathroom,"Label: balcony
+
+<context>
+""Pass in,"" said the sent",Where is John? 
+82,bedroom,"Label: bedroom
+
+<context>
+The king was in the hallway.",Where is Sandra? 
+83,garden,"Output: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+84,office,"Label: balcony
+
+<context>
+In him we see the first of",Where is Daniel? 
+85,garden,"Label: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+86,garden,"Label: garden
+
+<context>
+The Grand-duke and his suite,",Where is Mary? 
+87,hallway,"Output: balcony
+
+<context>
+""Well, you see, dear",Where is John? 
+88,kitchen,"Output: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+89,kitchen,"Label: balcony
+
+<context>
+The first thing to be said is",Where is Daniel? 
+90,bathroom,"Label: balcony
+
+<context>
+The first thing that struck me was",Where is Sandra? 
+91,bathroom,"Label: balcony
+
+<context>
+You had
+better leave the",Where is John? 
+92,hallway,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is Sandra? 
+93,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+94,bathroom,"Label: bathroom
+
+<context>
+The first thing to be said of the",Where is Sandra? 
+95,kitchen,"Label: balcony
+
+<context>
+Judith went to the hall",Where is John? 
+96,kitchen,"Label: The most recent location of Sandra is beach.
+
+<context>",Where is Sandra? 
+97,kitchen,"Output: bedroom
+
+<context>
+[_Withdrawing his hand with pain",Where is Mary? 
+98,bedroom,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+99,bedroom,"Label: bedroom
+
+<context>
+""When he was
+young,""",Where is Mary? 
+100,bedroom,"Label: balcony
+
+<context>
+The improvements have cost, in actual",Where is Mary? 
+101,bathroom,Label: bathroom,Where is Sandra? 
+102,office,"Label: balcony
+
+<context>
+[Illustration: IMPROV",Where is Mary? 
+103,garden,"Output: the office.
+
+<context>
+their own homes, the story",Where is Daniel? 
+104,garden,"Label: balcony
+
+<context>
+The following is a transcript of",Where is Daniel? 
+105,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+106,bedroom,"Label: balcony
+
+<context>
+I think the collection of
+crit",Where is Daniel? 
+107,bathroom,"Answer: bedroom
+
+<context>
+The President's hatred of the English",Where is Daniel? 
+108,office,"Label: balcony
+
+<context>
+I was in the garden. I",Where is Daniel? 
+109,bedroom,"Label: balcony
+
+<context>
+The first thing that strikes the",Where is John? 
+110,bathroom,"Label: balcony
+
+<context>
+The
+first instrument which we shall",Where is Daniel? 
+111,bathroom,"Label: balcony
+
+<context>
+The instrument of the Trigon",Where is Daniel? 
+112,kitchen,"Label: balcony
+
+<context>
+_Lady Cant._ All pre",Where is John? 
+113,hallway,Label: balcony,Where is John? 
+114,kitchen,"Label: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+115,garden,"Label: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+116,office,"Label: balcony
+
+<context>
+The caterpillars are",Where is John? 
+117,kitchen,"Label: bathroom
+
+<context>
+Their first act was to kill the",Where is Mary? 
+118,bathroom,"Label: balcony
+
+<context>
+John went to the hallway.",Where is Daniel? 
+119,office,"Label: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+120,bedroom,"Label: balcony
+
+<context>
+Their
+sons, however",Where is Daniel? 
+121,bathroom,"Output: bathroom
+
+<context>
+The following is a list of the names",Where is Mary? 
+122,bedroom,"Label: balcony
+
+<context>
+Bos's office.",Where is Daniel? 
+123,hallway,"Label: balcony
+
+<context>
+A ""head gardener""--",Where is Daniel? 
+124,bedroom,"Label: bathroom
+
+<context>
+Because he rings his
+own (",Where is Mary? 
+125,office,Label: The most recent location of Sandra is office.,Where is Sandra? 
+126,garden,"Label: balcony
+
+<context>
+The first thing to be done in",Where is John? 
+127,garden,"Label: balcony
+
+<context>
+The following is a transcript of",Where is Daniel? 
+128,garden,"Label: bedroom
+
+<context>
+[Decoration]",Where is Sandra? 
+129,bathroom,"Label: balcony
+
+<context>
+John went to the hallway.",Where is Sandra? 
+130,garden,"Label: balcony
+
+<context>
+""I'm not going to",Where is Sandra? 
+131,hallway,"Label: balcony
+
+<context>
+""I am going to the operating",Where is Mary? 
+132,bathroom,"Label: balcony
+
+<context>
+Mary journeyed to the hall",Where is Sandra? 
+133,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+134,kitchen,"Label: balcony
+
+<context>
+The Epeirae are monuments",Where is John? 
+135,bathroom,"Label: bathroom
+
+<context>
+The Spider, having secured her prey",Where is Sandra? 
+136,office,"Label: balcony
+
+<context>
+The first of these was the """,Where is Sandra? 
+137,kitchen,"Label: The most recent location of John is the office.
+</example>",Where is John? 
+138,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+139,bathroom,"Label: bathroom
+
+<context>
+""And it's a great",Where is John? 
+140,office,"Label: balcony
+
+<context>
+""I'm going to have",Where is Mary? 
+141,hallway,"Label: balcony
+
+<context>
+Mary journeyed to the garden",Where is Mary? 
+142,hallway,"Label: balcony
+
+
+Question: Where is Alan?
+
+Label:",Where is Mary? 
+143,office,"Label: bathroom
+
+<context>
+The Rocket apparatus is so simple",Where is Sandra? 
+144,bedroom,"Label: bedroom
+
+<context>
+In like manner, the 42",Where is Sandra? 
+145,kitchen,"Label: balcony
+
+<context>
+The Duke of Wellington has ever",Where is Sandra? 
+146,kitchen,"Label: balcony
+
+<context>
+He had, however, brought up",Where is Sandra? 
+147,kitchen,"Label: balcony
+
+<context>
+The next day, the 1",Where is Daniel? 
+148,kitchen,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+149,kitchen,"Label: balcony
+
+<context>
+I have traced at some length",Where is Daniel? 
+150,garden,"Label: balcony
+
+<context>
+Mary went to the hallway",Where is Daniel? 
+151,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+152,bathroom,"Label: The most recent location of Daniel is garden.
+
+<context>
+“",Where is Daniel? 
+153,office,"Label: balcony
+
+<context>
+“I’m going to have",Where is Daniel? 
+154,bedroom,"Label: bedroom
+
+<context>
+“I’m going to begin right",Where is John? 
+155,bathroom,"Label: bathroom
+
+<context>
+The man who had been sitting opposite to",Where is Mary? 
+156,garden,"Label: bedroom
+
+<context>
+""I'm glad you've",Where is Daniel? 
+157,bedroom,"Label: balcony
+
+<context>
+The priest's head sank",Where is John? 
+158,office,"Label: bedroom
+
+<context>
+The sounds which eddied the en",Where is John? 
+159,hallway,"Label: balcony
+
+<context>
+The sticks are fastened in",Where is Mary? 
+160,bedroom,"Label: balcony
+
+<context>
+2 having thus received
+the Ro",Where is Daniel? 
+161,bedroom,"Label: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+162,bedroom,"Label: bedroom
+
+<context>
+The man went to the hallway.",Where is Mary? 
+163,garden,"Label: balcony
+
+<context>
+A moving picture, a living pan",Where is Mary? 
+164,bathroom,"Output: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+165,garden,"Label: balcony
+
+<context>
+'I'm not going to",Where is Sandra? 
+166,garden,"Label: balcony
+
+<context>
+They looked up into serene spaces",Where is Sandra? 
+167,garden,"Label: balcony
+
+<context>
+""Quite,"" said the young",Where is Daniel? 
+168,kitchen,"Label: hallway
+
+<example>
+John went to the hallway. Mary",Where is Daniel? 
+169,bedroom,"Label: balcony
+
+<context>
+""Yes, in this country--",Where is Mary? 
+170,office,"Label: balcony
+
+<context>
+""The governor answered me as I",Where is Daniel? 
+171,office,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+172,garden,"Label: The most recent location of John is office.
+
+<context>
+The",Where is John? 
+173,bathroom,Label: The most recent location of Charlie is balcony.,Where is Sandra? 
+174,bathroom,"Label: the garden
+
+<context>
+He unlocked a tiny drawer in",Where is Sandra? 
+175,office,"Output: balcony
+
+<context>
+“I’m glad you’",Where is Sandra? 
+176,kitchen,"Output: The most recent location of Sandra is hallway.
+
+<example>",Where is Sandra? 
+177,bedroom,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+178,office,"Label: balcony
+
+<context>
+""I'm going to the",Where is Sandra? 
+179,office,"Label: balcony
+
+<context>
+The man who had been sitting on",Where is Sandra? 
+180,hallway,"Label: balcony
+
+<context>
+The man went to the hallway",Where is Mary? 
+181,hallway,"Label: office
+
+<context>
+The sun was setting, and the moon was",Where is Mary? 
+182,hallway,"Label: hallway
+
+<context>
+""Back from the Comradeship",Where is Daniel? 
+183,hallway,"Label: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+184,bedroom,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+185,bathroom,"Label: balcony
+
+<context>
+""I come on a rather troubles",Where is John? 
+186,office,"Output: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+187,garden,"Label: The most recent location of Mary is garden.
+
+<context>
+""",Where is Mary? 
+188,kitchen,"Label: garden
+
+<context>
+""I'm not going to be a",Where is Sandra? 
+189,office,"Label: balcony
+
+<context>
+""I'm not a bit",Where is Sandra? 
+190,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+191,kitchen,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+192,garden,"Label: hallway
+
+<context>
+""I'm going to get a",Where is Sandra? 
+193,hallway,"Label: hallway
+
+<context>
+Jimmy had been in the office",Where is Sandra? 
+194,hallway,"Label: hallway
+
+<context>
+""I'm glad you've",Where is Sandra? 
+195,garden,"Output: balcony
+
+<context>
+The energy expended on the des",Where is Mary? 
+196,office,"Label: balcony
+
+
+Question: What is the most recent location of Charlie",Where is John? 
+197,kitchen,"Output: The most recent location of Daniel is the garden.
+
+<context>",Where is Daniel? 
+198,bathroom,Label: balcony,Where is Mary? 
+199,bedroom,"Label: balcony
+
+<context>
+_Country Vicar._ ""WE",Where is John? 
+200,hallway,"Label: balcony
+
+<context>
+The train was moving at a speed",Where is Mary? 
+201,office,"Label: office
+
+<context>
+The first of these accidents, that at",Where is John? 
+202,office,"Output: The most recent location of Daniel is office.
+
+<context>
+Trans",Where is Daniel? 
+203,bedroom,"Label: bedroom
+
+<example>
+John went to the hallway. John",Where is Sandra? 
+204,hallway,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+205,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<example>",Where is Sandra? 
+206,kitchen,"Output: balcony
+
+<context>
+[Illustration]",Where is Mary? 
+207,hallway,"Label: balcony
+
+<context>
+Mary went to the hallway",Where is Sandra? 
+208,bathroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+209,hallway,"Output: The most recent location of John is hallway.
+
+<context>",Where is John? 
+210,bathroom,"Output: balcony
+
+<context>
+Their father had been a slave",Where is John? 
+211,bedroom,"Label: balcony
+
+<context>
+    The
+    first time I",Where is John? 
+212,hallway,"Label: balcony
+
+<context>
+The first thing to be said of",Where is Daniel? 
+213,bedroom,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+214,bathroom,Output: The most recent location of Sandra is bathroom.,Where is Sandra? 
+215,bedroom,"Label: balcony
+
+<context>
+""I'm not sure that",Where is Mary? 
+216,bathroom,"Label: balcony
+
+<context>
+Mary went to the hallway",Where is John? 
+217,hallway,"Label: hallway
+
+<context>
+_Silence._
+
+EMIL",Where is John? 
+218,hallway,"Label: hallway
+
+<context>
+I would prefer to see
+the whole",Where is Sandra? 
+219,bathroom,"Label: balcony
+
+<context>
+Your life--I am afraid that",Where is John? 
+220,bathroom,"Label: balcony
+</example>
+
+<example>
+Alan went",Where is Mary? 
+221,hallway,"Label: balcony
+
+<context>
+The
+next evacuation is",Where is Daniel? 
+222,kitchen,"Label: bathroom
+
+<context>
+""You can hardly resent being called",Where is Daniel? 
+223,hallway,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Sandra? 
+224,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+225,office,"Label: hallway
+
+<context>
+""I have been thinking,"" said the",Where is John? 
+226,hallway,"Label: balcony
+
+<context>
+This treaty fix'd,",Where is Daniel? 
+227,garden,"Label: hallway
+
+<context>
+_Enter_ HAMILCAR",Where is Sandra? 
+228,bathroom,"Label: balcony
+
+<context>
+_At._ Oh, help,",Where is John? 
+229,bathroom,"Label: balcony
+
+<context>
+The first thing to do was to",Where is John? 
+230,office,"Label: office
+
+<context>
+Their first care was to get the wounded",Where is Daniel? 
+231,garden,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+232,hallway,"Label: hallway
+
+<context>
+""The human body is a machine run",Where is Daniel? 
+233,office,"Label: balcony
+
+<context>
+The first hotel fire of any importance",Where is Daniel? 
+234,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+235,bedroom,"Output: balcony
+
+<context>
+A correspondent
+of one of",Where is Mary? 
+236,bedroom,"Output: balcony
+
+<context>
+Charlie went to the hallway",Where is Mary? 
+237,bedroom,"Output: The most recent location of Mary is hallway.
+</example>",Where is Mary? 
+238,bedroom,"Output: bedroom
+
+<context>
+CLEM. [Dances,",Where is Daniel? 
+239,office,"Label: balcony
+
+<context>
+Please, Geert--no more",Where is Sandra? 
+240,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+241,kitchen,"Label: The most recent location of Mary is the kitchen.
+
+<context>",Where is Mary? 
+242,garden,"Label: garden
+
+<context>
+""But----"" stammered Miss Per",Where is Mary? 
+243,garden,"Label: hallway
+
+<context>
+""I'm going to Chicago,""",Where is Mary? 
+244,kitchen,"Output: The most recent location of Mary is office.
+
+<context>
+""",Where is Mary? 
+245,kitchen,"Output: The most recent location of John is the kitchen.
+
+<context>",Where is John? 
+246,garden,"Label: garden
+
+<context>
+The following is a list of the officers who",Where is Sandra? 
+247,garden,"Label: balcony
+
+<context>
+John went to the hallway.",Where is Sandra? 
+248,garden,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Sandra? 
+249,garden,"Label: balcony
+
+<context>
+The first thing I did was to",Where is Daniel? 
+250,bedroom,"Label: balcony
+
+<context>
+The following article is a work of",Where is Daniel? 
+251,office,"Output: The most recent location of Mary is the board-room.
+
+<context",Where is Mary? 
+252,bathroom,"Label: bathroom
+
+<context>
+Address Frank Tousey, publisher",Where is Daniel? 
+253,bathroom,"Label: balcony
+
+<context>
+Address
+
+    FRANK",Where is Daniel? 
+254,bedroom,"Label: bedroom
+
+<context>
+""I'll place thee in a",Where is John? 
+255,bedroom,"Label: balcony
+
+<context>
+Sandra moved to the garden.",Where is John? 
+256,office,"Label: balcony
+
+<context>
+""I'm going to the",Where is Sandra? 
+257,office,"Label: balcony
+
+<context>
+""I am glad to see you",Where is Sandra? 
+258,kitchen,"Label: balcony
+
+<context>
+""I am glad you have come",Where is Mary? 
+259,garden,"Label: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+260,garden,A: The most recent location of Sandra is garden.,Where is Sandra? 
+261,office,"Label: balcony
+
+<context>
+‘I have been reading up the",Where is Mary? 
+262,hallway,"Output: hallway
+
+<context>
+‘I have been thinking of you all",Where is Sandra? 
+263,office,"Label: balcony
+
+<context>
+M‘Laren says:--",Where is John? 
+264,office,"Label: balcony
+
+<context>
+Who else could so effectually put",Where is John? 
+265,bathroom,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is Sandra? 
+266,garden,"Label: balcony
+
+<context>
+I rode forward
+between the lines",Where is Sandra? 
+267,bedroom,"Label: The most recent location of Sandra is the beach.
+
+<context>",Where is Sandra? 
+268,bathroom,"Output: balcony
+
+<context>
+""I'm going to the",Where is John? 
+269,bedroom,"Label: balcony
+
+<context>
+The man who had been sitting in",Where is Daniel? 
+270,kitchen,"Label: balcony
+
+<context>
+“I’m glad you’",Where is Daniel? 
+271,office,"Label: office.
+
+<context>
+""I daresay you're",Where is Sandra? 
+272,office,"Label: balcony
+
+<context>
+Wake & Wade, which",Where is Sandra? 
+273,kitchen,"Label: balcony
+
+<context>
+""I am glad you have come",Where is Daniel? 
+274,bathroom,"Label: balcony
+
+<example>
+Charlie went to the hallway",Where is Daniel? 
+275,office,"Label: balcony
+
+<context>
+The telegraph
+clerk,",Where is Sandra? 
+276,kitchen,"Label: balcony
+
+<context>
+""I am glad to see you",Where is Daniel? 
+277,hallway,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Mary? 
+278,office,"Label: balcony
+
+<context>
+""That is easily answered,"" replied",Where is John? 
+279,bathroom,"Label: bathroom
+
+<context>
+""I'm glad you've",Where is John? 
+280,bathroom,"Label: balcony
+
+<context>
+""Why don't you carry",Where is Sandra? 
+281,garden,"Label: balcony
+
+<context>
+Their first care was to establish",Where is Daniel? 
+282,office,"Output: The most recent location of Sandra is office.
+</example>",Where is Sandra? 
+283,office,"Label: balcony
+
+<example>
+Charlie went to the hallway",Where is Sandra? 
+284,garden,"Label: garden
+
+<context>
+""I have been thinking,"" said the Duch",Where is John? 
+285,office,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is John? 
+286,bathroom,"Label: balcony
+
+<context>
+""I recognised him--yes",Where is Sandra? 
+287,office,"Label: balcony
+
+<context>
+Their first act was to kill",Where is John? 
+288,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<context",Where is Daniel? 
+289,bathroom,"Label: bathroom
+
+<context>
+Sandra went to the hallway.",Where is Sandra? 
+290,kitchen,"Answer: The most recent location of Mary is the kitchen.
+</example>
+
+<",Where is Mary? 
+291,kitchen,"Label: balcony
+
+<context>
+The first of these was precipitated",Where is John? 
+292,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+293,kitchen,"Label: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+294,kitchen,"Label: balcony
+
+<example>
+John went to the hallway.",Where is John? 
+295,garden,"Label: balcony
+
+<context>
+The houses are high,
+but",Where is Sandra? 
+296,garden,"Output: balcony
+
+<context>
+Description of the towns and cities of",Where is Daniel? 
+297,hallway,"Output: The most recent location of John is hallway.
+
+<context>",Where is John? 
+298,hallway,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+299,bathroom,"Label: bedroom
+
+<context>
+This
+composition also he must try",Where is Mary? 
+300,bathroom,"Label: balcony
+
+<context>
+""Just give him a call,",Where is Mary? 
+301,bathroom,"Label: The most recent location of Mary is shop.
+
+<context>
+The",Where is Mary? 
+302,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+303,office,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+304,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+305,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+306,bathroom,"Label: balcony
+
+<context>
+He was thinking that there must be",Where is Daniel? 
+307,office,"Label: balcony
+
+<context>
+""I see now that
+it",Where is Daniel? 
+308,office,"Label: balcony
+
+<context>
+She was beginning to think that",Where is Daniel? 
+309,kitchen,"Label: balcony
+
+<context>
+The man went to the hallway",Where is John? 
+310,garden,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is Daniel? 
+311,garden,"Label: balcony
+
+<context>
+The priest then asked me if I",Where is Sandra? 
+312,office,"Label: balcony
+
+<context>
+The next day, as I was",Where is Daniel? 
+313,bedroom,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+314,garden,"Label: The most recent location of John is garden.
+
+<context>
+""",Where is John? 
+315,office,"Label: balcony
+
+<context>
+The very truth
+is, I",Where is Mary? 
+316,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+317,office,"Label: The most recent location of Mary is office.
+
+<context>
+A",Where is Mary? 
+318,office,"Label: balcony
+
+<context>
+'Well, we're all",Where is Mary? 
+319,garden,"Label: balcony
+
+<context>
+John went to the hallway.",Where is Daniel? 
+320,garden,"Output: balcony
+
+<context>
+'They obtained possession of them by",Where is John? 
+321,kitchen,"Label: balcony
+
+<context>
+Their first child, a son",Where is Sandra? 
+322,kitchen,"Output: balcony
+
+<context>
+The young astronomer and his W",Where is Sandra? 
+323,garden,"Label: The most recent location of Daniel is office.
+
+<context>
+We",Where is Daniel? 
+324,garden,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+325,bathroom,"Label: bathroom
+
+<context>
+The man who had been sitting on the",Where is Sandra? 
+326,bedroom,"Label: balcony
+
+<context>
+The old man was a kind of",Where is John? 
+327,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+328,garden,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+329,bedroom,"Label: bedroom
+
+<context>
+The
+inquiries he made were",Where is Daniel? 
+330,kitchen,"Label: balcony
+
+<context>
+I told him none; but that",Where is Sandra? 
+331,office,"Label: The most recent location of John is the office.
+
+<context>",Where is John? 
+332,kitchen,"Label: balcony
+
+<context>
+The letter A.
+
+If",Where is Sandra? 
+333,bedroom,"Label: balcony
+
+<context>
+Daniel journeyed to the hallway",Where is Daniel? 
+334,bedroom,"Label: balcony
+
+<context>
+The angry Bill waited for no second",Where is Daniel? 
+335,office,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+336,hallway,"Output: hallway
+
+<context>
+""I'll be back in a",Where is Daniel? 
+337,office,"Label: garden
+
+<context>
+He only said a few words in his sleep",Where is Sandra? 
+338,hallway,"Label: hallway
+
+<context>
+He speaks
+simply, his",Where is Sandra? 
+339,hallway,,Where is Sandra? 
+340,hallway,"Output: The hallway.
+
+<context>
+At one of the villages they",Where is Mary? 
+341,garden,"Label: balcony
+
+<context>
+""We were going to have a",Where is Mary? 
+342,office,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+343,kitchen,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+344,garden,"Output: the Dilkoosha.
+
+<context>
+The Mahar",Where is Sandra? 
+345,office,"Label: The most recent location of Mary is office.
+
+<context>
+The",Where is Mary? 
+346,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+347,hallway,"Label: balcony
+
+<context>
+34,
+and the Note",Where is John? 
+348,kitchen,"Label: balcony
+
+<context>
+It has, however, the same",Where is Mary? 
+349,kitchen,"Label: hallway
+
+<context>
+""I'm glad you're",Where is John? 
+350,bedroom,"Label: balcony
+
+<context>
+_Miss Pauline A. Shaw",Where is Sandra? 
+351,garden,"Label: balcony
+
+<context>
+So he promised to withdraw it,",Where is John? 
+352,garden,"Label: balcony
+
+<context>
+I went to bed, my wife",Where is Sandra? 
+353,bedroom,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+354,bedroom,"Label: bedroom
+
+<context>
+The following is a conversation between two people",Where is Sandra? 
+355,bathroom,"Label: balcony
+
+<context>
+Here, [625]",Where is Sandra? 
+356,office,"Label: balcony
+
+<context>
+In order the better to watch without",Where is John? 
+357,hallway,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+358,garden,"Output: garden
+
+<context>
+The hills grow dark,
+      On pur",Where is Mary? 
+359,hallway,"Label: The most recent location of Mary is hallway.
+</example>",Where is Mary? 
+360,garden,"Label: balcony
+
+<context>
+Their Excellencies have also",Where is Daniel? 
+361,bathroom,"Label: bathroom
+
+<context>
+Their Excellencies will be glad",Where is Daniel? 
+362,garden,"Label: balcony
+
+<context>
+The captain's story was finished",Where is Mary? 
+363,garden,"Label: balcony
+
+<context>
+The next day, when the men",Where is John? 
+364,garden,"Output: balcony
+
+<context>
+""I suppose that's because",Where is Daniel? 
+365,garden,"Label: balcony
+
+<example>
+Judith went to the hall",Where is Sandra? 
+366,garden,"Label: balcony
+
+
+Question: Where is Alan?
+
+Label:",Where is Sandra? 
+367,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+368,hallway,"Label: hallway
+
+<context>
++----------------------------------------------------------------- +",Where is Mary? 
+369,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+370,hallway,"Label: hallway
+
+<context>
+The Confederate army was in a strong",Where is Daniel? 
+371,hallway,"Label: balcony
+
+<context>
+""I should have let your father",Where is Daniel? 
+372,garden,"Label: bedroom
+
+<context>
+The village boasted of one constable",Where is Mary? 
+373,garden,"Label: The most recent location of Mary is the hallway.
+
+<context>",Where is Mary? 
+374,office,"Label: hallway
+
+<context>
+""I'm going to have a",Where is Mary? 
+375,bedroom,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+376,kitchen,"Label: balcony
+
+<context>
+The Butterfly
+is a",Where is Sandra? 
+377,bathroom,Label: The most recent location of Sandra is bathroom.,Where is Sandra? 
+378,bathroom,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+379,bedroom,"Label: balcony
+
+<context>
+The Camembert is one of",Where is John? 
+380,bathroom,"Label: balcony
+
+<context>
+The next day, I went to",Where is Mary? 
+381,bedroom,"Label: balcony
+
+<context>
+The priest directed me to stand upon",Where is John? 
+382,bedroom,"Output: the council.
+
+<context>
+Had I been kindly treated,",Where is Mary? 
+383,office,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is Sandra? 
+384,office,"Label: hallway
+
+<context>
+""I take you into my service,",Where is Mary? 
+385,kitchen,"Label: balcony
+
+<context>
+de Chabanon;
+Mor",Where is Sandra? 
+386,office,"Output: balcony
+
+<context>
+Sandra journeyed to the hall",Where is Mary? 
+387,office,"Label: bathroom
+
+<context>
+""I'm going to South America",Where is John? 
+388,office,"Label: The most recent location of Mary is the office.
+
+<context>",Where is Mary? 
+389,kitchen,"Answer: The most recent location of Sandra is office.
+</example>
+
+<",Where is Sandra? 
+390,kitchen,"Answer: balcony
+
+<context>
+he has gone to his account;",Where is Mary? 
+391,hallway,"Output: balcony
+
+<context>
+The sentence was read, and orders",Where is Daniel? 
+392,bathroom,"Label: balcony
+
+<context>
+The
+Federal troops were",Where is Mary? 
+393,bedroom,"Label: balcony
+
+<context>
+The Union line had been pierced",Where is Mary? 
+394,office,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+395,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<example",Where is Daniel? 
+396,bedroom,"Label: balcony
+
+<context>
+The Boers have been preparing",Where is Daniel? 
+397,office,"Label: balcony
+
+<context>
+The Transvaal Government has been",Where is Daniel? 
+398,bathroom,"Label: bedroom
+
+<context>
+The United States of America have had a",Where is Sandra? 
+399,garden,"Label: hallway
+
+<context>
+""I'm not a bit afraid",Where is Sandra? 
+400,bedroom,Output: The most recent location of John is the upper chamber of Heywood's house,Where is John? 
+401,garden,"Label: balcony
+
+<context>
+The man who had been sitting on",Where is John? 
+402,bedroom,"Label: balcony
+
+<context>
+You
+can pay me principal and",Where is John? 
+403,kitchen,"Label: balcony
+
+<context>
+""I'm sure, father",Where is Sandra? 
+404,office,"Label: garden
+
+<context>
+""I'm glad you've come",Where is Sandra? 
+405,kitchen,"Output: balcony
+
+<context>
+The osiers, o'",Where is Daniel? 
+406,hallway,"Label: balcony
+
+<context>
+""I'm a-go",Where is Daniel? 
+407,bedroom,"Label: balcony
+
+<context>
+Daniel journeyed to the hallway",Where is Sandra? 
+408,garden,"Label: The most recent location of Mary is garden.
+
+<context>
+Daniel",Where is Mary? 
+409,kitchen,"Output: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+410,bedroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+411,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+412,bathroom,"Output: in the garden.
+
+<context>
+This explosion was
+follow",Where is Sandra? 
+413,hallway,"Label: balcony
+
+<context>
+I looked out for such, and",Where is Daniel? 
+414,office,"Label: bedroom
+
+<context>
+I have referred more than once to the",Where is Sandra? 
+415,bedroom,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+416,bedroom,"Label: balcony
+
+<context>
+The Chieftain's",Where is Daniel? 
+417,kitchen,"Label: balcony
+
+<context>
+The hallow'd creed",Where is John? 
+418,hallway,"Label: hallway
+
+<context>
+The rocks, the bosky[1",Where is Sandra? 
+419,bathroom,"Label: bathroom
+
+<context>
+cried the little woodmouse, his",Where is Sandra? 
+420,hallway,"Label: balcony
+
+<context>
+The old lady was sitting in the",Where is Sandra? 
+421,hallway,"Label: balcony
+
+<context>
+""I'm so glad you",Where is Sandra? 
+422,bathroom,"Label: office
+
+<context>
+""'And is not the surgeon,",Where is Sandra? 
+423,hallway,"Output: hallway
+
+<context>
+What must we think of
+the one",Where is Daniel? 
+424,bedroom,"Label: bedroom
+
+<context>
+""I'm going to make a",Where is Mary? 
+425,kitchen,"Label: The most recent location of John is the shop.
+
+<context>",Where is John? 
+426,kitchen,"Output: balcony
+
+<context>
+[_Looking out of the window",Where is John? 
+427,office,"Output: The most recent location of John is hallway.
+
+
+
+_Trans",Where is John? 
+428,bedroom,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+429,bedroom,"Label: bathroom
+
+<context>
+“I’m going to get out",Where is Sandra? 
+430,office,"Output: balcony
+
+<context>
+“I’m going to the",Where is John? 
+431,kitchen,"Label: balcony
+
+<context>
+""I'm no sure,""",Where is John? 
+432,kitchen,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+433,kitchen,"Label: The most recent location of Mary is garden.
+
+<context>
+The",Where is Mary? 
+434,office,"Label: office
+
+<context>
+The greatest victory of the voussoir is",Where is Daniel? 
+435,garden,"Label: garden
+
+<context>
+""Can't you ask for a to",Where is Sandra? 
+436,kitchen,"Label: The most recent location of Mary is the garden.
+
+<context>",Where is Mary? 
+437,bathroom,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+438,bedroom,"Label: balcony
+
+<context>
+Mary went to the hallway",Where is Daniel? 
+439,garden,"Label: balcony
+
+<context>
+Here Tregeagle, the great",Where is John? 
+440,bedroom,"Label: The most recent location of Sandra is the back room.
+
+<context",Where is Sandra? 
+441,hallway,"Label: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+442,bathroom,"Label: hallway
+
+<context>
+""Yes, Burt,"" added Web",Where is Daniel? 
+443,garden,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+444,bedroom,"Label: bedroom
+
+<context>
+CANTO XXXIII
+
+H",Where is Daniel? 
+445,garden,"Label: balcony
+
+<context>
+The next day, the two of",Where is Daniel? 
+446,bedroom,"Label: balcony
+
+<context>
+In the hall, through the open",Where is Sandra? 
+447,hallway,"Label: balcony
+
+<context>
+.........................
+
+That same",Where is Daniel? 
+448,garden,"Label: balcony
+
+<context>
+Inglis’ patient for twenty",Where is Daniel? 
+449,kitchen,"Label: bedroom
+
+<context>
+The attitude of regarding the world as a",Where is Sandra? 
+450,kitchen,"Label: balcony
+
+<context>
+'I can see 'ow it",Where is John? 
+451,kitchen,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+452,kitchen,"Output: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+453,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+454,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+455,kitchen,"Label: The most recent location of Sandra is the kitchen.
+
+<context>",Where is Sandra? 
+456,bedroom,"Label: bedroom
+
+<context>
+The man went to the hallway.",Where is Mary? 
+457,hallway,"Output: balcony
+
+<context>
+I must--it is my im",Where is John? 
+458,garden,"Label: The most recent location of John is garden.
+
+<context>
+In",Where is John? 
+459,hallway,"Label: hallway
+
+<context>
+She said that Jimmie
+had",Where is Sandra? 
+460,bathroom,"Label: balcony
+
+<context>
+""I'm going to be",Where is Sandra? 
+461,garden,"Label: balcony
+
+<context>
+“I’m going to have",Where is Sandra? 
+462,bedroom,"Label: balcony
+
+<context>
+“I’m glad you’",Where is John? 
+463,office,"Label: office
+
+<example>
+John went to the office. John went to",Where is John? 
+464,garden,"Label: The most recent location of John is garden.
+
+<context>
+“",Where is John? 
+465,garden,"Output: garden
+
+<context>
+“It’s a gentleman, mamma",Where is Sandra? 
+466,bedroom,"Label: bedroom
+
+<context>
+“I never saw one,” Ruby returns",Where is Daniel? 
+467,bedroom,"Output: The most recent location of Daniel is the bedroom.
+
+<context>",Where is Daniel? 
+468,bedroom,"Output: bedroom
+
+<context>
+""I have been thinking,"" said Harry",Where is Sandra? 
+469,office,"Label: The most recent location of John is office.
+
+<context>
+""",Where is John? 
+470,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+471,office,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+472,office,"Label: balcony
+
+<context>
+The next day, after the departure",Where is Mary? 
+473,bathroom,"Label: balcony
+
+<context>
+""I'm glad to see",Where is John? 
+474,kitchen,"Label: balcony
+
+<context>
+He had been a good son to",Where is John? 
+475,garden,"Label: balcony
+
+<context>
+The
+moon was obscured",Where is John? 
+476,bathroom,"Label: bathroom
+
+<context>
+The first of the branch trains, it",Where is Mary? 
+477,kitchen,"Label: The most recent location of Sandra is kitchen.
+
+<context>",Where is Sandra? 
+478,garden,"Label: balcony
+
+<context>
+The first train to arrive at the",Where is John? 
+479,bathroom,"Label: balcony
+
+<context>
+""It will all break up in",Where is John? 
+480,bedroom,"Label: balcony
+
+<context>
+Their first meeting was at the",Where is Sandra? 
+481,bedroom,"Label: balcony
+
+<context>
+""To be sure, uncle Web",Where is Sandra? 
+482,hallway,"Label: balcony
+
+<context>",Where is Daniel? 
+483,hallway,"Label: balcony
+
+<context>
+The next day, as he was",Where is John? 
+484,garden,"Label: balcony
+
+<context>
+The Sentimental Journey",Where is John? 
+485,bedroom,"Label: balcony
+
+<context>
+The _Allgemeine deutsche Bibli",Where is Daniel? 
+486,bathroom,"Label: balcony
+
+<context>
+Anz._ represents the high-",Where is Sandra? 
+487,hallway,"Label: balcony
+
+<context>
+A long idle lifetime
+the Fol",Where is Daniel? 
+488,bedroom,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+489,bathroom,"Output: hallway
+
+<context>
+The
+path led him across a field",Where is Daniel? 
+490,kitchen,"Label: The most recent location of Daniel is the kitchen.
+
+<context>",Where is Daniel? 
+491,bedroom,"Label: balcony
+
+<context>
+The man went to the hallway",Where is John? 
+492,bedroom,"Label: balcony
+
+<context>
+""I have been thinking, my",Where is John? 
+493,garden,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is John? 
+494,garden,"Label: balcony
+
+<context>
+""I'm going to marry",Where is John? 
+495,kitchen,"Label: balcony
+
+<context>
+cried Alfred, when Jimmy had",Where is Mary? 
+496,kitchen,"Label: balcony
+
+
+
+
+THE CHINESE SIGN MAN",Where is Mary? 
+497,bedroom,"Output: bedroom
+
+<context>
+The following is a list of the most",Where is Sandra? 
+498,hallway,"Label: The most recent location of John is office.
+
+<context>
+The",Where is John? 
+499,hallway,"Output: balcony
+
+<context>
+HEADQUARTERS, LA",Where is John? 
+500,kitchen,"Output: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+501,garden,"Label: balcony
+
+<context>
+The first thing that strikes the",Where is Daniel? 
+502,bathroom,"Label: balcony
+
+<context>
+The first thing that strikes the",Where is Daniel? 
+503,hallway,"Output: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+504,bathroom,"Label: balcony
+
+<context>
+These Rockets are supposed to",Where is Daniel? 
+505,kitchen,"Label: balcony
+
+<context>
+The 24-pound",Where is Mary? 
+506,bedroom,"Label: bathroom
+
+<context>
+The following is a list of the most",Where is Sandra? 
+507,office,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Daniel? 
+508,office,"Label: bathroom
+
+<context>
+""I'm glad you've",Where is Daniel? 
+509,bedroom,"Label: balcony
+
+<context>
+""I'm not going to",Where is Daniel? 
+510,bedroom,"Label: balcony
+
+<context>
+""I'm not sure I",Where is John? 
+511,office,"Label: balcony
+
+<context>
+It was a very hot day,",Where is Mary? 
+512,bedroom,"Label: balcony
+
+<context>
+Their first task was to get",Where is Mary? 
+513,bedroom,"Label: bedroom.
+
+<context>
+The following unpublished letter gives",Where is Mary? 
+514,office,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+515,bathroom,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Mary? 
+516,bathroom,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Daniel? 
+517,bedroom,"Label: balcony
+
+<context>
+""I'm going to have",Where is Sandra? 
+518,hallway,"Label: hallway
+
+<context>
+""I'm going to see the",Where is Daniel? 
+519,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+520,office,"Label: office
+
+<context>
+You've been making lots of fighting talk",Where is Sandra? 
+521,office,"Label: balcony
+
+<context>
+The pancreas is a g",Where is Daniel? 
+522,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+523,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+524,garden,"Label: balcony
+
+<context>
+The first of these was the _",Where is Sandra? 
+525,hallway,"Label: hallway
+
+<example>
+Judith went to the hallway",Where is Mary? 
+526,office,"Label: balcony
+
+<context>
+*       *       *       *",Where is Daniel? 
+527,garden,"Label: The most recent location of Daniel is garden.
+
+<context>
+I",Where is Daniel? 
+528,garden,"Label: balcony
+
+<context>
+When they
+reached home,",Where is Daniel? 
+529,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+530,garden,"Label: balcony
+
+<context>
+     ""I have been told that",Where is John? 
+531,garden,"Output: The most recent location of John is garden.
+</example>
+
+<",Where is John? 
+532,garden,"Label: The most recent location of John is balcony.
+
+<context>",Where is John? 
+533,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+534,bathroom,"Label: bedroom
+
+<context>
+This Confession is to be both free",Where is Daniel? 
+535,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+536,bedroom,"Label: bedroom
+
+<context>
+The Semi-drunk was now",Where is Sandra? 
+537,hallway,Label: The most recent location of Charlie is balcony.,Where is Sandra? 
+538,hallway,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+539,bedroom,"Label: The most recent location of Sandra is bedroom.
+</example>",Where is Sandra? 
+540,garden,"Output: balcony
+
+<context>
+[(30)]
+
+The",Where is John? 
+541,office,"Label: balcony
+
+<context>
+The Court of Justice has of late",Where is Mary? 
+542,hallway,"Output: balcony
+
+<context>
+""I'm sure I don",Where is Daniel? 
+543,hallway,"Label: hallway
+
+<context>
+""I'm glad you've",Where is John? 
+544,kitchen,Label: balcony,Where is Daniel? 
+545,garden,Output: The most recent location of Sandra is beach.,Where is Sandra? 
+546,kitchen,"Label: balcony
+
+<context>
+At ten
+o'clock,",Where is Mary? 
+547,kitchen,"Label: balcony
+
+<context>
+_Sunday, June_",Where is Mary? 
+548,hallway,"Label: balcony
+
+<context>
+Another attempt was more satisfactory",Where is John? 
+549,bedroom,"Label: The most recent location of Daniel is bedroom.
+</example>",Where is Daniel? 
+550,bedroom,"Label: balcony
+
+<context>
+The person of whom this was spoken",Where is John? 
+551,bathroom,"Label: balcony
+
+<context>
+""It is hard for me to",Where is John? 
+552,office,"Label: balcony
+
+<context>
+The same train
+of reasoning,",Where is John? 
+553,bedroom,"Label: The hallway
+
+<context>
+""I'm so glad you",Where is Daniel? 
+554,kitchen,"Label: bedroom
+
+<context>
+The original flag is still in possession of",Where is Daniel? 
+555,hallway,"Label: balcony
+
+<context>
+""I'm going to the",Where is Sandra? 
+556,kitchen,"Label: balcony
+
+<context>
+I
+inclosed a stanza",Where is Mary? 
+557,bedroom,"Label: balcony
+
+<context>
+The following article is about the history",Where is Daniel? 
+558,bedroom,"Output: the train to Greenock.
+
+<context>
+“I want you",Where is Daniel? 
+559,bedroom,"Output: the bathroom.
+</example>
+
+<context>
+“I",Where is Mary? 
+560,garden,"Label: balcony
+
+<context>
+""I'm going to be",Where is Daniel? 
+561,bedroom,"Output: balcony
+
+<context>
+""I seem to feel his fra",Where is Sandra? 
+562,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Sandra? 
+563,kitchen,"Label: balcony
+
+<context>
+""I'm going to tell",Where is Daniel? 
+564,bedroom,"Output: bedroom
+
+<context>
+""No, I can't remember",Where is Sandra? 
+565,bathroom,"Label: balcony
+
+<context>
+The man who had been sitting on",Where is John? 
+566,bathroom,"Label: balcony
+
+<context>
+'I'm not going to",Where is John? 
+567,kitchen,"Label: balcony
+
+<context>
+I can make it
+cover if",Where is Daniel? 
+568,bedroom,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+569,bedroom,"Label: balcony
+
+<context>
+The next day, the 2",Where is Sandra? 
+570,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+571,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+572,kitchen,"Label: balcony
+
+<context>
+""I have no such hope,""",Where is Sandra? 
+573,kitchen,"Label: balcony
+
+<context>
+""Sister,"" said Lord Ev",Where is John? 
+574,office,"Label: hallway
+
+
+
+
+THE WOODS OF AMERIC",Where is Sandra? 
+575,bathroom,Label: bathroom,Where is John? 
+576,bedroom,"Label: balcony
+
+<context>
+--
+    (For while the",Where is John? 
+577,hallway,"Label: bathroom
+
+<context>
+The king was in the hallway.",Where is Daniel? 
+578,bedroom,"Label: balcony
+
+<context>
+""It was not that I meant",Where is Daniel? 
+579,bedroom,"Label: bathroom
+
+<context>
+""I'm going to the beach",Where is Daniel? 
+580,hallway,"Label: balcony
+
+<context>
+""I'm going to marry",Where is John? 
+581,hallway,"Label: balcony
+
+<context>
+""That's all very well",Where is John? 
+582,garden,"Label: balcony
+
+<example>
+Jimmy went to the hall",Where is Daniel? 
+583,kitchen,"Label: The most recent location of Daniel is garden.
+
+<context>
+""",Where is Daniel? 
+584,bedroom,"Label: bedroom
+
+<context>
+Let's talk, then we won",Where is Mary? 
+585,bedroom,"Label: balcony
+
+<context>
+'There is a report that Cl",Where is Sandra? 
+586,garden,"Label: balcony
+
+<context>
+He had become the hero of E",Where is Sandra? 
+587,hallway,"Label: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+588,bedroom,"Output: bedroom
+
+<context>
+""I'm glad you've",Where is John? 
+589,bedroom,"Output: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+590,office,"Output: balcony
+
+<context>
+The Brownies, as you may",Where is Sandra? 
+591,hallway,"Label: balcony
+
+<context>
+[Illustration]
+
+    Another",Where is Mary? 
+592,office,"Output: office
+
+<context>
+""I'm glad you're back",Where is John? 
+593,garden,"Label: The most recent location of John is the hallway.
+
+<context>",Where is John? 
+594,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+595,bathroom,"Label: bathroom
+
+<context>
+Their mother, who had been a",Where is Sandra? 
+596,office,"Label: The most recent location of Sandra is office.
+</example>",Where is Sandra? 
+597,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+598,garden,"Label: balcony
+
+<context>
+I will therefore now
+leave",Where is Daniel? 
+599,bedroom,"Label: balcony
+
+<context>
+A telegram was handed their general",Where is Daniel? 
+600,bedroom,"Label: balcony
+
+<context>
+The next day, the 1",Where is John? 
+601,bedroom,"Label: bedroom
+
+<context>
+The next day, the party set out",Where is Sandra? 
+602,kitchen,"Output: in the garden.
+
+<context>
+""I like that song,""",Where is Mary? 
+603,kitchen,"Label: bathroom
+
+<context>
+The next day, when the weather was",Where is Sandra? 
+604,office,"Label: balcony
+
+<context>
+""Yes; but it's",Where is John? 
+605,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is Mary? 
+606,kitchen,"Output: The most recent location of John is the hallway.
+
+<context>",Where is John? 
+607,hallway,"Label: balcony
+
+<context>
+cried Jimmieboy,",Where is John? 
+608,garden,"Label: garden
+
+<context>
+""I'm going to make a c",Where is Sandra? 
+609,bedroom,"Label: balcony
+
+<context>
+""I'm going to tell",Where is Daniel? 
+610,kitchen,"Label: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+611,office,"Label: office
+
+<context>
+The patient should be placed in the left later",Where is Sandra? 
+612,bathroom,"Label: balcony
+
+<context>
+The first thing that struck the eye",Where is Daniel? 
+613,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+614,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+615,office,"Label: balcony
+
+<context>
+The man went to the beach.",Where is Daniel? 
+616,kitchen,"Label: balcony
+
+<context>
+We continued our
+journey",Where is Sandra? 
+617,hallway,"Label: balcony
+
+<context>
+It lies level, for a league",Where is Daniel? 
+618,kitchen,"Label: balcony
+
+<context>
+The senate, in the year",Where is Mary? 
+619,office,"Output: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+620,garden,"Output: The most recent location of John is garden.
+</context>
+
+<",Where is John? 
+621,office,"Label: The most recent location of Mary is office.
+
+<context>
+The",Where is Mary? 
+622,office,"Label: balcony
+
+<context>
+'You will be wanted, R",Where is Mary? 
+623,kitchen,"Label: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+624,bathroom,"Label: bedroom
+
+<context>
+Jennie had been in the house",Where is John? 
+625,bedroom,"Label: balcony
+
+<context>
+""I am glad to see you",Where is Daniel? 
+626,bathroom,"Label: balcony
+
+<context>
+The
+next morning, after a",Where is John? 
+627,bathroom,"Label: balcony
+
+<context>
+The man went to the hallway",Where is John? 
+628,bedroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+629,bedroom,"Label: balcony
+
+<context>
+""I'm going to the",Where is John? 
+630,bathroom,"Output: balcony
+
+
+
+
+IV. The Liberal party, as we",Where is John? 
+631,bedroom,"Label: bedroom
+
+<context>
+Their first meeting was in 1",Where is Mary? 
+632,bedroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+633,kitchen,"Output: balcony
+
+<context>
+John journeyed to the garden.",Where is Mary? 
+634,garden,"Label: balcony
+
+<context>
+What is the difference between a man",Where is John? 
+635,garden,"Label: balcony
+
+<context>
+What is the difference between a man",Where is John? 
+636,garden,"Label: balcony
+
+<context>
+Because the goat turned to",Where is Sandra? 
+637,kitchen,"Label: balcony
+
+<context>
+You don't think I'",Where is John? 
+638,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+639,bathroom,"Label: office
+
+<context>
+This view of drilling Federal
+tro",Where is Sandra? 
+640,garden,"Label: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+641,garden,"Label: balcony
+
+<context>
+""You know,"" he continued,",Where is Daniel? 
+642,bedroom,"Label: balcony
+
+<context>
+""Alfred wouldn't '",Where is Daniel? 
+643,office,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+644,garden,"Label: bedroom
+
+<context>
+""I'm going to be friends",Where is Sandra? 
+645,garden,"Output: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+646,hallway,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+647,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+648,kitchen,"Label: balcony
+
+<context>
+“I’m not going to",Where is Sandra? 
+649,kitchen,"Label: The most recent location of Sandra is office.
+</example>",Where is Sandra? 
+650,bathroom,"Label: balcony
+
+<example>
+Charlie went to the hallway",Where is Daniel? 
+651,garden,"Output: in the garden.
+</example>
+
+<context>
+The county",Where is Sandra? 
+652,kitchen,"Label: balcony
+
+<context>
+Their first care was to get",Where is Daniel? 
+653,kitchen,"Output: bedroom
+
+<context>
+Their first care was to get the",Where is Mary? 
+654,garden,"Output: The most recent location of Mary is garden.
+
+<context>
+The",Where is Mary? 
+655,bathroom,"Label: balcony
+
+<context>
+Other errors have been amended and",Where is Mary? 
+656,kitchen,"Label: balcony
+
+<context>
+There are several gates in the f",Where is John? 
+657,kitchen,"Label: The most recent location of John is the office.
+</example>",Where is John? 
+658,garden,"Label: balcony
+
+<context>
+""We agree that we dare not",Where is Daniel? 
+659,kitchen,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+660,kitchen,"Label: balcony
+
+<context>
+The first was to obey the law",Where is Sandra? 
+661,kitchen,"Label: balcony
+
+<context>
+The next day, the two of",Where is Sandra? 
+662,garden,"Label: balcony
+
+<context>
+Then,
+when I responded",Where is John? 
+663,bedroom,"Label: balcony
+
+<context>
+The man who had been sitting on",Where is Mary? 
+664,bedroom,"Label: hallway
+
+<context>
+The man who had been sitting on the",Where is Mary? 
+665,bathroom,"Label: balcony
+
+<context>
+The King was not only elected,",Where is Mary? 
+666,office,"Label: balcony
+
+<context>
+The
+Crown was not to",Where is Daniel? 
+667,office,"Label: office
+
+<context>
+The Boers naturally and indignantly",Where is John? 
+668,office,"Label: balcony
+
+<context>
+The farmers who left Cape Col",Where is John? 
+669,office,"Label: balcony
+
+<context>
+There was something said of the second",Where is John? 
+670,bedroom,"Label: balcony
+
+<context>
+The waters are flagged about",Where is John? 
+671,bedroom,"Label: balcony
+
+<context>
+The first thing I did was to",Where is John? 
+672,office,"Label: balcony
+
+<context>
+Elsie Inglis took up",Where is Daniel? 
+673,bathroom,"Label: balcony
+
+<context>
+The next day, the 1",Where is Daniel? 
+674,kitchen,"Label: balcony
+
+<context>
+I went to the office, where",Where is Mary? 
+675,bathroom,"Label: balcony
+
+<context>
+We met with a companion
+that",Where is Mary? 
+676,office,"Output: hallway
+
+<context>
+Daniel went back to the hallway.",Where is Mary? 
+677,hallway,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+678,hallway,"Label: bathroom
+
+<example>
+Alan went to the hallway.",Where is Sandra? 
+679,hallway,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+680,kitchen,"Label: balcony
+
+<context>
+[Footnote 51: Full",Where is Daniel? 
+681,kitchen,"Output: balcony
+
+<context>
+By and by he pulled the stal",Where is Daniel? 
+682,kitchen,"Label: The most recent location of Mary is garden.
+
+<context>
+J",Where is Mary? 
+683,office,"Output: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+684,bathroom,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+685,garden,"Label: balcony
+
+<context>
+Sandra journeyed to the hall",Where is John? 
+686,bathroom,"Output: bathroom
+
+<context>
+What must be done first, with the",Where is Mary? 
+687,office,"Label: balcony
+
+<context>
+The lungs could not do their",Where is Daniel? 
+688,bathroom,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+689,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+690,garden,"Label: bedroom
+
+<context>
+ses Bill, puffing and",Where is Sandra? 
+691,bathroom,"Label: balcony
+
+<context>
+In the first
+place, it",Where is Sandra? 
+692,bathroom,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Sandra? 
+693,office,"Label: balcony
+
+<context>
+
+I could reckon up figures",Where is Sandra? 
+694,garden,"Label: hallway
+
+<context>
+""_Hombre!_ You don",Where is Mary? 
+695,garden,"Label: balcony
+
+<context>
+To this Jose
+sometimes added",Where is Mary? 
+696,garden,"Label: balcony
+
+<context>
+""I'm not very happy",Where is Mary? 
+697,bedroom,"Output: balcony
+</example>
+
+<example>
+Joe went",Where is Sandra? 
+698,kitchen,"Output: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+699,bedroom,"Label: balcony
+
+<context>
+The title-page is from a",Where is Daniel? 
+700,hallway,"Output: The most recent location of Mary is hallway.
+
+<example>",Where is Mary? 
+701,hallway,"Label: balcony
+
+<context>
+So Angeline worked for her",Where is Mary? 
+702,bathroom,"Label: balcony
+
+<context>
+Think I shall get a class",Where is John? 
+703,bathroom,"Label: balcony
+
+<context>
+I watched fully half an hour before",Where is John? 
+704,office,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is John? 
+705,hallway,"Label: balcony
+
+<context>
+""At what time,"" he asked",Where is Mary? 
+706,hallway,"Label: balcony
+
+<context>
+""I'm going to the",Where is Mary? 
+707,bathroom,"Label: balcony
+
+<context>
+""I am glad to see you",Where is Daniel? 
+708,office,"Label: balcony
+
+<context>
+""That's my friend,",Where is Sandra? 
+709,hallway,"Label: balcony
+
+<context>
+You can spare your invectives",Where is Mary? 
+710,garden,"Label: balcony
+
+<context>
+Next followed the battle of Antiet",Where is John? 
+711,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+712,kitchen,"Label: balcony
+
+<context>
+""That is a deadly",Where is John? 
+713,kitchen,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+714,hallway,"Label: balcony
+
+<context>
+""I think you are just",Where is Daniel? 
+715,garden,"Label: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+716,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+717,office,"Label: balcony
+
+<context>
+Once in the lingering light,",Where is Daniel? 
+718,hallway,"Label: hallway
+
+<context>
+Would I were only a slave to",Where is Mary? 
+719,office,"Label: bedroom
+
+<context>
+'T is ice without and flame",Where is Sandra? 
+720,garden,"Label: balcony
+
+<context>
+Endeavour that different points",Where is Daniel? 
+721,hallway,"Label: The most recent location of Charlie is balcony.
+
+<context>",Where is Sandra? 
+722,garden,"Output: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+723,office,"Label: The most recent location of Sandra is bathroom.
+
+<example>",Where is Sandra? 
+724,office,"Label: balcony
+
+<context>
+The first thing that struck him was",Where is Sandra? 
+725,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+726,office,"Label: balcony
+
+<context>
+“I’m sorry, for",Where is John? 
+727,bathroom,"Label: bathroom
+
+<context>
+Sandra went to the garden. If",Where is Mary? 
+728,garden,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+729,bathroom,"Label: bathroom
+
+<context>
+""I'm very sorry, Bill",Where is Daniel? 
+730,bedroom,"Label: The most recent location of John is the bedroom.
+
+<context>",Where is John? 
+731,bedroom,"Label: The most recent location of John is shop.
+
+<context>
+The",Where is John? 
+732,hallway,"Label: balcony
+
+<context>
+[_Seeing SIR TRI",Where is Sandra? 
+733,office,"Output: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+734,bedroom,"Label: balcony
+
+<context>
+The
+man who had been sitting",Where is Daniel? 
+735,hallway,"Label: balcony
+
+<context>
+I was born in the year",Where is John? 
+736,bathroom,"Label: balcony
+
+<context>
+I was in the kitchen, and",Where is Sandra? 
+737,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+738,bathroom,"Output: The most recent location of John is balcony.
+
+
+
+M",Where is John? 
+739,kitchen,"Label: bathroom
+
+<context>
+I sowed one quart and got from",Where is John? 
+740,garden,"Label: balcony
+
+<context>
+On May 6th,",Where is John? 
+741,garden,"Label: balcony
+
+<example>
+Alan went to the hallway",Where is John? 
+742,kitchen,"Label: balcony
+
+<context>
+The following is a list of the",Where is Daniel? 
+743,office,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+744,bathroom,"Label: bathroom
+
+<context>
+The following is a list of the most",Where is Daniel? 
+745,bedroom,"Label: balcony
+
+<context>
+They
+keep all doubts to",Where is Daniel? 
+746,bathroom,"Label: balcony
+
+<context>
+For the Eg-lon of super",Where is John? 
+747,hallway,"Label: The most recent location of John is hallway.
+</example>",Where is John? 
+748,office,"Label: balcony
+
+<context>
+The following is a list of the",Where is John? 
+749,kitchen,"Label: balcony
+
+<context>
+The following is a list of the",Where is John? 
+750,office,"Label: balcony
+
+<context>
+At
+     majority they were to",Where is Sandra? 
+751,office,"Label: balcony
+
+<context>
+The first battle of the campaign was",Where is Sandra? 
+752,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+753,bedroom,"Label: bedroom
+
+<context>
+The
+Federals were disposing",Where is Mary? 
+754,hallway,"Label: bedroom
+
+<context>
+The hills grow dark,
+      On",Where is Daniel? 
+755,garden,"Label: balcony
+
+<context>
+¶ The following is a list of",Where is Daniel? 
+756,garden,"Output: balcony
+
+<context>
+The horse was a very important part",Where is Daniel? 
+757,office,"Label: hallway
+
+<context>
+Their",Where is John? 
+758,kitchen,"Label: garden
+
+<context>
+""I'm not going to be a",Where is Sandra? 
+759,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+760,office,"Label: balcony
+
+<context>
+""I'm going to marry",Where is Sandra? 
+761,bedroom,"Label: bathroom
+
+<context>
+""I'm going to marry you",Where is Sandra? 
+762,bathroom,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+763,garden,"Label: balcony
+
+<context>
+[10] The teaching of",Where is Daniel? 
+764,hallway,"Label: balcony
+
+<context>
+In marriage by Licence, three",Where is Daniel? 
+765,kitchen,"Label: balcony
+
+<context>
+This day my Lady
+Batten",Where is Sandra? 
+766,bathroom,"Label: balcony
+
+<context>
+Moore, and with him to",Where is Daniel? 
+767,kitchen,"Label: The most recent location of John is hallway.
+</example>",Where is John? 
+768,hallway,"Label: The most recent location of Daniel is hallway.
+<context>
+The",Where is Daniel? 
+769,bedroom,"Label: balcony
+
+<context>
+I have
+found many physicians",Where is John? 
+770,bathroom,"Label: balcony
+
+<context>
+The man who had been in the",Where is Daniel? 
+771,bedroom,"Label: balcony
+
+<context>
+""I'm going to see",Where is John? 
+772,office,"Label: balcony
+
+Question: What is the most recent location of Charlie?",Where is John? 
+773,office,"Output: balcony
+
+<context>
+""I guess we'll manage",Where is John? 
+774,kitchen,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+775,kitchen,"Label: The most recent location of Daniel is the kitchen.
+
+<context>",Where is Daniel? 
+776,bathroom,"Output: The most recent location of John is shop.
+
+
+<context>",Where is John? 
+777,bathroom,"Label: balcony
+
+<context>
+This broken and dusky light showed",Where is John? 
+778,bathroom,"Label: balcony
+
+<example>
+John went to the hallway.",Where is John? 
+779,office,"Label: balcony
+
+<example>
+Charlie went to the hallway",Where is Daniel? 
+780,bedroom,"Label: balcony
+
+<context>
+The bank notes or promissory",Where is John? 
+781,office,"Label: The most recent location of Daniel is office.
+
+<context>
+John",Where is Daniel? 
+782,office,"Output: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+783,bathroom,"Label: balcony
+
+<context>
+""Her Ladyship, knowing that",Where is John? 
+784,hallway,"Label: hallway
+
+<context>
+CHAPTER XX
+
+THE M",Where is Sandra? 
+785,office,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+786,office,"Label: balcony
+
+<context>
+""I shall say that her state",Where is John? 
+787,hallway,"Label: bedroom. Antony Shau, and others of the Indulged;",Where is Mary? 
+788,hallway,"Label: balcony
+
+<example>
+John went to the hallway.",Where is Mary? 
+789,garden,"Label: hallway
+
+<context>
+But
+Morton is no stranger in",Where is Sandra? 
+790,garden,"Label: balcony
+
+<context>
+The first of these was the """,Where is Sandra? 
+791,garden,"Label: balcony
+
+<context>
+The first of these was the """,Where is Sandra? 
+792,garden,"Label: balcony
+
+<context>
+The 18-pound",Where is Sandra? 
+793,office,"Label: balcony
+
+<context>
+The following is a list of the",Where is John? 
+794,garden,"Label: balcony
+
+<context>
+Sandra went to the hallway",Where is Mary? 
+795,office,"Label: balcony
+
+<context>
+""Sir Gavial is",Where is Daniel? 
+796,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+797,office,"Label: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+798,office,"Label: balcony
+
+<context>
+The next day, November 2",Where is Sandra? 
+799,office,Label: balcony,Where is Sandra? 
+800,hallway,"Label: balcony
+
+<example>
+Judith went to the hall",Where is Sandra? 
+801,bathroom,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+802,office,"Label: The most recent location of Mary is office.
+
+<context>
+“",Where is Mary? 
+803,bedroom,"Output: balcony
+
+
+
+
+                            Transcriber's Notes",Where is Sandra? 
+804,office,"Label: office
+
+<context>
+""I am glad to see you, General",Where is Mary? 
+805,garden,"Label: balcony
+
+<context>
+""I am glad to hear it",Where is John? 
+806,bedroom,"Label: bedroom
+
+<context>
+""I'm going to be a",Where is John? 
+807,bedroom,"Label: balcony
+
+<context>
+""I haven't thought much",Where is John? 
+808,hallway,"Label: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+809,hallway,"Label: hallway
+
+<context>
+The first thing that strikes the visitor",Where is Daniel? 
+810,garden,"Label: balcony
+
+<context>
+The disadvantages of this system",Where is Sandra? 
+811,garden,"Output: balcony
+
+
+
+
+                            Transcriber's Notes",Where is Sandra? 
+812,office,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+813,hallway,"Label: balcony
+
+<context>
+""Didn't your father",Where is Daniel? 
+814,hallway,"Label: balcony
+
+<context>
+John journeyed to the hallway",Where is Mary? 
+815,office,"Label: balcony
+
+<context>
+The Marquess of Monmouth",Where is Daniel? 
+816,office,"Label: balcony
+
+<context>
+CHAPTER XX.",Where is Mary? 
+817,kitchen,"Label: balcony
+
+<context>
+The man on the pail w",Where is Daniel? 
+818,garden,"Label: office
+
+<context>
+'The next division represents those who do work",Where is John? 
+819,office,"Label: balcony
+
+<context>
+'Number three stands for those who",Where is Daniel? 
+820,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+821,garden,"Label: balcony
+
+<context>
+""I'm glad to see",Where is Sandra? 
+822,bathroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+823,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+824,bathroom,"Output: The most recent location of Daniel is office.
+
+<context>
+""",Where is Daniel? 
+825,office,"Label: balcony
+
+<context>
+It is, then, to the",Where is Sandra? 
+826,bathroom,"Label: balcony
+
+<context>
+It is
+known as the _",Where is Mary? 
+827,bedroom,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+828,bathroom,"Label: balcony
+
+<context>
+The Halls were not the only",Where is Mary? 
+829,kitchen,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+830,garden,"Label: balcony
+
+<context>
+The town of Arzila is",Where is Mary? 
+831,bathroom,"Label: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+832,garden,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+833,kitchen,"Label: balcony
+
+<context>
+Yes--yes--yes--yes",Where is Sandra? 
+834,bedroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+835,bathroom,"Label: bathroom
+
+<context>
+I should not have
+been reserved",Where is John? 
+836,bathroom,"Output: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+837,bathroom,"Label: balcony
+
+<context>
+I have been very busy, and",Where is Daniel? 
+838,office,"Label: balcony
+
+<context>
+‘I have been to see the",Where is Daniel? 
+839,hallway,"Label: balcony
+
+<context>
+The inhabitants are
+esteemed the",Where is Sandra? 
+840,garden,"Label: balcony
+
+<context>
+The following is a list of the",Where is Sandra? 
+841,garden,"Label: balcony
+
+<context>
+Their son, John, was",Where is Sandra? 
+842,office,"Label: balcony
+
+<context>
+We went to see the stables",Where is Daniel? 
+843,kitchen,"Label: bedroom
+
+<context>
+Wren, faithfully promised me to",Where is John? 
+844,kitchen,"Label: balcony
+
+<context>
+The old man was sitting in the",Where is John? 
+845,bedroom,"<answer>
+The most recent location of Sandra is the bedroom",Where is Sandra? 
+846,bedroom,"Output: The most recent location of John is office.
+
+<context>
+“",Where is John? 
+847,garden,"Output: office
+
+<context>
+“Oh, me!” sighs the",Where is Sandra? 
+848,garden,"Label: bedroom
+
+<context>
+John went to the hallway. Daniel",Where is Sandra? 
+849,office,"Output: balcony
+
+<context>
+Their Majesties have been",Where is John? 
+850,bedroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+851,hallway,"Label: balcony
+
+<context>
+""I'm not sure that",Where is Daniel? 
+852,bathroom,"Label: balcony
+
+<context>
+""And you have come by them",Where is Daniel? 
+853,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+
+<example>",Where is Daniel? 
+854,bedroom,"Output: bedroom
+
+<context>
+We see also, that a man ready",Where is Mary? 
+855,bedroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+856,bedroom,"Label: balcony
+
+<context>
+The first thing to be done is",Where is Daniel? 
+857,bedroom,"Label: balcony
+
+<context>
+The first thing to be done was",Where is John? 
+858,kitchen,"Label: bedroom
+
+<context>
+He
+sat there quite patient till",Where is Mary? 
+859,office,"Label: The most recent location of Mary is office.
+
+<context>
+“",Where is Mary? 
+860,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+861,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+862,office,"Output: bathroom
+
+<context>
+Mary went to the bathroom.",Where is Mary? 
+863,kitchen,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+864,hallway,"Label: hallway
+
+<context>
+[Illustration]
+
+[Illustration]",Where is Mary? 
+865,garden,"Label: The hallway.
+
+
+<context>
+""I'm glad",Where is Sandra? 
+866,bedroom,"Output: balcony
+
+<context>
+He was so scared he gave",Where is Mary? 
+867,bedroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+868,kitchen,"Label: The most recent location of Daniel is the bathroom.
+
+<context>",Where is Daniel? 
+869,hallway,"Label: garden
+
+<context>
+""I'm a fool,"" he said",Where is John? 
+870,bedroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+871,garden,"Label: balcony
+
+<context>
+""I'm going to have",Where is John? 
+872,hallway,"Output: The most recent location of John is hallway.
+
+<context>",Where is John? 
+873,hallway,"Output: balcony
+
+<context>
+For instance, Warwickshire--",Where is John? 
+874,garden,"Label: hallway
+
+<context>
+W. and H.
+Whitle",Where is Mary? 
+875,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+876,garden,"Label: balcony
+
+<context>
+The man went to the hallway",Where is John? 
+877,kitchen,"Label: balcony
+
+<context>
+We spoke to
+him, as",Where is Daniel? 
+878,hallway,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+879,office,"Label: balcony
+
+<context>
+""But bein' only eyes",Where is Sandra? 
+880,bedroom,"Label: balcony
+
+<context>
+""I'm going to have",Where is John? 
+881,hallway,"Label: hallway
+
+<context>
+""I'm going to marry you",Where is Daniel? 
+882,office,"Label: hallway
+
+<context>
+You must only remember--Count
+Cla",Where is Mary? 
+883,office,"Output: The most recent location of Mary is the office.
+
+<context>",Where is Mary? 
+884,hallway,"Label: balcony
+
+<context>
+Langloi
+stands",Where is John? 
+885,bedroom,"Label: The most recent location of John is garden.
+
+<context>
+[",Where is John? 
+886,bedroom,"Label: balcony
+
+<context>
+Your
+business is to think",Where is Daniel? 
+887,hallway,"Label: balcony
+
+<context>
+Yes, but you tell him----",Where is Daniel? 
+888,office,"Output: balcony
+
+<context>
+Give me the old fashioned",Where is Sandra? 
+889,bedroom,"Label: bedroom
+
+<context>
+""I'm no' a bit",Where is Daniel? 
+890,garden,"Output: The most recent location of John is garage.
+
+<context>",Where is John? 
+891,office,"Output: balcony
+
+<context>
+The man went to the hallway",Where is John? 
+892,garden,"Label: balcony
+
+<context>
+The
+Company's
+fort",Where is John? 
+893,hallway,"Label: balcony
+
+<context>
+The Company's servants here are",Where is Mary? 
+894,office,"Label: balcony
+
+<context>
+The dye-roots from",Where is John? 
+895,office,"Output: The most recent location of John is office.
+
+<context>
+S",Where is John? 
+896,garden,"Output: balcony
+
+<context>
+When alcohol puts fat into the",Where is Sandra? 
+897,hallway,"Output: hallway
+
+<context>
+It was a pine forest; and",Where is Sandra? 
+898,garden,"Label: balcony
+
+<context>
+""I am glad you think so",Where is John? 
+899,office,"Label: balcony
+
+<context>
+""I'm going to have",Where is Daniel? 
+900,bathroom,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+901,bathroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+902,garden,"Label: balcony
+
+<context>
+Nine
+hundred and ten",Where is John? 
+903,office,"Output: hallway
+
+<context>
+Their first care was to get the",Where is Mary? 
+904,garden,"Label: hallway
+
+<context>
+This
+is proved also by the fact",Where is Sandra? 
+905,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+906,kitchen,"Label: The most recent location of Sandra is kitchen.
+
+<context>",Where is Sandra? 
+907,kitchen,"Label: balcony
+
+<context>
+Sandra went back to the bath",Where is Sandra? 
+908,office,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+909,office,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+910,bedroom,"Label: balcony
+
+<context>
+Alan went to the hallway",Where is Daniel? 
+911,bedroom,"Label: balcony
+
+<context>
+""Henbane Dwining",Where is Mary? 
+912,office,"Label: balcony
+
+<context>
+""I have been thinking,"" said",Where is John? 
+913,hallway,"Label: balcony
+
+<context>
+""I'm not going to",Where is Daniel? 
+914,garden,"Label: garden
+
+<context>
+_The scene is the same as in the",Where is Mary? 
+915,kitchen,"Label: The most recent location of Mary is the kitchen.
+
+<context>",Where is Mary? 
+916,hallway,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+917,garden,"Label: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+918,garden,"Label: balcony
+
+<context>
+The Church of England is the Church",Where is Mary? 
+919,bedroom,"Label: balcony
+
+<context>
+In, and through the Scriptures",Where is Daniel? 
+920,bathroom,"Label: balcony
+
+<context>
+The man went to the beach.",Where is Daniel? 
+921,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+922,hallway,"Label: balcony
+
+<context>
+H. T.
+Cole",Where is Daniel? 
+923,kitchen,"Label: The most recent location of Mary is the hallway.
+
+<context>",Where is Mary? 
+924,bedroom,"Label: balcony
+
+<context>
+The U. S. is the",Where is Daniel? 
+925,bathroom,"Label: balcony
+
+<context>
+The next day we went to the",Where is Mary? 
+926,office,"Label: balcony
+
+<context>
+""Mind yourself now,"" cried",Where is Daniel? 
+927,kitchen,"Label: balcony
+
+<context>
+Indeed, the arguments in",Where is Daniel? 
+928,office,"Label: balcony
+
+<context>
+63, 135",Where is Daniel? 
+929,bathroom,"Label: balcony
+
+<context>
+   The following is a list of",Where is Mary? 
+930,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+931,office,"Label: balcony
+
+<context>
+“I’m going to have",Where is Daniel? 
+932,bedroom,"Label: balcony
+
+<context>
+“I’m going to begin",Where is John? 
+933,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+934,kitchen,Label: The most recent location of Sandra is office.,Where is Sandra? 
+935,hallway,"Label: balcony
+
+<context>
+It is not so in the",Where is John? 
+936,hallway,"Label: balcony
+
+<context>
+The first of these was the marriage",Where is John? 
+937,garden,"Label: balcony
+
+<context>
+The first thing that attracted the",Where is Daniel? 
+938,bedroom,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+939,bedroom,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+940,bedroom,"Label: balcony
+
+<context>
+The one crime reckoned unp",Where is John? 
+941,office,"Label: balcony
+
+<context>
+""I'm going to get",Where is Daniel? 
+942,office,Label: The long War of Independence which destroyed the last vestige of Spanish control over,Where is Daniel? 
+943,kitchen,"Label: balcony
+
+<example>
+John went to the hallway.",Where is John? 
+944,hallway,"Label: balcony
+
+<context>
+The hungry lad began to question",Where is Daniel? 
+945,office,"Output: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+946,bathroom,"Label: balcony
+
+<context>
+II./--_Rule for a",Where is Mary? 
+947,bathroom,"Label: bathroom
+
+<context>
+They do
+not appeal to the reason",Where is Sandra? 
+948,kitchen,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+949,bedroom,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Daniel? 
+950,hallway,"Output: balcony
+
+<context>
+""I'm going to the",Where is John? 
+951,kitchen,"Label: balcony
+
+<context>
+The Duchess lived
+to see",Where is John? 
+952,kitchen,"Label: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+953,kitchen,"Output: The hallway
+<context>
+John went to the hallway. John",Where is Mary? 
+954,office,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+955,office,"Label: balcony
+
+<context>
+The Widow's Son",Where is John? 
+956,kitchen,Label: The second scene is the Morning Room at the Deanery again.,Where is John? 
+957,garden,"Output: in the garden.
+
+
+
+_Transcriber's Note_",Where is Sandra? 
+958,kitchen,"Label: balcony
+
+<context>
+The following is a list of the",Where is Sandra? 
+959,bedroom,"Label: balcony
+
+
+Insects in Illinois. Forbes, State",Where is John? 
+960,hallway,"Label: balcony
+
+<context>
+The Emperor's son, when",Where is Mary? 
+961,bathroom,"Label: balcony
+
+<context>
+The
+Sultan of Moroc",Where is Daniel? 
+962,bathroom,"Output: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+963,bedroom,"Label: bathroom
+
+<context>
+[Illustration]
+
+    The Brown",Where is Mary? 
+964,garden,"Output: garden
+
+<context>
+The Brownies were in the kitchen,",Where is Mary? 
+965,garden,"Label: balcony
+
+<context>
+    The Brownies went to the",Where is Daniel? 
+966,bathroom,"Label: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+967,bathroom,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+968,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+969,kitchen,"Label: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+970,bathroom,"Output: balcony
+
+<context>
+The men I left slumbering",Where is Daniel? 
+971,kitchen,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+972,bathroom,"Output: bathroom
+
+<context>
+The Brownies were in the midst of",Where is Sandra? 
+973,hallway,"Label: bathroom
+
+<context>
+[Illustration]
+
+[Illustration]",Where is Daniel? 
+974,hallway,"Label: balcony
+
+<context>
+Sandra went to the hallway",Where is Daniel? 
+975,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+976,office,"Label: The most recent location of John is office.
+
+<context>
+The",Where is John? 
+977,office,"Output: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+978,bedroom,"Label: bedroom
+
+<context>
+The first of these was the disaster",Where is Mary? 
+979,hallway,"Label: The most recent location of Sandra is bathroom.
+
+<example>",Where is Sandra? 
+980,kitchen,"Label: bedroom
+
+<context>
+The
+first thing that struck the eye",Where is Mary? 
+981,bathroom,"Label: balcony
+
+<context>
+The windows, too, of these",Where is Mary? 
+982,bedroom,"Label: balcony
+
+<context>
+The ""Bal Bullier"" is",Where is Sandra? 
+983,office,"Label: garden
+
+<context>
+Mary journeyed to the hallway.",Where is Sandra? 
+984,garden,"Output: The most recent location of Mary is garden.
+
+<context>
+4",Where is Mary? 
+985,garden,"Label: balcony
+
+<context>
+[43] A kind",Where is Sandra? 
+986,garden,"Label: The most recent location of Sandra is the garden.
+</example>",Where is Sandra? 
+987,office,"Label: The most recent location of Mary is the garden.
+
+<context>",Where is Mary? 
+988,bathroom,"Label: balcony
+
+<context>
+""I'm going to have",Where is John? 
+989,bathroom,"Label: balcony
+
+<context>
+The sun was setting, and the",Where is John? 
+990,garden,"Label: balcony
+
+<context>
+The first time I saw you,",Where is Sandra? 
+991,kitchen,"Label: balcony
+
+<context>
+The following article is from the Wikipedia",Where is Sandra? 
+992,garden,"Label: garden
+
+<context>
+""I'm going to have a new",Where is John? 
+993,garden,"Label: The most recent location of Daniel is garden.
+
+<context>
+""",Where is Daniel? 
+994,garden,"Label: balcony
+
+<context>
+The tennis court, at one side",Where is Mary? 
+995,kitchen,"Answer: The most recent location of John is garage.
+</example>
+
+<",Where is John? 
+996,hallway,"Label: balcony
+
+<context>
+The first of these was the _",Where is Sandra? 
+997,office,"Label: balcony
+
+<context>
+The _head of a woman_",Where is Sandra? 
+998,bathroom,"Label: hallway
+
+<context>
+The following is a list of the works",Where is Sandra? 
+999,bedroom,"Label: balcony
+
+Question: Where is Daniel?
+
+Label: hall",Where is John? 

@@ -1,0 +1,4044 @@
+Unnamed: 0,target,output,question
+0,hallway,Solution: John is in the hallway. The context states that John travelled to the hallway.,Where is John? 
+1,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: If Mary left the",Where is Mary? 
+2,kitchen,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is Sandra? 
+3,hallway,"A: hallway
+B: bedroom
+C: bathroom
+D: garden
+E: office
+F",Where is Sandra? 
+4,kitchen,"A: hallway
+B: bedroom
+C: kitchen
+D: bathroom
+E: garden
+F",Where is Sandra? 
+5,hallway,"Solution:
+
+According to the context, Sandra travelled to the kitchen first and then to the",Where is Sandra? 
+6,garden,"Solution: The last location mentioned for Sandra is the garden. Therefore, Sandra is in the garden.",Where is Sandra? 
+7,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Daniel? 
+8,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+9,office,"A:
+
+A: The office
+B: The garden
+C: The kitchen
+E: The bedroom",Where is Daniel? 
+10,kitchen,"Solution:
+Mary is in the kitchen.
+
+Follow-up Question 1: If Mary",Where is Mary? 
+11,garden,,Where is Mary? 
+12,office,"Options:
+(A) garden
+(B) hallway
+(C) kitchen
+(D) office",Where is Daniel? 
+13,bedroom,"Solution: The last location mentioned for Mary is the bedroom. Therefore, Mary is in the bedroom.",Where is Mary? 
+14,bedroom,"Solution: The last location mentioned for Mary is the bedroom. Therefore, Mary is in the bedroom.",Where is Mary? 
+15,kitchen,"A: The hallway
+B: The kitchen
+C: The office
+D: The bedroom
+E:",Where is John? 
+16,garden,"A: The hallway
+B: The kitchen
+C: The garden
+D: The bathroom
+E:",Where is John? 
+17,kitchen,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: garden
+F:",Where is John? 
+18,office,"Options:
+(A) hallway
+(B) kitchen
+(C) office
+(D) garden",Where is Daniel? 
+19,kitchen,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the last location",Where is John? 
+20,hallway,"Solution:
+Mary is in the hallway.
+
+Explanation:
+The context states that",Where is Mary? 
+21,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+22,office,"Options:
+(A) Bathroom
+(B) Office
+(C) Kitchen
+(D)",Where is John? 
+23,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: office
+E: garden
+F",Where is Sandra? 
+24,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) hallway
+(D)",Where is Daniel? 
+25,bedroom,"Answer: Sandra is in the bedroom.
+
+Context: John went to the kitchen. Mary went back",Where is Sandra? 
+26,bedroom,"A: The kitchen
+B: The bedroom
+C: The office
+D: The garden
+E: The",Where is Mary? 
+27,kitchen,"A:
+
+A: The kitchen
+B: The bedroom
+C: The office
+D: The hall",Where is Daniel? 
+28,kitchen,"A:
+
+A: The kitchen
+B: The bedroom
+C: The garden
+D: The office",Where is Daniel? 
+29,kitchen,"A:
+
+A: The kitchen
+B: The office
+C: The garden
+D: The bedroom",Where is Daniel? 
+30,hallway,"A: The office
+B: The hallway
+C: The garden
+D: The bedroom
+E:",Where is Sandra? 
+31,office,"A: The office
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is John? 
+32,kitchen,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The garden
+E:",Where is Sandra? 
+33,kitchen,"A: Bathroom
+B: Kitchen
+C: Hallway
+D: Bedroom
+E: Office",Where is Sandra? 
+34,bathroom,"A: hallway
+B: kitchen
+C: bedroom
+D: bathroom
+E: office",Where is Sandra? 
+35,office,Solution: Mary is in the office. The context states that Mary went back to the bedroom and then moved,Where is Mary? 
+36,bathroom,"A: bathroom
+B: hallway
+C: kitchen
+D: bedroom
+E: office",Where is Mary? 
+37,garden,"A: bedroom
+B: kitchen
+C: office
+D: bathroom
+E: hallway",Where is Mary? 
+38,kitchen,"A: kitchen
+B: bathroom
+C: hallway
+D: bedroom
+E: garden
+F",Where is Sandra? 
+39,bedroom,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Daniel? 
+40,bathroom,"Solution:
+Based on the given context, Sandra is in the bathroom.
+
+Follow",Where is Sandra? 
+41,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: What was the last location",Where is Daniel? 
+42,bathroom,"Answer: Sandra is in the bathroom.
+
+Follow-up Question 1: What is the",Where is Sandra? 
+43,hallway,"A: hallway
+B: office
+C: bathroom
+D: kitchen
+E: bedroom
+F",Where is Daniel? 
+44,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+45,kitchen,"Answer: Mary is in the kitchen.
+
+Follow-up Question 1: If Mary left the kitchen",Where is Mary? 
+46,hallway,"A: hallway
+B: bathroom
+C: bedroom
+
+
+### response
+
+The",Where is Daniel? 
+47,bathroom,"A: hallway
+B: bedroom
+C: garden
+D: bathroom
+E: office
+F",Where is Sandra? 
+48,office,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is John? 
+49,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: office",Where is John? 
+50,bedroom,"Solution:
+
+According to the context, John first journeyed to the hallway and then to the",Where is John? 
+51,office,"Answer: John is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is John? 
+52,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the last location",Where is John? 
+53,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the last location",Where is John? 
+54,kitchen,"A: garden
+B: bathroom
+C: hallway
+D: bedroom
+E: kitchen",Where is Daniel? 
+55,bedroom,"Answer: Mary is in the bedroom.
+
+Context: Mary went to the bedroom. Daniel journeyed",Where is Mary? 
+56,kitchen,"Answer: Mary is in the kitchen.
+
+Follow-up Question 1: What was the sequence of",Where is Mary? 
+57,hallway,"Answer: Mary is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+58,garden,"A: the bedroom
+B: the garden
+C: the office
+D: the hallway
+E:",Where is Daniel? 
+59,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: garden",Where is Sandra? 
+60,hallway,"Answer: Sandra is in the hallway.
+
+Context: John went to the garden. Sandra went",Where is Sandra? 
+61,office,"A: The office
+B: The hallway
+C: The garden
+D: The bedroom
+E:",Where is Daniel? 
+62,bathroom,"A: The office
+B: The bedroom
+C: The bathroom
+D: The kitchen
+E:",Where is Sandra? 
+63,garden,"A: garden
+B: bathroom
+C: bedroom
+D: hallway
+E: kitchen
+F",Where is Daniel? 
+64,garden,"Options:
+(A) bedroom
+(B) kitchen
+(C) garden
+(D) bath",Where is Daniel? 
+65,kitchen,"Solution:
+John is in the kitchen.
+
+Explanation: The context states that John went back",Where is John? 
+66,kitchen,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is John? 
+67,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The kitchen
+E",Where is Daniel? 
+68,office,"A: bathroom
+B: office
+C: hallway
+D: bedroom
+E: kitchen",Where is Daniel? 
+69,office,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office
+F",Where is Daniel? 
+70,garden,"A: The garden
+B: The bedroom
+C: The kitchen
+D: The office
+E: The",Where is Mary? 
+71,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Sandra? 
+72,garden,"Solution: The last location mentioned for Mary is the garden. Therefore, Mary is in the garden.",Where is Mary? 
+73,bedroom,"Solution: The last location mentioned for Mary in the context is the bedroom. Therefore, Mary is in the",Where is Mary? 
+74,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+75,kitchen,"Answer: Daniel is in the kitchen.
+
+Context: John travelled to the kitchen. Daniel went back to",Where is Daniel? 
+76,kitchen,"Answer: John is in the kitchen.
+
+Context: John travelled to the kitchen. Daniel went back to",Where is John? 
+77,kitchen,"A: The office
+B: The kitchen
+C: The garden
+D: The bedroom
+E: The",Where is Daniel? 
+78,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: bedroom
+F",Where is Daniel? 
+79,office,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is Daniel? 
+80,garden,"Answer: John is in the garden.
+
+Context: Daniel went to the garden. John travelled to the",Where is John? 
+81,bathroom,"Answer: John is in the bathroom.
+
+Context: John went to the garden. John went to the",Where is John? 
+82,bedroom,"A:
+
+A: The garden
+B: The bedroom
+C: The bathroom
+E: The",Where is Sandra? 
+83,garden,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway",Where is Mary? 
+84,office,"Answer: Daniel is in the office.
+
+Explanation: The last location mentioned for Daniel in the context",Where is Daniel? 
+85,garden,"Solution:
+Sandra is in the garden.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+86,garden,"Answer: Mary is in the garden.
+
+Follow-up Question 1: What did Mary do before",Where is Mary? 
+87,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: What is the last",Where is John? 
+88,kitchen,"A: The kitchen
+B: The office
+C: The garden
+D: The bedroom
+E: The",Where is Sandra? 
+89,kitchen,"Answer: The last location mentioned for Daniel is the kitchen. Therefore, Daniel is in the kitchen.
+
+Context",Where is Daniel? 
+90,bathroom,"Solution:
+
+According to the context, Sandra initially moved to the kitchen. However, she then",Where is Sandra? 
+91,bathroom,"A: The bedroom
+B: The bathroom
+C: The kitchen
+D: The office
+E:",Where is John? 
+92,hallway,"A: hallway
+B: bedroom
+C: bathroom
+D: office
+E: kitchen
+F",Where is Sandra? 
+93,bathroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Sandra? 
+94,bathroom,"A: garden
+B: bedroom
+C: bathroom
+D: hallway
+E: office
+F",Where is Sandra? 
+95,kitchen,"Answer: John is in the kitchen.
+
+Context: John travelled to the kitchen. Sandra moved to",Where is John? 
+96,kitchen,"A: The kitchen
+B: The hallway
+C: The bedroom
+D: The office
+E:",Where is Sandra? 
+97,kitchen,"A: The kitchen
+B: The hallway
+C: The bedroom
+D: The office
+E:",Where is Mary? 
+98,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+99,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+100,bedroom,"Solution:
+Mary is in the bedroom.
+
+Explanation:
+The context states that",Where is Mary? 
+101,bathroom,"A: The garden
+B: The bedroom
+C: The bathroom
+D: The office
+E:",Where is Sandra? 
+102,office,"Options:
+(A) Bathroom
+(B) Office
+(C) Kitchen
+(D)",Where is Mary? 
+103,garden,"Options:
+(A) bathroom
+(B) bedroom
+(C) kitchen
+(D)",Where is Daniel? 
+104,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+105,hallway,Solution: Mary is in the hallway. The context states that Mary moved to the hallway after she journey,Where is Mary? 
+106,bedroom,"A: hallway
+B: bathroom
+C: bedroom
+
+
+### Response
+
+The",Where is Daniel? 
+107,bathroom,"A:
+
+A: bedroom
+B: bathroom
+C: hallway
+E: office
+F",Where is Daniel? 
+108,office,"A: bedroom
+B: kitchen
+C: office
+D: hallway
+E: garden
+F",Where is Daniel? 
+109,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: office",Where is John? 
+110,bathroom,"Answer: Daniel is in the bathroom.
+
+Context: Daniel went to the office. Daniel travelled to",Where is Daniel? 
+111,bathroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) bathroom
+(D)",Where is Daniel? 
+112,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is John? 
+113,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: What was the last",Where is John? 
+114,kitchen,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Mary? 
+115,garden,"Solution:
+Sandra is in the garden.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+116,office,"Answer: John is in the office.
+
+Follow-up Question 1: What was the last location",Where is John? 
+117,kitchen,"A: garden
+B: bathroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Mary? 
+118,bathroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Daniel? 
+119,office,"Solution: The last location mentioned for Daniel is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+120,bedroom,"Solution: The last location mentioned in the context is the bedroom. Therefore, Daniel is in the bedroom",Where is Daniel? 
+121,bathroom,"A: bedroom
+B: bathroom
+C: kitchen
+D: hallway
+E: office",Where is Mary? 
+122,bedroom,"Answer: The last location mentioned for Daniel in the context is the bedroom. Therefore, Daniel is in the bed",Where is Daniel? 
+123,hallway,"Solution: The last location mentioned for Daniel is the hallway. Therefore, Daniel is in the hallway.",Where is Daniel? 
+124,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: bathroom
+E: office",Where is Mary? 
+125,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+126,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is John? 
+127,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Daniel? 
+128,garden,"A: The office
+B: The garden
+C: The bedroom
+D: The kitchen
+E: The",Where is Sandra? 
+129,bathroom,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway
+F",Where is Sandra? 
+130,garden,"A: the hallway
+B: the garden
+C: the kitchen
+D: the bedroom
+E:",Where is Sandra? 
+131,hallway,"Answer: Mary is in the hallway.
+
+Explanation: The text states that ""Mary journey",Where is Mary? 
+132,bathroom,"A: the office
+B: the hallway
+C: the bathroom
+D: the bedroom
+E",Where is Sandra? 
+133,garden,"Answer: Sandra is in the garden.
+
+Explanation: The last location mentioned for Sandra in",Where is Sandra? 
+134,kitchen,"A: bathroom
+B: kitchen
+C: hallway
+D: bedroom
+E: office",Where is John? 
+135,bathroom,"A: The kitchen
+B: The bathroom
+C: The bedroom
+D: The garden
+E:",Where is Sandra? 
+136,office,"A: The office
+B: The bathroom
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+137,kitchen,"A: The office
+B: The bedroom
+C: The kitchen
+D: The bathroom
+E:",Where is John? 
+138,bathroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) bathroom
+(D)",Where is Sandra? 
+139,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+140,office,Solution: The context does not provide a clear answer to the question. Mary was in the garden and then travel,Where is Mary? 
+141,hallway,"Solution: The last location mentioned for Mary in the context is the hallway. Therefore, Mary is in the",Where is Mary? 
+142,hallway,"Answer: Mary is in the hallway.
+
+Explanation: The last location mentioned for Mary in the",Where is Mary? 
+143,office,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Office
+(D)",Where is Sandra? 
+144,bedroom,"Answer: Sandra is in the bedroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+145,kitchen,"A: The kitchen
+B: The bedroom
+C: The office
+D: The garden
+E: The",Where is Sandra? 
+146,kitchen,"A: The kitchen
+B: The bedroom
+C: The office
+D: The garden
+E: The",Where is Sandra? 
+147,kitchen,"Answer: Daniel is in the kitchen.
+
+Follow-up Question 1: What was the sequence of",Where is Daniel? 
+148,kitchen,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: garden
+F",Where is Sandra? 
+149,kitchen,"Answer: Daniel is in the kitchen.
+
+Follow-up Question 1: What was the last location",Where is Daniel? 
+150,garden,"Solution: Daniel is in the garden. The context states that ""Daniel went back to the garden.""",Where is Daniel? 
+151,garden,"A: The garden
+B: The kitchen
+C: The bathroom
+D: The bedroom
+E:",Where is Sandra? 
+152,bathroom,"A:
+
+A: The garden
+B: The office
+C: The bathroom
+D: The bed",Where is Daniel? 
+153,office,"A:
+
+A: The garden
+B: The office
+C: The bedroom
+E: The bath",Where is Daniel? 
+154,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) bathroom
+(D)",Where is John? 
+155,bathroom,"Answer: Mary is in the bathroom.
+
+Context: Mary moved to the bathroom. Daniel journeyed",Where is Mary? 
+156,garden,"Answer: Daniel is in the garden.
+
+Following the context provided, Daniel's last known location",Where is Daniel? 
+157,bedroom,"A: bedroom
+B: kitchen
+C: garden
+D: hallway
+E: bathroom",Where is John? 
+158,office,"A: bedroom
+B: kitchen
+C: office
+D: garden
+E: hallway
+F",Where is John? 
+159,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office",Where is Mary? 
+160,bedroom,,Where is Daniel? 
+161,bedroom,"A: The hallway
+B: The bedroom
+C: The garden
+D: The bathroom
+E",Where is Daniel? 
+162,bedroom,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office",Where is Mary? 
+163,garden,"A:
+
+A: The garden
+B: The office
+C: The bedroom
+D: The hall",Where is Mary? 
+164,bathroom,"A: kitchen
+B: bedroom
+C: hallway
+D: garden
+E: office
+F",Where is Daniel? 
+165,garden,"A: The hallway
+B: The garden
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+166,garden,"A: The garden
+B: The office
+C: The hallway
+D: The bedroom
+E:",Where is Sandra? 
+167,garden,"A: kitchen
+B: office
+C: hallway
+D: garden
+E: bedroom
+F",Where is Daniel? 
+168,kitchen,"A: kitchen
+B: bedroom
+C: hallway
+D: bathroom
+E: office",Where is Daniel? 
+169,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is Mary? 
+170,office,"Solution:
+The last location mentioned in the context is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+171,office,"Answer: The last location mentioned for Daniel in the context is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+172,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What is the last place",Where is John? 
+173,bathroom,"A: the office
+B: the hallway
+C: the kitchen
+D: the bathroom
+E:",Where is Sandra? 
+174,bathroom,"Answer: Sandra is in the bathroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+175,office,Solution: The question asks for Sandra's location. The context provides two locations where Sandra went -,Where is Sandra? 
+176,kitchen,"Solution: The last location mentioned for Sandra in the context is the kitchen. Therefore, Sandra is in",Where is Sandra? 
+177,bedroom,"Solution: The last location mentioned for Sandra in the context is the bedroom. Therefore, Sandra is",Where is Sandra? 
+178,office,"Solution: The last location mentioned for Sandra is the office. Therefore, Sandra is in the office.",Where is Sandra? 
+179,office,"A: the office
+B: the hallway
+C: the garden
+D: the bedroom
+E:",Where is Sandra? 
+180,hallway,Solution: Mary is in the hallway. The context states that Mary travelled to the office and then went,Where is Mary? 
+181,hallway,"Rationale: The last location mentioned for Mary in the context is the hallway.
+
+Answer: Mary is",Where is Mary? 
+182,hallway,"Options:
+(A) hallway
+(B) office
+(C) bathroom
+(D)",Where is Daniel? 
+183,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: garden",Where is Mary? 
+184,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: office",Where is Sandra? 
+185,bathroom,"Answer: John is in the bathroom.
+
+Context: Mary went back to the kitchen. John went to",Where is John? 
+186,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: If Daniel left the office",Where is Daniel? 
+187,garden,Solution: Mary is in the garden. The last location mentioned for Mary in the context is the garden.,Where is Mary? 
+188,kitchen,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Sandra? 
+189,office,"Solution: The last location mentioned for Sandra is the office. Therefore, Sandra is in the office.",Where is Sandra? 
+190,hallway,"Answer: Mary is in the hallway.
+
+Context: John travelled to the garden. John went to",Where is Mary? 
+191,kitchen,"Answer: Sandra is in the kitchen.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+192,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+193,hallway,"Answer: Sandra is in the hallway.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+194,hallway,"Answer: Sandra is in the hallway.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+195,garden,"Answer: Mary is in the garden.
+
+Context: John went to the office. Mary travelled to the",Where is Mary? 
+196,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+197,kitchen,"A:
+
+A: The office
+B: The kitchen
+C: The garden
+E: The bedroom",Where is Daniel? 
+198,bathroom,"A:
+
+A: The office
+B: The bedroom
+C: The garden
+D: The bath",Where is Mary? 
+199,bedroom,"Solution: The last location mentioned for John is the bedroom. Therefore, John is in the bedroom.",Where is John? 
+200,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Mary? 
+201,office,"A: The hallway
+B: The office
+C: The bedroom
+D: The kitchen
+E:",Where is John? 
+202,office,"A: The office
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is Daniel? 
+203,bedroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: office
+F",Where is Sandra? 
+204,hallway,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: kitchen
+F",Where is Sandra? 
+205,bathroom,"A: The hallway
+B: The kitchen
+C: The bathroom
+D: The bedroom
+E",Where is Sandra? 
+206,kitchen,"A: The hallway
+B: The kitchen
+C: The office
+D: The garden
+E: The",Where is Mary? 
+207,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden
+F",Where is Sandra? 
+208,bathroom,"A: hallway
+B: kitchen
+C: bathroom
+D: bedroom
+E: office",Where is Daniel? 
+209,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden",Where is John? 
+210,bathroom,"A: The garden
+B: The kitchen
+C: The bathroom
+D: The bedroom
+E:",Where is John? 
+211,bedroom,"A: The office
+B: The bedroom
+C: The garden
+D: The bathroom
+E:",Where is John? 
+212,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Daniel? 
+213,bedroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: garden",Where is Mary? 
+214,bathroom,"A:
+
+A: The garden
+B: The bathroom
+C: The office
+E: The hall",Where is Sandra? 
+215,bedroom,,Where is Mary? 
+216,bathroom,"A: The hallway
+B: The bathroom
+C: The garden
+D: The bedroom
+E",Where is John? 
+217,hallway,,Where is John? 
+218,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: garden
+E: bedroom
+F",Where is Sandra? 
+219,bathroom,"Answer: John is in the bathroom.
+
+Following the sequence of events, John's last",Where is John? 
+220,bathroom,"Solution: Mary is in the bathroom. The text states that ""Mary travelled to the bathroom",Where is Mary? 
+221,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Daniel? 
+222,kitchen,"A: hallway
+B: bathroom
+C: kitchen
+
+
+### Response
+
+The text",Where is Daniel? 
+223,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office
+F",Where is Sandra? 
+224,bedroom,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office",Where is John? 
+225,office,"Answer: John is in the office.
+
+
+Context: Daniel travelled to the hallway. John moved",Where is John? 
+226,hallway,"Options:
+(A) Hallway
+(B) Office
+(C) Bathroom
+(D)",Where is Daniel? 
+227,garden,"A: The garden
+B: The office
+C: The hallway
+D: The bathroom
+E:",Where is Sandra? 
+228,bathroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) bathroom
+(D)",Where is John? 
+229,bathroom,"Answer: John is in the bathroom.
+
+Explanation: The last location mentioned for John in the",Where is John? 
+230,office,"Answer: Daniel is in the office.
+
+Context: Daniel travelled to the bedroom. Sandra went",Where is Daniel? 
+231,garden,"A: The garden
+B: The office
+C: The bathroom
+D: The kitchen
+E: The",Where is Mary? 
+232,hallway,"Options:
+(A) bathroom
+(B) office
+(C) garden
+(D) hall",Where is Daniel? 
+233,office,"Options:
+(A) garden
+(B) kitchen
+(C) office
+(D) hallway",Where is Daniel? 
+234,hallway,"A: hallway
+B: office
+C: bedroom
+D: garden
+E: kitchen
+F:",Where is John? 
+235,bedroom,"Answer: Mary is in the bedroom.
+
+Context: Daniel went to the garden. Mary moved to the",Where is Mary? 
+236,bedroom,"A: the bedroom
+B: the bathroom
+C: the garden
+D: the kitchen
+E",Where is Mary? 
+237,bedroom,"A: The bedroom
+B: The bathroom
+C: The hallway
+D: The kitchen
+E",Where is Mary? 
+238,bedroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office",Where is Daniel? 
+239,office,"A: bathroom
+B: bedroom
+C: kitchen
+D: office
+E: hallway
+F",Where is Sandra? 
+240,hallway,"A: kitchen
+B: bathroom
+C: hallway
+D: bedroom
+E: garden",Where is Daniel? 
+241,kitchen,"A: The hallway
+B: The garden
+C: The kitchen
+D: The bedroom
+E:",Where is Mary? 
+242,garden,"A: hallway
+B: bathroom
+C: garden
+D: bedroom
+E: office",Where is Mary? 
+243,garden,"A: garden
+B: bedroom
+C: hallway
+D: kitchen
+E: bathroom
+F",Where is Mary? 
+244,kitchen,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Mary? 
+245,kitchen,"Answer: John is in the kitchen.
+
+Context: Daniel travelled to the kitchen. John journeyed to",Where is John? 
+246,garden,"A: The garden
+B: The kitchen
+C: The office
+D: The bedroom
+E: The",Where is Sandra? 
+247,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Sandra? 
+248,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Sandra? 
+249,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+250,bedroom,"Solution:
+Daniel is in the bedroom.
+
+
+Explanation:
+The context states that",Where is Daniel? 
+251,office,"A: kitchen
+B: bathroom
+C: bedroom
+D: hallway
+E: office",Where is Mary? 
+252,bathroom,"A: the bedroom
+B: the garden
+C: the kitchen
+D: the bathroom
+E:",Where is Daniel? 
+253,bathroom,"Answer: Daniel is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+254,bedroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: garden",Where is John? 
+255,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+256,office,"A: The office
+B: The bedroom
+C: The garden
+D: The kitchen
+E: The",Where is Sandra? 
+257,office,"A: The office
+B: The bedroom
+C: The garden
+D: The bathroom
+E:",Where is Sandra? 
+258,kitchen,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Mary? 
+259,garden,"A: kitchen
+B: bathroom
+C: hallway
+D: garden
+E: office
+F",Where is Mary? 
+260,garden,"A: The garden
+B: The bedroom
+C: The office
+D: The kitchen
+E: The",Where is Sandra? 
+261,office,"Answer: Mary is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Mary? 
+262,hallway,"A: kitchen
+B: bedroom
+C: hallway
+D: office
+E: garden
+F:",Where is Sandra? 
+263,office,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office",Where is John? 
+264,office,"A: office
+B: kitchen
+C: garden
+D: bedroom
+E: hallway
+F",Where is John? 
+265,bathroom,"Answer: Sandra is in the bathroom.
+
+Context: John journeyed to the garden. Sandra",Where is Sandra? 
+266,garden,"A: The garden
+B: The bathroom
+C: The office
+D: The bedroom
+E:",Where is Sandra? 
+267,bedroom,"Answer: Sandra is in the bedroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+268,bathroom,"Answer: John is in the garden.
+
+Follow-up Question 1: Where did Sandra go",Where is John? 
+269,bedroom,"A: bedroom
+B: bathroom
+C: garden
+D: kitchen
+E: hallway",Where is Daniel? 
+270,kitchen,"Answer: Daniel is in the kitchen.
+
+Context: John went to the bathroom. Daniel moved to the",Where is Daniel? 
+271,office,"A: The office
+B: The bathroom
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+272,office,"A: The office
+B: The garden
+C: The kitchen
+D: The bedroom
+E: The",Where is Sandra? 
+273,kitchen,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Office
+(D)",Where is Daniel? 
+274,bathroom,"A: the bathroom
+B: the office
+C: the garden
+D: the kitchen
+E: the",Where is Daniel? 
+275,office,"Solution:
+Sandra is in the office.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+276,kitchen,"A:
+
+A: The garden
+B: The kitchen
+C: The office
+E: The bedroom",Where is Daniel? 
+277,hallway,"A:
+
+A: The garden
+B: The hallway
+C: The kitchen
+E: The office",Where is Mary? 
+278,office,"Solution: The last location mentioned for John is the office. Therefore, John is in the office.",Where is John? 
+279,bathroom,"Solution: The last location mentioned for John is the bathroom. Therefore, John is in the bathroom.",Where is John? 
+280,bathroom,"Solution: The last location mentioned in the context is the bathroom. Therefore, Sandra is in the bath",Where is Sandra? 
+281,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+282,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: What was the sequence",Where is Sandra? 
+283,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: Where did Sandra",Where is Sandra? 
+284,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+285,office,"Solution:
+John is in the office.
+
+Follow-up Question 1: If John left",Where is John? 
+286,bathroom,"A: The garden
+B: The bathroom
+C: The office
+D: The bedroom
+E:",Where is Sandra? 
+287,office,"A: The office
+B: The bathroom
+C: The garden
+D: The hallway
+E:",Where is John? 
+288,garden,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway
+F",Where is Daniel? 
+289,bathroom,"A: The hallway
+B: The bathroom
+C: The office
+D: The garden
+E:",Where is Sandra? 
+290,kitchen,"Solution: Mary is in the kitchen.
+
+Follow-up Question 1: If Mary left the",Where is Mary? 
+291,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: If John left the kitchen",Where is John? 
+292,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What is the last",Where is John? 
+293,kitchen,"Options:
+(A) bedroom
+(B) bathroom
+(C) hallway
+(D",Where is Mary? 
+294,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: Where did John travel to",Where is John? 
+295,garden,"Answer: Sandra is in the garden.
+
+Context: Sandra went to the garden. Daniel went to",Where is Sandra? 
+296,garden,"A: The garden
+B: The bedroom
+C: The office
+D: The kitchen
+E: The",Where is Daniel? 
+297,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden
+F",Where is John? 
+298,hallway,"A: hallway
+B: bathroom
+C: garden
+D: kitchen
+E: bedroom
+F",Where is Mary? 
+299,bathroom,"Solution: The last location mentioned for Mary is the bathroom. Therefore, Mary is in the bathroom.",Where is Mary? 
+300,bathroom,"Answer: Mary is in the bathroom.
+
+Context: John went to the bathroom. Mary journeyed",Where is Mary? 
+301,bathroom,"Answer: Mary is in the bathroom.
+
+Explanation: The text states that ""Mary journey",Where is Mary? 
+302,bathroom,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Office
+(D)",Where is Mary? 
+303,office,"A: garden
+B: office
+C: bathroom
+D: kitchen
+E: hallway
+F:",Where is John? 
+304,hallway,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: garden",Where is Mary? 
+305,garden,"Answer: Daniel is in the garden.
+
+Context: Daniel went to the bathroom. Daniel moved to the",Where is Daniel? 
+306,bathroom,"Thought: The last location mentioned for Daniel is the bathroom.
+
+Answer: Daniel is in the bath",Where is Daniel? 
+307,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Daniel? 
+308,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Daniel? 
+309,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is John? 
+310,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Daniel? 
+311,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+312,office,"Solution: The last location mentioned for Daniel is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+313,bedroom,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is Sandra? 
+314,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+315,office,"Solution:
+Mary is in the office.
+
+Follow-up Question 1: What did",Where is Mary? 
+316,bedroom,"A: The bedroom
+B: The office
+C: The garden
+D: The hallway
+E:",Where is Daniel? 
+317,office,"A: The office
+B: The garden
+C: The kitchen
+D: The bedroom
+E: The",Where is Mary? 
+318,office,"A: the office
+B: the hallway
+C: the bedroom
+D: the kitchen
+E:",Where is Mary? 
+319,garden,"A: The office
+B: The hallway
+C: The kitchen
+D: The bedroom
+E:",Where is Daniel? 
+320,garden,"Answer: John is in the garden.
+
+Context: Sandra moved to the garden. John went to the",Where is John? 
+321,kitchen,"A: The garden
+B: The bathroom
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+322,kitchen,"A:
+
+A: The kitchen
+B: The garden
+C: The bathroom
+D: The bed",Where is Sandra? 
+323,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+324,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: What was the last location",Where is Daniel? 
+325,bathroom,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The garden
+E:",Where is Sandra? 
+326,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+327,garden,"A: the garden
+B: the bathroom
+C: the bedroom
+D: the office
+E:",Where is Sandra? 
+328,garden,"A: the garden
+B: the office
+C: the bathroom
+D: the bedroom
+E:",Where is Sandra? 
+329,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: Where did Daniel go",Where is Daniel? 
+330,kitchen,"A: The kitchen
+B: The hallway
+C: The office
+D: The garden
+E: The",Where is Sandra? 
+331,office,"A: The office
+B: The hallway
+C: The bathroom
+D: The bedroom
+E",Where is John? 
+332,kitchen,"A: The kitchen
+B: The office
+C: The bedroom
+D: The bathroom
+E:",Where is Sandra? 
+333,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+334,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+335,office,"Answer: John is at the office.
+
+Context: John journeyed to the office. Sandra travelled",Where is John? 
+336,hallway,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: If Daniel left the",Where is Daniel? 
+337,office,"A: The garden
+B: The hallway
+C: The office
+D: The bathroom
+E:",Where is Sandra? 
+338,hallway,"A: The office
+B: The hallway
+C: The garden
+D: The kitchen
+E: The",Where is Sandra? 
+339,hallway,"A: the office
+B: the garden
+C: the kitchen
+D: the bedroom
+E: the",Where is Sandra? 
+340,hallway,"Solution: The last location mentioned for Mary in the context is the hallway. Therefore, Mary is in the",Where is Mary? 
+341,garden,"Answer: Mary is in the garden.
+
+Follow-up Question 1: What was the sequence of",Where is Mary? 
+342,office,"A:
+
+A: The office
+B: The garden
+C: The bedroom
+D: The bath",Where is Daniel? 
+343,kitchen,"A: kitchen
+B: bedroom
+C: hallway
+D: bathroom
+E: office
+F",Where is Sandra? 
+344,garden,"A: garden
+B: bathroom
+C: hallway
+D: bedroom
+E: office
+F",Where is Sandra? 
+345,office,"A: The office
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is Mary? 
+346,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Daniel? 
+347,hallway,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is John? 
+348,kitchen,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office",Where is Mary? 
+349,kitchen,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office",Where is John? 
+350,bedroom,"Answer: Sandra is in the bedroom.
+
+Context: John travelled to the garden. Sandra",Where is Sandra? 
+351,garden,"A: The garden
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is John? 
+352,garden,"A: The garden
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+353,bedroom,"A: kitchen
+B: bedroom
+C: office
+D: hallway
+E: garden
+F:",Where is Sandra? 
+354,bedroom,"Answer: Sandra is in the bedroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+355,bathroom,"Answer: Sandra is in the bathroom.
+
+Context: John travelled to the bedroom. Mary",Where is Sandra? 
+356,office,"Answer: John is in the office.
+
+Follow-up Question 1: What is the last place",Where is John? 
+357,hallway,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Bedroom
+(D",Where is Mary? 
+358,garden,"A: The garden
+B: The hallway
+C: The office
+D: The bedroom
+E:",Where is Mary? 
+359,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden",Where is Mary? 
+360,garden,"Helpful Answer:
+Daniel is in the garden.
+
+Context: Daniel went to the kitchen. Daniel went to",Where is Daniel? 
+361,bathroom,"Answer: Daniel is in the bathroom.
+
+Follow-up Question 1: If Daniel then travel",Where is Daniel? 
+362,garden,"Thought: Mary's last known location was the garden.
+
+Answer: Mary is in the garden.",Where is Mary? 
+363,garden,"Options:
+(A) garden
+(B) office
+(C) bathroom
+(D) kitchen",Where is John? 
+364,garden,"A: office
+B: bathroom
+C: garden
+D: bedroom
+E: hallway",Where is Daniel? 
+365,garden,"Solution:
+
+According to the context, Sandra travelled to the hallway and then went to",Where is Sandra? 
+366,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+367,hallway,"Options:
+(A) hallway
+(B) bedroom
+(C) kitchen
+(D)",Where is Daniel? 
+368,hallway,"A:
+
+A: The office
+B: The hallway
+C: The garden
+D: The kitchen",Where is Mary? 
+369,hallway,"A:
+
+A: The office
+B: The hallway
+C: The garden
+E: The bed",Where is Daniel? 
+370,hallway,"Solution:
+
+According to the context, Daniel first travelled to the office and then journeyed to",Where is Daniel? 
+371,hallway,"Options:
+(A) Hallway
+(B) Bathroom
+(C) Office
+(D)",Where is Daniel? 
+372,garden,"A: hallway
+B: bathroom
+C: garden
+D: bedroom
+E: kitchen",Where is Mary? 
+373,garden,"Options:
+(A) garden
+(B) bathroom
+(C) bedroom
+(D)",Where is Mary? 
+374,office,"A: bedroom
+B: kitchen
+C: office
+D: garden
+E: hallway
+F",Where is Mary? 
+375,bedroom,Solution: The question asks for the location of Mary. The context provides two locations where Mary has been - the,Where is Mary? 
+376,kitchen,"Options:
+(A) garden
+(B) bedroom
+(C) kitchen
+(D) office",Where is Sandra? 
+377,bathroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) garden
+(D) bath",Where is Sandra? 
+378,bathroom,"Options:
+(A) garden
+(B) kitchen
+(C) bathroom
+(D) bed",Where is Sandra? 
+379,bedroom,"Answer: John is in the bedroom.
+
+
+Following the sequence of events, John's",Where is John? 
+380,bathroom,"Answer: Mary is in the bathroom.
+
+Context: John travelled to the bedroom. Mary went",Where is Mary? 
+381,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+382,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+383,office,"A: the office
+B: the hallway
+C: the garden
+D: the bedroom
+E:",Where is Sandra? 
+384,office,"Answer: Mary is in the office.
+
+Follow-up Question 1: What was the last location",Where is Mary? 
+385,kitchen,"Answer: Sandra is in the kitchen.
+
+Context: Sandra journeyed to the kitchen. Daniel journey",Where is Sandra? 
+386,office,"A: The office.
+The above context provides information about the locations of three individuals: Sandra, Daniel, and",Where is Mary? 
+387,office,"A: The office
+B: The bathroom
+C: The garden
+D: The bedroom
+E:",Where is John? 
+388,office,"Answer: Mary is in the office.
+
+Follow-up Question 1: What was the last place",Where is Mary? 
+389,kitchen,"Solution: The last location mentioned for Sandra is the kitchen. Therefore, Sandra is in the kitchen.",Where is Sandra? 
+390,kitchen,"Answer: Mary is in the kitchen.
+
+Context: Daniel travelled to the garden. Mary went to the",Where is Mary? 
+391,hallway,"A: The hallway
+B: The garden
+C: The bedroom
+D: The kitchen
+E:",Where is Daniel? 
+392,bathroom,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is Mary? 
+393,bedroom,,Where is Mary? 
+394,office,"A: the office
+B: the kitchen
+C: the garden
+D: the hallway
+E: the",Where is Sandra? 
+395,office,"Solution:
+
+According to the context, Daniel initially went back to the kitchen. Then, he moved",Where is Daniel? 
+396,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: If Daniel then moved",Where is Daniel? 
+397,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Daniel? 
+398,bathroom,"A: The garden
+B: The office
+C: The bedroom
+D: The bathroom
+E:",Where is Sandra? 
+399,garden,"A: bathroom
+B: office
+C: bedroom
+D: garden
+E: hallway
+F",Where is Sandra? 
+400,bedroom,"Answer: John is in the bedroom.
+
+Context: Sandra moved to the garden. John went to",Where is John? 
+401,garden,"A:
+
+A: The garden
+B: The bedroom
+C: The bathroom
+D: The",Where is John? 
+402,bedroom,"A: The garden
+B: The office
+C: The bedroom
+D: The bathroom
+E:",Where is John? 
+403,kitchen,"A: The office
+B: The bathroom
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+404,office,Assistant: Sandra is in the office. The last location mentioned for Sandra in the context is the office,Where is Sandra? 
+405,kitchen,"Answer: Daniel is in the kitchen.
+
+
+Context: Daniel journeyed to the kitchen. Sandra went",Where is Daniel? 
+406,hallway,"A: The hallway
+B: The office
+C: The bathroom
+D: The bedroom
+E",Where is Daniel? 
+407,bedroom,"A: The bedroom
+B: The office
+C: The garden
+D: The hallway
+E:",Where is Sandra? 
+408,garden,"A: the garden
+B: the office
+C: the bathroom
+D: the hallway
+E:",Where is Mary? 
+409,kitchen,"A: the kitchen
+B: the office
+C: the bathroom
+D: the hallway
+E:",Where is Sandra? 
+410,bedroom,"Answer: John is in the bedroom.
+
+Context: John went to the bedroom. John went to",Where is John? 
+411,garden,"A: The garden
+B: The bedroom
+C: The kitchen
+D: The office
+E: The",Where is Sandra? 
+412,bathroom,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Sandra? 
+413,hallway,"A: hallway
+B: bedroom
+C: office
+D: garden
+E: bathroom
+F",Where is Daniel? 
+414,office,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is Sandra? 
+415,bedroom,"Options:
+(A) hallway
+(B) bedroom
+(C) kitchen
+(D)",Where is Daniel? 
+416,bedroom,"Answer: Daniel is in the bedroom.
+
+Following the context provided, Daniel journeyed to the",Where is Daniel? 
+417,kitchen,"A: hallway
+B: bedroom
+C: garden
+D: kitchen
+E: bathroom",Where is John? 
+418,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: garden
+E: kitchen
+F",Where is Sandra? 
+419,bathroom,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: kitchen",Where is Sandra? 
+420,hallway,"Solution: Sandra is in the hallway. The text states that ""Sandra went back to the hall",Where is Sandra? 
+421,hallway,"A: The hallway
+B: The kitchen
+C: The bathroom
+D: The bedroom
+E",Where is Sandra? 
+422,bathroom,"Answer: Sandra is in the bathroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+423,hallway,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: kitchen
+F",Where is Daniel? 
+424,bedroom,"A: hallway
+B: bedroom
+C: office
+D: bathroom
+E: kitchen",Where is Mary? 
+425,kitchen,"Answer: John is in the kitchen.
+
+Context: John travelled to the kitchen. Sandra moved to",Where is John? 
+426,kitchen,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Office
+(D)",Where is John? 
+427,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+428,bedroom,"A: The bedroom
+B: The office
+C: The hallway
+D: The garden
+E:",Where is Sandra? 
+429,bedroom,,Where is Sandra? 
+430,office,"Answer: John is in the office.
+
+Context: John went to the office. Sandra went to the",Where is John? 
+431,kitchen,"A: John is in the kitchen.
+
+Context: John went to the office. Sandra went to the kitchen",Where is John? 
+432,kitchen,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Mary? 
+433,kitchen,"A: The garden
+B: The hallway
+C: The office
+D: The kitchen
+E: The",Where is Mary? 
+434,office,"Solution: The last location mentioned for Daniel is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+435,garden,"Solution:
+Sandra is in the garden.
+
+
+Question: Where is Mary?
+
+Sol",Where is Sandra? 
+436,kitchen,"Solution: The text states that ""Mary went to the kitchen."" Therefore, Mary is in the kitchen.",Where is Mary? 
+437,bathroom,,Where is John? 
+438,bedroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Daniel? 
+439,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+440,bedroom,,Where is Sandra? 
+441,hallway,"A: The hallway
+B: The garden
+C: The bathroom
+D: The kitchen
+E:",Where is Daniel? 
+442,bathroom,"A:
+
+A: The hallway
+B: The bathroom
+C: The garden
+E: The",Where is Daniel? 
+443,garden,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway",Where is Mary? 
+444,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: garden",Where is Daniel? 
+445,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: If Daniel left the garden",Where is Daniel? 
+446,bedroom,"Options:
+(A) garden
+(B) office
+(C) bathroom
+(D) bed",Where is Sandra? 
+447,hallway,"Options:
+(A) bathroom
+(B) bedroom
+(C) kitchen
+(D)",Where is Daniel? 
+448,garden,"Options:
+(A) garden
+(B) office
+(C) kitchen
+(D) bedroom",Where is Daniel? 
+449,kitchen,"Answer: Sandra is in the kitchen.
+
+Following the sequence of events, Sandra's",Where is Sandra? 
+450,kitchen,"Solution:
+
+Based on the given context, John initially went back to the bathroom. However,",Where is John? 
+451,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: If John had not moved",Where is John? 
+452,kitchen,"Solution: The last location mentioned for Sandra is the kitchen. Therefore, Sandra is in the kitchen.",Where is Sandra? 
+453,garden,"A:
+
+A: The office
+B: The garden
+C: The kitchen
+E: The bedroom",Where is Sandra? 
+454,bathroom,"Answer: Sandra is in the bathroom.
+
+Follow-up Question 1: What was the",Where is Sandra? 
+455,kitchen,"Answer: Sandra is in the kitchen.
+
+
+Context: Daniel journeyed to the office. Sandra",Where is Sandra? 
+456,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: If Mary left the",Where is Mary? 
+457,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: If John left the",Where is John? 
+458,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+459,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: office
+E: garden
+F",Where is Sandra? 
+460,bathroom,"Answer: Sandra is in the bathroom.
+
+Context: John travelled to the office. Sandra",Where is Sandra? 
+461,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+462,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+463,office,"A: bedroom
+B: bathroom
+C: hallway
+D: garden
+E: kitchen",Where is John? 
+464,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: Who was the last person",Where is John? 
+465,garden,"A: The garden
+B: The kitchen
+C: The office
+D: The bedroom
+E: The",Where is Sandra? 
+466,bedroom,"A: The bedroom
+B: The garden
+C: The kitchen
+D: The office
+E: The",Where is Daniel? 
+467,bedroom,"Options:
+(A) bedroom
+(B) bathroom
+(C) office
+(D)",Where is Daniel? 
+468,bedroom,"A: kitchen
+B: bedroom
+C: office
+D: garden
+E: hallway
+F:",Where is Sandra? 
+469,office,"Solution: The last location mentioned for John is the office. Therefore, John is in the office.",Where is John? 
+470,hallway,"Solution: Mary is in the hallway. The text states that ""Mary moved to the hallway.""",Where is Mary? 
+471,office,"A: The office
+B: The bedroom
+C: The hallway
+D: The kitchen
+E:",Where is Mary? 
+472,office,"A: The office
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is Mary? 
+473,bathroom,"A: bathroom
+B: hallway
+C: office
+D: kitchen
+E: bedroom
+F",Where is John? 
+474,kitchen,"A: hallway
+B: bedroom
+C: kitchen
+D: bathroom
+E: office",Where is John? 
+475,garden,"Answer: John is in the garden.
+
+Context: John journeyed to the garden. Mary travelled to",Where is John? 
+476,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+477,kitchen,"A: The kitchen
+B: The office
+C: The garden
+D: The bedroom
+E: The",Where is Sandra? 
+478,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the last place",Where is John? 
+479,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+480,bedroom,"Answer: Sandra is in the bedroom.
+
+Context: John went to the kitchen. Mary went to",Where is Sandra? 
+481,bedroom,"A: The office
+B: The bedroom
+C: The kitchen
+D: The garden
+E: The",Where is Sandra? 
+482,hallway,"A: hallway
+B: bedroom
+C: office
+D: kitchen
+E: bathroom
+F",Where is Daniel? 
+483,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is John? 
+484,garden,"A: garden
+B: bathroom
+C: bedroom
+D: hallway
+E: office
+F",Where is John? 
+485,bedroom,"A: The bedroom
+B: The garden
+C: The kitchen
+D: The bathroom
+E:",Where is Daniel? 
+486,bathroom,"A: The hallway
+B: The garden
+C: The bedroom
+D: The bathroom",Where is Sandra? 
+487,hallway,"A: The hallway
+B: The garden
+C: The bathroom
+D: The kitchen
+E:",Where is Daniel? 
+488,bedroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is John? 
+489,bathroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Daniel? 
+490,kitchen,"Answer: Daniel is in the kitchen.
+
+Context: John went to the kitchen. Daniel travelled to the",Where is Daniel? 
+491,bedroom,"A: The kitchen
+B: The bedroom
+C: The office
+D: The garden
+E: The",Where is John? 
+492,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+493,garden,"A: garden
+B: bedroom
+C: kitchen
+D: office
+E: hallway
+F:",Where is John? 
+494,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: Where did John go after",Where is John? 
+495,kitchen,"A: The kitchen
+B: The bedroom
+C: The office
+D: The garden
+E: The",Where is Mary? 
+496,kitchen,"A: The office
+B: The kitchen
+C: The bedroom
+D: The garden
+E: The",Where is Mary? 
+497,bedroom,"A: The kitchen
+B: The office
+C: The bedroom
+D: The hallway
+E:",Where is Sandra? 
+498,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is John? 
+499,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office
+F",Where is John? 
+500,kitchen,"Answer: Daniel is in the kitchen.
+
+Context: Daniel travelled to the kitchen. Sandra went back",Where is Daniel? 
+501,garden,"A: The garden
+B: The kitchen
+C: The office
+D: The bedroom
+E: The",Where is Daniel? 
+502,bathroom,"A: The garden
+B: The bedroom
+C: The bathroom
+D: The kitchen
+E:",Where is Daniel? 
+503,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: garden
+E: office
+F",Where is John? 
+504,bathroom,"Answer: Daniel is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+505,kitchen,"Solution:
+
+According to the context, Mary moved to the bathroom first and then journeyed to",Where is Mary? 
+506,bedroom,"A: The bedroom
+B: The kitchen
+C: The bathroom
+D: The office
+E:",Where is Sandra? 
+507,office,"A: office
+B: bathroom
+C: bedroom
+D: hallway
+E: kitchen",Where is Daniel? 
+508,office,"Answer: Daniel is in the office.
+
+Following the sequence of events, Daniel travelled to the",Where is Daniel? 
+509,bedroom,"A: office
+B: bathroom
+C: bedroom
+D: hallway
+E: kitchen",Where is Daniel? 
+510,bedroom,"Answer: John is in the bedroom.
+
+Context: John moved to the bedroom. Mary moved to",Where is John? 
+511,office,"A: The office
+B: The bedroom
+C: The kitchen
+D: The garden
+E: The",Where is Mary? 
+512,bedroom,"Answer: Mary is in the bedroom.
+
+Context: John moved to the garden. Daniel moved to the",Where is Mary? 
+513,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the sequence",Where is Mary? 
+514,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What is the sequence of",Where is Daniel? 
+515,bathroom,Solution: Mary is in the bathroom. The context states that Mary went back to the bathroom.,Where is Mary? 
+516,bathroom,"A: bathroom
+B: kitchen
+C: garden
+D: bedroom
+E: hallway",Where is Daniel? 
+517,bedroom,"A: kitchen
+B: bathroom
+C: bedroom
+D: garden
+E: hallway
+F",Where is Sandra? 
+518,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden",Where is Daniel? 
+519,garden,"A: hallway
+B: bathroom
+C: bedroom
+D: garden
+E: kitchen",Where is Daniel? 
+520,office,"Solution:
+The question asks for Sandra's current location. The context provides two pieces of information:",Where is Sandra? 
+521,office,"Answer: Daniel is in the office.
+
+Explanation: The text states that ""Daniel went back to",Where is Daniel? 
+522,hallway,"Options:
+(A) bathroom
+(B) bedroom
+(C) garden
+(D)",Where is Daniel? 
+523,hallway,"Answer: Daniel is in the hallway.
+
+Following the sequence of events, Daniel went back to",Where is Daniel? 
+524,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+525,hallway,"Solution: Mary is in the hallway.
+
+Follow-up Question 1: If Mary left",Where is Mary? 
+526,office,"A: The office
+B: The hallway
+C: The bathroom
+D: The kitchen
+E:",Where is Daniel? 
+527,garden,"A: The garden
+B: The hallway
+C: The office
+D: The kitchen
+E: The",Where is Daniel? 
+528,garden,"A: kitchen
+B: bedroom
+C: hallway
+D: office
+E: garden
+F:",Where is Daniel? 
+529,hallway,"A: the bedroom
+B: the office
+C: the garden
+D: the kitchen
+E: the",Where is Mary? 
+530,garden,"Solution:
+
+According to the context, John moved to the garden. Therefore, John is in the",Where is John? 
+531,garden,"Options:
+(A) Office
+(B) Garden
+(C) Bedroom
+(D) Hall",Where is John? 
+532,garden,,Where is John? 
+533,office,"A: the bedroom
+B: the office
+C: the hallway
+D: the garden
+E:",Where is Sandra? 
+534,bathroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: office
+F",Where is Daniel? 
+535,garden,"A: The garden
+B: The kitchen
+C: The office
+D: The bedroom
+E: The",Where is Sandra? 
+536,bedroom,"A: The garden
+B: The kitchen
+C: The bedroom
+D: The office
+E: The",Where is Sandra? 
+537,hallway,"A: The office
+B: The kitchen
+C: The bedroom
+D: The hallway
+E:",Where is Sandra? 
+538,hallway,"A: The office
+B: The hallway
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+539,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F:",Where is Sandra? 
+540,garden,"Solution:
+
+According to the context, John went back to the garden. Therefore, John is in",Where is John? 
+541,office,"A: The office.
+The above context provides information about the movements of several individuals. To answer the question about Mary",Where is Mary? 
+542,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Daniel? 
+543,hallway,"A: hallway
+B: bedroom
+C: kitchen
+D: office
+E: garden
+F:",Where is John? 
+544,kitchen,"A:
+
+A: The kitchen
+B: The hallway
+C: The garden
+E: The office",Where is Daniel? 
+545,garden,"Solution:
+
+The last location mentioned for Sandra is the garden. Therefore, Sandra is in the",Where is Sandra? 
+546,kitchen,"Answer: Mary is in the kitchen.
+
+Follow-up Question 1: What was the last location",Where is Mary? 
+547,kitchen,,Where is Mary? 
+548,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: What was the last",Where is John? 
+549,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: office",Where is Daniel? 
+550,bedroom,"Answer: John is in the bedroom.
+
+Context: John travelled to the bedroom. Mary travel",Where is John? 
+551,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The kitchen
+E",Where is John? 
+552,office,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office
+F",Where is John? 
+553,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: Where did Daniel travel",Where is Daniel? 
+554,kitchen,"Solution: The last location mentioned for Daniel is the kitchen. Therefore, Daniel is in the kitchen.",Where is Daniel? 
+555,hallway,"Options:
+(A) bathroom
+(B) hallway
+(C) kitchen
+(D)",Where is Sandra? 
+556,kitchen,"Answer: Mary is in the kitchen.
+
+Following the given context, Mary's last known location",Where is Mary? 
+557,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) office
+(D) hall",Where is Daniel? 
+558,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) office
+(D) hall",Where is Daniel? 
+559,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: bathroom",Where is Mary? 
+560,garden,"Answer: The last known location of Daniel, based on the provided context, is the garden.
+
+Follow",Where is Daniel? 
+561,bedroom,"Answer: Sandra is in the bedroom.
+
+Context: Daniel journeyed to the kitchen. Daniel went",Where is Sandra? 
+562,garden,"A: The garden
+B: The office
+C: The kitchen
+E: The bedroom
+F: The",Where is Sandra? 
+563,kitchen,"A: bedroom
+B: kitchen
+C: bathroom
+
+
+# Response
+
+The text provides",Where is Daniel? 
+564,bedroom,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway
+F",Where is Sandra? 
+565,bathroom,"Solution: The last location mentioned in the context is the bathroom. Therefore, John is in the bathroom",Where is John? 
+566,bathroom,"Answer: The last location mentioned for John in the context is the bathroom. Therefore, John is in the bath",Where is John? 
+567,kitchen,"A: The garden
+B: The kitchen
+C: The bathroom
+D: The hallway
+E:",Where is Daniel? 
+568,bedroom,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: kitchen
+F",Where is Sandra? 
+569,bedroom,"A: hallway
+B: bathroom
+C: garden
+D: bedroom
+E: office
+F",Where is Sandra? 
+570,bedroom,"Answer: Daniel is in the bedroom.
+
+Context: Daniel went back to the bedroom. Sandra",Where is Daniel? 
+571,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: If Sandra went",Where is Daniel? 
+572,kitchen,"A: The garden
+B: The kitchen
+C: The bedroom
+D: The hallway
+E:",Where is Sandra? 
+573,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last location",Where is John? 
+574,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+575,bathroom,"Solution: The last location mentioned in the context is the bathroom. Therefore, John is in the bathroom",Where is John? 
+576,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What was the sequence",Where is John? 
+577,hallway,"Options:
+(A) bedroom
+(B) kitchen
+(C) hallway
+(D)",Where is Daniel? 
+578,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) hallway
+(D)",Where is Daniel? 
+579,bedroom,"A: hallway
+B: bedroom
+C: bathroom
+
+
+# Response
+
+The text",Where is Daniel? 
+580,hallway,,Where is John? 
+581,hallway,Solution: John is in the hallway. The last information given about John's location is that he went,Where is John? 
+582,garden,,Where is Daniel? 
+583,kitchen,"Solution: The last location mentioned for Daniel is the kitchen. Therefore, Daniel is in the kitchen.",Where is Daniel? 
+584,bedroom,"Solution: The last location mentioned for Mary is the bedroom. Therefore, Mary is in the bedroom.",Where is Mary? 
+585,bedroom,"Answer: Sandra is in the bedroom.
+
+Context: Sandra travelled to the bedroom.",Where is Sandra? 
+586,garden,"A: The garden
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+587,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Daniel? 
+588,bedroom,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is John? 
+589,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: Where did Sandra",Where is Mary? 
+590,office,"Solution:
+
+According to the context, Sandra went back to the bathroom and then journeyed",Where is Sandra? 
+591,hallway,"Answer: Mary is in the hallway.
+
+Follow-up Question 1: What is the last",Where is Mary? 
+592,office,"A: hallway
+B: bathroom
+C: office
+D: garden
+E: kitchen
+F",Where is John? 
+593,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+594,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+595,bathroom,"Options:
+(A) In the bathroom
+(B) In the bedroom
+(C) In",Where is Sandra? 
+596,office,"Answer: Sandra is in the office.
+
+Explanation: The text states that ""Sandra moved",Where is Sandra? 
+597,office,"Options:
+(A) bathroom
+(B) bedroom
+(C) kitchen
+(D)",Where is Sandra? 
+598,garden,"Options:
+(A) Bathroom
+(B) Hallway
+(C) Garden
+(D)",Where is Daniel? 
+599,bedroom,"From the context, we know that Daniel went to the hallway, then he went",Where is Daniel? 
+600,bedroom,"Answer: John is in the bedroom.
+
+Context: John journeyed to the bathroom. John moved",Where is John? 
+601,bedroom,"A: The office
+B: The bedroom
+C: The garden
+D: The kitchen
+E: The",Where is Sandra? 
+602,kitchen,"Answer: Mary is in the kitchen.
+
+Follow-up Question 1: What was the last location",Where is Mary? 
+603,kitchen,"Solution: The last location mentioned for Sandra is the kitchen. Therefore, Sandra is in the kitchen.",Where is Sandra? 
+604,office,"Answer: John is in the office.
+
+Follow-up Question 1: What was the last place",Where is John? 
+605,garden,"Solution:
+Mary is in the garden.
+
+Follow-up Question 1: If Mary",Where is Mary? 
+606,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: If John left the kitchen",Where is John? 
+607,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: If John left the",Where is John? 
+608,garden,"A: kitchen
+B: bedroom
+C: garden
+D: hallway
+E: office
+F:",Where is Sandra? 
+609,bedroom,"A: kitchen
+B: bedroom
+C: hallway
+D: office
+E: garden
+F",Where is Daniel? 
+610,kitchen,"Answer: Daniel is in the kitchen.
+
+Follow-up Question 1: If Daniel had to move",Where is Daniel? 
+611,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+612,bathroom,"A:
+
+A: The office
+B: The bathroom
+C: The kitchen
+D: The garden",Where is Daniel? 
+613,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+614,bathroom,"Solution: The last location mentioned for Sandra is the bathroom. Therefore, Sandra is in the bath",Where is Sandra? 
+615,office,"Answer: Daniel is in the office.
+
+Context: Daniel went back to the office. Sandra moved to",Where is Daniel? 
+616,kitchen,"A: The office
+B: The bathroom
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+617,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Daniel? 
+618,kitchen,"Options:
+(A) bedroom
+(B) bathroom
+(C) hallway
+(D",Where is Mary? 
+619,office,"A: The office
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+620,garden,"Solution:
+
+According to the context, John went back to the garden. Therefore, John is in",Where is John? 
+621,office,"Solution: The last location mentioned for Mary in the context is the office. Therefore, Mary is in the office",Where is Mary? 
+622,office,"Answer: Mary is in the office.
+
+Explanation: The last location mentioned for Mary in the context",Where is Mary? 
+623,kitchen,"A: kitchen
+B: bedroom
+C: bathroom
+D: garden
+E: hallway",Where is Sandra? 
+624,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+625,bedroom,"Answer: Daniel is in the bedroom.
+
+Context: John went back to the bedroom. John went",Where is Daniel? 
+626,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The kitchen
+E",Where is John? 
+627,bathroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+628,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: garden",Where is John? 
+629,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: garden",Where is John? 
+630,bathroom,"Solution: The last location mentioned in the context is the bathroom. Therefore, John is in the bathroom",Where is John? 
+631,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+632,bedroom,"Solution: The last location mentioned for Mary is the bedroom. Therefore, Mary is in the bedroom.",Where is Mary? 
+633,kitchen,"Answer: Mary is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is Mary? 
+634,garden,"Solution: The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+635,garden,"Answer: John is in the garden.
+
+Context: John went to the garden. Sandra travelled to",Where is John? 
+636,garden,"A: The garden
+B: The office
+C: The bedroom
+E: The kitchen
+F: The",Where is Sandra? 
+637,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is John? 
+638,hallway,"Options:
+(A) hallway
+(B) bedroom
+(C) kitchen
+(D)",Where is Mary? 
+639,bathroom,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Sandra? 
+640,garden,"Answer: Daniel is in the garden.
+
+Context: Daniel journeyed to the garden. John moved to the",Where is Daniel? 
+641,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: If John went back to",Where is Daniel? 
+642,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) garden
+(D) office",Where is Daniel? 
+643,office,"Options:
+(A) Office
+(B) Bedroom
+(C) Garden
+(D) K",Where is John? 
+644,garden,"A: kitchen
+B: garden
+C: office
+D: bathroom
+E: hallway
+F",Where is Sandra? 
+645,garden,"Solution: Mary is in the garden.
+
+Follow-up Question 1: What is the last",Where is Mary? 
+646,hallway,"A: The hallway
+B: The garden
+C: The kitchen
+D: The office
+E: The",Where is Sandra? 
+647,office,"A: The office
+B: The hallway
+C: The garden
+D: The kitchen
+E: The",Where is Sandra? 
+648,kitchen,"Options:
+(A) garden
+(B) office
+(C) kitchen
+(D) hallway",Where is Sandra? 
+649,kitchen,"Solution: The last location mentioned for Sandra is the kitchen. Therefore, Sandra is in the kitchen.",Where is Sandra? 
+650,bathroom,"Answer: The last location mentioned in the context is the bathroom. Therefore, Daniel is in the bathroom.",Where is Daniel? 
+651,garden,"A: The garden
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+652,kitchen,"A: kitchen
+B: bathroom
+C: garden
+D: bedroom
+E: hallway",Where is Daniel? 
+653,kitchen,"A: bedroom
+B: bathroom
+C: kitchen
+D: garden
+E: hallway",Where is Mary? 
+654,garden,"A: the garden
+B: the office
+C: the bedroom
+D: the kitchen
+E:",Where is Mary? 
+655,bathroom,"Answer: Mary is in the bathroom.
+
+Context: Daniel went to the bathroom. Mary travelled",Where is Mary? 
+656,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What did John do before",Where is John? 
+657,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the sequence of",Where is John? 
+658,garden,"A: kitchen
+B: bedroom
+C: garden
+D: hallway
+E: office
+F",Where is Daniel? 
+659,kitchen,"A: kitchen
+B: bedroom
+C: hallway
+D: garden
+E: office
+F",Where is Daniel? 
+660,kitchen,"Answer: Sandra is in the kitchen.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+661,kitchen,"A: The kitchen
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is Sandra? 
+662,garden,"A: The hallway
+B: The garden
+C: The bathroom
+D: The kitchen
+E:",Where is John? 
+663,bedroom,,Where is Mary? 
+664,bedroom,,Where is Mary? 
+665,bathroom,"Answer: The context states that ""Mary went to the bathroom."" Therefore, Mary is in the bathroom",Where is Mary? 
+666,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What did Mary do before",Where is Daniel? 
+667,office,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: bedroom",Where is John? 
+668,office,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: garden
+F",Where is John? 
+669,office,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is John? 
+670,bedroom,"Answer: John is in the bedroom.
+
+Context: Daniel went back to the office. John went to",Where is John? 
+671,bedroom,"Answer: John is in the bedroom.
+
+Context: Daniel went back to the office. John went to",Where is John? 
+672,office,"Solution: The last location mentioned for Daniel is the office. Therefore, Daniel is in the office.",Where is Daniel? 
+673,bathroom,"Solution: The last location mentioned for Daniel is the bathroom. Therefore, Daniel is in the bathroom.",Where is Daniel? 
+674,kitchen,"Solution: The last location mentioned for Mary is the kitchen. Therefore, Mary is in the kitchen.",Where is Mary? 
+675,bathroom,"A: The bathroom
+B: The bedroom
+C: The kitchen
+D: The hallway
+E",Where is Mary? 
+676,office,"A: The office
+B: The bedroom
+C: The kitchen
+D: The garden
+E: The",Where is Mary? 
+677,hallway,"A: The office
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+678,hallway,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office
+F",Where is Sandra? 
+679,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office",Where is Sandra? 
+680,kitchen,"Solution: Daniel is in the kitchen. The context states that ""Daniel went back to the kitchen.""",Where is Daniel? 
+681,kitchen,"Options:
+(A) bedroom
+(B) bathroom
+(C) kitchen
+(D)",Where is Daniel? 
+682,kitchen,"Solution: The last location mentioned for Mary is the kitchen. Therefore, Mary is in the kitchen.",Where is Mary? 
+683,office,"Solution: The last location mentioned for Mary is the office. Therefore, Mary is in the office.",Where is Mary? 
+684,bathroom,"Options:
+(A) Bathroom
+(B) Kitchen
+(C) Bedroom
+(D",Where is Daniel? 
+685,garden,"Solution:
+
+According to the context, John went back to the garden. Therefore, John is in",Where is John? 
+686,bathroom,"A: The bathroom
+B: The office
+C: The hallway
+D: The garden
+E:",Where is Mary? 
+687,office,"A:
+
+A: garden
+B: kitchen
+C: office
+D: bathroom
+E: hall",Where is Daniel? 
+688,bathroom,"Answer: John is in the bathroom.
+
+Following the sequence of events, John's last",Where is John? 
+689,hallway,"Answer: John is in the hallway.
+
+Following the sequence of events, John's last",Where is John? 
+690,garden,"Solution:
+
+The last location mentioned in the context is the garden. Therefore, Sandra is in the",Where is Sandra? 
+691,bathroom,"Solution: The last location mentioned in the context is the bathroom. Therefore, Sandra is in the bath",Where is Sandra? 
+692,bathroom,"Solution: The last location mentioned for Sandra is the bathroom. Therefore, Sandra is in the bath",Where is Sandra? 
+693,office,"A: The office
+B: The garden
+C: The bedroom
+D: The hallway
+E:",Where is Sandra? 
+694,garden,"Solution: The last location mentioned for Mary is the garden. Therefore, Mary is in the garden.",Where is Mary? 
+695,garden,"Solution:
+
+The last location mentioned for Mary is the garden. Therefore, Mary is in the garden.",Where is Mary? 
+696,garden,"Answer: Mary is in the garden.
+
+Follow-up Question 1: What was Mary's",Where is Mary? 
+697,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: bathroom
+E: office",Where is Sandra? 
+698,kitchen,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Sandra? 
+699,bedroom,"A: hallway
+B: bedroom
+C: bathroom
+
+Answer: Daniel's last known",Where is Daniel? 
+700,hallway,"Answer: Mary is in the hallway.
+
+Context: Mary moved to the hallway. Daniel travelled",Where is Mary? 
+701,hallway,"A: The office
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Mary? 
+702,bathroom,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: kitchen",Where is John? 
+703,bathroom,"A: hallway
+B: kitchen
+C: bathroom
+D: bedroom
+E: office",Where is John? 
+704,office,"A: hallway
+B: kitchen
+C: bathroom
+D: bedroom
+E: garden",Where is John? 
+705,hallway,,Where is Mary? 
+706,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Mary? 
+707,bathroom,"A:
+
+A: hallway
+B: office
+C: bathroom
+D: garden
+E:",Where is Daniel? 
+708,office,"A: kitchen
+B: bathroom
+C: hallway
+D: office
+E: garden
+F:",Where is Sandra? 
+709,hallway,"A: bathroom
+B: hallway
+C: office
+D: garden
+E: bedroom
+F",Where is Mary? 
+710,garden,"Thought: I need to determine John's current location based on the given context.
+
+Action: Search",Where is John? 
+711,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What is the last",Where is Sandra? 
+712,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the sequence of",Where is John? 
+713,kitchen,"A: The garden
+B: The hallway
+C: The office
+D: The kitchen
+E: The",Where is Sandra? 
+714,hallway,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+715,garden,"A: The garden
+B: The bedroom
+C: The kitchen
+D: The office
+E: The",Where is Sandra? 
+716,hallway,"A: The hallway
+B: The kitchen
+C: The office
+D: The garden
+E: The",Where is Mary? 
+717,office,"A: kitchen
+B: bedroom
+C: office
+D: garden
+E: hallway
+F:",Where is Daniel? 
+718,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The kitchen
+E: The",Where is Mary? 
+719,office,"A: kitchen
+B: bedroom
+C: office
+D: garden
+E: hallway
+F:",Where is Sandra? 
+720,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: If Daniel left the garden",Where is Daniel? 
+721,hallway,"A: The hallway
+B: The garden
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+722,garden,"A:
+
+A: The garden
+B: The office
+C: The bedroom
+E: The hall",Where is Daniel? 
+723,office,"A: hallway
+B: bathroom
+C: kitchen
+D: garden
+E: office
+F:",Where is Sandra? 
+724,office,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office
+F",Where is Sandra? 
+725,garden,"Answer: Sandra is in the garden.
+
+Context: John went to the garden. Sandra travelled",Where is Sandra? 
+726,office,"A: The office
+B: The hallway
+C: The garden
+D: The bedroom
+E:",Where is John? 
+727,bathroom,"A: The office
+B: The hallway
+C: The kitchen
+D: The bathroom
+E:",Where is Mary? 
+728,garden,"A: The office
+B: The hallway
+C: The kitchen
+D: The bathroom
+E:",Where is Mary? 
+729,bathroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: office
+F",Where is Daniel? 
+730,bedroom,"Answer: John is in the bedroom. The context clearly states that ""John went back to the bedroom.""",Where is John? 
+731,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: If John left the",Where is John? 
+732,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office",Where is Sandra? 
+733,office,"A: bathroom
+B: bedroom
+C: hallway
+D: kitchen
+E: office",Where is Mary? 
+734,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: bathroom",Where is Daniel? 
+735,hallway,"A: The hallway
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E",Where is John? 
+736,bathroom,"A: The office
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is Sandra? 
+737,bathroom,"A: garden
+B: bedroom
+C: office
+D: bathroom
+E: hallway
+F",Where is John? 
+738,bathroom,"A: garden
+B: bedroom
+C: office
+D: bathroom
+E: hallway
+F",Where is John? 
+739,kitchen,"A: garden
+B: bedroom
+C: kitchen
+D: bathroom
+E: hallway
+F",Where is John? 
+740,garden,"Solution:
+
+According to the context, John moved to the bathroom and then travelled to the",Where is John? 
+741,garden,"A: The garden
+B: The kitchen
+C: The bedroom
+D: The hallway
+E:",Where is John? 
+742,kitchen,"A: Daniel is in the kitchen.
+
+Context: John moved to the bathroom. John travelled to the",Where is Daniel? 
+743,office,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: garden
+F",Where is Sandra? 
+744,bathroom,"Solution: The last location mentioned for Daniel is the bathroom. Therefore, Daniel is in the bathroom.",Where is Daniel? 
+745,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: If Daniel left the",Where is Daniel? 
+746,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+747,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is John? 
+748,office,"A: the office
+B: the hallway
+C: the garden
+D: the bedroom
+E:",Where is John? 
+749,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is John? 
+750,office,"Solution:
+Sandra is in the office.
+
+Follow-up Question 1: What was",Where is Sandra? 
+751,office,"A: The office
+B: The garden
+C: The bedroom
+D: The kitchen
+E: The",Where is Sandra? 
+752,hallway,"A: The hallway
+B: The office
+C: The bedroom
+D: The garden
+E:",Where is Daniel? 
+753,bedroom,"A: the bedroom
+B: the hallway
+C: the office
+D: the garden
+E:",Where is Mary? 
+754,hallway,"A: kitchen
+B: bedroom
+C: hallway
+D: office
+E: garden
+F:",Where is Daniel? 
+755,garden,"Helpful Answer:
+Daniel is in the garden.
+
+Context: Daniel went to the hallway. Daniel went",Where is Daniel? 
+756,garden,"Answer: Daniel is in the garden.
+
+Follow-up Question 1: What was Daniel's",Where is Daniel? 
+757,office,"Answer: John is in the office.
+
+Follow-up Question 1: What was the last location",Where is John? 
+758,kitchen,"A: the office
+B: the kitchen
+C: the garden
+D: the bedroom
+E: the",Where is Sandra? 
+759,bathroom,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Mary? 
+760,office,"Answer: Sandra is in the office.
+
+Context: Sandra went back to the office. John moved",Where is Sandra? 
+761,bedroom,"Answer: Sandra is in the bedroom.
+
+Follow-up Question 1: If Sandra",Where is Sandra? 
+762,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: If Mary left the",Where is Mary? 
+763,garden,"Solution: The last location mentioned for Daniel is the garden. Therefore, Daniel is in the garden.",Where is Daniel? 
+764,hallway,"A: hallway
+B: bedroom
+C: office
+D: bathroom
+E: kitchen
+F",Where is Daniel? 
+765,kitchen,"Solution:
+Sandra is in the kitchen.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+766,bathroom,"A: The bathroom
+B: The bedroom
+C: The hallway
+D: The kitchen
+E",Where is Daniel? 
+767,kitchen,"A: The hallway
+B: The office
+C: The bathroom
+D: The bedroom
+E",Where is John? 
+768,hallway,"A: Daniel is in the hallway.
+
+Context: Sandra travelled to the kitchen. Daniel travelled",Where is Daniel? 
+769,bedroom,,Where is John? 
+770,bathroom,"Answer: Daniel is in the bathroom.
+
+Context: Daniel went to the bathroom. John went to",Where is Daniel? 
+771,bedroom,"A: The garden.
+B: The bedroom.
+C: The office.
+D: The bathroom",Where is John? 
+772,office,"A:
+
+A: The garden
+B: The bedroom
+C: The office
+E: The kitchen",Where is John? 
+773,office,"Answer: John is in the office.
+
+Explanation: The last location mentioned for John in the context",Where is John? 
+774,kitchen,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Mary? 
+775,kitchen,"Answer: Daniel is in the kitchen.
+
+Context: John went to the bedroom. Mary went to the",Where is Daniel? 
+776,bathroom,"A: The bathroom
+B: The garden
+C: The office
+D: The bedroom
+E:",Where is John? 
+777,bathroom,"Solution: The last location mentioned for John is the bathroom. Therefore, John is in the bathroom.",Where is John? 
+778,bathroom,"A: The kitchen
+B: The hallway
+C: The bathroom
+D: The garden
+E:",Where is John? 
+779,office,"A: office
+B: bathroom
+C: hallway
+D: bedroom
+E: kitchen",Where is Daniel? 
+780,bedroom,,Where is John? 
+781,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: If Daniel left the office",Where is Daniel? 
+782,office,"Answer: Daniel is in the office.
+
+Following the sequence of events, Daniel's last known",Where is Daniel? 
+783,bathroom,"Answer: John is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+784,hallway,"A: hallway
+B: bathroom
+C: office
+D: kitchen
+E: garden
+F",Where is Sandra? 
+785,office,"Answer: John is in the office.
+
+Context: John travelled to the office. Mary went to the",Where is John? 
+786,office,"Answer: The text does not provide a specific location for John after he travelled to the office.
+
+F",Where is John? 
+787,hallway,"Answer: Mary is in the hallway.
+
+Explanation: The last location mentioned for Mary in the",Where is Mary? 
+788,hallway,"Solution: The last location mentioned for Mary in the context is the hallway. Therefore, Mary is in the",Where is Mary? 
+789,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+790,garden,"Solution:
+
+According to the context, Sandra first travelled to the office and then moved to",Where is Sandra? 
+791,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+792,garden,"Solution: The last location mentioned for Sandra is the garden. Therefore, Sandra is in the garden.",Where is Sandra? 
+793,office,,Where is John? 
+794,garden,"Solution: The last location mentioned for Mary in the context is the garden. Therefore, Mary is in the garden",Where is Mary? 
+795,office,"Answer: Daniel is in the office.
+
+Context: Daniel travelled to the office. Sandra went back",Where is Daniel? 
+796,office,"Options:
+(A) Office
+(B) Bathroom
+(C) Kitchen
+(D)",Where is Sandra? 
+797,office,"Options:
+(A) Bathroom
+(B) Hallway
+(C) Office
+(D)",Where is Mary? 
+798,office,"A: The office
+B: The hallway
+C: The bedroom
+D: The garden
+E:",Where is Sandra? 
+799,office,"A: the office
+B: the hallway
+C: the garden
+D: the bedroom
+E:",Where is Sandra? 
+800,hallway,,Where is Sandra? 
+801,bathroom,"A: The garden
+B: The hallway
+C: The bedroom
+D: The bathroom
+E",Where is Daniel? 
+802,office,"A: The office
+B: The hallway
+C: The garden
+D: The bedroom
+E:",Where is Mary? 
+803,bedroom,"A: The office
+B: The hallway
+C: The bedroom
+D: The garden
+E:",Where is Sandra? 
+804,office,"A: bathroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is Mary? 
+805,garden,"Answer: John is in the garden.
+
+Context: Mary journeyed to the garden. John went back to",Where is John? 
+806,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+807,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+808,hallway,"A: kitchen
+B: bedroom
+C: hallway
+D: bathroom
+E: office
+F",Where is Daniel? 
+809,hallway,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+810,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: If Sandra then",Where is Sandra? 
+811,garden,"A: The garden
+B: The office
+C: The bedroom
+D: The kitchen
+E: The",Where is Sandra? 
+812,office,"A: The office
+B: The bedroom
+C: The garden
+D: The hallway
+E:",Where is Daniel? 
+813,hallway,"A: The hallway
+B: The office
+C: The kitchen
+D: The bedroom
+E:",Where is Daniel? 
+814,hallway,"Solution: The last location mentioned for Mary is the hallway. Therefore, Mary is in the hallway.",Where is Mary? 
+815,office,"Answer: Daniel is in the office.
+
+Context: Daniel went to the bedroom. Daniel journeyed to",Where is Daniel? 
+816,office,"Answer: Mary is in the office.
+
+Follow-up Question 1: What did Daniel do after",Where is Mary? 
+817,kitchen,"Answer: Daniel is in the kitchen.
+
+Follow-up Question 1: What was the last place",Where is Daniel? 
+818,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the last location",Where is John? 
+819,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the last place",Where is Daniel? 
+820,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+821,garden,"Answer: Sandra is in the garden.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+822,bathroom,"A: bedroom
+B: kitchen
+C: garden
+D: office
+E: bathroom
+F",Where is Daniel? 
+823,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: What was the last",Where is John? 
+824,bathroom,"Answer: The last location mentioned for Daniel is the bathroom.
+
+Follow-up Question 1:",Where is Daniel? 
+825,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: If Sandra left",Where is Sandra? 
+826,bathroom,"A: The office
+B: The garden
+C: The bathroom
+D: The hallway
+E:",Where is Mary? 
+827,bedroom,"A:
+
+A: The office
+B: The kitchen
+C: The bedroom
+D: The garden",Where is Mary? 
+828,bathroom,"A:
+
+A: The office
+B: The bathroom
+C: The kitchen
+D: The bed",Where is Mary? 
+829,kitchen,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is Daniel? 
+830,garden,"Answer: Mary is in the garden.
+
+Context: Daniel went back to the bedroom. Mary went to",Where is Mary? 
+831,bathroom,"A: The garden
+B: The bedroom
+C: The kitchen
+D: The bathroom
+E:",Where is Sandra? 
+832,garden,"A: The garden
+B: The hallway
+C: The bathroom
+D: The bedroom
+E",Where is Mary? 
+833,kitchen,"A: bathroom
+B: bedroom
+C: kitchen
+D: hallway
+E: garden
+F",Where is Sandra? 
+834,bedroom,"A: bedroom
+B: bathroom
+C: hallway
+D: kitchen
+E: office",Where is Mary? 
+835,bathroom,"A: The hallway
+B: The bathroom
+C: The office
+D: The bedroom
+E",Where is John? 
+836,bathroom,"Options:
+(A) hallway
+(B) bedroom
+(C) bathroom
+(D",Where is John? 
+837,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The garden
+E",Where is Daniel? 
+838,office,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: bathroom",Where is Daniel? 
+839,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: office",Where is Sandra? 
+840,garden,"Answer: Sandra is in the garden.
+
+Context: John went to the garden. Sandra journeyed",Where is Sandra? 
+841,garden,"Options:
+(A) Office
+(B) Garden
+(C) Bathroom
+(D) K",Where is Sandra? 
+842,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: If John travelled to",Where is Daniel? 
+843,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the sequence of",Where is John? 
+844,kitchen,"Answer: John is in the kitchen.
+
+Explanation: The last location mentioned for John in the context",Where is John? 
+845,bedroom,"Answer: Sandra is in the bedroom.
+
+
+Context: Sandra went to the bedroom.",Where is Sandra? 
+846,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+847,garden,"A: The office
+B: The garden
+C: The bedroom
+D: The kitchen
+E: The",Where is Sandra? 
+848,garden,"A: garden
+B: bathroom
+C: hallway
+D: bedroom
+E: office
+F",Where is Sandra? 
+849,office,"A: the office
+B: the garden
+C: the bedroom
+D: the hallway
+E:",Where is John? 
+850,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: If Daniel left the",Where is Daniel? 
+851,hallway,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+852,bathroom,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+853,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+854,bedroom,"A: bedroom
+B: kitchen
+C: bathroom
+D: hallway
+E: office",Where is Mary? 
+855,bedroom,"Answer: Daniel is in the bedroom.
+
+
+Context: Daniel went to the hallway. Daniel went",Where is Daniel? 
+856,bedroom,"Knowledge: Daniel is in the bedroom.
+
+Question: Where is John?
+Knowledge:",Where is Daniel? 
+857,bedroom,"A: The office
+B: The bedroom
+C: The hallway
+D: The kitchen
+E:",Where is John? 
+858,kitchen,"A: the bedroom
+B: the office
+C: the kitchen
+D: the hallway
+E:",Where is Mary? 
+859,office,"A: office
+B: bathroom
+C: hallway
+D: bedroom
+E: kitchen",Where is Mary? 
+860,bathroom,"Answer: Mary is in the bathroom.
+
+Context: Mary went to the bathroom. Daniel travelled",Where is Mary? 
+861,garden,"Answer: Mary is in the garden.
+
+Follow-up Question 1: What was the last location",Where is Mary? 
+862,office,"Answer: Mary is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Mary? 
+863,kitchen,"Rationale: The last location mentioned for Mary in the context is the kitchen.
+
+Answer: Mary is in",Where is Mary? 
+864,hallway,"Answer: Mary is in the hallway.
+
+Explanation: The last location mentioned for Mary in the",Where is Mary? 
+865,garden,"Solution:
+Based on the given context, Sandra is in the garden.
+
+Follow-",Where is Sandra? 
+866,bedroom,"Solution: Mary is in the bedroom. This is because the text states that ""Mary travelled to",Where is Mary? 
+867,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: If Mary left the",Where is Mary? 
+868,kitchen,"A: kitchen
+B: bedroom
+C: hallway
+D: bathroom
+E: garden
+F",Where is Daniel? 
+869,hallway,"Solution: The last location mentioned for John is the hallway. Therefore, John is in the hallway.",Where is John? 
+870,bedroom,"Solution:
+Mary is in the bedroom.
+
+
+Question: Where is John?",Where is Mary? 
+871,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: What was the sequence of",Where is John? 
+872,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: bedroom
+F",Where is John? 
+873,hallway,### Response: The last location mentioned for John is the hallway.,Where is John? 
+874,garden,"A: bathroom
+B: bedroom
+C: garden
+D: kitchen
+E: hallway",Where is Mary? 
+875,garden,"Solution:
+
+The last location mentioned for John is the garden. Therefore, John is in the garden.",Where is John? 
+876,garden,"Answer: John is in the garden.
+
+Follow-up Question 1: If John left the garden",Where is John? 
+877,kitchen,"A: bedroom
+B: kitchen
+C: hallway
+D: bathroom
+E: office",Where is Daniel? 
+878,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden
+F",Where is Sandra? 
+879,office,"A: office
+B: bathroom
+C: bedroom
+D: kitchen
+E: hallway",Where is Sandra? 
+880,bedroom,"Answer: John is in the bedroom.
+
+Context: Mary went back to the kitchen. John went to",Where is John? 
+881,hallway,"A: The hallway
+B: The office
+C: The bathroom
+D: The bedroom
+E",Where is Daniel? 
+882,office,"A: bathroom
+B: office
+C: hallway
+D: bedroom
+E: kitchen",Where is Mary? 
+883,office,"A: hallway
+B: office
+C: bathroom
+D: bedroom
+E: garden",Where is Mary? 
+884,hallway,"A: garden
+B: bedroom
+C: office
+D: hallway
+E: bathroom
+F",Where is John? 
+885,bedroom,"Solution:
+
+The last location mentioned for John is the bedroom. Therefore, John is in the bed",Where is John? 
+886,bedroom,"Answer: Daniel is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+887,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: office
+E: bedroom
+F",Where is Daniel? 
+888,office,"Options:
+(A) bedroom
+(B) bathroom
+(C) hallway
+(D",Where is Sandra? 
+889,bedroom,"A: bedroom
+B: kitchen
+C: hallway
+D: bathroom
+E: office",Where is Daniel? 
+890,garden,"Answer: John is in the garden.
+
+
+Question: Where is Mary?
+
+Answer: Mary is",Where is John? 
+891,office,"A: The office
+B: The garden
+C: The bedroom
+D: The kitchen
+E: The",Where is John? 
+892,garden,"A: The office
+B: The bedroom
+C: The garden
+D: The kitchen
+E: The",Where is John? 
+893,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Mary? 
+894,office,"A: garden
+B: bedroom
+C: office
+D: hallway
+E: bathroom
+F",Where is John? 
+895,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+896,garden,"A: The garden
+B: The office
+C: The kitchen
+D: The bedroom
+E: The",Where is Sandra? 
+897,hallway,"A: The hallway
+B: The office
+C: The garden
+D: The bedroom
+E:",Where is Sandra? 
+898,garden,"Options:
+(A) garden
+(B) kitchen
+(C) office
+(D) hallway",Where is John? 
+899,office,"A: kitchen
+B: bedroom
+C: hallway
+D: office
+E: garden
+F:",Where is Daniel? 
+900,bathroom,"Answer: Daniel is in the bathroom.
+
+Context: Daniel went back to the office. Daniel travelled",Where is Daniel? 
+901,bathroom,"Options:
+(A) Hallway
+(B) Bathroom
+(C) Kitchen
+(D",Where is Daniel? 
+902,garden,"A: garden
+B: bathroom
+C: hallway
+D: office
+E: bedroom",Where is John? 
+903,office,"A: hallway
+B: bathroom
+C: kitchen
+D: bedroom
+E: garden",Where is Mary? 
+904,garden,"A: garden
+B: office
+C: kitchen
+D: hallway
+E: bathroom
+F",Where is Sandra? 
+905,garden,"Solution:
+
+According to the context, Sandra went back to the bathroom and then travelled",Where is Sandra? 
+906,kitchen,"Answer: Sandra is in the kitchen.
+
+Follow-up Question 1: What was the sequence",Where is Sandra? 
+907,kitchen,"Answer: Sandra is in the kitchen.
+
+Follow-up Question 1: What was the sequence",Where is Sandra? 
+908,office,"A: office
+B: bathroom
+C: bedroom
+D: kitchen
+E: hallway",Where is Daniel? 
+909,office,"A: office
+B: bathroom
+C: hallway
+D: bedroom
+E: kitchen",Where is Mary? 
+910,bedroom,"A: The hallway.
+B: The bedroom.
+C: The office.
+D: The garden",Where is Daniel? 
+911,bedroom,"A: The hallway
+B: The bedroom
+C: The office
+D: The garden
+E:",Where is Mary? 
+912,office,"A: The office
+B: The bedroom
+C: The bathroom
+D: The hallway
+E",Where is John? 
+913,hallway,"A:
+
+A: The hallway
+B: The office
+C: The garden
+D: The bed",Where is Daniel? 
+914,garden,"A: bedroom
+B: kitchen
+C: hallway
+D: office
+E: garden
+F",Where is Mary? 
+915,kitchen,"Answer: Mary is in the kitchen.
+
+Context: Daniel went back to the garden. Mary travelled to",Where is Mary? 
+916,hallway,"A: The hallway
+B: The garden
+C: The kitchen
+
+Answer: A: The hallway",Where is Sandra? 
+917,garden,"A: The garden
+B: The hallway
+C: The bedroom
+D: The bathroom
+E",Where is Mary? 
+918,garden,"A: the garden
+B: the office
+C: the bedroom
+D: the kitchen
+E: the",Where is Mary? 
+919,bedroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: office",Where is Daniel? 
+920,bathroom,"Answer: Daniel is in the bathroom.
+
+Context: Daniel went to the bathroom. Mary went to",Where is Daniel? 
+921,hallway,"A: The hallway
+B: The bathroom
+C: The garden
+D: The kitchen
+E:",Where is Mary? 
+922,hallway,"A: hallway
+B: bathroom
+C: kitchen
+D: garden
+E: office
+F",Where is Daniel? 
+923,kitchen,"A: hallway
+B: bathroom
+C: kitchen
+D: garden
+E: office
+F",Where is Mary? 
+924,bedroom,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office",Where is Daniel? 
+925,bathroom,"Solution: Mary is in the bathroom. The context clearly states that ""Mary moved to the bathroom",Where is Mary? 
+926,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the sequence of",Where is Daniel? 
+927,kitchen,"A: garden
+B: kitchen
+C: bathroom
+D: hallway
+E: office
+F",Where is Daniel? 
+928,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: What was the last place",Where is Daniel? 
+929,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+930,office,"Answer: Sandra is in the office.
+
+Context: Sandra went to the office. John went back",Where is Sandra? 
+931,office,"Solution: Daniel is in the office. This is because the context states that ""Daniel travelled to the office",Where is Daniel? 
+932,bedroom,"Solution: The last location mentioned for John is the bedroom. Therefore, John is in the bedroom.",Where is John? 
+933,office,"Solution: The last location mentioned for Sandra is the office. Therefore, Sandra is in the office.",Where is Sandra? 
+934,kitchen,"Solution: The last location mentioned for Sandra is the kitchen. Therefore, Sandra is in the kitchen.",Where is Sandra? 
+935,hallway,"A: The hallway.
+B: The bathroom.
+C: The office.
+D: The bed",Where is John? 
+936,hallway,"Answer: John is in the hallway.
+
+Follow-up Question 1: If John left the",Where is John? 
+937,garden,"A: The garden
+B: The hallway
+C: The bedroom
+D: The kitchen
+E:",Where is Daniel? 
+938,bedroom,"A: kitchen
+B: bedroom
+C: bathroom
+D: hallway
+E: garden
+F",Where is Sandra? 
+939,bedroom,"A: garden
+B: bedroom
+C: kitchen
+D: hallway
+E: bathroom
+F",Where is Sandra? 
+940,bedroom,"Solution:
+
+The last location mentioned for John is the bedroom. Therefore, John is in the bed",Where is John? 
+941,office,"Answer: Daniel is in the office.
+
+Follow-up Question 1: If Daniel left the office",Where is Daniel? 
+942,office,"A: office
+B: bathroom
+C: bedroom
+D: kitchen
+E: hallway",Where is Daniel? 
+943,kitchen,"Answer: John is in the kitchen.
+
+Follow-up Question 1: What was the last location",Where is John? 
+944,hallway,"Solution: The last location mentioned for Daniel is the hallway. Therefore, Daniel is in the hallway.",Where is Daniel? 
+945,office,"Solution:
+Sandra is in the office.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+946,bathroom,Solution: Mary is in the bathroom. The last location mentioned for Mary in the context is the bathroom,Where is Mary? 
+947,bathroom,"Options:
+(A) Bathroom
+(B) Office
+(C) Kitchen
+(D)",Where is Sandra? 
+948,kitchen,,Where is Mary? 
+949,bedroom,"Solution: The last location mentioned for Daniel is the bedroom. Therefore, Daniel is in the bedroom.",Where is Daniel? 
+950,hallway,"Answer: John is in the hallway.
+
+
+Question: Where is the apple?
+
+Answer:",Where is John? 
+951,kitchen,"A: The hallway
+B: The kitchen
+C: The bedroom
+D: The garden
+E:",Where is John? 
+952,kitchen,"A: The hallway
+B: The garden
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+953,kitchen,"Options:
+(A) hallway
+(B) office
+(C) kitchen
+(D) garden",Where is Mary? 
+954,office,"Answer: Sandra is in the office.
+
+Follow-up Question 1: What was the last",Where is Sandra? 
+955,office,"Answer: John is in the office.
+
+Context: John went back to the office. Daniel went to the",Where is John? 
+956,kitchen,"Answer: John is in the kitchen.
+
+Context: John went back to the office. Daniel went to the",Where is John? 
+957,garden,"A: The garden
+B: The bedroom
+C: The office
+D: The bathroom
+E:",Where is Sandra? 
+958,kitchen,"A: garden
+B: bedroom
+C: kitchen
+D: bathroom
+E: hallway
+F",Where is Sandra? 
+959,bedroom,"Answer: John is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is John? 
+960,hallway,"Answer: Mary is in the hallway.
+
+
+Context: John went to the garden. Mary travelled",Where is Mary? 
+961,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The kitchen",Where is Daniel? 
+962,bathroom,"A: The hallway
+B: The bedroom
+C: The bathroom
+D: The office
+E",Where is John? 
+963,bedroom,"A: hallway
+B: bedroom
+C: bathroom
+D: kitchen
+E: office",Where is Mary? 
+964,garden,"A: the office
+B: the hallway
+C: the garden
+D: the bedroom
+E",Where is Mary? 
+965,garden,"Answer: Daniel is in the garden.
+
+Context: Daniel went to the garden. Mary travelled to the",Where is Daniel? 
+966,bathroom,"Answer: Mary is in the bathroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+967,bathroom,"A: bathroom
+B: bedroom
+C: kitchen
+D: garden
+E: hallway",Where is Daniel? 
+968,hallway,"A: the hallway
+B: the garden
+C: the office
+D: the bedroom
+E",Where is Mary? 
+969,kitchen,"A: kitchen
+B: bathroom
+C: hallway
+D: bedroom
+E: office",Where is Sandra? 
+970,bathroom,"Answer: Daniel is in the bathroom.
+
+Context: Sandra travelled to the office. Daniel travel",Where is Daniel? 
+971,kitchen,"A: The kitchen
+B: The bathroom
+C: The bedroom
+D: The garden
+E:",Where is Daniel? 
+972,bathroom,"Answer: Sandra is in the bathroom.
+
+Context: Sandra moved to the bathroom. Daniel",Where is Sandra? 
+973,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: garden
+F",Where is Daniel? 
+974,hallway,"Answer: Daniel is in the hallway.
+
+Follow-up Question 1: What was the last",Where is Daniel? 
+975,bedroom,"Answer: Daniel is in the bedroom.
+
+Context: Daniel journeyed to the bedroom. Sandra",Where is Daniel? 
+976,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+977,office,"Answer: John is in the office.
+
+Follow-up Question 1: If John left the office",Where is John? 
+978,bedroom,"Answer: Mary is in the bedroom.
+
+Follow-up Question 1: What was the last",Where is Mary? 
+979,hallway,"A: hallway
+B: bathroom
+C: bedroom
+D: kitchen
+E: office
+F",Where is Sandra? 
+980,kitchen,"Solution:
+Mary is in the kitchen.
+
+Follow-up Question 1: If Mary",Where is Mary? 
+981,bathroom,"Solution: The last location mentioned for Mary in the context is the bathroom. Therefore, Mary is in the",Where is Mary? 
+982,bedroom,"A: The garden
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+983,office,"A: kitchen
+B: bedroom
+C: office
+D: garden
+E: bathroom
+
+Please",Where is Sandra? 
+984,garden,"Solution: The last location mentioned for Mary is the garden. Therefore, Mary is in the garden.",Where is Mary? 
+985,garden,"Solution:
+Sandra is in the garden.
+
+Follow-up Question 1: If Sand",Where is Sandra? 
+986,garden,"Solution: Sandra is in the garden.
+
+Follow-up Question 1: If Sandra",Where is Sandra? 
+987,office,"Solution: The last location mentioned for Mary in the context is the office. Therefore, Mary is in the office",Where is Mary? 
+988,bathroom,"A:
+
+A: The kitchen
+B: The bathroom
+C: The office
+D: The garden",Where is John? 
+989,bathroom,"Solution: The last location mentioned for John is the bathroom. Therefore, John is in the bathroom.",Where is John? 
+990,garden,"A: The hallway
+B: The garden
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+991,kitchen,"A: The hallway
+B: The garden
+C: The kitchen
+D: The bedroom
+E:",Where is Sandra? 
+992,garden,"A: hallway
+B: bathroom
+C: garden
+D: kitchen
+E: bedroom",Where is John? 
+993,garden,"A: kitchen
+B: office
+C: hallway
+D: garden
+E: bathroom
+F",Where is Daniel? 
+994,garden,"A: kitchen
+B: bedroom
+C: garden
+D: bathroom
+E: hallway",Where is Mary? 
+995,kitchen,"Answer: John is in the kitchen.
+
+Context: Sandra moved to the office. John travelled to",Where is John? 
+996,hallway,"A: The hallway
+B: The kitchen
+C: The office
+D: The bedroom
+E:",Where is Sandra? 
+997,office,"A: The office
+B: The bathroom
+C: The bedroom
+D: The kitchen
+E:",Where is Sandra? 
+998,bathroom,"A: garden
+B: kitchen
+C: bedroom
+D: office
+E: hallway
+F:",Where is Sandra? 
+999,bedroom,"Options:
+(A) bedroom
+(B) kitchen
+(C) office
+(D) garden",Where is John? 

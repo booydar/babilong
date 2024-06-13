@@ -1,0 +1,1000 @@
+,target,output,result,question
+0,bedroom, hallway,0.0,What is the bathroom east of?
+1,bedroom,,0.0,What is west of the kitchen?
+2,bathroom, bedroom,0.0,What is north of the garden?
+3,bedroom, bedroom,1.0,What is south of the kitchen?
+4,bedroom, bedroom,1.0,What is east of the kitchen?
+5,garden, garden,1.0,What is the bathroom west of?
+6,kitchen, kitchen,1.0,What is east of the bedroom?
+7,bathroom, bedroom,0.0,What is the garden south of?
+8,kitchen, kitchen,1.0,What is south of the office?
+9,office, office,1.0,What is east of the hallway?
+10,garden, garden,1.0,What is north of the office?
+11,garden,1,0.0,What is south of the kitchen?
+12,bathroom, bathroom,1.0,What is east of the kitchen?
+13,garden, bedroom,0.0,What is west of the kitchen?
+14,garden,12 o'clock,0.0,What is north of the bedroom?
+15,garden, garden,1.0,What is east of the hallway?
+16,hallway, hallway,1.0,What is east of the office?
+17,office, office,1.0,What is south of the bathroom?
+18,garden, kitchen,0.0,What is the bedroom north of?
+19,garden,1,0.0,What is the kitchen west of?
+20,garden, hallway,0.0,What is the office east of?
+21,garden, kitchen,0.0,What is the bathroom south of?
+22,bathroom, bathroom,1.0,What is north of the bedroom?
+23,bathroom,1,0.0,What is the bedroom south of?
+24,hallway,1.,0.0,What is the bedroom west of?
+25,office, office,1.0,What is east of the bathroom?
+26,office,1,0.0,What is north of the bedroom?
+27,hallway, hallway,1.0,What is west of the bathroom?
+28,garden,,0.0,What is the bathroom north of?
+29,garden,,0.0,What is north of the office?
+30,bedroom, bedroom,1.0,What is east of the kitchen?
+31,kitchen, kitchen,1.0,What is the bathroom east of?
+32,bathroom, bathroom,1.0,What is north of the garden?
+33,kitchen, The hallway,0.0,What is the bedroom west of?
+34,bedroom, The hallway,0.0,What is the kitchen south of?
+35,garden, the garden,1.0,What is the bathroom east of?
+36,office, office,1.0,What is south of the hallway?
+37,bedroom, bedroom,1.0,What is north of the bathroom?
+38,bedroom, office,0.0,What is the bathroom east of?
+39,office, office,1.0,What is north of the bedroom?
+40,bathroom,1,0.0,What is south of the kitchen?
+41,bedroom, bathroom,0.0,What is west of the office?
+42,kitchen, kitchen,1.0,What is the garden south of?
+43,garden, garden,1.0,What is south of the bedroom?
+44,garden, hallway,0.0,What is the office south of?
+45,hallway, bedroom,0.0,What is the office east of?
+46,garden, garden,1.0,What is south of the office?
+47,garden, The garden,1.0,What is west of the bedroom?
+48,garden, garden,1.0,What is east of the hallway?
+49,garden,48,0.0,What is the office south of?
+50,bedroom,13,0.0,What is the hallway north of?
+51,garden, garden,1.0,What is north of the bathroom?
+52,hallway,3,0.0,What is the bedroom north of?
+53,bathroom, bathroom,1.0,What is east of the garden?
+54,bathroom, corridor,0.0,What is west of the bedroom?
+55,garden,1,0.0,What is east of the hallway?
+56,hallway, the kitchen,0.0,What is the bedroom east of?
+57,kitchen, kitchen,1.0,What is west of the hallway?
+58,hallway, hallway,1.0,What is south of the bedroom?
+59,kitchen, bathroom,0.0,What is the garden north of?
+60,hallway, kitchen,0.0,What is the bedroom north of?
+61,bedroom,,0.0,What is south of the hallway?
+62,kitchen, garden,0.0,What is the hallway north of?
+63,hallway, The garden is west of the bedroom.,0.0,What is west of the bedroom?
+64,bedroom, office,0.0,What is east of the garden?
+65,office, kitchen,0.0,What is the bedroom north of?
+66,bathroom,1,0.0,What is the bedroom north of?
+67,office,1,0.0,What is the garden south of?
+68,kitchen, The garden,0.0,What is the bathroom west of?
+69,garden,1,0.0,What is the hallway east of?
+70,bathroom, bathroom,1.0,What is south of the bedroom?
+71,kitchen, office,0.0,What is the garden south of?
+72,garden, kitchen,0.0,What is the bedroom south of?
+73,bathroom, bathroom,1.0,What is north of the office?
+74,bathroom, office,0.0,What is the hallway north of?
+75,bedroom, bedroom,1.0,What is south of the hallway?
+76,bedroom, bedroom,1.0,What is the hallway east of?
+77,bathroom, bathroom,1.0,What is north of the office?
+78,kitchen,68,0.0,What is east of the garden?
+79,hallway,1,0.0,What is the kitchen south of?
+80,garden, The garden,1.0,What is west of the office?
+81,office,1,0.0,What is the bedroom west of?
+82,kitchen, the kitchen,1.0,What is the hallway south of?
+83,garden, east,0.0,What is the office west of?
+84,bathroom, bathroom,1.0,What is north of the hallway?
+85,office, office,1.0,What is west of the garden?
+86,office, The office,1.0,What is west of the garden?
+87,garden, garden,1.0,What is east of the bathroom?
+88,bathroom, bathroom,1.0,What is north of the office?
+89,kitchen,1,0.0,What is the bedroom west of?
+90,office, office,1.0,What is the bathroom south of?
+91,office, office,1.0,What is east of the bedroom?
+92,bedroom, bedroom,1.0,What is south of the office?
+93,bathroom, bedroom,0.0,What is the garden west of?
+94,garden, kitchen,0.0,What is the bedroom west of?
+95,hallway,,0.0,What is north of the garden?
+96,bedroom, bedroom,1.0,What is the kitchen west of?
+97,kitchen, garden,0.0,What is west of the bedroom?
+98,bathroom, bedroom,0.0,What is the kitchen north of?
+99,garden, eminence,0.0,What is the office north of?
+100,bedroom, vestibule,0.0,What is east of the hallway?
+101,kitchen, kitchen,1.0,What is south of the hallway?
+102,bedroom,48,0.0,What is the office west of?
+103,bathroom,1.0,0.0,What is the kitchen north of?
+104,hallway, west,0.0,What is west of the bedroom?
+105,bedroom, The garden,0.0,What is west of the kitchen?
+106,office, hallway,0.0,What is the kitchen south of?
+107,bathroom, bedroom,0.0,What is west of the garden?
+108,bedroom, kitchen,0.0,What is the bathroom south of?
+109,bathroom, bedroom,0.0,What is the kitchen west of?
+110,garden, bathroom,0.0,What is the hallway west of?
+111,hallway, bedroom,0.0,What is the kitchen south of?
+112,office, office,1.0,What is south of the bathroom?
+113,hallway, The bedroom,0.0,What is the office west of?
+114,bedroom,1,0.0,What is the kitchen north of?
+115,office, hallway,0.0,What is the garden east of?
+116,bedroom,,0.0,What is the hallway south of?
+117,bedroom, the bedroom,1.0,What is the garden west of?
+118,hallway, hallway,1.0,What is north of the office?
+119,office, office,1.0,What is west of the hallway?
+120,bedroom, bedroom,1.0,What is the bathroom north of?
+121,kitchen,1,0.0,What is the hallway north of?
+122,office, office,1.0,What is east of the bathroom?
+123,bathroom, office,0.0,What is north of the hallway?
+124,bathroom, hallway,0.0,What is the bedroom north of?
+125,kitchen,1,0.0,What is west of the garden?
+126,bathroom,1,0.0,What is north of the kitchen?
+127,hallway, garden,0.0,What is the bedroom east of?
+128,garden, kitchen,0.0,What is the bedroom south of?
+129,hallway, hallway,1.0,What is east of the bathroom?
+130,garden, hallway,0.0,What is the bedroom east of?
+131,kitchen, kitchen,1.0,What is south of the bathroom?
+132,kitchen,8 Walker Street,0.0,What is east of the garden?
+133,bathroom,6,0.0,What is the hallway east of?
+134,office, bedroom,0.0,What is the hallway east of?
+135,kitchen, kitchen,1.0,What is the garden east of?
+136,bathroom, kitchen,0.0,What is the bedroom south of?
+137,hallway, bedroom,0.0,What is the garden east of?
+138,kitchen, garden,0.0,What is south of the hallway?
+139,hallway, bedroom,0.0,What is west of the kitchen?
+140,kitchen, kitchen,1.0,What is north of the garden?
+141,office,1,0.0,What is the kitchen west of?
+142,bathroom, garden,0.0,What is the kitchen north of?
+143,bathroom, bathroom,1.0,What is east of the kitchen?
+144,bathroom,1,0.0,What is east of the garden?
+145,kitchen, garden,0.0,What is the office south of?
+146,hallway,1,0.0,What is the kitchen north of?
+147,hallway, kitchen,0.0,What is the bedroom west of?
+148,bathroom,1,0.0,What is the office west of?
+149,hallway,1,0.0,What is the office south of?
+150,bathroom, bathroom,1.0,What is north of the hallway?
+151,garden,1,0.0,What is the bathroom east of?
+152,kitchen,1,0.0,What is the bathroom east of?
+153,hallway, The hallway,1.0,What is south of the kitchen?
+154,hallway, hallway,1.0,What is south of the office?
+155,garden, The hallway is south of the kitchen. The bedroom is north of the kitchen. What is the,0.0,What is the bedroom west of?
+156,office, office,1.0,What is south of the bedroom?
+157,bathroom,1,0.0,What is north of the garden?
+158,garden, office,0.0,What is the bedroom east of?
+159,bedroom, bedroom,1.0,What is south of the kitchen?
+160,hallway,1,0.0,What is the office south of?
+161,bathroom,1,0.0,What is north of the garden?
+162,hallway, hallway,1.0,What is east of the bathroom?
+163,hallway, hallway,1.0,What is the office east of?
+164,bathroom, bathroom,1.0,What is the office west of?
+165,kitchen,1,0.0,What is west of the bedroom?
+166,office, office,1.0,What is north of the hallway?
+167,garden, bathroom,0.0,What is the office north of?
+168,kitchen,,0.0,What is west of the hallway?
+169,bedroom,1,0.0,What is the garden south of?
+170,hallway, office,0.0,What is the bedroom north of?
+171,bathroom, bedroom,0.0,What is the hallway west of?
+172,kitchen,urchin,0.0,What is north of the garden?
+173,hallway, northeast,0.0,What is the bathroom north of?
+174,bathroom, bathroom,1.0,What is south of the office?
+175,office, office,1.0,What is east of the bathroom?
+176,hallway, kitchen,0.0,What is the bedroom west of?
+177,hallway, south,0.0,What is the office south of?
+178,kitchen, kitchen,1.0,What is south of the office?
+179,bathroom, office,0.0,What is the garden south of?
+180,hallway, kitchen,0.0,What is the bedroom north of?
+181,bathroom, bathroom,1.0,What is east of the hallway?
+182,bedroom, bathroom,0.0,What is the hallway west of?
+183,bathroom,1,0.0,What is south of the garden?
+184,bedroom, garden,0.0,What is the office west of?
+185,bathroom,1,0.0,What is west of the bedroom?
+186,garden,1,0.0,What is the office west of?
+187,garden, hallway,0.0,What is south of the bedroom?
+188,kitchen, kitchen,1.0,What is south of the office?
+189,hallway, hallway,1.0,What is east of the bathroom?
+190,bathroom, bedroom,0.0,What is the kitchen east of?
+191,bathroom,44,0.0,What is the office east of?
+192,bedroom,1,0.0,What is the office south of?
+193,office, bedroom,0.0,What is the kitchen south of?
+194,bedroom, hallway,0.0,What is east of the garden?
+195,office, office,1.0,What is east of the bathroom?
+196,kitchen, kitchen,1.0,What is north of the hallway?
+197,office, bedroom,0.0,What is the kitchen south of?
+198,garden,1,0.0,What is south of the hallway?
+199,kitchen, office,0.0,What is the bathroom south of?
+200,bedroom,1,0.0,What is the hallway south of?
+201,hallway, hallway,1.0,What is east of the garden?
+202,office,20,0.0,What is the bathroom north of?
+203,kitchen, kitchen,1.0,What is west of the hallway?
+204,office, garden,0.0,What is the bathroom east of?
+205,garden,1,0.0,What is the bedroom east of?
+206,garden, hallway,0.0,What is the office north of?
+207,garden,1,0.0,What is the office north of?
+208,garden, garden,1.0,What is south of the office?
+209,bathroom,1,0.0,What is south of the kitchen?
+210,office,238,0.0,What is south of the bedroom?
+211,kitchen,605,0.0,What is the office east of?
+212,office,1,0.0,What is west of the bedroom?
+213,hallway,1,0.0,What is the bedroom south of?
+214,hallway,1,0.0,What is the kitchen south of?
+215,bedroom, bathroom,0.0,What is west of the hallway?
+216,bedroom, The garden,0.0,What is west of the office?
+217,hallway, hallway,1.0,What is east of the bathroom?
+218,office, bedroom,0.0,What is the garden south of?
+219,hallway, hallway,1.0,What is east of the office?
+220,office, office,1.0,What is south of the bedroom?
+221,kitchen, The garden,0.0,What is west of the bedroom?
+222,kitchen,8 o'clock,0.0,What is west of the garden?
+223,bedroom, hallway,0.0,What is the bathroom west of?
+224,kitchen,1,0.0,What is the office west of?
+225,hallway,13,0.0,What is the garden east of?
+226,hallway, hallway,1.0,What is north of the kitchen?
+227,kitchen, bedroom,0.0,What is the garden north of?
+228,hallway, bedroom,0.0,What is the garden north of?
+229,kitchen,7,0.0,What is west of the bedroom?
+230,garden,360 ft,0.0,What is north of the hallway?
+231,garden,1,0.0,What is the hallway west of?
+232,hallway, office,0.0,What is the bathroom east of?
+233,bedroom,1,0.0,What is the kitchen south of?
+234,bathroom, kitchen,0.0,What is the office west of?
+235,kitchen,1,0.0,What is east of the bedroom?
+236,office, office,1.0,What is east of the bedroom?
+237,bathroom, bathroom,1.0,What is east of the kitchen?
+238,bedroom,1,0.0,What is west of the kitchen?
+239,office,1,0.0,What is the kitchen north of?
+240,garden, The hallway,0.0,What is north of the bedroom?
+241,bathroom, bathroom,1.0,What is east of the kitchen?
+242,office, office,1.0,What is north of the garden?
+243,bedroom,1,0.0,What is the hallway south of?
+244,office, bedroom,0.0,What is the kitchen west of?
+245,garden,1,0.0,What is south of the bedroom?
+246,garden, garden,1.0,What is west of the office?
+247,kitchen,1,0.0,What is the garden north of?
+248,office,9-pounder Amm’n.,0.0,What is west of the kitchen?
+249,bedroom, office,0.0,What is the hallway west of?
+250,office, office,1.0,What is south of the bathroom?
+251,kitchen, The garden is west of the bedroom.,0.0,What is west of the bedroom?
+252,office, kitchen,0.0,What is the hallway north of?
+253,bedroom, bedroom,1.0,What is east of the hallway?
+254,office, kitchen,0.0,What is south of the bathroom?
+255,hallway, kitchen,0.0,What is the bedroom north of?
+256,bathroom, hallway,0.0,What is the garden east of?
+257,kitchen,1,0.0,What is the bathroom north of?
+258,kitchen,1,0.0,What is west of the bedroom?
+259,garden,15,0.0,What is the hallway east of?
+260,kitchen, kitchen,1.0,What is south of the garden?
+261,hallway,1,0.0,What is the bedroom east of?
+262,garden,5,0.0,What is west of the office?
+263,office, office,1.0,What is north of the kitchen?
+264,garden,1,0.0,What is the office north of?
+265,kitchen, bathroom,0.0,What is north of the office?
+266,garden,45 feet square.,0.0,What is south of the bedroom?
+267,hallway, kitchen,0.0,What is the garden north of?
+268,garden, kitchen,0.0,What is the bedroom east of?
+269,bedroom, bedroom,1.0,What is west of the hallway?
+270,bathroom, bathroom,1.0,What is east of the hallway?
+271,kitchen,1,0.0,What is the bedroom south of?
+272,hallway, hallway,1.0,What is east of the garden?
+273,kitchen, The garden,0.0,What is the hallway south of?
+274,office, office,1.0,What is the bathroom east of?
+275,bedroom,1,0.0,What is the garden south of?
+276,bathroom,1,0.0,What is the kitchen west of?
+277,bathroom,209,0.0,What is east of the garden?
+278,bedroom, hallway,0.0,What is south of the bathroom?
+279,office, kitchen,0.0,What is the bedroom west of?
+280,hallway, hallway,1.0,What is north of the garden?
+281,hallway, hallway,1.0,What is west of the office?
+282,hallway, hallway,1.0,What is east of the bathroom?
+283,kitchen,1,0.0,What is west of the bedroom?
+284,garden, forest,0.0,What is north of the office?
+285,garden, The garden,1.0,What is the hallway south of?
+286,hallway,3,0.0,What is the garden east of?
+287,bathroom, bathroom,1.0,What is east of the bedroom?
+288,garden, headquarters,0.0,What is east of the office?
+289,office,1,0.0,What is the garden west of?
+290,garden,2.0,0.0,What is east of the bathroom?
+291,garden,150,0.0,What is the bedroom west of?
+292,garden,1,0.0,What is west of the kitchen?
+293,office, office,1.0,What is west of the bathroom?
+294,bathroom,1,0.0,What is south of the bedroom?
+295,bathroom,1,0.0,What is south of the bedroom?
+296,bathroom, bedroom,0.0,What is the kitchen south of?
+297,office, the office,1.0,What is east of the kitchen?
+298,hallway, hallway,1.0,What is north of the kitchen?
+299,kitchen, office,0.0,What is the bathroom east of?
+300,hallway, hallway,1.0,What is west of the bathroom?
+301,office, office,1.0,What is south of the hallway?
+302,bathroom,1,0.0,What is the hallway west of?
+303,bedroom, bedroom,1.0,What is east of the bathroom?
+304,garden, bathroom,0.0,What is the office south of?
+305,bedroom,1,0.0,What is east of the office?
+306,bedroom, kitchen,0.0,What is north of the hallway?
+307,garden,59.,0.0,What is the office east of?
+308,kitchen,369,0.0,What is the hallway west of?
+309,garden, office,0.0,What is west of the bathroom?
+310,garden,026,0.0,What is the kitchen west of?
+311,bedroom,,0.0,What is the office west of?
+312,bathroom, bathroom,1.0,What is east of the garden?
+313,bathroom, bathroom,1.0,What is east of the kitchen?
+314,kitchen, bedroom,0.0,What is the garden north of?
+315,kitchen, kitchen,1.0,What is west of the hallway?
+316,office, office,1.0,What is east of the garden?
+317,office,1,0.0,What is the hallway west of?
+318,bedroom,1,0.0,What is east of the garden?
+319,hallway,16,0.0,What is the garden east of?
+320,bedroom,1,0.0,What is the office west of?
+321,hallway, office,0.0,What is the bathroom west of?
+322,bathroom, kitchen,0.0,What is the bedroom north of?
+323,garden,1,0.0,What is the bedroom east of?
+324,bathroom, bedroom,0.0,What is the garden west of?
+325,hallway, hallway,1.0,What is south of the garden?
+326,hallway, bedroom,0.0,What is south of the office?
+327,kitchen, bedroom,0.0,What is the garden east of?
+328,bathroom, bedroom,0.0,What is the garden west of?
+329,office, office,1.0,What is the bathroom west of?
+330,hallway, hallway,1.0,What is west of the garden?
+331,bathroom,1,0.0,What is south of the hallway?
+332,hallway,1,0.0,What is the bedroom east of?
+333,kitchen, The garden,0.0,What is the bedroom south of?
+334,kitchen, bedroom,0.0,What is the garden south of?
+335,bathroom, bathroom,1.0,What is west of the office?
+336,garden,1,0.0,What is south of the bathroom?
+337,bathroom, bathroom,1.0,What is west of the garden?
+338,bathroom,189-190.,0.0,What is north of the office?
+339,garden, bedroom,0.0,What is east of the office?
+340,bathroom,1,0.0,What is west of the kitchen?
+341,office, bedroom,0.0,What is the garden south of?
+342,hallway, hallway,1.0,What is west of the bedroom?
+343,bedroom,1,0.0,What is south of the hallway?
+344,garden, kitchen,0.0,What is the hallway east of?
+345,hallway,1,0.0,What is north of the kitchen?
+346,garden, The garden,1.0,What is west of the office?
+347,bathroom, the kitchen,0.0,What is the office west of?
+348,bathroom, bedroom,0.0,What is the garden north of?
+349,garden, the garden,1.0,What is the office south of?
+350,garden,1,0.0,What is the hallway north of?
+351,hallway,1,0.0,What is the kitchen west of?
+352,bathroom, bathroom,1.0,What is north of the hallway?
+353,bedroom,1,0.0,What is the kitchen north of?
+354,bathroom, the office,0.0,What is the kitchen south of?
+355,bedroom, bedroom,1.0,What is north of the office?
+356,hallway, office,0.0,What is east of the bathroom?
+357,kitchen,1,0.0,What is south of the hallway?
+358,hallway, hallway,1.0,What is west of the office?
+359,bedroom,,0.0,What is the office north of?
+360,kitchen, office,0.0,What is north of the garden?
+361,hallway,17,0.0,What is the garden east of?
+362,bathroom, The hallway,0.0,What is the kitchen west of?
+363,garden,42,0.0,What is the hallway east of?
+364,bedroom, bedroom,1.0,What is south of the office?
+365,bathroom, hallway,0.0,What is the office west of?
+366,hallway, hallway,1.0,What is east of the bedroom?
+367,garden, The garden,1.0,What is west of the bedroom?
+368,kitchen, kitchen,1.0,What is the bathroom west of?
+369,bathroom,1,0.0,What is north of the bedroom?
+370,bathroom,1,0.0,What is the garden south of?
+371,bathroom, bedroom,0.0,What is the hallway west of?
+372,office, bathroom,0.0,What is the hallway east of?
+373,office, office,1.0,What is east of the kitchen?
+374,bathroom,1.,0.0,What is north of the kitchen?
+375,office, office,1.0,What is west of the bathroom?
+376,kitchen,1,0.0,What is the office west of?
+377,garden,1,0.0,What is south of the bedroom?
+378,garden, hallway,0.0,What is north of the kitchen?
+379,office,,0.0,What is the bedroom south of?
+380,kitchen,1,0.0,What is the office north of?
+381,hallway, kitchen,0.0,What is the bedroom west of?
+382,bathroom, bathroom,1.0,What is west of the office?
+383,bedroom,1,0.0,What is the garden south of?
+384,office, office,1.0,What is north of the bathroom?
+385,bedroom, office,0.0,What is east of the garden?
+386,bathroom, bedroom,0.0,What is the kitchen east of?
+387,bedroom, bedroom,1.0,What is the garden south of?
+388,bedroom, hallway,0.0,What is the office south of?
+389,hallway, hallway,1.0,What is south of the bedroom?
+390,kitchen,16th street,0.0,What is the hallway north of?
+391,bathroom, bedroom,0.0,What is north of the garden?
+392,kitchen, the kitchen,1.0,What is west of the garden?
+393,garden, garden,1.0,What is south of the hallway?
+394,bedroom, bathroom,0.0,What is the office east of?
+395,bathroom, the hallway,0.0,What is the garden south of?
+396,bedroom,1,0.0,What is the office west of?
+397,bedroom, bedroom,1.0,What is west of the bathroom?
+398,kitchen,238,0.0,What is west of the office?
+399,hallway,555,0.0,What is north of the garden?
+400,office, office,1.0,What is south of the bathroom?
+401,garden, hallway,0.0,What is west of the office?
+402,hallway,,0.0,What is the bedroom east of?
+403,bathroom, garden,0.0,What is the office west of?
+404,bedroom, bedroom,1.0,What is north of the garden?
+405,hallway,1,0.0,What is the bedroom north of?
+406,bathroom, office,0.0,What is west of the hallway?
+407,bedroom, garden,0.0,What is the bathroom east of?
+408,bedroom, kitchen,0.0,What is the office east of?
+409,garden, The garden,1.0,What is south of the bathroom?
+410,bathroom, bathroom,1.0,What is north of the office?
+411,hallway,1,0.0,What is north of the kitchen?
+412,office,23,0.0,What is the bathroom south of?
+413,bathroom, kitchen,0.0,What is the bedroom north of?
+414,kitchen, kitchen,1.0,What is the bathroom west of?
+415,garden,8 Walker Street,0.0,What is the hallway north of?
+416,hallway, hallway,1.0,What is south of the bathroom?
+417,bathroom, teaching,0.0,What is the hallway north of?
+418,hallway, hallway,1.0,What is the office south of?
+419,office, the bedroom,0.0,What is the hallway east of?
+420,kitchen, office,0.0,What is east of the bathroom?
+421,hallway, hallway,1.0,What is north of the office?
+422,kitchen,1. garden 2. kitchen 3. office,1.0,What is the bedroom west of?
+423,office, bedroom,0.0,What is the garden west of?
+424,garden, bedroom,0.0,What is the kitchen east of?
+425,office, The bathroom,0.0,What is the bedroom south of?
+426,bathroom, the kitchen,0.0,What is the hallway south of?
+427,office, office,1.0,What is north of the bathroom?
+428,hallway,8 or 9 feet,0.0,What is the garden north of?
+429,bedroom, bedroom,1.0,What is the kitchen east of?
+430,kitchen, kitchen,1.0,What is east of the bedroom?
+431,bedroom,,0.0,What is south of the bathroom?
+432,kitchen, office,0.0,What is the hallway south of?
+433,kitchen,7th Sts,0.0,What is west of the office?
+434,garden, The garden,1.0,What is north of the kitchen?
+435,bathroom, kitchen,0.0,What is the bedroom south of?
+436,garden, bedroom,0.0,What is west of the kitchen?
+437,bathroom, hallway,0.0,What is the bedroom east of?
+438,bedroom,1,0.0,What is the bathroom west of?
+439,garden, New-Street-Square,0.0,What is the office south of?
+440,bathroom, bedroom,0.0,What is the kitchen east of?
+441,kitchen, kitchen,1.0,What is the hallway east of?
+442,bedroom, hallway,0.0,What is south of the office?
+443,bedroom,1,0.0,What is the garden south of?
+444,bathroom, bathroom,1.0,What is south of the office?
+445,bedroom, hallway,0.0,What is east of the bathroom?
+446,office,,0.0,What is the kitchen east of?
+447,bathroom, the garden,0.0,What is the kitchen south of?
+448,garden, bedroom,0.0,What is west of the hallway?
+449,garden,,0.0,What is the bathroom south of?
+450,hallway, hallway,1.0,What is north of the office?
+451,hallway, hallway,1.0,What is south of the bathroom?
+452,office,1,0.0,What is south of the bedroom?
+453,garden, garden,1.0,What is east of the hallway?
+454,bedroom,1,0.0,What is the office south of?
+455,kitchen, office,0.0,What is west of the hallway?
+456,kitchen, kitchen,1.0,What is south of the garden?
+457,bedroom, bedroom,1.0,What is east of the hallway?
+458,bedroom, bedroom,1.0,What is south of the kitchen?
+459,kitchen,1,0.0,What is the hallway west of?
+460,bedroom,3,0.0,What is west of the hallway?
+461,kitchen, bedroom,0.0,What is the garden west of?
+462,hallway, hallway,1.0,What is east of the bathroom?
+463,office, office,1.0,What is west of the garden?
+464,garden,23,0.0,What is west of the bathroom?
+465,office,1,0.0,What is the garden north of?
+466,garden, garden,1.0,What is west of the office?
+467,office, hallway,0.0,What is the bedroom east of?
+468,kitchen,1,0.0,What is south of the bedroom?
+469,hallway, parlor,0.0,What is the bathroom north of?
+470,bedroom, bedroom,1.0,What is west of the kitchen?
+471,office, office,1.0,What is west of the garden?
+472,bathroom, bathroom,1.0,What is east of the hallway?
+473,bathroom,1,0.0,What is the garden west of?
+474,bedroom, The kitchen,0.0,What is east of the office?
+475,hallway, The office is east of the hallway.,1.0,What is the office west of?
+476,bathroom, The garden,0.0,What is the bedroom south of?
+477,kitchen, hallway,0.0,What is west of the bathroom?
+478,office,1,0.0,What is the garden north of?
+479,kitchen,1,0.0,What is north of the garden?
+480,bedroom,1,0.0,What is west of the kitchen?
+481,bathroom, bathroom,1.0,What is south of the hallway?
+482,hallway,1,0.0,What is north of the kitchen?
+483,garden,101,0.0,What is north of the office?
+484,bedroom,1,0.0,What is the kitchen east of?
+485,garden,8,0.0,What is east of the hallway?
+486,bedroom, bedroom,1.0,What is south of the hallway?
+487,hallway, hallway,1.0,What is east of the kitchen?
+488,bathroom, kitchen,0.0,What is the office south of?
+489,hallway,1,0.0,What is the bedroom south of?
+490,hallway, hallway,1.0,What is north of the bathroom?
+491,garden,,0.0,What is east of the bathroom?
+492,garden, garden,1.0,What is south of the kitchen?
+493,office, office,1.0,What is south of the garden?
+494,bedroom, hallway,0.0,What is the office west of?
+495,hallway,1,0.0,What is north of the bedroom?
+496,office, office,1.0,What is north of the bedroom?
+497,bedroom,1,0.0,What is the office north of?
+498,kitchen,37th Street,0.0,What is the office east of?
+499,hallway, bedroom,0.0,What is the bathroom south of?
+500,garden, The garden,1.0,What is east of the hallway?
+501,office, office,1.0,What is east of the kitchen?
+502,bedroom, bedroom,1.0,What is north of the garden?
+503,hallway, bedroom,0.0,What is the bathroom east of?
+504,bedroom, kitchen,0.0,What is the hallway west of?
+505,garden, The garden,1.0,What is west of the bathroom?
+506,bedroom, eminence,0.0,What is north of the office?
+507,bedroom,62,0.0,What is the hallway north of?
+508,bathroom, south,0.0,What is the garden north of?
+509,office,238,0.0,What is the hallway east of?
+510,kitchen,527,0.0,What is south of the bedroom?
+511,hallway, The hallway,1.0,What is the office east of?
+512,hallway, bedroom,0.0,What is the garden north of?
+513,garden, bedroom,0.0,What is north of the office?
+514,garden, kitchen,0.0,What is the hallway north of?
+515,bathroom, bedroom,0.0,What is the office north of?
+516,garden,137,0.0,What is west of the hallway?
+517,office, kitchen,0.0,What is the bathroom south of?
+518,office, office,1.0,What is north of the hallway?
+519,hallway, hallway,1.0,What is east of the bathroom?
+520,bathroom,737.,0.0,What is south of the bedroom?
+521,hallway,1,0.0,What is west of the bathroom?
+522,kitchen,1,0.0,What is the bedroom south of?
+523,garden, garden,1.0,What is west of the bedroom?
+524,garden, kitchen,0.0,What is the office north of?
+525,garden, garden,1.0,What is north of the bathroom?
+526,office, suburbs,0.0,What is south of the garden?
+527,bathroom,1,0.0,What is west of the garden?
+528,garden, hallway,0.0,What is the bedroom east of?
+529,hallway, bedroom,0.0,What is south of the office?
+530,kitchen, bedroom,0.0,What is the garden south of?
+531,hallway, The garden,0.0,What is west of the bedroom?
+532,office, kitchen,0.0,What is the bedroom west of?
+533,kitchen, bedroom,0.0,What is the garden east of?
+534,garden,1,0.0,What is the bedroom south of?
+535,kitchen,1,0.0,What is the hallway east of?
+536,garden, the garden,1.0,What is the hallway east of?
+537,bedroom, hallway,0.0,What is the garden south of?
+538,bedroom,1,0.0,What is east of the garden?
+539,kitchen, The hallway is west of the kitchen.,1.0,What is the hallway west of?
+540,hallway, office,0.0,What is the bedroom east of?
+541,hallway, hallway,1.0,What is the bathroom south of?
+542,garden,1,0.0,What is north of the kitchen?
+543,garden,1,0.0,What is east of the kitchen?
+544,office, garden,0.0,What is the bathroom north of?
+545,hallway, hallway,1.0,What is the office east of?
+546,hallway, office,0.0,What is the bedroom east of?
+547,office, office,1.0,What is north of the hallway?
+548,bedroom,,0.0,What is west of the kitchen?
+549,hallway, hallway,1.0,What is south of the bathroom?
+550,office, office,1.0,What is east of the hallway?
+551,bathroom, bedroom,0.0,What is the hallway east of?
+552,hallway,238,0.0,What is north of the bedroom?
+553,bedroom,1,0.0,What is the garden south of?
+554,office, office,1.0,What is south of the bedroom?
+555,bathroom, bedroom,0.0,What is east of the garden?
+556,kitchen, The kitchen,1.0,What is west of the garden?
+557,bathroom,,0.0,What is the bedroom east of?
+558,garden, office,0.0,What is the bathroom south of?
+559,kitchen, office,0.0,What is the garden west of?
+560,bedroom,1,0.0,What is the kitchen south of?
+561,kitchen,3.,0.0,What is east of the office?
+562,hallway,79,0.0,What is west of the bathroom?
+563,hallway, bedroom,0.0,What is the garden west of?
+564,bedroom, the garden,0.0,What is the kitchen west of?
+565,kitchen, bedroom,0.0,What is the office west of?
+566,bathroom,1,0.0,What is the bedroom west of?
+567,bathroom,1,0.0,What is west of the hallway?
+568,bedroom, hallway,0.0,What is north of the garden?
+569,kitchen, hallway,0.0,What is south of the bathroom?
+570,kitchen, west,0.0,What is the office east of?
+571,bathroom, kitchen,0.0,What is north of the office?
+572,hallway, hallway,1.0,What is north of the office?
+573,bedroom, bedroom,1.0,What is west of the garden?
+574,office,1,0.0,What is the kitchen west of?
+575,bathroom, kitchen,0.0,What is the bedroom west of?
+576,office, kitchen,0.0,What is the bathroom south of?
+577,hallway, hallway,1.0,What is north of the bathroom?
+578,garden,1,0.0,What is the kitchen south of?
+579,kitchen, office,0.0,What is the hallway south of?
+580,office,1,0.0,What is the bedroom west of?
+581,hallway, hallway,1.0,What is the garden east of?
+582,kitchen, the office,0.0,What is the bedroom south of?
+583,office, kitchen,0.0,What is the hallway west of?
+584,hallway,1,0.0,What is the bedroom north of?
+585,garden,1,0.0,What is west of the bedroom?
+586,hallway, hallway,1.0,What is south of the office?
+587,kitchen,1,0.0,What is south of the garden?
+588,office, kitchen,0.0,What is the bedroom east of?
+589,office,,0.0,What is south of the kitchen?
+590,bathroom, bedroom,0.0,What is the kitchen west of?
+591,hallway, south,0.0,What is the office north of?
+592,bathroom, bathroom,1.0,What is east of the kitchen?
+593,office, office,1.0,What is east of the hallway?
+594,kitchen,,0.0,What is west of the bedroom?
+595,garden, east,0.0,What is the office west of?
+596,bedroom, hallway,0.0,What is east of the office?
+597,office, office,1.0,What is west of the bathroom?
+598,bathroom,1,0.0,What is the kitchen west of?
+599,bathroom, bedroom,0.0,What is the garden south of?
+600,hallway, hallway,1.0,What is east of the office?
+601,kitchen, hallway,0.0,What is the bathroom south of?
+602,hallway, hallway,1.0,What is north of the bedroom?
+603,garden, Edmonton,0.0,What is north of the office?
+604,bedroom,1,0.0,What is south of the kitchen?
+605,hallway, The garden is west of the bedroom. The bedroom is west of the kitchen. What is west,0.0,What is west of the garden?
+606,office,1,0.0,What is the kitchen west of?
+607,kitchen, kitchen,1.0,What is north of the bedroom?
+608,hallway, kitchen,0.0,What is the bedroom south of?
+609,hallway, hallway,1.0,What is west of the kitchen?
+610,kitchen, kitchen,1.0,What is the bedroom north of?
+611,office,1,0.0,What is the bedroom north of?
+612,hallway, hallway,1.0,What is east of the office?
+613,hallway, hallway,1.0,What is the office north of?
+614,hallway, office,0.0,What is east of the bedroom?
+615,garden,1,0.0,What is the office east of?
+616,office, office,1.0,What is north of the bedroom?
+617,kitchen, The garden,0.0,What is north of the bedroom?
+618,hallway, hallway,1.0,What is south of the office?
+619,bathroom, kitchen,0.0,What is the office west of?
+620,bedroom, kitchen,0.0,What is the garden east of?
+621,office, bedroom,0.0,What is the kitchen south of?
+622,kitchen, north,0.0,What is the office south of?
+623,garden, garden,1.0,What is north of the office?
+624,bathroom,12,0.0,What is west of the kitchen?
+625,office, office,1.0,What is east of the bedroom?
+626,office, bedroom,0.0,What is the garden north of?
+627,bathroom, bathroom,1.0,What is east of the bedroom?
+628,office, the kitchen,0.0,What is the bathroom south of?
+629,garden,49,0.0,What is east of the kitchen?
+630,bathroom, bathroom,1.0,What is east of the kitchen?
+631,bathroom, bedroom,0.0,What is the office north of?
+632,bathroom, the bathroom,1.0,What is west of the hallway?
+633,bedroom, garden,0.0,What is the office east of?
+634,bedroom, bathroom,0.0,What is east of the office?
+635,bedroom,1,0.0,What is the kitchen north of?
+636,bedroom, office,0.0,What is the kitchen west of?
+637,kitchen, bathroom,0.0,What is the garden east of?
+638,kitchen,85,0.0,What is the office east of?
+639,kitchen,1,0.0,What is east of the bedroom?
+640,bedroom,1,0.0,What is the garden east of?
+641,office, hallway,0.0,What is the hallway east of?
+642,office, office,1.0,What is the bedroom east of?
+643,garden, garden,1.0,What is east of the hallway?
+644,garden, the bedroom,0.0,What is the bathroom west of?
+645,office, office,1.0,What is west of the bedroom?
+646,bedroom, office,0.0,What is the hallway east of?
+647,bathroom, bathroom,1.0,What is east of the bedroom?
+648,garden,1,0.0,What is north of the bedroom?
+649,hallway, hallway,1.0,What is south of the bedroom?
+650,office, The garden,0.0,What is the hallway north of?
+651,garden, The garden,1.0,What is east of the bedroom?
+652,kitchen, kitchen,1.0,What is south of the hallway?
+653,hallway,1,0.0,What is west of the garden?
+654,hallway,"35"" 30', W.",0.0,What is west of the bathroom?
+655,office, office,1.0,What is the kitchen west of?
+656,bedroom,1,0.0,What is the garden north of?
+657,kitchen, kitchen,1.0,What is east of the garden?
+658,garden,16th street,0.0,What is south of the hallway?
+659,garden,12,0.0,What is east of the kitchen?
+660,kitchen,3,0.0,What is the garden east of?
+661,office, office,1.0,What is west of the bathroom?
+662,bedroom, hallway,0.0,What is south of the office?
+663,bathroom, bathroom,1.0,What is east of the garden?
+664,office, bedroom,0.0,What is the garden south of?
+665,kitchen,136,0.0,What is the hallway north of?
+666,garden, garden,1.0,What is the office north of?
+667,garden, bathroom,0.0,What is the office east of?
+668,hallway,1,0.0,What is the garden south of?
+669,hallway, bedroom,0.0,What is north of the garden?
+670,bathroom, bathroom,1.0,What is west of the garden?
+671,garden,1,0.0,What is east of the bedroom?
+672,kitchen, bedroom,0.0,What is the garden north of?
+673,kitchen, bedroom,0.0,What is the garden south of?
+674,kitchen, office,0.0,What is the bedroom west of?
+675,bedroom, bedroom,1.0,What is the garden west of?
+676,garden,1,0.0,What is north of the kitchen?
+677,bedroom, bedroom,1.0,What is north of the bathroom?
+678,garden, kitchen,0.0,What is the bedroom south of?
+679,office, office,1.0,What is south of the bedroom?
+680,hallway, hallway,1.0,What is east of the office?
+681,office,1,0.0,What is south of the kitchen?
+682,garden, bathroom,0.0,What is the hallway south of?
+683,office, The office,1.0,What is north of the hallway?
+684,office,1,0.0,What is the hallway east of?
+685,garden, kitchen,0.0,What is east of the bathroom?
+686,hallway, hallway,1.0,What is east of the office?
+687,office,4,0.0,What is west of the bathroom?
+688,kitchen,1,0.0,What is north of the garden?
+689,bedroom, bedroom,1.0,What is north of the bathroom?
+690,office, office,1.0,What is south of the garden?
+691,bathroom, bathroom,1.0,What is south of the kitchen?
+692,garden, The garden,1.0,What is west of the bathroom?
+693,kitchen, kitchen,1.0,What is the hallway south of?
+694,office, The garden,0.0,What is west of the bedroom?
+695,office, office,1.0,What is the bathroom west of?
+696,kitchen, the kitchen,1.0,What is the office north of?
+697,bedroom, park,0.0,What is the hallway west of?
+698,office,1,0.0,What is the bathroom north of?
+699,kitchen, office,0.0,What is the bedroom east of?
+700,office, office,1.0,What is west of the kitchen?
+701,office, office,1.0,What is east of the bedroom?
+702,bedroom, hallway,0.0,What is north of the kitchen?
+703,bedroom, hallway,0.0,What is south of the office?
+704,bedroom, bedroom,1.0,What is east of the kitchen?
+705,hallway, hallway,1.0,What is east of the office?
+706,kitchen, bedroom,0.0,What is north of the garden?
+707,hallway,1,0.0,What is the office south of?
+708,garden, The hallway is west of the kitchen.,0.0,What is the hallway west of?
+709,office, the kitchen,0.0,What is the hallway north of?
+710,bathroom, bathroom,1.0,What is north of the kitchen?
+711,bathroom,120 Fulton St.,0.0,What is the office east of?
+712,garden,200 miles,0.0,What is the bathroom south of?
+713,hallway, kitchen,0.0,What is the bedroom north of?
+714,bedroom, bedroom,1.0,What is east of the office?
+715,bedroom,7,0.0,What is the garden south of?
+716,bathroom,1,0.0,What is north of the hallway?
+717,garden,1,0.0,What is the hallway east of?
+718,kitchen, The garden,0.0,What is west of the hallway?
+719,garden, corridor,0.0,What is west of the bathroom?
+720,hallway, hallway,1.0,What is north of the bathroom?
+721,hallway,1,0.0,What is south of the kitchen?
+722,kitchen, kitchen,1.0,What is south of the hallway?
+723,hallway, bedroom,0.0,What is the garden west of?
+724,bedroom, the kitchen,0.0,What is east of the hallway?
+725,hallway, office,0.0,What is the kitchen south of?
+726,bedroom, office,0.0,What is the hallway north of?
+727,kitchen, office,0.0,What is the bathroom west of?
+728,hallway, hallway,1.0,What is south of the garden?
+729,bedroom, bedroom,1.0,What is east of the garden?
+730,bedroom, bedroom,1.0,What is south of the office?
+731,bedroom, bedroom,1.0,What is north of the bathroom?
+732,kitchen,,0.0,What is the office west of?
+733,hallway, office,0.0,What is west of the garden?
+734,bathroom, The garden,0.0,What is the bedroom south of?
+735,kitchen,1,0.0,What is north of the hallway?
+736,garden,"35"" 30', W.",0.0,What is west of the bathroom?
+737,bedroom, the garden,0.0,What is west of the kitchen?
+738,kitchen, park,0.0,What is the office west of?
+739,garden, The office,0.0,What is the hallway south of?
+740,hallway, office,0.0,What is the garden east of?
+741,bathroom,1,0.0,What is the bedroom west of?
+742,kitchen, office,0.0,What is north of the bedroom?
+743,bathroom, bathroom,1.0,What is west of the bedroom?
+744,office, The garden,0.0,What is the hallway south of?
+745,bathroom,1,0.0,What is south of the kitchen?
+746,garden,290,0.0,What is the bathroom east of?
+747,garden, garden,1.0,What is east of the kitchen?
+748,bedroom,1,0.0,What is west of the office?
+749,bedroom, kitchen,0.0,What is the hallway west of?
+750,bedroom, East Port,0.0,What is east of the bathroom?
+751,bathroom,1,0.0,What is the office south of?
+752,office,3,0.0,What is east of the kitchen?
+753,bedroom, bedroom,1.0,What is north of the garden?
+754,bathroom,1,0.0,What is west of the bedroom?
+755,kitchen, kitchen,1.0,What is north of the hallway?
+756,kitchen, office,0.0,What is the hallway west of?
+757,kitchen, kitchen,1.0,What is the bathroom east of?
+758,bathroom, office,0.0,What is the office west of?
+759,bathroom, office,0.0,What is the kitchen east of?
+760,garden,1.,0.0,What is north of the bedroom?
+761,bedroom,1,0.0,What is the garden west of?
+762,kitchen, kitchen,1.0,What is south of the hallway?
+763,office,50,0.0,What is the garden north of?
+764,hallway, hallway,1.0,What is the bathroom north of?
+765,hallway,1,0.0,What is south of the bedroom?
+766,bedroom,1,0.0,What is the garden east of?
+767,hallway, hallway,1.0,What is the bedroom north of?
+768,bathroom, The bathroom,1.0,What is west of the garden?
+769,hallway, the bathroom,0.0,What is the kitchen east of?
+770,office, office,1.0,What is west of the hallway?
+771,bathroom, the hallway,0.0,What is the garden south of?
+772,garden, bedroom,0.0,What is the office north of?
+773,office,2nd floor,0.0,What is the bathroom south of?
+774,bathroom, bathroom,1.0,What is east of the garden?
+775,bathroom,1,0.0,What is south of the kitchen?
+776,kitchen,1,0.0,What is west of the bathroom?
+777,office, bedroom,0.0,What is the garden north of?
+778,hallway, hallway,1.0,What is north of the office?
+779,bathroom,1,0.0,What is the bedroom south of?
+780,hallway, gates,0.0,What is north of the bathroom?
+781,kitchen, The garden,0.0,What is the bathroom east of?
+782,hallway, The hallway,1.0,What is the bathroom west of?
+783,garden, bedroom,0.0,What is the bathroom north of?
+784,bathroom, hallway,0.0,What is the kitchen north of?
+785,hallway, office,0.0,What is the garden north of?
+786,hallway,"1,000,000",0.0,What is north of the garden?
+787,bathroom,1,0.0,What is west of the bedroom?
+788,kitchen,1,0.0,What is the bedroom north of?
+789,office, kitchen,0.0,What is the bedroom north of?
+790,bedroom, bedroom,1.0,What is the kitchen east of?
+791,hallway, hallway,1.0,What is south of the bathroom?
+792,kitchen, office,0.0,What is west of the hallway?
+793,kitchen,1,0.0,What is the garden north of?
+794,office, office,1.0,What is west of the bathroom?
+795,bathroom, bathroom,1.0,What is the office north of?
+796,garden, bedroom,0.0,What is the bathroom east of?
+797,kitchen, bedroom,0.0,What is the garden west of?
+798,bedroom, hallway,0.0,What is the garden north of?
+799,hallway,1,0.0,What is the garden west of?
+800,kitchen, Wynyard,0.0,What is the office north of?
+801,office, office,1.0,What is west of the kitchen?
+802,kitchen, kitchen,1.0,What is the hallway west of?
+803,kitchen,1,0.0,What is south of the office?
+804,office, office,1.0,What is the hallway north of?
+805,garden, garden,1.0,What is east of the kitchen?
+806,hallway,22,0.0,What is east of the garden?
+807,hallway,1,0.0,What is the bedroom south of?
+808,garden,1,0.0,What is east of the hallway?
+809,hallway, hallway,1.0,What is the bedroom east of?
+810,hallway, hallway,1.0,What is east of the office?
+811,bathroom, bathroom,1.0,What is the office north of?
+812,kitchen, the bedroom,0.0,What is the garden south of?
+813,bathroom,1,0.0,What is the garden north of?
+814,bedroom,1,0.0,What is west of the kitchen?
+815,office, bedroom,0.0,What is the kitchen west of?
+816,hallway, hallway,1.0,What is north of the kitchen?
+817,garden, hallway,0.0,What is north of the bathroom?
+818,bedroom,1,0.0,What is the kitchen north of?
+819,bedroom, hallway,0.0,What is south of the bathroom?
+820,kitchen, The garden is west of the bedroom.,0.0,What is west of the bedroom?
+821,garden, The garden,1.0,What is the bathroom west of?
+822,bedroom,1,0.0,What is the kitchen south of?
+823,garden, bathroom,0.0,What is the hallway west of?
+824,bathroom, bathroom,1.0,What is west of the garden?
+825,bedroom, office,0.0,What is east of the bathroom?
+826,office, bedroom,0.0,What is the garden west of?
+827,bathroom,1,0.0,What is south of the bedroom?
+828,kitchen, kitchen,1.0,What is east of the bedroom?
+829,bedroom, The garden,0.0,What is the bathroom north of?
+830,hallway, hallway,1.0,What is south of the bedroom?
+831,kitchen, The kitchen,1.0,What is east of the hallway?
+832,bathroom,1,0.0,What is west of the office?
+833,office, hallway,0.0,What is the garden south of?
+834,kitchen, hallway,0.0,What is the garden east of?
+835,bathroom,1,0.0,What is the kitchen west of?
+836,bathroom,1,0.0,What is the hallway west of?
+837,bathroom, kitchen,0.0,What is the bedroom east of?
+838,office,1,0.0,What is the bedroom south of?
+839,bedroom,1,0.0,What is north of the hallway?
+840,kitchen, hallway,0.0,What is south of the office?
+841,bedroom, kitchen,0.0,What is the bathroom east of?
+842,bedroom, kitchen,0.0,What is the office south of?
+843,kitchen,1,0.0,What is the hallway west of?
+844,office, office,1.0,What is east of the garden?
+845,garden, kitchen,0.0,What is the bedroom west of?
+846,bedroom, bedroom,1.0,What is east of the office?
+847,office,1. The office is north of the kitchen. 2. The bathroom is north of the office,1.0,What is north of the kitchen?
+848,bedroom, office,0.0,What is the bathroom north of?
+849,bathroom, The kitchen,0.0,What is the hallway north of?
+850,hallway,1,0.0,What is the kitchen north of?
+851,hallway, bedroom,0.0,What is the kitchen north of?
+852,garden, the office,0.0,What is the hallway south of?
+853,bathroom, bedroom,0.0,What is east of the garden?
+854,bathroom,,0.0,What is the garden west of?
+855,hallway, kitchen,0.0,What is the bedroom west of?
+856,bedroom, hallway,0.0,What is east of the kitchen?
+857,kitchen, kitchen,1.0,What is east of the office?
+858,garden,48,0.0,What is the office east of?
+859,bathroom, hallway,0.0,What is the office east of?
+860,bedroom,42d Street Grand Central Station,0.0,What is west of the hallway?
+861,office, office,1.0,What is east of the bathroom?
+862,bathroom, bathroom,1.0,What is north of the garden?
+863,bedroom, bedroom,1.0,What is north of the garden?
+864,kitchen,1,0.0,What is west of the office?
+865,hallway, The hallway,1.0,What is the bedroom south of?
+866,hallway,1,0.0,What is the bedroom west of?
+867,garden, the bedroom,0.0,What is the kitchen west of?
+868,garden, bathroom,0.0,What is the kitchen east of?
+869,office,1,0.0,What is south of the garden?
+870,hallway,5,0.0,What is the office north of?
+871,kitchen, kitchen,1.0,What is south of the hallway?
+872,garden, the garden,1.0,What is the hallway south of?
+873,kitchen,1,0.0,What is west of the hallway?
+874,hallway, hallway,1.0,What is east of the garden?
+875,garden, The garden,1.0,What is west of the bedroom?
+876,bathroom,"1 10"" N.; Longitude, 5 deg.",0.0,What is the office south of?
+877,kitchen,1,0.0,What is south of the bedroom?
+878,bedroom, office,0.0,What is west of the kitchen?
+879,garden,2 bedrooms,0.0,What is south of the bedroom?
+880,hallway, hallway,1.0,What is north of the kitchen?
+881,bathroom, bathroom,1.0,What is east of the office?
+882,office, office,1.0,What is west of the garden?
+883,bathroom, bathroom,1.0,What is north of the garden?
+884,bedroom, hallway,0.0,What is the bathroom east of?
+885,bathroom,1. garden 2. bathroom,1.0,What is west of the kitchen?
+886,garden,100 miles,0.0,What is the office west of?
+887,bathroom, bathroom,1.0,What is north of the kitchen?
+888,kitchen, office,0.0,What is the hallway north of?
+889,hallway, bedroom,0.0,What is the kitchen south of?
+890,hallway, hallway,1.0,What is east of the bedroom?
+891,hallway,59 Grove Street,0.0,What is north of the garden?
+892,office, office,1.0,What is north of the bathroom?
+893,kitchen,16th,0.0,What is the garden north of?
+894,kitchen, kitchen,1.0,What is west of the hallway?
+895,bathroom, hallway,0.0,What is the office east of?
+896,garden,142,0.0,What is north of the hallway?
+897,kitchen,1,0.0,What is east of the bathroom?
+898,kitchen, kitchen,1.0,What is south of the hallway?
+899,hallway, hallway,1.0,What is west of the office?
+900,bedroom, north,0.0,What is the office north of?
+901,hallway, hallway,1.0,What is west of the kitchen?
+902,office, office,1.0,What is the bathroom west of?
+903,garden, The kitchen,0.0,What is the bedroom south of?
+904,kitchen, bedroom,0.0,What is the bathroom east of?
+905,office, office,1.0,What is south of the bathroom?
+906,kitchen,1,0.0,What is the bedroom east of?
+907,office,1,0.0,What is the hallway west of?
+908,bedroom, location,0.0,What is the office east of?
+909,bathroom, hallway,0.0,What is south of the bedroom?
+910,bedroom,,0.0,What is the garden south of?
+911,hallway, hallway,1.0,What is north of the office?
+912,kitchen,2,0.0,What is west of the office?
+913,hallway, hallway,1.0,What is east of the garden?
+914,garden, garden,1.0,What is the office north of?
+915,kitchen,1,0.0,What is the garden south of?
+916,garden, garden,1.0,What is north of the office?
+917,bathroom,1,0.0,What is south of the bedroom?
+918,bathroom, bathroom,1.0,What is east of the hallway?
+919,kitchen, the kitchen,1.0,What is west of the garden?
+920,office, bedroom,0.0,What is the hallway north of?
+921,hallway, hallway,1.0,What is north of the garden?
+922,office, office,1.0,What is south of the kitchen?
+923,bathroom, bedroom,0.0,What is the garden west of?
+924,bathroom, bedroom,0.0,What is the kitchen east of?
+925,garden, bathroom,0.0,What is the kitchen south of?
+926,hallway, hallway,1.0,What is the bathroom north of?
+927,bedroom,,0.0,What is south of the bathroom?
+928,bathroom,1,0.0,What is the bedroom north of?
+929,kitchen, bathroom,0.0,What is the garden north of?
+930,office, office,1.0,What is the garden north of?
+931,bathroom, bathroom,1.0,What is south of the garden?
+932,bathroom,1,0.0,What is the bedroom west of?
+933,hallway, hallway,1.0,What is west of the kitchen?
+934,bedroom, kitchen,0.0,What is the garden east of?
+935,office, living-room,0.0,What is the kitchen north of?
+936,kitchen, bathroom,0.0,What is north of the hallway?
+937,garden, bedroom,0.0,What is the kitchen north of?
+938,kitchen, The kitchen,1.0,What is south of the bedroom?
+939,bedroom, bedroom,1.0,What is the garden east of?
+940,garden,1,0.0,What is south of the hallway?
+941,kitchen, The hallway,0.0,What is the bathroom west of?
+942,office,026,0.0,What is the kitchen east of?
+943,bathroom,1,0.0,What is east of the garden?
+944,bathroom, bedroom,0.0,What is the garden north of?
+945,office, bedroom,0.0,What is the garden north of?
+946,bedroom, bedroom,1.0,What is north of the hallway?
+947,bathroom,1.0,0.0,What is the kitchen north of?
+948,office, bathroom,0.0,What is the hallway north of?
+949,bedroom, south,0.0,What is the office north of?
+950,bathroom, kitchen,0.0,What is the hallway south of?
+951,bathroom, kitchen,0.0,What is the bedroom west of?
+952,garden, garden,1.0,What is east of the bathroom?
+953,garden, hallway,0.0,What is the office north of?
+954,kitchen, hallway,0.0,What is north of the office?
+955,office, office,1.0,What is east of the hallway?
+956,hallway,1,0.0,What is the office east of?
+957,kitchen, hallway,0.0,What is the garden east of?
+958,office, office,1.0,What is north of the garden?
+959,office, kitchen,0.0,What is the bedroom west of?
+960,garden, garden,1.0,What is north of the kitchen?
+961,bedroom, bedroom,1.0,What is the garden east of?
+962,kitchen, kitchen,1.0,What is east of the office?
+963,garden, office,0.0,What is the kitchen east of?
+964,bathroom,,0.0,What is the hallway south of?
+965,garden,1,0.0,What is the bedroom south of?
+966,bathroom, hallway,0.0,What is west of the garden?
+967,kitchen,1,0.0,What is east of the office?
+968,office,1,0.0,What is the garden south of?
+969,office,,0.0,What is the hallway west of?
+970,bathroom,45 ft.,0.0,What is east of the garden?
+971,garden, bathroom,0.0,What is the hallway east of?
+972,garden, office,0.0,What is the kitchen east of?
+973,kitchen, office,0.0,What is north of the hallway?
+974,kitchen, bathroom,0.0,What is west of the hallway?
+975,bathroom,1,0.0,What is south of the bedroom?
+976,bedroom,,0.0,What is the kitchen south of?
+977,bathroom,238,0.0,What is west of the bedroom?
+978,office, office,1.0,What is west of the hallway?
+979,kitchen, kitchen,1.0,What is east of the hallway?
+980,garden, garden,1.0,What is north of the office?
+981,bedroom, hallway,0.0,What is north of the garden?
+982,bathroom,71-74,0.0,What is the bedroom south of?
+983,hallway, hallway,1.0,What is north of the office?
+984,hallway, hallway,1.0,What is south of the bathroom?
+985,office, kitchen,0.0,What is the bedroom west of?
+986,kitchen,,0.0,What is the garden south of?
+987,hallway, office,0.0,What is the garden west of?
+988,office, office,1.0,What is west of the hallway?
+989,hallway, bedroom,0.0,What is the office west of?
+990,bedroom,1,0.0,What is the hallway east of?
+991,bedroom, The kitchen,0.0,What is the hallway south of?
+992,hallway, bedroom,0.0,What is the garden east of?
+993,bedroom, bathroom,0.0,What is the hallway north of?
+994,hallway, hallway,1.0,What is east of the bedroom?
+995,hallway, hallway,1.0,What is west of the bathroom?
+996,kitchen, kitchen,1.0,What is north of the garden?
+997,kitchen,1,0.0,What is west of the bedroom?
+998,kitchen, kitchen,1.0,What is north of the bedroom?

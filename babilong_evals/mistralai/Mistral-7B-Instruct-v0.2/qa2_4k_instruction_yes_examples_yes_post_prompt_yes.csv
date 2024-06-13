@@ -1,0 +1,1210 @@
+,target,output,question
+0,hallway,"Mary got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+1,hallway,The football is in the first location.,Where is the football? 
+2,hallway,"The football is not mentioned in the context after John got it. Therefore,",Where is the football? 
+3,hallway,The football is in the kitchen. (John went to the kitchen.),Where is the football? 
+4,garden,"Mary travelled to the hallway. Therefore, the milk is in the hallway",Where is the milk? 
+5,garden,The milk is in the garden. (Sandra went to the garden and,Where is the milk? 
+6,bedroom,The text does not provide information about the location of the football.,Where is the football? 
+7,bedroom,The milk is there. (Note: The text does not specify a location,Where is the milk? 
+8,kitchen,The football is in the location where Daniel grabbed it.,Where is the football? 
+9,kitchen,"Daniel dropped the football in the location where he was at the time, but",Where is the football? 
+10,bedroom,The football is in Morocco.,Where is the football? 
+11,hallway,John left the football in the hallway.,Where is the football? 
+12,garden,The milk is in the location where Daniel dropped it.,Where is the milk? 
+13,garden,"Daniel dropped the milk in the location where he was before he dropped it,",Where is the milk? 
+14,bathroom,"Mary dropped the apple in the context of the text. Therefore, the apple",Where is the apple? 
+15,garden,"Mary dropped the milk in the location where she was at the time, but",Where is the milk? 
+16,garden,"Mary dropped the milk in the garden.
+
+Answer: The milk",Where is the milk? 
+17,garden,"Mary dropped the milk in the garden.
+
+Answer: The milk",Where is the milk? 
+18,kitchen,Daniel discarded the apple there. (Answer: The apple is in,Where is the apple? 
+19,kitchen,Daniel discarded the apple there. (Answer: The apple is in,Where is the apple? 
+20,bedroom,Mary left the apple in the bedroom.,Where is the apple? 
+21,bedroom,Mary took the apple there. (The location is not explicitly stated in the,Where is the apple? 
+22,bathroom,The football is in the hallway.,Where is the football? 
+23,bathroom,"The football is discarded there. (It is not clear where ""there",Where is the football? 
+24,bedroom,"John got the milk in the location where the text states ""John got the",Where is the milk? 
+25,kitchen,The milk is in the location where John grabbed it.,Where is the milk? 
+26,kitchen,"The milk is in one of the locations mentioned in the context, but it",Where is the milk? 
+27,bathroom,The apple is in the location where Daniel dropped it.,Where is the apple? 
+28,bathroom,The apple is at Resaca.,Where is the apple? 
+29,kitchen,The milk is in the kitchen.,Where is the milk? 
+30,garden,"Daniel dropped the apple in the context provided, but there is no information given",Where is the apple? 
+31,garden,"Daniel dropped the apple in the text, but there is no information about where",Where is the apple? 
+32,kitchen,"Mary went back to the kitchen.
+
+Answer: The football is",Where is the football? 
+33,kitchen,The apple is in the kitchen. (Sandra put it there.),Where is the apple? 
+34,kitchen,The apple is in the kitchen. (Sandra got the apple there.),Where is the apple? 
+35,office,"Sandra got the milk there.
+
+Answer: The milk is",Where is the milk? 
+36,kitchen,"The football is in the text, but there is no information given about where",Where is the football? 
+37,kitchen,The football is in the kitchen.,Where is the football? 
+38,kitchen,"The football is mentioned several times in the context, but it is not clear",Where is the football? 
+39,bedroom,Sandra got the milk at the ancient cemetery of the Madeleine,Where is the milk? 
+40,bedroom,The milk is in the context. It is mentioned several times but there is,Where is the milk? 
+41,office,"The milk is in the bedroom.
+
+Answer: The milk is",Where is the milk? 
+42,office,"John got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+43,office,"John got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+44,kitchen,The apple is in the kitchen.,Where is the apple? 
+45,bedroom,"Mary picked up the milk there. Therefore, the milk is in the place",Where is the milk? 
+46,office,Sandra moved to the office.,Where is the football? 
+47,bathroom,The football is in the office.,Where is the football? 
+48,bathroom,The football is in the office. (Sandra moved to the office before,Where is the football? 
+49,bedroom,Mary discarded the milk. (There is no location specified for this action,Where is the milk? 
+50,bathroom,The milk is at Northampton.,Where is the milk? 
+51,hallway,"John grabbed the apple there. [Based on the context provided, the apple",Where is the apple? 
+52,kitchen,The football is in the kitchen.,Where is the football? 
+53,kitchen,The football is in the kitchen.,Where is the football? 
+54,kitchen,The football is at Castel d'Asso.,Where is the football? 
+55,bathroom,The apple is in the bathroom.,Where is the apple? 
+56,bathroom,"The milk is in one of the locations mentioned in the text, but there",Where is the milk? 
+57,kitchen,The milk is in the kitchen. (John took the milk there.),Where is the milk? 
+58,kitchen,The milk is in the bathroom. (John picked it up there),Where is the milk? 
+59,bedroom,The apple is in the bathroom. (John left it there.),Where is the apple? 
+60,garden,"The milk is not mentioned in the context provided. Therefore, it is impossible",Where is the milk? 
+61,garden,The milk is not mentioned in the context of the Sacrament of Bapt,Where is the milk? 
+62,kitchen,The football is not mentioned in the context.,Where is the football? 
+63,kitchen,"John dropped the football there.
+
+Answer: The football is there",Where is the football? 
+64,kitchen,John dropped the football in the first location.,Where is the football? 
+65,kitchen,The text does not provide any information about a football or its location.,Where is the football? 
+66,kitchen,"Daniel discarded the football.
+
+Answer: The football is where",Where is the football? 
+67,bedroom,"Daniel discarded the milk there. (In the context, ""there""",Where is the milk? 
+68,bedroom,"Daniel discarded the milk there. (In the context, ""there""",Where is the milk? 
+69,bedroom,Daniel discarded the football.,Where is the football? 
+70,garden,"Daniel dropped the apple.
+
+Answer: The apple is in the",Where is the apple? 
+71,garden,The apple is in the bedroom.,Where is the apple? 
+72,bathroom,The apple is in the bathroom.,Where is the apple? 
+73,bathroom,"The apple is in the second location, the office. (Sandra trav",Where is the apple? 
+74,bathroom,The apple is in the kitchen. (John went back to the kitchen after,Where is the apple? 
+75,office,"The apple is not mentioned in the context provided. Therefore, it is impossible",Where is the apple? 
+76,hallway,"Mary moved to the hallway. Therefore, the milk is in the hallway.",Where is the milk? 
+77,hallway,Mary moved to the hallway. The milk is in the hallway.,Where is the milk? 
+78,hallway,The milk is in the hallway.,Where is the milk? 
+79,hallway,"Mary took the milk there.
+
+Answer: The milk is in",Where is the milk? 
+80,bathroom,The football is in the garden.,Where is the football? 
+81,bathroom,The football is at the location where John got it.,Where is the football? 
+82,kitchen,The football is in the kitchen.,Where is the football? 
+83,kitchen,John moved to the hallway. John got the football there. Answer: The,Where is the football? 
+84,kitchen,The football is in the kitchen.,Where is the football? 
+85,bathroom,The milk is with Aggie.,Where is the milk? 
+86,kitchen,The apple is in the kitchen.,Where is the apple? 
+87,bathroom,"John went to the hallway. John dropped the milk there.
+
+An",Where is the milk? 
+88,bedroom,The football is there. (Answer based on the fact that Sandra,Where is the football? 
+89,kitchen,Mary had the apple in the kitchen.,Where is the apple? 
+90,kitchen,Mary picked up the milk there. (The location is not explicitly stated in,Where is the milk? 
+91,kitchen,"Mary dropped the milk in the kitchen. Therefore, the milk is in the",Where is the milk? 
+92,kitchen,Mary dropped the milk in the kitchen.,Where is the milk? 
+93,kitchen,"Mary dropped the milk there.
+Therefore, the milk is in the",Where is the milk? 
+94,kitchen,Mary dropped the milk in the kitchen.,Where is the milk? 
+95,bathroom,The football is in the place where John got it.,Where is the football? 
+96,bathroom,"John moved to the bathroom.
+Answer: The football is in the",Where is the football? 
+97,bathroom,John journeyed to the bedroom.,Where is the football? 
+98,bathroom,John got the football in the bedroom.,Where is the football? 
+99,hallway,"John discarded the milk. Therefore, the milk is not in any location",Where is the milk? 
+100,office,The milk is in the kitchen. (Based on the last fact given that,Where is the milk? 
+101,office,The text does not provide information about the location of the milk.,Where is the milk? 
+102,kitchen,The milk is in the office.,Where is the milk? 
+103,kitchen,"The milk is in one of the locations mentioned in the text, but there",Where is the milk? 
+104,bedroom,The football is in the location where John left it.,Where is the football? 
+105,bathroom,"The football is not mentioned in the context provided. Therefore, I cannot answer",Where is the football? 
+106,bedroom,The milk is in the bedroom. (Mary discarded the milk there,Where is the milk? 
+107,bathroom,The apple is in the kitchen.,Where is the apple? 
+108,bedroom,The milk is in the bathroom. (Mary picked it up there.),Where is the milk? 
+109,bathroom,The apple is in the bathroom. (Daniel dropped the apple there.),Where is the apple? 
+110,bedroom,"The football is in the bedroom. (However, it's important to",Where is the football? 
+111,bedroom,The football is not mentioned in the context.,Where is the football? 
+112,bedroom,"John dropped the football in the bedroom.
+
+Answer: The football",Where is the football? 
+113,bedroom,The football is in the hallway.,Where is the football? 
+114,office,The apple is in the garden. (Sandra grabbed the apple there.),Where is the apple? 
+115,office,The context does not provide information about the location of the football.,Where is the football? 
+116,hallway,John journeyed to the office with the football.,Where is the football? 
+117,office,"Sandra picked up the milk there.
+
+Answer: The milk",Where is the milk? 
+118,bedroom,The milk is in the bathroom.,Where is the milk? 
+119,bathroom,"John discarded the apple.
+
+Answer: The apple is no",Where is the apple? 
+120,hallway,"John grabbed the apple there.
+
+Answer: The apple is in",Where is the apple? 
+121,bedroom,"Mary grabbed the milk there.
+Answer: The milk is at the",Where is the milk? 
+122,garden,"John dropped the apple there. It is not mentioned where ""there"" is",Where is the apple? 
+123,garden,The football is in the bedroom. (John traveled to the bedroom and the,Where is the football? 
+124,garden,The football is in the kitchen. (John dropped the football there.),Where is the football? 
+125,kitchen,The football is in the bedroom. (This is based on the fact that,Where is the football? 
+126,kitchen,The text does not provide information about the location of the football.,Where is the football? 
+127,kitchen,Mary got the football in the bedroom.,Where is the football? 
+128,bedroom,The football is in the kitchen.,Where is the football? 
+129,bedroom,The football is in the kitchen.,Where is the football? 
+130,kitchen,The football is in the kitchen.,Where is the football? 
+131,kitchen,The football is in the kitchen. (John went to the kitchen),Where is the football? 
+132,kitchen,The milk is in the kitchen.,Where is the milk? 
+133,hallway,The football is in the kitchen. (Based on the fact that John disc,Where is the football? 
+134,hallway,The football is in the hallway. (Sandra picked it up there and,Where is the football? 
+135,office,The football is in the office.,Where is the football? 
+136,office,The milk is in the location where Sandra left it.,Where is the milk? 
+137,office,Mary travelled to the office. (Answer: The football is in,Where is the football? 
+138,kitchen,Mary has the football in the bedroom.,Where is the football? 
+139,bathroom,The football is in the hallway.,Where is the football? 
+140,bedroom,The football is in the bedroom.,Where is the football? 
+141,bedroom,The football is in the hallway.,Where is the football? 
+142,bedroom,The football is in the bedroom.,Where is the football? 
+143,bedroom,The football is in the bedroom. (Sandra travelled to the bedroom,Where is the football? 
+144,garden,The football is in the office.,Where is the football? 
+145,kitchen,The text does not provide information about the location of the apple.,Where is the apple? 
+146,bathroom,"The milk is not mentioned in the context provided. Therefore, I cannot answer",Where is the milk? 
+147,garden,Mary left the milk in the garden.,Where is the milk? 
+148,kitchen,"Daniel dropped the apple there.
+
+Answer: The apple is in",Where is the apple? 
+149,kitchen,Daniel dropped the apple in the first location (the bathroom).,Where is the apple? 
+150,bedroom,Sandra had the apple. There is no information about Sandra moving or,Where is the apple? 
+151,bedroom,Sandra left the apple. It is not mentioned where she left it specifically,Where is the apple? 
+152,bedroom,"Sandra left the apple in the location where she grabbed it, which is",Where is the apple? 
+153,kitchen,The football is in the garden.,Where is the football? 
+154,kitchen,The text does not provide any information about a football or its location.,Where is the football? 
+155,hallway,"Sandra put down the football there.
+
+Answer: The football",Where is the football? 
+156,hallway,Sandra is in the hallway. The football is not mentioned after Sandra,Where is the football? 
+157,bedroom,John dropped the milk in the bedroom.,Where is the milk? 
+158,bedroom,The milk is in the bathroom.,Where is the milk? 
+159,hallway,The football is in the bathroom.,Where is the football? 
+160,garden,Daniel picked up the apple in the office.,Where is the apple? 
+161,garden,Daniel left the apple in the bedroom.,Where is the apple? 
+162,garden,Daniel grabbed the apple there. (The location is not explicitly stated after Daniel,Where is the apple? 
+163,garden,"Daniel left the apple there. (Assuming ""there"" refers to the",Where is the apple? 
+164,bedroom,The football is in the garden.,Where is the football? 
+165,garden,The text does not provide information about the location of the football.,Where is the football? 
+166,garden,"Daniel travelled to the bathroom. Therefore, the football is in the bathroom",Where is the football? 
+167,hallway,The apple is in the hallway.,Where is the apple? 
+168,hallway,The apple is not mentioned in the context provided.,Where is the apple? 
+169,office,The football is discarded at the office.,Where is the football? 
+170,bedroom,"Daniel picked up the apple there.
+
+Answer: The apple is",Where is the apple? 
+171,bathroom,"Daniel picked up the apple there.
+
+Answer: The apple is",Where is the apple? 
+172,hallway,The milk is in the location where John dropped it.,Where is the milk? 
+173,hallway,"John dropped the milk there. Therefore, the milk is in the location where",Where is the milk? 
+174,bathroom,Daniel dropped the apple in the hallway.,Where is the apple? 
+175,kitchen,"The milk is in the location where it was gotten, which is not explicitly",Where is the milk? 
+176,hallway,"Mary got the apple in the context, but there is no information given about",Where is the apple? 
+177,kitchen,The apple is in the chief town of Matchcot.,Where is the apple? 
+178,office,The milk is discarded.,Where is the milk? 
+179,office,"Mary got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+180,garden,"Sandra went to the garden. Therefore, the milk is in the garden",Where is the milk? 
+181,garden,The milk is in the first location.,Where is the milk? 
+182,garden,The milk is at the landing.,Where is the milk? 
+183,kitchen,The apple is in the kitchen.,Where is the apple? 
+184,kitchen,"The apple is in the location where it was dropped, which is not explicitly",Where is the apple? 
+185,office,The apple is at Miss Chapin's house.,Where is the apple? 
+186,office,"Mary took the apple there. In the given context, ""there"" refers",Where is the apple? 
+187,kitchen,Sandra dropped the milk in the kitchen.,Where is the milk? 
+188,office,"Mary got the apple in the office. Therefore, the apple is in the",Where is the apple? 
+189,kitchen,The milk is in the kitchen. (Based on the fact that Sandra,Where is the milk? 
+190,garden,The apple is at Kennack Sands.,Where is the apple? 
+191,garden,Daniel left the apple at Mullion Cove.,Where is the apple? 
+192,garden,The apple is no longer mentioned in the context after Daniel leaves it. Therefore,Where is the apple? 
+193,bedroom,The milk is in the bedroom. (Daniel took the milk there.),Where is the milk? 
+194,bedroom,"Daniel had picked up the milk in the office. Therefore, the milk is",Where is the milk? 
+195,bathroom,The apple is not mentioned in the context after John discards it. Therefore,Where is the apple? 
+196,bathroom,"John journeyed to the garden. Therefore, the apple is in the garden",Where is the apple? 
+197,garden,The milk is in the location where Sandra left it.,Where is the milk? 
+198,kitchen,The milk is in the context and there is no specific location mentioned for it,Where is the milk? 
+199,kitchen,The milk is in the kitchen. (Sandra left the milk there.),Where is the milk? 
+200,office,The milk is in the office.,Where is the milk? 
+201,office,The milk is in the bathroom.,Where is the milk? 
+202,hallway,The milk is at the location where Sandra picked it up. Based on,Where is the milk? 
+203,garden,The milk is mentioned several times in the text but there is no information given,Where is the milk? 
+204,garden,The milk is in the garden. (Sandra picked it up there.),Where is the milk? 
+205,office,The milk is in the office.,Where is the milk? 
+206,office,The milk is in the office.,Where is the milk? 
+207,garden,"Mary moved to the office. Mary got the apple there.
+
+An",Where is the apple? 
+208,bathroom,The milk is in the office.,Where is the milk? 
+209,bathroom,The milk is in the office.,Where is the milk? 
+210,kitchen,"Mary dropped the football in the context provided, but there is no information given",Where is the football? 
+211,kitchen,The football is in the location where Mary dropped it.,Where is the football? 
+212,kitchen,The football is in the kitchen.,Where is the football? 
+213,kitchen,The milk is in the office.,Where is the milk? 
+214,garden,The football is in the location where Daniel picked it up. Based on the,Where is the football? 
+215,office,"The apple is not mentioned in the context provided. Therefore, it is impossible",Where is the apple? 
+216,office,The apple is in the bedroom.,Where is the apple? 
+217,office,The apple is in the bedroom.,Where is the apple? 
+218,bathroom,The milk is in the kitchen.,Where is the milk? 
+219,bathroom,The milk is in the kitchen.,Where is the milk? 
+220,office,The text does not provide any information about an apple or its location.,Where is the apple? 
+221,office,John discarded the apple.,Where is the apple? 
+222,office,The apple is in the kitchen. (John picked up the apple there.),Where is the apple? 
+223,bedroom,The milk is in the kitchen.,Where is the milk? 
+224,bedroom,Daniel left the apple in the street.,Where is the apple? 
+225,bedroom,The text does not provide information about an apple or its location.,Where is the apple? 
+226,kitchen,The apple is in the context of the text and not explicitly mentioned in relation,Where is the apple? 
+227,garden,"Mary left the football there. (In the text, ""Mary left",Where is the football? 
+228,bathroom,"Daniel put down the milk there. Therefore, the milk is in the location",Where is the milk? 
+229,garden,Mary left the football in the garden.,Where is the football? 
+230,bathroom,Sandra has the football.,Where is the football? 
+231,bathroom,The football is in the hallway.,Where is the football? 
+232,bathroom,"Sandra discarded the football there.
+
+Answer: The football",Where is the football? 
+233,garden,The apple is in the location where Daniel took it.,Where is the apple? 
+234,bathroom,The text does not provide information about the location of the football.,Where is the football? 
+235,bedroom,The apple is in the hallway. (Daniel dropped it there.),Where is the apple? 
+236,bedroom,The apple is in the location where Daniel dropped it.,Where is the apple? 
+237,kitchen,"Sandra dropped the football in the text. Therefore, the football is not",Where is the football? 
+238,office,The apple is dropped in different locations throughout the text. Here are the locations,Where is the apple? 
+239,garden,"Sandra dropped the milk. Therefore, the milk is in the location where",Where is the milk? 
+240,hallway,The apple is in the hallway. (Mary moved to the hallway and,Where is the apple? 
+241,hallway,"Mary put down the apple there.
+Answer: The apple is in",Where is the apple? 
+242,kitchen,The apple is in the kitchen.,Where is the apple? 
+243,bathroom,The apple is in the kitchen.,Where is the apple? 
+244,bathroom,Mary put down the apple in the hallway.,Where is the apple? 
+245,hallway,The milk is in the office.,Where is the milk? 
+246,garden,"Daniel is the person who got the milk, so it is in the location",Where is the milk? 
+247,garden,Daniel discarded the milk. (There is no information about where Daniel disc,Where is the milk? 
+248,garden,The football is at the office.,Where is the football? 
+249,garden,The football is at Lincoln's Inn fields.,Where is the football? 
+250,bathroom,The apple is not mentioned in the context provided.,Where is the apple? 
+251,hallway,The apple is with Daniel.,Where is the apple? 
+252,hallway,The apple is in the ostlers' room.,Where is the apple? 
+253,hallway,The apple is at the mountain lake.,Where is the apple? 
+254,hallway,The apple is in the bathroom. (Daniel got the apple in the,Where is the apple? 
+255,bathroom,Daniel is in the bathroom with the milk.,Where is the milk? 
+256,kitchen,The apple is in the kitchen. (Sandra got the apple there.),Where is the apple? 
+257,hallway,Sandra put down the apple in the kitchen.,Where is the apple? 
+258,hallway,Sandra got the apple in the bathroom.,Where is the apple? 
+259,hallway,"Sandra put down the apple.
+
+Answer: The apple is",Where is the apple? 
+260,garden,Sandra took the football to the garden.,Where is the football? 
+261,garden,Sandra took the football to the garden.,Where is the football? 
+262,garden,"Sandra put down the football. Therefore, the football is in the location",Where is the football? 
+263,bathroom,"The apple is there, in the location where John grabbed it.",Where is the apple? 
+264,hallway,The apple is in the bathroom.,Where is the apple? 
+265,garden,The apple is not mentioned in the context after Daniel picked it up. Therefore,Where is the apple? 
+266,garden,The apple is in the dooryard.,Where is the apple? 
+267,bathroom,The apple was last mentioned in the context when Daniel left it in the garden,Where is the apple? 
+268,bathroom,"The last time the apple was mentioned, John picked it up from the hallway",Where is the apple? 
+269,garden,The apple is in the garden. (John travelled to the garden.),Where is the apple? 
+270,kitchen,The football is in the bedroom.,Where is the football? 
+271,office,The apple is with John.,Where is the apple? 
+272,office,"The apple is in the text, but there is no information given about where",Where is the apple? 
+273,kitchen,The football is in the bedroom.,Where is the football? 
+274,office,John journeyed to the office. The apple is in the office.,Where is the apple? 
+275,hallway,"Sandra took the milk. Therefore, the milk is with Sandra.",Where is the milk? 
+276,hallway,The milk is at the Wardrobe.,Where is the milk? 
+277,hallway,Sandra put down the milk.,Where is the milk? 
+278,kitchen,"The apple is not mentioned in the context provided. Therefore, it is impossible",Where is the apple? 
+279,kitchen,The apple is in the kitchen.,Where is the apple? 
+280,bathroom,The football is in the office.,Where is the football? 
+281,bathroom,"The football is in the text, but there is no information about its location",Where is the football? 
+282,office,The milk is in the kitchen. (Daniel got the milk there before,Where is the milk? 
+283,office,The milk is in the kitchen. (Daniel got the milk there),Where is the milk? 
+284,office,The milk is in the kitchen.,Where is the milk? 
+285,bedroom,Answer: The football is in the bedroom. (This is based on the,Where is the football? 
+286,bedroom,The football is in the bedroom.,Where is the football? 
+287,bedroom,The football is in the bedroom.,Where is the football? 
+288,bedroom,The football is in the bedroom. (Sandra took the football there.),Where is the football? 
+289,bedroom,The football is in the garden.,Where is the football? 
+290,office,The apple is in the location where Daniel took it.,Where is the apple? 
+291,office,The apple is in the location where Daniel dropped it.,Where is the apple? 
+292,office,The apple is in the office.,Where is the apple? 
+293,office,The apple is in the office.,Where is the apple? 
+294,bedroom,The milk is in the location where it was picked up.,Where is the milk? 
+295,hallway,"John dropped the milk there. Therefore, the milk is in the location where",Where is the milk? 
+296,hallway,The football is in the hallway.,Where is the football? 
+297,hallway,The milk is in the hallway.,Where is the milk? 
+298,bathroom,The apple is in the bedroom.,Where is the apple? 
+299,bathroom,Mary put down the apple in the office.,Where is the apple? 
+300,bedroom,Mary took the football to the bedroom.,Where is the football? 
+301,bedroom,The football is in Mary's text. (Note: There is no,Where is the football? 
+302,office,The football is in the kitchen. (Mary took the football there.),Where is the football? 
+303,bedroom,The football is in the garden.,Where is the football? 
+304,bedroom,John dropped the football in the location where the text last mentions him having,Where is the football? 
+305,bathroom,The milk is at the house of the person who went to get it.,Where is the milk? 
+306,bathroom,Mary left the milk. It is not mentioned where she left it.,Where is the milk? 
+307,bathroom,We cannot determine the location of the milk based on the provided context.,Where is the milk? 
+308,bathroom,"The milk is in the bathroom or kitchen, depending on where Mary left it",Where is the milk? 
+309,bathroom,"Mary picked up the milk there.
+Answer: The milk is in",Where is the milk? 
+310,kitchen,"Mary picked up the milk in the bathroom.
+
+Answer: The",Where is the milk? 
+311,kitchen,The milk is in the kitchen. (Mary picked up the milk there,Where is the milk? 
+312,kitchen,Mary picked up the milk in the kitchen.,Where is the milk? 
+313,kitchen,Mary dropped the milk in the kitchen.,Where is the milk? 
+314,kitchen,The milk is in the kitchen.,Where is the milk? 
+315,bathroom,The football is in the location where Daniel picked it up.,Where is the football? 
+316,bathroom,The football is in the location where Daniel picked it up.,Where is the football? 
+317,bathroom,"The football is at the location where Daniel picked it up, which is She",Where is the football? 
+318,office,The milk is in the office.,Where is the milk? 
+319,kitchen,"The football is in the location where Daniel picked it up, which is not",Where is the football? 
+320,bathroom,The football is not mentioned in the context provided.,Where is the football? 
+321,bathroom,John dropped the football there.,Where is the football? 
+322,bathroom,The football is in the location where John left it.,Where is the football? 
+323,bathroom,The football is in the bathroom.,Where is the football? 
+324,bathroom,The football is in the garden. (John got the football there.),Where is the football? 
+325,bathroom,The apple is in the poultry yard.,Where is the apple? 
+326,bathroom,Mary went to the garden. The apple is in the garden.,Where is the apple? 
+327,garden,The football is in the garden.,Where is the football? 
+328,garden,"Daniel went to the garden.
+
+Answer: The football is in",Where is the football? 
+329,garden,The football is in the bedroom. (Daniel travelled to the bedroom,Where is the football? 
+330,garden,Mary took the football there.,Where is the football? 
+331,bathroom,John dropped the apple in the kitchen.,Where is the apple? 
+332,bathroom,"John got the apple in the kitchen. Therefore, the apple is in the",Where is the apple? 
+333,hallway,"Mary moved to the garden.
+
+Answer: The football is in",Where is the football? 
+334,hallway,"Mary moved to the garden.
+
+Answer: The football is in",Where is the football? 
+335,hallway,The football is in the garden. (Mary grabbed the football there.),Where is the football? 
+336,hallway,The football is not mentioned in the context provided.,Where is the football? 
+337,hallway,The football is in the hallway.,Where is the football? 
+338,hallway,The football is in the hallway.,Where is the football? 
+339,bedroom,The milk is in the location where Mary left it.,Where is the milk? 
+340,garden,The milk is at the Flints' house.,Where is the milk? 
+341,garden,Sandra got the milk there.,Where is the milk? 
+342,hallway,The football is in the garden.,Where is the football? 
+343,hallway,The football is in one of the locations mentioned in the text: the kitchen,Where is the football? 
+344,hallway,The milk is in the location where Sandra put it down.,Where is the milk? 
+345,garden,The football is not mentioned in the context provided.,Where is the football? 
+346,garden,The text does not provide information about the location of the football.,Where is the football? 
+347,garden,The apple is in the garden.,Where is the apple? 
+348,garden,The apple is in the garden.,Where is the apple? 
+349,garden,Sandra had gone back to the garden with the apple.,Where is the apple? 
+350,bedroom,"Sandra got the milk there.
+
+Answer: The milk is",Where is the milk? 
+351,office,"Sandra got the milk there.
+
+Answer: The milk is",Where is the milk? 
+352,office,The milk is at the office.,Where is the milk? 
+353,office,"Sandra went to the office.
+
+Answer: The milk is",Where is the milk? 
+354,kitchen,The football is in the first location.,Where is the football? 
+355,hallway,Sandra has the football.,Where is the football? 
+356,hallway,The football is in the hallway.,Where is the football? 
+357,office,Mary took the milk to the office.,Where is the milk? 
+358,hallway,"Mary took the milk to the office.
+
+Answer: The milk",Where is the milk? 
+359,hallway,"Mary took the milk there.
+
+Answer: The milk is in",Where is the milk? 
+360,bedroom,The football is at the location where John grabbed it.,Where is the football? 
+361,bedroom,John grabbed the football there. (Answer: The football is in the,Where is the football? 
+362,bedroom,"Sandra got the apple there.
+
+Answer: The apple is",Where is the apple? 
+363,bedroom,Sandra has the apple.,Where is the apple? 
+364,bedroom,The football is in the bedroom.,Where is the football? 
+365,kitchen,The apple is in the location where Daniel grabbed it.,Where is the apple? 
+366,kitchen,"Daniel dropped the apple there.
+
+Answer: The apple is in",Where is the apple? 
+367,garden,The milk is in the hallway.,Where is the milk? 
+368,bedroom,Daniel put down the apple in the bedroom.,Where is the apple? 
+369,bedroom,"Daniel has the apple. Therefore, the apple is in the location where Daniel",Where is the apple? 
+370,kitchen,Sandra took the football there.,Where is the football? 
+371,kitchen,The apple is in the kitchen.,Where is the apple? 
+372,kitchen,"Daniel dropped the apple there. Therefore, the apple is in the location where",Where is the apple? 
+373,kitchen,"Daniel dropped the apple there.
+
+Answer: The apple is in",Where is the apple? 
+374,hallway,The milk is in the hallway.,Where is the milk? 
+375,kitchen,"The milk is not mentioned in the context after the line ""Sandra took",Where is the milk? 
+376,kitchen,"The milk is mentioned several times in the text, but there is no information",Where is the milk? 
+377,kitchen,The milk is in the kitchen.,Where is the milk? 
+378,office,"Daniel grabbed the apple there.
+Answer: The apple is in the",Where is the apple? 
+379,office,The apple is in the office.,Where is the apple? 
+380,bathroom,"Sandra grabbed the football there.
+
+Answer: The football is",Where is the football? 
+381,bathroom,The football is in the first location.,Where is the football? 
+382,bathroom,The football is discarded at different locations throughout the text. Here are the,Where is the football? 
+383,bedroom,Mary went to the office. Mary discarded the milk there.,Where is the milk? 
+384,bedroom,Mary grabbed the milk there. (Answer: The milk is in the,Where is the milk? 
+385,bathroom,The milk is in the location where Sandra got it.,Where is the milk? 
+386,bathroom,"John got the football there.
+Answer: The football is there.",Where is the football? 
+387,bathroom,The football is in the location where John got it. Based on the context,Where is the football? 
+388,hallway,"Mary got the apple there. Therefore, the apple is in the location where",Where is the apple? 
+389,hallway,Mary dropped the apple there.,Where is the apple? 
+390,hallway,"The milk is in Cambridge, Mass. (at the friend Miss Sarah Wa",Where is the milk? 
+391,garden,Sandra got the milk in the house on the corner of West and Mont,Where is the milk? 
+392,garden,"The milk is in one of the locations mentioned in the text, but it",Where is the milk? 
+393,garden,The milk is in the bedroom.,Where is the milk? 
+394,kitchen,"Mary discarded the football there. Therefore, the football is in the location",Where is the football? 
+395,bedroom,The apple is in the garden.,Where is the apple? 
+396,bedroom,The apple is not mentioned in the context after Sandra left it. Therefore,Where is the apple? 
+397,bedroom,The apple is in the office.,Where is the apple? 
+398,garden,"John left the football there. (In the context provided, ""there""",Where is the football? 
+399,garden,The football is in the office.,Where is the football? 
+400,bathroom,"John dropped the milk in the room. Therefore, the milk is in the",Where is the milk? 
+401,bathroom,"John dropped the milk in the location where the text states ""John got the",Where is the milk? 
+402,garden,Sandra moved to the garden. (The football is in the garden.),Where is the football? 
+403,garden,The football is in the hallway.,Where is the football? 
+404,garden,The football is in the kitchen.,Where is the football? 
+405,hallway,The football is at the South Ferry.,Where is the football? 
+406,bathroom,"The football is at the first location, where Daniel dropped it.",Where is the football? 
+407,bathroom,The football is in the bedroom.,Where is the football? 
+408,bathroom,The football is in the garden. (Mary took the football there.),Where is the football? 
+409,bathroom,"The football is in the following locations:
+
+1. Daniel got the",Where is the football? 
+410,garden,"The milk is not mentioned in the context. Therefore, I cannot answer the",Where is the milk? 
+411,garden,The milk is in the bathroom.,Where is the milk? 
+412,bedroom,The apple is in the kitchen.,Where is the apple? 
+413,bedroom,The apple is in the office. (Daniel picked it up there.),Where is the apple? 
+414,bedroom,The apple is left at different locations throughout the text. Here are the locations,Where is the apple? 
+415,bedroom,The football is not mentioned in the context provided.,Where is the football? 
+416,bedroom,"Sandra discarded the football. Therefore, the football is not mentioned in",Where is the football? 
+417,hallway,The apple is in the hallway.,Where is the apple? 
+418,hallway,The apple is in the bedroom.,Where is the apple? 
+419,office,The football is in the bedroom.,Where is the football? 
+420,kitchen,The apple is in the kitchen. (John put down the apple there.),Where is the apple? 
+421,kitchen,The apple is in the office.,Where is the apple? 
+422,kitchen,The apple is in the kitchen. (Based on the fact that John put,Where is the apple? 
+423,kitchen,The apple is in the bathroom.,Where is the apple? 
+424,kitchen,The milk is in the location where it was gotten. The text does not,Where is the milk? 
+425,bathroom,"Sandra got the milk there.
+Answer: The milk is in",Where is the milk? 
+426,bathroom,The milk is in the kitchen. (Sandra got the milk there.),Where is the milk? 
+427,kitchen,The milk is in the kitchen. (Sandra went to the kitchen and,Where is the milk? 
+428,kitchen,The milk is in the kitchen.,Where is the milk? 
+429,kitchen,"Sandra went to the kitchen. Therefore, the milk is in the kitchen",Where is the milk? 
+430,bedroom,John took the football to the bedroom.,Where is the football? 
+431,bedroom,The football is in the location where John took it.,Where is the football? 
+432,office,"Sandra picked up the apple there.
+
+Answer: The apple",Where is the apple? 
+433,hallway,"The apple is in the little green vale, near the cottage.",Where is the apple? 
+434,bedroom,The apple is in the location where Sandra put it down.,Where is the apple? 
+435,kitchen,The apple is in the kitchen.,Where is the apple? 
+436,kitchen,The football is in the location where Sandra took it.,Where is the football? 
+437,kitchen,"Sandra put down the football.
+
+Answer: The football is",Where is the football? 
+438,hallway,"Mary picked up the milk there. Therefore, the milk is in the location",Where is the milk? 
+439,hallway,"Mary put down the milk there.
+
+Answer: The milk is",Where is the milk? 
+440,bathroom,The milk is in the first location.,Where is the milk? 
+441,hallway,The milk is mentioned several times in the context but there is no information about,Where is the milk? 
+442,hallway,"The milk is in the context, but there is no information given about its",Where is the milk? 
+443,garden,Sandra dropped the apple in the context but there is no information about its,Where is the apple? 
+444,garden,Sandra dropped the apple. The context does not mention where the apple is,Where is the apple? 
+445,hallway,"Daniel put down the football there.
+
+Answer: The football is",Where is the football? 
+446,hallway,The football is in the dining room.,Where is the football? 
+447,hallway,The football is in the bedroom. (Daniel picked it up there),Where is the football? 
+448,bathroom,Daniel dropped the milk in the first location.,Where is the milk? 
+449,kitchen,"Mary left the apple there.
+
+Answer: The apple is in",Where is the apple? 
+450,garden,The milk is in the location where John grabbed it. Based on the context,Where is the milk? 
+451,hallway,"Mary discarded the football there.
+
+Answer: The football is",Where is the football? 
+452,hallway,The football is in the kitchen.,Where is the football? 
+453,garden,The milk is in the kitchen.,Where is the milk? 
+454,garden,The milk is in the location where John left it. Based on the context,Where is the milk? 
+455,bedroom,"Daniel left the milk.
+
+Answer: The milk is in the",Where is the milk? 
+456,bedroom,Daniel left the milk. It does not specify where he left it. Therefore,Where is the milk? 
+457,hallway,The milk is in the kitchen. (Daniel went to the kitchen to,Where is the milk? 
+458,office,"John got the milk there. Therefore, the milk is in the location where",Where is the milk? 
+459,office,"The milk is discarded, so it is not in any specific location mentioned",Where is the milk? 
+460,bathroom,"Daniel dropped the apple in the text, but there is no information given about",Where is the apple? 
+461,bathroom,The apple is in the bathroom. (Daniel dropped the apple there.),Where is the apple? 
+462,bathroom,Mary left the football in the kitchen.,Where is the football? 
+463,bedroom,The football is in the bedroom.,Where is the football? 
+464,hallway,John picked up the milk there. (The location is not explicitly stated in,Where is the milk? 
+465,garden,"Mary grabbed the milk there. Therefore, the milk is in the location where",Where is the milk? 
+466,garden,Mary journeyed to the garden. The milk is there.,Where is the milk? 
+467,hallway,Daniel dropped the football in the garden.,Where is the football? 
+468,hallway,The football is in the garden. (Daniel grabbed the football there.),Where is the football? 
+469,hallway,The football is in the hallway.,Where is the football? 
+470,garden,The football is in the bathroom. (Sandra moved to the bathroom and,Where is the football? 
+471,garden,The football is in the bathroom.,Where is the football? 
+472,garden,The context does not provide information about the location of the football.,Where is the football? 
+473,garden,"Sandra went to the garden. Therefore, the milk is in the garden",Where is the milk? 
+474,garden,Sandra left the milk in the garden.,Where is the milk? 
+475,hallway,"Mary grabbed the football there. Therefore, the football is in the location where",Where is the football? 
+476,hallway,"Mary discarded the football. Therefore, the football is not mentioned in any",Where is the football? 
+477,hallway,"Mary discarded the football. Therefore, the football is not mentioned in the",Where is the football? 
+478,hallway,The football is not mentioned in the context provided.,Where is the football? 
+479,kitchen,The milk is in the garden.,Where is the milk? 
+480,office,The football is mentioned in the text but there is no information given about where,Where is the football? 
+481,office,The football is in the kitchen.,Where is the football? 
+482,kitchen,The football is in the kitchen.,Where is the football? 
+483,kitchen,The apple is in the hallway.,Where is the apple? 
+484,kitchen,The apple is in the kitchen.,Where is the apple? 
+485,bedroom,"Daniel grabbed the apple there.
+Answer: The apple is in the",Where is the apple? 
+486,bathroom,The football is in the bathroom.,Where is the football? 
+487,bathroom,John dropped the milk in the gully.,Where is the milk? 
+488,bathroom,The milk is in the bedroom. (John dropped the milk there.),Where is the milk? 
+489,bathroom,The football is in the kitchen.,Where is the football? 
+490,bathroom,Daniel dropped the apple there.,Where is the apple? 
+491,bathroom,Daniel dropped the apple in the kitchen.,Where is the apple? 
+492,office,The apple is in the office.,Where is the apple? 
+493,bedroom,The apple is in the kitchen.,Where is the apple? 
+494,bedroom,The apple is in the garden.,Where is the apple? 
+495,office,"Mary left the football. Therefore, the football is no longer in the context",Where is the football? 
+496,hallway,The apple is in the office.,Where is the apple? 
+497,bedroom,"Sandra got the football there.
+
+Answer: The football is",Where is the football? 
+498,hallway,The milk is in the office.,Where is the milk? 
+499,hallway,The milk is in the location where Sandra got it.,Where is the milk? 
+500,office,The apple is in the garden.,Where is the apple? 
+501,office,"John dropped the apple there.
+
+Answer: The apple is in",Where is the apple? 
+502,garden,Mary discarded the milk there.,Where is the milk? 
+503,garden,"Mary picked up the milk there.
+
+Answer: The milk is",Where is the milk? 
+504,bedroom,The milk is in the barn.,Where is the milk? 
+505,bedroom,Sandra has the milk.,Where is the milk? 
+506,bedroom,"Mary picked up the apple there.
+Answer: The apple is in",Where is the apple? 
+507,kitchen,The football is in the location where Sandra dropped it.,Where is the football? 
+508,kitchen,The milk is in the kitchen.,Where is the milk? 
+509,kitchen,The milk is in the hallway.,Where is the milk? 
+510,office,The text does not provide information about the location of the football.,Where is the football? 
+511,office,The football is in the hallway.,Where is the football? 
+512,office,The football is in the kitchen. (John picked up the football there.),Where is the football? 
+513,office,"The milk is not mentioned in the context provided. Therefore, it is impossible",Where is the milk? 
+514,office,John put down the football in the garden.,Where is the football? 
+515,office,Mary left the apple. An answer cannot be determined from the context as to,Where is the apple? 
+516,office,"Mary took the apple there.
+
+Answer: The apple is in",Where is the apple? 
+517,office,Mary left the apple there.,Where is the apple? 
+518,hallway,"Mary took the apple there.
+Answer: The apple is in the",Where is the apple? 
+519,bathroom,Mary left the apple in the garden.,Where is the apple? 
+520,office,The apple is in the bathroom. (Daniel put down the apple there,Where is the apple? 
+521,office,The apple is in the office.,Where is the apple? 
+522,office,Mary went back to the office. The apple is in the office.,Where is the apple? 
+523,hallway,The football is in the first location where Daniel got it.,Where is the football? 
+524,garden,"The football is in the location where Daniel got it, which is not explicitly",Where is the football? 
+525,hallway,Daniel had journeyed to the hallway. The football is in the hallway.,Where is the football? 
+526,hallway,"John took the milk there.
+
+Answer: The milk is in",Where is the milk? 
+527,garden,The text does not provide information about the location of the milk.,Where is the milk? 
+528,office,"Mary picked up the apple there. Therefore, the apple is where Mary was",Where is the apple? 
+529,office,"Mary picked up the apple there.
+
+Answer: The apple is",Where is the apple? 
+530,bedroom,The football is in the office.,Where is the football? 
+531,bedroom,The apple is in the kitchen.,Where is the apple? 
+532,hallway,"The football is in the context provided, not explicitly mentioned or located. Therefore",Where is the football? 
+533,hallway,The milk is in the hallway.,Where is the milk? 
+534,hallway,The milk is in the kitchen.,Where is the milk? 
+535,kitchen,"John picked up the apple there.
+
+Answer: The apple is",Where is the apple? 
+536,kitchen,"John put down the apple. Therefore, the apple is in the location where",Where is the apple? 
+537,kitchen,The milk is in the kitchen.,Where is the milk? 
+538,kitchen,The milk is in the kitchen.,Where is the milk? 
+539,garden,The football is in the kitchen. (John dropped it there.),Where is the football? 
+540,office,The football is not mentioned in the context provided.,Where is the football? 
+541,office,The football is with Sandra.,Where is the football? 
+542,garden,The milk is in the garden.,Where is the milk? 
+543,bathroom,"Sandra picked up the apple there.
+
+Answer: The apple",Where is the apple? 
+544,bedroom,The apple is not mentioned in the context provided.,Where is the apple? 
+545,office,The milk is in the bathroom.,Where is the milk? 
+546,bathroom,The milk is in the first location.,Where is the milk? 
+547,bathroom,The milk is in the location where Sandra took it from.,Where is the milk? 
+548,bathroom,The milk is in the office.,Where is the milk? 
+549,hallway,Mary got the football there.,Where is the football? 
+550,bathroom,The apple is mentioned in the context but there is no information given about where,Where is the apple? 
+551,bathroom,"The football is mentioned several times in the text, but there is no clear",Where is the football? 
+552,hallway,"Mary dropped the apple there.
+
+Answer: The apple is in",Where is the apple? 
+553,hallway,The apple is in the bathroom.,Where is the apple? 
+554,bathroom,The milk is in the office.,Where is the milk? 
+555,garden,"Mary went back to the kitchen. Therefore, the milk is in the kitchen",Where is the milk? 
+556,office,"Mary got the milk there. Therefore, the milk is in the location where",Where is the milk? 
+557,office,The milk is in the kitchen. (Based on the fact that Mary got,Where is the milk? 
+558,bathroom,The milk is in the bathroom. (Mary dropped the milk there.),Where is the milk? 
+559,office,Daniel discarded the apple.,Where is the apple? 
+560,bedroom,"Daniel dropped the milk there.
+
+Answer: The milk is on",Where is the milk? 
+561,bathroom,The apple is in the bedroom.,Where is the apple? 
+562,bathroom,Mary travelled to the bedroom and put down the apple there.,Where is the apple? 
+563,bathroom,Mary dropped the apple in the office.,Where is the apple? 
+564,garden,Mary grabbed the football there.,Where is the football? 
+565,office,The football is not mentioned in the context provided.,Where is the football? 
+566,bedroom,The milk is in the bathroom.,Where is the milk? 
+567,hallway,"Daniel discarded the apple.
+
+Answer: The apple is not",Where is the apple? 
+568,office,"Daniel had discarded the apple in the context provided. Therefore, the apple",Where is the apple? 
+569,bedroom,The milk is in the garden.,Where is the milk? 
+570,bedroom,"The milk is in the first location, specifically at the place where Mary picked",Where is the milk? 
+571,bedroom,The milk is in the bathroom.,Where is the milk? 
+572,bathroom,The apple is mentioned in the text but there is no information about where it,Where is the apple? 
+573,office,The milk is in the office.,Where is the milk? 
+574,office,"The milk is in the bathroom.
+
+Answer: The milk is",Where is the milk? 
+575,bathroom,The milk is in the bathroom.,Where is the milk? 
+576,bedroom,The milk is in the bedroom.,Where is the milk? 
+577,bathroom,"The milk is in the bedroom. (However, the context does not explicitly",Where is the milk? 
+578,bathroom,The milk is in the kitchen. (Sandra went to the kitchen and,Where is the milk? 
+579,bathroom,The milk is in the bedroom.,Where is the milk? 
+580,hallway,"The football is in the location where John picked it up, which is the",Where is the football? 
+581,office,The football is in the location where Daniel discarded it.,Where is the football? 
+582,office,The football is there. (The text does not provide enough information to determine,Where is the football? 
+583,garden,The milk is in the hallway.,Where is the milk? 
+584,garden,The milk is in the first location.,Where is the milk? 
+585,garden,"Sandra left the milk. Therefore, the milk is in the location where",Where is the milk? 
+586,garden,Sandra took the milk to the garden.,Where is the milk? 
+587,garden,"Sandra took the milk there. In the given context, ""there""",Where is the milk? 
+588,garden,Sandra took the milk there. (Answer: The milk is in,Where is the milk? 
+589,garden,The milk is in the kitchen.,Where is the milk? 
+590,bedroom,"Daniel picked up the apple there. Therefore, the apple is in the location",Where is the apple? 
+591,kitchen,The milk is in the kitchen.,Where is the milk? 
+592,bedroom,"Daniel put down the apple there. Therefore, the apple is in the location",Where is the apple? 
+593,bedroom,Daniel got the apple in the bedroom.,Where is the apple? 
+594,bedroom,"The apple is in the location where Daniel got it, which is the garden",Where is the apple? 
+595,hallway,The milk is in the kitchen. (Sandra put down the milk there,Where is the milk? 
+596,hallway,The milk is in the kitchen.,Where is the milk? 
+597,hallway,The milk is in the kitchen.,Where is the milk? 
+598,kitchen,The football is in the kitchen.,Where is the football? 
+599,garden,"The apple is not mentioned in the context provided. Therefore, I cannot answer",Where is the apple? 
+600,kitchen,The apple is in the kitchen.,Where is the apple? 
+601,kitchen,The apple is in the kitchen. (Daniel got the apple there.),Where is the apple? 
+602,hallway,"Sandra left the football there. (In the context provided, ""there",Where is the football? 
+603,garden,The apple is in the kitchen. (Daniel went to the kitchen to,Where is the apple? 
+604,hallway,Sandra went to the hallway. Sandra put down the football there.,Where is the football? 
+605,bedroom,"The football is in the location where John took it, which is not explicitly",Where is the football? 
+606,bedroom,The milk is in the bedroom.,Where is the milk? 
+607,bedroom,"The milk is in the second location, as John put it down there.",Where is the milk? 
+608,bathroom,The milk is in the bedroom.,Where is the milk? 
+609,hallway,The apple is in the kitchen. (Based on the fact that John got,Where is the apple? 
+610,garden,"Mary took the apple there.
+Answer: The apple is in the",Where is the apple? 
+611,garden,The apple is not mentioned in the context.,Where is the apple? 
+612,garden,"Mary took the apple there.
+Answer: The apple is in the",Where is the apple? 
+613,garden,Mary had the apple in the garden.,Where is the apple? 
+614,garden,The apple is in the context and there is no information about its location at,Where is the apple? 
+615,garden,"Daniel put down the apple there. Therefore, the apple is in the location",Where is the apple? 
+616,hallway,Daniel put down the apple in the garden. Daniel grabbed the apple in the,Where is the apple? 
+617,hallway,Daniel discarded the apple in the hallway.,Where is the apple? 
+618,garden,The football is in the garden.,Where is the football? 
+619,kitchen,The milk is in the location where Mary took it.,Where is the milk? 
+620,bedroom,"The football is not mentioned in the context provided. Therefore, I cannot answer",Where is the football? 
+621,bedroom,"The football is not mentioned in the context. Therefore, I cannot answer the",Where is the football? 
+622,bedroom,The football is in the location where John left it. Based on the context,Where is the football? 
+623,bathroom,"The apple is there. (It is not clear from the context where """,Where is the apple? 
+624,garden,"The apple is in the context of the text, but there is no specific",Where is the apple? 
+625,kitchen,The football is not mentioned in the context.,Where is the football? 
+626,kitchen,The football is in the location where Mary picked it up. Based on the,Where is the football? 
+627,kitchen,"Daniel got the milk in the kitchen. Therefore, the milk is in the",Where is the milk? 
+628,bathroom,The milk is in the kitchen.,Where is the milk? 
+629,bathroom,The milk is in the bathroom.,Where is the milk? 
+630,bathroom,"Sandra had the football. However, the text does not mention where Sand",Where is the football? 
+631,kitchen,The apple is in the kitchen. (John put down the apple there.),Where is the apple? 
+632,kitchen,John dropped the apple in the kitchen.,Where is the apple? 
+633,kitchen,The context does not provide information about the location of the apple.,Where is the apple? 
+634,office,The milk is in the second location where John got it.,Where is the milk? 
+635,garden,"John discarded the football.
+
+Answer: The football is not",Where is the football? 
+636,garden,"John went to the office. Therefore, the football is in the office.",Where is the football? 
+637,garden,The milk is in the location where Daniel dropped it.,Where is the milk? 
+638,garden,"The milk is in the bedroom. (Based on the information provided, Daniel",Where is the milk? 
+639,garden,"Daniel dropped the milk in the first location. Therefore, the milk is in",Where is the milk? 
+640,office,The milk is in the room where Hilary is staying.,Where is the milk? 
+641,office,The apple is dropped in different locations throughout the text. Here are the locations,Where is the apple? 
+642,bathroom,The milk is in the office.,Where is the milk? 
+643,bathroom,The milk is in the location where Sandra got it.,Where is the milk? 
+644,office,The apple is in the hallway.,Where is the apple? 
+645,garden,The football is at the office.,Where is the football? 
+646,office,The milk is in the location where John took it from.,Where is the milk? 
+647,office,"John went to the office. Therefore, the milk is in the office.",Where is the milk? 
+648,garden,The football is in the hallway.,Where is the football? 
+649,garden,The football is in the hallway.,Where is the football? 
+650,office,"Daniel dropped the apple in the office. Therefore, the apple is in the",Where is the apple? 
+651,office,Daniel dropped the apple in the office.,Where is the apple? 
+652,garden,The football is in the location where Daniel left it.,Where is the football? 
+653,garden,The football is in the hallway.,Where is the football? 
+654,garden,The football is in the hallway.,Where is the football? 
+655,garden,"The football is in the location where Sandra moved to, which is the",Where is the football? 
+656,garden,Daniel took the apple there. (No location specified in the text after Daniel,Where is the apple? 
+657,bathroom,Daniel took the football to the bedroom.,Where is the football? 
+658,garden,The apple is in the kitchen. (Daniel took the apple there),Where is the apple? 
+659,garden,"Daniel dropped the apple there.
+Answer: The apple is in the",Where is the apple? 
+660,office,The football is in the office.,Where is the football? 
+661,office,The football is at the house where Sir Richard Anderson and his family live.,Where is the football? 
+662,hallway,The apple is in the bedroom.,Where is the apple? 
+663,hallway,The apple is in the office.,Where is the apple? 
+664,hallway,The apple is in the office. (Sandra took the apple there.),Where is the apple? 
+665,kitchen,"John picked up the apple there. Therefore, the apple is in the location",Where is the apple? 
+666,garden,"The football is in the location where Mary put it down. However, the",Where is the football? 
+667,garden,Mary got the milk there. (The context mentions that Mary left the,Where is the milk? 
+668,hallway,The apple is in the hallway.,Where is the apple? 
+669,hallway,"The apple is there, in the context where John got it.",Where is the apple? 
+670,bathroom,The football is in the location where Mary dropped it.,Where is the football? 
+671,bathroom,"Mary dropped the football there. Therefore, the football is in the location where",Where is the football? 
+672,bathroom,"Mary dropped the football there.
+
+Answer: The football is in",Where is the football? 
+673,bathroom,John dropped the milk in the kitchen.,Where is the milk? 
+674,bathroom,John dropped the milk in the second location (the office).,Where is the milk? 
+675,garden,The football is in the garden.,Where is the football? 
+676,garden,"John put down the football there.
+Answer: The football is there",Where is the football? 
+677,garden,John put down the football in the garden.,Where is the football? 
+678,bathroom,"Mary got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+679,bathroom,"The milk is in the location where Mary took it, which is not explicitly",Where is the milk? 
+680,bedroom,The milk is in the bedroom.,Where is the milk? 
+681,bedroom,The football is in the bedroom.,Where is the football? 
+682,bedroom,The milk is in the bedroom. (John took the milk there.),Where is the milk? 
+683,bathroom,The football is in the bedroom. (This is based on the fact that,Where is the football? 
+684,office,The football is not mentioned in the given context after John left it. Therefore,Where is the football? 
+685,kitchen,The apple is in the location where Mary took it. Based on the context,Where is the apple? 
+686,garden,The football is mentioned several times in the context but there is no information given,Where is the football? 
+687,garden,The football is in the office. (John picked it up there and then,Where is the football? 
+688,bathroom,The football is in the office. (John picked it up there twice.),Where is the football? 
+689,bathroom,John picked up the football there. (Answer: The football is in,Where is the football? 
+690,bedroom,"Mary went back to the bedroom with the apple. Therefore, the apple is",Where is the apple? 
+691,bedroom,The apple is in the bedroom.,Where is the apple? 
+692,bedroom,"Mary discarded the apple. Therefore, the apple is not in any location",Where is the apple? 
+693,office,"The milk is in the kitchen. (Based on the context provided, John",Where is the milk? 
+694,office,The milk is in the kitchen.,Where is the milk? 
+695,bathroom,The apple is at the manor.,Where is the apple? 
+696,bathroom,The apple is in the bathroom. (Sandra dropped the apple there.),Where is the apple? 
+697,kitchen,Mary has the football in the kitchen.,Where is the football? 
+698,kitchen,"Mary got the football there.
+Answer: The football is in the",Where is the football? 
+699,garden,"Mary moved to the kitchen. Therefore, the football is in the kitchen.",Where is the football? 
+700,bathroom,"Daniel took the milk there. Therefore, the milk is in the location where",Where is the milk? 
+701,bathroom,"Daniel put down the milk there.
+
+Answer: The milk is",Where is the milk? 
+702,bathroom,Daniel travelled to the bathroom. The milk is in the bathroom.,Where is the milk? 
+703,bathroom,The milk is in the bathroom.,Where is the milk? 
+704,office,Sandra went to the hallway. The apple is in the hallway.,Where is the apple? 
+705,bedroom,The football is in the bathroom.,Where is the football? 
+706,bedroom,"Daniel left the football there.
+
+Answer: The football is in",Where is the football? 
+707,bedroom,The football is at the location where Mary grabbed it.,Where is the football? 
+708,bedroom,The football is not mentioned in the context.,Where is the football? 
+709,bedroom,The football is in the location where Mary grabbed it.,Where is the football? 
+710,garden,"John got the milk in the context provided. Therefore, the milk is in",Where is the milk? 
+711,garden,The apple is in the garden.,Where is the apple? 
+712,garden,The apple is in the location where Sandra picked it up.,Where is the apple? 
+713,garden,The apple is in the garden.,Where is the apple? 
+714,garden,The milk is in the hallway.,Where is the milk? 
+715,office,The milk is in the location where Daniel left it.,Where is the milk? 
+716,office,The milk is at the location where Daniel took it.,Where is the milk? 
+717,kitchen,The football is in the garden.,Where is the football? 
+718,kitchen,"Mary got the football there. Therefore, the football is in the location where",Where is the football? 
+719,office,The milk is in the location where Daniel picked it up.,Where is the milk? 
+720,garden,"Mary dropped the apple there.
+Answer: The apple is in the",Where is the apple? 
+721,garden,"Mary moved to the garden. Mary got the apple there.
+
+An",Where is the apple? 
+722,bedroom,"The football is in the context of the text, but there is no clear",Where is the football? 
+723,hallway,The football is not mentioned in the context provided.,Where is the football? 
+724,office,The football is in the location where Daniel put it down.,Where is the football? 
+725,office,The football is in the kitchen. (Daniel took it there.),Where is the football? 
+726,office,The football is in the garden.,Where is the football? 
+727,kitchen,The football is in the garden.,Where is the football? 
+728,kitchen,The apple is in the kitchen.,Where is the apple? 
+729,kitchen,The text does not provide information about the location of the football.,Where is the football? 
+730,bedroom,The milk is with George Leman and Jacob Wire.,Where is the milk? 
+731,bathroom,The apple is in the location where Sandra took it.,Where is the apple? 
+732,bathroom,Sandra put down the football in the kitchen.,Where is the football? 
+733,bathroom,Sandra discarded the milk there. (The location is not explicitly stated,Where is the milk? 
+734,bathroom,"Sandra put down the football there.
+
+Answer: The football",Where is the football? 
+735,bathroom,The milk is in the kitchen.,Where is the milk? 
+736,bathroom,The football is in the bedroom.,Where is the football? 
+737,bathroom,"Mary dropped the milk in the first location. Therefore, the milk is in",Where is the milk? 
+738,bathroom,"Mary dropped the milk in the first location. Therefore, the milk is still",Where is the milk? 
+739,bathroom,The milk is in the room where Mr. Mary was talking with Mrs.,Where is the milk? 
+740,garden,The apple is in the kitchen.,Where is the apple? 
+741,garden,Sandra has the apple. (Answer: The apple is with Sand,Where is the apple? 
+742,bedroom,The football is not mentioned in the context provided.,Where is the football? 
+743,bathroom,John left the football in the garden.,Where is the football? 
+744,bathroom,The football is in the kitchen.,Where is the football? 
+745,hallway,"Mary picked up the milk there.
+
+Answer: The milk is",Where is the milk? 
+746,hallway,"Mary picked up the milk there.
+
+Answer: The milk is",Where is the milk? 
+747,hallway,"The milk is in the location where it was picked up, which is not",Where is the milk? 
+748,kitchen,The football is in the kitchen.,Where is the football? 
+749,hallway,Mary picked up the milk there. [Answer: The milk is in,Where is the milk? 
+750,office,Daniel moved to the office. The football is in the office.,Where is the football? 
+751,hallway,"Daniel got the football there. Therefore, the football is in the location where",Where is the football? 
+752,garden,The football is in the first location. (The context does not specify where,Where is the football? 
+753,garden,"Daniel left the football in the location where he picked it up. However,",Where is the football? 
+754,garden,The football is in the hallway.,Where is the football? 
+755,kitchen,Daniel left the apple in the office.,Where is the apple? 
+756,kitchen,"The apple is at the hexastyle hall, as John discarded it",Where is the apple? 
+757,bedroom,"The football is not mentioned in the context provided. Therefore, I cannot answer",Where is the football? 
+758,bedroom,The football is in the location where Sandra grabbed it.,Where is the football? 
+759,bedroom,"The football is in the context, but there is no answer to the question",Where is the football? 
+760,kitchen,"Sandra picked up the apple there.
+
+Answer: The apple",Where is the apple? 
+761,office,"Daniel got the milk in the context, but there is no information about where",Where is the milk? 
+762,office,The milk is in the office.,Where is the milk? 
+763,kitchen,The apple is in the garden.,Where is the apple? 
+764,bathroom,The apple is in the garden.,Where is the apple? 
+765,kitchen,"Sandra picked up the milk in the context provided. Therefore, the milk",Where is the milk? 
+766,kitchen,"Sandra picked up the milk there. The location is not explicitly stated,",Where is the milk? 
+767,bathroom,"The apple is in the kitchen. (Based on the context provided, Sand",Where is the apple? 
+768,bathroom,"Daniel left the apple in the context provided, so it is not mentioned where",Where is the apple? 
+769,kitchen,The milk is in the kitchen. (Sandra journeyed to the kitchen,Where is the milk? 
+770,garden,The text does not provide information about the location of the football.,Where is the football? 
+771,garden,"John left the football in the location where it was mentioned last, which is",Where is the football? 
+772,garden,John took the football to the kitchen.,Where is the football? 
+773,garden,The football is in the kitchen.,Where is the football? 
+774,garden,The football is in the kitchen.,Where is the football? 
+775,kitchen,The context does not provide information about the location of the football.,Where is the football? 
+776,office,The text does not provide information about the location of the football.,Where is the football? 
+777,bathroom,Mary discarded the apple there. (Answer: The apple is in,Where is the apple? 
+778,office,The football is not mentioned in the context provided.,Where is the football? 
+779,office,Mary went to the garden. The apple is in the garden.,Where is the apple? 
+780,bathroom,The apple is not mentioned in the context provided.,Where is the apple? 
+781,garden,The milk is in the garden. (Sandra put it down there.),Where is the milk? 
+782,bathroom,"Mary took the apple there.
+
+Answer: The apple is in",Where is the apple? 
+783,garden,Mary picked up the football there. (Answer: The football is in,Where is the football? 
+784,kitchen,The football is in the garden.,Where is the football? 
+785,office,The football is not mentioned in the context provided.,Where is the football? 
+786,office,The football is in the location where Sandra took it.,Where is the football? 
+787,hallway,The apple is in the hallway.,Where is the apple? 
+788,bathroom,"The milk is in the second location, as John left it there after picking",Where is the milk? 
+789,bathroom,The milk is in the third location (the temple).,Where is the milk? 
+790,bedroom,I cannot answer that question based on the provided context. There is no mention,Where is the football? 
+791,bedroom,The football is in the bedroom.,Where is the football? 
+792,bathroom,"The apple is in the location where Sandra grabbed it, which is not",Where is the apple? 
+793,bathroom,Sandra grabbed the apple in the bedroom.,Where is the apple? 
+794,office,Sandra dropped the milk. It is in the location where Sandra was,Where is the milk? 
+795,hallway,"Daniel picked up the apple there.
+Answer: The apple is in",Where is the apple? 
+796,office,"Mary picked up the football there.
+
+Answer: The football is",Where is the football? 
+797,hallway,Mary dropped the football in the hallway.,Where is the football? 
+798,hallway,Mary dropped the football in the hallway.,Where is the football? 
+799,hallway,Daniel dropped the football in the hallway.,Where is the football? 
+800,office,"Mary moved to the office.
+
+Answer: The apple is in",Where is the apple? 
+801,office,Mary had the apple there.,Where is the apple? 
+802,kitchen,The apple is in the kitchen.,Where is the apple? 
+803,kitchen,The milk is in the location where Sandra put it down.,Where is the milk? 
+804,kitchen,The milk is in the kitchen.,Where is the milk? 
+805,bedroom,"John got the football there.
+
+Answer: The football is in",Where is the football? 
+806,garden,"The apple is dropped in the text, but there is no information given about",Where is the apple? 
+807,office,"Mary took the apple there.
+Answer: The apple is in the",Where is the apple? 
+808,office,Mary took the apple there. (Answer: The apple is in the,Where is the apple? 
+809,office,Mary took the apple there. (Answer: The apple is in the,Where is the apple? 
+810,bathroom,The football is in the location where Daniel got it.,Where is the football? 
+811,hallway,"The football is mentioned several times in the context, but it is not clear",Where is the football? 
+812,hallway,The football is in the hallway.,Where is the football? 
+813,hallway,"Daniel got the football in the context provided, but there is no information given",Where is the football? 
+814,kitchen,The milk is in the garden.,Where is the milk? 
+815,garden,The apple is in the garden.,Where is the apple? 
+816,garden,"Mary discarded the apple.
+
+Answer: The apple is not",Where is the apple? 
+817,office,The milk is in the bedroom.,Where is the milk? 
+818,garden,The milk is in the bedroom.,Where is the milk? 
+819,garden,The apple is in the kitchen.,Where is the apple? 
+820,office,Mary got the football there. Answer: The football is in the location where,Where is the football? 
+821,office,"Mary got the football at South Somercotes. Therefore, the football is",Where is the football? 
+822,bedroom,The apple is not mentioned in the context provided.,Where is the apple? 
+823,bedroom,"The apple is discarded there, but there is no specific location mentioned in",Where is the apple? 
+824,bedroom,"Daniel discarded the apple there.
+
+Answer: The apple is",Where is the apple? 
+825,office,The milk is in the kitchen.,Where is the milk? 
+826,office,The milk is with the women.,Where is the milk? 
+827,kitchen,The apple is in the kitchen.,Where is the apple? 
+828,kitchen,"Daniel put down the apple.
+
+Answer: The apple is where",Where is the apple? 
+829,kitchen,Daniel took the apple in the bathroom.,Where is the apple? 
+830,hallway,The football is not mentioned in the context provided.,Where is the football? 
+831,garden,The milk is in the garden.,Where is the milk? 
+832,bedroom,The football is in the bedroom.,Where is the football? 
+833,bedroom,"The football is in the office.
+
+Explanation:
+John",Where is the football? 
+834,bedroom,The football is in the hallway.,Where is the football? 
+835,garden,Daniel grabbed the milk there. (The milk is in the location where Daniel,Where is the milk? 
+836,garden,"Daniel discarded the milk. Therefore, the milk is no longer in the",Where is the milk? 
+837,garden,Daniel went to the garden. The milk is in the garden.,Where is the milk? 
+838,kitchen,John moved to the hallway. The football is in the hallway.,Where is the football? 
+839,bathroom,John got the football in the kitchen.,Where is the football? 
+840,bedroom,Mary grabbed the milk in the bedroom.,Where is the milk? 
+841,bedroom,"Daniel took the football there.
+Answer: The football is in the",Where is the football? 
+842,bedroom,"The football is in the first location. (Based on the information provided,",Where is the football? 
+843,office,"Daniel took the apple there.
+Answer: The apple is in the",Where is the apple? 
+844,office,The apple was dropped in the location where the Canadian refugees gathered in the towns,Where is the apple? 
+845,office,"Daniel dropped the football there.
+
+Answer: The football is there",Where is the football? 
+846,office,The text does not provide information about the location of the football.,Where is the football? 
+847,kitchen,The apple is in the kitchen. (Mary took the apple there and,Where is the apple? 
+848,office,"The football is there, in the location where Daniel grabbed it.",Where is the football? 
+849,bedroom,The milk is in the bedroom.,Where is the milk? 
+850,kitchen,The football is in the kitchen.,Where is the football? 
+851,bathroom,The football is with Mrs. Mary.,Where is the football? 
+852,office,The football is in the kitchen.,Where is the football? 
+853,office,The football is in the bedroom. (This is based on the fact that,Where is the football? 
+854,bedroom,"The football is in the inn, specifically in the kitchen.",Where is the football? 
+855,kitchen,The apple is in the context and there is no specific location mentioned for it,Where is the apple? 
+856,office,Sandra picked up the apple in the office.,Where is the apple? 
+857,hallway,The apple is in the kitchen.,Where is the apple? 
+858,bedroom,The football is in the first location.,Where is the football? 
+859,bedroom,"Daniel grabbed the apple there. Therefore, the apple is in the Upper Park",Where is the apple? 
+860,bathroom,"Mary grabbed the milk there.
+Answer: The milk is in the",Where is the milk? 
+861,hallway,"Mary discarded the milk in the bedroom. Therefore, the milk is not",Where is the milk? 
+862,hallway,The milk is in the bedroom. (Mary grabbed the milk there.),Where is the milk? 
+863,hallway,"Mary discarded the milk there.
+Answer: The milk is in",Where is the milk? 
+864,hallway,Mary discarded the milk in the kitchen.,Where is the milk? 
+865,hallway,The football is in the office.,Where is the football? 
+866,hallway,The football is in the hallway.,Where is the football? 
+867,hallway,The football is in the hallway.,Where is the football? 
+868,bathroom,The football is in the office.,Where is the football? 
+869,office,Mary got the apple there. (Answer: The apple is in the,Where is the apple? 
+870,kitchen,"Daniel took the milk there.
+
+Answer: The milk is in",Where is the milk? 
+871,garden,"John dropped the football in the text, so it is not mentioned again and",Where is the football? 
+872,garden,"John dropped the football. Therefore, the football is not mentioned in the context",Where is the football? 
+873,garden,John had the football in the garden.,Where is the football? 
+874,garden,"The football is mentioned several times in the context, but it is not clear",Where is the football? 
+875,garden,The football is in the garden. (John picked it up there.),Where is the football? 
+876,bathroom,"John picked up the football there. Therefore, the football is in the location",Where is the football? 
+877,office,The milk is in the location where it was picked up.,Where is the milk? 
+878,bathroom,"The apple is in the kitchen. (Based on the context, John picked",Where is the apple? 
+879,bathroom,The football is in the context of the text and is not mentioned as being,Where is the football? 
+880,office,"The apple is at the office or near the Odeon, depending on",Where is the apple? 
+881,office,"John grabbed the apple there.
+Answer: The apple is in the",Where is the apple? 
+882,kitchen,"Daniel grabbed the football there.
+
+Answer: The football is in",Where is the football? 
+883,bathroom,The milk is in the office. (Sandra took the milk there.),Where is the milk? 
+884,bathroom,"The apple is in the location where John picked it up, which is not",Where is the apple? 
+885,bedroom,The milk is in the kitchen. (Sandra took the milk there.),Where is the milk? 
+886,bedroom,"Sandra went to the kitchen. Therefore, the milk is in the kitchen",Where is the milk? 
+887,bedroom,"The milk is in the second location, the kitchen. (Sandra went",Where is the milk? 
+888,bedroom,The milk is in the bedroom. (Sandra dropped the milk there.),Where is the milk? 
+889,bedroom,"The apple is not mentioned in the context provided. Therefore, I cannot answer",Where is the apple? 
+890,hallway,"Mary went to the hallway.
+
+Answer: The milk is in",Where is the milk? 
+891,hallway,"Mary discarded the apple.
+
+Answer: The apple is not",Where is the apple? 
+892,hallway,Mary got the milk in the kitchen.,Where is the milk? 
+893,hallway,Mary got the milk in the hallway.,Where is the milk? 
+894,garden,"Daniel dropped the apple in the context provided. Therefore, the apple is in",Where is the apple? 
+895,garden,The milk is in the kitchen.,Where is the milk? 
+896,garden,The milk is in the kitchen.,Where is the milk? 
+897,garden,The milk is in the kitchen. (Daniel got the milk there),Where is the milk? 
+898,garden,"Daniel got the milk there. Therefore, the milk is in the location where",Where is the milk? 
+899,garden,The milk is in the kitchen.,Where is the milk? 
+900,bedroom,"Daniel got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+901,bedroom,Daniel got the milk in the bedroom.,Where is the milk? 
+902,bedroom,Daniel got the milk in the garden.,Where is the milk? 
+903,bedroom,Daniel got the milk at the churchyard.,Where is the milk? 
+904,bedroom,"Daniel got the milk in the context, but there is no information given about",Where is the milk? 
+905,hallway,"The apple is not mentioned in the context provided. Therefore, it is impossible",Where is the apple? 
+906,hallway,"Daniel picked up the apple there. (Markham, viii.)",Where is the apple? 
+907,kitchen,"The football is in the office. (Based on the information provided, the",Where is the football? 
+908,hallway,The apple is in the bedroom. (Daniel picked it up there.),Where is the apple? 
+909,garden,The football is there. (The context does not specify a particular location for,Where is the football? 
+910,office,The milk is at Villebon.,Where is the milk? 
+911,office,"The milk is not mentioned in the context. Therefore, I cannot answer the",Where is the milk? 
+912,bathroom,The football is at the office.,Where is the football? 
+913,bathroom,Sandra left the football at the office.,Where is the football? 
+914,garden,Mary picked up the apple in the garden.,Where is the apple? 
+915,hallway,The apple is in the passenger cabin on the upper deck of the magnificent ste,Where is the apple? 
+916,hallway,The milk is dropped at an unspecified location in the text.,Where is the milk? 
+917,hallway,Daniel left the apple there. (The context does not provide information about where,Where is the apple? 
+918,hallway,The football is in the location where Daniel left it. The text does not,Where is the football? 
+919,hallway,The milk is in the location where Sandra picked it up.,Where is the milk? 
+920,kitchen,"The milk is discarded there. (It is not clear where ""there",Where is the milk? 
+921,kitchen,"Daniel discarded the milk there.
+Answer: The milk is in",Where is the milk? 
+922,bathroom,"Daniel got the milk there.
+
+Answer: The milk is in",Where is the milk? 
+923,bathroom,The milk is in the bathroom. (Daniel got the milk there.),Where is the milk? 
+924,bathroom,Daniel got the milk in the bathroom.,Where is the milk? 
+925,bedroom,"The football is at ""The Nook,"" near the Britannia,",Where is the football? 
+926,bedroom,"The football is at Alexandria, as mentioned by the young sailor.",Where is the football? 
+927,garden,The apple is at the location where Sandra got it.,Where is the apple? 
+928,garden,Sandra got the apple there.,Where is the apple? 
+929,garden,"Mary picked up the milk in the garden.
+
+Answer: The",Where is the milk? 
+930,hallway,The milk is in the bedroom.,Where is the milk? 
+931,hallway,Sandra got the milk in the tent.,Where is the milk? 
+932,bedroom,"Daniel got the apple in the bedroom. Therefore, the apple is in the",Where is the apple? 
+933,bedroom,The apple is in the kitchen. (Daniel picked it up there.),Where is the apple? 
+934,garden,Sandra picked up the milk in the bedroom.,Where is the milk? 
+935,garden,"Mary dropped the apple there. Therefore, the apple is in the location where",Where is the apple? 
+936,garden,The apple is in the garden (where Mary picked it up).,Where is the apple? 
+937,garden,"Mary picked up the apple there.
+
+Answer: The apple is",Where is the apple? 
+938,bathroom,The football is in the office.,Where is the football? 
+939,hallway,The football is in the office.,Where is the football? 
+940,bedroom,"Daniel went back to the kitchen.
+Therefore, the apple is in",Where is the apple? 
+941,bedroom,"Daniel took the apple there.
+
+Answer: The apple is in",Where is the apple? 
+942,office,Mary moved to the office. The text does not provide information about the location,Where is the football? 
+943,office,The football is in the garden.,Where is the football? 
+944,office,The apple is in the context and not mentioned as being in any specific location,Where is the apple? 
+945,bedroom,The apple is in the location where Daniel took it.,Where is the apple? 
+946,bedroom,"Daniel discarded the apple. Therefore, the apple is not mentioned in the",Where is the apple? 
+947,kitchen,The milk is in the location where Sandra left it.,Where is the milk? 
+948,garden,Mary got the football in the garden.,Where is the football? 
+949,bathroom,The football is in the garden.,Where is the football? 
+950,hallway,"The football is in the text, but there is no information given about where",Where is the football? 
+951,hallway,"The football is in the context of the text, but there is no specific",Where is the football? 
+952,hallway,"Sandra took the football there.
+Answer: The football is in",Where is the football? 
+953,garden,The milk is in the hallway.,Where is the milk? 
+954,garden,The milk is in the bathroom.,Where is the milk? 
+955,bedroom,"John took the football there. Therefore, the football is at the camping",Where is the football? 
+956,bedroom,The football is in the bedroom.,Where is the football? 
+957,bedroom,The football is in the context of the text and is not mentioned being moved,Where is the football? 
+958,bedroom,"The football is mentioned several times in the context, but there is no information",Where is the football? 
+959,bedroom,"John took the football there.
+
+Answer: The football is in",Where is the football? 
+960,hallway,The milk is in the location where John got it.,Where is the milk? 
+961,hallway,The football is in the hallway.,Where is the football? 
+962,hallway,John took the milk there.,Where is the milk? 
+963,hallway,"Sandra dropped the apple there.
+
+Answer: The apple is",Where is the apple? 
+964,hallway,The milk is in the location where John dropped it. Based on the context,Where is the milk? 
+965,hallway,The football is in the kitchen.,Where is the football? 
+966,kitchen,The milk is in the kitchen.,Where is the milk? 
+967,kitchen,John took the milk to the hallway.,Where is the milk? 
+968,bedroom,The football is in the hallway.,Where is the football? 
+969,bedroom,Mary picked up the football there. (This is the last location mentioned where,Where is the football? 
+970,office,"Mary discarded the apple. Therefore, the apple is not mentioned in the",Where is the apple? 
+971,kitchen,The apple is in the kitchen. (Mary grabbed the apple there.),Where is the apple? 
+972,kitchen,"Mary discarded the apple. Therefore, the apple is not mentioned in the",Where is the apple? 
+973,kitchen,Mary had the apple in the kitchen. (Sandra also grabbed the apple,Where is the apple? 
+974,office,The apple is in the office.,Where is the apple? 
+975,garden,The football is in the garden.,Where is the football? 
+976,garden,"Daniel put down the football in the context provided. However, there is no",Where is the football? 
+977,kitchen,"Daniel went to the garden. Therefore, the football is in the garden.",Where is the football? 
+978,bathroom,The milk is at the location where Sandra grabbed it.,Where is the milk? 
+979,bathroom,The milk is in the bathroom. (Daniel went to the bathroom and,Where is the milk? 
+980,hallway,"Daniel discarded the apple there.
+
+Answer: The apple is",Where is the apple? 
+981,office,"Mary picked up the football there. Therefore, the football is in the location",Where is the football? 
+982,hallway,The apple is in the kitchen.,Where is the apple? 
+983,bedroom,The apple is in the kitchen. (Daniel took the apple there.),Where is the apple? 
+984,bedroom,The apple is in the bathroom.,Where is the apple? 
+985,kitchen,The football is in the kitchen.,Where is the football? 
+986,kitchen,"John moved to the kitchen.
+
+Answer: The football is in",Where is the football? 
+987,bathroom,"Sandra dropped the milk. Therefore, the milk is on the ground where",Where is the milk? 
+988,bedroom,Sandra dropped the milk in the bathroom.,Where is the milk? 
+989,garden,Sandra dropped the milk in the bathroom.,Where is the milk? 
+990,garden,The milk is in the location where Mary left it.,Where is the milk? 
+991,garden,The milk is in the context and there is no answer provided for it in,Where is the milk? 
+992,office,The milk is in the garden.,Where is the milk? 
+993,office,The milk is in the office. (Mary got the milk there.),Where is the milk? 
+994,bedroom,The milk is in the location where Daniel got it. Based on the context,Where is the milk? 
+995,kitchen,"The apple is discarded there. It is not clear where ""there""",Where is the apple? 
+996,kitchen,"Daniel discarded the apple there.
+
+Answer: The apple is",Where is the apple? 
+997,hallway,Daniel left the apple there. (Answer: The apple is in the,Where is the apple? 
+998,hallway,The context does not provide information about the location of the football.,Where is the football? 

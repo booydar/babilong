@@ -1,0 +1,17 @@
+{
+    "prompt": {
+        "instruction": "I give you context with the facts about locations and actions of different persons hidden in some random text and a question.You need to answer the question based only on the information from the facts.\nIf a person got an item in the first location and travelled to the second location the item is also in the second location. If a person dropped an item in the first location and moved to the second location the item remains in the first location.",
+        "examples": "<example>\nCharlie went to the kitchen. Charlie got a bottle. Charlie moved to the balcony. Where is the bottle?\nAnswer: The bottle is in the balcony.\n</example>\n<example>\nAlan moved to the garage. Alan got a screw driver. Alan moved to the kitchen. Where is the screw driver?\nAnswer: The screw driver is in the kitchen.\n</example>",
+        "post_prompt": "Always return your answer in the following format: The \u2019item\u2019 is in \u2019location\u2019. Do not write anything else after that.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 0
+    }
+}

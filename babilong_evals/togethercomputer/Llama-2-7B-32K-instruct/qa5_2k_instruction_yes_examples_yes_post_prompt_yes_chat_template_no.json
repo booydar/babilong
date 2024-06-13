@@ -1,0 +1,18 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about locations and their relations hidden in some random text and a question. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nMary picked up the apple there. Mary gave the apple to Fred. Mary moved to the bedroom. Bill took the milk there. Who did Mary give the apple to?\nAnswer: Fred\n</example>\n<example>\nJeff took the football there. Jeff passed the football to Fred. Jeff got the milk there. Bill travelled to the bedroom. Who gave the football?\nAnswer: Jeff\n</example>\n<example>\nFred picked up the apple there. Fred handed the apple to Bill. Bill journeyed to the bedroom. Jeff went back to the garden. What did Fred give to Bill?\nAnswer: apple\n</example>",
+        "post_prompt": "Your answer should contain only one word. Do not write anything else after that. Do not explain your answer.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": false
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 0
+    }
+}

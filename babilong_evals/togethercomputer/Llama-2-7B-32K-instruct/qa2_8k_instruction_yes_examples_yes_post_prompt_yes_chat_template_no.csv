@@ -1,0 +1,1154 @@
+,target,output,question
+0,hallway,"the hallway (Document[16]):""Mary went to the hallway",Where is the milk? 
+1,hallway,"hallway (Document[35]):""John went to the hallway . It",Where is the football? 
+2,hallway,"the hallway (Document[23]):""Laurens Pyl for",Where is the football? 
+3,hallway,"The hallway (Document[32]):""John went to the hallway .",Where is the football? 
+4,garden,"the hallway (Document[45]):""Mary went to the hallway",Where is the milk? 
+5,garden,"Bell's place (Document[119]):""Bell Ward set",Where is the milk? 
+6,bedroom,"the manor (Document[119]):""Shirley's turn",Where is the football? 
+7,bedroom,"the garden (Document[119]):""Sandra put down the milk there",Where is the milk? 
+8,kitchen,"the garden (Document[51]):""Charlie went to the garden . Charlie",Where is the football? 
+9,kitchen,"the hallway (Document[17]):""Daniel went to the hallway .",Where is the football? 
+10,bedroom,The football is in the garden. (Answer),Where is the football? 
+11,hallway,"in the hallway (Document[119]):""John went back to the",Where is the football? 
+12,garden,"the office (Document[119]):""Mary journeyed to the office",Where is the milk? 
+13,garden,"the garden (Document[119]):""Mary journeyed to the garden",Where is the milk? 
+14,bathroom,"the garden (Document[109]):""Mary journeyed to the office",Where is the apple? 
+15,garden,"The office (Document[159]):""Mary dropped the milk . John",Where is the milk? 
+16,garden,balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+17,garden,"the garden (Document[172]):""Mary went back to the garden",Where is the milk? 
+18,kitchen,"The office (Document[553]):""Daniel journeyed to the office .",Where is the apple? 
+19,kitchen,"The apple is in the hallway.
+
+<answer>The apple is in the",Where is the apple? 
+20,bedroom,"Geert's house (Document[105]):""Geert's",Where is the apple? 
+21,bedroom,"The office (Document[129]):""Mary moved to the office .",Where is the apple? 
+22,bathroom,"the hallway (Document[1152]):""John went back to the",Where is the football? 
+23,bathroom,"the hallway (Document[1162]):""John went back to the",Where is the football? 
+24,bedroom,"the bedroom (Document[1168]):""John went back to the",Where is the milk? 
+25,kitchen,"the fridge (Document[119]):""The milk is in the fr",Where is the milk? 
+26,kitchen,"Clarendon (Document[12]):""Croyden went back to",Where is the milk? 
+27,bathroom,"the office (Document[119]):""Sandra went to the office .",Where is the apple? 
+28,bathroom,"The apple is in the garden. (Document[119]):""Sandra",Where is the apple? 
+29,kitchen,"the office (Document[119]):""John put down the milk there .",Where is the milk? 
+30,garden,"the balcony (Document[119]):""Charlie went to the",Where is the apple? 
+31,garden,"the garden (Document[75]):""Daniel journeyed to the office . said",Where is the apple? 
+32,kitchen,"the hallway (Document[83]):""Mary went back to the hall",Where is the football? 
+33,kitchen,"The balcony (Document[100]):""Charlie went to the",Where is the apple? 
+34,kitchen,"the garden (Document[129]):""Mary went to the garden .",Where is the apple? 
+35,office,"the hallway (Document[14]):""Mary went back to the hall",Where is the milk? 
+36,kitchen,"the hallway (Document[119]):""The hallway (Document[",Where is the football? 
+37,kitchen,"The football is in the office. (Answer)
+
+<context>
+The first",Where is the football? 
+38,kitchen,"the hallway (Document[20]):""John went back to the hallway",Where is the football? 
+39,bedroom,"hallway (Document[49]):""Mary went back to the hallway",Where is the milk? 
+40,bedroom,"the garden (Document[10]):""Mary went back to the garden .",Where is the milk? 
+41,office,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+42,office,"the hall (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+43,office,"the Deanery (Document[129]):""The Deanery . The Dean",Where is the milk? 
+44,kitchen,"the hallway (Document[119]):""Alan moved to the gar",Where is the apple? 
+45,bedroom,"the kitchen (Document[109]):""Charlie went to the kitchen .",Where is the milk? 
+46,office,"the bathroom (Document[119]):""Charlie went to the kitchen",Where is the football? 
+47,bathroom,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+48,bathroom,"the hallway (Document[129]):""Harry was exceedingly rejo",Where is the football? 
+49,bedroom,"the hallway (Document[129]):""Alan moved to the gar",Where is the milk? 
+50,bathroom,"The vacant house (Document[119]):""One evening, while the",Where is the milk? 
+51,hallway,"the hallway (Document[11]):""John grabbed the apple there",Where is the apple? 
+52,kitchen,"the hallway (Document[11]):""John went to the hallway .",Where is the football? 
+53,kitchen,"the hallway (Document[10]):""John went to the hallway .",Where is the football? 
+54,kitchen,"the bathroom (Document[119]):""Daniel journeyed to the bath",Where is the football? 
+55,bathroom,"The apple is in the balcony.
+
+<answer>The apple is in",Where is the apple? 
+56,bathroom,"the hallway (Document[93]):""Rudolph's chair j",Where is the milk? 
+57,kitchen,"the bathroom (Document[119]):""John went to the bathroom",Where is the milk? 
+58,kitchen,"the hallway (Document[11]):""John went to the bathroom .",Where is the milk? 
+59,bedroom,"the hallway (Document[119]):""Minnie had a cousin",Where is the apple? 
+60,garden,"the office (Document[73]):""Minnie's Pet Parrot",Where is the milk? 
+61,garden,"the office (Document[119]):""Daniel went back to the office .",Where is the milk? 
+62,kitchen,"the garden (Document[15]):""John went to the garden . John went",Where is the football? 
+63,kitchen,"the office (Document[119]):""John went to the office . John",Where is the football? 
+64,kitchen,"the garden (Document[109]):""John went to the garden . John",Where is the football? 
+65,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+66,kitchen,"the hallway (Document[119]):""Daniel went to the hallway",Where is the football? 
+67,bedroom,"The office (Document[119]):""Mary went back to the office",Where is the milk? 
+68,bedroom,"the bedroom (Document[11]):""Daniel journeyed to the bedroom",Where is the milk? 
+69,bedroom,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the football? 
+70,garden,"the garden (Document[12]):""John went back to the garden . Mary",Where is the apple? 
+71,garden,"the garden (Document[230]):""John went back to the garden .",Where is the apple? 
+72,bathroom,"the garden (Document[259]):""John went back to the garden .",Where is the apple? 
+73,bathroom,"the garden (Document[289]):""Sandra went to the garden .",Where is the apple? 
+74,bathroom,"the balcony (Document[305]):""Charlie went to the",Where is the apple? 
+75,office,"the garden (Document[100]):""Charlie went to the kitchen .",Where is the apple? 
+76,hallway,"The milk is in the office.
+
+Answer: The milk is in the office.",Where is the milk? 
+77,hallway,"hallway (Document[38]):""Mary went to the hallway .",Where is the milk? 
+78,hallway,"the office (Document[290]):""Mary went to the office .",Where is the milk? 
+79,hallway,"the hallway (Document[49]):""Mary went to the hallway",Where is the milk? 
+80,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+81,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+82,kitchen,"the garden (Document[119]):""John went back to the garden .",Where is the football? 
+83,kitchen,"the garden (Document[119]):""Alan moved to the garage",Where is the football? 
+84,kitchen,"in the bathroom (Document[109]):""John went back to the",Where is the football? 
+85,bathroom,"the kitchen (Document[109]):""Charlie went to the kitchen .",Where is the milk? 
+86,kitchen,"the hallway (Document[129]):""Sandra journeyed to the",Where is the apple? 
+87,bathroom,"the hallway (Document[119]):""Alan moved to the gar",Where is the milk? 
+88,bedroom,"the hallway (Document[13]):""Mary went back to the hall",Where is the football? 
+89,kitchen,"the grass (Document[159]):""Mary went back to the garden",Where is the apple? 
+90,kitchen,"the bathroom (Document[81]):""Mary picked up the milk there",Where is the milk? 
+91,kitchen,"the office (Document[119]):""Mary went to the office .",Where is the milk? 
+92,kitchen,"the bathroom (Document[13]):""Amy went to the bathroom",Where is the milk? 
+93,kitchen,"the bathroom (Document[25]):""Charlie went to the kitchen .",Where is the milk? 
+94,kitchen,"the office (Document[12]):""Mary went to the office . Mary",Where is the milk? 
+95,bathroom,"the hallway (Answer: The football is in the hallway.)
+
+<context",Where is the football? 
+96,bathroom,"the hallway (Document[119]):""John journeyed to the hall",Where is the football? 
+97,bathroom,"the hallway (Document[109]):""John put down the football .",Where is the football? 
+98,bathroom,"the hallway (Document[119]):""John put down the football there",Where is the football? 
+99,hallway,"The bathroom (Document[14]):""The old numbers could easily have been",Where is the milk? 
+100,office,"the office (Document[19]):""Mary went to the office . John",Where is the milk? 
+101,office,"the office (Document[148]):""Mary journeyed to the office",Where is the milk? 
+102,kitchen,"the office (Document[159]):""Dan journeyed to the office .",Where is the milk? 
+103,kitchen,"the office (Document[12]):""John went to the garden . The professor",Where is the milk? 
+104,bedroom,"the office (Document[119]):""Frank Merriwell and Professor",Where is the football? 
+105,bathroom,"The football is in the balcony. (Answer)
+
+<context>",Where is the football? 
+106,bedroom,"The milk is in the bedroom (Document[109]):""Mary",Where is the milk? 
+107,bathroom,"The apple is in the bathroom. (Document[119]):""M",Where is the apple? 
+108,bedroom,"the hallway (Document[16]):""Mary journeyed to the hall",Where is the milk? 
+109,bathroom,"the hallway (Document[50]):""Mary went to the hallway",Where is the apple? 
+110,bedroom,"the hallway (Document[52]):""John picked up the football there .",Where is the football? 
+111,bedroom,"in the hallway (Document[119]):""Amy spent the greater",Where is the football? 
+112,bedroom,"hallway (Document[119]):""John journeyed to the hallway",Where is the football? 
+113,bedroom,"hallway (Document[128]):""John picked up the football there .",Where is the football? 
+114,office,"the garden (Document[11]):""Mary went back to the garden .",Where is the apple? 
+115,office,"the ground (Document[15]):""The ball is thrown to the ground .",Where is the football? 
+116,hallway,"Ellen's breast (Document[46]):""The rosary used",Where is the football? 
+117,office,"bathroom (Document[120]):""Sandra travelled to the",Where is the milk? 
+118,bedroom,"the bathroom (Document[81]):""Sandra travelled to the bath",Where is the milk? 
+119,bathroom,"the bathroom (Document[56]):""John went to the hallway .",Where is the apple? 
+120,hallway,"the hallway (Document[119]):""Sandra went to the hall",Where is the apple? 
+121,bedroom,"the garden (Document[109]):""Mary journeyed to the garden",Where is the milk? 
+122,garden,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+123,garden,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+124,garden,The balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+125,kitchen,"the hallway (Document[119]):""Mary went to the hall",Where is the football? 
+126,kitchen,"the hallway (Document[129]):""Charlie went to the kitchen",Where is the football? 
+127,kitchen,"in the office (Document[102]):""Jimmieboy and the",Where is the football? 
+128,bedroom,"in the office (Document[109]):""Mary went to the hall",Where is the football? 
+129,bedroom,"in the office (Document[119]):""Jimmieboy and the",Where is the football? 
+130,kitchen,"the hallway (Document[119]):""The boys were all in the",Where is the football? 
+131,kitchen,"the hallway (Document[119]):""Jimmie passed through the",Where is the football? 
+132,kitchen,"the office (Document[119]):""Ruby goes over to the window",Where is the milk? 
+133,hallway,"the hallway (Document[109]):""John went to the hallway",Where is the football? 
+134,hallway,"the hallway (Document[4]):""Jack Kirke went to the hallway",Where is the football? 
+135,office,"the hallway (Document[5]):""Mary picked up the football there .",Where is the football? 
+136,office,"The hallway (Document[10]):""The next seen of ""Doc""",Where is the milk? 
+137,office,"the hallway (Document[119]):""Webb, with his book",Where is the football? 
+138,kitchen,"the hallway (Document[10]):""Amy asked, catching some",Where is the football? 
+139,bathroom,"the hallway (Document[25]):""Mary went back to the hall",Where is the football? 
+140,bedroom,"The football is in the hallway. (Answer)
+
+<context>
+It",Where is the football? 
+141,bedroom,"the hallway (Document[11]):""Rudolph picked up the football",Where is the football? 
+142,bedroom,"the bedroom (Document[119]):""Rudolph journeyed to",Where is the football? 
+143,bedroom,"The football is in the hallway. (Answer)
+
+<context>
+""",Where is the football? 
+144,garden,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+145,kitchen,"Boma (Document[159]):""Randolph Rover gathered all",Where is the apple? 
+146,bathroom,"the office (Document[119]):""Mary went back to the bath",Where is the milk? 
+147,garden,"the garden (Document[119]):""Mary went back to the garden",Where is the milk? 
+148,kitchen,"the office (Document[109]):""Mrs. Sandra travelled",Where is the apple? 
+149,kitchen,"the hallway (Document[119]):""Alan moved to the gar",Where is the apple? 
+150,bedroom,"The apple is in the garden. (Document[119]):""Charlie",Where is the apple? 
+151,bedroom,"the garden (Document[109]):""Cider and wine will turn into",Where is the apple? 
+152,bedroom,"The apple is in the garden. (Document[111]):""Alan",Where is the apple? 
+153,kitchen,"The garden (Document[233]):""Mary went back to the garden",Where is the football? 
+154,kitchen,"the hallway (Document[413]):""Mary went to the hall",Where is the football? 
+155,hallway,"the hallway (Document[518]):""Sandra moved to the hall",Where is the football? 
+156,hallway,"the hallway (Document[96]):""Sandra grabbed the football",Where is the football? 
+157,bedroom,"The bedroom (Document[120]):""Mary journeyed to the",Where is the milk? 
+158,bedroom,"the hallway (Document[119]):""Mary journeyed to the",Where is the milk? 
+159,hallway,"in the hallway (Document[119]):""The scene which opened upon",Where is the football? 
+160,garden,"the garden (Document[257]):""Charlie went to the kitchen .",Where is the apple? 
+161,garden,"the garden (Document[261]):""Mary went to the garden .",Where is the apple? 
+162,garden,"The office (Document[270]):""Fred's horse, was",Where is the apple? 
+163,garden,"the garden (Document[119]):""Fred made his report to General",Where is the apple? 
+164,bedroom,"The office (Document[119]):""Fred and Robert Ferror were",Where is the football? 
+165,garden,"the garden (Document[129]):""Daniel went to the garden . This",Where is the football? 
+166,garden,"in the garden (Document[119]):""Daniel went to the garden .",Where is the football? 
+167,hallway,"The garden (Document[119]):""Alan moved to the garage",Where is the apple? 
+168,hallway,"The office (Document[159]):""Jimmieboy had not long",Where is the apple? 
+169,office,"The football is in the hallway. (Answer)
+
+<example>
+The",Where is the football? 
+170,bedroom,"the bedroom (Document[109]):""John went back to the bed",Where is the apple? 
+171,bathroom,"the hallway (Document[119]):""John went back to the hall",Where is the apple? 
+172,hallway,"The hallway (Document[119]):""John went back to the hall",Where is the milk? 
+173,hallway,"The hallway (Document[119]):""John went back to the hall",Where is the milk? 
+174,bathroom,"the hallway (Document[1894]):""Elsie Inglis",Where is the apple? 
+175,kitchen,"the kitchen (Document[119]):""Mary got the milk there .",Where is the milk? 
+176,hallway,"the hallway (Document[129]):""Mary got the apple there",Where is the apple? 
+177,kitchen,"The bathroom (Document[129]):""Charlie went to the kitchen",Where is the apple? 
+178,office,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+179,office,"the bathroom (Document[129]):""Mary went back to the",Where is the milk? 
+180,garden,"the kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+181,garden,"the hermit's cave (Document[129]):""The hermit",Where is the milk? 
+182,garden,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+183,kitchen,"the garden (Document[119]):""John went to the garden . John",Where is the apple? 
+184,kitchen,"the garden (Document[119]):""John went to the garden . Where",Where is the apple? 
+185,office,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+186,office,"the office (Document[119]):""Mary went back to the office",Where is the apple? 
+187,kitchen,"the office (Document[129]):""Mary went back to the office",Where is the milk? 
+188,office,the balcony (Answer: The bottle is in the balcony. The,Where is the apple? 
+189,kitchen,"the office (Document[159]):""Mary went back to the office",Where is the milk? 
+190,garden,"The apple is in the garden. (Answer)
+
+<example>
+Phel",Where is the apple? 
+191,garden,"Answer: The apple is in the office.
+</example>
+<example>
+Char",Where is the apple? 
+192,garden,"the garden (Document[10]):""Daniel went to the garden . This tends",Where is the apple? 
+193,bedroom,"the hallway (Document[119]):""John went back to the bath",Where is the milk? 
+194,bedroom,"The office (Document[12]):""The milk is in the office.""",Where is the milk? 
+195,bathroom,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the apple? 
+196,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+197,garden,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+198,kitchen,"the balcony (Document[1801]):""Charlie went to",Where is the milk? 
+199,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+200,office,"The office (Document[135]):""Sandra picked up the milk there",Where is the milk? 
+201,office,"the office (Document[11]):""Sandra moved to the office . *",Where is the milk? 
+202,hallway,"the hallway (Document[129]):""Sandra put down the milk",Where is the milk? 
+203,garden,"the hallway (Document[109]):""Mary went to the hall",Where is the milk? 
+204,garden,"the hallway (Document[119]):""Mary went to the office",Where is the milk? 
+205,office,"the office (Document[41]):""Mary went back to the office .",Where is the milk? 
+206,office,"the office (Document[16]):""Mary went back to the office .",Where is the milk? 
+207,garden,"the garden (Document[29]):""Sandra journeyed to the garden .",Where is the apple? 
+208,bathroom,"the hallway (Document[238]):""The pibroch sounds",Where is the milk? 
+209,bathroom,"the office (Document[291]):""Daniel moved to the office . I",Where is the milk? 
+210,kitchen,"the bathroom (Document[293]):""Sandra went to the bath",Where is the football? 
+211,kitchen,"The football is in the bathroom.
+
+<answer>The football is in the",Where is the football? 
+212,kitchen,"the bedroom (Document[11]):""Charlie went to the kitchen .",Where is the football? 
+213,kitchen,"The office (Answer: The milk is in the office)
+
+<context>",Where is the milk? 
+214,garden,"the hallway (Document[119]):""Daniel journeyed to the hall",Where is the football? 
+215,office,"the office (Document[119]):""Mary went to the office .",Where is the apple? 
+216,office,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+217,office,"the hallway (Document[10]):""John went to the hallway .",Where is the apple? 
+218,bathroom,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+219,bathroom,"the bedroom (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+220,office,"the office (Document[119]):""Alan moved to the garage",Where is the apple? 
+221,office,"the bunk (Document[10]):""Wayland drew the younger woman",Where is the apple? 
+222,office,"the balcony (Answer)
+
+<example>
+Charlie went to the",Where is the apple? 
+223,bedroom,"the office (Document[129]):""Mary went to the office .",Where is the milk? 
+224,bedroom,"The apple is in the hallway. (Document[119]):""Char",Where is the apple? 
+225,bedroom,"the office (Document[119]):""Sandra travelled to the office",Where is the apple? 
+226,kitchen,"The apple is in the garden. (Answer)
+
+<context>
+My studies",Where is the apple? 
+227,garden,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+228,bathroom,"the bathroom (Document[19]):""Mary went to the bathroom",Where is the milk? 
+229,garden,"the garden (Document[109]):""Mary went to the garden .",Where is the football? 
+230,bathroom,"The office (Document[119]):""John moved to the office . The",Where is the football? 
+231,bathroom,"the garden (Document[109]):""Sandra went to the hallway",Where is the football? 
+232,bathroom,"the garden (Document[10]):""Sandra journeyed to the garden .",Where is the football? 
+233,garden,"The office (Document[12]):""Charlie went to the kitchen . Charlie",Where is the apple? 
+234,bathroom,"the office (Document[11]):""John journeyed to the office . When",Where is the football? 
+235,bedroom,"the hallway (Document[119]):""Charlie went to the kitchen",Where is the apple? 
+236,bedroom,"the hallway (Document[109]):""Charlie went to the kitchen",Where is the apple? 
+237,kitchen,"the hallway (Document[129]):""Sandra went to the hall",Where is the football? 
+238,office,"The apple is in the office. (Answer)
+
+<context>
+The Indians",Where is the apple? 
+239,garden,"The milk is in the bedroom.
+
+<answer>The milk is in the",Where is the milk? 
+240,hallway,"the hallway (Document[119]):""Mary picked up the apple",Where is the apple? 
+241,hallway,"the hallway (Document[100]):""Mary picked up the apple",Where is the apple? 
+242,kitchen,"The apple is in the garden. (Document[10]):""Mary went",Where is the apple? 
+243,bathroom,"The apple is in the hallway. (Document[129]):""M",Where is the apple? 
+244,bathroom,"the hallway (Document[109]):""Mary put down the apple",Where is the apple? 
+245,hallway,"The kitchen (Document[109]):""Charlie went to the kitchen .",Where is the milk? 
+246,garden,"the kitchen (Document[109]):""Charlie went to the kitchen .",Where is the milk? 
+247,garden,"the garden (Document[25]):""Amy was the heroine of the",Where is the milk? 
+248,garden,"Daniel discarded the football (Document[10]):""Daniel got the football there",Where is the football? 
+249,garden,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the football? 
+250,bathroom,"the balcony (Document[11]):""Charlie went to the kitchen",Where is the apple? 
+251,hallway,"The bathroom (Document[119]):""Alan moved to the gar",Where is the apple? 
+252,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+253,hallway,The balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+254,hallway,"the hallway (Document[37]):""The squeaking and skipping",Where is the apple? 
+255,bathroom,"the office (Document[68]):""Charlie went to the office . Charlie",Where is the milk? 
+256,kitchen,"the office (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+257,hallway,"the hallway (Document[13]):""Berrie went about her duties with",Where is the apple? 
+258,hallway,"the hallway (Document[129]):""Mary went to the office",Where is the apple? 
+259,hallway,"The office (Document[129]):""The landlord of the Three",Where is the apple? 
+260,garden,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+261,garden,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the football? 
+262,garden,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+263,bathroom,"the office (Document[10]):""John went to the office . ""This",Where is the apple? 
+264,hallway,"the hallway (Document[119]):""Tom and Dick went to the",Where is the apple? 
+265,garden,"the hallway (Document[83]):""John picked up the apple there .",Where is the apple? 
+266,garden,"The bathroom (Document[89]):""Charlie went to the kitchen .",Where is the apple? 
+267,bathroom,"The bathroom (Document[100]):""Charlie went to the kitchen",Where is the apple? 
+268,bathroom,"the hallway (Document[109]):""John went to the hallway",Where is the apple? 
+269,garden,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the apple? 
+270,kitchen,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+271,office,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+272,office,"the garden (Document[109]):""Charlie went to the garden .",Where is the apple? 
+273,kitchen,"the hallway (Document[259]):""John went back to the hall",Where is the football? 
+274,office,"The office (Document[268]):""John went back to the office .",Where is the apple? 
+275,hallway,"the kitchen (Document[286]):""Charlie went to the kitchen .",Where is the milk? 
+276,hallway,"The hallway (Document[195]):""Sandra moved to the hall",Where is the milk? 
+277,hallway,"The office (Document[119]):""John travelled to the office .",Where is the milk? 
+278,kitchen,"the hallway (Document[119]):""Sandra put down the milk",Where is the apple? 
+279,kitchen,"the hallway (Document[109]):""Mary went to the hall",Where is the apple? 
+280,bathroom,"the bathroom (Document[15]):""Bill went to the bathroom",Where is the football? 
+281,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+282,office,"the office (Document[129]):""Sandra went to the office .",Where is the milk? 
+283,office,"the hallway (Document[119]):""The next morning, Frank and",Where is the milk? 
+284,office,"the office (Document[119]):""Daniel journeyed to the office .",Where is the milk? 
+285,bedroom,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the football? 
+286,bedroom,"the garden (Document[119]):""John went back to the garden .",Where is the football? 
+287,bedroom,"the garden (Answer: John went back to the garden)
+
+Question: Where is",Where is the football? 
+288,bedroom,"the hallway (Document[109]):""Mary went back to the",Where is the football? 
+289,bedroom,"the hallway (Document[12]):""Mary went to the hallway",Where is the football? 
+290,office,"the hallway (Document[119]):""Charlie went to the kitchen",Where is the apple? 
+291,office,"the hallway (Document[119]):""Charlie went to the kitchen",Where is the apple? 
+292,office,"the office (Document[150]):""Daniel went to the office . John",Where is the apple? 
+293,office,"the office (Document[11]):""Daniel went to the office . Mary went",Where is the apple? 
+294,bedroom,"the hallway (Document[119]):""Sandra went to the bath",Where is the milk? 
+295,hallway,"the hallway (Document[119]):""John went to the hallway",Where is the milk? 
+296,hallway,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the football? 
+297,hallway,"The office (Document[159]):""John journeyed to the office .",Where is the milk? 
+298,bathroom,"the hallway (Document[129]):""Mary went back to the",Where is the apple? 
+299,bathroom,"the garden (Document[18]):""Anna and I have been in L",Where is the apple? 
+300,bedroom,"the hallway (Document[109]):""A servant--apparently",Where is the football? 
+301,bedroom,"the garden (Document[11]):""Eleanor asked, beginning to spark",Where is the football? 
+302,office,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+303,bedroom,"the garden (Document[119]):""John went back to the bedroom",Where is the football? 
+304,bedroom,"the garden (Document[80]):""John went back to the garden . The",Where is the football? 
+305,bathroom,"the kitchen (Document[109]):""Charlie went to the kitchen .",Where is the milk? 
+306,bathroom,The balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+307,bathroom,"the bathroom (Document[18]):""Mary went to the bathroom",Where is the milk? 
+308,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+309,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+310,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+311,kitchen,"It is in thy bosom, it is in thy sacred sources, that it has recovered",Where is the milk? 
+312,kitchen,"bathroom (Document[109]):""Sandra moved to the bath",Where is the milk? 
+313,kitchen,"the hallway (Document[119]):""Mary picked up the milk",Where is the milk? 
+314,kitchen,"The bathroom (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+315,bathroom,"the office (Document[119]):""Jimmie went to the office",Where is the football? 
+316,bathroom,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+317,bathroom,"the office (Document[129]):""Daniel went back to the office .",Where is the football? 
+318,office,"the office (Document[129]):""Mary journeyed to the office",Where is the milk? 
+319,kitchen,"the office (Document[119]):""Alan moved to the garage",Where is the football? 
+320,bathroom,"The football is in the garden. (Answer)
+
+<context>
+I was",Where is the football? 
+321,bathroom,"The football is in the garden.
+
+<answer>The football is in the garden",Where is the football? 
+322,bathroom,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+323,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+324,bathroom,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+325,bathroom,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+326,bathroom,"the Sampson Gate (Document[119]):""Macloud's",Where is the apple? 
+327,garden,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+328,garden,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+329,garden,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the football? 
+330,garden,"the garden (Document[129]):""Charlie went to the kitchen .",Where is the football? 
+331,bathroom,"the garden (Document[109]):""Charlie went to the kitchen .",Where is the apple? 
+332,bathroom,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the apple? 
+333,hallway,"the garden (Document[119]):""Jane journeyed to the garden",Where is the football? 
+334,hallway,"The hallway (Document[12]):""Mary put down the football there",Where is the football? 
+335,hallway,"The football is in the hallway.
+
+<answer>The football is in the",Where is the football? 
+336,hallway,"the hallway (Document[119]):""Sandra went back to the",Where is the football? 
+337,hallway,"the hallway (Document[15]):""Mary went back to the hall",Where is the football? 
+338,hallway,"the hallway (Document[119]):""Mary went back to the",Where is the football? 
+339,bedroom,"The office (Document[119]):""Mary took the apple there .",Where is the milk? 
+340,garden,"The milk is in the bedroom.
+
+Answer: The milk is in the bed",Where is the milk? 
+341,garden,"The Brownies' garden (Document[119]):""Mary got the",Where is the milk? 
+342,hallway,"The football is in the garden. (Document[129]):""Mary",Where is the football? 
+343,hallway,"the garden (Document[119]):""Mary journeyed to the hall",Where is the football? 
+344,hallway,"the hallway (Document[119]):""Mary journeyed to the",Where is the milk? 
+345,garden,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+346,garden,"the garden (Document[109]):""Mary went back to the garden",Where is the football? 
+347,garden,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+348,garden,"The office of the village magistrate (Document[119]):""The first",Where is the apple? 
+349,garden,"In the garden (Document[76]):""Lauretta and I seemed to",Where is the apple? 
+350,bedroom,"Sandra got the milk there. (Document[82]):""Sandra got",Where is the milk? 
+351,office,"the office (Document[55]):""Sandra went back to the bedroom",Where is the milk? 
+352,office,"the office (Document[70]):""Sandra went back to the bedroom",Where is the milk? 
+353,office,"the bedroom (Document[119]):""Sandra went back to the",Where is the milk? 
+354,kitchen,The football is in the balcony. (Answer),Where is the football? 
+355,hallway,"the hall (Document[129]):""The visit which he received from Ed",Where is the football? 
+356,hallway,"the hallway (Document[129]):""Sandra put down the football",Where is the football? 
+357,office,"the hallway (Document[119]):""Mary took the milk there",Where is the milk? 
+358,hallway,"The kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+359,hallway,"the balcony (Document[109]):""Charlie went to the",Where is the milk? 
+360,bedroom,"The office (Document[11]):""John grabbed the football there .",Where is the football? 
+361,bedroom,"the hallway (Document[10]):""Mary went back to the hall",Where is the football? 
+362,bedroom,"the garden (Document[10]):""Mary went back to the garden .",Where is the apple? 
+363,bedroom,"the office (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+364,bedroom,"the hallway (Document[109]):""John went to the hallway",Where is the football? 
+365,kitchen,"the balcony (Answer)
+
+<answer>The apple is in the bal",Where is the apple? 
+366,kitchen,"The apple is in the hallway. (Answer)
+
+<example>
+Char",Where is the apple? 
+367,garden,"The hallway (Document[109]):""Mary went to the hall",Where is the milk? 
+368,bedroom,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+369,bedroom,"the hallway (Document[112]):""Charlie went to the kitchen",Where is the apple? 
+370,kitchen,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+371,kitchen,"the bathroom (Document[109]):""Mary travelled to the",Where is the apple? 
+372,kitchen,"the hallway (Document[119]):""Daniel picked up the apple there",Where is the apple? 
+373,kitchen,"the hallway (Document[109]):""Daniel picked up the apple there",Where is the apple? 
+374,hallway,"the hallway (Document[110]):""Charlie went to the kitchen",Where is the milk? 
+375,kitchen,"the Blaisdell house (Document[129]):""The next day",Where is the milk? 
+376,kitchen,"the kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+377,kitchen,balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+378,office,"the garden (Document[10]):""John went back to the garden . Daniel",Where is the apple? 
+379,office,"the office (Document[109]):""John journeyed to the office .",Where is the apple? 
+380,bathroom,"The football is in the balcony. (Answer)
+
+<context>",Where is the football? 
+381,bathroom,"Sandra discarded the football there (Document[119]):""Sandra",Where is the football? 
+382,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+383,bedroom,"the office (Document[119]):""Mary went to the office .",Where is the milk? 
+384,bedroom,"the office (Document[28]):""Mary went to the office . L",Where is the milk? 
+385,bathroom,"the bathroom (Document[29]):""Sandra left the milk there.""",Where is the milk? 
+386,bathroom,"the garden (Document[10]):""John went to the garden . John disc",Where is the football? 
+387,bathroom,"the garden (Document[12]):""John went to the garden . John went",Where is the football? 
+388,hallway,"in the garden (Document[19,20,21]):""M",Where is the apple? 
+389,hallway,"the hallway (Document[10]):""Mary dropped the apple . The",Where is the apple? 
+390,hallway,"the hallway (Document[120]):""Sandra moved to the hall",Where is the milk? 
+391,garden,"the hallway (Document[116]):""Sandra moved to the hall",Where is the milk? 
+392,garden,"the office (Document[109]):""Sandra picked up the milk there",Where is the milk? 
+393,garden,"the hallway (Document[119]):""Sandra picked up the milk",Where is the milk? 
+394,kitchen,"the hallway (Document[119]):""Mary journeyed to the",Where is the football? 
+395,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+396,bedroom,"The office (Document[129]):""Charlie went to the kitchen .",Where is the apple? 
+397,bedroom,"the garden (Document[10]):""John went to the garden . John put",Where is the apple? 
+398,garden,"the office (Document[18]):""John went to the office . 2",Where is the football? 
+399,garden,"The football is in the office. (Answer)
+
+<context>
+Probably",Where is the football? 
+400,bathroom,"the hallway (Document[119]):""The turn is executed upon the",Where is the milk? 
+401,bathroom,"the hallway (Document[109]):""Sandra grabbed the",Where is the milk? 
+402,garden,"the hallway (Document[109]):""Sandra journeyed to the",Where is the football? 
+403,garden,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+404,garden,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+405,hallway,"the bathroom (Document[119]):""Charlie went to the kitchen",Where is the football? 
+406,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+407,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+408,bathroom,"the office (Document[10]):""Alan moved to the garage .",Where is the football? 
+409,bathroom,"the office (Document[119]):""Alan moved to the garage",Where is the football? 
+410,garden,"the bathroom (Document[20]):""Mary went to the bathroom",Where is the milk? 
+411,garden,"the hallway (Document[48]):""Mary journeyed to the bath",Where is the milk? 
+412,bedroom,"the hallway (Document[119]):""But he could rise faster,",Where is the apple? 
+413,bedroom,"the garden (Document[119]):""Horace Boyce, on returning",Where is the apple? 
+414,bedroom,"the garden (Document[119]):""Sandra journeyed to the office",Where is the apple? 
+415,bedroom,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+416,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+417,hallway,"the hallway (Document[119]):""James's Palace, but",Where is the apple? 
+418,hallway,"The apple is in the garden.
+
+<context>
+A.
+C.",Where is the apple? 
+419,office,"The football is in the hallway. (Answer)
+
+<context>
+S",Where is the football? 
+420,kitchen,"the garden (Document[119]):""Sandra took the football there .",Where is the apple? 
+421,kitchen,"the office (Document[119]):""Alan moved to the garage",Where is the apple? 
+422,kitchen,"the office (Document[109]):""Charlie went to the kitchen .",Where is the apple? 
+423,kitchen,"bedroom (Document[837]):""John put down the apple there .",Where is the apple? 
+424,kitchen,"The office (Document[840]):""John journeyed to the office .",Where is the milk? 
+425,bathroom,"the office (Document[119]):""Mary went to the office .",Where is the milk? 
+426,bathroom,"the garden (Document[119]):""Sandra went to the garden .",Where is the milk? 
+427,kitchen,"Sandra got the milk there (Document[109]):""Sandra got",Where is the milk? 
+428,kitchen,"the bathroom (Document[109]):""Sandra went to the kitchen",Where is the milk? 
+429,kitchen,"the hallway (Document[10]):""Sandra went to the hallway",Where is the milk? 
+430,bedroom,"the office (Document[109]):""Mary went to the office .",Where is the football? 
+431,bedroom,"Sir W. Batten's (Document[129]):""In",Where is the football? 
+432,office,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+433,hallway,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+434,bedroom,"the hallway (Document[119]):""Benny went to the hall",Where is the apple? 
+435,kitchen,"the garden (Document[119]):""Mellicent went to the",Where is the apple? 
+436,kitchen,"the hallway (Document[101]):""Sandra went to the hall",Where is the football? 
+437,kitchen,"the hallway (Document[10]):""Sandra took the football there .",Where is the football? 
+438,hallway,The milk is in the hallway. (Answer: The milk is in the hallway,Where is the milk? 
+439,hallway,"the garden (Document[119]):""Mary moved to the garden .",Where is the milk? 
+440,bathroom,"the bathroom (Document[119]):""Alan moved to the gar",Where is the milk? 
+441,hallway,"the hallway (Document[119]):""John journeyed to the hall",Where is the milk? 
+442,hallway,"the bathroom (Document[64]):""Sandra discarded the milk .",Where is the milk? 
+443,garden,"the hallway (Document[119]):""Sandra picked up the apple",Where is the apple? 
+444,garden,"the garden (Document[28]):""Charlie went to the kitchen . Charlie",Where is the apple? 
+445,hallway,"the hallway (Document[109]):""The stage is set in a",Where is the football? 
+446,hallway,"the hallway (Document[119]):""Geert: And now I",Where is the football? 
+447,hallway,"the hallway (Document[119]):""Sandra went to the office",Where is the football? 
+448,bathroom,"the hallway (Document[119]):""Cameron went to the",Where is the milk? 
+449,kitchen,"the garden (Document[119]):""Jennie went to the garden",Where is the apple? 
+450,garden,"the office (Document[119]):""Sandra travelled to the office",Where is the milk? 
+451,hallway,"the hallway (Document[3]):""Mary moved to the hallway .",Where is the football? 
+452,hallway,"The hallway (Document[13]):""Charlie went to the kitchen .",Where is the football? 
+453,garden,"the hallway (Document[19]):""Mary went to the hallway",Where is the milk? 
+454,garden,"the office (Document[119]):""John went to the garden . """,Where is the milk? 
+455,bedroom,"Belden's house (Document[129]):""Belden's",Where is the milk? 
+456,bedroom,"the balcony (Document[109]):""Charlie went to the",Where is the milk? 
+457,hallway,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the milk? 
+458,office,"the office (Document[119]):""John went to the office . He",Where is the milk? 
+459,office,"The hallway (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+460,bathroom,"the garden (Document[109]):""François is sitting and clipping",Where is the apple? 
+461,bathroom,"The apple is in the garden. (Document[119]):""Alan",Where is the apple? 
+462,bathroom,"the hallway (Document[129]):""Mary left the football there",Where is the football? 
+463,bedroom,"in the hallway (Document[119]):""Mary journeyed to",Where is the football? 
+464,hallway,"the hallway (Document[119]):""John went to the hallway",Where is the milk? 
+465,garden,"the bathroom (Document[11]):""Mary went to the office .",Where is the milk? 
+466,garden,"The hallway (Document[119]):""Mary journeyed to the",Where is the milk? 
+467,hallway,"The football is in the hallway (Document[109]):""Charlie",Where is the football? 
+468,hallway,"the hallway (Document[89]):""Daniel grabbed the football there",Where is the football? 
+469,hallway,"the hallway (Document[100]):""Charlie went to the kitchen",Where is the football? 
+470,garden,"the hallway (Document[100]):""John journeyed to the hall",Where is the football? 
+471,garden,"The Channel Islands (Document[119]):""Vorticella may pair",Where is the football? 
+472,garden,"bathroom (Document[26]):""Sandra grabbed the football",Where is the football? 
+473,garden,"bathroom (Document[27]):""Sandra picked up the milk there",Where is the milk? 
+474,garden,"The bathroom (Document[33]):""Sandra went to the garden .",Where is the milk? 
+475,hallway,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+476,hallway,"The football is in the balcony. (Answer)
+
+<context>",Where is the football? 
+477,hallway,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+478,hallway,"the hallway (Document[109]):""Mary grabbed the",Where is the football? 
+479,kitchen,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+480,office,"the hallway (Document[7]):""Mary went to the hallway .",Where is the football? 
+481,office,"the hallway (Document[10]):""The greatest length from north to south",Where is the football? 
+482,kitchen,"hallway (Document[20]):""Mary went to the hallway .",Where is the football? 
+483,kitchen,"The apple is in the hallway (Document[129]):""Alan",Where is the apple? 
+484,kitchen,"hallway (Document[768]):""John went back to the hallway",Where is the apple? 
+485,bedroom,"the garden (Document[777]):""Mary went to the garden .",Where is the apple? 
+486,bathroom,"the hallway (Document[786]):""John went to the bedroom",Where is the football? 
+487,bathroom,"the hallway (Document[72]):""John went to the bedroom .",Where is the milk? 
+488,bathroom,"the office (Document[75]):""John went to the bedroom . Sub",Where is the milk? 
+489,bathroom,"the office (Document[20]):""John went back to the office . He",Where is the football? 
+490,bathroom,"the office (Document[18]):""Daniel journeyed to the bathroom .",Where is the apple? 
+491,bathroom,"the hallway (Document[11]):""Daniel went to the hallway .",Where is the apple? 
+492,office,"The office (Document[129]):""John went to the office . F",Where is the apple? 
+493,bedroom,"the office (Document[109]):""John went to the office . The",Where is the apple? 
+494,bedroom,"the garden (Document[81]):""John went to the garden . John went",Where is the apple? 
+495,office,"the office (Document[101]):""Minnie's face was",Where is the football? 
+496,hallway,"the garden (Document[112]):""Minnie's Pet Par",Where is the apple? 
+497,bedroom,"the hallway (Document[159]):""Mary journeyed to the",Where is the football? 
+498,hallway,"the hallway (Document[119]):""Mary went to the hall",Where is the milk? 
+499,hallway,"the hallway (Document[119]):""Alan moved to the gar",Where is the milk? 
+500,office,"the garden (Document[10]):""Charlie went to the garden . Charlie",Where is the apple? 
+501,office,"the hallway (Document[186]):""Charlie went to the kitchen",Where is the apple? 
+502,garden,"bathroom (Document[120]):""Charlie went to the kitchen",Where is the milk? 
+503,garden,"the garden (Document[12]):""Mary went to the office . The",Where is the milk? 
+504,bedroom,"the hallway (Document[80]):""Mary journeyed to the office",Where is the milk? 
+505,bedroom,"the hallway (Document[111]):""Ellen went to the",Where is the milk? 
+506,bedroom,"the garden (Document[173]):""Mary went to the garden .",Where is the apple? 
+507,kitchen,"the garden (Document[209]):""Sandra grabbed the football",Where is the football? 
+508,kitchen,"The hallway (Document[2]):""Daniel went back to the hallway .",Where is the milk? 
+509,kitchen,"the hallway (Document[11]):""Daniel went back to the hallway",Where is the milk? 
+510,office,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+511,office,"the balcony (Document[119]):""Charlie went to the",Where is the football? 
+512,office,"the hallway (Document[109]):""Jennie should go to",Where is the football? 
+513,office,"the office (Document[119]):""Sebastian fixed himself firm",Where is the milk? 
+514,office,"the hallway (Document[17]):""Jennie thought he was gone",Where is the football? 
+515,office,"the garden (Document[129]):""Mary went to the garden .",Where is the apple? 
+516,office,"The apple is in the garden. (Answer)
+
+<context>
+""Pol",Where is the apple? 
+517,office,"The office (Answer: The apple is in the office)
+
+Question: Where is",Where is the apple? 
+518,hallway,"The apple is in the garden.
+
+<answer>The apple is in the garden",Where is the apple? 
+519,bathroom,"The hallway (Document[159]):""Mary went to the hall",Where is the apple? 
+520,office,"The office (Document[159]):""Charlie went to the kitchen .",Where is the apple? 
+521,office,"the garden (Document[109]):""Charlie went to the kitchen .",Where is the apple? 
+522,office,"the balcony (Answer)
+
+Charlie went to the kitchen. Charlie got",Where is the apple? 
+523,hallway,"The hallway (Document[119]):""Daniel went to the hallway",Where is the football? 
+524,garden,"The Brownies' fancy ball (Document[119]):""The Brownies",Where is the football? 
+525,hallway,"the hallway (Document[101]):""Frank Howard promised at some",Where is the football? 
+526,hallway,"the office (Document[102]):""Mary went back to the office",Where is the milk? 
+527,garden,"the garden (Document[100]):""The King and Queen said nothing to",Where is the milk? 
+528,office,"the office (Document[109]):""Mary went back to the office",Where is the apple? 
+529,office,"the office (Document[109]):""The King's natural benevol",Where is the apple? 
+530,bedroom,"the hallway (Document[159]):""Harry journeyed to the",Where is the football? 
+531,bedroom,"the office (Document[18]):""Harry journeyed to the office .",Where is the apple? 
+532,hallway,"the hallway (Document[119]):""Margit went to the",Where is the football? 
+533,hallway,"the barn (Document[10]):""Margit had unfolded her",Where is the milk? 
+534,hallway,"The hallway (Document[11]):""Daniel went to the hallway .",Where is the milk? 
+535,kitchen,"Donovan's (Document[129]):""Donovan did not see",Where is the apple? 
+536,kitchen,"the office (Document[11]):""Charlie went to the kitchen . Charlie",Where is the apple? 
+537,kitchen,"the office (Document[159]):""John went to the office . Mary",Where is the milk? 
+538,kitchen,"The office (Document[119]):""Charlie went to the office .",Where is the milk? 
+539,garden,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+540,office,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+541,office,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+542,garden,"the office (Document[12]):""The Beaubien put the vote",Where is the milk? 
+543,bathroom,"the garden (Document[13]):""Mary went to the garden . CHAPTER",Where is the apple? 
+544,bedroom,"The bathroom (Document[109]):""Sandra went back to the",Where is the apple? 
+545,office,"The office (Document[119]):""Sandra went to the office .",Where is the milk? 
+546,bathroom,"the bathroom (Document[119]):""Sandra put down the milk",Where is the milk? 
+547,bathroom,"the kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+548,bathroom,"the bathroom (Document[119]):""Sandra went to the bath",Where is the milk? 
+549,hallway,"the office (Document[196]):""Charlie went to the kitchen .",Where is the football? 
+550,bathroom,"the dining room (Document[10]):""I came downstairs this",Where is the apple? 
+551,bathroom,"the hallway (Document[159]):""Sandra put down the football",Where is the football? 
+552,hallway,"the hallway (Document[12]):""Mary went back to the hall",Where is the apple? 
+553,hallway,"the hallway (Document[109]):""Mary moved to the hall",Where is the apple? 
+554,bathroom,"The office (Document[51]):""Mary went back to the office .",Where is the milk? 
+555,garden,"The garden (Document[16]):""Mary went back to the garden .",Where is the milk? 
+556,office,"The office (Answer: The milk is in the office.)
+
+<context>",Where is the milk? 
+557,office,"The office (Document[119]):""Mary went back to the office",Where is the milk? 
+558,bathroom,"The office (Document[10]):""Mary moved to the office . Mary",Where is the milk? 
+559,office,"the balcony (Document[15]):""Charlie went to the kitchen",Where is the apple? 
+560,bedroom,"the bathroom (Document[41]):""Mary journeyed to the bath",Where is the milk? 
+561,bathroom,"the balcony (Document[45]):""Berlin, 18",Where is the apple? 
+562,bathroom,"The office (Document[129]):""Mary journeyed to the office",Where is the apple? 
+563,bathroom,"the office (Document[129]):""Mary went to the office .",Where is the apple? 
+564,garden,"The office (Document[12]):""John went to the bathroom . The",Where is the football? 
+565,office,"The office (Document[15]):""John went back to the office . It",Where is the football? 
+566,bedroom,"the bathroom (Document[129]):""Sandra moved to the bath",Where is the milk? 
+567,hallway,"the garden (Document[109]):""Charlie went to the kitchen .",Where is the apple? 
+568,office,"The office (Document[159]):""The noises she contended were",Where is the apple? 
+569,bedroom,"the bathroom (Document[119]):""Sandra put down the milk",Where is the milk? 
+570,bedroom,"The office (Document[119]):""Sandra went to the office .",Where is the milk? 
+571,bedroom,"The bathroom (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+572,bathroom,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the apple? 
+573,office,"the office (Document[119]):""Sandra went to the office .",Where is the milk? 
+574,office,"the bathroom (Document[119]):""Mary journeyed to the",Where is the milk? 
+575,bathroom,"The milk is in the hallway (Document[119]):""The milk",Where is the milk? 
+576,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+577,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+578,bathroom,"the hallway (Document[119]):""John left the milk . (",Where is the milk? 
+579,bathroom,"the hallway (Document[119]):""Mrs. John got the",Where is the milk? 
+580,hallway,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+581,office,"the garden (Document[16]):""Chris journeyed to the garden .",Where is the football? 
+582,office,"the hallway (Document[24]):""Charlie went to the kitchen .",Where is the football? 
+583,garden,"The bathroom (Document[35]):""Mary went to the bathroom",Where is the milk? 
+584,garden,"the office (Document[10]):""John left the milk there . Here the",Where is the milk? 
+585,garden,"Fortyforefoot's castle (Document[119]):""F",Where is the milk? 
+586,garden,"The pantry (Document[14]):""Jimmieboy and the major",Where is the milk? 
+587,garden,"the garden (Document[109]):""Sandra journeyed to the garden",Where is the milk? 
+588,garden,"the garden (Document[119]):""Sandra took the milk there .",Where is the milk? 
+589,garden,"the hallway (Document[10]):""Mary went to the hallway",Where is the milk? 
+590,bedroom,"the bathroom (Document[109]):""Eli had a little brother",Where is the apple? 
+591,kitchen,"the kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+592,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where is the apple? 
+593,bedroom,"the hallway (Document[119]):""Daniel went to the hallway",Where is the apple? 
+594,bedroom,"the hallway (Document[32]):""John went to the kitchen . """,Where is the apple? 
+595,hallway,"The hallway (Document[101]):""Mary went back to the",Where is the milk? 
+596,hallway,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+597,hallway,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+598,kitchen,"the hallway (Document[119]):""John went back to the hall",Where is the football? 
+599,garden,"the hallway (Document[119]):""John went back to the hall",Where is the apple? 
+600,kitchen,"The apple is in the garden. (Answer)
+
+<context>
+The apple",Where is the apple? 
+601,kitchen,"The apple is in the garden. (Document[10]):""Daniel went to",Where is the apple? 
+602,hallway,"The garden (Answer: The football is in the garden.)
+
+<context>",Where is the football? 
+603,garden,"The garden (Document[150]):""Charlie went to the kitchen .",Where is the apple? 
+604,hallway,"the garden (Document[119]):""Sandra put down the football there",Where is the football? 
+605,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+606,bedroom,"the office (Document[36]):""Jennie had been worrying about",Where is the milk? 
+607,bedroom,"the office (Document[159]):""Frank Merriwell and Bar",Where is the milk? 
+608,bathroom,"the office (Document[20]):""John put down the milk .""",Where is the milk? 
+609,hallway,"the garden (Document[176]):""Another protest
+    against excess",Where is the apple? 
+610,garden,in the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+611,garden,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+612,garden,"The apple is in the office. (Answer)
+
+<context>
+""You",Where is the apple? 
+613,garden,"the parsonage (Document[129]):""Margit went to",Where is the apple? 
+614,garden,"the office (Document[119]):""Margit went to the office",Where is the apple? 
+615,garden,"the garden (Document[129]):""Daniel journeyed to the garden .",Where is the apple? 
+616,hallway,"the hallway (Document[119]):""Daniel journeyed to the hall",Where is the apple? 
+617,hallway,"the hallway (Document[129]):""John journeyed to the hall",Where is the apple? 
+618,garden,"the hallway (Document[119]):""John put down the football there",Where is the football? 
+619,kitchen,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+620,bedroom,"the hallway (Document[10]):""John went to the hallway .",Where is the football? 
+621,bedroom,"the hallway (Document[119]):""Toto, the little dog",Where is the football? 
+622,bedroom,"the hallway (Document[44]):""John went to the hallway .",Where is the football? 
+623,bathroom,"the bathroom (Document[10]):""Charlie went to the kitchen .",Where is the apple? 
+624,garden,"the bathroom (Document[119]):""Charlie went to the kitchen",Where is the apple? 
+625,kitchen,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+626,kitchen,"The football is in the hallway (Document[180]):""Derr",Where is the football? 
+627,kitchen,"the bathroom (Document[109]):""Mary went to the bath",Where is the milk? 
+628,bathroom,"the bathroom (Document[10]):""Charlie went to the kitchen .",Where is the milk? 
+629,bathroom,"the bathroom (Document[129]):""Daniel went to the bathroom",Where is the milk? 
+630,bathroom,"the garden (Document[7]):""Rose and Blanche were on either side",Where is the football? 
+631,kitchen,"the garden (Document[13]):""John got the apple there . They are",Where is the apple? 
+632,kitchen,"balcony (Document[10]):""Charlie went to the kitchen .",Where is the apple? 
+633,kitchen,"The bathroom (Document[119]):""Sandra moved to the bath",Where is the apple? 
+634,office,"The office (Document[11]):""John went back to the office . There",Where is the milk? 
+635,garden,"the hallway (Document[119]):""Mary journeyed to the",Where is the football? 
+636,garden,"the hallway (Document[119]):""Rudolph's mission",Where is the football? 
+637,garden,"the nunnery (Document[119]):""Rudolph, Hey",Where is the milk? 
+638,garden,"the hallway (Document[1597]):""Mary journeyed to",Where is the milk? 
+639,garden,"the hallway (Document[36]):""Mary went back to the hall",Where is the milk? 
+640,office,"the office (Document[36]):""Sandra left the milk there .""",Where is the milk? 
+641,office,"the hallway (Document[50]):""Alan moved to the garage",Where is the apple? 
+642,bathroom,"the hallway (Document[119]):""Ruby comes into the drawing",Where is the milk? 
+643,bathroom,"the hallway (Document[119]):""Sandra travelled to the",Where is the milk? 
+644,office,"the hallway (Document[10]):""Alan moved to the garage",Where is the apple? 
+645,garden,"the hallway (Document[12]):""John went back to the hallway",Where is the football? 
+646,office,"the office (Document[10]):""John went back to the hallway .",Where is the milk? 
+647,office,"the office (Document[10]):""Charlie went to the office . Where",Where is the milk? 
+648,garden,The football is in the hallway (Answer: The football is in the hallway),Where is the football? 
+649,garden,"the hallway (Document[39]):""Daniel got the football there . We",Where is the football? 
+650,office,"the hallway (Document[119]):""Daniel grabbed the apple",Where is the apple? 
+651,office,"The office (Document[129]):""Daniel went back to the garden .",Where is the apple? 
+652,garden,The football is in the hallway. (Answer: The football is in the hallway,Where is the football? 
+653,garden,"the hallway (Document[119]):""Daniel went back to the hall",Where is the football? 
+654,garden,"The office (Document[119]):""Daniel moved to the office . """,Where is the football? 
+655,garden,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+656,garden,"The apple is in the garden (Document[109]):""Jimmie",Where is the apple? 
+657,bathroom,"the garden (Document[300]):""Mary went to the garden .",Where is the football? 
+658,garden,"the garden (Document[459]):""Daniel journeyed to the garden .",Where is the apple? 
+659,garden,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+660,office,"in the office (Document[10]):""Charlie went to the kitchen .",Where is the football? 
+661,office,"the garden (Document[30]):""Charlie went to the kitchen . Charlie",Where is the football? 
+662,hallway,"The office (Document[309]):""Alan moved to the garage",Where is the apple? 
+663,hallway,"The apple is in the office. (Answer)
+
+The apple is in the office",Where is the apple? 
+664,hallway,"the office (Document[129]):""Eleanor had clung firm",Where is the apple? 
+665,kitchen,"the garden (Document[159]):""Ruby and Dick are in the",Where is the apple? 
+666,garden,"the paddock (Document[119]):""Ruby goes about her",Where is the football? 
+667,garden,"the hallway (Document[129]):""Mary went to the hall",Where is the milk? 
+668,hallway,"the spare room (Document[119]):""The next morning, as soon",Where is the apple? 
+669,hallway,"The Maples (Document[119]):""Mary went back to the",Where is the apple? 
+670,bathroom,"the garden (Document[119]):""The long supper table was laid",Where is the football? 
+671,bathroom,"the garden (Document[10]):""Daniel went to the garden . To thee",Where is the football? 
+672,bathroom,"the garden (Document[11]):""John journeyed to the garden . What",Where is the football? 
+673,bathroom,"the office (Document[96]):""The color is given with green and white",Where is the milk? 
+674,bathroom,"the office (Document[100]):""Daniel went to the office . One",Where is the milk? 
+675,garden,"the garden (Document[39]):""John grabbed the football there .",Where is the football? 
+676,garden,"the garden (Document[10]):""Charlie went to the kitchen . Charlie",Where is the football? 
+677,garden,"the garden (Document[19]):""John grabbed the football there .",Where is the football? 
+678,bathroom,"the hallway (Document[86]):""Mary went back to the bed",Where is the milk? 
+679,bathroom,"the hallway (Document[675]):""Mary went back to the",Where is the milk? 
+680,bedroom,"the bedroom (Document[5]):""John travelled to the bedroom .",Where is the milk? 
+681,bedroom,"the garden (Document[13]):""John left the football there .""",Where is the football? 
+682,bedroom,"the hallway (Document[562]):""John took the milk there .",Where is the milk? 
+683,bathroom,"in the hallway (Document[570]):""John grabbed the",Where is the football? 
+684,office,"the garden (Document[1882-83]):""Charlie went",Where is the football? 
+685,kitchen,"the office (Document[109]):""Alan moved to the garage",Where is the apple? 
+686,garden,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the football? 
+687,garden,"the garden (Document[129]):""Charlie went to the kitchen .",Where is the football? 
+688,bathroom,"the hallway (Document[19]):""John grabbed the football there",Where is the football? 
+689,bathroom,"the garden (Document[20]):""Charlie went to the kitchen . Charlie",Where is the football? 
+690,bedroom,"the bedroom (Document[109]):""Mary picked up the apple",Where is the apple? 
+691,bedroom,"The bedroom (Document[11]):""Mary went back to the bed",Where is the apple? 
+692,bedroom,"the bedroom (Document[159]):""Mary went back to the",Where is the apple? 
+693,office,"the office (Document[119]):""Mary picked up the apple there",Where is the milk? 
+694,office,"the office (Document[119]):""Mary went back to the bed",Where is the milk? 
+695,bathroom,"the office (Document[109]):""Jimmieboy climbed eager",Where is the apple? 
+696,bathroom,"The office (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+697,kitchen,"the bathroom (Document[72]):""Mary travelled to the bed",Where is the football? 
+698,kitchen,"the bedroom (Document[62]):""Mary grabbed the football",Where is the football? 
+699,garden,"the office (Document[37]):""Charlie went to the kitchen . Charlie",Where is the football? 
+700,bathroom,"the hallway (Document[52]):""Mary moved to the hallway",Where is the milk? 
+701,bathroom,"the bathroom (Document[119]):""Daniel travelled to the bath",Where is the milk? 
+702,bathroom,"the bathroom (Document[119]):""Magnificent class he",Where is the milk? 
+703,bathroom,"the bathroom (Document[119]):""Daniel put down the milk there",Where is the milk? 
+704,office,"the hallway (Document[119]):""Mary moved to the hall",Where is the apple? 
+705,bedroom,"The football is in the balcony.
+
+Answer: The football is in the",Where is the football? 
+706,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+707,bedroom,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the football? 
+708,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+709,bedroom,balcony (Answer: The bottle is in the balcony. The football,Where is the football? 
+710,garden,"the hallway (Document[119]):""Mary picked up the milk",Where is the milk? 
+711,garden,"the garden (Document[119]):""Sandra picked up the apple there",Where is the apple? 
+712,garden,"the garden (Document[129]):""Margaret journeyed to the",Where is the apple? 
+713,garden,"the garden (Document[10]):""Alan moved to the garage .",Where is the apple? 
+714,garden,"the office (Document[109]):""Charlie went to the office .",Where is the milk? 
+715,office,"the hallway (Document[129]):""John took the apple there .",Where is the milk? 
+716,office,"the office (Document[129]):""Daniel went back to the office .",Where is the milk? 
+717,kitchen,"the bathroom (Document[12]):""John journeyed to the bathroom",Where is the football? 
+718,kitchen,"the garden (Document[119]):""Mary went back to the garden",Where is the football? 
+719,office,The milk is in the office. (Answer: The milk is in the office.),Where is the milk? 
+720,garden,"the hallway (Document[109]):""Mary dropped the apple .",Where is the apple? 
+721,garden,"The office (Document[10]):""The dismasted ship, drifting",Where is the apple? 
+722,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+723,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+724,office,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+725,office,"the garden (Document[11]):""Frank and Barney were placed on",Where is the football? 
+726,office,"The office (Document[119]):""The boys were astounded by this",Where is the football? 
+727,kitchen,"the hallway (Document[109]):""The day passed, and the",Where is the football? 
+728,kitchen,"The office (Document[109]):""Mary went back to the office",Where is the apple? 
+729,kitchen,"the garden (Document[11]):""Mary went back to the garden .",Where is the football? 
+730,bedroom,"The milk is in the bedroom. (Answer)
+
+<answer>The milk",Where is the milk? 
+731,bathroom,"The apple is in the balcony (Answer)
+
+<context>
+""",Where is the apple? 
+732,bathroom,"the garden (Document[119]):""Sandra went to the garden .",Where is the football? 
+733,bathroom,"the garden (Document[119]):""Mary journeyed to the garden",Where is the milk? 
+734,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+735,bathroom,"The bathroom (Document[10]):""Mary grabbed the milk",Where is the milk? 
+736,bathroom,"the hallway (Document[10]):""John put down the apple . The",Where is the football? 
+737,bathroom,"the hallway (Document[109]):""Mary went to the hall",Where is the milk? 
+738,bathroom,"the hallway (Document[488]):""Mary went to the hall",Where is the milk? 
+739,bathroom,"The bathroom (Document[603]):""Mary went to the bath",Where is the milk? 
+740,garden,"the garden (Document[670]):""Sandra moved to the garden .",Where is the apple? 
+741,garden,"the garden (Document[25]):""Sandra grabbed the apple there",Where is the apple? 
+742,bedroom,"The garden (Document[48]):""John went back to the garden . The",Where is the football? 
+743,bathroom,"the hallway (Document[46]):""John went to the hallway .",Where is the football? 
+744,bathroom,"the hallway (Document[47]):""John went to the hallway .",Where is the football? 
+745,hallway,"the hallway (Document[15]):""Mary journeyed to the hall",Where is the milk? 
+746,hallway,"bathroom (Document[109]):""Mary journeyed to the",Where is the milk? 
+747,hallway,"the hallway (Document[119]):""Mary journeyed to the",Where is the milk? 
+748,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+749,hallway,"the hallway (Document[159]):""Mary journeyed to the",Where is the milk? 
+750,office,"the garden (Document[15]):""Charlie went to the kitchen . Charlie",Where is the football? 
+751,hallway,"the garden (Document[10]):""Charlie went to the kitchen . Charlie",Where is the football? 
+752,garden,"the hallway (Document[13]):""Charlie went to the kitchen .",Where is the football? 
+753,garden,"the hallway (Document[129]):""Charlie went to the kitchen",Where is the football? 
+754,garden,"the hallway (Document[129]):""Charlie went to the kitchen",Where is the football? 
+755,kitchen,"the hallway (Document[119]):""Mary went to the hall",Where is the apple? 
+756,kitchen,"The hallway (Document[129]):""The man feels his own superior",Where is the apple? 
+757,bedroom,"in the garden (Answer: The football is in the garden.)
+
+<context>",Where is the football? 
+758,bedroom,"the garden (Document[119]):""Sandra went to the garden .",Where is the football? 
+759,bedroom,"the garden (Daniel went to the garden)
+</example>
+
+The football is",Where is the football? 
+760,kitchen,"The garden (Document[507]):""Sandra picked up the apple there",Where is the apple? 
+761,office,"the garden (Document[119]):""Mary picked up the milk there",Where is the milk? 
+762,office,"the garden (Document[19]):""Mary went to the garden . """,Where is the milk? 
+763,kitchen,"The garden (Document[129]):""Sandra put down the apple .",Where is the apple? 
+764,bathroom,"the garden (Document[10]):""Sandra went to the garden . Mary",Where is the apple? 
+765,kitchen,"the balcony (Document[10]):""Charlie went to the kitchen",Where is the milk? 
+766,kitchen,"the bathroom (Document[12]):""Sandra picked up the milk there",Where is the milk? 
+767,bathroom,"the bathroom (Document[119]):""Alan moved to the gar",Where is the apple? 
+768,bathroom,"the hallway (Document[119]):""Alan moved to the gar",Where is the apple? 
+769,kitchen,"the office (Document[10]):""Sandra picked up the milk there .",Where is the milk? 
+770,garden,"the garden (Document[129]):""John journeyed to the garden .",Where is the football? 
+771,garden,"the hallway (Document[109]):""Charlie went to the kitchen",Where is the football? 
+772,garden,"the garden (Document[10]):""Jane went to the garden . John",Where is the football? 
+773,garden,"the hallway (Document[51]):""John journeyed to the hallway",Where is the football? 
+774,garden,"the garden (Document[52]):""John went to the garden . Barr",Where is the football? 
+775,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+776,office,"the hallway (Document[10]):""Daniel went back to the hallway",Where is the football? 
+777,bathroom,"The office (Document[12]):""The whole train movement, both of the",Where is the apple? 
+778,office,"hallway (Document[102]):""Daniel journeyed to the hallway",Where is the football? 
+779,office,"The office (Document[129]):""Mary journeyed to the bed",Where is the apple? 
+780,bathroom,"the garden (Document[119]):""Mary journeyed to the bath",Where is the apple? 
+781,garden,"the hallway (Document[109]):""Mary left the apple .",Where is the milk? 
+782,bathroom,"the hallway (Document[119]):""Mary journeyed to the",Where is the apple? 
+783,garden,"the hallway (Document[109]):""John went back to the hall",Where is the football? 
+784,kitchen,"the garden (Document[109]):""Toto and his companions walked",Where is the football? 
+785,office,the balcony (Answer: The football is in the balcony),Where is the football? 
+786,office,"the hallway (Document[119]):""George Leman, the",Where is the football? 
+787,hallway,"The office (Document[119]):""Sandra went to the office .",Where is the apple? 
+788,bathroom,"the hallway (Document[119]):""Sandra went to the hall",Where is the milk? 
+789,bathroom,"the hallway (Document[119]):""Diego
+stood like a",Where is the milk? 
+790,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+791,bedroom,"the bedroom (Document[109]):""The Union forces, including the",Where is the football? 
+792,bathroom,"The apple is in the bathroom. (Document[12]):""Charlie",Where is the apple? 
+793,bathroom,"the garden (Document[10]):""John went to the garden . I will",Where is the apple? 
+794,office,"the bathroom (Document[119]):""Sandra went to the garden",Where is the milk? 
+795,hallway,"the garden (Document[119]):""The Tin Woodman is a",Where is the apple? 
+796,office,"in the hallway (Document[119]):""Toto brought the pan",Where is the football? 
+797,hallway,"the hallway (Document[129]):""Charlie went to the kitchen",Where is the football? 
+798,hallway,"the hallway (Document[119]):""Charlie went to the kitchen",Where is the football? 
+799,hallway,"the hallway (Document[109]):""Geert: ""Oh,",Where is the football? 
+800,office,"the courtyard of the hospital (Document[109]):""Winter",Where is the apple? 
+801,office,"the balcony (Answer)
+
+<example>
+Charlie went to the",Where is the apple? 
+802,kitchen,"the office (Document[119]):""The apple is in the office.""",Where is the apple? 
+803,kitchen,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+804,kitchen,"The hallway (Document[129]):""Sandra journeyed to the",Where is the milk? 
+805,bedroom,"the hallway (Document[69]):""John went to the bathroom .",Where is the football? 
+806,garden,"The apple is in the garden. (Answer)
+
+<example>
+Charlie",Where is the apple? 
+807,office,"the garden (Document[10]):""Mary journeyed to the garden .",Where is the apple? 
+808,office,"hallway (Document[119]):""Mary journeyed to the hall",Where is the apple? 
+809,office,"the garden (Document[129]):""John went back to the garden .",Where is the apple? 
+810,bathroom,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+811,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+812,hallway,"the hallway (Document[23]):""Daniel went back to the bathroom",Where is the football? 
+813,hallway,"the hallway (Document[10]):""Charlie went to the kitchen .",Where is the football? 
+814,kitchen,"the hallway (Document[29]):""Mary went back to the hall",Where is the milk? 
+815,garden,"the hallway (Document[15]):""Mary journeyed to the hall",Where is the apple? 
+816,garden,"the hallway (Document[186]):""Charlie went to the kitchen",Where is the apple? 
+817,office,"The bathroom (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+818,garden,"the hallway (Document[11]):""Mary went back to the hall",Where is the milk? 
+819,garden,"the hallway (Document[12]):""Charlie went to the kitchen .",Where is the apple? 
+820,office,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+821,office,"the garden (Document[119]):""SIR TRISTRAM went",Where is the football? 
+822,bedroom,"The garden (Document[119]):""The second scene is the Morning",Where is the apple? 
+823,bedroom,"the office (Document[32]):""The Deserter
+
+About the",Where is the apple? 
+824,bedroom,"the garden (Document[119]):""Mary went to the garden .",Where is the apple? 
+825,office,"the hallway (Document[65]):""Mary went to the hallway",Where is the milk? 
+826,office,"Answer: The milk is in the hallway.
+</example>
+
+<context>",Where is the milk? 
+827,kitchen,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+828,kitchen,"the garden (Document[119]):""Daniel went back to the garden .",Where is the apple? 
+829,kitchen,"The apple is in the garden. (Answer)
+
+<context>
+""The",Where is the apple? 
+830,hallway,"the balcony (Document[88]):""Charlie went to the kitchen",Where is the football? 
+831,garden,"the hallway (Document[128]):""Charlie went to the kitchen",Where is the milk? 
+832,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+833,bedroom,"the hallway (Document[409]):""John went to the hallway",Where is the football? 
+834,bedroom,The football is in the hallway. (Answer: The football is in the hallway,Where is the football? 
+835,garden,"The bedroom (Document[109]):""Mary went to the kitchen",Where is the milk? 
+836,garden,The balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+837,garden,"the hallway (Document[11]):""Daniel moved to the bedroom .",Where is the milk? 
+838,kitchen,"the hallway (Document[109]):""John went back to the hall",Where is the football? 
+839,bathroom,"the garden (Document[109]):""John went back to the garden .",Where is the football? 
+840,bedroom,"the garden (Document[10]):""Charlie went to the kitchen . Charlie",Where is the milk? 
+841,bedroom,"the bathroom (Document[129]):""Alan moved to the gar",Where is the football? 
+842,bedroom,"the garden (Document[119]):""Alan moved to the garage",Where is the football? 
+843,office,"the bathroom (Document[119]):""John went to the bathroom",Where is the apple? 
+844,office,"the garden (Document[119]):""Jessica had begun calmly",Where is the apple? 
+845,office,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+846,office,"the office (Document[129]):""Daniel grabbed the football there",Where is the football? 
+847,kitchen,"the garden (Document[109]):""John went to the garden . The",Where is the apple? 
+848,office,"the garden (Document[119]):""Mary journeyed to the garden",Where is the football? 
+849,bedroom,"The kitchen (Answer: The milk is in the kitchen.)
+
+<context>",Where is the milk? 
+850,kitchen,"The bedroom (Document[119]):""Charlie went to the kitchen",Where is the football? 
+851,bathroom,"The football is in the hallway. (Answer)
+
+<context>
+The",Where is the football? 
+852,office,"The football is in the hallway. (Document[129]):""Char",Where is the football? 
+853,office,"the hallway (Document[119]):""Daniel went back to the hall",Where is the football? 
+854,bedroom,"The hallway (Document[11]):""Paul took place in May,",Where is the football? 
+855,kitchen,The apple is in the garden. (Answer: The apple is in the garden.),Where is the apple? 
+856,office,"The office (Document[119]):""Charlie went to the kitchen .",Where is the apple? 
+857,hallway,"the office (Document[119]):""Mary picked up the football there",Where is the apple? 
+858,bedroom,"The football is in the hallway. (Answer)
+
+<context>
+The",Where is the football? 
+859,bedroom,"The office (Document[11]):""The friends and followers of that prince",Where is the apple? 
+860,bathroom,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+861,hallway,"The bathroom (Document[119]):""Charlie went to the kitchen",Where is the milk? 
+862,hallway,"the hallway (Document[119]):""Mary went back to the",Where is the milk? 
+863,hallway,"The milk is in the garden. (Answer)
+
+<context>
+The Brown",Where is the milk? 
+864,hallway,"The milk is in the hallway (Document[119]):""Mary",Where is the milk? 
+865,hallway,"Sandra picked up the football there. (Chapter XV)
+
+<answer>",Where is the football? 
+866,hallway,"on the couch (Document[119]):""Jimmy was beginning",Where is the football? 
+867,hallway,"the office (Document[119]):""Amy and Burt are in",Where is the football? 
+868,bathroom,"The office (Document[109]):""Burt said but few and very",Where is the football? 
+869,office,"The office (Document[150]):""Mary grabbed the milk",Where is the apple? 
+870,kitchen,"the garden (Document[190]):""Sandra moved to the garden .",Where is the milk? 
+871,garden,"the balcony (Document[347]):""Charlie went to the",Where is the football? 
+872,garden,"the balcony (Document[109]):""Charlie went to the",Where is the football? 
+873,garden,"the hallway (Document[119]):""John went to the hallway",Where is the football? 
+874,garden,"hallway (Document[11]):""John went to the hallway . The",Where is the football? 
+875,garden,"the hallway (Document[11]):""Alan moved to the garage",Where is the football? 
+876,bathroom,"the hallway (Document[12]):""BOS . Wait a moment till",Where is the football? 
+877,office,"the hallway (Document[129]):""Mary went to the hall",Where is the milk? 
+878,bathroom,"the office (Document[35]):""Daniel dropped the milk . Henceforth",Where is the apple? 
+879,bathroom,"hallway (Document[42]):""John picked up the football there . A",Where is the football? 
+880,office,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+881,office,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+882,kitchen,"the garden (Document[119]):""Charlie went to the kitchen .",Where is the football? 
+883,bathroom,"the bedroom (Document[119]):""Cyril sat weighing",Where is the milk? 
+884,bathroom,the balcony (Answer: The bottle is in the balcony. The,Where is the apple? 
+885,bedroom,"the garden (Document[119]):""Mandy went to the garden .",Where is the milk? 
+886,bedroom,"Father Duff's room (Document[159]):""Father",Where is the milk? 
+887,bedroom,"The kitchen (Document[119]):""Mary went to the hallway",Where is the milk? 
+888,bedroom,"the kitchen (Document[15]):""Charlie went to the kitchen . Charlie",Where is the milk? 
+889,bedroom,"the garden (Document[109]):""Charlie went to the garden .",Where is the apple? 
+890,hallway,"the kitchen (Document[119]):""Charlie went to the kitchen .",Where is the milk? 
+891,hallway,"the hallway (Document[129]):""Mary went to the hall",Where is the apple? 
+892,hallway,"the bathroom (Document[139]):""Mary went to the hall",Where is the milk? 
+893,hallway,"The bathroom (Document[119]):""Mary went to the hall",Where is the milk? 
+894,garden,"The office (Document[171]):""The apple is in the office.""",Where is the apple? 
+895,garden,The balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+896,garden,"the balcony (Document[258]):""Charlie went to the",Where is the milk? 
+897,garden,"the office (Document[119]):""John went to the office . Mary",Where is the milk? 
+898,garden,"The office (Document[119]):""John went to the office . Daniel",Where is the milk? 
+899,garden,"the garden (Document[126]):""Daniel put down the milk there .",Where is the milk? 
+900,bedroom,"the kitchen (Document[190]):""Charlie went to the kitchen .",Where is the milk? 
+901,bedroom,"The bedroom (Document[195]):""Mary journeyed to the",Where is the milk? 
+902,bedroom,"the office (Document[119]):""Mary journeyed to the bed",Where is the milk? 
+903,bedroom,"The milk is in the hallway. (Answer)
+
+<context>
+The",Where is the milk? 
+904,bedroom,"the office (Document[119]):""Mary went to the office .",Where is the milk? 
+905,hallway,The apple is in the office. (Answer: The apple is in the office.),Where is the apple? 
+906,hallway,"the office (Document[109]):""Sandra journeyed to the bed",Where is the apple? 
+907,kitchen,"the hallway (Document[119]):""Mary put down the football",Where is the football? 
+908,hallway,"the hallway (Document[10]):""Virginia journeyed to",Where is the apple? 
+909,garden,"the hallway (Document[119]):""Mary picked up the football",Where is the football? 
+910,office,"the garage (Document[119]):""Alan moved to the gar",Where is the milk? 
+911,office,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+912,bathroom,"Sandra left the football (Document[11]):""Sandra left the football",Where is the football? 
+913,bathroom,"the office (Document[119]):""Sandra grabbed the football",Where is the football? 
+914,garden,"the garden (Document[119]):""Mary went to the garden .",Where is the apple? 
+915,hallway,"the balcony (Document[109]):""Charlie went to the",Where is the apple? 
+916,hallway,"the hallway (Document[119]):""John journeyed to the hall",Where is the milk? 
+917,hallway,"The office (Document[119]):""Mary went back to the office",Where is the apple? 
+918,hallway,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+919,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+920,kitchen,"the hallway (Document[11]):""Daniel went back to the kitchen .",Where is the milk? 
+921,kitchen,"the balcony (Document[109]):""Charlie went to the",Where is the milk? 
+922,bathroom,"the cell door (Document[109]):""HANNAH. The",Where is the milk? 
+923,bathroom,"the hallway (Document[139]):""The DEAN . I will",Where is the milk? 
+924,bathroom,"the hallway (Document[15]):""Daniel went back to the hallway",Where is the milk? 
+925,bedroom,"The football is in the balcony.
+
+<answer>The football is in",Where is the football? 
+926,bedroom,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 
+927,garden,"the garden (Document[659]):""The place where a person was",Where is the apple? 
+928,garden,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+929,garden,"the hallway (Document[119]):""Mary journeyed to the",Where is the milk? 
+930,hallway,"the hallway (Document[109]):""Sandra went back to the",Where is the milk? 
+931,hallway,"The hallway (Document[109]):""Sandra went back to the",Where is the milk? 
+932,bedroom,"The apple is in the garden.
+
+<context>
+""I'm a",Where is the apple? 
+933,bedroom,"the hallway (Document[119]):""The next morning, Eile",Where is the apple? 
+934,garden,"the bedroom (Document[10]):""Mary journeyed to the bath",Where is the milk? 
+935,garden,"Mary dropped the apple (Document[109]):""Mary dropped the",Where is the apple? 
+936,garden,"the garden (Document[119]):""Charlie went to the garden .",Where is the apple? 
+937,garden,"the garden (Document[109]):""Mary journeyed to the garden",Where is the apple? 
+938,bathroom,"the garden (Document[10]):""Charlie went to the kitchen . Charlie",Where is the football? 
+939,hallway,"the hallway (Document[11]):""Mary went to the hallway",Where is the football? 
+940,bedroom,"the office (Document[129]):""The apple is in the office.""",Where is the apple? 
+941,bedroom,"the balcony (Answer)
+
+<example>
+Charlie went to the",Where is the apple? 
+942,office,"The balcony (Document[109]):""Charlie went to the",Where is the football? 
+943,office,"The football is in the garden. (Answer)
+
+<context>
+""I",Where is the football? 
+944,office,"the office (Document[119]):""Sandra went back to the office",Where is the apple? 
+945,bedroom,"the office (Document[67]):""Mary journeyed to the office .",Where is the apple? 
+946,bedroom,"the office (Document[119]):""Mary journeyed to the office",Where is the apple? 
+947,kitchen,"The hallway (Document[72]):""Sandra journeyed to the hall",Where is the milk? 
+948,garden,"the garden (Document[75]):""Mary journeyed to the garden .",Where is the football? 
+949,bathroom,"the office (Document[95]):""John went to the office . He got",Where is the football? 
+950,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+951,hallway,"The hallway (Document[119]):""Sandra went back to the",Where is the football? 
+952,hallway,"in the garden (Document[119]):""Jimmieboy and the",Where is the football? 
+953,garden,"the hallway (Document[119]):""Sandra went back to the",Where is the milk? 
+954,garden,"the hallway (Document[129]):""Mary journeyed to the",Where is the milk? 
+955,bedroom,"Clarendon (Document[15]):""Macloud found Miss Car",Where is the football? 
+956,bedroom,the balcony (Answer: The bottle is in the balcony.),Where is the football? 
+957,bedroom,"in the balcony (Answer)
+
+Charlie went to the kitchen. Charlie",Where is the football? 
+958,bedroom,"The football is in the balcony. (Answer)
+
+""I guess I",Where is the football? 
+959,bedroom,the balcony (Answer: Charlie got a bottle. Charlie moved to the bal,Where is the football? 
+960,hallway,"the hallway (Document[102]):""John went to the hallway",Where is the milk? 
+961,hallway,"hallway (Document[11]):""John took the football there . Never to",Where is the football? 
+962,hallway,"the hallway (Document[119]):""John put down the milk .",Where is the milk? 
+963,hallway,"the garden (Document[7]):""Mary went back to the garden . It",Where is the apple? 
+964,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the milk? 
+965,hallway,"the hallway (Document[21]):""Mary went back to the hall",Where is the football? 
+966,kitchen,"hallway (Document[60]):""John journeyed to the hallway .",Where is the milk? 
+967,kitchen,"hallway (Document[23]):""Mary went back to the hallway",Where is the milk? 
+968,bedroom,"the hallway (Document[119]):""Mary went back to the",Where is the football? 
+969,bedroom,"the hallway (Document[109]):""John journeyed to the hall",Where is the football? 
+970,office,"The apple is in the barn (Document[119]):""Toto",Where is the apple? 
+971,kitchen,"the office (Document[129]):""Mary travelled to the office",Where is the apple? 
+972,kitchen,"the office (Document[129]):""Mary grabbed the apple",Where is the apple? 
+973,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+974,office,"The office (Document[119]):""Jimmy went to the office",Where is the apple? 
+975,garden,"the bathroom (Document[19]):""Alan moved to the garage",Where is the football? 
+976,garden,"the hallway (Document[20]):""John went back to the hallway",Where is the football? 
+977,kitchen,"the hallway (Document[109]):""John went to the hallway",Where is the football? 
+978,bathroom,"the bathroom (Document[119]):""John went back to the bath",Where is the milk? 
+979,bathroom,"the hallway (Document[15]):""Aggie was
+medit",Where is the milk? 
+980,hallway,"The hallway (Document[9]):""Charlie went to the hallway .",Where is the apple? 
+981,office,"hallway (Document[100]):""Sandra went back to the hall",Where is the football? 
+982,hallway,"the hallway (Document[128]):""Charlie went to the kitchen",Where is the apple? 
+983,bedroom,"the hallway (Document[119]):""Alan moved to the gar",Where is the apple? 
+984,bedroom,"the hallway (Document[119]):""Jimmy was beginning to",Where is the apple? 
+985,kitchen,"the kitchen (Document[119]):""Jimmy had stopped rocking",Where is the football? 
+986,kitchen,"the balcony (Document[119]):""Charlie went to the",Where is the football? 
+987,bathroom,"the balcony (Document[109]):""Charlie went to the",Where is the milk? 
+988,bedroom,"the bathroom (Document[119]):""Sandra journeyed to the",Where is the milk? 
+989,garden,"The kitchen (Document[129]):""Sandra took the milk there .",Where is the milk? 
+990,garden,"The milk is in the office. (Document[15]):""Mary got",Where is the milk? 
+991,garden,"the garden (Document[119]):""Mary journeyed to the garden",Where is the milk? 
+992,office,"the hallway (Document[109]):""Mary moved to the hall",Where is the milk? 
+993,office,"hallway (Document[100]):""Mary went to the hallway",Where is the milk? 
+994,bedroom,"the hallway (Document[109]):""John went back to the hall",Where is the milk? 
+995,kitchen,"the bathroom (Document[205]):""Mary went back to the",Where is the apple? 
+996,kitchen,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+997,hallway,the balcony (Answer: The bottle is in the balcony.),Where is the apple? 
+998,hallway,the balcony (Answer: The bottle is in the balcony. The,Where is the football? 

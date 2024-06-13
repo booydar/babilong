@@ -1,0 +1,19 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about different places and their locations, hidden in some random text and a question. You need to answer the question based only on the information from the facts.",
+        "examples": "<example>\nThe office is east of the hallway. The kitchen is north of the office. The garden is west of the bedroom. The office is west of the garden. The bathroom is north of the garden. How do you go from the kitchen to the garden?\nAnswer: s,e\n</example>\n<example>\nThe bedroom is west of the hallway. The office is east of the garden. The garden is north of the kitchen. The kitchen is north of the bathroom. The hallway is west of the garden. How do you go from the kitchen to the hallway?\nAnswer: n,w\n</example>\n<example>\nThe bedroom is south of the hallway. The bathroom is east of the office. The kitchen is west of the garden. The garden is south of the office. The office is south of the bedroom. How do you go from the garden to the bedroom?\nAnswer: n,n\n</example>\n",
+        "post_prompt": "Your answer should contain only two letters, separated by a comma - ordinal directions. You can choose the letters from $n$, $s$, $e$ and $w$. Do not write anything else after that.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}",
+        "chat_template": true
+    },
+    "generate_kwargs": {
+        "max_new_tokens": 20,
+        "max_length": null,
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": 0.0,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}

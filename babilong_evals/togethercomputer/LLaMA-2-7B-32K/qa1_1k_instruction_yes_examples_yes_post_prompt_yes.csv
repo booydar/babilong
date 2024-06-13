@@ -1,0 +1,3006 @@
+,target,output,question
+0,hallway,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+1,bathroom,"Label: bathroom
+
+<context>
+The King’s writ was the only",Where is Mary? 
+2,kitchen,"A: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+3,hallway,"<answer>The most recent location of Sandra is hallway.
+</answer>",Where is Sandra? 
+4,kitchen,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+5,hallway,"Output: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+6,garden,"<answer>
+The most recent location of ’Sandra’ is ’garden’",Where is Sandra? 
+7,hallway,"Label: hallway
+
+<context>
+""Wonder about ME for a while",Where is Daniel? 
+8,office,"<answer> The most recent location of Sandra is hallway.
+</answer>",Where is Sandra? 
+9,office,"Answer: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+10,kitchen,"<answer> The most recent location of Mary is the office.
+</answer>",Where is Mary? 
+11,garden,"Label: balcony
+
+<context>
+""No,"" she replied, with",Where is Mary? 
+12,office,"<answer>The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+13,bedroom,"Answer: The most recent location of Mary is garden.
+</example>
+
+<example",Where is Mary? 
+14,bedroom,"Answer: The most recent location of Mary is bedroom.
+</context>
+
+<",Where is Mary? 
+15,kitchen,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+16,garden,"Answer: The most recent location of John is garden.
+</context>
+
+<context",Where is John? 
+17,kitchen,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+18,office,"<context>
+John went to the hallway. He therefore begged for the des",Where is Daniel? 
+19,kitchen,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+20,hallway,"<answer>The most recent location of Mary is hallway.</answer>
+
+<",Where is Mary? 
+21,office,"Answer: The most recent location of John is office.
+</example>
+
+<context",Where is John? 
+22,office,"Answer: The most recent location of John is office.
+</example>
+
+<context",Where is John? 
+23,hallway,"Answer: The most recent location of ’Sandra’ is ’hallway’.
+</",Where is Sandra? 
+24,bedroom,"Answer: The most recent location of Daniel is office.
+</question>
+
+<context",Where is Daniel? 
+25,bedroom,Label: The most recent location of ’person’ is ’bedroom’.,Where is Sandra? 
+26,bedroom,"<context>
+""I'm very sorry, Bill,"" ses Ginger, trying",Where is Mary? 
+27,kitchen,"Ans: The most recent location of Daniel is bathroom.
+</context>",Where is Daniel? 
+28,kitchen,"Label: bedroom
+
+<context>
+Judith went to the hallway",Where is Daniel? 
+29,kitchen,"Label: balcony
+
+<context>
+XII./--_That every",Where is Daniel? 
+30,hallway,"<answer>The most recent location of Sandra is hallway.
+</answer>",Where is Sandra? 
+31,office,"<answer> The most recent location of John is office.
+</answer>",Where is John? 
+32,kitchen,"<answer>
+The most recent location of Sandra is bathroom.
+</answer",Where is Sandra? 
+33,kitchen,"Output: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+34,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+35,office,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Mary? 
+36,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+37,garden,"Answer: The most recent location of Mary is office.
+</context>
+
+<context",Where is Mary? 
+38,kitchen,<answer>The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+39,bedroom,"Label: hallway
+
+<context>
+Mary went back to the bedroom",Where is Daniel? 
+40,bathroom,"Label: balcony
+
+<context>
+The first of these is the",Where is Sandra? 
+41,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+42,bathroom,"Label: hallway
+
+<context>
+""I'm not going to be",Where is Sandra? 
+43,hallway,"Answer: The most recent location of Daniel is hallway.
+</question>
+
+<",Where is Daniel? 
+44,garden,"Answer: The most recent location of Daniel is garden.
+</question>
+
+<context",Where is Daniel? 
+45,kitchen,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+46,hallway,"<answer> The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+47,bathroom,"Label: bathroom
+
+<context>
+""I'm going to the city",Where is Sandra? 
+48,office,"<answer>The most recent location of John is office.</answer>
+
+<context",Where is John? 
+49,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+50,bedroom,"Label: The most recent location of John is bedroom.
+</context>",Where is John? 
+51,office,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+52,garden,"Label: balcony
+
+<context>
+“I’m going to the",Where is John? 
+53,garden,"A: The most recent location of John is hallway.
+</context>",Where is John? 
+54,kitchen,"Label: The most recent location of Daniel is garden.
+
+<context>
+John",Where is Daniel? 
+55,bedroom,"<answer> The most recent location of Mary is bedroom.
+</answer>",Where is Mary? 
+56,kitchen,"Output: The most recent location of Mary is bathroom.
+<context>
+'",Where is Mary? 
+57,hallway,"A: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+58,garden,"Answer: The most recent location of Daniel is bathroom.
+</question>
+
+<",Where is Daniel? 
+59,hallway,"Answer: The most recent location of Sandra is office.
+</example>
+
+<",Where is Sandra? 
+60,hallway,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+61,office,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+62,bathroom,"Label: The most recent location of Sandra is bathroom.
+<context>",Where is Sandra? 
+63,garden,"Output: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+64,garden,"Label: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+65,kitchen,"<answer>The most recent location of John is kitchen.
+</answer>",Where is John? 
+66,kitchen,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+67,bathroom,"Label: bathroom
+
+<context>
+[14] De
+Maistre",Where is Daniel? 
+68,office,"Label: office
+
+<context>
+Mary went to the hallway. Daniel",Where is Daniel? 
+69,office,"Label: hallway
+
+<context>
+Mary went to the hallway.",Where is Daniel? 
+70,garden,"<context>
+I'm not sure what to do. I'm not sure",Where is Mary? 
+71,hallway,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+72,garden,"Answer: The most recent location of Mary is garden.
+</context>
+
+<context",Where is Mary? 
+73,bedroom,"Answer: The most recent location of Mary is bedroom.
+</context>
+
+<",Where is Mary? 
+74,bathroom,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+75,kitchen,"A: The most recent location of Daniel is the kitchen.
+</example>",Where is Daniel? 
+76,kitchen,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+77,kitchen,"Answer: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+78,hallway,"A: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+79,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+80,garden,"Output: The most recent location of John is garden.
+<context>
+I went",Where is John? 
+81,bathroom,"Answer: The most recent location of John is garden.
+</context>
+
+<context",Where is John? 
+82,bedroom,"Label: bedroom
+
+<context>
+The next day, the 15",Where is Sandra? 
+83,garden,"<context>
+""What do you want with a car here, anyway?"" ""It",Where is Mary? 
+84,office,"Ans: The most recent location of Daniel is office.
+</example>",Where is Daniel? 
+85,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+86,garden,"A: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+87,hallway,"Answer: The most recent location of John is bedroom.
+</example>
+
+<",Where is John? 
+88,kitchen,<answer>The most recent location of ’Sandra’ is ’office’.</answer,Where is Sandra? 
+89,kitchen,"Label: The most recent location of Daniel is office.
+
+<context>
+John",Where is Daniel? 
+90,bathroom,"Label: bathroom
+
+<context>
+Charlie went to the hallway.",Where is Sandra? 
+91,bathroom,"<answer>balcony</answer>
+
+<context>
+The following is",Where is John? 
+92,hallway,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+93,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+94,bathroom,"Label: balcony
+
+<context>
+""I
+wouldn'",Where is Sandra? 
+95,kitchen,"Label: balcony
+
+<context>
+""Wasn't _",Where is John? 
+96,kitchen,"Label: The most recent location of Sandra is balcony.
+
+<context",Where is Sandra? 
+97,kitchen,"Output: The most recent location of Mary is bedroom.
+<context>
+We",Where is Mary? 
+98,bedroom,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+99,bedroom,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+100,bedroom,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+101,bathroom,"<answer>
+The most recent location of ’Sandra’ is ’bathroom",Where is Sandra? 
+102,office,"Answer: The most recent location of Mary is office.
+</example>
+
+<example",Where is Mary? 
+103,garden,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+104,garden,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+105,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+106,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</context>
+
+<",Where is Daniel? 
+107,bathroom,"A: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+108,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+109,bedroom,"<answer>The most recent location of John is bedroom.
+</answer>",Where is John? 
+110,bathroom,"<answer>The most recent location of Daniel is bathroom.</answer>
+
+<",Where is Daniel? 
+111,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</question>
+
+<",Where is Daniel? 
+112,kitchen,"<answer>The most recent location of John is office.</answer>
+
+<context",Where is John? 
+113,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+114,kitchen,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+115,garden,"Label: The most recent location of John is office.
+
+<context>
+The",Where is Sandra? 
+116,office,"Output: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+117,kitchen,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+118,bathroom,"Output: The most recent location of Daniel is bathroom.
+<context>
+S",Where is Daniel? 
+119,office,"Output: The most recent location of Daniel is office.
+<context>
+SIR",Where is Daniel? 
+120,bedroom,"A: bedroom
+</example>
+
+<example>
+Alan went to",Where is Daniel? 
+121,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+122,bedroom,"Answer: bedroom
+</example>
+
+<example>
+Judith went to",Where is Daniel? 
+123,hallway,"A: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+124,bedroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+125,office,Label: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+126,garden,"<answer>
+The most recent location of John is garden.
+</answer>",Where is John? 
+127,garden,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+128,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+129,bathroom,"A: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+130,garden,"<answer>The most recent location of Sandra is garden.</answer>
+
+<",Where is Sandra? 
+131,hallway,"<answer>
+The most recent location of Mary is hallway.
+</answer>",Where is Mary? 
+132,bathroom,"Label: The most recent location of Mary is hallway.
+</context>",Where is Sandra? 
+133,garden,"Label: The most recent location of Mary is bedroom.
+</example>",Where is Sandra? 
+134,kitchen,"Answer: The most recent location of John is bedroom.
+</example>",Where is John? 
+135,bathroom,<answer>The most recent location of 'Sandra' is 'bathroom'.,Where is Sandra? 
+136,office,"Label: The most recent location of ’person’ is ’office’.
+
+<",Where is Sandra? 
+137,kitchen,"Answer: The most recent location of John is kitchen.
+</example>
+
+<",Where is John? 
+138,bathroom,A: The most recent location of ’Sandra’ is ’bathroom’.,Where is Sandra? 
+139,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+140,office,"<answer>The most recent location of Mary is office.</answer>
+
+<context",Where is Mary? 
+141,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+142,hallway,"Answer: The most recent location of Mary is office.
+</question>
+
+<context",Where is Mary? 
+143,office,"Label: The most recent location of Mary is bathroom.
+</context>",Where is Sandra? 
+144,bedroom,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Sandra? 
+145,kitchen,"<answer>
+The most recent location of ’Sandra’ is ’kitchen’",Where is Sandra? 
+146,kitchen,"<answer>The most recent location of Daniel is balcony.
+</answer>",Where is Sandra? 
+147,kitchen,"<context>
+The old man was only eleven years old when his father died, and",Where is Daniel? 
+148,kitchen,<answer> The most recent location of 'Sandra' is 'bathroom'.,Where is Sandra? 
+149,kitchen,"Answer: The most recent location of Daniel is office.
+</example>
+
+<example",Where is Daniel? 
+150,garden,"Output: The most recent location of Daniel is garden.
+<context>
+Mary",Where is Daniel? 
+151,garden,"Output: The most recent location of Sandra is bathroom.
+<context>",Where is Sandra? 
+152,bathroom,"Label: balcony
+
+<context>
+JANE. I'm",Where is Daniel? 
+153,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Daniel? 
+154,bedroom,"<answer>
+The most recent location of John is bedroom.
+</answer>",Where is John? 
+155,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+156,garden,"<answer>The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+157,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+158,office,"Label: The most recent location of John is office.
+
+<context>
+The",Where is John? 
+159,hallway,"Label: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+160,bedroom,"<answer>The most recent location of Daniel is bedroom.</answer>
+
+<",Where is Daniel? 
+161,bedroom,"Output: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+162,bedroom,"Output: The most recent location of Mary is bedroom.
+</context>",Where is Mary? 
+163,garden,"Answer: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+164,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+165,garden,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+166,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+167,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<example",Where is Daniel? 
+168,kitchen,"Output: hallway
+<context>
+""I'm going to the beach,""",Where is Daniel? 
+169,bedroom,"Answer: The most recent location of Mary is bedroom.
+</context>
+
+<",Where is Mary? 
+170,office,"Answer: The most recent location of Daniel is office.
+</context>
+
+<context",Where is Daniel? 
+171,office,"<context>
+questioned Alfred, thinking Zoie suddenly ill, ""can
+I",Where is Daniel? 
+172,garden,"Answer: The most recent location of John is garden.
+</example>
+
+<",Where is John? 
+173,bathroom,Output: The most recent location of ’Sandra’ is ’bathroom’.,Where is Sandra? 
+174,bathroom,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+175,office,"Answer: The most recent location of Sandra is office.
+</example>
+
+<",Where is Sandra? 
+176,kitchen,"Answer: The most recent location of Sandra is hallway.
+</question>",Where is Sandra? 
+177,bedroom,"Answer: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+178,office,"A: The most recent location of Sandra is office.
+</example>",Where is Sandra? 
+179,office,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+180,hallway,"Answer: The most recent location of Mary is hallway.
+</context>
+
+<",Where is Mary? 
+181,hallway,"Label: The most recent location of Mary is office.
+
+<context>
+The",Where is Mary? 
+182,hallway,"Label: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+183,hallway,"<answer>The most recent location of Mary is hallway.</answer>
+
+<",Where is Mary? 
+184,bedroom,"Answer: The most recent location of Sandra is bedroom.
+</example>",Where is Sandra? 
+185,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+186,office,"Answer: The most recent location of Daniel is office.
+</question>
+
+<context",Where is Daniel? 
+187,garden,"Answer: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+188,kitchen,"<answer>The most recent location of Mary is bathroom.
+</answer>",Where is Sandra? 
+189,office,"Answer: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+190,hallway,"Output: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+191,kitchen,"Output: The most recent location of Sandra is office.
+<context>
+The",Where is Sandra? 
+192,garden,<answer>The most recent location of ’Sandra’ is ’garden’.</,Where is Sandra? 
+193,hallway,"Label: hallway
+<context>
+“I’m sure dad won’",Where is Sandra? 
+194,hallway,"Label: hallway
+
+<context>
+""I'm going to the city",Where is Sandra? 
+195,garden,"Label: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+196,office,"<answer>
+The most recent location of John is office.
+</answer>",Where is John? 
+197,kitchen,"Output: The most recent location of Daniel is bathroom.
+</context>",Where is Daniel? 
+198,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>",Where is Mary? 
+199,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+200,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+201,office,"Label: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+202,office,"Label: bedroom
+
+<context>
+""I'm glad you've",Where is Daniel? 
+203,bedroom,"Output: bedroom
+</context>
+
+<context>
+I'm a",Where is Sandra? 
+204,hallway,"Answer: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+205,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+206,kitchen,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+207,hallway,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+208,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</context>",Where is Daniel? 
+209,hallway,"Answer: The most recent location of John is hallway.
+</example>",Where is John? 
+210,bathroom,"Output: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+211,bedroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+212,hallway,"<answer>The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+213,bedroom,"<context>
+""I'm glad to see you, Mr. Gryce",Where is Mary? 
+214,bathroom,"Label: balcony
+
+<context>
+""You think I am exagger",Where is Sandra? 
+215,bedroom,"<answer> The most recent location of Mary is bedroom.
+</answer>",Where is Mary? 
+216,bathroom,"Answer: The most recent location of John is hallway.
+</question>
+
+<",Where is John? 
+217,hallway,"Output: The most recent location of John is hallway.
+</context>",Where is John? 
+218,hallway,"<answer> The most recent location of Sandra is hallway.
+</answer>",Where is Sandra? 
+219,bathroom,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+220,bathroom,"<answer>The most recent location of Mary is bathroom.</answer>
+
+<",Where is Mary? 
+221,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+222,kitchen,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+223,hallway,"Answer: The most recent location of Sandra is office.
+</question>",Where is Sandra? 
+224,bedroom,"Answer: The most recent location of John is bedroom.
+</example>
+
+<",Where is John? 
+225,office,"Answer: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+226,hallway,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Daniel? 
+227,garden,"Label: the ""Short"" and ""Long"" Boston a difference in the length of the",Where is Sandra? 
+228,bathroom,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+229,bathroom,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+230,office,"<context>
+The first thing to do was to get rid of the slaves. Gordon",Where is Daniel? 
+231,garden,"Output: The most recent location of Mary is garden.
+<context>
+JOH",Where is Mary? 
+232,hallway,"Label: hallway
+
+<context>
+""I'm going to the beach",Where is Daniel? 
+233,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+234,hallway,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+235,bedroom,"Answer: bedroom
+</context>
+
+<context>
+""I'm sure",Where is Mary? 
+236,bedroom,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+237,bedroom,"Label: The most recent location of Mary is bathroom.
+</context>",Where is Mary? 
+238,bedroom,"Label: bedroom
+
+<context>
+The man who had been sitting on the",Where is Daniel? 
+239,office,"Answer: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+240,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+241,kitchen,"Label: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+242,garden,"Answer: The most recent location of Mary is garden.
+</question>
+
+<context",Where is Mary? 
+243,garden,"Ans: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+244,kitchen,"Output: The most recent location of Mary is office.
+</context>
+
+<",Where is Mary? 
+245,kitchen,"<answer>The most recent location of John is kitchen.
+</answer>",Where is John? 
+246,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+247,garden,"<answer>The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+248,garden,Label: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+249,garden,"Label: The most recent location of Daniel is garden.
+
+<context>
+John",Where is Daniel? 
+250,bedroom,"<answer> The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+251,office,"Answer: The most recent location of Mary is office.
+</context>
+
+<",Where is Mary? 
+252,bathroom,"Label: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+253,bathroom,"<answer>
+The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+254,bedroom,"Output: The most recent location of John is bedroom.
+<context>
+M",Where is John? 
+255,bedroom,"Label: balcony
+
+<context>
+“I’m glad you’",Where is John? 
+256,office,"<answer>The most recent location of Sandra is office.</answer>
+
+<",Where is Sandra? 
+257,office,"<answer>The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+258,kitchen,"Label: garden
+
+<context>
+""I'm glad you've come",Where is Mary? 
+259,garden,"Answer: The most recent location of Mary is garden.
+</example>
+
+<example",Where is Mary? 
+260,garden,"Answer: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+261,office,"Output: The most recent location of Mary is office.
+<context>
+He b",Where is Mary? 
+262,hallway,"Label: hallway
+
+<context>
+""And when Ginger's finished",Where is Sandra? 
+263,office,"Output: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+264,office,"<answer>
+The most recent location of John is garden.
+</answer>",Where is John? 
+265,bathroom,"Output: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+266,garden,"Label: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+267,bedroom,"Label: The most recent location of Sandra is bathroom.
+<context>",Where is Sandra? 
+268,bathroom,"Output: balcony
+
+<context>
+BOS. Now, that'",Where is John? 
+269,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+270,kitchen,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+271,office,"Ans: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+272,office,<answer>The most recent location of 'Sandra' is 'office'.</answer,Where is Sandra? 
+273,kitchen,"Label: The most recent location of Daniel is office.
+
+<context>
+""",Where is Daniel? 
+274,bathroom,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+275,office,"<answer> The most recent location of ’person’ is ’office’.
+</",Where is Sandra? 
+276,kitchen,"<answer>The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+277,hallway,"Output: The most recent location of Mary is hallway.
+<context>
+""",Where is Mary? 
+278,office,"Ans: The most recent location of John is office.
+</context>",Where is John? 
+279,bathroom,"Label: The most recent location of John is bathroom.
+</context>",Where is John? 
+280,bathroom,"Label: bathroom
+
+<context>
+“I’m going to marry you",Where is Sandra? 
+281,garden,"Label: balcony
+
+<context>
+""No use a boat when come",Where is Daniel? 
+282,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+283,office,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+284,garden,"Answer: The most recent location of John is garden.
+</example>
+
+<context",Where is John? 
+285,office,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+286,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+287,office,"Answer: The most recent location of John is office.
+</context>
+
+<context",Where is John? 
+288,garden,"Answer: Daniel is in the garden.
+</context>
+
+<context>",Where is Daniel? 
+289,bathroom,<answer>The most recent location of Sandra is bathroom.</answer>,Where is Sandra? 
+290,kitchen,"<answer> The most recent location of Mary is kitchen.
+</answer>",Where is Mary? 
+291,kitchen,"Answer: The most recent location of John is hallway.
+</question>
+
+<",Where is John? 
+292,bedroom,"Label: The most recent location of John is bedroom.
+</context>",Where is John? 
+293,kitchen,"<context>
+""I'm glad to see you, Mr. Baxter",Where is Mary? 
+294,kitchen,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+295,garden,"Answer: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+296,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<context",Where is Daniel? 
+297,hallway,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+298,hallway,"Ans: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+299,bathroom,"Label: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+300,bathroom,"Answer: bathroom
+</context>
+
+<context>
+""I'm going",Where is Mary? 
+301,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+302,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+303,office,"Answer: The most recent location of John is office.
+</context>
+
+<context",Where is John? 
+304,hallway,"Answer: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+305,garden,"<answer>The most recent location of Daniel is garden.</answer>
+
+<context",Where is Daniel? 
+306,bathroom,"Ans: bathroom
+</context>
+
+<context>
+""I'",Where is Daniel? 
+307,office,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+308,office,"A: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+309,kitchen,"Answer: The most recent location of John is bathroom.
+</example>
+
+<",Where is John? 
+310,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<example",Where is Daniel? 
+311,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+312,office,"<answer> The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+313,bedroom,"Answer: bedroom
+</context>
+
+<context>
+The 1st",Where is Sandra? 
+314,garden,"<answer> The most recent location of John is garden.
+</answer>",Where is John? 
+315,office,"Answer: The most recent location of Mary is office.
+</example>
+
+<example",Where is Mary? 
+316,bedroom,"<context>
+""I don't know,"" Beulah said; ""per",Where is Daniel? 
+317,office,"Answer: The most recent location of Mary is office.
+</example>
+
+<context",Where is Mary? 
+318,office,"Label: The most recent location of Mary is office.
+
+<context>
+John",Where is Mary? 
+319,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<example",Where is Daniel? 
+320,garden,"<context>
+I have been to the garden. I have been to the garden.",Where is John? 
+321,kitchen,Label: The most recent location of ’Sandra’ is ’kitchen’.,Where is Sandra? 
+322,kitchen,"Label: balcony
+
+<context>
+""I'm glad you'",Where is Sandra? 
+323,garden,"Label: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+324,garden,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+325,bathroom,<answer>The most recent location of Sandra is bathroom.</answer>,Where is Sandra? 
+326,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+327,garden,"Label: The most recent location of ’Sandra’ is garden.
+</example>",Where is Sandra? 
+328,garden,"Label: bathroom
+
+<context>
+""I'm going to get a",Where is Sandra? 
+329,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+330,kitchen,"Label: balcony
+
+<context>
+_The scene is the same as",Where is Sandra? 
+331,office,"<context>
+A lively, agreeable
+woman--she'll am",Where is John? 
+332,kitchen,Output: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+333,bedroom,"Label: The most recent location of Daniel is office.
+
+<context>
+Daniel",Where is Daniel? 
+334,bedroom,"Output: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+335,office,"Label: balcony
+
+<context>
+The _British Medical Journal",Where is John? 
+336,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+337,office,"<answer>The most recent location of Sandra is office.
+</answer>",Where is Sandra? 
+338,hallway,"Answer: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+339,hallway,"Answer: The most recent location of Sandra is hallway.
+</question>",Where is Sandra? 
+340,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+341,garden,"<answer>The most recent location of Mary is garden.
+</answer>",Where is Mary? 
+342,office,"<context>
+""I'm glad you've come, Mr. Raymond,""",Where is Daniel? 
+343,kitchen,"<context>
+""I'm glad you've come,"" said the girl,",Where is Sandra? 
+344,garden,"Output: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+345,office,"Answer: The most recent location of Mary is office.
+</example>
+
+<example",Where is Mary? 
+346,hallway,"Answer: The most recent location of Daniel is hallway.
+</question>
+
+<",Where is Daniel? 
+347,hallway,"Output: The most recent location of John is hallway.
+
+<context>",Where is John? 
+348,kitchen,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+349,kitchen,"A: The most recent location of John is bathroom.
+</example>",Where is John? 
+350,bedroom,"Ans: The most recent location of Sandra is bedroom.
+</example>",Where is Sandra? 
+351,garden,"<answer>
+The most recent location of John is garden.
+</answer>",Where is John? 
+352,garden,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+353,bedroom,"Label: The most recent location of Sandra is bedroom.
+</context>",Where is Sandra? 
+354,bedroom,"Label: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+355,bathroom,"Answer: The most recent location of Mary is office.
+</question>
+
+<context",Where is Sandra? 
+356,office,"Label: The most recent location of John is office.
+
+<context>
+The",Where is John? 
+357,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+358,garden,"Label: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+359,hallway,"<answer>The most recent location of Mary is hallway.
+</answer>",Where is Mary? 
+360,garden,"Ans: garden
+</context>
+
+<context>
+""I'm",Where is Daniel? 
+361,bathroom,"<context>
+""We're reddy fer yer thricks, ye",Where is Daniel? 
+362,garden,"<answer>The most recent location of Mary is garden.
+</answer>",Where is Mary? 
+363,garden,"Answer: The most recent location of John is garden.
+</example>
+
+<example",Where is John? 
+364,garden,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+365,garden,"Answer: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+366,garden,"Answer: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+367,hallway,"Label: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+368,hallway,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+369,hallway,"Output: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+370,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+371,hallway,"A: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+372,garden,"Answer: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+373,garden,"Output: thet thar thief."" ""I'm goin' ter have",Where is Mary? 
+374,office,"Label: The most recent location of Mary is office.
+<context>
+""W",Where is Mary? 
+375,bedroom,"<answer>
+The most recent location of Mary is bedroom.
+</answer>",Where is Mary? 
+376,kitchen,"<context>
+""I'm going to the
+
+
+A curious, g",Where is Sandra? 
+377,bathroom,<answer>The most recent location of ’Sandra’ is ’office’.</answer,Where is Sandra? 
+378,bathroom,"Answer: The most recent location of Mary is office.
+</example>
+
+<example",Where is Sandra? 
+379,bedroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+380,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+381,bedroom,"<answer>The most recent location of John is the beach.
+</answer>",Where is John? 
+382,bedroom,"Output: The most recent location of Mary is office.
+<context>
+""I",Where is Mary? 
+383,office,"Label: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+384,office,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+385,kitchen,<answer>The most recent location of ’Sandra’ is ’kitchen’.,Where is Sandra? 
+386,office,"<answer>The most recent location of Mary is office.
+</answer>",Where is Mary? 
+387,office,"Answer: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+388,office,"A: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+389,kitchen,"<answer>The most recent location of Sandra is hallway.
+</answer>",Where is Sandra? 
+390,kitchen,"Answer: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+391,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+392,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+393,bedroom,"Output: The most recent location of Mary is bedroom.
+<context>",Where is Mary? 
+394,office,"Ans: The most recent location of Mary is bathroom.
+</context>",Where is Sandra? 
+395,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+396,bedroom,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<example",Where is Daniel? 
+397,office,"Ans: The most recent location of Daniel is office.
+</example>",Where is Daniel? 
+398,bathroom,"A: The most recent location of Mary is bedroom.
+</example>",Where is Sandra? 
+399,garden,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+400,bedroom,"Output: The most recent location of John is bedroom.
+</context>",Where is John? 
+401,garden,"<answer>
+The most recent location of John is bathroom.
+</answer>",Where is John? 
+402,bedroom,"Label: balcony
+
+<context>
+Sandra went to the hallway",Where is John? 
+403,kitchen,"A: bathroom
+<context>
+The man who had been sitting on the edge",Where is Sandra? 
+404,office,"<answer>The most recent location of Jinny is office.
+</answer>",Where is Sandra? 
+405,kitchen,"<answer>The most recent location of Daniel is garage.
+</answer>",Where is Daniel? 
+406,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+407,bedroom,"Answer: The most recent location of 'Sandra' is 'hallway'.
+</",Where is Sandra? 
+408,garden,"Answer: The most recent location of Mary is office.
+</example>
+
+<context",Where is Mary? 
+409,kitchen,"Answer: The most recent location of Daniel is bedroom.
+</question>
+
+<",Where is Sandra? 
+410,bedroom,"Label: balcony
+
+<context>
+The
+
+<example>",Where is John? 
+411,garden,"<answer>The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+412,bathroom,"Label: The most recent location of ’Sandra’ is bathroom.
+
+<",Where is Sandra? 
+413,hallway,"Answer: The most recent location of Daniel is bathroom.
+</context>
+
+<",Where is Daniel? 
+414,office,Label: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+415,bedroom,"Label: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+416,bedroom,"<context>
+""No, no; go alone, my child. ""You know",Where is Daniel? 
+417,kitchen,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+418,hallway,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+419,bathroom,"Ans: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+420,hallway,"A: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+421,hallway,"Answer: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+422,bathroom,"Label: office
+
+<context>
+The Assembly was not
+content with the removal",Where is Sandra? 
+423,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+424,bedroom,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+425,kitchen,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+426,kitchen,"A: The most recent location of John is balcony.
+</example>",Where is John? 
+427,office,"Label: The most recent location of John is office.
+
+<context>
+John",Where is John? 
+428,bedroom,"Label: The most recent location of Sandra is bedroom.
+</context>",Where is Sandra? 
+429,bedroom,<answer>The most recent location of ’Sandra’ is ’bedroom’.</,Where is Sandra? 
+430,office,"Answer: The most recent location of John is office.
+</context>
+
+<context",Where is John? 
+431,kitchen,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+432,kitchen,"Answer: The most recent location of Mary is bedroom.
+</example>",Where is Mary? 
+433,kitchen,"Label: The most recent location of Mary is hallway.
+<context>
+""",Where is Mary? 
+434,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<example",Where is Daniel? 
+435,garden,"<answer>The most recent location of Mary is garden.
+</answer>",Where is Sandra? 
+436,kitchen,"Label: balcony
+
+<context>
+The next night, May 7",Where is Mary? 
+437,bathroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+438,bedroom,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+439,garden,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+440,bedroom,"Answer: bedroom
+</context>
+
+<context>
+""I have been thinking",Where is Sandra? 
+441,hallway,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+442,bathroom,"Label: The most recent location of Daniel is bathroom.
+<context>
+The",Where is Daniel? 
+443,garden,"Answer: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+444,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+445,garden,"Output: bedroom
+<context>
+The book, as has been seen, presents",Where is Daniel? 
+446,bedroom,<answer> The most recent location of ’Sandra’ is ’bathroom’,Where is Sandra? 
+447,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+448,garden,"A: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+449,kitchen,"Label: bedroom
+
+<context>
+The twins, after some protest,",Where is Sandra? 
+450,kitchen,"Label: The most recent location of John is bathroom.
+</context>",Where is John? 
+451,kitchen,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+452,kitchen,Label: The most recent location of ’Sandra’ is ’kitchen’.,Where is Sandra? 
+453,garden,Output: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+454,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+455,kitchen,"Label: The most recent location of Sandra is kitchen.
+
+<context>",Where is Sandra? 
+456,bedroom,"Label: The most recent location of Mary is bedroom.
+<context>
+""",Where is Mary? 
+457,hallway,"Answer: The most recent location of John is hallway.
+</example>
+
+<",Where is John? 
+458,garden,"A: The most recent location of John is hallway.
+<context>
+""",Where is John? 
+459,hallway,"A: The most recent location of ’Sandra’ is hallway.
+</example",Where is Sandra? 
+460,bathroom,"A: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+461,garden,"Answer: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+462,bedroom,"Label: The most recent location of John is hallway.
+</context>",Where is John? 
+463,office,"<answer> The most recent location of John is office.
+</answer>",Where is John? 
+464,garden,"<context>
+""I'm going to the beach,"" said Jimmieboy",Where is John? 
+465,garden,"<answer>
+The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+466,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+467,bedroom,"Answer: The most recent location of Daniel is bathroom.
+</context>
+
+<",Where is Daniel? 
+468,bedroom,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Sandra? 
+469,office,"Label: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+470,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+471,office,"Label: The most recent location of Mary is office.
+
+<context>
+""",Where is Mary? 
+472,office,"<answer>hallway</answer>
+</context>
+
+<context>",Where is Mary? 
+473,bathroom,"Label: The most recent location of John is hallway.
+</example>",Where is John? 
+474,kitchen,"Answer: The most recent location of John is bathroom.
+</context>",Where is John? 
+475,garden,"Label: The most recent location of John is garden.
+
+<context>
+The",Where is John? 
+476,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+477,kitchen,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+478,garden,"Label: The most recent location of John is garden.
+<context>
+""I",Where is John? 
+479,bathroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+480,bedroom,"Label: The most recent location of ’Sandra’ is bedroom.
+
+<",Where is Sandra? 
+481,bedroom,<answer>The most recent location of Sandra is balcony.</answer>,Where is Sandra? 
+482,hallway,"<answer>
+The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+483,hallway,"Answer: The most recent location of John is hallway.
+</context>",Where is John? 
+484,garden,"<answer>The most recent location of John is garden.</answer>
+
+<context",Where is John? 
+485,bedroom,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+486,bathroom,"Answer: The most recent location of 'Sandra' is 'hallway'.
+</",Where is Sandra? 
+487,hallway,"Label: hallway
+
+<context>
+""I'm sure, father,""",Where is Daniel? 
+488,bedroom,"Answer: The most recent location of John is bedroom.
+</example>
+
+<",Where is John? 
+489,bathroom,"Label: bathroom
+
+<context>
+""I'm glad you're",Where is Daniel? 
+490,kitchen,"Ans: The most recent location of Daniel is the kitchen.
+</question>",Where is Daniel? 
+491,bedroom,"<answer>The most recent location of John is bedroom.
+</answer>",Where is John? 
+492,bedroom,"Ans: bedroom
+
+<context>
+John went to the hallway.",Where is John? 
+493,garden,"Answer: bedroom
+</context>
+
+<context>
+The
+latter,",Where is John? 
+494,garden,"Answer: The most recent location of John is bedroom.
+</example>",Where is John? 
+495,kitchen,"<answer>The most recent location of Mary is the beach.
+</answer>",Where is Mary? 
+496,kitchen,"Label: The most recent location of Mary is beach.
+
+<context>
+J",Where is Mary? 
+497,bedroom,"Label: bedroom
+
+<context>
+The
+next day, when the Z",Where is Sandra? 
+498,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+499,hallway,"<answer>
+The most recent location of John is office.
+</answer>",Where is John? 
+500,kitchen,"Answer: The most recent location of Daniel is the kitchen.
+</context>
+
+<",Where is Daniel? 
+501,garden,"<answer>The most recent location of Daniel is garden.</answer>
+
+<context",Where is Daniel? 
+502,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</question>
+
+<",Where is Daniel? 
+503,hallway,"Output: The most recent location of John is hallway.
+<context>
+The",Where is John? 
+504,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</context>",Where is Daniel? 
+505,kitchen,"Answer: The most recent location of Mary is bathroom.
+</example>
+
+<",Where is Mary? 
+506,bedroom,"Answer: bedroom
+</example>
+
+<example>
+Judith went to",Where is Sandra? 
+507,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+508,office,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+509,bedroom,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+510,bedroom,"A: The most recent location of John is balcony.
+<context>",Where is John? 
+511,office,"<answer>
+The most recent location of Mary is office.
+</answer>",Where is Mary? 
+512,bedroom,"Answer: bedroom
+</context>
+
+<context>
+Alan went to",Where is Mary? 
+513,bedroom,"<answer> The most recent location of Mary is bedroom.
+</answer>",Where is Mary? 
+514,office,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+515,bathroom,"Label: balcony
+
+<context>
+[Illustration: THE STONE W",Where is Mary? 
+516,bathroom,"Output: bathroom
+<context>
+The man went to the bathroom. The",Where is Daniel? 
+517,bedroom,"Answer: The most recent location of Mary is bathroom.
+</example>",Where is Sandra? 
+518,hallway,"Label: hallway
+
+<context>
+Judith went to the hallway",Where is Daniel? 
+519,garden,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+520,office,"A: The most recent location of ’Sandra’ is office.
+</example>",Where is Sandra? 
+521,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Daniel? 
+522,hallway,"A: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+523,hallway,"Answer: The most recent location of Daniel is hallway.
+</question>",Where is Daniel? 
+524,garden,"Label: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+525,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+526,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+527,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+528,garden,"Answer: The most recent location of Daniel is hallway.
+</context>
+
+<",Where is Daniel? 
+529,hallway,"Answer: The most recent location of Mary is hallway.
+</question>
+
+<",Where is Mary? 
+530,garden,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+531,garden,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+532,garden,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+533,office,"Answer: The most recent location of Sandra is office.
+</example>",Where is Sandra? 
+534,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+535,garden,"Answer: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+536,bedroom,"Answer: The most recent location of Sandra is bedroom.
+</question>",Where is Sandra? 
+537,hallway,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+538,hallway,"<context>
+""The _pilcher_,"" says Mr. Sandra,",Where is Sandra? 
+539,bedroom,"Label: The most recent location of ’Sandra’ is bedroom.
+
+<",Where is Sandra? 
+540,garden,"<context>
+_The Slave Trade._--I wish to know the origin of",Where is John? 
+541,office,"Label: bedroom
+
+<context>
+""I'm going to the beach",Where is Mary? 
+542,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+543,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+544,kitchen,"A: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+545,garden,"Label: balcony
+
+<context>
+""Yes, I know that,""",Where is Sandra? 
+546,kitchen,"Label: The most recent location of Mary is garden.
+
+<context>
+""",Where is Mary? 
+547,kitchen,"<context>
+“I’m afraid that’s the end of the _Ber",Where is Mary? 
+548,hallway,"Output: The most recent location of John is hallway.
+<context>
+“",Where is John? 
+549,bedroom,"Output: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+550,bedroom,"Output: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+551,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+552,office,"Answer: The most recent location of John is bathroom.
+</example>",Where is John? 
+553,bedroom,"Label: The most recent location of Daniel is garden.
+
+<context>
+John",Where is Daniel? 
+554,kitchen,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+555,hallway,"Answer: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+556,kitchen,"<answer>The most recent location of Mary is bathroom.
+</answer>",Where is Mary? 
+557,bedroom,"<output>The most recent location of Daniel is bedroom.
+</output>",Where is Daniel? 
+558,bedroom,"Answer: The most recent location of Daniel is bathroom.
+</context>
+
+<",Where is Daniel? 
+559,bedroom,"A: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+560,garden,"A: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+561,bedroom,"<answer> The most recent location of Sandra is bedroom.
+</answer>",Where is Sandra? 
+562,garden,"Answer: The most recent location of Sandra is bedroom.
+</example>",Where is Sandra? 
+563,kitchen,"Answer: Daniel is in the garden.
+</context>
+
+<context>
+The",Where is Daniel? 
+564,bedroom,"Label: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+565,bathroom,"<answer> The most recent location of John is bathroom.
+</answer>",Where is John? 
+566,bathroom,"Label: balcony
+
+<context>
+""I don't know,""",Where is John? 
+567,kitchen,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+568,bedroom,"Answer: The most recent location of Sandra is bedroom.
+</example>",Where is Sandra? 
+569,bedroom,"Label: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+570,bedroom,"Output: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+571,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</question>
+
+<",Where is Daniel? 
+572,kitchen,"Answer: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+573,kitchen,"Answer: The most recent location of John is hallway.
+</example>
+
+<",Where is John? 
+574,office,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Sandra? 
+575,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+576,bedroom,"Answer: The most recent location of John is bedroom.
+</question>
+
+<",Where is John? 
+577,hallway,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+578,bedroom,"Label: bedroom
+
+<context>
+Aleck
+soon found a",Where is Daniel? 
+579,bedroom,"Label: bathroom
+
+<context>
+""And let us get along just as",Where is Daniel? 
+580,hallway,"Label: balcony
+
+<context>
+""She has talked matters over with",Where is John? 
+581,hallway,"<answer>
+The most recent location of John is hallway.
+</answer>",Where is John? 
+582,garden,"Answer: The most recent location of Daniel is garden.
+</example>
+
+<example",Where is Daniel? 
+583,kitchen,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+584,bedroom,"Label: bedroom
+
+<context>
+John went back to the hallway.",Where is Mary? 
+585,bedroom,"Label: bedroom
+
+<context>
+""Why, of course it is true",Where is Sandra? 
+586,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is Sandra? 
+587,hallway,"Label: hallway
+
+<context>
+""And then toward the last, you",Where is Daniel? 
+588,bedroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+589,bedroom,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+590,office,"Label: office
+
+<context>
+The morris-dancers had not",Where is Sandra? 
+591,hallway,"Label: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+592,office,"Label: office
+<context>
+_The scene is the same as in the first",Where is John? 
+593,garden,"Answer: The most recent location of John is garden.
+</context>
+
+<context",Where is John? 
+594,bathroom,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+595,bathroom,"<answer> The most recent location of Sandra is bathroom.
+</answer>",Where is Sandra? 
+596,office,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+597,office,"Label: The most recent location of Sandra is hallway.
+<context>",Where is Sandra? 
+598,garden,"Label: hallway
+
+<context>
+""I'm glad you've",Where is Daniel? 
+599,bedroom,"A: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+600,bedroom,"Label: bedroom
+
+<context>
+[62]
+The scene of",Where is John? 
+601,bedroom,"<answer> The most recent location of Sandra is bedroom.
+</answer>",Where is Sandra? 
+602,kitchen,"<answer>
+The most recent location of Mary is office.
+</answer>",Where is Mary? 
+603,kitchen,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Sandra? 
+604,office,"A: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+605,garden,"<answer> The most recent location of Mary is garden.
+</answer>",Where is Mary? 
+606,kitchen,"Answer: The most recent location of John is office.
+</example>
+
+<example",Where is John? 
+607,hallway,"Label: hallway
+
+<context>
+The Strangler glided like a",Where is John? 
+608,garden,Label: The most recent location of ’Sandra’ is ’bedroom’.,Where is Sandra? 
+609,bedroom,"<answer> The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+610,kitchen,"Label: The most recent location of Daniel is office.
+
+<context>
+The",Where is Daniel? 
+611,office,"Label: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+612,bathroom,"Label: balcony
+
+<context>
+P. any
+compensation",Where is Daniel? 
+613,garden,"Label: balcony
+
+<context>
+""I'm going to the",Where is John? 
+614,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+615,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+616,kitchen,"<answer>The most recent location of Sandra is bathroom.
+</answer>",Where is Sandra? 
+617,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+618,kitchen,"Label: The most recent location of Mary is office.
+
+<context>
+The",Where is Mary? 
+619,office,"A: Daniel went back to the hallway.
+<context>
+<example>",Where is Sandra? 
+620,garden,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+621,office,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+622,office,"Label: bathroom
+
+<context>
+""I'm going to marry Alfred",Where is Mary? 
+623,kitchen,"<answer>
+The most recent location of Sandra is bathroom.
+</answer",Where is Sandra? 
+624,bathroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+625,bedroom,"Answer: bedroom
+</context>
+
+<context>
+""I'm glad",Where is Daniel? 
+626,bathroom,"Answer: The most recent location of John is bedroom.
+</question>",Where is John? 
+627,bathroom,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+628,bedroom,"<answer>The most recent location of John is bedroom.
+</answer>",Where is John? 
+629,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+630,bathroom,"Ans: The most recent location of John is garden.
+</context>",Where is John? 
+631,bedroom,"Output: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+632,bedroom,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+633,kitchen,"Ans: The most recent location of Mary is bathroom.
+</context>",Where is Mary? 
+634,garden,"Ans: The most recent location of John is garden.
+</context>",Where is John? 
+635,garden,"Answer: The most recent location of John is beach.
+</context>
+
+<",Where is John? 
+636,garden,"Answer: The most recent location of Sandra is garden.
+</context>
+
+<",Where is Sandra? 
+637,kitchen,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+638,hallway,"Label: The most recent location of Mary is hallway.
+<context>
+_",Where is Mary? 
+639,bathroom,"Output: The most recent location of Daniel is bathroom.
+<context>
+_",Where is Sandra? 
+640,garden,"Label: The most recent location of Daniel is garden.
+
+<context>",Where is Daniel? 
+641,garden,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+642,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+643,office,"Label: balcony
+
+<context>
+Alan went to the hallway",Where is John? 
+644,garden,"Answer: The most recent location of Sandra is bathroom.
+</question>",Where is Sandra? 
+645,garden,"Output: The most recent location of Mary is garden.
+
+<context>
+“",Where is Mary? 
+646,hallway,"Output: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+647,office,"Label: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+648,kitchen,"<answer>The most recent location of Sandra is office.</answer>
+
+<",Where is Sandra? 
+649,kitchen,"Output: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+650,bathroom,"<answer>The most recent location of Daniel is bathroom.</answer>
+
+<",Where is Daniel? 
+651,garden,"<answer> The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+652,kitchen,"Ans: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+653,kitchen,"<context>
+I have heard that his house is
+watched, and that they",Where is Mary? 
+654,garden,"<context>
+The man went to the hallway. The woman went to the hall",Where is Mary? 
+655,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+656,kitchen,"Label: bathroom
+
+<context>
+*       *       *       *",Where is John? 
+657,kitchen,"Label: hallway
+
+<context>
+_Lady Culv._ I",Where is John? 
+658,garden,"Label: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+659,kitchen,"Label: The most recent location of Daniel is office.
+
+<context>
+""",Where is Daniel? 
+660,kitchen,"Answer: The most recent location of John is hallway.
+</example>",Where is Sandra? 
+661,kitchen,"Output: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+662,garden,"Label: hallway
+
+<context>
+The King's natural benevolence",Where is John? 
+663,bedroom,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+664,bedroom,"Output: hallway
+
+<context>
+The first thing that struck the eye was",Where is Mary? 
+665,bathroom,"<context>
+The first thing that struck the eye of the visitor to the Temple was",Where is Mary? 
+666,office,"<answer> The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+667,office,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+668,office,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+669,office,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+670,bedroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+671,bedroom,"<answer>The most recent location of John is office.
+</answer>",Where is John? 
+672,office,"<answer>The most recent location of Daniel is office.</answer>
+
+<context",Where is Daniel? 
+673,bathroom,"Answer: The most recent location of Daniel is office.
+</question>
+
+<context",Where is Daniel? 
+674,kitchen,"Answer: The most recent location of Mary is office.
+</example>
+
+<context",Where is Mary? 
+675,bathroom,"<context>
+""I'm going to the city to-morrow,"" said Mrs",Where is Mary? 
+676,office,"<answer> The most recent location of Mary is office.
+</answer>",Where is Mary? 
+677,hallway,"Label: The most recent location of Sandra is hallway.
+<context>",Where is Sandra? 
+678,hallway,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+679,hallway,"Label: bathroom
+
+<context>
+Judith went to the hallway",Where is Sandra? 
+680,kitchen,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+681,kitchen,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+682,kitchen,"Label: The most recent location of Mary is the kitchen.
+
+<context>",Where is Mary? 
+683,office,"Label: The most recent location of Mary is office.
+
+<context>
+_",Where is Mary? 
+684,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+685,garden,"Answer: The most recent location of John is garden.
+</example>
+
+<context",Where is John? 
+686,bathroom,"A: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+687,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+688,bathroom,"Answer: The most recent location of John is office.
+</example>
+
+<example",Where is John? 
+689,hallway,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+690,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+691,bathroom,<answer>The most recent location of Sandra is bathroom.</answer>,Where is Sandra? 
+692,bathroom,"Label: bathroom
+
+<context>
+""I'm going to
+j",Where is Sandra? 
+693,office,"Ans: The most recent location of Sandra is hallway.
+</context>",Where is Sandra? 
+694,garden,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+695,garden,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+696,garden,"A: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+697,bedroom,Output: The most recent location of 'Sandra' is 'bathroom'.,Where is Sandra? 
+698,kitchen,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Sandra? 
+699,bedroom,"Answer: The most recent location of Daniel is hallway.
+</question>
+
+<",Where is Daniel? 
+700,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+701,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+702,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+703,bathroom,"Label: The most recent location of John is hallway.
+
+<context>",Where is John? 
+704,office,"Label: The most recent location of John is office.
+
+<context>
+M",Where is John? 
+705,hallway,"Output: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+706,hallway,"Answer: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+707,bathroom,"Output: The most recent location of Daniel is garden.
+<context>
+The first",Where is Daniel? 
+708,office,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+709,hallway,"Label: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+710,garden,"Answer: The most recent location of John is bathroom.
+</example>
+
+<",Where is John? 
+711,garden,Label: The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+712,kitchen,"Answer: The most recent location of John is bedroom.
+</example>
+
+<",Where is John? 
+713,kitchen,"Answer: The most recent location of Sandra is hallway.
+</question>",Where is Sandra? 
+714,hallway,"Answer: The most recent location of Daniel is hallway.
+</question>
+
+<",Where is Daniel? 
+715,garden,"<context>
+""A gentleman boarding with his wife at a hotel in Paris had",Where is Sandra? 
+716,hallway,"Answer: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+717,office,"Label: office
+
+<context>
+John journeyed to the bedroom. He",Where is Daniel? 
+718,hallway,"<answer>The most recent location of Mary is office.
+</answer>",Where is Mary? 
+719,office,"Answer: The most recent location of Sandra is office.
+</example>
+
+<",Where is Sandra? 
+720,garden,"<answer>
+The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+721,hallway,"<answer>
+The most recent location of ’Sandra’ is ’hallway’",Where is Sandra? 
+722,garden,"Label: balcony
+
+<context>
+The next day, the
+three",Where is Daniel? 
+723,office,"Label: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+724,office,"Output: hallway
+<context>
+The first of the family to go to sea",Where is Sandra? 
+725,garden,"Answer: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+726,office,"Answer: The most recent location of John is office.
+</example>
+
+<context",Where is John? 
+727,bathroom,"Answer: Mary is in the bathroom.
+</question>
+
+<context>",Where is Mary? 
+728,garden,"A: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+729,bathroom,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+730,bedroom,"A: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+731,bedroom,"Output: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+732,hallway,Output: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+733,office,"<context>
+John went back to the bedroom. The little Prince, who remained",Where is Mary? 
+734,bedroom,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+735,hallway,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+736,bathroom,"<answer>The most recent location of Sandra is bathroom.
+</answer>",Where is Sandra? 
+737,bathroom,"Answer: The most recent location of John is bathroom.
+</question>
+
+<",Where is John? 
+738,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+739,kitchen,"Answer: The most recent location of John is bedroom.
+</example>",Where is John? 
+740,garden,"Label: balcony
+
+<context>
+The ""Great Nerve Special",Where is John? 
+741,garden,"Answer: The most recent location of John is garden.
+</context>
+
+<",Where is John? 
+742,kitchen,"Answer: The most recent location of Daniel is bathroom.
+</context>
+
+<",Where is Daniel? 
+743,office,"<answer>
+The most recent location of ’Sandra’ is ’hallway’",Where is Sandra? 
+744,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+745,bedroom,"Label: beach
+
+<context>
+The next day, the group
+travel",Where is Daniel? 
+746,bathroom,"<answer> The most recent location of John is bathroom.
+</answer>",Where is John? 
+747,hallway,"<context>
+""I have been thinking,"" said I, ""that I should like",Where is John? 
+748,office,"<answer> The most recent location of John is hallway.
+</answer>",Where is John? 
+749,kitchen,"Answer: The most recent location of John is hallway.
+</example>
+
+<",Where is John? 
+750,office,"Answer: The most recent location of Sandra is office.
+</context>
+
+<",Where is Sandra? 
+751,office,"Output: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+752,hallway,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+753,bedroom,"A: The most recent location of Mary is bedroom.
+</context>",Where is Mary? 
+754,hallway,"A: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+755,garden,"Output: The most recent location of Daniel is balcony.
+
+<context>",Where is Daniel? 
+756,garden,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+757,office,"Label: The most recent location of John is office.
+<context>
+Jud",Where is John? 
+758,kitchen,"Output: The most recent location of Sandra is office.
+
+<context>",Where is Sandra? 
+759,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+760,office,"Output: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+761,bedroom,"Output: The most recent location of Sandra is office.
+<context>
+John",Where is Sandra? 
+762,bathroom,"Label: bedroom
+
+<context>
+John went to the hallway. Daniel",Where is Mary? 
+763,garden,"<answer>The most recent location of Daniel is garden.
+</answer>",Where is Daniel? 
+764,hallway,"A: The most recent location of Daniel is garden.
+</example>
+
+<",Where is Daniel? 
+765,kitchen,"A: The most recent location of Sandra is the bathroom.
+</example>",Where is Sandra? 
+766,bathroom,"<answer>The most recent location of Daniel is bathroom.</answer>
+
+<",Where is Daniel? 
+767,kitchen,"Answer: The most recent location of John is office.
+</context>
+
+<context",Where is John? 
+768,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+769,bedroom,"Answer: The most recent location of John is bathroom.
+</example>
+
+<",Where is John? 
+770,bathroom,"Output: The most recent location of Daniel is bathroom.
+</example>",Where is Daniel? 
+771,bedroom,"Answer: The most recent location of John is garden.
+</question>
+
+<context",Where is John? 
+772,office,"Answer: The most recent location of John is office.
+</example>
+
+<context",Where is John? 
+773,office,"Answer: The most recent location of John is bathroom.
+</question>
+
+<",Where is John? 
+774,kitchen,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+775,kitchen,"Label: The most recent location of Daniel is kitchen.
+</context>
+
+<",Where is Daniel? 
+776,bathroom,"<answer>The most recent location of John is bathroom.
+</answer>",Where is John? 
+777,bathroom,"Label: bathroom
+
+<context>
+The Indians, whose unfortunate bl",Where is John? 
+778,bathroom,"<answer>The most recent location of John is bathroom.
+</answer>",Where is John? 
+779,office,"Label: The most recent location of Daniel is office.
+</context>
+
+<",Where is Daniel? 
+780,bedroom,"Answer: The most recent location of John is hallway.
+</context>
+
+<",Where is John? 
+781,office,"<answer>The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+782,office,"Answer: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+783,bathroom,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+784,hallway,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+785,office,"Label: The most recent location of John is office.
+
+<context>
+""",Where is John? 
+786,office,"Answer: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+787,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+788,hallway,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+789,garden,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+790,garden,<answer>The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+791,garden,"Answer: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+792,garden,"Answer: The most recent location of Sandra is office.
+</example>
+
+<",Where is Sandra? 
+793,office,"Label: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+794,garden,"Ans: The most recent location of Mary is garden.
+</context>",Where is Mary? 
+795,office,"<answer>The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+796,office,"<answer> The most recent location of Daniel is bathroom.
+</answer>",Where is Sandra? 
+797,office,"Label: balcony
+
+<context>
+""You are mistaken,"" was his",Where is Mary? 
+798,office,"<context>
+Alan went to the hallway. I went to the hallway",Where is Sandra? 
+799,office,"Answer: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+800,hallway,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+801,bathroom,"<answer> The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+802,office,"Label: bedroom
+
+<context>
+The
+Queen was now in the",Where is Mary? 
+803,bedroom,"Answer: The most recent location of Sandra is bathroom.
+</context>",Where is Sandra? 
+804,office,"A: The most recent location of Mary is office.
+</example>
+
+<",Where is Mary? 
+805,garden,"Label: The most recent location of John is garden.
+
+<context>
+""",Where is John? 
+806,bedroom,"A: The most recent location of John is bedroom.
+</example>",Where is John? 
+807,bedroom,"<answer>The most recent location of John is garden.
+</answer>",Where is John? 
+808,hallway,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+809,hallway,"Label: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+810,garden,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+811,garden,Label: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+812,office,"Label: balcony
+
+<context>
+""I am glad to see you",Where is Daniel? 
+813,hallway,"Label: balcony
+
+<context>
+""I'm going to the",Where is Daniel? 
+814,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+815,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Daniel? 
+816,office,"Answer: The most recent location of Mary is office.
+</context>
+
+<",Where is Mary? 
+817,kitchen,"Label: balcony
+
+<context>
+""The mountain rises straight up",Where is Daniel? 
+818,garden,"Label: The most recent location of John is office.
+
+<context>
+""",Where is John? 
+819,office,"Label: The most recent location of Daniel is bathroom.
+</context>",Where is Daniel? 
+820,garden,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+821,garden,"Label: balcony
+
+<context>
+_The shield_, mentioned by Vas",Where is Sandra? 
+822,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</context>
+
+<",Where is Daniel? 
+823,hallway,"Label: balcony
+
+<context>
+The Duke of Mantua, who",Where is John? 
+824,bathroom,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+825,office,"<context>
+""You will not dare to look the little angel in the face",Where is Sandra? 
+826,bathroom,"<answer> The most recent location of Mary is bathroom.
+</answer>",Where is Mary? 
+827,bedroom,"Label: bedroom
+
+<context>
+Their first meeting was in the",Where is Mary? 
+828,bathroom,"A: The most recent location of Mary is bathroom.
+</example>",Where is Mary? 
+829,kitchen,"A: The most recent location of Daniel is hallway.
+</example>",Where is Daniel? 
+830,garden,"Label: The most recent location of Mary is garden.
+
+<context>
+The",Where is Mary? 
+831,bathroom,"<context>
+The man who had been sitting on the edge of the bed, his",Where is Sandra? 
+832,garden,"<answer>The most recent location of Mary is bathroom.
+</answer>",Where is Mary? 
+833,kitchen,"Label: The most recent location of ’Sandra’ is bathroom.
+</example",Where is Sandra? 
+834,bedroom,"Answer: The most recent location of Mary is bedroom.
+</context>",Where is Mary? 
+835,bathroom,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+836,bathroom,"Label: bedroom
+
+<context>
+The first thing to be said about the",Where is John? 
+837,bathroom,"Output: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+838,office,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+839,hallway,"Output: The most recent location of Sandra is garden.
+<context>
+Al",Where is Sandra? 
+840,garden,"Output: garden
+<context>
+_The scene is a room in the house of",Where is Sandra? 
+841,garden,"Output: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+842,office,"A: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+843,kitchen,"Answer: The most recent location of John is bedroom.
+</example>
+
+<",Where is John? 
+844,kitchen,"Answer: The most recent location of John is office.
+</example>
+
+<context",Where is John? 
+845,bedroom,"<context>
+""Luck seems
+to have turned your way. Make the most",Where is Sandra? 
+846,bedroom,"Label: balcony
+
+<context>
+""I'm going to get",Where is John? 
+847,garden,"Answer: The most recent location of Sandra is garden.
+</example>",Where is Sandra? 
+848,garden,"Answer: The most recent location of Sandra is garden.
+</context>",Where is Sandra? 
+849,office,"Label: The most recent location of John is office.
+</context>
+
+<",Where is John? 
+850,bedroom,"Output: beach
+<context>
+I
+suppose Albertina is there a lot",Where is Daniel? 
+851,hallway,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+852,bathroom,"<answer> The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+853,bedroom,"Label: The most recent location of Daniel is bedroom.
+
+<context>",Where is Daniel? 
+854,bedroom,"<answer>The most recent location of Mary is bathroom.</answer>
+
+<",Where is Mary? 
+855,bedroom,"<answer>The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+856,bedroom,"Answer: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+857,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+858,kitchen,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+859,office,"<answer>The most recent location of Mary is office.
+</answer>",Where is Mary? 
+860,bathroom,"Label: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+861,garden,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+862,office,"Answer: The most recent location of Mary is office.
+</example>
+
+<example",Where is Mary? 
+863,kitchen,"<context>
+""I'm glad you're back, Bill,"" ses Sam",Where is Mary? 
+864,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+865,garden,"Label: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+866,bedroom,"Label: bedroom
+
+<context>
+[12] ""I protest,""",Where is Mary? 
+867,bedroom,"<answer>The most recent location of Mary is bedroom.</answer>
+
+<",Where is Mary? 
+868,kitchen,"<answer>The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+869,hallway,"Label: hallway
+
+<context>
+""I'm glad you've",Where is John? 
+870,bedroom,"<answer>
+The most recent location of Mary is bathroom.
+</answer>",Where is Mary? 
+871,garden,"Label: The most recent location of John is garden.
+</context>
+
+<",Where is John? 
+872,hallway,"Label: hallway
+
+<context>
+_Tuesday._--A pre",Where is John? 
+873,hallway,"Output: The most recent location of John is hallway.
+
+<context>",Where is John? 
+874,garden,"Output: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+875,garden,"Label: The most recent location of John is garden.
+
+<context>
+It",Where is John? 
+876,garden,"Label: The most recent location of John is bedroom.
+</context>",Where is John? 
+877,kitchen,"Label: The most recent location of Daniel is hallway.
+
+<context>",Where is Daniel? 
+878,hallway,"<answer>The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+879,office,"<answer>
+The most recent location of ’Sandra’ is ’hallway’",Where is Sandra? 
+880,bedroom,"Label: The most recent location of John is bedroom.
+
+<context>",Where is John? 
+881,hallway,"Label: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+882,office,"<answer>The most recent location of Mary is bathroom.</answer>
+
+<",Where is Mary? 
+883,office,"Label: hallway
+
+<context>
+Mary went back to the hallway",Where is Mary? 
+884,hallway,"Ans: The most recent location of John is hallway.
+</example>",Where is John? 
+885,bedroom,"Answer: The most recent location of John is bedroom.
+</context>
+
+<",Where is John? 
+886,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+887,hallway,"Answer: The most recent location of Daniel is hallway.
+</context>",Where is Daniel? 
+888,office,"<answer>
+The most recent location of ’Sandra’ is ’office’.",Where is Sandra? 
+889,bedroom,"Label: bedroom
+
+<context>
+The first of these, “Der Ge",Where is Daniel? 
+890,garden,"Label: The most recent location of John is garden.
+
+<context>
+The",Where is John? 
+891,office,"Answer: The most recent location of John is office.
+</context>
+
+<context",Where is John? 
+892,garden,"Label: balcony
+
+<context>
+""I'm glad you'",Where is John? 
+893,hallway,"Answer: The most recent location of Mary is hallway.
+</example>
+
+<",Where is Mary? 
+894,office,"Answer: The most recent location of John is office.
+</example>
+
+<example",Where is John? 
+895,office,"Label: balcony
+
+<context>
+“I’m glad you’",Where is John? 
+896,garden,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+897,hallway,"Answer: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+898,garden,"Label: The most recent location of John is office.
+</example>
+
+<",Where is John? 
+899,office,"<context>
+""I'm going to the garden,"" said Amy, and she",Where is Daniel? 
+900,bathroom,"<context>
+""I'm glad you've come, Mr. Sprag",Where is Daniel? 
+901,bathroom,"<answer> The most recent location of Daniel is office.
+</answer>",Where is Daniel? 
+902,garden,"<context>
+'I have been thinking,' said the Marquess, 'that",Where is John? 
+903,office,"Label: The most recent location of Mary is hallway.
+
+<context>",Where is Mary? 
+904,garden,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+905,garden,"<context>
+""I'm not going to be a fool, am I?""",Where is Sandra? 
+906,kitchen,"Output: The most recent location of Sandra is kitchen.
+</context>",Where is Sandra? 
+907,kitchen,"Output: The most recent location of Sandra is garden.
+
+<context>",Where is Sandra? 
+908,office,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+909,office,"Answer: The most recent location of Mary is office.
+</context>
+
+<context",Where is Mary? 
+910,bedroom,"<answer>The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+911,bedroom,"Answer: The most recent location of Mary is bedroom.
+</example>
+
+<",Where is Mary? 
+912,office,"Answer: The most recent location of John is office.
+</example>
+
+<example",Where is John? 
+913,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+914,garden,"Label: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+915,kitchen,"Output: The most recent location of Mary is garden.
+
+<context>
+The",Where is Mary? 
+916,hallway,"Answer: The most recent location of Sandra is hallway.
+</example>",Where is Sandra? 
+917,garden,"Output: The most recent location of Mary is garden.
+</context>
+
+<",Where is Mary? 
+918,garden,"<answer>The most recent location of Mary is garden.
+</answer>",Where is Mary? 
+919,bedroom,"Ans: The most recent location of Daniel is office.
+
+<context>",Where is Daniel? 
+920,bathroom,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+921,hallway,"Answer: The most recent location of Mary is hallway.
+</context>
+
+<",Where is Mary? 
+922,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+923,kitchen,"Label: The most recent location of Mary is office.
+</context>
+
+<",Where is Mary? 
+924,bedroom,"Answer: The most recent location of Daniel is bedroom.
+</example>
+
+<",Where is Daniel? 
+925,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+926,office,"<answer>The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+927,kitchen,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+928,office,"Label: balcony
+
+<context>
+“I guess the time
+will",Where is Daniel? 
+929,bathroom,"Label: bathroom
+
+<context>
+“I’m going to get out",Where is Mary? 
+930,office,"Answer: bathroom
+</context>
+
+<context>
+""I'm",Where is Sandra? 
+931,office,"A: The most recent location of Daniel is office.
+</example>
+
+<",Where is Daniel? 
+932,bedroom,"Answer: The most recent location of John is bathroom.
+</question>
+
+<",Where is John? 
+933,office,"Label: office
+
+<context>
+The Police had been
+patient, but",Where is Sandra? 
+934,kitchen,"Label: The most recent location of Sandra is office.
+</context>",Where is Sandra? 
+935,hallway,"Label: balcony
+
+<context>
+""Yes,"" growled Jimmy,",Where is John? 
+936,hallway,"Label: The most recent location of John is hallway.
+</context>",Where is John? 
+937,garden,"Answer: The most recent location of Daniel is bathroom.
+</example>
+
+<",Where is Daniel? 
+938,bedroom,"Output: bedroom
+<context>
+Alan went to the hallway. Daniel",Where is Sandra? 
+939,bedroom,Label: The most recent location of ’Sandra’ is ’hallway’.,Where is Sandra? 
+940,bedroom,"Answer: bedroom
+</context>
+
+<context>
+The first quarries in",Where is John? 
+941,office,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Daniel? 
+942,office,"Answer: The most recent location of Daniel is office.
+</context>
+
+<context",Where is Daniel? 
+943,kitchen,"Label: balcony
+
+<context>
+Their
+sons, however",Where is John? 
+944,hallway,"Answer: The most recent location of Daniel is hallway.
+</example>
+
+<",Where is Daniel? 
+945,office,Label: The most recent location of ’Sandra’ is ’office’.,Where is Sandra? 
+946,bathroom,"Answer: The most recent location of Mary is bathroom.
+</question>
+
+<",Where is Mary? 
+947,bathroom,"<answer>The most recent location of Sandra is bathroom.
+</answer>",Where is Sandra? 
+948,kitchen,"Output: The most recent location of Mary is bathroom.
+
+<context>",Where is Mary? 
+949,bedroom,"Ans: The most recent location of Daniel is bedroom.
+</context>",Where is Daniel? 
+950,hallway,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+951,kitchen,"<answer>The most recent location of John is hallway.
+</answer>",Where is John? 
+952,kitchen,<answer>The most recent location of ’Sandra’ is ’hallway’.</,Where is Sandra? 
+953,kitchen,"Answer: The most recent location of Mary is office.
+</question>
+
+<context",Where is Mary? 
+954,office,"Answer: The most recent location of Sandra is hallway.
+</question>",Where is Sandra? 
+955,office,"<context>
+The Moors, who had been driven from Spain, and who had",Where is John? 
+956,kitchen,"Answer: The most recent location of John is bathroom.
+</context>
+
+<",Where is John? 
+957,garden,"<answer> The most recent location of Sandra is garden.
+</answer>",Where is Sandra? 
+958,kitchen,"Answer: The most recent location of Daniel is garden.
+</context>
+
+<context",Where is Sandra? 
+959,bedroom,"Answer: bedroom
+</context>
+
+<context>
+John went back to the",Where is John? 
+960,hallway,"Answer: The most recent location of Mary is hallway.
+</context>
+
+<",Where is Mary? 
+961,bathroom,"Output: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+962,bathroom,"<answer>hallway</answer>
+
+<context>
+The next morning,",Where is John? 
+963,bedroom,"<answer>The most recent location of Mary is office.
+</answer>",Where is Mary? 
+964,garden,"Label: office
+
+<context>
+Arrived at Cortland about ten in",Where is Mary? 
+965,garden,"Output: The most recent location of Daniel is garden.
+</context>
+
+<",Where is Daniel? 
+966,bathroom,"Answer: The most recent location of Mary is bathroom.
+</context>
+
+<",Where is Mary? 
+967,bathroom,"Label: balcony
+
+<context>
+Their son, the present Earl",Where is Daniel? 
+968,hallway,"Ans: The most recent location of Mary is hallway.
+</context>",Where is Mary? 
+969,kitchen,"Answer: The most recent location of Daniel is office.
+</example>
+
+<context",Where is Sandra? 
+970,bathroom,"<context>
+The first thing that struck me was the
+extraordinary height of the",Where is Daniel? 
+971,kitchen,"<answer>The most recent location of Daniel is bathroom.
+</answer>",Where is Daniel? 
+972,bathroom,"Answer: The most recent location of Sandra is bathroom.
+</example>",Where is Sandra? 
+973,hallway,"Label: The most recent location of Daniel is bathroom.
+
+<context>",Where is Daniel? 
+974,hallway,"<answer>The most recent location of Daniel is hallway.
+</answer>",Where is Daniel? 
+975,bedroom,"<answer> The most recent location of Daniel is bedroom.
+</answer>",Where is Daniel? 
+976,office,"Answer: The most recent location of John is office.
+</example>
+
+<example",Where is John? 
+977,office,"Label: balcony
+
+<context>
+""I'm going to the",Where is John? 
+978,bedroom,"Label: bedroom
+
+<context>
+""I'm going to the beach",Where is Mary? 
+979,hallway,"Label: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+980,kitchen,"Label: The most recent location of Mary is bedroom.
+
+<context>",Where is Mary? 
+981,bathroom,"A: bathroom
+<context>
+_Pub._ With reverence and astonishment",Where is Mary? 
+982,bedroom,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+983,office,"<answer>The most recent location of Sandra is office.</answer>
+
+<",Where is Sandra? 
+984,garden,"Label: The most recent location of Mary is garden.
+
+<context>
+The",Where is Mary? 
+985,garden,Label: The most recent location of ’person’ is ’garden’.,Where is Sandra? 
+986,garden,"Answer: The most recent location of Sandra is garden.
+</example>
+
+<",Where is Sandra? 
+987,office,"<answer>The most recent location of Mary is bathroom.
+</answer>",Where is Mary? 
+988,bathroom,"Label: The most recent location of John is bathroom.
+
+<context>",Where is John? 
+989,bathroom,"Answer: The most recent location of John is bathroom.
+</example>
+
+<",Where is John? 
+990,garden,"<context>
+""I'm glad you're back, Mr. Shar",Where is Sandra? 
+991,kitchen,"Answer: The most recent location of Sandra is garden.
+</context>
+
+<",Where is Sandra? 
+992,garden,"Output: The most recent location of John is garden.
+<context>
+""Well",Where is John? 
+993,garden,"Label: hallway
+
+<context>
+""Och, no, yer",Where is Daniel? 
+994,garden,"Label: The most recent location of Mary is garden.
+</example>
+
+<",Where is Mary? 
+995,kitchen,"Answer: The most recent location of John is the kitchen.
+</context>
+
+<",Where is John? 
+996,hallway,"Output: The most recent location of Sandra is hallway.
+
+<context>",Where is Sandra? 
+997,office,"Output: The most recent location of Sandra is bedroom.
+
+<context>",Where is Sandra? 
+998,bathroom,"Label: The most recent location of Sandra is bathroom.
+
+<context>",Where is Sandra? 
+999,bedroom,"Answer: The most recent location of John is office.
+</example>
+
+<",Where is John? 

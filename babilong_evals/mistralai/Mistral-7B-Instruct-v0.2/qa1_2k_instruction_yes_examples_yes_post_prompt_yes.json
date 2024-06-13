@@ -1,0 +1,16 @@
+{
+    "prompt": {
+        "instruction": "I will give you context with the facts about positions of different persons hidden in some random text and a question. You need to answer the question based only on the information from the facts. If a person was in different locations, use the latest location to answer the question.",
+        "examples": "<example>\nCharlie went to the hallway. Judith come back to the kitchen. Charlie travelled to balcony. Where is Charlie?\nAnswer: The most recent location of Charlie is balcony.\n</example>\n\n<example>\nAlan moved to the garage. Charlie went to the beach. Alan went to the shop. Rouse travelled to balcony. Where is Alan?\nAnswer: The most recent location of Alan is shop.\n</example>",
+        "post_prompt": "Always return your answer in the following format: The most recent location of \u2019person\u2019 is \u2019location\u2019. Do not write anything else after that. ",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{context}\n</context>\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null,
+        "pad_token_id": 2
+    }
+}
