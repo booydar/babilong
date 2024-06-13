@@ -54,6 +54,7 @@ def main(
     # define generation parameters
     generate_kwargs = {
         'max_new_tokens': 20,
+        'max_length': None,
         'num_beams': 1,
         'do_sample': False,
         'temperature': None,
@@ -74,8 +75,9 @@ def main(
             'examples': DEFAULT_PROMPTS[task]['examples'] if use_examples else '',
             'post_prompt': DEFAULT_PROMPTS[task]['post_prompt'] if use_post_prompt else '',
             'template': DEFAULT_TEMPLATE,
+            'chat_template': use_chat_template,
         }
-        prompt_name = [f'{k}_no' if len(prompt_cfg[k]) == 0 else f'{k}_yes' for k in prompt_cfg if k != 'template']
+        prompt_name = [f'{k}_yes' if prompt_cfg[k] else f'{k}_no' for k in prompt_cfg if k != 'template']
         prompt_name = '_'.join(prompt_name)
 
         for split_name in tqdm(split_names, desc='lengths'):
@@ -119,24 +121,30 @@ def main(
                     output = response['content'].strip()
                 else:
                     # generate output using local model
-                    if use_chat_template:
-                        input_text = [{'role': 'user', 'content': input_text}]
-                        model_inputs = tokenizer.apply_chat_template(input_text, add_generation_prompt=True,
-                                                                     return_tensors='pt').to(model.device)
-                        model_inputs = {'input_ids': model_inputs}
+                    if model.name_or_path in ['THUDM/chatglm3-6b-128k']:
+                        # have to add special code to run chatglm as tokenizer.chat_template tokenization is not
+                        # the same as in model.chat (recommended in https://huggingface.co/THUDM/chatglm3-6b-128k)
+                        with torch.no_grad():
+                            output, _ = model.chat(tokenizer, input_text, history=[], **generate_kwargs)
                     else:
-                        model_inputs = tokenizer(input_text, return_tensors='pt',
-                                                 add_special_tokens=True).to(model.device)
+                        if use_chat_template:
+                            input_text = [{'role': 'user', 'content': input_text}]
+                            model_inputs = tokenizer.apply_chat_template(input_text, add_generation_prompt=True,
+                                                                         return_tensors='pt').to(model.device)
+                            model_inputs = {'input_ids': model_inputs}
+                        else:
+                            model_inputs = tokenizer(input_text, return_tensors='pt',
+                                                     add_special_tokens=True).to(model.device)
 
-                    sample_length = model_inputs['input_ids'].shape[1]
-                    with torch.no_grad():
-                        output = model.generate(**model_inputs, **generate_kwargs)
-                        # we need to reset memory states between samples for activation-beacon models
-                        if 'activation-beacon' in model.name_or_path and hasattr(model, 'memory'):
-                            model.memory.reset()
+                        sample_length = model_inputs['input_ids'].shape[1]
+                        with torch.no_grad():
+                            output = model.generate(**model_inputs, **generate_kwargs)
+                            # we need to reset memory states between samples for activation-beacon models
+                            if 'activation-beacon' in model.name_or_path and hasattr(model, 'memory'):
+                                model.memory.reset()
 
-                    output = output[0][sample_length:]
-                    output = tokenizer.decode(output, skip_special_tokens=True).strip()
+                        output = output[0][sample_length:]
+                        output = tokenizer.decode(output, skip_special_tokens=True).strip()
 
                 df.loc[len(df)] = [target, output, question]
                 # write results to csv file
@@ -147,7 +155,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Run model evaluation')
     parser.add_argument('--results_folder', type=str, required=True, default='./babilong_evals',
                         help='Folder to store results')
-    parser.add_argument('--dataset_name', type=str, required=True, default='booydar/babilong-1k-samples',
+    parser.add_argument('--dataset_name', type=str, required=True, default='RMT-team/babilong-1k-samples',
                         help='dataset name from huggingface')
     parser.add_argument('--model_name', type=str, required=True, help='Name of the model to use')
     parser.add_argument('--tasks', type=str, nargs='+', required=True, help='List of tasks to evaluate: qa1 qa2 ...')

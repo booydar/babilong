@@ -11,7 +11,7 @@ USE_EXAMPLES=true
 USE_POST_PROMPT=true
 API_URL="http://localhost:8082/completion"
 
-DATASET_NAME="booydar/babilong-1k-samples"
+DATASET_NAME="RMT-team/babilong-1k-samples"
 TASKS=("qa1" "qa2" "qa3" "qa4" "qa5")
 LENGTHS=("0k" "1k" "2k" "4k" "8k" "16k" "32k")
 
@@ -32,7 +32,7 @@ python scripts/run_model_on_babilong.py \
     $( [ "$USE_POST_PROMPT" == true ] && echo "--use_post_prompt" ) \
     --api_url "$API_URL"
 
-DATASET_NAME="booydar/babilong-samples"
+DATASET_NAME="RMT-team/babilong"
 TASKS=("qa1" "qa2" "qa3" "qa4" "qa5")
 LENGTHS=("64k" "128k")
 
