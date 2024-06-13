@@ -36,39 +36,26 @@ BABILong consists of 20 tasks designed for evaluation of basic aspects of reason
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/babilong_usage_example.ipynb) [BABILong notebook](https://github.com/booydar/babilong/blob/main/notebooks/babilong_usage_example.ipynb)
 
- ## Preliminary evaluation results
+ ## LLM evaluation results
 
-### GPT-4 fails to solve needle in a haystack tasks for 75% of available context window
 
-<img src="images/gpt4_qa1_qa5.png" alt="drawing" width="400"/>
+<img src="images/babilong_evals_all.png" alt="drawing" width="1000"/>
 
- Every row shows accuracy in % of solving corresponding BABILong task ('qa1'-'qa5') and every column corresponds to the task size submitted to GPT4-Turbo with 128K context window. All values are averages of 25 samples.
+We have included long-context models with the highest number of
+monthly downloads from the Hugging Face platform in our evaluation. Values represent average accuracy over QA1-QA5 tasks from BABILong.
 
-### Mistral performance scales only for some tasks but  but quickly degenerates for majority of others as context grow
+### BABILong is a challenging benchmark for current long-context models.
 
-<img src="images/mistral_qa1_qa10.png" alt="drawing" width="300"/>
+Even models that claim to support 128K tokens experience degradation beyond 10\% of their input capacity. RAG methods do not help, while fine-tuning of small scale models (RMT 137M and Mamba 130M) shows that the tasks are solvable.
 
-Every row shows accuracy in % of solving corresponding BABILong task ('qa1'-'qa10') and every column corresponds to the task size submitted to Mistarl-Medium with 32K context window. All values are averages of 25 samples.
-
-### Fine-tuning of GPT-3.5 improves search of supporting facts in medium context size
-
-<img src="images/gpt35_qa1_finetune.png" alt="drawing" width="350"/>
-
-Every row shows accuracy in % for GPT-3.5 before and after fine-tuning via API with 100 samples on 'qa1' task. Every column corresponds to the task size. All values are averages of 25 samples.
-
-### Retrieval augmentation does not help to solve needle in a haystack QA task
-
-<img src="images/GPT4_RAG.png" alt="drawing" width="600"/>
-
-**A** Retrieval does the job if embeddings match fact size. The figure shows recall@5 scores of a retrieval RAG component on 'qa1' task for the given size for sentences (sent) and text pieces of 512 tokens (tok). 
-
-**B** Accuracy in % by GPT4 based RAG. All values are averages of 50 samples.
 
 ### Evaluate your favorite LLM on BABILong
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Evaluate your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
+Examples for evaluation of popular LLMs are provided in the `./notebooks` folder. 
 
-Examples for evaluation of other popular LLMs are provided in the `./notebooks` folder. 
+### Train your model on BABILong
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Train your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
 
 You can generate training samples using the README in `./data`.
 
