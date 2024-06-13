@@ -2,7 +2,7 @@
 
 Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
 
-Hugging Face Dataset [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) 
+Evaluation sets of BABILong on HF Datasets: [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) per task and per length (0, 1, 2, 4, 8, 16, 32, 64, 128, 256, 512k, 1M and 10M).
 
 Hugging Face [Leaderboard](https://huggingface.co/spaces/RMT-team/babilong)
 
@@ -70,7 +70,9 @@ Every row shows accuracy in % for GPT-3.5 before and after fine-tuning via API w
 
 Examples for evaluation of other popular LLMs are provided in the `./notebooks` folder. 
 
-You can generate training samples using the README in `./data`.  
+You can generate training samples using the README in `./data`.
+
+Predictions of various LLMs that we evaluated on BABILong (GPT-4, GPT-3.5, Mistral, Mixtral, Phi-3, ChatGLM, Yi, Jamba) are in [predictions_06_2024](https://github.com/booydar/babilong/tree/predictions_06_2024) branch.
 
 ## Join the Challenge: Help Build the BABILong LLM Leaderboard!
 
