@@ -1,0 +1,15 @@
+{
+    "prompt": {
+        "instruction": "",
+        "examples": "",
+        "post_prompt": "",
+        "template": "{instruction}\n{examples}\n{post_prompt}\nContext: {context}\n\nQuestion: {question}"
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null
+    }
+}

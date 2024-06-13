@@ -1,0 +1,315 @@
+Unnamed: 0,target,output,question
+0,football,Answer: football,What did Fred give to Jeff? 
+1,Fred,Answer: Fred,Who gave the football to Jeff? 
+2,football,- response: football,What did Fred give to Jeff? 
+3,Jeff,"- response: Jeff
+
+
+The context provided clearly states the sequence of actions involving the football. Initially,",Who did Fred give the football to? 
+4,Fred,- response: Jeff gave the football to Fred.,Who did Jeff give the football to? 
+5,Jeff,"- response: Jeff
+
+
+In the provided context, the sequence of events is as follows:
+
+1",Who gave the apple? 
+6,Bill,"- response: Bill
+
+
+In the provided context, the sequence of events related to the apple is as follows",Who received the apple? 
+7,apple,"- response: apple
+
+However, based on the provided context, there seems to be a misunderstanding in the",What did Bill give to Fred? 
+8,apple,- response: apple,What did Bill give to Fred? 
+9,Fred,Answer: Bill,Who received the apple? 
+10,Mary,"- response: Mary
+
+
+In the provided context, the sequence of events is as follows:
+
+1",Who received the milk? 
+11,milk,- response: milk,What did Mary give to Bill? 
+12,Bill,- response: Bill,Who received the milk? 
+13,Bill,"===
+Bill
+
+
+Context: Bill journeyed to the bedroom. Bill got the football there. Fred",Who did Mary give the milk to? 
+14,milk,- response: milk,What did Mary give to Bill? 
+15,Jeff,"Answer: Jeff
+
+Context: Mary journeyed to the garden. Mary travelled to the bedroom. Mary got",Who received the football? 
+16,Fred,"===
+Fred
+
+
+Explanation: The context provided outlines a sequence of events involving the passing of",Who gave the football to Jeff? 
+17,football,- response: football,What did Fred give to Jeff? 
+18,Jeff,"- response: Jeff
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who received the football? 
+19,Mary,"Answer: Mary
+
+
+
+Context: Mary grabbed the apple there. Mary handed the apple to Bill",Who gave the milk? 
+20,milk,- response: milk,What did Jeff give to Mary? 
+21,Mary,"Answer: Mary
+
+
+
+II. Context with additional constraints:
+
+1. The context includes temporal sequences",Who gave the milk to Jeff? 
+22,Mary,"Answer: Mary
+
+
+
+II. Context with facts about locations and their relations hidden in some random text and",Who gave the milk to Jeff? 
+23,Bill,- response: Bill,Who gave the apple to Jeff? 
+24,Jeff,"- response: Jeff
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who gave the apple? 
+25,apple,Answer: apple,What did Jeff give to Fred? 
+26,Fred,"Answer:
+
+- response: Fred
+
+
+The context provided gives us a sequence of events involving several characters and",Who received the apple? 
+27,Jeff,"Answer:
+
+- response: Fred
+
+Explanation: The facts state that ""Jeff picked up the",Who received the apple? 
+28,Jeff,"Answer: Jeff
+
+Context: Bill went back to the bathroom. Fred went to the garden. Fred passed the",Who gave the apple? 
+29,Fred,"Answer: Fred
+
+Context: Bill went to the bathroom. Fred went to the bathroom. Fred went to",Who did Jeff give the apple to? 
+30,Mary,"- response: Mary
+
+
+In the provided context, the sequence of events related to the milk is as follows",Who gave the milk? 
+31,Bill,"- response: Mary
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who gave the milk? 
+32,Bill,"- response: Bill
+
+
+In the provided context, the sequence of events related to the milk is as follows",Who gave the milk to Mary? 
+33,milk,"- response: Milk
+
+
+To arrive at the answer, we need to follow the sequence of events as",What did Bill give to Mary? 
+34,apple,Answer: apple,What did Mary give to Fred? 
+35,Jeff,"Answer: Jeff
+
+
+
+Context: Bill went to the bathroom. Mary went back to the garden.",Who did Fred give the milk to? 
+36,Jeff,"===
+Jeff
+
+
+To find the answer, we need to look for the specific fact that answers the question",Who did Fred give the milk to? 
+37,milk,"Answer: milk
+
+
+
+II. Context with additional constraints:
+
+1. The context includes temporal sequences",What did Jeff give to Mary? 
+38,milk,Answer: milk,What did Jeff give to Mary? 
+39,Fred,- response: Fred gave the apple.,Who gave the apple? 
+40,Mary,"Answer: Mary
+
+
+
+Context: Mary picked up the apple there. Mary handed the apple to Bill.",Who gave the milk? 
+41,milk,- response: Mary passed the milk to Fred.,What did Mary give to Fred? 
+42,Jeff,Answer: Mary,Who gave the milk? 
+43,Fred,Answer: Mary,Who received the milk? 
+44,Mary,"===
+Mary
+
+Explanation: The facts provided in the context show a sequence of events involving the milk",Who gave the milk? 
+45,Bill,Answer: Bill,Who did Mary give the milk to? 
+46,milk,Answer: milk,What did Mary give to Bill? 
+47,Mary,"Answer: Mary
+
+
+
+II. Context with additional constraints:
+
+1. The context includes multiple actions",Who gave the milk? 
+48,Mary,"Answer: Mary
+
+
+
+II. Context with facts about locations and their relations hidden in some random text and",Who did Bill give the milk to? 
+49,Bill,"Answer: Bill
+
+
+
+II. Context with facts about locations and their relations hidden in some random text and",Who gave the milk to Mary? 
+50,Mary,Answer: Mary,Who gave the apple to Fred? 
+51,Fred,Answer: Jeff,Who gave the apple to Mary? 
+52,apple,"Answer: apple
+
+
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen",What did Fred give to Mary? 
+53,apple,"Answer: apple
+
+
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen",What did Mary give to Jeff? 
+54,apple,"Answer: apple
+
+
+
+Context: Bill grabbed the apple there. Jeff went back to the kitchen",What did Mary give to Jeff? 
+55,Fred,"- response: Fred
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who received the football? 
+56,football,"- response: football
+
+
+To arrive at the answer, we need to follow the sequence of events related to",What did Bill give to Fred? 
+57,Bill,"Answer: Bill
+
+
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved",Who gave the apple? 
+58,Bill,"Answer: Bill
+
+
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved",Who did Mary give the apple to? 
+59,Jeff,"Answer: Jeff
+
+
+
+Context: Mary took the apple there. Jeff moved to the kitchen. Jeff moved",Who did Bill give the apple to? 
+60,Jeff,"Answer: Jeff
+
+Context: Mary travelled to the kitchen. Jeff travelled to the garden. Mary picked up",Who did Bill give the apple to? 
+61,Bill,"===
+Bill
+
+
+To find the answer, we need to follow the sequence of events related to the apple",Who gave the apple to Jeff? 
+62,Jeff,"Answer: Jeff
+
+
+
+II. Context with facts about locations and their relations hidden in some random text and",Who gave the apple to Bill? 
+63,Bill,Answer: Bill,Who received the apple? 
+64,Mary,"Answer: Mary
+
+
+
+Context: Mary travelled to the kitchen. Jeff travelled to the garden.",Who gave the milk? 
+65,Mary,Answer: Mary,Who gave the apple to Bill? 
+66,Bill,- response: Bill,Who did Mary give the apple to? 
+67,Mary,"- response: Mary
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who did Bill give the apple to? 
+68,apple,- response: apple,What did Bill give to Mary? 
+69,Mary,"===
+Mary
+
+
+Context: Bill moved to the bedroom. Fred went to the hallway. Jeff",Who did Bill give the apple to? 
+70,apple,Answer: apple,What did Fred give to Jeff? 
+71,Jeff,Answer: Fred,Who gave the football? 
+72,Jeff,"Answer: Fred
+
+
+
+Context: Bill went back to the bathroom. Jeff journeyed to the garden",Who gave the football? 
+73,apple,Answer: apple,What did Fred give to Bill? 
+74,apple,Answer: apple,What did Fred give to Bill? 
+75,Fred,"Answer: Fred
+
+Context: Bill got the milk there. Bill went to the garden. Bill gave the milk to",Who gave the football? 
+76,Fred,- response: Fred,Who gave the football? 
+77,Mary,"Answer: Mary
+
+
+
+Context: Mary journeyed to the garden. Mary took the milk there. Mary",Who received the football? 
+78,Mary,"- response: Mary
+
+However, it's important to note that the sequence of events as described actually involves",Who gave the football? 
+79,football,"- response: Mary passed the football to Fred.
+
+Answer: football
+
+
+In the given context,",What did Mary give to Fred? 
+80,milk,Answer: milk,What did Fred give to Jeff? 
+81,milk,Answer: milk,What did Fred give to Jeff? 
+82,Fred,Answer: Fred,Who did Jeff give the milk to? 
+83,milk,"Answer: milk
+
+
+
+Context: Bill moved to the garden. Fred went to the office. Mary picked",What did Jeff give to Fred? 
+84,Jeff,"Answer: Jeff
+
+
+- [Response]: Jeff gave the milk to Fred.",Who gave the milk to Fred? 
+85,Fred,"===
+Fred
+
+
+Explanation:
+The context provided outlines a sequence of events involving the transfer",Who did Mary give the apple to? 
+86,Fred,"===
+Bill
+
+
+Explanation: In the given context, the sequence of events regarding the apple is",Who gave the apple to Mary? 
+87,Mary,"- response: Fred
+
+
+To determine who gave the apple, we need to follow the chain of events as",Who gave the apple? 
+88,Jeff,"- response: The context provided does not contain a sequence where Mary gives the apple to anyone. Instead, the apple",Who did Mary give the apple to? 
+89,Jeff,"- response: Jeff
+
+
+To arrive at the answer, we need to follow the sequence of events related to",Who received the football? 
+90,football,Answer: football,What did Mary give to Jeff? 
+91,Mary,Answer: Mary,Who received the football? 
+92,Mary,"===
+Jeff
+
+
+To find the answer to the question ""Who gave the football?"", we need to",Who gave the football? 
+93,Jeff,Answer: Jeff,Who did Mary give the football to? 
+94,Bill,Answer: Bill,Who did Fred give the apple to? 
+95,Jeff,"===
+Jeff
+
+
+Explanation:
+The context provided states that ""Mary grabbed the",Who did Mary give the apple to? 
+96,Mary,Answer: Mary,Who gave the apple to Jeff? 
+97,apple,"- response: apple
+
+
+Explanation:
+The context provided gives us a sequence of events involving the",What did Jeff give to Fred? 
+98,Fred,"- response: Fred
+
+
+To arrive at the answer, we need to follow the sequence of events as described",Who did Jeff give the apple to? 
+99,milk,- response: milk,What did Bill give to Mary? 

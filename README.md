@@ -2,12 +2,16 @@
 
 Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
 
+Evaluation sets of BABILong on HF Datasets: [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) per task and per length (0, 1, 2, 4, 8, 16, 32, 64, 128, 256, 512k, 1M and 10M).
+
+Hugging Face [Leaderboard](https://huggingface.co/spaces/RMT-team/babilong)
+
 ## bAbI + Books = BABILong
 
 **BABILong** is a novel generative benchmark for evaluating the performance of NLP models in
 processing arbitrarily long documents with distributed facts.
 
-Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) as background text. Resulting test samples might have lenghts of **millions of tokens**.
+Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) [2] as background text. Resulting test samples might have lenghts of **millions of tokens**.
 
 <img src="images/babilong_scheme.png" alt="drawing" width="500"/>
 
@@ -15,55 +19,50 @@ BABILong consists of 20 tasks designed for evaluation of basic aspects of reason
 
 ### First ten tasks of BABILong
 
- | Task | Name                     | min facts per task | max facts per task |
-|------|--------------------------|--------------------|--------------------|
-| qa1  | single supporting fact   | 2                  | 10                 |
-| qa2  | two supporting facts     | 2                  | 68                 |
-| qa3  | three supporting facts   | 4                  | 320                |
-| qa4  | two arg relations        | 2                  | 2                  |
-| qa5  | three arg relations      | 2                  | 126                |
-| qa6  | yes-no questions         | 2                  | 26                 |
-| qa7  | counting                 | 2                  | 52                 |
-| qa8  | lists-sets               | 2                  | 50                 |
-| qa9  | simple negation          | 2                  | 10                 |
-| qa10 | indefinite knowledge     | 2                  | 10                 |
+ | Task | Name                     | facts per task | supporting facts per task |
+|------|--------------------------|-----------------|---------------------------|
+| qa1  | single supporting fact   | 2 - 10          | 1                         |
+| qa2  | two supporting facts     | 2 - 68          | 2                         |
+| qa3  | three supporting facts   | 4 - 32          | 3                         |
+| qa4  | two arg relations        | 2               | 1                         |
+| qa5  | three arg relations      | 2 - 126         | 1                         |
+| qa6  | yes-no questions         | 2 - 26          | 1                         |
+| qa7  | counting                 | 2 - 52          | 1-10                      |
+| qa8  | lists-sets               | 2 - 50          | 1-8                       |
+| qa9  | simple negation          | 2 - 10          | 1                         |
+| qa10 | indefinite knowledge     | 2 - 10          | 1                         |
 
 ### Play with dataset
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/babilong_usage_example.ipynb) [BABILong notebook](https://github.com/booydar/babilong/blob/main/notebooks/babilong_usage_example.ipynb)
 
- ## Preliminary evaluation results
+ ## LLM evaluation results
 
-### GPT-4 fails to solve needle in a haystack tasks for 75% of available context window
 
-<img src="images/gpt4_qa1_qa5.png" alt="drawing" width="400"/>
+<img src="images/babilong_evals_all.png" alt="drawing" width="1000"/>
 
- Every row shows accuracy in % of solving corresponding BABILong task ('qa1'-'qa5') and every column corresponds to the task size submitted to GPT4-Turbo with 128K context window. All values are averages of 25 samples.
+We have included long-context models with the highest number of
+monthly downloads from the Hugging Face platform in our evaluation. Values represent average accuracy over QA1-QA5 tasks from BABILong.
 
-### Mistral performance scales only for some tasks but  but quickly degenerates for majority of others as context grow
+### BABILong is a challenging benchmark for current long-context models.
 
-<img src="images/mistral_qa1_qa10.png" alt="drawing" width="300"/>
+Even models that claim to support 128K tokens experience degradation beyond 10\% of their input capacity. RAG methods do not help, while fine-tuning of small scale models (RMT 137M and Mamba 130M) shows that the tasks are solvable.
 
-Every row shows accuracy in % of solving corresponding BABILong task ('qa1'-'qa10') and every column corresponds to the task size submitted to Mistarl-Medium with 32K context window. All values are averages of 25 samples.
-
-### Fine-tuning of GPT-3.5 improves search of supporting facts in medium context size
-
-<img src="images/gpt35_qa1_finetune.png" alt="drawing" width="350"/>
-
-Every row shows accuracy in % for GPT-3.5 before and after fine-tuning via API with 100 samples on 'qa1' task. Every column corresponds to the task size. All values are averages of 25 samples.
-
-### Retrieval augmentation does not help to solve needle in a haystack QA task
-
-<img src="images/GPT4_RAG.png" alt="drawing" width="600"/>
-
-**A** Retrieval does the job if embeddings match fact size. The figure shows recall@5 scores of a retrieval RAG component on 'qa1' task for the given size for sentences (sent) and text pieces of 512 tokens (tok). 
-
-**B** Accuracy in % by GPT4 based RAG. All values are averages of 50 samples.
 
 ### Evaluate your favorite LLM on BABILong
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Evaluate your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
+Examples for evaluation of popular LLMs are provided in the `./notebooks` and `./scripts` folders.
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)  [Example how to evaluate models on BABILong](https://github.com/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)
+
+
+### Train your model on BABILong
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Train your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
+
+You can generate training samples using the README in `./data`.
+
+Predictions of various LLMs that we evaluated on BABILong (GPT-4, GPT-3.5, Mistral, Mixtral, Phi-3, ChatGLM, Yi, Jamba) are in [predictions_06_2024](https://github.com/booydar/babilong/tree/predictions_06_2024) branch.
 
 ## Join the Challenge: Help Build the BABILong LLM Leaderboard!
 
@@ -101,6 +100,70 @@ Join us in this exciting endeavor and let's push the boundaries of what's possib
 }
 ```
 
+## Dataset Metadata
+
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">The BABILong Benchmark</code></td>
+  </tr>
+  <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">BABILong</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/booydar/babilong</code></td>
+  </tr>
+  <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/booydar/babilong</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">This repository contains code and instructions for BABILong benchmark. The BABILong benchmark is designed to test language models' ability to reason across facts distributed in extremely long documents. BABILong includes a diverse set of 20 reasoning tasks, including fact chaining, simple induction, deduction, counting, and handling lists/sets. BABILong uses tasks with facts and questions from bAbI. PG-19 books are used as source of long natural contexts.</code></td>
+  </tr>
+  <tr>
+    <td>license</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/CreativeWork" itemprop="license">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Apache License, Version 2.0</code></td>
+          </tr>
+          <tr>
+            <td>url</td>
+            <td><code itemprop="url">https://www.apache.org/licenses/LICENSE-2.0.html</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://identifiers.org/arxiv:2402.10790</code></td>
+  </tr>
+</table>
+</div>
+
 ## References
 
 [1] Weston, Jason, et al. "Towards ai-complete question answering: A set of prerequisite toy tasks." arXiv preprint [arXiv:1502.05698](https://arxiv.org/abs/1502.05698) (2015).
+
+[2] Rae, Jack W., et al. "Compressive Transformers for Long-Range Sequence Modelling." International Conference on Learning Representations. 2019.
+
+## License
+
+Our code is released under the Apache 2.0 License. We use data from the PG-19 corpora (Rae et al., 2020) ([Apache 2.0 License](https://github.com/google-deepmind/pg19/blob/master/LICENSE)) and the bAbI dataset (Weston et al., 2016) ([BSD License](https://github.com/facebookarchive/bAbI-tasks/blob/master/LICENSE.md)).

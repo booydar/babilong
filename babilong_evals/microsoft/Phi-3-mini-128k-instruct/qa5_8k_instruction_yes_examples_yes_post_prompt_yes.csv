@@ -1,0 +1,2293 @@
+Unnamed: 0,target,output,question
+0,football,- ai: A football,What did Fred give to Jeff? 
+1,Fred,Answer: Fred,Who gave the football to Jeff? 
+2,football,- response: The football.,What did Fred give to Jeff? 
+3,Jeff,- response: Jeff,Who did Fred give the football to? 
+4,Fred,"Answer: Fred
+
+- [Response]: Jeff gave the football to Fred.",Who did Jeff give the football to? 
+5,Jeff,- response: Fred,Who gave the apple? 
+6,Bill,- response: Fred,Who received the apple? 
+7,apple,- ai: Apple,What did Bill give to Fred? 
+8,apple,- response: An apple,What did Bill give to Fred? 
+9,Fred,- ai: Bill,Who received the apple? 
+10,Mary,"Answer: Mary
+
+- response: Mary received the milk.",Who received the milk? 
+11,milk,"- response: milk
+
+Explanation: The context clearly states that ""Bill picked up the milk there",What did Mary give to Bill? 
+12,Bill,"- Answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who received the milk? 
+13,Bill,- response: Bill,Who did Mary give the milk to? 
+14,milk,- response: The milk.,What did Mary give to Bill? 
+15,Jeff,"- response: Fred
+
+- response: The context provided does not mention a football being passed to anyone. Instead",Who received the football? 
+16,Fred,"- response: Fred
+
+- support: The context provided indicates that Fred handed the football to Jeff. This is",Who gave the football to Jeff? 
+17,football,"- Answer: football
+
+- answer: football",What did Fred give to Jeff? 
+18,Jeff,"Answer: Jeff
+
+- Response: Jeff
+
+The context provided states that ""Fred handed the football to Jeff",Who received the football? 
+19,Mary,- response: Mary,Who gave the milk? 
+20,milk,- ai: milk,What did Jeff give to Mary? 
+21,Mary,Answer: Mary,Who gave the milk to Jeff? 
+22,Mary,"- response: Mary
+
+Explanation: The context provided indicates that Mary passed the milk to Jeff. This",Who gave the milk to Jeff? 
+23,Bill,- response: Mary passed the apple to Jeff.,Who gave the apple to Jeff? 
+24,Jeff,"- Response: Bill
+
+Explanation: The context provided states that Bill grabbed the apple and then",Who gave the apple? 
+25,apple,"Answer: apple
+
+- response: apple
+
+The context provided in the text clearly states that ""Jeff passed",What did Jeff give to Fred? 
+26,Fred,"- response: Fred
+
+- support: The context provided indicates that Mary initially picked up an apple and then gave",Who received the apple? 
+27,Jeff,"Answer: Jeff
+
+Question: What did Ruby wish to call her doll?
+
+Answer: May Kirke",Who received the apple? 
+28,Jeff,"Answer: Fred
+
+Explanation: The text states ""Fred gave the apple"", which clearly indicates that",Who gave the apple? 
+29,Fred,- response: Fred,Who did Jeff give the apple to? 
+30,Mary,- response: Bill took the milk.,Who gave the milk? 
+31,Bill,- response: Mary handed the milk to Bill.,Who gave the milk? 
+32,Bill,"- Answer: Bill
+
+- [30]",Who gave the milk to Mary? 
+33,milk,- response: Bill gave Mary the milk.,What did Bill give to Mary? 
+34,apple,- ai: Apple,What did Mary give to Fred? 
+35,Jeff,- response: Jeff,Who did Fred give the milk to? 
+36,Jeff,- response: Jeff,Who did Fred give the milk to? 
+37,milk,"- response: Jeff gave the milk to Mary.
+
+However, it is important to note that the milk was",What did Jeff give to Mary? 
+38,milk,"- response: The context does not mention any interaction where Jeff gives anything to Mary. Therefore, based on the provided",What did Jeff give to Mary? 
+39,Fred,"- response: Bill
+
+- support: Bill took the apple there.",Who gave the apple? 
+40,Mary,- response: Mary,Who gave the milk? 
+41,milk,"Answer: An apple
+
+Question: Who did Fred give the apple to?
+Answer: Fred gave the apple to",What did Mary give to Fred? 
+42,Jeff,"Answer: Jeff
+
+- Response: Jeff picked up the milk there.",Who gave the milk? 
+43,Fred,- response: Fred,Who received the milk? 
+44,Mary,- response: Fred,Who gave the milk? 
+45,Bill,"- ai: Bill
+
+- support: The context provided indicates that Mary moved to the kitchen and gave the milk",Who did Mary give the milk to? 
+46,milk,- response: Milk,What did Mary give to Bill? 
+47,Mary,- response: Bill gave the milk.,Who gave the milk? 
+48,Mary,"- ai: Mary
+
+- support: The context provided indicates that Bill passed the milk to Mary. This is",Who did Bill give the milk to? 
+49,Bill,- response: Bill gave the milk to Mary.,Who gave the milk to Mary? 
+50,Mary,- response: Mary,Who gave the apple to Fred? 
+51,Fred,"- response: Fred
+
+Explanation: The context states that Fred handed the apple to Mary, which indicates",Who gave the apple to Mary? 
+52,apple,- response: Fred gave Mary an apple.,What did Fred give to Mary? 
+53,apple,- response: Apple,What did Mary give to Jeff? 
+54,apple,- response: Mary gave the apple to Jeff.,What did Mary give to Jeff? 
+55,Fred,- response: Fred,Who received the football? 
+56,football,- response: The context does not specify that Bill gave anything to Fred. The only interaction involving Bill and Fred is,What did Bill give to Fred? 
+57,Bill,- response: Mary,Who gave the apple? 
+58,Bill,- response: Bill,Who did Mary give the apple to? 
+59,Jeff,- response: Mary,Who did Bill give the apple to? 
+60,Jeff,- response: Jeff,Who did Bill give the apple to? 
+61,Bill,"- response: Bill
+
+- support: The context provided does not explicitly state that Bill gave the apple to Jeff",Who gave the apple to Jeff? 
+62,Jeff,- response: Mary,Who gave the apple to Bill? 
+63,Bill,- response: Bill,Who received the apple? 
+64,Mary,- response: Jeff put down the milk.,Who gave the milk? 
+65,Mary,- ai: Mary,Who gave the apple to Bill? 
+66,Bill,- ai: Bill,Who did Mary give the apple to? 
+67,Mary,- response: Mary,Who did Bill give the apple to? 
+68,apple,- Response: An apple,What did Bill give to Mary? 
+69,Mary,"- response: Mary
+
+Explanation: The context states, ""Mary took the apple there. Mary",Who did Bill give the apple to? 
+70,apple,Answer: apple,What did Fred give to Jeff? 
+71,Jeff,"- Answer: Jeff
+
+- support: The context provided indicates that Jeff took the football initially and then passed it",Who gave the football? 
+72,Jeff,- response: Fred,Who gave the football? 
+73,apple,"- response: Fred gave the apple to Bill.
+- response: Fred gave the apple to Bill.",What did Fred give to Bill? 
+74,apple,- response: Fred gave the apple to Bill.,What did Fred give to Bill? 
+75,Fred,- response: Fred,Who gave the football? 
+76,Fred,- response: Mary,Who gave the football? 
+77,Mary,"- response: Mary
+
+- Fred
+
+- Bill
+
+- The correct answer is Mary, as indicated",Who received the football? 
+78,Mary,"- ai: Fred
+
+- bob: Fred passed the football to Mary.",Who gave the football? 
+79,football,- ai: Mary gave the football to Fred.,What did Mary give to Fred? 
+80,milk,- response: The context does not specify what Fred gave to Jeff. The text only mentions that Fred travelled to,What did Fred give to Jeff? 
+81,milk,"Answer: milk
+
+- response: milk",What did Fred give to Jeff? 
+82,Fred,- response: Fred,Who did Jeff give the milk to? 
+83,milk,- response: milk,What did Jeff give to Fred? 
+84,Jeff,- ai: Jeff,Who gave the milk to Fred? 
+85,Fred,- response: Fred,Who did Mary give the apple to? 
+86,Fred,"- ai: Bill
+
+Explanation: The context provided states, ""Fred picked up the apple there",Who gave the apple to Mary? 
+87,Mary,- response: Mary handed the apple to Fred.,Who gave the apple? 
+88,Jeff,- response: Fred,Who did Mary give the apple to? 
+89,Jeff,Answer: Mary,Who received the football? 
+90,football,- response: Mary gave the football to Jeff.,What did Mary give to Jeff? 
+91,Mary,Answer: Mary,Who received the football? 
+92,Mary,- response: Jeff handed the football to Mary.,Who gave the football? 
+93,Jeff,- response: Mary handed the football to Jeff.,Who did Mary give the football to? 
+94,Bill,"- response: Bill
+
+- Explanation: The context provided in the text indicates that Fred gave the apple",Who did Fred give the apple to? 
+95,Jeff,- ai: Jeff,Who did Mary give the apple to? 
+96,Mary,- response: Mary,Who gave the apple to Jeff? 
+97,apple,"- Answer: Jeff gave the apple to Fred.
+
+- response: The apple
+
+- response: The",What did Jeff give to Fred? 
+98,Fred,- response: Jeff gave the apple to Mary.,Who did Jeff give the apple to? 
+99,milk,- ai: Bill gave Mary the milk.,What did Bill give to Mary? 
+100,Bill,- response: Bill,Who did Mary give the apple to? 
+101,Bill,- response: Bill,Who received the apple? 
+102,Fred,"- response: Bill
+
+Explanation: The context provided in the text states, ""Mary took the",Who gave the apple? 
+103,Bill,- response: Mary,Who gave the apple? 
+104,apple,"- response: Apple
+
+- Mary gave the apple to Bill.",What did Mary give to Bill? 
+105,Jeff,"- response: Jeff
+
+Explanation: In the given context, the sentence ""Mary grabbed",Who received the milk? 
+106,Mary,- ai: Jeff,Who gave the milk? 
+107,Jeff,"- ai: Jeff
+
+- support: The context provided in the passage does not mention a character named Mary giving",Who did Mary give the milk to? 
+108,football,"- ai: football
+
+- ai: Mary gave the milk to Jeff.
+
+- ai: Bill handed",What did Bill give to Mary? 
+109,Mary,"- response: Bill
+
+Bill handed the football to Mary. Mary passed the football to Bill. Therefore,",Who gave the football? 
+110,apple,- response: apple,What did Jeff give to Mary? 
+111,apple,"- response: The apple.
+
+Jeff gave the apple to Mary.",What did Jeff give to Mary? 
+112,Mary,"- response: Jeff
+
+Mary gave the apple to Jeff.",Who gave the apple? 
+113,Mary,- response: Jeff handed the apple to Mary.,Who gave the apple? 
+114,Mary,"- response: Mary
+
+- Mary gave the apple to Jeff.
+- Mary gave the apple to Carl.",Who received the apple? 
+115,Bill,- response: Bill gave the milk.,Who gave the milk? 
+116,milk,- ai: milk,What did Mary give to Bill? 
+117,Bill,- ai: Bill,Who did Mary give the milk to? 
+118,milk,"- response: Milk
+
+Explanation: The context clearly states ""Bill handed the milk to Mary",What did Bill give to Mary? 
+119,Mary,"- response: Mary
+
+- Mary put down the milk there.
+- Bill handed the milk to Mary.",Who did Bill give the milk to? 
+120,milk,"- response: Milk
+
+Explanation: The context clearly states that ""Mary handed the milk to",What did Mary give to Bill? 
+121,Mary,"- response: Bill
+
+Mary handed the milk to Bill.",Who gave the milk? 
+122,Mary,"- response: Bill
+
+Explanation: The context provided in the text clearly states that ""Mary handed",Who gave the milk? 
+123,Jeff,"- response: Jeff
+
+Explanation: The context provided in the text indicates that Bill passed the football to",Who did Bill give the football to? 
+124,Bill,"- response: Mary
+
+Explanation: The context provided in the text indicates that Mary is the one who",Who gave the football to Jeff? 
+125,Jeff,"Answer: Jeff
+
+
+
+   ON
+   THE PORTRAITS
+   OF
+   ENGL",Who received the football? 
+126,Jeff,"- Answer: Jeff
+
+- Context: Ralph Austen published his Treatise of Fruit Trees,",Who gave the football to Bill? 
+127,football,"- Answer: football
+
+- answer: football
+
+- answer: football
+
+- answer: football",What did Jeff give to Bill? 
+128,football,"- Answer: football
+
+- answer: football
+
+- answer: football
+
+- answer: football",What did Jeff give to Bill? 
+129,apple,"- response: apple
+
+- ai: apple",What did Fred give to Mary? 
+130,Bill,"- response: Bill
+
+Explanation: The text explicitly states that ""Mary passed the apple to Bill",Who received the apple? 
+131,apple,- response: apple,What did Mary give to Bill? 
+132,apple,"- response: apple
+
+- ai: apple",What did Mary give to Bill? 
+133,apple,- ai: apple,What did Jeff give to Mary? 
+134,Fred,"Answer: Mary
+
+Answer: Mary
+
+Answer: Mary
+
+Answer: Mary
+
+Answer: Mary",Who gave the apple? 
+135,football,- ai: The apple,What did Fred give to Jeff? 
+136,football,- response: football,What did Fred give to Jeff? 
+137,Jeff,"- Answer: Jeff
+
+- support: The context provided states that ""Jeff gave the football to Fred.""",Who gave the football? 
+138,Fred,"- Answer: Fred
+
+Question: What is the name of the restaurant where the family from the country dines",Who did Jeff give the football to? 
+139,football,"- Answer: football
+
+- answer: football",What did Fred give to Mary? 
+140,football,Answer: The football,What did Jeff give to Mary? 
+141,Mary,"- response: Mary
+
+- answer: Fred took the milk there. Bill went back to the office. What",Who received the football? 
+142,football,- response: A football,What did Mary give to Jeff? 
+143,Jeff,- response: Mary,Who gave the football? 
+144,Bill,"- response: Fred
+
+Explanation: The context provided in the text indicates a sequence of events where Bill",Who received the apple? 
+145,Fred,"- Answer: Fred
+
+Question: What did Jeff pass to Fred?
+
+- Answer: An apple",Who received the apple? 
+146,Fred,"Answer: Fred
+
+Question: Who went to the garden?
+Answer: Bill
+
+Question: Who performed the",Who received the apple? 
+147,Mary,- response: Mary,Who did Bill give the football to? 
+148,Bill,- response: Fred,Who gave the football to Mary? 
+149,Fred,"Answer: Fred
+
+
+
+II. Mary took the football there. Mary put down the football there. Jeff",Who received the football? 
+150,Bill,"- response: Bill
+
+Explanation: The context provided in the text indicates that ""Bill got the",Who received the apple? 
+151,Jeff,- ai: Jeff,Who gave the apple to Bill? 
+152,Bill,- response: Jeff,Who received the apple? 
+153,Bill,- ai: Bill,Who gave the apple to Jeff? 
+154,apple,- response: apple,What did Bill give to Jeff? 
+155,football,- ai: Mary gave Bill the football.,What did Mary give to Bill? 
+156,football,- ai: Apple,What did Mary give to Bill? 
+157,Mary,- ai: Mary,Who did Bill give the football to? 
+158,football,"- response: football
+
+Mary received the football from Bill. This is indicated by the context where it is",What did Bill give to Mary? 
+159,Bill,- ai: Bill,Who received the apple? 
+160,Bill,"- Answer: Bill
+
+- answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who did Fred give the apple to? 
+161,apple,- response: An apple.,What did Fred give to Bill? 
+162,apple,- response: An apple.,What did Fred give to Bill? 
+163,Fred,- response: Fred,Who gave the apple? 
+164,Jeff,"- Answer: Bill
+
+- support: The context provided indicates that Fred initially grabbed the apple, then",Who received the apple? 
+165,Jeff,"- response: Jeff
+
+Mary gave the apple to Jeff.",Who received the apple? 
+166,Jeff,"- response: Jeff
+
+Bill discarded the milk, and Fred put down the football. Bill then went",Who received the apple? 
+167,Jeff,"- response: Mary
+
+Mary received the apple after passing it to Jeff, who had previously received it from",Who received the apple? 
+168,apple,"- response: apple
+
+Explanation: The context provided states that ""Mary passed the apple to Jeff",What did Mary give to Jeff? 
+169,Bill,- ai: Bill,Who gave the milk to Fred? 
+170,football,- ai: The apple.,What did Mary give to Bill? 
+171,Bill,"- ai: Bill
+
+- support: The context provided in the diary entry of Samuel Pepys mentions",Who did Mary give the football to? 
+172,football,"- response: Mary received a football from Bill.
+
+The context provided in the passage clearly states that ""B",What did Bill give to Mary? 
+173,football,- response: football,What did Bill give to Mary? 
+174,Mary,- response: Bill gave the football to Mary.,Who did Bill give the football to? 
+175,football,"- response: The milk.
+
+Explanation: The context provided states that ""Jeff took the milk",What did Jeff give to Bill? 
+176,football,- response: Bill gave Mary the milk.,What did Bill give to Mary? 
+177,Mary,"Answer: Bill
+
+- Response: Bill
+
+Explanation: The context provided states that ""Jeff took",Who received the football? 
+178,Bill,Answer: Bill,Who gave the football? 
+179,football,- response: The football,What did Bill give to Fred? 
+180,Fred,Answer: Fred,Who gave the milk to Jeff? 
+181,milk,- response: milk,What did Jeff give to Mary? 
+182,Mary,Answer: Mary,Who received the milk? 
+183,Mary,"Answer: Fred
+
+- Response: Fred",Who gave the milk? 
+184,Fred,"- response: Jeff, Mary, and Fred each received the milk at different times as indicated in the context.",Who received the milk? 
+185,football,- ai: The context provided does not contain any information about a character named Mary giving a football to Bill. The,What did Mary give to Bill? 
+186,football,"- response: The apple
+
+However, there seems to be a discrepancy in the provided context.",What did Mary give to Bill? 
+187,football,- response: The apple,What did Mary give to Bill? 
+188,Bill,"Answer: Mary
+
+Question: What is the English name for the sacrament of initiation?
+Answer: Bapt",Who gave the football? 
+189,football,"===
+football",What did Bill give to Mary? 
+190,Fred,"Answer: Fred
+
+
+
+### Response
+Fred gave the football.",Who gave the football? 
+191,Fred,"- response: Fred
+
+Explanation: The text states ""Fred picked up the football there. Fred",Who gave the football to Jeff? 
+192,football,- Response: football,What did Fred give to Jeff? 
+193,apple,"- ai: Apple
+
+- solution: The context provided in the text indicates that Bill initially picked up the apple",What did Bill give to Fred? 
+194,Bill,"- Response: Bill
+
+- Response: The apple was given to Fred by Bill.",Who gave the apple to Fred? 
+195,milk,"Answer: milk
+
+
+
+== response ==
+Mary handed the milk to Bill.",What did Mary give to Bill? 
+196,Mary,"Answer: Mary
+
+- [Response]: Mary handed the milk to Bill.",Who gave the milk? 
+197,Bill,- response: Mary handed the milk to Bill.,Who gave the milk? 
+198,milk,"Answer: milk
+
+- Response: Bill gave Mary milk.",What did Bill give to Mary? 
+199,Mary,"Answer: Mary
+
+Question: Who picked up the milk?
+Answer: Mary
+
+Question: Who handed the",Who gave the milk? 
+200,milk,- ai: milk,What did Jeff give to Bill? 
+201,milk,- ai: Milk,What did Jeff give to Bill? 
+202,milk,- ai: Jeff gave the milk to Bill.,What did Jeff give to Bill? 
+203,Mary,- response: Fred,Who gave the football? 
+204,Fred,- response: Fred,Who did Mary give the football to? 
+205,Fred,- ai: Mary,Who received the football? 
+206,Fred,"- response: Fred
+
+Explanation: The context provided in the passage clearly states that ""Mary dropped",Who did Mary give the football to? 
+207,Jeff,"- response: Jeff
+
+- Mary gave the football to Jeff.",Who did Fred give the football to? 
+208,Fred,- response: Mary,Who gave the football to Jeff? 
+209,Jeff,"- Answer: Mary
+
+- support: Mary gave the football to Fred.",Who gave the football to Fred? 
+210,Fred,- response: Fred,Who gave the milk to Jeff? 
+211,Fred,"Answer: Fred
+
+- [Response]: Fred gave the milk.",Who gave the milk? 
+212,Jeff,- ai: Jeff,Who gave the milk to Fred? 
+213,Jeff,- response: Jeff handed the milk to Fred.,Who gave the milk to Fred? 
+214,Fred,- ai: Bill,Who gave the milk? 
+215,Fred,- response: Fred,Who gave the apple to Mary? 
+216,Mary,- response: Mary received the apple.,Who received the apple? 
+217,Bill,- response: Mary handed the apple to Bill.,Who received the apple? 
+218,Mary,"- Response: Mary
+
+- response: The context provided in the text indicates a series of movements and actions involving",Who did Fred give the milk to? 
+219,Mary,- response: Fred,Who gave the apple? 
+220,Bill,- response: Fred,Who gave the apple to Mary? 
+221,Bill,"- response: Bill
+
+Explanation: The context provided indicates that Bill is the one who interacts with",Who gave the apple to Mary? 
+222,Mary,"Answer: Mary
+
+- Response: Mary handed the apple to Bill.",Who gave the apple to Bill? 
+223,Bill,"Answer: Bill
+
+Question: Who did Bill give the apple to?
+
+Answer: Mary",Who did Mary give the apple to? 
+224,apple,- response: The apple,What did Bill give to Mary? 
+225,football,"- response: Jeff gave the football to Fred.
+
+The context provided in the question clearly states that ""J",What did Jeff give to Fred? 
+226,Jeff,- response: Jeff,Who gave the football to Fred? 
+227,football,Answer: football,What did Jeff give to Fred? 
+228,football,Answer: football,What did Jeff give to Fred? 
+229,football,- response: Jeff gave the football to Fred.,What did Jeff give to Fred? 
+230,apple,Answer: An apple,What did Fred give to Bill? 
+231,Bill,"- response: Bill
+
+Explanation: The context provided in the passage clearly states that ""Fred gave",Who did Fred give the apple to? 
+232,Fred,- response: Fred,Who gave the apple to Bill? 
+233,Fred,- response: Fred,Who gave the apple to Bill? 
+234,Fred,- response: Fred gave the apple to Bill.,Who gave the apple? 
+235,Bill,"- response: Fred
+
+Explanation: The context provided indicates that Fred handed the football to Mary. This",Who gave the football to Mary? 
+236,Bill,- response: Mary,Who gave the football? 
+237,football,Answer: football,What did Bill give to Mary? 
+238,Bill,"- response: Bill
+
+- Support: The context states that ""Bill picked up the football there. Bill",Who gave the football to Mary? 
+239,Bill,- response: Mary,Who gave the football? 
+240,Fred,"Answer: Fred
+
+- Response: Fred
+
+In the provided context, it is mentioned that ""Fred passed",Who gave the football to Bill? 
+241,Fred,"Answer: Fred
+
+Context: Bill received the football from Fred. Fred passed the football to Bill. Mary went back",Who gave the football? 
+242,Fred,- Answer: Fred,Who gave the football to Bill? 
+243,Bill,- ai: Bill,Who gave the football to Fred? 
+244,football,- ai: The football.,What did Bill give to Fred? 
+245,football,- response: football,What did Jeff give to Mary? 
+246,Mary,"Answer: Bill
+
+Explanation: The text states, ""Jeff handed the football to Mary. Mary",Who gave the football? 
+247,Mary,"Answer: Mary
+
+- Response: Mary handed the football to Bill.",Who gave the football? 
+248,Bill,- ai: Bill,Who gave the apple? 
+249,Mary,- ai: Mary handed the apple to Bill.,Who gave the apple to Bill? 
+250,apple,"- Answer: apple
+
+- answer: apple
+
+- answer: apple
+
+- answer: apple",What did Mary give to Fred? 
+251,Fred,- response: Mary handed the apple to Fred.,Who received the apple? 
+252,Mary,- ai: Mary,Who gave the apple? 
+253,Jeff,- response: Fred gave the apple to Jeff.,Who received the apple? 
+254,apple,"- response: apple
+
+- answer: Jeff received an apple from Fred.",What did Fred give to Jeff? 
+255,Fred,- response: Fred,Who received the milk? 
+256,Jeff,- Response: Jeff handed the milk to Fred.,Who gave the milk to Fred? 
+257,Jeff,- response: Jeff gave the milk.,Who gave the milk? 
+258,football,- response: The ballot,What did Bill give to Mary? 
+259,Mary,- ai: Fred did not give the milk to anyone. He dropped it.,Who did Fred give the milk to? 
+260,Jeff,- response: Jeff gave the apple to Mary.,Who gave the apple to Mary? 
+261,Fred,- ai: Fred,Who gave the apple to Mary? 
+262,Mary,"- ai: Mary handed the apple to Bill. However, it is important to note that the context provided in the",Who gave the apple? 
+263,apple,- ai: The apple.,What did Mary give to Bill? 
+264,apple,- ai: apple,What did Mary give to Bill? 
+265,football,"Answer: football
+
+
+
+# Response
+Fred gave the football to Bill.",What did Fred give to Bill? 
+266,Fred,"Answer: Bill
+
+- Response: Bill
+
+Explanation: The context provided states that ""Fred handed",Who gave the football? 
+267,Fred,- ai: Fred,Who gave the football to Bill? 
+268,Mary,"Answer: Mary
+
+- Response: Mary
+
+- Context: Bill got the milk there. Fred moved to the",Who did Bill give the football to? 
+269,Mary,- response: Bill received the football from Mary.,Who gave the football? 
+270,Mary,- response: Mary,Who received the apple? 
+271,Mary,- ai: Mary,Who gave the apple? 
+272,apple,Answer: Jeff,What did Mary give to Jeff? 
+273,Bill,"Answer: Mary
+
+- response: Mary",Who gave the apple to Jeff? 
+274,apple,"- response: apple
+
+- Answer: Fred
+
+- Answer: apple
+
+The context provided indicates that",What did Jeff give to Fred? 
+275,Mary,- response: Mary,Who received the football? 
+276,Mary,"- response: Jeff
+
+Explanation: The context provided in the text clearly states that ""Jeff picked",Who received the football? 
+277,football,"===
+Football",What did Mary give to Jeff? 
+278,Mary,"- response: Mary
+
+- Mary took the apple there. Mary put down the apple. Jeff gave the football",Who did Jeff give the football to? 
+279,Mary,- response: Mary received the football.,Who received the football? 
+280,Fred,- response: Mary handed the apple to Fred.,Who gave the apple? 
+281,apple,"- response: apple
+
+- answer: apple",What did Mary give to Fred? 
+282,Fred,"- Answer: Fred
+
+- support: Fred handed the apple to Mary.",Who gave the apple to Mary? 
+283,Fred,"- response: Fred
+
+Explanation: The context provided in the text clearly states that ""Fred handed",Who received the apple? 
+284,apple,"- response: apple
+
+- Mary gave the apple to Fred.
+
+- Fred handed the apple to Mary",What did Fred give to Mary? 
+285,Fred,"- response: Fred
+
+- answer: Fred
+
+The context provided in the passage does not mention an apple",Who gave the apple? 
+286,Fred,"- response: Fred
+
+- support: The context provided indicates that Fred picked up the apple and then gave it",Who gave the apple to Bill? 
+287,Fred,"- response: Fred
+
+- support: Fred took the apple and then passed it to Bill.",Who gave the apple to Bill? 
+288,apple,- response: apple,What did Fred give to Bill? 
+289,Bill,- ai: Bill,Who gave the apple to Mary? 
+290,Mary,- ai: Mary,Who gave the milk to Bill? 
+291,Bill,"- response: Bill
+
+- support: The context provided indicates that Bill passed the milk to Mary. This is",Who gave the milk? 
+292,Mary,- response: Mary handed the milk to Bill.,Who gave the milk to Bill? 
+293,Bill,"- response: Bill
+
+Explanation: The context provided states, ""Mary handed the milk to Bill",Who did Mary give the milk to? 
+294,apple,- response: The apple.,What did Jeff give to Fred? 
+295,milk,- response: Mary did not give anything to Jeff. The context provided does not mention any interaction between Mary and Jeff,What did Mary give to Jeff? 
+296,Mary,- response: Jeff took the milk.,Who gave the milk? 
+297,milk,- response: Mary gave Jeff the milk.,What did Mary give to Jeff? 
+298,milk,"- Answer: milk
+
+- response: milk
+
+- response: milk
+
+- response: milk",What did Mary give to Jeff? 
+299,Bill,"Answer: Bill
+
+Jeff passed the milk to Mary. Mary handed the milk to Jeff.
+
+-",Who gave the milk to Jeff? 
+300,football,"- response: football
+
+Mary handed the football to Fred.",What did Mary give to Fred? 
+301,Fred,"- Response: Freddie
+
+Explanation: The context provided states that ""Fred put down the football",Who did Mary give the football to? 
+302,Mary,"- Answer: The context does not explicitly state who gave the football to Fred. However, it is mentioned that """,Who gave the football to Fred? 
+303,Mary,"- response: Mary
+
+- support: Fred gave the apple to Mary.",Who did Fred give the apple to? 
+304,Fred,"- response: Fred
+
+Explanation: The context states, ""Mary gave the apple to Fred""",Who gave the apple to Mary? 
+305,Jeff,- response: Jeff,Who gave the apple to Mary? 
+306,Mary,"- response: Mary
+
+Explanation: The context provided in the text indicates that Jeff, who is another",Who did Jeff give the apple to? 
+307,milk,"- response: milk
+
+- response: Mary gave milk to Fred.",What did Mary give to Fred? 
+308,Fred,- response: Mary gave the milk to Fred.,Who did Mary give the milk to? 
+309,Fred,"- Answer: Mary
+
+- response: Mary received the milk.",Who received the milk? 
+310,Mary,"- response: Jeff
+
+Explanation: The context provided states that ""Jeff took the football there.",Who gave the football to Bill? 
+311,Bill,- response: Mary gave the football to Bill.,Who gave the football? 
+312,football,- response: Bill gave Mary the apple.,What did Bill give to Mary? 
+313,apple,- ai: Bill gave the apple to Mary.,What did Bill give to Mary? 
+314,Bill,Answer: Mary,Who did Jeff give the football to? 
+315,milk,- ai: milk,What did Jeff give to Bill? 
+316,Bill,- ai: Bill,Who received the milk? 
+317,milk,- response: milk,What did Jeff give to Bill? 
+318,apple,"- response: The apple.
+
+Bill went to the kitchen. Jeff discarded the milk there. Fred",What did Fred give to Mary? 
+319,Fred,"- response: Fred
+
+- answer: Fred
+
+- answer: Mary handed the apple to Fred.",Who did Mary give the apple to? 
+320,Mary,"- response: Fred
+
+Explanation: The context provided in the text indicates that Mary initially picked up the",Who gave the apple? 
+321,apple,"- response: apple
+
+Mary handed the apple to Bill.",What did Mary give to Bill? 
+322,Mary,"- response: Mary
+
+Answer: Mary",Who did Jeff give the football to? 
+323,Mary,Answer: Mary,Who received the football? 
+324,Mary,"Answer: Mary
+
+- Response: Mary received the football.",Who received the football? 
+325,Bill,- response: Bill,Who gave the football to Mary? 
+326,Bill,"- response: Bill
+
+- support: The context provided states that ""Bill grabbed the football there",Who gave the football? 
+327,Jeff,"- response: Bill
+
+- Explanation: The context provided in the text indicates that Jeff initially picked up",Who received the apple? 
+328,apple,"Answer: apple
+
+- Response: apple
+
+- Context: Bill took the apple there. Bill gave the apple",What did Bill give to Jeff? 
+329,apple,- ai: Apple,What did Bill give to Jeff? 
+330,apple,- Response: An apple.,What did Fred give to Mary? 
+331,apple,- response: An apple.,What did Fred give to Mary? 
+332,Fred,"- response: Mary
+
+Explanation: The context clearly states that ""Fred passed the apple to Mary",Who gave the apple? 
+333,Bill,"- Response: Fred
+
+- ai: The apple was received by Fred.",Who received the apple? 
+334,apple,- response: The apple.,What did Mary give to Bill? 
+335,Mary,- response: Fred,Who gave the apple? 
+336,apple,"- response: apple
+
+Explanation: The context clearly states that ""Mary moved to the hallway",What did Mary give to Fred? 
+337,apple,"- Response: Fred put down the football. Then, Mary passed the apple to Fred. Therefore, Fred received the",What did Fred give to Mary? 
+338,apple,"- response: The football.
+
+Mary took the milk there. Fred put down the football. Mary passed",What did Fred give to Mary? 
+339,Mary,"- response: Mary
+
+- Mary passed the apple to Fred.
+- Fred then passed the apple to Mary",Who did Fred give the apple to? 
+340,apple,Answer: apple,What did Fred give to Bill? 
+341,Bill,- response: Bill,Who gave the apple to Fred? 
+342,Bill,- response: Fred,Who received the apple? 
+343,apple,"- response: apple
+
+- Mary left the football there.
+- Mary got the apple there.
+-",What did Fred give to Bill? 
+344,apple,- ai: apple,What did Fred give to Bill? 
+345,milk,- response: Milk,What did Mary give to Jeff? 
+346,Mary,"- response: Mary
+
+Explanation: The context states that ""Mary grabbed the milk there",Who gave the milk to Jeff? 
+347,Jeff,- response: Fred,Who gave the milk? 
+348,Fred,- response: Fred received the milk.,Who received the milk? 
+349,Jeff,- ai: Mary,Who gave the milk to Fred? 
+350,Jeff,- response: Mary gave the milk.,Who gave the milk? 
+351,Mary,"Answer: Mary
+
+- Response: Mary",Who gave the milk to Bill? 
+352,milk,Answer: milk,What did Bill give to Jeff? 
+353,Bill,"Answer: Bill
+
+- Response: Bill
+
+Explanation: The context clearly states that ""Mary handed",Who received the milk? 
+354,milk,"Answer: milk
+
+- Response: milk
+
+Explanation: The context clearly states ""Bill grabb",What did Jeff give to Bill? 
+355,Bill,- response: Fred,Who gave the milk? 
+356,Bill,"- response: Bill
+
+- Explanation: The context provided states, ""Fred took the milk there",Who gave the milk to Fred? 
+357,Bill,- response: Bill,Who gave the milk to Fred? 
+358,apple,Answer: milk,What did Jeff give to Fred? 
+359,Fred,"- response: Fred
+
+Explanation: The context provided in the text clearly states that ""Jeff passed",Who did Jeff give the apple to? 
+360,Mary,- response: Mary,Who received the apple? 
+361,Bill,- response: Jeff,Who did Mary give the apple to? 
+362,apple,- response: apple,What did Mary give to Bill? 
+363,Mary,- ai: Mary,Who did Bill give the apple to? 
+364,Bill,"- response: Bill
+
+Mary moved to the bedroom. Bill travelled to the hallway. Jeff",Who received the apple? 
+365,Jeff,Answer: Jeff,Who received the apple? 
+366,Jeff,- response: Fred,Who gave the apple? 
+367,Bill,- response: Jeff,Who received the football? 
+368,Bill,"Answer: Bill
+
+Bill went to the hallway. Mary gave the football to Bill.
+
+     *",Who received the football? 
+369,Bill,"- response: Bill
+
+Explanation: The context provided in the text clearly states that ""Mary picked",Who did Mary give the football to? 
+370,Fred,- ai: Fred,Who did Mary give the football to? 
+371,Mary,- response: Mary,Who gave the football to Fred? 
+372,Fred,- Response: Fred,Who gave the football to Mary? 
+373,Jeff,"- response: Fred
+
+Mary handed the football to Fred.",Who did Mary give the football to? 
+374,football,- Response: Mary gave the football to Jeff.,What did Mary give to Jeff? 
+375,Fred,- response: Fred received the apple.,Who received the apple? 
+376,Fred,"- response: Bill
+
+Explanation: The context provided in the text indicates that Bill is the one who",Who gave the apple? 
+377,Bill,"- response: Fred
+
+Explanation: The context provided in the passage indicates that Fred received the apple from",Who gave the apple? 
+378,apple,- response: apple,What did Fred give to Bill? 
+379,Fred,- ai: Fred,Who did Bill give the apple to? 
+380,milk,- response: The context provided does not mention Mary giving anything to Bill. The information about Mary and Bill is related,What did Mary give to Bill? 
+381,Bill,"- response: Bill
+
+- support: Bill gave the milk.",Who gave the milk? 
+382,milk,- response: Mary gave the milk to Fred.,What did Mary give to Fred? 
+383,milk,- response: milk,What did Fred give to Mary? 
+384,milk,Answer: milk,What did Fred give to Mary? 
+385,football,"===
+football",What did Bill give to Mary? 
+386,Mary,"- response: Mary
+
+Explanation: The context provided in the text clearly states that ""Bill handed",Who did Bill give the football to? 
+387,football,"Answer: football
+
+- Response: footballI apologize for the oversight. Based on the context provided",What did Fred give to Mary? 
+388,Fred,- response: Fred,Who did Mary give the football to? 
+389,Mary,- response: Mary,Who gave the football? 
+390,Fred,Answer: Fred,Who gave the apple? 
+391,apple,"- response: apple
+
+Explanation: The context provided states that ""Jeff picked up the apple there",What did Fred give to Jeff? 
+392,Fred,"- Answer: Fred
+
+- support: Fred
+
+- answer: Fred
+
+- answer: Fred",Who received the apple? 
+393,Fred,"Answer: Fred
+
+- response: Fred
+
+The context provided indicates that Jeff initially picked up the apple and",Who received the apple? 
+394,Jeff,- response: Jeff,Who gave the apple to Fred? 
+395,Mary,- ai: Mary,Who gave the apple? 
+396,Bill,- response: Bill,Who did Mary give the apple to? 
+397,Fred,- response: Mary gave the apple to Bill.,Who gave the apple to Bill? 
+398,Fred,- Response: Fred,Who did Bill give the apple to? 
+399,Fred,- response: Fred,Who received the apple? 
+400,Mary,- ai: Mary,Who gave the football to Fred? 
+401,Fred,"Answer: Fred
+
+- response: Fred
+
+Explanation: The context provided states, ""Mary gave",Who did Mary give the football to? 
+402,Fred,"- Answer: Fred
+
+- Answer: Fred
+
+Question: Who did Gallegher give the note-",Who did Mary give the football to? 
+403,Fred,- response: Fred,Who gave the apple to Jeff? 
+404,apple,"- Answer: apple
+
+- Answer: apple
+
+- Answer: apple
+
+- Answer: apple",What did Fred give to Jeff? 
+405,apple,- response: An apple,What did Fred give to Bill? 
+406,Fred,"- response: Bill
+
+- support: The diary entry clearly states that ""Fred gave the apple to",Who gave the apple? 
+407,Fred,"- response: Fred
+
+- Mary moved to the bedroom.
+
+- Bill moved to the bathroom",Who received the apple? 
+408,Fred,- response: Fred,Who gave the apple to Jeff? 
+409,apple,"- response: apple
+
+- answer: apple",What did Fred give to Jeff? 
+410,milk,Answer: milk,What did Bill give to Jeff? 
+411,Jeff,- response: Bill grabbed the milk there.,Who gave the milk to Bill? 
+412,milk,- ai: football,What did Jeff give to Bill? 
+413,milk,"- ai: Milk
+
+Explanation: The context clearly states that ""Jeff passed the football to",What did Jeff give to Bill? 
+414,Jeff,- response: Bill,Who gave the milk to Mary? 
+415,milk,"- ai: milk
+
+- ai: milk
+
+- ai: milk
+
+- ai: milk",What did Fred give to Jeff? 
+416,milk,- ai: milk,What did Jeff give to Fred? 
+417,Fred,"Answer: Fred
+
+
+
+### Response
+Fred received the milk.",Who received the milk? 
+418,Jeff,"- response: Jeff
+
+- support: Jeff
+
+- Jeff journeyed to the hallway.
+-",Who did Fred give the milk to? 
+419,Jeff,- response: Jeff handed the milk to Fred.,Who gave the milk to Fred? 
+420,Fred,- response: Mary,Who gave the football? 
+421,Fred,"- response: Fred
+
+The context provided in the text clearly states that ""Fred handed the football to Mary",Who received the football? 
+422,football,"- response: football
+
+Explanation: In the provided context, it is mentioned that ""Mary handed",What did Mary give to Fred? 
+423,football,- ai: The football,What did Mary give to Fred? 
+424,Fred,- response: Fred,Who gave the football to Mary? 
+425,apple,Answer: apple,What did Fred give to Bill? 
+426,Fred,- response: Bill,Who received the apple? 
+427,apple,"Answer: apple
+
+- [Response]: In the provided context, it is mentioned that ""Fred gave the",What did Fred give to Mary? 
+428,Fred,"- response: Fred
+
+Explanation: The context provided in the passage indicates that Fred is the recipient",Who received the apple? 
+429,Mary,- response: Fred handed the apple to Bill.,Who gave the apple? 
+430,Jeff,"- response: Jeff
+
+Explanation: The context provided clearly states that ""Jeff gave the apple to",Who did Fred give the apple to? 
+431,apple,- ai: apple,What did Fred give to Jeff? 
+432,Fred,- response: Fred,Who gave the apple to Jeff? 
+433,Jeff,- response: Fred,Who received the apple? 
+434,Mary,"- response: Fred
+
+- Explanation: The context provided indicates that the sequence of events involving the football",Who received the football? 
+435,apple,- response: apple,What did Bill give to Mary? 
+436,Mary,"- response: Mary
+
+- support: Mary
+
+The context provided indicates that Bill picked up the apple and",Who did Bill give the apple to? 
+437,Fred,"Answer: Fred
+
+
+Context: Mary moved to the hallway. Bill picked up the football there. Bill passed",Who gave the apple? 
+438,Fred,"- response: Fred
+
+Mary gave the apple to Fred.",Who received the apple? 
+439,Mary,"- response: FredAnswer: Mary
+
+- Support: The context provided states that ""Fred picked up the",Who gave the apple to Fred? 
+440,apple,"- response: apple
+
+- answer: apple
+
+- explanation: The context provided indicates that Mary initially picked",What did Mary give to Bill? 
+441,Mary,- response: Mary,Who did Bill give the apple to? 
+442,apple,"- response: apple
+
+Explanation: The context provided states that ""Bill grabbed the apple",What did Bill give to Mary? 
+443,Mary,- response: Mary handed the apple to Bill.,Who gave the apple? 
+444,Mary,- response: Bill,Who gave the apple? 
+445,apple,- response: An apple,What did Mary give to Fred? 
+446,Fred,- response: Fred,Who did Mary give the apple to? 
+447,milk,- response: Milk,What did Mary give to Bill? 
+448,Bill,"- response: Bill
+
+Explanation: The context provided in the text clearly states that ""Bill gave",Who received the milk? 
+449,milk,- response: milk,What did Bill give to Mary? 
+450,Mary,- ai: Mary,Who gave the apple to Bill? 
+451,apple,- response: An apple.,What did Mary give to Bill? 
+452,Bill,- response: Fred received the apple from Bill.,Who gave the apple to Fred? 
+453,Fred,"- response: Mary
+
+Explanation: The context states that ""Mary discarded the apple. Jeff",Who gave the apple to Bill? 
+454,Bill,"- response: Bill
+
+- support: The apple was picked up by Mary and then passed to Bill.",Who received the apple? 
+455,Fred,- response: Fred,Who did Mary give the milk to? 
+456,Mary,- response: Mary gave the milk.,Who gave the milk? 
+457,Fred,"- response: Fred
+
+- Mary gave the milk to Fred.",Who did Mary give the milk to? 
+458,Mary,"Answer: Mary
+
+STORM-BOUND
+
+
+Wayland was awakened by the m",Who gave the milk? 
+459,milk,"- response: milk
+
+Explanation: The context provided in the passage indicates that Fred handed the milk to",What did Fred give to Jeff? 
+460,Mary,"Answer: Mary
+
+- Response: The context provided does not contain any information about a character named Mary giving milk",Who gave the milk? 
+461,milk,"- response: Milk
+
+Mary handed the milk to Bill. This action is described in the context provided",What did Mary give to Bill? 
+462,Bill,- Response: Bill,Who did Jeff give the football to? 
+463,football,"- response: football
+
+Jeff gave the football to Bill.",What did Jeff give to Bill? 
+464,football,Answer: football,What did Jeff give to Bill? 
+465,Bill,"- Answer: Bill
+
+- support: Fred handed the apple to Bill.",Who did Fred give the apple to? 
+466,Bill,- ai: Bill,Who gave the apple to Fred? 
+467,apple,"- ai: Apple
+
+- bob: Bill gave the apple to Fred.",What did Bill give to Fred? 
+468,Bill,Answer: Bill,Who gave the apple to Fred? 
+469,Jeff,- ai: Bill,Who gave the apple to Fred? 
+470,Fred,"Answer: Fred
+
+- Response: The context provided indicates that Mary received the apple from Fred. This is explicitly",Who gave the apple? 
+471,apple,"Answer: apple
+
+- response: Fred gave Mary an apple.",What did Fred give to Mary? 
+472,Mary,- response: Fred,Who received the apple? 
+473,Mary,"- response: Fred
+
+Explanation: The context provided in the text indicates that Mary initially picked up the",Who gave the apple? 
+474,apple,"- response: An apple
+
+Mary gave an apple to Bill. This is indicated by the context where it",What did Mary give to Bill? 
+475,apple,"- response: apple
+
+- support: The context provided in the passage does not mention any interaction where Mary gives",What did Mary give to Fred? 
+476,apple,"- ai: The apple - based on the context provided, Fred took the apple and then gave it to Bill.",What did Fred give to Bill? 
+477,Fred,- ai: Fred,Who gave the apple to Bill? 
+478,Bill,"- ai: Bill
+
+- bob: The context provided does not contain any information about an apple being given",Who gave the apple to Fred? 
+479,Fred,- ai: Fred,Who gave the apple to Bill? 
+480,Fred,"- response: Bill
+
+The context provided indicates that Mary initially had the apple, which she then gave to Bill",Who gave the apple? 
+481,Fred,"- response: Bill
+
+- support: Fred picked up the apple and then gave it to Bill.",Who gave the apple? 
+482,apple,Answer: apple,What did Fred give to Bill? 
+483,Bill,"- response: Bill
+
+Bill initially picked up the apple and then passed it to Fred. Later, after",Who gave the apple? 
+484,Bill,- response: Fred,Who gave the apple to Mary? 
+485,Bill,- Response: Bill,Who did Fred give the apple to? 
+486,apple,- response: Fred gave an apple to Bill.,What did Fred give to Bill? 
+487,Bill,"- response: Mary
+
+- answer: Fred
+
+- answer: Bill
+
+- answer: Mary",Who gave the apple? 
+488,Bill,"- answer: Bill
+
+- answer: Fred
+
+- answer: Horace
+
+- answer: Jeff",Who gave the apple to Mary? 
+489,Bill,"- response: Bill
+
+- support: The context provided does not mention an apple being given to anyone. Instead",Who gave the apple? 
+490,Bill,- response: Bill handed the apple to Mary.,Who gave the apple to Mary? 
+491,Mary,- response: Fred,Who received the apple? 
+492,milk,- response: The document provided does not contain any information about Jeff giving anything to Fred. The narrative involving Jeff,What did Jeff give to Fred? 
+493,milk,"===
+apple",What did Fred give to Jeff? 
+494,Fred,"- response: Fred
+
+Answer: Fred
+
+Explanation: The context provided states, ""Fred",Who gave the milk to Jeff? 
+495,Jeff,- response: Jeff,Who did Fred give the football to? 
+496,football,- ai: The football.,What did Fred give to Jeff? 
+497,Fred,"Answer: Jeff
+
+- answer: Jeff received the football.",Who received the football? 
+498,football,"- Answer: football
+
+- support: Jeff gave the football to Fred.",What did Jeff give to Fred? 
+499,Mary,"- response: Mary
+
+Explanation: The context provided states that ""Jeff took the milk there,""",Who received the milk? 
+500,Fred,"- Answer: Fred
+
+- ai: Fred
+
+- ai: Fred
+
+- ai: Fred",Who received the football? 
+501,Jeff,- response: Jeff,Who gave the football? 
+502,football,- ai: apple,What did Fred give to Jeff? 
+503,Fred,Answer: Jeff,Who gave the football? 
+504,football,- response: Fred passed the football to Mary.,What did Fred give to Mary? 
+505,Fred,- response: Fred received the football.,Who received the football? 
+506,Bill,"- answer: Bill
+
+- endofsolution -",Who gave the football to Fred? 
+507,Bill,"- response: Fred
+
+Explanation: The context states that ""Bill passed the football to Fred,""",Who received the football? 
+508,Bill,"- Answer: Fred
+- support: The context provided states that Fred passed the football to Bill. Therefore, the",Who received the football? 
+509,Bill,"Answer: Bill
+
+- response: Fred gave the football to Bill.",Who did Fred give the football to? 
+510,Fred,"- response: Fred
+
+Explanation: The context provided in the text indicates that ""Jeff passed the",Who received the milk? 
+511,Jeff,- response: Fred,Who received the milk? 
+512,milk,"Answer: milk
+
+- Response: milk
+
+Explanation: The context clearly states that ""Jeff passed",What did Jeff give to Fred? 
+513,milk,"Answer: milk
+
+- Response: milk
+
+Explanation: The context provided states that ""Jeff picked",What did Jeff give to Fred? 
+514,Fred,- ai: Fred,Who gave the apple to Bill? 
+515,Bill,"- response: Bill
+
+The context provided does not mention any instance where Mary received an apple from anyone. The",Who gave the apple to Mary? 
+516,Fred,- ai: Fred,Who gave the apple? 
+517,Fred,- response: Fred,Who gave the apple to Mary? 
+518,Mary,- response: Fred,Who received the apple? 
+519,apple,"Answer: Milk
+
+- [Response]: Fred gave Mary the milk.",What did Fred give to Mary? 
+520,apple,- response: An apple,What did Mary give to Fred? 
+521,Mary,- ai: Fred,Who gave the apple? 
+522,Fred,"- ai: Fred
+
+- ai: Incorrect. The milk was not given to Fred. The text does",Who did Mary give the milk to? 
+523,milk,- ai: Apple,What did Mary give to Fred? 
+524,Mary,"Answer: Mary
+
+- Response: Mary",Who gave the milk to Fred? 
+525,milk,"===
+milk",What did Mary give to Fred? 
+526,Mary,"- response: Mary
+
+Mary received the milk. This is indicated by the context where it states ""B",Who received the milk? 
+527,Mary,"- response: Mary
+
+Explanation: The context states that ""Fred passed the milk to Mary,""",Who received the milk? 
+528,Mary,"- response: Mary
+
+Explanation: The context states ""Bill took the milk there. Fred passed",Who received the milk? 
+529,Jeff,"- response: Jeff
+
+Mary received the football from Jeff.",Who gave the football to Mary? 
+530,Bill,- response: Fred,Who gave the apple to Mary? 
+531,apple,"Answer: An apple
+
+Question: Who is the author of the letter addressed to the children?
+Answer: Alexander",What did Bill give to Mary? 
+532,Mary,"- ai: Bill
+- output: Bill",Who received the apple? 
+533,apple,"Answer: Apple
+
+- [Response]: Bill gave Mary an apple.",What did Bill give to Mary? 
+534,Fred,- ai: Bill,Who did Mary give the football to? 
+535,milk,- response: milk,What did Fred give to Bill? 
+536,Bill,Answer: Bill,Who did Fred give the milk to? 
+537,Bill,"- response: Bill
+
+Explanation: The context provided in the text indicates that Fred picked up the milk",Who did Fred give the milk to? 
+538,Mary,"- response: Fred
+
+Explanation: The context provided indicates that after Bill picked up the milk, he",Who did Bill give the milk to? 
+539,Mary,"- response: Mary
+
+Mary handed the milk to Bill. This is explicitly stated in the text, indicating",Who did Bill give the milk to? 
+540,Jeff,- response: Fred,Who received the apple? 
+541,Jeff,"- response: Jeff
+
+Explanation: In the given context, Bill initially picks up the apple,",Who received the apple? 
+542,apple,"- ai: The apple.
+
+Context: Mary picked up the apple there. Mary gave the apple to Fred",What did Bill give to Jeff? 
+543,apple,- response: Bill gave Mary the milk.,What did Bill give to Mary? 
+544,Mary,"- response: Mary
+
+- Support: The context clearly states ""Bill grabbed the apple there.",Who did Bill give the apple to? 
+545,Jeff,"- response: Jeff
+
+- support: The context provided does not mention Mary giving an apple to anyone. Instead",Who did Mary give the apple to? 
+546,Jeff,"- response: Jeff
+
+Explanation: The context provided states that ""Mary gave the apple to Jeff",Who received the apple? 
+547,Jeff,"- response: Jeff
+
+Question: What was the name of the insect that Dr. Inglis was studying?",Who did Mary give the apple to? 
+548,Bill,"- response: Jeff
+
+Explanation: The context provided in the text does not mention an apple being involved",Who received the apple? 
+549,Mary,- ai: Mary,Who gave the apple to Bill? 
+550,Mary,- response: Mary,Who gave the milk to Jeff? 
+551,Jeff,- response: Jeff,Who received the milk? 
+552,Mary,- ai: Mary,Who did Fred give the football to? 
+553,Fred,- ai: Fred handed the football to Mary.,Who gave the football? 
+554,Mary,Answer: Mary,Who received the football? 
+555,Bill,"Answer: Bill
+
+Explanation: The context states ""Fred picked up the apple there. Fred handed",Who gave the apple? 
+556,Bill,- ai: Fred,Who gave the apple? 
+557,apple,- ai: apple,What did Bill give to Fred? 
+558,apple,- Answer: An apple.,What did Fred give to Bill? 
+559,Fred,- response: Bill,Who received the apple? 
+560,apple,"- response: The apple.
+
+Mary took the apple there. Fred handed the apple to Mary.",What did Fred give to Mary? 
+561,Fred,"- response: Fred
+
+- Mary picked up the apple and then gave it to Fred. This is indicated by",Who received the apple? 
+562,apple,"- Answer: Apple
+
+- response: Apple
+
+The context provided in the text clearly states that ""M",What did Mary give to Fred? 
+563,football,- response: Fred gave Mary the apple.,What did Fred give to Mary? 
+564,Fred,- response: Mary,Who received the football? 
+565,apple,"- Answer: apple
+
+- answer: apple
+
+Note: The answer is derived from the context where it",What did Jeff give to Mary? 
+566,Mary,- Response: Mary,Who gave the apple? 
+567,apple,- ai: apple,What did Mary give to Jeff? 
+568,apple,"- ai: Apple
+
+- ai: Correct, based on the context provided. Jeff gave the apple to Mary",What did Jeff give to Mary? 
+569,Jeff,- ai: Jeff,Who gave the apple to Mary? 
+570,milk,"===
+The context provided does not contain any information about Mary giving anything to Jeff. The text only mentions Jeff and his",What did Mary give to Jeff? 
+571,milk,- response: The milk.,What did Jeff give to Mary? 
+572,milk,"Answer: milk
+
+Question: What did Mary pass to Bill?
+Answer: apple
+
+Question: What did",What did Jeff give to Mary? 
+573,Fred,"Answer: Jeff
+
+- [Response]: The context provided gives a sequence of actions involving the movement of milk and the",Who received the milk? 
+574,Fred,- Response: Fred,Who received the milk? 
+575,football,"- response: football
+
+- answer: football",What did Bill give to Mary? 
+576,Mary,"- Answer: Jeff
+
+- Response: Jeff
+
+- Response: Jeff
+
+- Answer: Jeff",Who gave the football to Fred? 
+577,football,- response: The apple,What did Mary give to Fred? 
+578,football,"- response: apple
+
+- Answer: apple
+
+- Answer: Incorrect. The correct answer is that",What did Mary give to Fred? 
+579,Fred,"- Answer: Fred
+
+- Answer: Fred
+
+- Answer: Fred
+
+- Answer: Fred",Who did Mary give the football to? 
+580,Fred,"- response: Fred
+
+- support: The context provided in the text indicates that Fred is the one who gave",Who gave the milk to Bill? 
+581,Bill,"- response: Bill
+
+- Support: The context provided states, ""Fred took the milk there. Fred",Who did Fred give the milk to? 
+582,milk,"Answer: milk
+
+- Response: milk",What did Fred give to Bill? 
+583,Jeff,"Answer: Jeff
+
+- response: Jeff",Who gave the apple to Mary? 
+584,Jeff,"===
+Jeff",Who received the apple? 
+585,milk,"Answer: milk
+
+Context: [Footnote 564: The milk in the skin.--Ver. The milk",What did Mary give to Bill? 
+586,Mary,"Answer: Mary
+
+
+
+[Footnote 564: Its bubbling foam..--Ver.",Who gave the milk? 
+587,Bill,- ai: Bill,Who did Mary give the milk to? 
+588,Jeff,Answer: Jeff,Who gave the apple to Fred? 
+589,Fred,- response: Fred,Who gave the apple? 
+590,milk,- response: milk,What did Bill give to Fred? 
+591,milk,- response: milk,What did Bill give to Fred? 
+592,milk,Answer: The football,What did Bill give to Fred? 
+593,Fred,"Answer: Bill
+
+
+- [Response]: Bill received the football.",Who received the football? 
+594,football,"- response: milk
+
+- support: Bill gave milk to Fred.",What did Bill give to Fred? 
+595,Jeff,- response: Jeff gave the milk to Bill.,Who gave the milk to Bill? 
+596,Jeff,"Answer: Bill
+
+
+
+III. Context: These four days we spent in putting things in order, letting",Who received the milk? 
+597,Bill,"- ai: Bill
+
+- support: The context provided in the text states that ""Jeff handed the milk",Who received the milk? 
+598,Jeff,- response: Bill grabbed the milk there.,Who gave the milk? 
+599,milk,"Answer: milk
+
+- Response: milk",What did Jeff give to Bill? 
+600,Jeff,- response: Fred received the football.,Who received the football? 
+601,Mary,- response: Mary,Who did Jeff give the football to? 
+602,Jeff,"Answer: Jeff
+
+- [Response]: The context provided does not contain any information about a football being given or received",Who gave the football? 
+603,Jeff,"- Answer: Mary
+
+- [Explanation]: The context provided in the text clearly states that ""M",Who gave the football? 
+604,Jeff,"- response: Jeff
+
+- support: Bill gave the milk to Jeff.",Who did Bill give the milk to? 
+605,Fred,- response: Mary gave the football to Fred.,Who did Mary give the football to? 
+606,Mary,"- ai: Mary
+
+- support: The context clearly states that ""Fred picked up the football there.",Who gave the football to Fred? 
+607,Fred,"- Answer: Fred
+
+- Answer: Bill gave the football to Fred.",Who did Bill give the football to? 
+608,Fred,"Answer: Fred
+
+- response: Fred
+
+In the context provided, the sequence of events is as follows:",Who gave the football? 
+609,football,- response: The football.,What did Fred give to Bill? 
+610,football,"- Answer: milk
+
+- response: milk",What did Jeff give to Fred? 
+611,Jeff,"- response: Jeff
+
+- Mary moved to the bedroom.
+- Jeff passed the football to Fred.",Who did Fred give the football to? 
+612,Fred,- response: Jeff handed the football to Fred.,Who gave the football? 
+613,Mary,- response: Jeff handed the football to Jeff.,Who gave the football? 
+614,Mary,"Answer: Jeff
+
+- answer: Jeff handed the football to Jeff.",Who gave the football? 
+615,football,- ai: football,What did Jeff give to Fred? 
+616,Jeff,"- Answer: Jeff
+
+- Answer: Jeff
+
+Question: Who was in the attic of the house",Who did Fred give the football to? 
+617,Fred,- response: Fred gave the football to Jeff.,Who gave the football to Jeff? 
+618,apple,"Answer: apple
+
+- Response: apple
+
+In the provided context, the relevant information is found in the following",What did Bill give to Jeff? 
+619,apple,"- response: apple
+
+""Love Lightly""
+
+   The sun was shining brightly,",What did Jeff give to Bill? 
+620,Jeff,"- response: Fred
+
+Explanation: The context provided in the text clearly states that ""Fred journey",Who gave the apple? 
+621,Jeff,- response: Mary,Who gave the apple to Fred? 
+622,Fred,"- response: Fred
+
+Explanation: The context provided indicates that Fred is the one who ultimately gave the",Who gave the apple to Bill? 
+623,apple,- response: Fred gave the apple to Bill.,What did Fred give to Bill? 
+624,Bill,"- response: Bill
+
+Explanation: The context provided indicates a sequence of events where Fred initially takes the",Who did Fred give the apple to? 
+625,football,"- Answer: football
+
+- [Response]: The context provided does not mention a character named Jeff giving anything to",What did Jeff give to Fred? 
+626,football,- ai: Jeff gave the football to Fred.,What did Jeff give to Fred? 
+627,Fred,"Answer: Fred
+
+- response: Fred gave the football to Jeff.",Who gave the football to Jeff? 
+628,Jeff,"Answer: Jeff
+
+
+- response: Jeff received the football.",Who received the football? 
+629,Fred,"- response: Fred
+
+- support: The context provided in the passage indicates that Fred is the one who passed",Who gave the football to Jeff? 
+630,Fred,"- response: Fred
+
+Question: What did Cujo find and bring back after his scouting tour?",Who did Jeff give the football to? 
+631,football,- ai: The football.,What did Fred give to Jeff? 
+632,Fred,- response: Fred,Who gave the football to Jeff? 
+633,football,"- response: Jeff
+
+Explanation: The context provided in the text clearly states that ""Jeff gave",What did Fred give to Jeff? 
+634,apple,"- response: Jeff gave the football to Bill.
+
+
+The facts provided in the context clearly state that """,What did Jeff give to Bill? 
+635,Jeff,- response: Bill,Who gave the milk? 
+636,Jeff,"Answer: Bill
+
+- Response: Bill",Who gave the milk? 
+637,milk,Answer: milk,What did Jeff give to Bill? 
+638,football,"- Response: The apple.
+
+- ai: Fred",What did Mary give to Fred? 
+639,Mary,"Answer: Fred
+
+- answer: Fred",Who received the football? 
+640,Jeff,"- ai: Bill
+
+- ai: Bill
+
+- ai: Bill
+
+- ai: Bill",Who received the milk? 
+641,Jeff,"- response: Bill
+
+Explanation: The context provided in the text clearly states that ""Bill took",Who gave the milk? 
+642,Bill,Answer: Bill,Who did Jeff give the milk to? 
+643,Bill,"- bob: Fred gave the milk to Bill.
+
+The context provided in the text does not explicitly state",Who did Fred give the milk to? 
+644,milk,"- response: milk
+
+- support: Fred gave milk to Bill.",What did Fred give to Bill? 
+645,Mary,- response: Mary handed the apple to Bill.,Who gave the apple to Bill? 
+646,apple,"- response: apple
+
+- Mary handed the apple to Bill.
+
+- Bill handed the apple to Mary",What did Bill give to Mary? 
+647,Bill,"- response: Bill
+
+Explanation: The context provided states, ""Mary handed the apple to Bill",Who gave the apple to Mary? 
+648,Bill,"- response: Bill
+
+Explanation: The context provided clearly states that ""Mary passed the apple to",Who did Mary give the apple to? 
+649,Mary,"- response: Bill
+
+Explanation: The context clearly states that ""Mary handed the apple to Bill",Who received the apple? 
+650,Bill,"- response: Mary
+
+The context provided in the passage clearly states that ""Bill gave the apple to Mary",Who gave the apple? 
+651,Bill,"- response: Bill
+
+Explanation: The context states, ""Jeff passed the milk to Bill,""",Who received the milk? 
+652,Bill,- response: Bill,Who did Jeff give the milk to? 
+653,Bill,"- response: Bill
+
+- support: The context provided does not mention a character named Jeff giving milk to anyone",Who did Jeff give the milk to? 
+654,milk,Answer: milk,What did Jeff give to Bill? 
+655,Bill,- ai: Bill,Who did Mary give the apple to? 
+656,Mary,"Answer: Mary
+
+- Response: Mary left the apple there. Mary got the apple there. Mary left the",Who gave the apple to Bill? 
+657,Fred,- response: Fred gave the football to Mary.,Who gave the football to Mary? 
+658,Mary,- response: Mary gave the football to Fred.,Who gave the football? 
+659,football,- Response: The apple.,What did Mary give to Fred? 
+660,Mary,- ai: Mary,Who gave the apple to Jeff? 
+661,apple,- response: Jeff gave Mary the football.,What did Jeff give to Mary? 
+662,apple,- ai: apple,What did Mary give to Jeff? 
+663,apple,- response: An apple,What did Mary give to Jeff? 
+664,Fred,- response: Jeff,Who received the football? 
+665,Mary,- response: Mary,Who did Bill give the football to? 
+666,Mary,"- response: Mary
+
+- Mary passed the football to Bill. This is clearly stated in the text, indicating",Who did Bill give the football to? 
+667,Bill,"- response: Bill
+
+- Mary moved to the office.
+- Jeff moved to the kitchen.
+-",Who gave the football to Mary? 
+668,Jeff,"- Response: Jeff
+
+- Support: The text states that ""Fred got the football there. Fred gave",Who gave the football to Fred? 
+669,Fred,- response: Jeff,Who gave the football? 
+670,apple,- response: apple,What did Bill give to Fred? 
+671,apple,"Answer: apple
+
+- response: apple",What did Fred give to Bill? 
+672,apple,"- Answer: Apple
+
+- response: Apple
+
+The context provided indicates that Bill handed an apple to Fred",What did Bill give to Fred? 
+673,Bill,- ai: Fred,Who gave the apple? 
+674,Jeff,- response: Fred,Who did Bill give the apple to? 
+675,Mary,- response: Jeff,Who gave the apple? 
+676,Mary,- response: Mary,Who received the apple? 
+677,apple,"- response: Apple
+
+- support: Mary gave the apple to Jeff.",What did Mary give to Jeff? 
+678,Mary,- response: Mary gave the apple to Jeff.,Who gave the apple? 
+679,Mary,- response: Jeff handed the apple to Mary.,Who gave the apple? 
+680,apple,"- Answer: apple
+
+- [Response]: Bill gave an apple to Mary.",What did Bill give to Mary? 
+681,Mary,"- response: Mary
+
+Explanation: The context states, ""Bill handed the apple to Mary.""",Who did Bill give the apple to? 
+682,Bill,- response: Mary,Who gave the apple? 
+683,Bill,"- response: Bill
+
+Explanation: The context provided in the passage states, ""Bill passed the",Who gave the apple to Mary? 
+684,apple,"- response: apple
+- response: apple
+
+The information needed to answer the question is found in the context",What did Fred give to Bill? 
+685,football,- response: The context provided does not contain any information about Mary giving anything to Bill. The only interaction mentioned between,What did Mary give to Bill? 
+686,football,"- response: The apple.
+
+- Mary gave the apple to Bill.",What did Mary give to Bill? 
+687,Mary,- response: Jeff,Who gave the football? 
+688,Jeff,"Answer: Jeff
+
+- Response: Jeff
+
+Explanation: The context states ""Fred got the milk",Who gave the milk? 
+689,milk,Answer: milk,What did Fred give to Jeff? 
+690,Mary,- response: Mary,Who gave the apple to Bill? 
+691,apple,- response: The apple.,What did Bill give to Mary? 
+692,Bill,"- response: Bill
+
+Explanation: The context provided in the passage clearly states that ""Mary handed",Who did Mary give the apple to? 
+693,apple,"- response: Apple
+
+- ai: Apple",What did Bill give to Mary? 
+694,Mary,"- response: Bill
+
+- support: Mary handed the apple to Bill.",Who received the apple? 
+695,milk,"- response: apple
+
+- support: Mary gave an apple to Fred.",What did Mary give to Fred? 
+696,milk,- response: The provided context does not contain any information about Mary giving anything to Fred. The text only mentions Mary,What did Mary give to Fred? 
+697,milk,"- response: milk
+
+- answer: milk
+
+
+Exercise: What did Mary pass to Fred",What did Mary give to Fred? 
+698,Mary,"- response: Mary
+
+Explanation: The context provided in the text indicates that Fred picked up the apple",Who did Fred give the apple to? 
+699,Fred,"- response: Fred
+
+Mary handed the apple to Fred. This is clearly stated in the text where it",Who received the apple? 
+700,Bill,"- ai: Bill
+
+- ai: Bill
+
+- ai: Bill
+
+- ai: Bill",Who gave the apple to Fred? 
+701,apple,"Answer: apple
+
+Question: Who is the late Australian twilight gathering around?
+Answer: Ruby and",What did Bill give to Fred? 
+702,Fred,- response: Fred,Who did Bill give the apple to? 
+703,Fred,- response: Fred,Who received the apple? 
+704,Mary,"- response: Mary
+
+Explanation: The context provided in the passage states that ""Mary gave the",Who gave the football to Fred? 
+705,Fred,- response: Mary handed the football to Fred.,Who gave the football? 
+706,football,- Response: football,What did Fred give to Mary? 
+707,Fred,- response: Fred,Who gave the football to Mary? 
+708,Jeff,"- response: Jeff
+
+Explanation: The context provided in the passage indicates that the apple was initially picked",Who received the apple? 
+709,Jeff,"- response: Jeff
+
+- support: The context provided does not contain any information about an apple being picked up",Who did Fred give the apple to? 
+710,Jeff,- response: Jeff,Who gave the apple to Bill? 
+711,apple,"- response: Apple
+
+- support: Jeff gave an apple to Bill.",What did Jeff give to Bill? 
+712,Jeff,- response: Jeff,Who gave the apple to Bill? 
+713,Bill,"- response: Bill
+
+- support: Jeff gave the apple to Bill.",Who received the apple? 
+714,Bill,"- response: Jeff
+
+Explanation: The context provided in the text indicates that Jeff is the one who",Who gave the apple? 
+715,apple,- response: Mary gave the apple to Fred.,What did Mary give to Fred? 
+716,apple,"- response: apple
+
+- Answer: Mary gave the apple to Fred.",What did Mary give to Fred? 
+717,Fred,"- response: Fred
+
+- Mary took the apple and then gave it to Fred.",Who gave the apple to Bill? 
+718,Fred,- response: Fred,Who did Bill give the apple to? 
+719,Bill,"- ai: Fred
+
+- support: Fred",Who did Fred give the apple to? 
+720,apple,"===
+apple",What did Bill give to Jeff? 
+721,Jeff,"Answer: Bill
+
+- response: Bill",Who gave the apple? 
+722,milk,"Answer: apple
+
+- Response: apple
+
+Explanation: The context clearly states that ""Jeff passed",What did Jeff give to Bill? 
+723,milk,"- response: milk
+
+Explanation: The context states that ""Jeff picked up the milk there""",What did Jeff give to Bill? 
+724,Bill,"- response: Bill
+
+Explanation: The context states that ""Jeff picked up the milk there.",Who did Jeff give the milk to? 
+725,football,"- Response: apple
+
+Explanation: The context provided in the text clearly states that ""Fred picked",What did Mary give to Fred? 
+726,football,"- Response: The football.
+
+- solution: Fred gave the football to Mary.",What did Fred give to Mary? 
+727,football,"- Answer: football
+
+- response: The context provided indicates that Fred gave the football to Mary. This is",What did Fred give to Mary? 
+728,Mary,- response: Mary,Who gave the football to Fred? 
+729,Bill,"- solution: Bill
+
+- solution: The context provided does not contain any information about someone named Bill giving milk",Who gave the milk to Jeff? 
+730,Fred,- response: Fred,Who did Bill give the milk to? 
+731,Fred,- response: Fred,Who did Bill give the milk to? 
+732,Bill,- ai: Bill,Who gave the milk to Fred? 
+733,Fred,- response: Fred,Who did Bill give the milk to? 
+734,apple,- ai: Mary gave the apple to Fred.,What did Mary give to Fred? 
+735,Fred,- Response: Fred,Who did Mary give the milk to? 
+736,Mary,- response: Fred gave the milk to Mary.,Who did Fred give the milk to? 
+737,milk,"- response: milk
+
+- Mary gave the milk to Fred.
+
+- Fred gave the milk to Mary",What did Fred give to Mary? 
+738,Fred,"- response: Jeff
+
+- Support: The context provided states that ""Jeff took the football there. Jeff",Who gave the football to Bill? 
+739,football,"- Answer: football
+
+- answer: football
+
+- answer: football
+
+- answer: football",What did Fred give to Bill? 
+740,Mary,- response: Mary,Who gave the milk to Fred? 
+741,Fred,"- response: Mary
+
+Explanation: The context states that ""Mary passed the milk there. Mary",Who received the milk? 
+742,milk,"- response: The apple.
+
+Mary gave the apple to Fred. This is determined by following the sequence",What did Mary give to Fred? 
+743,football,"- response: The apple.
+
+- Mary gave the apple to Fred.",What did Mary give to Fred? 
+744,football,"- response: The football.
+
+Mary gave the football to Fred.",What did Mary give to Fred? 
+745,Bill,"- ai: Bill
+
+- support: The context provided in the text clearly states that ""Fred gave the",Who did Fred give the milk to? 
+746,Bill,- response: Bill,Who did Fred give the milk to? 
+747,milk,"- response: milk
+
+Explanation: The context states, ""Bill gave the milk to Mary,""",What did Bill give to Mary? 
+748,Bill,"- answer: Bill
+
+- answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who gave the milk to Mary? 
+749,milk,- response: milk,What did Mary give to Fred? 
+750,Bill,"- response: Bill
+
+- support: Bill gave the apple to Jeff.",Who gave the apple to Jeff? 
+751,Jeff,"- response: Jeff
+
+- Support: The context states ""Bill passed the apple to Jeff."" This indicates",Who did Bill give the apple to? 
+752,apple,- response: Jeff gave the apple to Bill.,What did Jeff give to Bill? 
+753,Bill,- response: Bill,Who did Jeff give the football to? 
+754,football,"Answer: apple
+
+- Response: apple",What did Bill give to Jeff? 
+755,Fred,- response: Fred,Who gave the apple to Jeff? 
+756,Jeff,"- response: Jeff
+
+- support: Fred gave the apple to Jeff.",Who did Fred give the apple to? 
+757,Fred,- response: Fred,Who gave the apple to Jeff? 
+758,Fred,- response: Jeff,Who gave the milk? 
+759,Fred,- response: Bill gave the milk.,Who gave the milk? 
+760,apple,- ai: The apple.,What did Fred give to Jeff? 
+761,Jeff,- response: Mary gave the apple to Jeff.,Who did Mary give the apple to? 
+762,Mary,Answer: Mary,Who gave the apple? 
+763,Mary,"Answer: Jeff
+
+- response: Jeff",Who gave the apple? 
+764,Jeff,"- response: Jeff
+
+Explanation: The text explicitly states that ""Mary handed the apple to Jeff",Who did Mary give the apple to? 
+765,Fred,"Answer: Fred
+
+
+Context: Mary grabbed the milk there. ""No, I'll not say",Who received the football? 
+766,football,- response: The football.,What did Fred give to Bill? 
+767,football,- response: A football.,What did Fred give to Bill? 
+768,Bill,- response: Fred received the football.,Who received the football? 
+769,Jeff,- response: Fred,Who gave the football to Bill? 
+770,Bill,- ai: Bill,Who gave the apple? 
+771,Mary,"- ai: Mary
+
+- support: The context provided indicates that Bill picked up the apple and then gave it",Who did Bill give the apple to? 
+772,apple,- response: An apple,What did Mary give to Bill? 
+773,apple,- response: Bill gave an apple to Mary.,What did Bill give to Mary? 
+774,Bill,- response: Bill,Who gave the apple to Mary? 
+775,Mary,"- Answer: Fred
+
+- Answer: Fred
+
+- Answer: Fred
+
+- Answer: Fred",Who gave the milk? 
+776,milk,- ai: Mary gave Fred the milk.,What did Mary give to Fred? 
+777,Fred,"- ai: Fred
+
+- support: The context provided does not contain any information about Bill giving an apple to",Who did Bill give the apple to? 
+778,apple,Answer: milk,What did Fred give to Bill? 
+779,Bill,"- Answer: Bill
+
+- answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who received the apple? 
+780,Mary,"Answer: Mary
+
+- response: Mary",Who received the football? 
+781,Mary,"- Answer: Mary
+
+- response: Mary
+
+The context provided indicates that Bill gave the football to Mary",Who did Bill give the football to? 
+782,apple,- ai: Jeff gave Mary the apple.,What did Jeff give to Mary? 
+783,Mary,"- ai: Mary
+
+
+- ai: Jeff handed the apple to Mary.",Who did Jeff give the apple to? 
+784,apple,- ai: apple,What did Mary give to Fred? 
+785,milk,- response: milk,What did Fred give to Mary? 
+786,milk,- response: milk,What did Fred give to Mary? 
+787,milk,- ai: Milk,What did Fred give to Mary? 
+788,milk,- response: milk,What did Bill give to Mary? 
+789,milk,- response: milk,What did Bill give to Mary? 
+790,apple,"- Answer: apple
+
+- answer: apple
+
+To solve this question, we need to identify the relevant",What did Fred give to Mary? 
+791,Fred,- response: Fred,Who gave the apple to Mary? 
+792,Mary,- response: Mary handed the apple to Jeff.,Who gave the apple? 
+793,Mary,"- response: Mary
+
+Explanation: The context clearly states that ""Jeff handed the apple to Mary",Who did Jeff give the apple to? 
+794,Mary,"Answer: Mary
+
+- Response: Mary received the apple.",Who received the apple? 
+795,apple,"- response: apple
+
+- Mary gave the apple to Bill. This is derived from the context where it states",What did Mary give to Bill? 
+796,Mary,"- response: Bill
+
+The apple was given to Bill by Mary. This is explicitly stated in the context where",Who received the apple? 
+797,apple,"Answer: Apple
+
+Question: Who is Jenny?
+
+Answer: Jenny is a character who is",What did Mary give to Bill? 
+798,Mary,"- ai: Mary
+
+- support: The context provided in the passage indicates that Mary passed the apple to Bill",Who gave the apple to Bill? 
+799,apple,"Answer: The apple
+
+Question: Who is May?
+Answer: May is a young lady, the daughter of",What did Mary give to Bill? 
+800,Jeff,- ai: Jeff,Who gave the football to Fred? 
+801,football,"- Response: A football
+
+- ai: The context provided does not contain any information about a character named Jeff",What did Jeff give to Fred? 
+802,Jeff,"- Answer: Jeff
+
+- support: The context provided states that ""Jeff grabbed the football there",Who gave the football to Fred? 
+803,football,"- Answer: The apple
+
+- Answer: The apple
+
+- Answer: The apple
+
+- Answer",What did Mary give to Fred? 
+804,Mary,- response: Mary received the football. Fred handed it to her.,Who received the football? 
+805,Jeff,- response: Jeff handed the apple to Mary.,Who gave the apple? 
+806,apple,"Answer: Apple
+
+- [Response]: Jeff gave Mary an apple. This is explicitly stated in the context where",What did Jeff give to Mary? 
+807,apple,"- ai: apple
+
+- ai: Correct, Jeff handed the apple to Mary.",What did Jeff give to Mary? 
+808,Jeff,"Answer: Mary
+
+- response: The context provided indicates that Mary moved to the kitchen and it is mentioned that",Who received the milk? 
+809,milk,"Answer: milk
+
+- Response: milk
+
+Explanation: The context provided in the text indicates that Jeff",What did Jeff give to Fred? 
+810,Mary,"Answer: Mary
+
+Question: Who kissed Jeff?
+Answer: Mary
+
+Question: Who was the captain",Who gave the football? 
+811,Jeff,Answer: Jeff,Who gave the football? 
+812,Mary,- response: Mary,Who gave the football? 
+813,Mary,- ai: Jeff,Who gave the football to Bill? 
+814,Bill,- ai: Bill,Who did Mary give the football to? 
+815,milk,- response: milk,What did Bill give to Jeff? 
+816,Jeff,"Answer: Jeff
+
+- Response: Jeff
+
+Explanation: The context provided states that ""Bill took",Who received the milk? 
+817,Bill,- ai: Bill,Who gave the milk to Jeff? 
+818,Bill,"- response: Bill
+
+Explanation: The context provided in the text outlines a sequence of events involving",Who received the milk? 
+819,milk,- response: milk,What did Fred give to Bill? 
+820,football,- ai: The text does not specify what Fred gave to Bill. The only interaction mentioned between Fred and Bill is,What did Fred give to Bill? 
+821,Fred,"- answer: Bill did not give the football to anyone; Fred had already passed it to Bill.
+
+-",Who did Bill give the football to? 
+822,football,"===
+milk",What did Bill give to Fred? 
+823,apple,"Answer: Apple
+
+- Response: The provided context does not contain any information about Bill giving an apple to Mary.",What did Bill give to Mary? 
+824,Mary,- ai: Bill,Who received the apple? 
+825,Bill,"- Answer: Bill
+
+- response: Bill
+
+Explanation: The context provided in the passage indicates",Who did Fred give the milk to? 
+826,Bill,"- Answer: Bill
+
+- answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who did Fred give the milk to? 
+827,milk,- ai: milk,What did Fred give to Bill? 
+828,Mary,- response: Mary handed the milk to Bill.,Who gave the milk? 
+829,milk,"- response: milk
+
+Explanation: The context provided states that ""Bill picked up the milk there",What did Bill give to Fred? 
+830,Bill,"- response: Bill
+
+Explanation: The context states that ""Bill got the apple there"" and",Who gave the apple to Mary? 
+831,Mary,"- response: Mary
+
+Explanation: The context provided in the text does not mention any instance where Bill",Who did Bill give the apple to? 
+832,Mary,"- response: Mary
+
+Explanation: The context provided states that ""Bill picked up the apple there",Who did Bill give the apple to? 
+833,Bill,"- response: Mary
+
+- support: Mary
+
+The context provided indicates that Bill picked up the apple after",Who gave the apple? 
+834,apple,"- response: Apple
+
+- support: Apple",What did Bill give to Mary? 
+835,Mary,"- response: Mary
+
+- support: The context provided does not explicitly state which character received the football from Bill",Who did Bill give the football to? 
+836,Mary,"Answer: Mary
+
+- Response: Mary gave the football to Fred.",Who gave the football to Fred? 
+837,Fred,- response: Fred,Who did Mary give the football to? 
+838,Fred,- response: Fred,Who gave the football to Bill? 
+839,Bill,"Answer: Bill
+
+- answer: Bill
+
+The context provided indicates that Fred passed the football to Bill.",Who did Fred give the football to? 
+840,Jeff,- response: Jeff,Who received the apple? 
+841,Jeff,"- response: Jeff
+
+- answer: Jeff
+
+- answer: Jeff
+
+- answer: Jeff",Who gave the apple? 
+842,Jeff,"- Answer: Bill
+
+- answer: Fred
+
+- answer: Jeff
+
+- answer: Bill",Who gave the apple? 
+843,Mary,"- response: Mary
+
+Explanation: The text states that ""Bill gave the apple to Mary,""",Who received the apple? 
+844,Mary,"- response: Bill
+
+Explanation: The context states that ""Bill took the apple there"" and",Who gave the apple? 
+845,Fred,"- response: Fred
+
+Mary put down the football there. This indicates that she handed it to Fred.",Who received the football? 
+846,Mary,- response: Fred gave the football to Mary.,Who gave the football? 
+847,football,- response: Mary gave the football to Fred.,What did Mary give to Fred? 
+848,Bill,- response: Bill,Who did Jeff give the apple to? 
+849,apple,Answer: apple,What did Jeff give to Bill? 
+850,apple,"- response: apple
+
+- answer: apple",What did Jeff give to Mary? 
+851,apple,"- response: apple
+
+- response: apple",What did Jeff give to Mary? 
+852,Mary,- ai: Mary,Who did Jeff give the apple to? 
+853,football,"===
+Jeff gave the football to Mary.",What did Jeff give to Mary? 
+854,Mary,- response: Mary,Who did Jeff give the football to? 
+855,football,"===
+football",What did Mary give to Fred? 
+856,Mary,"Answer: Mary
+
+Question: What did Mary hand to Fred?
+Answer: The football",Who gave the football? 
+857,Mary,"- response: C. R. H. Gresson
+
+However, there seems to be a discre",Who gave the football to Fred? 
+858,milk,"- response: football
+
+- answer: football",What did Fred give to Mary? 
+859,Fred,- response: Mary,Who gave the milk? 
+860,milk,- ai: milk,What did Jeff give to Mary? 
+861,Mary,"- response: Mary
+
+The context provided states that ""Mary took the milk there. Mary passed the milk",Who received the milk? 
+862,milk,"- response: milk
+
+Mary took the milk to the kitchen.",What did Jeff give to Mary? 
+863,Jeff,- response: Jeff,Who did Mary give the apple to? 
+864,Jeff,- ai: Mary,Who gave the apple? 
+865,Mary,- ai: Mary,Who gave the milk to Fred? 
+866,milk,- response: milk,What did Fred give to Mary? 
+867,milk,"- Answer: milk
+
+- support: Mary gave milk to Fred.",What did Mary give to Fred? 
+868,Mary,"- response: Mary
+
+Explanation: The context clearly states that ""Fred gave the milk to Mary",Who did Fred give the milk to? 
+869,Mary,"Answer: Fred
+
+- [Response]: Fred gave the milk to Mary.",Who gave the milk? 
+870,Bill,"- Answer: Bill
+
+- support: Bill gave the milk to Mary.",Who gave the milk to Mary? 
+871,Bill,"- Answer: Bill
+
+- Response: Bill
+
+- Context: Mary took the football there. Mary passed",Who did Mary give the football to? 
+872,Mary,"Answer: Mary
+
+- Response: Mary
+
+Explanation: The context clearly states that ""Bill gave",Who did Bill give the football to? 
+873,Mary,- response: Mary gave the football.,Who gave the football? 
+874,Mary,- response: Mary gave the milk.,Who gave the milk? 
+875,Mary,"- response: Mary
+
+Explanation: The context provided in the text indicates that Bill picked up the football",Who received the football? 
+876,Mary,"- response: Mary
+
+Explanation: The context provided in the text clearly states that ""Bill handed",Who did Bill give the football to? 
+877,football,"- Answer: football
+
+- ai: football
+
+- ai: Yes, Mary gave the football to Bill",What did Mary give to Bill? 
+878,football,"- response: apple
+
+- ai: apple",What did Mary give to Bill? 
+879,Fred,"- response: Fred
+
+Explanation: The context provided states that ""Bill handed the football to Mary",Who did Mary give the football to? 
+880,Jeff,- Response: Mary gave the apple.,Who gave the apple? 
+881,Jeff,- response: Mary,Who gave the apple? 
+882,milk,"- response: milk
+
+Bill gave milk to Fred.",What did Bill give to Fred? 
+883,Bill,- ai: Bill,Who gave the milk to Fred? 
+884,milk,- response: milk,What did Bill give to Fred? 
+885,Bill,- response: Jeff,Who received the apple? 
+886,Bill,"- response: Bill
+
+Explanation: The context provided states that ""Bill picked up the apple there",Who did Jeff give the apple to? 
+887,Jeff,- response: Fred,Who received the apple? 
+888,Jeff,"- response: Jeff
+
+Explanation: The context clearly states that ""Bill passed the apple to Jeff",Who did Bill give the apple to? 
+889,Jeff,"- response: Jeff
+
+- response: The context provided indicates a sequence of events where Bill first picks up",Who did Bill give the apple to? 
+890,Bill,- response: Mary handed the apple to Bill.,Who gave the apple? 
+891,apple,- response: The context provided does not contain any information about Mary giving anything to Fred. The only mention of Mary,What did Mary give to Fred? 
+892,Fred,"- response: Fred
+
+Explanation: The text explicitly states that ""Bill picked up the apple there",Who received the apple? 
+893,Mary,"- response: Fred
+
+- support: The context provided states that ""Bill picked up the apple there.",Who gave the apple? 
+894,Fred,"- Answer: Fred
+
+- support: Fred
+
+- Answer: Fred
+
+The information provided in the",Who did Bill give the apple to? 
+895,Fred,"- response: Mary
+
+- Mary handed the apple to Fred.",Who gave the apple? 
+896,Fred,"- Answer: Fred
+
+- support: Fred
+
+- Answer: Fred
+
+- Answer: Fred",Who did Mary give the apple to? 
+897,Fred,"Answer: Fred
+
+
+- response: Fred
+
+The context provided clearly states that ""Mary put down the",Who received the apple? 
+898,Mary,"- response: Mary
+
+Explanation: The text explicitly states that ""Fred handed the apple to Mary",Who received the football? 
+899,Bill,"- response: Fred
+
+Mary handed the football to Fred.",Who gave the football? 
+900,Jeff,"- Response: Jeff
+
+- Explanation: The sequence of events clearly shows that Mary initially had the apple",Who received the apple? 
+901,apple,"- Answer: apple
+
+- Answer: apple
+
+- Answer: apple",What did Fred give to Jeff? 
+902,Jeff,"- response: Jeff
+
+Explanation: The context provided states that ""Fred got the apple there.",Who did Fred give the apple to? 
+903,apple,- response: Jeff received an apple from Fred.,What did Fred give to Jeff? 
+904,Fred,"Answer: Jeff
+
+- response: Fred received the apple from Jeff.",Who received the apple? 
+905,Bill,"- ai: Mary
+
+- ai: Mary
+
+- ai: Mary
+
+- ai: Mary",Who gave the milk to Fred? 
+906,milk,Answer: milk,What did Fred give to Bill? 
+907,Fred,- response: Fred,Who did Bill give the milk to? 
+908,Bill,- response: Mary,Who gave the milk to Fred? 
+909,Fred,- response: Fred gave the milk to Bill.,Who gave the milk? 
+910,milk,Answer: milk,What did Fred give to Jeff? 
+911,Jeff,"- response: Jeff
+
+- support: The context provided does not contain any information about Fred giving milk to anyone",Who did Fred give the milk to? 
+912,Mary,- response: Mary,Who received the milk? 
+913,Jeff,- response: Mary handed the milk.,Who gave the milk? 
+914,milk,"- response: milk
+
+Explanation: The context states that ""Jeff handed the milk to Mary,""",What did Jeff give to Mary? 
+915,football,- response: football,What did Fred give to Mary? 
+916,Mary,"Answer: Mary
+
+
+
+# bob
+The context provided gives a detailed account of the history of the",Who received the football? 
+917,Mary,- response: Mary,Who gave the football? 
+918,Mary,- response: Jeff,Who gave the football? 
+919,Fred,"- response: Fred
+
+- support: Fred handed the football to Jeff.",Who gave the football to Jeff? 
+920,Mary,- response: Mary,Who gave the apple to Fred? 
+921,Fred,"- Answer: Fred
+
+- answer: Fred
+
+Explanation: The context provided states, ""M",Who did Mary give the apple to? 
+922,Fred,- response: Fred,Who did Mary give the apple to? 
+923,Mary,"- response: Fred
+
+- support: Mary handed the apple to Fred.",Who gave the apple? 
+924,football,- ai: The football.,What did Jeff give to Mary? 
+925,Mary,"Answer: Fred
+
+Question: Who handed the milk to Mary?
+Answer: Fred
+
+Question: Who handed",Who gave the milk? 
+926,Bill,"- Answer: Bill
+
+- answer: Bill
+
+- answer: Bill
+
+- answer: Bill",Who did Fred give the milk to? 
+927,Fred,"- ai: Bill
+
+- support: The context provided does not contain any information about an apple being picked up",Who gave the apple? 
+928,milk,- response: apple,What did Fred give to Bill? 
+929,apple,- ai: Apple,What did Bill give to Fred? 
+930,apple,- response: apple,What did Mary give to Fred? 
+931,Mary,"- response: Fred
+
+Explanation: The context provided in the passage clearly states that ""Mary gave",Who gave the apple? 
+932,apple,"- response: apple
+
+- Mary gave the apple to Fred.",What did Mary give to Fred? 
+933,Jeff,"- response: Mary
+
+- answer: Fred
+
+- answer: Mary
+
+- answer: Mary",Who gave the apple to Fred? 
+934,Jeff,"- Answer: Fred
+
+- answer: Fred
+
+- answer: Jeff
+
+- answer: Mary",Who gave the apple? 
+935,Fred,"- response: Fred
+
+Explanation: The context provided in the passage clearly states that ""Bill took",Who did Bill give the apple to? 
+936,Bill,- response: Bill took the apple there. Bill handed the apple to Fred.,Who gave the apple? 
+937,apple,- Answer: apple,What did Fred give to Bill? 
+938,Bill,- ai: Bill,Who did Fred give the apple to? 
+939,Bill,"Answer: Bill
+
+- response: Bill received the apple.",Who received the apple? 
+940,football,"- response: football
+
+- AI: Jeff gave the football to Bill.",What did Jeff give to Bill? 
+941,football,"- Answer: football
+
+- answer: football
+
+- answer: Jeff received the football from Bill.",What did Bill give to Jeff? 
+942,Bill,"Answer: Bill
+
+- Response: Bill",Who gave the football to Jeff? 
+943,apple,- ai: apple,What did Fred give to Mary? 
+944,Fred,"- response: Fred
+
+Explanation: The context provided in the text clearly states that ""Fred got",Who did Mary give the apple to? 
+945,Bill,- ai: Bill,Who gave the apple to Jeff? 
+946,Bill,- response: Fred,Who did Jeff give the apple to? 
+947,Bill,"- response: Bill
+
+- support: The context provided indicates that Bill picked up the apple after Jeff gave it",Who received the apple? 
+948,Bill,"- Answer: Bill
+
+- support: The context provided indicates that Bill is the one who interacts with the",Who gave the apple? 
+949,Jeff,"Answer: Jeff
+
+- response: Jeff
+
+The context provided clearly states that ""Fred handed the apple",Who did Bill give the apple to? 
+950,Fred,"- response: Fred
+
+- ai: Fred
+
+- ai: Correct, Fred gave the milk to Jeff",Who gave the milk to Jeff? 
+951,Jeff,Answer: Jeff,Who received the milk? 
+952,Fred,- response: Fred,Who did Jeff give the milk to? 
+953,Jeff,"Answer: Jeff
+
+- Response: Jeff
+
+The context provided states that ""Fred got the milk there""",Who did Fred give the milk to? 
+954,milk,- response: Milk,What did Jeff give to Fred? 
+955,milk,- ai: Milk,What did Mary give to Bill? 
+956,Mary,"- response: Mary
+
+- Mary handed the milk to Bill.",Who did Bill give the milk to? 
+957,Bill,"- response: Bill
+
+Explanation: The context clearly states that ""Mary handed the milk to Bill",Who gave the milk to Mary? 
+958,Mary,"- ai: Fred
+
+- support: The context provided states that ""Mary picked up the football there.",Who gave the football? 
+959,Mary,"Answer: Fred
+
+- response: Fred received the football.",Who received the football? 
+960,apple,"Answer: apple
+
+- response: apple",What did Fred give to Jeff? 
+961,Jeff,- response: Jeff,Who did Fred give the apple to? 
+962,Fred,"- response: Fred
+
+The context provided in the text indicates that Fred is the one who handed the apple to",Who gave the apple to Jeff? 
+963,Fred,"- response: Jeff
+
+The context provided indicates that Jeff handed the apple to Fred. This is shown by the",Who gave the apple? 
+964,Fred,- response: Jeff,Who gave the apple? 
+965,Fred,"- Response: Fred
+
+- Answer: The apple was given to Fred.",Who received the apple? 
+966,Mary,- response: Mary,Who gave the apple to Fred? 
+967,Fred,- response: Fred,Who did Mary give the apple to? 
+968,apple,- response: The apple,What did Mary give to Fred? 
+969,Fred,- Response: Fred,Who gave the apple? 
+970,Bill,"- response: Bill
+
+The milk was given to Bill. This information is explicitly stated in the context provided:",Who received the milk? 
+971,Bill,"- Response: Mary
+
+Explanation: The context clearly states that ""Mary handed the milk to Bill",Who gave the milk? 
+972,Bill,"- response: Bill
+
+- Mary went to the office.
+- Bill moved to the bathroom.",Who gave the milk to Mary? 
+973,Mary,- response: Mary gave the milk to Jeff.,Who gave the milk to Jeff? 
+974,Fred,- response: Bill,Who gave the football? 
+975,football,- ai: A football.,What did Jeff give to Bill? 
+976,football,- response: Jeff gave the football to Bill.,What did Jeff give to Bill? 
+977,Jeff,- Response: Jeff,Who did Mary give the milk to? 
+978,milk,"- response: Milk
+
+- ai: Milk
+
+- ai: Milk
+
+- ai",What did Mary give to Jeff? 
+979,Mary,- response: Bill,Who received the football? 
+980,milk,"- response: milk
+
+Mary handed the milk to Fred. This indicates that Fred received the milk from Mary",What did Fred give to Mary? 
+981,Fred,- response: Fred,Who gave the milk? 
+982,Fred,- response: Fred,Who gave the milk to Mary? 
+983,Fred,- response: Fred received the milk.,Who received the milk? 
+984,Fred,- response: Mary handed the milk to Fred.,Who gave the milk? 
+985,Jeff,Answer: Jeff,Who received the milk? 
+986,Fred,Answer: Fred,Who gave the milk? 
+987,Fred,"- response: Fred
+
+- Explanation: The context provided in the text clearly states that ""Bill",Who gave the milk to Jeff? 
+988,Fred,"- response: Fred
+
+- answer: Fred
+
+- answer: Milton
+
+- answer: Mr",Who gave the milk? 
+989,Bill,- response: Jeff,Who received the milk? 
+990,apple,- ai: apple,What did Bill give to Fred? 
+991,Fred,- response: Fred,Who did Bill give the apple to? 
+992,Bill,- ai: Bill,Who gave the apple? 
+993,football,"- response: football
+
+Explanation: The context provided states that ""Jeff gave the football to Mary",What did Jeff give to Mary? 
+994,Jeff,- response: Jeff passed the football to Mary.,Who gave the football to Mary? 
+995,Bill,"- response: Bill
+
+Explanation: The context provided states that ""Fred picked up the football there",Who received the football? 
+996,Fred,- response: Fred gave the football.,Who gave the football? 
+997,football,"- Answer: football
+
+- Answer: football
+
+- Answer: Mary handed the football to Bill.",What did Mary give to Bill? 
+998,football,- response: The apple,What did Mary give to Bill? 

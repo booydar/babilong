@@ -1,0 +1,321 @@
+Unnamed: 0,target,output,question
+0,hallway,"Answer: The most recent location of John is hallway.
+
+Context: Sandra journeyed to the kitchen.",Where is John? 
+1,bathroom,"Answer: The most recent location of Mary is bathroom.
+
+Context: Sandra journeyed to the office",Where is Mary? 
+2,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+Context: Sandra journeyed to the bath",Where is Sandra? 
+3,hallway,"Answer: The most recent location of Sandra is hallway.
+
+Context: Daniel journeyed to the bath",Where is Sandra? 
+4,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+- [Response]: The most recent location of",Where is Sandra? 
+5,hallway,"Answer: The most recent location of Sandra is hallway.
+
+Context: Sandra travelled to the kitchen",Where is Sandra? 
+6,garden,"The most recent location of Sandra is the garden.
+
+- response: The most recent location of Sandra is",Where is Sandra? 
+7,hallway,"Answer: The most recent location of Daniel is hallway.
+
+Context: Daniel travelled to the bathroom",Where is Daniel? 
+8,office,"Answer: The most recent location of Sandra is office.
+
+Context: Daniel travelled to the bathroom.",Where is Sandra? 
+9,office,"Answer: The most recent location of Daniel is office.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+10,kitchen,"Answer: The most recent location of Mary is kitchen.
+
+Context: Sandra journeyed to the bathroom.",Where is Mary? 
+11,garden,"Answer: The most recent location of Mary is garden.
+
+Context: Sandra journeyed to the bathroom",Where is Mary? 
+12,office,"Answer: The most recent location of Daniel is the office.
+
+- [Response]: The most recent location of",Where is Daniel? 
+13,bedroom,"Answer: The most recent location of Mary is the bedroom.
+
+
+Context: Daniel travelled to the",Where is Mary? 
+14,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+- [Response]: The most recent location of",Where is Mary? 
+15,kitchen,"Answer: The most recent location of John is kitchen.
+
+Context: Sandra journeyed to the office. Sand",Where is John? 
+16,garden,"Answer: The most recent location of John is garden.
+
+Context: Sandra travelled to the bedroom.",Where is John? 
+17,kitchen,"Answer: The most recent location of John is kitchen.
+
+- [Response]: The most recent location of John",Where is John? 
+18,office,"Answer: The most recent location of Daniel is the office.
+
+Context: Daniel journeyed to the garden.",Where is Daniel? 
+19,kitchen,"Answer: The most recent location of John is kitchen.
+
+- [Response]: The most recent location of John",Where is John? 
+20,hallway,"Answer: The most recent location of Mary is hallway.
+
+Context: Bill journeyed to the office. Bill",Where is Mary? 
+21,office,"Answer: The most recent location of John is office.
+
+Context: Sandra journeyed to the bathroom.",Where is John? 
+22,office,"Answer: The most recent location of John is office.
+
+- response: The most recent location of John is",Where is John? 
+23,hallway,"Answer: The most recent location of Sandra is bedroom.
+
+- [Response]: The most recent location",Where is Sandra? 
+24,bedroom,"Answer: The most recent location of Daniel is bedroom.
+
+- [Response]: The most recent location of",Where is Daniel? 
+25,bedroom,"Answer: The most recent location of Sandra is bedroom.
+
+Context: Sandra travelled to the office",Where is Sandra? 
+26,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+Context: Daniel travelled to the office.",Where is Mary? 
+27,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+- response: The most recent location of Daniel is",Where is Daniel? 
+28,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+29,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+30,hallway,"Answer: The most recent location of Sandra is hallway.
+
+Context: Daniel went to the garden. Sand",Where is Sandra? 
+31,office,"Answer: The most recent location of John is office.
+
+Context: Sandra travelled to the bathroom",Where is John? 
+32,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+- [Response]: The most recent location of",Where is Sandra? 
+33,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+Context: Sandra moved to the hallway",Where is Sandra? 
+34,bathroom,"Answer: The most recent location of Sandra is kitchen.
+
+- [Response]: The most recent location of",Where is Sandra? 
+35,office,"Answer: The most recent location of Mary is office.
+
+
+II. Context:
+Mary moved to the",Where is Mary? 
+36,bathroom,"The most recent location of Mary is the bathroom.
+
+- response: The most recent location of Mary is the",Where is Mary? 
+37,garden,"Answer: The most recent location of Mary is garden.
+
+- [Response]: The most recent location of Mary",Where is Mary? 
+38,kitchen,"Answer: The most recent location of Sandra is the kitchen.
+
+
+Context: Daniel travelled to the",Where is Sandra? 
+39,bedroom,"Answer: The most recent location of Daniel is bedroom.
+
+Context: Mary journeyed to the office. Mary",Where is Daniel? 
+40,bathroom,"Answer: The most recent location of Sandra is the bathroom.
+
+Context: Sandra went to the hall",Where is Sandra? 
+41,garden,"Answer: The most recent location of Daniel is garden.
+
+
+Question: Where is Daniel?
+
+-",Where is Daniel? 
+42,bathroom,"Answer: The most recent location of Sandra is the bathroom.
+
+Context: Sandra went to the",Where is Sandra? 
+43,hallway,"Answer: The most recent location of Daniel is hallway.
+
+
+Question: Where is John?
+Answer:",Where is Daniel? 
+44,garden,"Answer: The most recent location of Daniel is garden.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+45,kitchen,"Answer: The most recent location of Mary is kitchen.
+
+Context: Daniel journeyed to the hallway. Mary",Where is Mary? 
+46,hallway,"Answer: The most recent location of Daniel is hallway.
+
+Context: Daniel travelled to the office.",Where is Daniel? 
+47,bathroom,"Answer: The most recent location of Sandra is bathroom.
+
+Context: Daniel travelled to the bath",Where is Sandra? 
+48,office,"Answer: The most recent location of John is office.
+
+Context: Mary journeyed to the bathroom. Mary",Where is John? 
+49,bedroom,"Answer: The most recent location of John is bedroom.
+
+- [Response]: The most recent location of",Where is John? 
+50,bedroom,"Answer: The most recent location of John is bedroom.
+
+Context: Bill journeyed to the bathroom.",Where is John? 
+51,office,"The most recent location of John is the office.
+
+- response: The most recent location of John is the office",Where is John? 
+52,garden,"Answer: The most recent location of John is garden.
+
+- [Response]: The most recent location of John",Where is John? 
+53,garden,"Answer: The most recent location of John is the garden.
+
+
+Context: Daniel journeyed to the bathroom",Where is John? 
+54,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+55,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+Context: Daniel journeyed to the bathroom.",Where is Mary? 
+56,kitchen,"Answer: The most recent location of Mary is kitchen.
+
+
+Question: Where is Daniel?
+
+Answer",Where is Mary? 
+57,hallway,"Answer: The most recent location of Mary is hallway.
+
+Context: Mary went to the bedroom.",Where is Mary? 
+58,garden,"Answer: The most recent location of Daniel is kitchen.
+
+
+Context: Daniel journeyed to the bathroom",Where is Daniel? 
+59,hallway,"Answer: The most recent location of Sandra is hallway.
+
+- [Response]: The most recent location",Where is Sandra? 
+60,hallway,"Answer: The most recent location of Sandra is hallway.
+
+Context: Sandra went to the bedroom",Where is Sandra? 
+61,office,"Answer: The most recent location of Daniel is office.
+
+Context: Sandra went back to the hallway",Where is Daniel? 
+62,bathroom,"Answer: The most recent location of Sandra is the bathroom.
+
+Context: Sandra went back to",Where is Sandra? 
+63,garden,"Answer: The most recent location of Daniel is garden.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+64,garden,"Answer: The most recent location of Daniel is garden.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+65,kitchen,"Answer: The most recent location of John is kitchen.
+
+Context: Charlie went to the bathroom. John journey",Where is John? 
+66,kitchen,"Answer: The most recent location of John is kitchen.
+
+Context: Daniel travelled to the office. Mary",Where is John? 
+67,bathroom,"Answer: The most recent location of Daniel is the bathroom.
+
+Context: Daniel travelled to the garden",Where is Daniel? 
+68,office,"Answer: The most recent location of Daniel is office.
+
+
+Context: Daniel went to the garden. Mary",Where is Daniel? 
+69,office,"Answer: The most recent location of Daniel is office.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+70,garden,"Answer: The most recent location of Mary is garden.
+
+Context: Sandra journeyed to the bedroom.",Where is Mary? 
+71,hallway,"Answer: The most recent location of Sandra is hallway.
+
+Context: Sandra journeyed to the",Where is Sandra? 
+72,garden,"Answer: The most recent location of Mary is garden.
+
+- response: The most recent location of Mary is",Where is Mary? 
+73,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+Context: Sandra journeyed to the bed",Where is Mary? 
+74,bathroom,"Answer: The most recent location of Mary is the bathroom.
+
+Context: Sandra journeyed to the",Where is Mary? 
+75,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+Context: Sandra journeyed to the bathroom.",Where is Daniel? 
+76,kitchen,"Answer: The most recent location of John is kitchen.
+
+Context: John travelled to the kitchen. Daniel went",Where is John? 
+77,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+- [Response]: The most recent location of Daniel",Where is Daniel? 
+78,hallway,"Answer: The most recent location of Daniel is hallway.
+
+- [Response]: The most recent location of",Where is Daniel? 
+79,office,"Answer: The most recent location of Daniel is the office.
+
+
+II. Context:
+Mary journeyed",Where is Daniel? 
+80,garden,"Answer: The most recent location of John is garden.
+
+Context: Daniel went to the kitchen. John travelled",Where is John? 
+81,bathroom,"Answer: The most recent location of John is the bathroom.
+
+- [Response]: The most recent location",Where is John? 
+82,bedroom,"Answer: The most recent location of Sandra is bedroom.
+
+Context: Daniel went to the kitchen.",Where is Sandra? 
+83,garden,"Answer: The most recent location of Mary is garden.
+
+Context: Daniel went to the kitchen. Daniel went",Where is Mary? 
+84,office,"Answer: The most recent location of Daniel is office.
+
+
+Context: Daniel went to the garden. John travel",Where is Daniel? 
+85,garden,"Answer: The most recent location of Sandra is garden.
+
+Context: Sandra travelled to the bedroom",Where is Sandra? 
+86,garden,"Answer: The most recent location of Mary is garden.
+
+Context: Sandra journeyed to the bathroom.",Where is Mary? 
+87,hallway,"Answer: The most recent location of John is the hallway.
+
+Context: Sandra journeyed to the",Where is John? 
+88,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+Context: Daniel went to the kitchen. Mary",Where is Sandra? 
+89,kitchen,"Answer: The most recent location of Daniel is kitchen.
+
+Context: Daniel travelled to the bathroom.",Where is Daniel? 
+90,bathroom,"Answer: The most recent location of Sandra is the bathroom.
+
+Context: Sandra moved to the kitchen",Where is Sandra? 
+91,bathroom,"Answer: The most recent location of John is bathroom.
+
+Context: Sandra travelled to the garden.",Where is John? 
+92,hallway,"Answer: The most recent location of Sandra is hallway.
+
+- [Response]: The most recent location",Where is Sandra? 
+93,bathroom,"The most recent location of Sandra is the bathroom.
+
+- response: The most recent location of Sand",Where is Sandra? 
+94,bathroom,"Answer: The most recent location of Sandra is bathroom.
+
+
+II. Context:
+Mary journey",Where is Sandra? 
+95,kitchen,"Answer: The most recent location of John is kitchen.
+
+Context: Sandra travelled to the office. John",Where is John? 
+96,kitchen,"Answer: The most recent location of Sandra is kitchen.
+
+Context: Sandra travelled to the office",Where is Sandra? 
+97,kitchen,"Answer: The most recent location of Mary is kitchen.
+
+- [Response]: The most recent location of Mary",Where is Mary? 
+98,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+Context: Daniel travelled to the bathroom",Where is Mary? 
+99,bedroom,"Answer: The most recent location of Mary is bedroom.
+
+Context: Daniel travelled to the bathroom.",Where is Mary? 
