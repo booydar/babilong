@@ -51,13 +51,14 @@ Even models that claim to support 128K tokens experience degradation beyond 10\%
 
 ### Evaluate your favorite LLM on BABILong
 
-Examples for evaluation of popular LLMs are provided in the `./notebooks` folder. 
+Examples for evaluation of popular LLMs are provided in the `./notebooks` and `./scripts` folders.
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)  [Example how to evaluate models on BABILong](https://github.com/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)
+
 
 ### Train your model on BABILong
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Train your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)  [Example how to evaluate models on BABILong](https://github.com/booydar/babilong/blob/main/notebooks/babilong_evaluation_example.ipynb)
 
 You can generate training samples using the README in `./data`.
 
