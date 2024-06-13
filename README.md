@@ -108,9 +108,68 @@ Join us in this exciting endeavor and let's push the boundaries of what's possib
 }
 ```
 
+## Dataset Metadata
+
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">The BABILong Benchmark</code></td>
+  </tr>
+  <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">BABILong</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/booydar/babilong</code></td>
+  </tr>
+  <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/booydar/babilong</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">This repository contains code and instructions for BABILong benchmark. The BABILong benchmark is designed to test language models' ability to reason across facts distributed in extremely long documents. BABILong includes a diverse set of 20 reasoning tasks, including fact chaining, simple induction, deduction, counting, and handling lists/sets. BABILong uses tasks with facts and questions from bAbI. PG-19 books are used as source of long natural contexts.</code></td>
+  </tr>
+  <tr>
+    <td>license</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/CreativeWork" itemprop="license">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Apache License, Version 2.0</code></td>
+          </tr>
+          <tr>
+            <td>url</td>
+            <td><code itemprop="url">https://www.apache.org/licenses/LICENSE-2.0.html</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://identifiers.org/arxiv:2402.10790</code></td>
+  </tr>
+</table>
+</div>
+
 ## References
 
 [1] Weston, Jason, et al. "Towards ai-complete question answering: A set of prerequisite toy tasks." arXiv preprint [arXiv:1502.05698](https://arxiv.org/abs/1502.05698) (2015).
+
 [2] Rae, Jack W., et al. "Compressive Transformers for Long-Range Sequence Modelling." International Conference on Learning Representations. 2019.
 
 ## License
