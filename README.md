@@ -46,7 +46,7 @@ monthly downloads from the Hugging Face platform in our evaluation. Values repre
 
 ### BABILong is a challenging benchmark for current long-context models.
 
-Even models that claim to support 128K tokens experience degradation beyond 10\% of their input capacity. RAG methods do not help, while fine-tuning of small scale models (RMT 137M and Mamba 130M) shows that the tasks are solvable.
+Even models that claim to support 128K tokens, such as GPT-4 (gpt-4-0125-preview) experience degradation beyond 10\% of their input capacity. RAG methods do not help, while fine-tuning of small scale models (RMT 137M and Mamba 130M) shows that the tasks are solvable.
 
 
 ### Evaluate your favorite LLM on BABILong
