@@ -1,10 +1,12 @@
 # BABILong: a long-context needle-in-a-haystack benchmark for LLMs
 
-Preprint is on [arXiv](https://arxiv.org/abs/2402.10790)
+Preprint is on [arXiv](https://arxiv.org/abs/2406.10149).
 
 Evaluation sets of BABILong on HF Datasets: [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) per task and per length (0, 1, 2, 4, 8, 16, 32, 64, 128, 256, 512k, 1M and 10M).
 
-Hugging Face [Leaderboard](https://huggingface.co/spaces/RMT-team/babilong)
+[BABILong Leaderboard](https://huggingface.co/spaces/RMT-team/babilong) on Hugging Face.
+
+This work was done in collaboration of AIRI, DeepPavlov.ai, and London Institute for Mathematical Sciences.
 
 ## bAbI + Books = BABILong
 
@@ -89,6 +91,17 @@ By participating, you're not only contributing to the advancement of NLP researc
 Join us in this exciting endeavor and let's push the boundaries of what's possible together!
 
 ## Citation
+```
+@misc{kuratov2024babilong,
+      title={BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack}, 
+      author={Yuri Kuratov and Aydar Bulatov and Petr Anokhin and Ivan Rodkin and Dmitry Sorokin and Artyom Sorokin and Mikhail Burtsev},
+      year={2024},
+      eprint={2406.10149},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
+```
+
 ```
 @misc{kuratov2024search,
       title={In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss}, 
