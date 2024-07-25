@@ -1,6 +1,6 @@
 import argparse
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import datasets
 from tqdm.auto import tqdm
 import pandas as pd
@@ -14,8 +14,10 @@ from babilong.prompts import DEFAULT_PROMPTS, DEFAULT_TEMPLATE, get_formatted_in
 
 
 def main(
-    results_folder: str, model_name: str, tasks: List[str], split_names: List[str], dataset_name: str,
-    use_chat_template: bool, api_url: str, use_instruction: bool, use_examples: bool, use_post_prompt: bool
+    results_folder: str, model_name: str, model_path: str, tokenizer_name: str, tokenizer_path: str,
+    tasks: List[str], split_names: List[str], dataset_name: str,
+    use_chat_template: bool, api_url: str, use_instruction: bool, use_examples: bool, use_post_prompt: bool,
+    load_in_8bit: bool, load_in_4bit: bool
 ) -> None:
     """
     Main function to get model predictions on babilong and save them.
@@ -32,22 +34,36 @@ def main(
         use_examples (bool): Flag to use examples in prompt.
         use_post_prompt (bool): Flag to use post_prompt text in prompt.
     """
+    if model_path is None:
+        # use model from transformerss
+        model_path = model_name
+
+    if tokenizer_path is None:
+        tokenizer_path = tokenizer_name
+        if tokenizer_path is None:
+            tokenizer_path = model_path
+
+    quantization_config = None
+    if load_in_8bit or load_in_4bit:
+        quantization_config = BitsAndBytesConfig(load_in_8bit=load_in_8bit, load_in_4bit=load_in_4bit)
 
     dtype = torch.bfloat16
 
-    tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(tokenizer_path, trust_remote_code=True)
     if not api_url:
         # load the model locally if llamacpp API is not used
         try:
             print('trying to load model with flash attention 2...')
-            model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
+            model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True,
                                                          device_map='auto', torch_dtype=dtype,
-                                                         attn_implementation='flash_attention_2')
+                                                         attn_implementation='flash_attention_2',
+                                                         quantization_config=quantization_config)
         except ValueError as e:
             print(e)
             print('trying to load model without flash attention 2...')
-            model = AutoModelForCausalLM.from_pretrained(model_name, trust_remote_code=True,
-                                                         device_map='auto', torch_dtype=dtype)
+            model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True,
+                                                         device_map='auto', torch_dtype=dtype,
+                                                         quantization_config=quantization_config)
 
         model = model.eval()
 
@@ -116,9 +132,16 @@ def main(
                     else:
                         model_inputs = tokenizer.encode(input_text, add_special_tokens=True)
 
-                    request_data = {'prompt': model_inputs, 'temperature': generate_kwargs['temperature']}
+                    request_data = {'prompt': model_inputs, 'temperature': generate_kwargs['temperature'],
+                                    'model': model_name}
                     response = requests.post(api_url, headers=headers, json=request_data).json()
-                    output = response['content'].strip()
+
+                    if 'content' in response:
+                        # llamacpp
+                        output = response['content'].strip()
+                    elif 'choices' in response:
+                        # openai compatible api
+                        output = response['choices'][0]['text'].strip()
                 else:
                     # generate output using local model
                     if model.name_or_path in ['THUDM/chatglm3-6b-128k']:
@@ -158,6 +181,9 @@ if __name__ == '__main__':
     parser.add_argument('--dataset_name', type=str, required=True, default='RMT-team/babilong-1k-samples',
                         help='dataset name from huggingface')
     parser.add_argument('--model_name', type=str, required=True, help='Name of the model to use')
+    parser.add_argument('--model_path', type=str, required=False, help='path to model, optional')
+    parser.add_argument('--tokenizer_name', type=str, required=False, help='tokenizer to use in .from_pretrained')
+    parser.add_argument('--tokenizer_path', type=str, required=False, help='path to tokenizer to use in .from_pretrained')
     parser.add_argument('--tasks', type=str, nargs='+', required=True, help='List of tasks to evaluate: qa1 qa2 ...')
     parser.add_argument('--lengths', type=str, nargs='+', required=True, help='List of lengths to evaluate: 0k 1k ...')
     parser.add_argument('--use_chat_template', action='store_true', help='Use tokenizer chat template')
@@ -165,7 +191,14 @@ if __name__ == '__main__':
     parser.add_argument('--use_examples', action='store_true', help='Use examples in prompt')
     parser.add_argument('--use_post_prompt', action='store_true', help='Use post prompt text in prompt')
     parser.add_argument('--api_url', type=str, required=True, default='', help='llamacpp api endpoint')
+    parser.add_argument('--load_in_8bit', action='store_true', help='load in 8 bit with bitsandbytes')
+    parser.add_argument('--load_in_4bit', action='store_true', help='load in 4 bit with bitsandbytes')
 
     args = parser.parse_args()
-    main(args.results_folder, args.model_name, args.tasks, args.lengths, args.dataset_name, args.use_chat_template,
-         args.api_url, args.use_instruction, args.use_examples, args.use_post_prompt)
+
+    print(args)
+
+    main(args.results_folder, args.model_name, args.model_path,  args.tokenizer_name, args.tokenizer_path,
+         args.tasks, args.lengths, args.dataset_name,
+         args.use_chat_template, args.api_url, args.use_instruction, args.use_examples, args.use_post_prompt,
+         args.load_in_8bit, args.load_in_4bit)
