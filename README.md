@@ -62,6 +62,11 @@ Examples for evaluation of popular LLMs are provided in the `./notebooks` and `.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Train your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
 
+
+### Example for running RMT
+
+ - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yu8FsJkNXlEgnpY33GDYOOZptwYJ3ngo?usp=sharing) [Test RMT on BABILong](https://colab.research.google.com/drive/1yu8FsJkNXlEgnpY33GDYOOZptwYJ3ngo?usp=sharing)
+
 You can generate training samples using the README in `./data`.
 
 Predictions of various LLMs that we evaluated on BABILong (GPT-4, GPT-3.5, Mistral, Mixtral, Phi-3, ChatGLM, Yi, Jamba) are in [predictions_06_2024](https://github.com/booydar/babilong/tree/predictions_06_2024) branch.
