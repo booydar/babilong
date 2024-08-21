@@ -1,6 +1,6 @@
-SYSTEM_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}'
+TASK_TEMPLATE = '{instruction}\n\n{examples}\n\n{post_prompt}'
 USER_TEMPLATE = '<context>\n{context}\n</context>\n\nQuestion: {question}'
-DEFAULT_TEMPLATE = f'{SYSTEM_TEMPLATE}\n\n{USER_TEMPLATE}'
+DEFAULT_TEMPLATE = f'{TASK_TEMPLATE}\n\n{USER_TEMPLATE}'
 
 CUSTOM_SYSTEM_PROMPTS = {
     # https://github.com/dvlab-research/LongLoRA/blob/2345c6d030f61ac3a031906386a103a5b05e0e6f/inference.py#L18
@@ -14,7 +14,7 @@ CUSTOM_SYSTEM_PROMPTS = {
 
 
 def get_formatted_input(context, question, examples, instruction, post_prompt, template=DEFAULT_TEMPLATE):
-    # pre_prompt - general instruction
+    # instruction - task instruction
     # examples - in-context examples
     # post_prompt - any additional instructions after examples
     # context - text to use for qa
@@ -474,7 +474,7 @@ DEFAULT_PROMPTS = {
             '</example>\n',
         'post_prompt':
             'Your answer should contain only two letters, separated by a comma - ordinal directions. You can choose the letters from '
-             '$n$, $s$, $e$ and $w$. Do not write anything else after that.'
+            '$n$, $s$, $e$ and $w$. Do not write anything else after that.'
     },
     'qa20': {
         'instruction':
