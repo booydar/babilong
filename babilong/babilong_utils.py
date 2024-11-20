@@ -109,7 +109,7 @@ class SentenceSampler:
         while True:
             sentences = list(self.sentences)
             for i, sent in enumerate(sentences):  # add new sentence until sample_size is reached
-                tokenized = self.tokenizer.encode(sent, add_special_tokens=False)
+                tokenized = self.tokenizer.encode(' ' + sent, add_special_tokens=False)
                 if not self.length_is_ok(tokenized):
                     continue
                 total_len += len(tokenized)
@@ -179,9 +179,10 @@ class NoiseInjectionDataset(Dataset):
 
     def __getitem__(self, ind):
         sample = self.task_dataset[ind]
-        facts_tok = self.tokenizer(list(sample['facts']))['input_ids']
-        question_tok = self.tokenizer(sample['question'])['input_ids']
-        answer_tok = self.tokenizer(sample['answer'])['input_ids']
+        facts = list(sample['facts'])
+        facts_tok = self.tokenizer([' ' + f for f in facts], add_special_tokens=False)['input_ids']
+        question_tok = self.tokenizer(sample['question'], add_special_tokens=False)['input_ids']
+        answer_tok = self.tokenizer(sample['answer'], add_special_tokens=False)['input_ids']
 
         sample_size = self.get_sample_size()
         task_len = sum_lengths(facts_tok)
