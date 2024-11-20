@@ -42,15 +42,7 @@ if __name__ == "__main__":
         os.makedirs(subfolder, exist_ok=True)
 
         task_path = os.path.join(task_folder, task + '_train.txt')
-
         
-        dummy_task_dataset = TaskDataset(task_path, max_n_facts=1024 // 8)
-
-
-        inds = list(range(len(dummy_task_dataset)))
-        np.random.shuffle(inds)
-        inds = inds[:number_of_samples]
-
         for len_name, message_length in zip(names, message_lengths):
             print('message length', len_name, message_length)
             noise_dataset = datasets.load_dataset("pg19")['test']
@@ -68,6 +60,10 @@ if __name__ == "__main__":
                                                     tokenizer=tokenizer,
                                                     sample_size=message_length)
 
+            # get number_of_samples random indices
+            inds = list(range(len(dataset_test)))
+            np.random.shuffle(inds)
+            inds = inds[:number_of_samples]
 
             # prepare samples for LLM evaluation
             samples = [dataset_test[i] for i in inds]
