@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1 NP=4 ./finetune_babilong_armt_qa1-5_lora_ct-2.sh; CUDA_VISIBLE_DEVICES=0,1 NP=4 ./finetune_babilong_armt_qa1-5_lora_curriculum_ct-2.sh
