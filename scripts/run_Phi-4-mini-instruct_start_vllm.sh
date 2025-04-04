@@ -30,8 +30,8 @@ VLLM_API_PORT="${VLLM_API_PORT:-8000}"
 VLLM_API_URL="${VLLM_API_URL:-http://${VLLM_API_HOST}:${VLLM_API_PORT}/v1}"
 
 RESULTS_FOLDER="./babilong_evals"
-MODEL_NAME="google/gemma-3-4b-it"
-MODEL_PATH="/home/jovyan/kuratov/models/gemma-3-4b-it"
+MODEL_NAME="microsoft/Phi-4-mini-instruct"
+MODEL_PATH="/home/jovyan/kuratov/models/Phi-4-mini-instruct"
 
 # Start the vLLM server in the background
 # Comment this section if vLLM server is already running.
@@ -50,7 +50,7 @@ trap cleanup EXIT
 
 DATASET_NAME="RMT-team/babilong"
 TASKS=("qa1" "qa2" "qa3" "qa4" "qa5")
-LENGTHS=("64k" "128k")
+LENGTHS=("128k" "64k")
 
 USE_CHAT_TEMPLATE=true
 USE_INSTRUCTION=true

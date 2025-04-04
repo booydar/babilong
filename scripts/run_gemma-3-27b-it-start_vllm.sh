@@ -5,10 +5,17 @@ set -e
 # Function to check if the API server is ready
 wait_for_server() {
     echo "Waiting for vLLM server to start..."
-    while ! curl -s "${VLLM_API_URL}/completions" &>/dev/null; do
+    while true; do
+        if ! kill -0 $VLLM_PID 2>/dev/null; then
+            echo "vLLM process failed to start!"
+            exit 1
+        fi
+        if curl -s "${VLLM_API_URL}/completions" &>/dev/null; then
+            echo "vLLM server is ready!"
+            return 0
+        fi
         sleep 1
     done
-    echo "vLLM server is ready!"
 }
 
 # Function to kill the vLLM server
@@ -28,15 +35,20 @@ MODEL_PATH="/home/jovyan/kuratov/models/gemma-3-27b-it"
 
 # Start the vLLM server in the background
 # Comment this section if vLLM server is already running.
+# set --max-model-len 86016 to eval on lenghts up to 64k on two GPUs with 80GB each.
 echo "Starting vLLM server..."
 vllm serve "$MODEL_PATH" --enable-chunked-prefill=False --tensor-parallel-size $TP \
-    --served-model-name "$MODEL_NAME" --host "${VLLM_API_HOST}" --port "${VLLM_API_PORT}" --disable-log-requests &
+    --served-model-name "$MODEL_NAME" --host "${VLLM_API_HOST}" --port "${VLLM_API_PORT}" \
+    --disable-log-requests &
 
-# Set up trap to ensure cleanup on script exit
-trap cleanup EXIT
+VLLM_PID=$!
+echo "vLLM PID: $VLLM_PID"
 
 # Wait for the server to be ready
 wait_for_server
+
+# Set up trap to ensure cleanup on script exit
+trap cleanup EXIT
 
 DATASET_NAME="RMT-team/babilong"
 TASKS=("qa1" "qa2" "qa3" "qa4" "qa5")
