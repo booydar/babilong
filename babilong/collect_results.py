@@ -144,21 +144,25 @@ def process_all_models(evals_path, tasks, lengths, save_path=None):
     """Process results for all models in the evals directory."""
     model_names = [f'{path.parent.name}/{path.name}' for path in evals_path.glob('*/*') if '.git' not in str(path)]
     print(f'Found predictions of following models:\n{model_names}')
+    # all model results
     results = {}
+    # combined results from different configurations of how model was run
+    best_tables = {}
 
     for model_name in tqdm(model_names, desc='Reading models predictions'):
         model_results = get_model_results(evals_path / model_name, tasks, lengths)
         table = get_results_table(model_name, model_results, tasks, lengths, to_display=False)
-        results[model_name] = table
+        results[model_name] = model_results
+        best_tables[model_name] = table
 
     for model_name in model_names:
         if save_path:
-            save_model_results(model_name, model_results, table, save_path)
+            save_model_results(model_name, results[model_name], best_tables[model_name], save_path)
 
-    if save_path and results:
-        save_combined_results(results, save_path)
+    if save_path and best_tables:
+        save_combined_results(best_tables, save_path)
 
-    return results
+    return results, best_tables
 
 
 def save_model_results(model_name, model_results, table, save_path):
@@ -209,3 +213,5 @@ if __name__ == '__main__':
         process_single_model(args.model_name, evals_path, args.tasks, args.lengths, save_path)
     else:
         process_all_models(evals_path, args.tasks, args.lengths, save_path)
+
+    print('Done!')
