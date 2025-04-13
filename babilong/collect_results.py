@@ -15,14 +15,26 @@ matplotlib.rc('font', size=14)
 pd.set_option('display.max_colwidth', None)
 
 
-TASKS = ['qa1', 'qa2', 'qa3', 'qa4', 'qa5']
-LENGTHS = ['0k', '1k', '2k', '4k', '8k', '16k', '32k', '64k', '128k']
+TASKS = ['qa1', 'qa2', 'qa3', 'qa4', 'qa5', 'qa6', 'qa7', 'qa8', 'qa9', 'qa10']
+LENGTHS = ['0k', '1k', '2k', '4k', '8k', '16k', '32k', '64k', '128k', '256k', '512k', '1M', '2M', '10M']
 
 
-def get_model_results(results_path, tasks=TASKS, lengths=LENGTHS):
+def get_model_results(results_path, tasks=[], lengths=[]):
     run_configurations = set()
+    model_tasks = set()
+    model_lengths = set()
+
     for fn in results_path.glob('*.csv'):
         run_configurations.add('_'.join(fn.stem.split('_')[2:]))
+        model_tasks.add(fn.stem.split('_')[0])
+        model_lengths.add(fn.stem.split('_')[1])
+
+    # get all tasks and lengths that are present in the model results if not specified
+    if len(tasks) == 0:
+        tasks = [task for task in TASKS if task in model_tasks]
+    if len(lengths) == 0:
+        lengths = [length for length in LENGTHS if length in model_lengths]
+
     results = {}
 
     for run_cfg in run_configurations:
@@ -46,7 +58,7 @@ def get_model_results(results_path, tasks=TASKS, lengths=LENGTHS):
                 score = df['correct'].sum()
                 accuracy[j, i] = 100 * score / len(df) if len(df) > 0 else 0
                 results[run_cfg] = accuracy
-    return results
+    return results, tasks, lengths
 
 
 def parse_run_cfg(cfg_str):
@@ -63,7 +75,7 @@ def parse_run_cfg(cfg_str):
     return result
 
 
-def plot_results(model_name, results, lengths=LENGTHS, tasks=TASKS):
+def plot_results(model_name, results, tasks=TASKS, lengths=LENGTHS):
     # Create a colormap for the heatmap
     cmap = LinearSegmentedColormap.from_list('ryg', ["red", "yellow", "green"], N=256)
 
@@ -115,7 +127,6 @@ def get_results_table(model_name, results, tasks=TASKS, lengths=LENGTHS, to_disp
                 best_tab.loc[task, 'best_cfg'] = cfg
                 best_avgs[task] = curr_avg
                 best_cfgs[task] = cfg
-
     # Add average row
     best_tab.loc['avg'] = best_tab.iloc[:, :-2].mean(axis=0)
     best_tab.loc['avg', 'best_cfg'] = 'N/A'
@@ -131,11 +142,11 @@ def get_results_table(model_name, results, tasks=TASKS, lengths=LENGTHS, to_disp
 
 def process_single_model(model_name, evals_path, tasks, lengths, save_path=None):
     """Process results for a single model."""
-    model_results = get_model_results(evals_path / model_name, tasks, lengths)
-    table = get_results_table(model_name, model_results, tasks, lengths)
+    model_results, model_tasks, model_lengths = get_model_results(evals_path / model_name, tasks, lengths)
+    table = get_results_table(model_name, model_results, model_tasks, model_lengths)
 
     if save_path:
-        save_model_results(model_name, model_results, table, save_path)
+        save_model_results(model_name, model_results, table, save_path, model_tasks, model_lengths)
 
     return model_results, table
 
@@ -150,14 +161,13 @@ def process_all_models(evals_path, tasks, lengths, save_path=None):
     best_tables = {}
 
     for model_name in tqdm(model_names, desc='Reading models predictions'):
-        model_results = get_model_results(evals_path / model_name, tasks, lengths)
-        table = get_results_table(model_name, model_results, tasks, lengths, to_display=False)
+        model_results, model_tasks, model_lengths = get_model_results(evals_path / model_name, tasks, lengths)
+        table = get_results_table(model_name, model_results, model_tasks, model_lengths, to_display=False)
         results[model_name] = model_results
         best_tables[model_name] = table
-
-    for model_name in model_names:
         if save_path:
-            save_model_results(model_name, results[model_name], best_tables[model_name], save_path)
+            save_model_results(model_name, results[model_name], best_tables[model_name],
+                               save_path, model_tasks, model_lengths)
 
     if save_path and best_tables:
         save_combined_results(best_tables, save_path)
@@ -165,22 +175,22 @@ def process_all_models(evals_path, tasks, lengths, save_path=None):
     return results, best_tables
 
 
-def save_model_results(model_name, model_results, table, save_path):
+def save_model_results(model_name, model_results, table, save_path, tasks, lengths):
     """Save results for a single model to CSV and PDF files."""
     csv_path = save_path / f'{model_name}.csv'
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     table.iloc[:, :-2].to_csv(csv_path, index=True)
 
-    fig = plot_results(model_name, model_results, args.lengths, args.tasks)
+    fig = plot_results(model_name, model_results, tasks, lengths)
     fig.savefig(save_path / f'{model_name}.pdf', bbox_inches='tight')
     plt.close(fig)
-    print(f'Results saved to {csv_path} and {save_path / f"{model_name}.pdf"}')
 
 
 def save_combined_results(results, save_path):
     """Save combined results from all models to a single CSV file."""
     results_df = pd.concat([df.assign(model_name=model_name) for model_name, df in results.items()])
     results_df = results_df.reset_index()
+    results_df = results_df.rename(columns={'index': 'task'})
     cols = [col for col in results_df.columns if col not in ['model_name', 'len_avg', 'best_cfg']]
     results_df[['model_name'] + cols].to_csv(save_path / 'all_results.csv', index=False)
     print(f'All results saved to {save_path / "all_results.csv"}')
@@ -201,8 +211,8 @@ if __name__ == '__main__':
                         help='Path to folder with models results.')
     parser.add_argument('--model_name', type=str, required=True,
                         help='Model name, e.g., meta-llama/Llama-3.2-1B-Instruct')
-    parser.add_argument('--tasks', nargs='+', default=TASKS, help='List of tasks, e.g. qa1 qa2 qa3 qa4 qa5')
-    parser.add_argument('--lengths', nargs='+', default=LENGTHS, help='List of lengths, e.g. 0k 1k 2k')
+    parser.add_argument('--tasks', nargs='+', default=[], help='List of tasks, e.g. qa1 qa2 qa3 qa4 qa5')
+    parser.add_argument('--lengths', nargs='+', default=[], help='List of lengths, e.g. 0k 1k 2k')
     parser.add_argument('--save_path', type=str, default=None, help='Path to save results')
 
     args = parser.parse_args()
