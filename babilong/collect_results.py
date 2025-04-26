@@ -102,6 +102,13 @@ def plot_results(model_name, results, tasks=TASKS, lengths=LENGTHS):
     return fig
 
 
+def get_col_mean(col, min_rows=5):  # Average results except -1 and None
+    if (col == -1).any() or col.isna().any() or len(col) < min_rows:
+        return -1
+    else:
+        return col.mean()
+
+
 def get_results_table(model_name, results, tasks=TASKS, lengths=LENGTHS, to_display=True):
     best_tab = None
     best_avgs = {}
@@ -127,8 +134,9 @@ def get_results_table(model_name, results, tasks=TASKS, lengths=LENGTHS, to_disp
                 best_tab.loc[task, 'best_cfg'] = cfg
                 best_avgs[task] = curr_avg
                 best_cfgs[task] = cfg
-    # Add average row
-    best_tab.loc['avg'] = best_tab.iloc[:, :-2].mean(axis=0)
+
+    # Add avg row - average over first 5 tasks
+    best_tab.loc['avg'] = best_tab.iloc[:5, :-2].apply(get_col_mean, axis=0)
     best_tab.loc['avg', 'best_cfg'] = 'N/A'
 
     display_cols = list(best_tab.columns[:-2]) + ['best_cfg']
