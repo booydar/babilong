@@ -1,24 +1,24 @@
-TASK_LABELS = {'qa1': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa2': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa3': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa4': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa5': ['Bill', 'Fred', 'Jeff', 'Mary', 'apple', 'football', 'milk'], 
- 'qa6': ['no', 'yes'], 
- 'qa7': ['none', 'one', 'three', 'two'], 
- 'qa8': ['apple', 'football', 'milk', 'nothing'], 
- 'qa9': ['no', 'yes'], 
- 'qa10': ['maybe', 'no', 'yes'],
- 'qa11': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa12': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa13': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'], 
- 'qa14': ['bedroom', 'cinema', 'kitchen', 'office', 'park', 'school'], 
- 'qa15': ['cat', 'mouse', 'sheep', 'wolf'], 
- 'qa16': ['gray', 'green', 'white', 'yellow'], 
- 'qa17': ['no', 'yes'], 
- 'qa18': ['no', 'yes'], 
- 'qa19': ['e,e', 'e,n', 'e,s', 'n,e', 'n,n', 'n,w', 's,e', 's,s', 's,w', 'w,n', 'w,s', 'w,w'], 
- 'qa20': ['bedroom', 'bored', 'garden', 'hungry', 'kitchen', 'thirsty', 'tired']
-}
+TASK_LABELS = {'qa1': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa2': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa3': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa4': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa5': ['Bill', 'Fred', 'Jeff', 'Mary', 'apple', 'football', 'milk'],
+               'qa6': ['no', 'yes'],
+               'qa7': ['none', 'one', 'three', 'two'],
+               'qa8': ['apple', 'football', 'milk', 'nothing'],
+               'qa9': ['no', 'yes'],
+               'qa10': ['maybe', 'no', 'yes'],
+               'qa11': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa12': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa13': ['bathroom', 'bedroom', 'garden', 'hallway', 'kitchen', 'office'],
+               'qa14': ['bedroom', 'cinema', 'kitchen', 'office', 'park', 'school'],
+               'qa15': ['cat', 'mouse', 'sheep', 'wolf'],
+               'qa16': ['gray', 'green', 'white', 'yellow'],
+               'qa17': ['no', 'yes'],
+               'qa18': ['no', 'yes'],
+               'qa19': ['e,e', 'e,n', 'e,s', 'n,e', 'n,n', 'n,w', 's,e', 's,s', 's,w', 'w,n', 'w,s', 'w,w'],
+               'qa20': ['bedroom', 'bored', 'garden', 'hungry', 'kitchen', 'thirsty', 'tired']
+               }
 
 
 def preprocess_output(output):
@@ -46,7 +46,7 @@ def compare_answers(target, output, question, task_labels):
     labels_in_output = labels_in_output - labels_in_question
 
     # check if the target is the only prediction
-    if ',' in target and len(target) > 3: 
+    if ',' in target and len(target) > 3:
         # if target contains multiple subtargets in qa8
         subtargets = target.split(',')
         num_subtargets = len(subtargets)
