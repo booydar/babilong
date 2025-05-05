@@ -1,6 +1,6 @@
 # BABILong: a long-context needle-in-a-haystack benchmark for LLMs
 
-Preprint is on [arXiv](https://arxiv.org/abs/2406.10149).
+The paper is on [arXiv](https://arxiv.org/abs/2406.10149).
 
 Evaluation sets of BABILong on HF Datasets: [100 samples](https://huggingface.co/datasets/RMT-team/babilong) and [1000 samples](https://huggingface.co/datasets/RMT-team/babilong-1k-samples) per task and per length (0, 1, 2, 4, 8, 16, 32, 64, 128, 256, 512k, 1M and 10M).
 
@@ -8,12 +8,20 @@ Evaluation sets of BABILong on HF Datasets: [100 samples](https://huggingface.co
 
 This work was done in collaboration of AIRI, DeepPavlov.ai, and London Institute for Mathematical Sciences.
 
+## Updates
+
+- **April 2025**:
+  - Updated the [leaderboard](https://huggingface.co/spaces/RMT-team/babilong) with several new models, including: Gemini 2.0 Flash, Gemini 2.0 Flash Lite, Llama-4-Scout-17B-16E-Instruct, xLSTM-7b, gemma-3, phi-4-mini, Llama-3.1-8B-UltraLong-1M-Instruct, and others!
+  - Uploaded predictions of all evaluated models to the [babilong_evals](https://huggingface.co/datasets/RMT-team/babilong_evals) dataset on HF.
+- **December 2024**: Presented the BABILong at [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c0d62e70dbc659cc9bd44cbcf1cb652f-Abstract-Datasets_and_Benchmarks_Track.html) in Vancouver.
+- **June 2024**: Released the pre-print on [arXiv](https://arxiv.org/abs/2406.10149).
+
 ## bAbI + Books = BABILong
 
 **BABILong** is a novel generative benchmark for evaluating the performance of NLP models in
 processing arbitrarily long documents with distributed facts.
 
-Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) [2] as background text. Resulting test samples might have lenghts of **millions of tokens**.
+Solving tasks with a long context size requires the model to distinguish important information from large amounts of irrelevant details. To simulate this behavior we ”hide” the sentences of the original task between the sentences of irrelevant text. We use the [bAbI](https://huggingface.co/datasets/facebook/babi_qa) dataset [1] as facts and [PG19](https://huggingface.co/datasets/pg19) [2] as background text. Resulting test samples might have lengths of **millions of tokens**.
 
 <img src="images/babilong_scheme.png" alt="drawing" width="500"/>
 
@@ -61,6 +69,7 @@ Examples for evaluation of popular LLMs are provided in the `./notebooks` and `.
 ### Train your model on BABILong
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/booydar/babilong/blob/main/notebooks/demo_llm.ipynb) [Train your long-context model](https://github.com/booydar/babilong/blob/main/notebooks/demo_llm.ipynb)
+- [Training data](https://huggingface.co/datasets/RMT-team/babilong-train-5k-samples) split with 5000 samples per task and length.
 
 
 ### Example for running RMT
@@ -69,7 +78,7 @@ Examples for evaluation of popular LLMs are provided in the `./notebooks` and `.
 
 You can generate training samples using the README in `./data`.
 
-Predictions of various LLMs that we evaluated on BABILong (GPT-4, GPT-3.5, Mistral, Mixtral, Phi-3, ChatGLM, Yi, Jamba) are in [predictions_06_2024](https://github.com/booydar/babilong/tree/predictions_06_2024) branch.
+Predictions of various LLMs that we evaluated on BABILong (GPT-4, GPT-3.5, Mistral, Mixtral, Phi-3, ChatGLM, Yi, Jamba) are in [predictions_06_2024](https://github.com/booydar/babilong/tree/predictions_06_2024) branch. We also uploaded predictions of evaluated models to the [babilong_evals](https://huggingface.co/datasets/RMT-team/babilong_evals) dataset on HF.
 
 ## Join the Challenge: Help Build the BABILong LLM Leaderboard!
 
@@ -97,14 +106,18 @@ Join us in this exciting endeavor and let's push the boundaries of what's possib
 
 ## Citation
 ```
-@misc{kuratov2024babilong,
-      title={BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack}, 
-      author={Yuri Kuratov and Aydar Bulatov and Petr Anokhin and Ivan Rodkin and Dmitry Sorokin and Artyom Sorokin and Mikhail Burtsev},
-      year={2024},
-      eprint={2406.10149},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+@inproceedings{NEURIPS2024_babilong,
+ author = {Kuratov, Yuri and Bulatov, Aydar and Anokhin, Petr and Rodkin, Ivan and Sorokin, Dmitry and Sorokin, Artyom and Burtsev, Mikhail},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {106519--106554},
+ publisher = {Curran Associates, Inc.},
+ title = {BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/c0d62e70dbc659cc9bd44cbcf1cb652f-Paper-Datasets_and_Benchmarks_Track.pdf},
+ volume = {37},
+ year = {2024}
 }
+
 ```
 
 ```
