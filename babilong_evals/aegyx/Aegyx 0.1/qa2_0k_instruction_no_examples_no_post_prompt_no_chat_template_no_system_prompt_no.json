@@ -1,0 +1,18 @@
+{
+    "prompt": {
+        "instruction": "",
+        "examples": "",
+        "post_prompt": "",
+        "template": "{instruction}\n{examples}\n{post_prompt}\nContext: {context}\n\nQuestion: {question}",
+        "chat_template": false,
+        "system_prompt": ""
+    },
+    "generate_kwargs": {
+        "num_beams": 1,
+        "do_sample": false,
+        "temperature": null,
+        "top_p": null,
+        "top_k": null
+    },
+    "submission_note": "Aegyx 0.1 is a closed research prototype; implementation details are not disclosed in this public result."
+}

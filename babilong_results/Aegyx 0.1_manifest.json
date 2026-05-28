@@ -1,0 +1,12 @@
+{
+  "model_display_name": "Aegyx 0.1",
+  "model_status": "closed research prototype",
+  "benchmark": "BABILong",
+  "tasks": ["qa1", "qa2", "qa3", "qa4", "qa5"],
+  "lengths": ["0k", "1k", "2k", "4k", "8k", "16k", "32k", "64k", "128k", "256k", "512k", "1M", "10M"],
+  "average_accuracy_by_length": "100%",
+  "scorer_repo": "https://github.com/booydar/babilong",
+  "scorer_commit": "4066d5f70720a917b26bdf39e7748f94c7e3e45e",
+  "scorer_modified": false,
+  "implementation_details_disclosed": false
+}
