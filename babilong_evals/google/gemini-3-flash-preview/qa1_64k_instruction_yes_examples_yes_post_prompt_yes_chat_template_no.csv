@@ -1,0 +1,132 @@
+,target,output,question
+0,bathroom,The most recent location of Mary is bathroom.,Where is Mary? 
+1,kitchen,The most recent location of Sandra is bathroom.,Where is Sandra? 
+2,kitchen,The most recent location of Mary is kitchen.,Where is Mary? 
+3,kitchen,The most recent location of John is office.,Where is John? 
+4,bedroom,The most recent location of Sandra is bedroom.,Where is Sandra? 
+5,office,The most recent location of John is office.,Where is John? 
+6,garden,The most recent location of Mary is garden.,Where is Mary? 
+7,bathroom,The most recent location of Sandra is bathroom.,Where is Sandra? 
+8,kitchen,The most recent location of Mary is kitchen.,Where is Mary? 
+9,bedroom,The most recent location of John is bedroom.,Where is John? 
+10,office,The most recent location of Daniel is office.,Where is Daniel? 
+11,office,The most recent location of Daniel is kitchen.,Where is Daniel? 
+12,bathroom,The most recent location of Mary is garden.,Where is Mary? 
+13,bathroom,The most recent location of Sandra is kitchen.,Where is Sandra? 
+14,bathroom,The most recent location of Sandra is bathroom.,Where is Sandra? 
+15,hallway,The most recent location of Mary is hallway.,Where is Mary? 
+16,kitchen,The most recent location of Sandra is kitchen.,Where is Sandra? 
+17,office,The most recent location of Daniel is office.,Where is Daniel? 
+18,kitchen,The most recent location of 'Sandra' is 'kitchen'.,Where is Sandra? 
+19,bedroom,The most recent location of John is kitchen.,Where is John? 
+20,hallway,The most recent location of Sandra is hallway.,Where is Sandra? 
+21,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+22,bedroom,The most recent location of ’John’ is ’bedroom’.,Where is John? 
+23,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+24,bedroom,The most recent location of ’Mary’ is ’bedroom’.,Where is Mary? 
+25,garden,The most recent location of Mary is garden.,Where is Mary? 
+26,bedroom,The most recent location of Daniel is bedroom.,Where is Daniel? 
+27,office,"s re-check the entire text provided. It's a combination of ""Bill's Lapse"", ""A Doctor of the Old School"", and ""Bilson's Housekeeper"", plus others. The text is very long and I need to find the *absolute last* mention of Sandra.
+
+    Searching ""Sandra"" from the *bottom* of the text up:
+    - (Scanning ""Bilson's Housekeeper"" Part III) - Nothing.
+    - (Scanning ""Bilson's Housekeeper"" Part II) - ""Sandra went to the office."" (Found near the end of part II).
+    - (Wait, looking at the *end* of Part II): ""... 'Perhaps--don't you think?--I had better go first and tell her you want to see her. You see, she might'--He stopped. 'It was part of your promise, you know, that you were NOT to see her",Where is Sandra? 
+28,office,The most recent location of Sandra is office.,Where is Sandra? 
+29,garden,The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+30,garden,The most recent location of Daniel is garden.,Where is Daniel? 
+31,bathroom,The most recent location of Mary is bathroom.,Where is Mary? 
+32,office,The most recent location of ’Mary’ is ’office’.,Where is Mary? 
+33,kitchen,The most recent location of Sandra is bathroom.,Where is Sandra? 
+34,garden,The most recent location of Sandra is garden.,Where is Sandra? 
+35,kitchen,The most recent location of Sandra is kitchen.,Where is Sandra? 
+36,kitchen,The most recent location of Sandra is kitchen.,Where is Sandra? 
+37,garden,The most recent location of John is garden.,Where is John? 
+38,garden,The most recent location of ’Sandra’ is ’kitchen’.,Where is Sandra? 
+39,bathroom,The most recent location of Sandra is kitchen.,Where is Sandra? 
+40,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+41,kitchen,The most recent location of Sandra is kitchen.,Where is Sandra? 
+42,office,The most recent location of Mary is office.,Where is Mary? 
+43,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+44,office,The most recent location of Daniel is office.,Where is Daniel? 
+45,office,The most recent location of Sandra is office.,Where is Sandra? 
+46,bathroom,The most recent location of Sandra is garden.,Where is Sandra? 
+47,bedroom,The most recent location of Sandra is bedroom.,Where is Sandra? 
+48,office,The most recent location of Daniel is office.,Where is Daniel? 
+49,bedroom,The most recent location of Sandra is bedroom.,Where is Sandra? 
+50,hallway,The most recent location of Daniel is hallway.,Where is Daniel? 
+51,bedroom,The most recent location of Sandra is bedroom.,Where is Sandra? 
+52,office,The most recent location of John is office.,Where is John? 
+53,garden,The most recent location of John is garden.,Where is John? 
+54,kitchen,The most recent location of Daniel is kitchen.,Where is Daniel? 
+55,hallway,The most recent location of Mary is hallway.,Where is Mary? 
+56,hallway,The most recent location of Sandra is bedroom.,Where is Sandra? 
+57,hallway,The most recent location of John is bedroom.,Where is John? 
+58,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+59,bedroom,The most recent location of Sandra is bedroom.,Where is Sandra? 
+60,bedroom,The most recent location of Daniel is bedroom.,Where is Daniel? 
+61,kitchen," Alice Lemaitre)
+        - ""She was regarded as a bonne camarade..."" (No name)
+        - ""She was dressed in black..."" (No name)
+        - ""She is explaining a very sad 'histoire'..."" (Claire Dumont)
+        - ""She is jealous of me..."" (Claire Dumont's concierge)
+        - ""She swore vengeance..."" (Madame Fouquet)
+        - ""She had a variety of such small tasks..."" (Ruby)
+        - ""She is curling up in another..."" (Ruby)
+
+    *   No. It seems Sandra is only mentioned three times.
+        Location 1: garden
+        Location 2: kitchen
+        Location 3: kitchen
+
+    *   Therefore, the most recent location is kitchen.
+
+    *   Wait, I'll search one more time. ""Sandra""
+        - One hit: ""Sandra went to the garden."" (Right before",Where is Sandra? 
+62,bedroom,The most recent location of Daniel is bedroom.,Where is Daniel? 
+63,garden,The most recent location of John is office.,Where is John? 
+64,bathroom,The most recent location of Sandra is bathroom.,Where is Sandra? 
+65,garden,The most recent location of Sandra is garden.,Where is Sandra? 
+66,office,The most recent location of Daniel is office.,Where is Daniel? 
+67,bedroom,The most recent location of Mary is bedroom.,Where is Mary? 
+68,garden,Answer: The most recent location of Sandra is garden.,Where is Sandra? 
+69,bathroom,The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+70,office,The most recent location of ’John’ is ’office’.,Where is John? 
+71,kitchen,The most recent location of Daniel is kitchen.,Where is Daniel? 
+72,bedroom,The most recent location of John is bedroom.,Where is John? 
+73,office,The most recent location of Daniel is office.,Where is Daniel? 
+74,bathroom,The most recent location of Sandra is bathroom.,Where is Sandra? 
+75,office,The most recent location of John is bathroom.,Where is John? 
+76,hallway,The most recent location of Mary is bedroom.,Where is Mary? 
+77,office,The most recent location of John is office.,Where is John? 
+78,office,The most recent location of Sandra is hallway.,Where is Sandra? 
+79,bathroom,The most recent location of John is bathroom.,Where is John? 
+80,hallway,The most recent location of John is hallway.,Where is John? 
+81,hallway,The most recent location of Daniel is garden.,Where is Daniel? 
+82,hallway,The most recent location of Daniel is garden.,Where is Daniel? 
+83,bathroom,The most recent location of Daniel is bathroom.,Where is Daniel? 
+84,bathroom,""" (end of text)
+    There are no more ""John moved/travelled/went/journeyed"" facts.
+
+    Final check of the Sir John Ramorny movements.
+    He is in his bedchamber, then his attendants arrive, he stays there. Later he goes to the ""great church of St. John"" (but does he? The King says ""You must therefore produce your followers... in the great church""). He also goes to ""regained his lodgings"".
+    Wait, let me check:
+    ""regained his lodgings with the Earl of Crawford""
+    ""the Knight of Ramorny retired into his sleeping apartment""
+    If ""John"" was ""Sir John Ramorny"", ""sleeping apartment"" would be a location.
+    But in these puzzles, ""John"" is almost always the name used in the ""John travelled to X"" sentences. ""Sir John"" or ""Ramorny""",Where is John? 
+85,bathroom,The most recent location of Daniel is bathroom.,Where is Daniel? 
+86,garden,The most recent location of John is garden.,Where is John? 
+87,bedroom,The most recent location of ’John’ is ’bedroom’.,Where is John? 
+88,office,Answer: The most recent location of ’Mary’ is ’office’.,Where is Mary? 
+89,garden,The most recent location of Sandra is garden.,Where is Sandra? 
+90,office,The most recent location of John is office.,Where is John? 
+91,bedroom,The most recent location of Daniel is bathroom.,Where is Daniel? 
+92,hallway,The most recent location of ’John’ is ’hallway’.,Where is John? 
+93,kitchen,The most recent location of Daniel is kitchen.,Where is Daniel? 
+94,bedroom,The most recent location of Daniel is office.,Where is Daniel? 
+95,hallway,The most recent location of Sandra is garden.,Where is Sandra? 
+96,garden,The most recent location of ’Sandra’ is ’garden’.,Where is Sandra? 
+97,bedroom,The most recent location of John is bedroom.,Where is John? 
+98,office,The most recent location of John is office.,Where is John? 
+99,garden,The most recent location of Sandra is garden.,Where is Sandra? 
