@@ -1,0 +1,15 @@
+{
+    "prompt": {
+        "instruction": "BABILong task instruction (per-task few-shot prompt; verbatim strings in the harness scripts referenced in PROVENANCE.md)",
+        "examples": "per-task <example> blocks (harness EXAMPLES[task])",
+        "post_prompt": "Always return your answer in the following format: $entity$ is in the $location$. Do not write anything else after that.",
+        "template": "{instruction}\n\n{examples}\n\n{post_prompt}\n\n<context>\n{evidence}\n</context>\n\nQuestion: {question}",
+        "chat_template": true,
+        "pipeline_note": "Sapience memory pipeline: the full-length input is ingested into a structured memory store at write time; {evidence} is the retrieved event set (~600-1000 reader-input tokens at every scale), NOT the raw context. The reader model (claude-sonnet-4-5) never sees the raw haystack. See METHOD.md."
+    },
+    "generate_kwargs": {
+        "max_tokens": 2000,
+        "n": 1,
+        "temperature": 0.0
+    }
+}
