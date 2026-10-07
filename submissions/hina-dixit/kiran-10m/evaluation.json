@@ -1,0 +1,138 @@
+{
+  "schema": "KIRAN_BABILONG_SUBMISSION_V5",
+  "prepared_date": "2026-10-07",
+  "artifact_purpose": "primary_leaderboard_review_submission",
+  "display_name": "Kiran-10M",
+  "submitter": "Hina Dixit",
+  "configuration_id": "cfgv1_yes",
+  "system_category": "proprietary memory-augmented question-answering pipeline",
+  "inference_harness": "custom",
+  "scope": {
+    "campaign": "September 2026 BABILong campaign",
+    "tasks_through_1M": [
+      "qa1",
+      "qa2",
+      "qa3",
+      "qa4",
+      "qa5",
+      "qa6",
+      "qa7",
+      "qa8",
+      "qa9",
+      "qa10"
+    ],
+    "lengths_through_1M": [
+      "0k",
+      "1k",
+      "2k",
+      "4k",
+      "8k",
+      "16k",
+      "32k",
+      "64k",
+      "128k",
+      "256k",
+      "512k",
+      "1M"
+    ],
+    "tasks_at_10M": [
+      "qa1",
+      "qa2",
+      "qa3",
+      "qa4",
+      "qa5"
+    ],
+    "samples_per_cell_through_1M": 100,
+    "samples_per_cell_at_10M": 100,
+    "cell_count": 125,
+    "prediction_rows": 12500,
+    "headline_task_mean": [
+      "qa1",
+      "qa2",
+      "qa3",
+      "qa4",
+      "qa5"
+    ],
+    "rows_across_lengths_are_not_asserted_independent": true
+  },
+  "dataset": {
+    "id": "RMT-team/babilong",
+    "revision": "ee0d588794c7ac098062ee0d247c733d62e94fe2",
+    "revision_basis": "campaign snapshot reported by the source investigation",
+    "split": "evaluation",
+    "sample_locator": "campaign-local dataset-file SHA-256 plus zero-based row index",
+    "per_sample_context_hashes": "not_recorded",
+    "exact_hf_configuration_split_mapping": "not_recorded_beyond_snapshot_and_local_eval_files"
+  },
+  "reader": {
+    "model_id": null,
+    "revision": null,
+    "dtype_reported": "bfloat16",
+    "condition_reported": "frozen publisher checkpoint",
+    "identity_basis": "Exact base-model identity and checkpoint revision are retained in private execution records and are not disclosed in this public release.",
+    "original_launcher_hash_pinned": false,
+    "contemporaneous_adapter_inventory": "not_recorded",
+    "adapter_evidence": "Later inspection found no adapter-loading code, adapter-loading log lines, or adapter files in the examined sources.",
+    "identity_disclosure": "withheld",
+    "parameter_class": "4B"
+  },
+  "training_condition_reported": "No additional gradient-based training or fine-tuning for this evaluated pipeline.",
+  "training_evidence_limit": "Supporting source inspection is not a comprehensive training-history audit; upstream pretraining contamination is unknown.",
+  "generation_settings": {
+    "do_sample": false,
+    "max_new_tokens": 8,
+    "chat_template": true,
+    "add_generation_prompt": true,
+    "enable_thinking": false,
+    "enable_thinking_qualification": "where supported by the template",
+    "few_shot_examples": 0,
+    "proprietary_prompt_text_included": false,
+    "basis": "recorded frozen answerer path"
+  },
+  "metric": {
+    "name": "BABILong compare_answers",
+    "repository": "booydar/babilong",
+    "repository_commit": "7a6efee29f5cac03c3c410e6799c80fd2ffe3610",
+    "git_blob": "4c112c4cf1c6e8dcec2018a2c33807f024e69b48",
+    "sha256": "f77c139809690588f85ed29c1c93f22394c6b48b1fdc8afeaaa5d0969d973daf",
+    "modified": false
+  },
+  "evaluation_history": {
+    "pre_freeze_template_inspection": {
+      "examples_per_task": 2,
+      "tasks": [
+        "qa1",
+        "qa2",
+        "qa3",
+        "qa4",
+        "qa5",
+        "qa6",
+        "qa7",
+        "qa8",
+        "qa9",
+        "qa10"
+      ],
+      "length": "0k",
+      "exact_sample_ids": "not_established",
+      "overlap_with_longer_length_problems": "not_established"
+    },
+    "subsequent_rule_development_split": "RMT-team/babilong-train-5k-samples",
+    "earlier_unscored_canary": {
+      "task": "qa1",
+      "length": "1M",
+      "first_n_cases": 64,
+      "paths": [
+        "primary",
+        "page-retrieval control"
+      ],
+      "included_as_submitted_predictions": false,
+      "completed_invocation_regenerated_cases": true
+    },
+    "configuration_freeze": "Campaign records a configuration freeze before evaluation-length runs; the earlier attempted invocation is disclosed."
+  },
+  "input_length_semantics": "nominal pipeline input length, not native reader attention window",
+  "verification_scope": "Saved prediction integrity, row mappings and score recalculation only; no public verification of reader identity, no model execution, and no independent runtime attestation.",
+  "implementation_release": "Base-model identity and checkpoint revision, proprietary implementation, prompts, extraction rules, schemas, inference traces and weights are not included.",
+  "leaderboard_acceptance": "not_claimed",
+  "task_adaptation": "task-adapted deterministic preprocessing"
+}

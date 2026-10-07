@@ -1,0 +1,1762 @@
+{
+  "schema_version": 1,
+  "system_label": "Kiran-10M",
+  "configuration_id": "cfgv1_yes",
+  "prediction_root": "babilong_evals/hina-dixit/Kiran-10M",
+  "cell_count": 125,
+  "prediction_rows": 12500,
+  "metric_sha256": "f77c139809690588f85ed29c1c93f22394c6b48b1fdc8afeaaa5d0969d973daf",
+  "cells": [
+    {
+      "task": "qa1",
+      "length": "0k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_0k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "1101607845951d2b2a0e0f01ddc0fe2a3096ea8436f6bc7d7879dc5730993cd3",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "1k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_1k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "5fc232c522cc6ffbd9389c5c87b74b906e93fb07919b3ad3822ac897ab0aff4d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "2k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_2k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "18cadfd7e93eeda8173290e0fd4eb5728103bce32bad77d34c1f8851795bbf26",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "4k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_4k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "95dc878018194d3ff9f3d576f36768d302a48e1e7e012bdc13c163bc31ee3a30",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "8k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_8k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "60e1b1fede3bfc0b2ff72f5fa013b0dcaec50eed96afeef4ef5e1ffb996df8ed",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "16k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_16k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "2687478021246215c84060fa7d1f2be0b7058a09d774c169d9d75a56fd6994c0",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "32k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_32k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "5839f788e326318439726e4b28adf7d1f492a807bdaf6472904034a8d47d1555",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "64k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_64k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "440ba503fce72b2f5773c7defd94b0b9da7bff7cd3c40dc39841b4875502119d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "128k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_128k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "16053940335929ad58ef6f23f0c44db2f7a67d5eb4221045cedbea6d701a9222",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "256k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_256k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "de96fc69da2ca08478508f04cb4aa5dab8e96f3252a744c7dd036a1c3e1ed6ac",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "512k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_512k_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "e053486399b76e8c9464d4f1f318e55d3d2209dc86d01e92ae6e3304382f9fcc",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "1M",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_1M_cfgv1_yes.csv",
+      "sha256": "16b7ea4a73913674107319a70db392bd73a72c5512aaaca2bedf671dfa002770",
+      "dataset_file_sha256": "d73c3bd6a87c92728c176a01a73d5d17a548548455fe1e97e34edce7fd8ad563",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa1",
+      "length": "10M",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa1_10M_cfgv1_yes.csv",
+      "sha256": "62f3af74342a30cd7a0f6c9aa3d719b1cf252e8e8c99015fae6da94450ec2b5d",
+      "dataset_file_sha256": "41691cba6b804d5b973bfff0bed92df9165f1716cc3c3ac6433ae9529a881118",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "0k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_0k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "7baae649af9883d84eeaec422d847064cf136b3de3eebcc08ea6d75af39c60e9",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "1k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_1k_cfgv1_yes.csv",
+      "sha256": "07ec3cf7785a8ddda360481b414d391258526f8498b4bff9290ebcff35abe42b",
+      "dataset_file_sha256": "9c40770e7b748b21f8a0ddc4b215db54987444288cf3a0e73855fe527adbc22e",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "2k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_2k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "5c211d6f7a04a4f95814280ecb2d366c9898cae175247502f88ce8a5f9ec6796",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "4k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_4k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "420fc8e4a52d39b7bfeb4e44d7782c5f0ae7ba10144c00485f0bb332f4ceaced",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "8k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_8k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "002414c9f826e085f787a6f2a028690a6d280fde4b14c1a69caf67d74380e4a2",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "16k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_16k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "bc99807d8a5cf507ca92bd1c3c9c2cb2b7c365b26605b8de7c643c5791cd1b93",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "32k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_32k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "24fb31b8f959c958db0e9755e8514c5dce4e8e859596cd0f262647fc5941bc6c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "64k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_64k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "e2ca4c99e0254361c435875b15490f94f11c7684527b0854f831c5b7995bba66",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "128k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_128k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "d80b07d5832c3503ce203d6e591d37be563a27267bc237de37b15803c7c9b4aa",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "256k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_256k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "b81d4baab117a8b72c1c2be785e9806d9a2f28101f21095591bc295104812a54",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "512k",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_512k_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "69e0f3ca87e5bc59cf305c3d507b0058a3507045942d08222da3c6d599d61d4e",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "1M",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_1M_cfgv1_yes.csv",
+      "sha256": "f369b7911b3a5132dceddbdb3b56f2ee78b014ece8b1aa998273ddd0f2ccbd96",
+      "dataset_file_sha256": "be6389f6231055b1df7c47701578833b4650b878f2a245946b20a4b7b481e6c6",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa2",
+      "length": "10M",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa2_10M_cfgv1_yes.csv",
+      "sha256": "e025db34860189875009638b4c7726804db64b540da4ab6d31ecf4fb0b423632",
+      "dataset_file_sha256": "9ff8c0bb749908e1e2daa4ce624c8aaacbcb3bcc9064f64f2769d7be65e55336",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "0k",
+      "n": 100,
+      "correct": 70,
+      "accuracy_pct": 70.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_0k_cfgv1_yes.csv",
+      "sha256": "40b4de6e699dd17b7f2e2d4f815706ed1b785ca18d9881d26576d8e421d2ef49",
+      "dataset_file_sha256": "36a7bae93e535b89dd7a779621ca339674e2c2a646ceef43a505295f6d5336c2",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "1k",
+      "n": 100,
+      "correct": 77,
+      "accuracy_pct": 77.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_1k_cfgv1_yes.csv",
+      "sha256": "111d0be4f258e2d028fd324646d7549b0345760300b5a335b05ef50c613d8284",
+      "dataset_file_sha256": "c5ac24a85bcc3e1bd0ffc427f521b16cac2a8c9dcd9a744ea52547cbe34a0b61",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "2k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_2k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "9865bf2e9b7e8ac2741736f8db3a088a6a81247393df59e4f4cb9c9469f5da16",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "4k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_4k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "6cca199e011107f26b31a6f4af9dfab1b3b81c1ff8da4d4271e3a9c67c7d8fad",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "8k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_8k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "7bacbff4dfb63dd73aa817061117f97a326a67411e4fbc6c56b48d0d5f26ab71",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "16k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_16k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "e4f6419ec34548137e94e6851540b7c3f504ea86aef6017a4dce7591f9ed957f",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "32k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_32k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "fdceae6e4462b663b042c8621eb09b0b0f67e569de047d5100fcbcec8c37457b",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "64k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_64k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "15f245ed24bf5a51802670b52975fa39084b9f652106f3c03de524c61aaa5f66",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "128k",
+      "n": 100,
+      "correct": 68,
+      "accuracy_pct": 68.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_128k_cfgv1_yes.csv",
+      "sha256": "9e460de5bd55cbc43a74daaf3db4447aebde5b15486fba5aac01c478e0bbde2a",
+      "dataset_file_sha256": "490de634974ad71adc21443e6634fb2b661c212e4a7b7a355eb7ba8956d0bfd1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "256k",
+      "n": 100,
+      "correct": 69,
+      "accuracy_pct": 69.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_256k_cfgv1_yes.csv",
+      "sha256": "a16ce7a594b813e6e59dcbdbdd3042c653a903715dbd07c719bc9d9d646ede61",
+      "dataset_file_sha256": "e61b5335b454b9301ab52266bb2408ecc4edc84c058b2582b28a4c74d07190e5",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "512k",
+      "n": 100,
+      "correct": 69,
+      "accuracy_pct": 69.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_512k_cfgv1_yes.csv",
+      "sha256": "d8fde93847809eef36a5f0bdca9e084e37a414c3220fa55c351e6814901a2ccd",
+      "dataset_file_sha256": "69b8127c2accbadbd55c49d0a128998a50721d664e199e909973cd63caa84b9f",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "1M",
+      "n": 100,
+      "correct": 69,
+      "accuracy_pct": 69.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_1M_cfgv1_yes.csv",
+      "sha256": "d8fde93847809eef36a5f0bdca9e084e37a414c3220fa55c351e6814901a2ccd",
+      "dataset_file_sha256": "f6ff0138ab4cfedd361b998c16ebf174dd01934fbd48bf64c4fedbd30b46f62c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa3",
+      "length": "10M",
+      "n": 100,
+      "correct": 69,
+      "accuracy_pct": 69.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa3_10M_cfgv1_yes.csv",
+      "sha256": "0c7d482db04f9987dee9d18a505892f49500aa5a425f8d79af48016176ad453e",
+      "dataset_file_sha256": "6a3d703f32ba18fa8d562b8581f025ddc49699817a3a6633bbeb9cc356c7d434",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "0k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_0k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "14364a7f07e24b46f68d51394d2babffb2dbea75f429b3fdbbdd9ea2cc2df8bf",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "1k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_1k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "26e015e38af295f2464e61f52cc40af80aa473cbe5126f73ebfedb4821b17377",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "2k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_2k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "56347b2df55dc3cf810afff6400a2a18db5011e86b787dd5ae7fe36ad40b25d5",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "4k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_4k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "d005166fdcc45399d29ff286e21cfd60150138519c5c11c301c11d12ec1e5fe4",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "8k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_8k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "da440d0838f5222195d6b1395046ab21e7b5517194759cef3de636057a567be2",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "16k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_16k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "7d778fc51a7718fb1e1bfd6c7ce4fb789582d524e9937a7c2c0bb32689bcd4f4",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "32k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_32k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "7e9fa005d304b00bcafc817d9251ab09ddef36fbf415ca2ccd8f7c5f9b1dac59",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "64k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_64k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "f077d643127d9877685a70dd5525b599ab6b06f01602ab4a6512e6b9720fe01c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "128k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_128k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "8333fe7c4cd294ae86dcbefede66da1014e067121a48c14eae66cb568ede8b59",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "256k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_256k_cfgv1_yes.csv",
+      "sha256": "4a17046fb5d7b967cb7d4edae5a64d5e17564f613edb49d3e8635cbb357dc8c8",
+      "dataset_file_sha256": "aeb2d13b6856aadd3d0e89b8aa1697876ecacb7c05f36318cfbf060660175391",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "512k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_512k_cfgv1_yes.csv",
+      "sha256": "733a6856d1579dff3fbcdb4e7b2ded63ba3669352dee15e6f1535f977f03cc38",
+      "dataset_file_sha256": "81e71a3939c8d834114cc2f165eff36946c0a226e44d5fe5134eaf0f9c759740",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "1M",
+      "n": 100,
+      "correct": 78,
+      "accuracy_pct": 78.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_1M_cfgv1_yes.csv",
+      "sha256": "7a8c1a84f134d14f2a8668d512f484d6b22e161a70e9f722c89274ea9fb21bc2",
+      "dataset_file_sha256": "e3b9920b0c92a434816af621ca3ad6289cf050a0520d00b160992236547de6f1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa4",
+      "length": "10M",
+      "n": 100,
+      "correct": 77,
+      "accuracy_pct": 77.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa4_10M_cfgv1_yes.csv",
+      "sha256": "0a5e121a3928bddea38150d46b0bf5c98c4598b8c09818e9a9189aee6b352ab8",
+      "dataset_file_sha256": "0ae3f921d7fa4af250e153c89fa6d38c45946c22c5f6425608978d9ed1a989ab",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "0k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_0k_cfgv1_yes.csv",
+      "sha256": "f7b69d2ea75aad708faed51a7eab549321ed43a967b07f4788ca6136d6c1cf2f",
+      "dataset_file_sha256": "76ac3af31f3be0c4bf4b68dae9e4511c5a112eedc737f99afcc49e8397bf8eb6",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "1k",
+      "n": 100,
+      "correct": 77,
+      "accuracy_pct": 77.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_1k_cfgv1_yes.csv",
+      "sha256": "66bd2e433492917e72264d45f62e4ab84d08cc451f6f5e4ec66af7e4cbcf37d4",
+      "dataset_file_sha256": "74da0509554f2fc96ac12a11220f5280face608bd31f16888c1c79c9c2d7f041",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "2k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_2k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "13e0dfdd0183dd00d63e63fd5d263215372d241067412520d76214d67d24f0ee",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "4k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_4k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "e98731f7d395918cfcbb69af049ae563038726c38e0be7f2e350529c40b8a525",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "8k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_8k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "8b9395ae21209e5816ef63c1de13dc8292b469e272d3ebb26e40fc7f234b7d85",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "16k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_16k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "ebe2b3b7500cb25e623caa664db42f1216f9d59633b2d876b91f2c92e374b96f",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "32k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_32k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "3171ef1800724d7012cdc0f51db1d28cd82d28dcb9ca03de6e46ca729f94b950",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "64k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_64k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "d8a03647c019d0a35fd088e994b5620a37e96c421c66c165a5d8695aa7a83a11",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "128k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_128k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "e852e6a415e7307b80e1e9ff0a035ffc1455bef64bdca07d8f54940ccbbd38ad",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "256k",
+      "n": 100,
+      "correct": 79,
+      "accuracy_pct": 79.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_256k_cfgv1_yes.csv",
+      "sha256": "61ba5efa7c69a1759f26658ce67d1cff27107287103af0571fccc6ec502fa363",
+      "dataset_file_sha256": "c5da0fb3c8e6068284eb09db7956f4a8a10dbd2d941c5671fd885092a90cd01d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "512k",
+      "n": 100,
+      "correct": 80,
+      "accuracy_pct": 80.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_512k_cfgv1_yes.csv",
+      "sha256": "bdbc30e9f41117ccdf8febd3915caca8fa5d4c86b69bd1d1137a0737d2715a35",
+      "dataset_file_sha256": "4c23ed8b304fe194d1f65f59041f3fd9e796943c039b0b52c05fb766fc478ef9",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "1M",
+      "n": 100,
+      "correct": 77,
+      "accuracy_pct": 77.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_1M_cfgv1_yes.csv",
+      "sha256": "cdc7b3ed9f82fe921c2218372f36523aa7dd391f90cdb87703b40ddf3a686aff",
+      "dataset_file_sha256": "70443cb51b59ff1edc9c67722651964e8f7c4190b7a430647102baab68b11abc",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa5",
+      "length": "10M",
+      "n": 100,
+      "correct": 75,
+      "accuracy_pct": 75.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa5_10M_cfgv1_yes.csv",
+      "sha256": "9b3136bafd592724db7b5abeae33f5587dadedf17c44bf5b237d32ab87ab07ec",
+      "dataset_file_sha256": "833b3c706bde3c7c74be3b5826a35c3efce1c253b07044af8e0c6cff8534d9ce",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "0k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_0k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "4e0d64c1d69f6b1f4f9cdc0567b8e931daa42f109214adaf2f3ec0214c4dbac4",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "1k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_1k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "ed2d53be054b2de283977b52dbafeaff070cd5a8c8201ea5b8605cb2cb0bd525",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "2k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_2k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "f6596c1a5613c77fe08e3f818a6783e88ca1b0d73e24785378688a6d015f82a9",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "4k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_4k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "fa2ebbd9ee4ee795f544dd68535832e54e2291b803a5e4bad371b6b5d6715f9f",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "8k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_8k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "7d90bfd60481fe97a19fc91a578dcdc874ebb458b9e4f0dd7a6d678d82ddc2ef",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "16k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_16k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "0bb6917dcaa7d010d2455569dc513808d6fbf887dbdcb5647ddfe02ec22ca601",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "32k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_32k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "369f1afbe895260577d77cdf92dbfdc7f5925fd9032d11e686ac0b4f2352c910",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "64k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_64k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "94ca14f4cdf31c3d9eec740de562dfca1f971bbc7faf65a46aaf272669655865",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "128k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_128k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "20f51398baf99fcb575811236c2615f6dac495afcfa28cfd99eb9612f929a1b0",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "256k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_256k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "842af7fac842d90b2f68326df547bcd3a033efad4f0d77aa1994e82bd2d576e1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "512k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_512k_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "79058a4c0144dacb6ce4e5734502b2ccdb0820019fda95353a96da5ba60b5765",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa6",
+      "length": "1M",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa6_1M_cfgv1_yes.csv",
+      "sha256": "9b3da09d610a479f9991a334668f2623cba82e386db4d069e5fb91aa04ee97ec",
+      "dataset_file_sha256": "cdd9c50f6b37e5dea16ff60a2f0d9b3995253f16d20490927aa35afa577dd1e6",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "0k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_0k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "8c717395b0873d7b43ed5d81d7be3c54fd4cd6cef2939b6431808b613e583e9b",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "1k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_1k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "b509322a63caf856cfa15bc777c2117a2eb2871dcb79f6037ef125f7897bb19c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "2k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_2k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "7539c66e06bcb6a2e25ca50a4962373ce84b1d012cd002a12c9e381fef84a595",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "4k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_4k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "f96b5ff6d72b2b6d5699075c46785dc267be1715026ee769f4a738facd4aa2c3",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "8k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_8k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "b1d525140599ab3fb2456375ae4d1c774e9030a2b86fe5e1d28e3b0e55fec8de",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "16k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_16k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "bb08c06bbd1dbbd7d946ae46dea36b6e2f0804d9d6031b8b5c40820e9a6859e9",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "32k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_32k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "496dc3c20a0c31173e9e2857a1096b33d6bb85832ee433a5af0fb1eb2906727b",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "64k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_64k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "99a52141c0bf2492bb30e9768f964604193c877f92ab7830c2aea8397059a3ab",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "128k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_128k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "abee736cb7a5e05e803549a82f2e20cc63a3776caab6e9e61603754b436e9ef1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "256k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_256k_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "8432c05cbb88a39275abc1d265d669ff4ab1224e2c9b44f16996510d7cf53ab5",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "512k",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_512k_cfgv1_yes.csv",
+      "sha256": "475abfff9e21aa458942f5edea7d808097d4d0a3d3c3ecef9d94612659c74ea8",
+      "dataset_file_sha256": "084d68e95ee61770b6f18f893c41e15edc9ae9c9c4f5fd4aa8f473ef36b6a108",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa7",
+      "length": "1M",
+      "n": 100,
+      "correct": 54,
+      "accuracy_pct": 54.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa7_1M_cfgv1_yes.csv",
+      "sha256": "1af707752f1f9634214a615fc2af8d293180b5f3cc210f5525fd0d10e8e697ae",
+      "dataset_file_sha256": "6d7bee88e963bdbbcb3c9e5d80c02096c9d1f69e5ad5214470cd198a2042b315",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "0k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_0k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "86e34715bc8bee32ee35c71906c304a50c181ab184fabc654857f89cc77082a1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "1k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_1k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "2106770cb5dd3b851f7219085a2e45c160414ed4035e17c1cb51fddcdea64ea0",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "2k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_2k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "f77526e9d24dde7a5f1fdcf0a27d4e59d4e416505949ce5092e93688cbc976ed",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "4k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_4k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "ee87a0db7aa22c7770bec0ab40177402e464c09403e3174c1a8b8c76eaf3e8c7",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "8k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_8k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "f425902655120f1b00f7f1281f8f50d37af42b32b0014732b841e46e8a6cc3a2",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "16k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_16k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "2e13cb21f82f90b686adb3b417dd4474ff784a9f5e1b22ca1d653d7822d0dae6",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "32k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_32k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "317369bd17008ded23064ff77156ab63057cf6e79de5d1db8906242dd9e74e4c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "64k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_64k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "ad52dee73556be534d950d23d2d0e05e1a06d3d361c8f4737f68938384a7c631",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "128k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_128k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "82e614dbe700d183590798029c14a4628572cc04ffce67a160bfd87e475f9acd",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "256k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_256k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "b056822acce623f166fa1cde6bbf58e95d11d10f26332fabcba70bc1a2146f5e",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "512k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_512k_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "a32eef8e99d9b933e209834217bc2a290dceb4cc05c94132ed31c64cd4d2728d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa8",
+      "length": "1M",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa8_1M_cfgv1_yes.csv",
+      "sha256": "f075e628866e7f019e33c3e25e6b725aa137aba4a2539b532d9df0870c847861",
+      "dataset_file_sha256": "79e1eceec1d7fc0ea0305b0f614eb06bf15d4a04df8574e1e47cff7b40db5a74",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "0k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_0k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "8bbd71a53dcfbc5ef79fffe3bcb0c40be00cb5d6a17a5575f86a1fb079eb175f",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "1k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_1k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "55e19d6d279a0737bf8b0999f543ec8e0a6f37003f754368ec90efbe66bd37f8",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "2k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_2k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "cc08e6eaa413ee3e284b2831abca4202aaa74cd70b7feff56ca41a8cd92b8daf",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "4k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_4k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "476632adc3ab469350fd21fcede0a50307d9983e42c6e76d44c3a0da062d1013",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "8k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_8k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "6d6ca6f7697fdfd8e12ea165aa5412c78aa5a29fdbaf7a4f613daa88efb6fd43",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "16k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_16k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "6c85e7fa8dc14fb8e8d23a7b255c201c3142a7c2faab144c20654f52aa38d9ab",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "32k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_32k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "545d05b9ee6ca451cf5de0b4fa98a9a8cde96d7b7bff6d7abbf37ee7dba68230",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "64k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_64k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "c95d425dd44a98827a0c194b87b975ccf05eb0e5397d81bc566574415cfab3b9",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "128k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_128k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "0481844af4aa1710d41328b7bc8ea4f0f4a644b887ab420742d4c4f3342c5133",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "256k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_256k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "8bbfe520274aa67e784aaa992cd3d0501021df5f6959ee51c35d7ae924cb6467",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "512k",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_512k_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "16f0e41cf79a4dd82e6b916249bc9bec843a8229b6041a99e67c0736a0161cdc",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa9",
+      "length": "1M",
+      "n": 100,
+      "correct": 100,
+      "accuracy_pct": 100.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa9_1M_cfgv1_yes.csv",
+      "sha256": "69c128e91b02abf0655e899ed03781a795feb72b20fe85ae226c8922186d47ee",
+      "dataset_file_sha256": "c0e317f256d2a033cd8aae0e9a97e9d7ca37f0b26c143f465856a0b7bec80548",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "0k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_0k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "1d2c605556c886a99267198529077bd55bba25c932a2f2a58d7559724e89e637",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "1k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_1k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "fc0f22e0facd9dd073b5b6c527ebace2bcf57d793667fb1efb6fbb77beaa308c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "2k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_2k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "df68e1f1dfe69f94c39fbe85fa226fd81473710797bb124b6fd59c06f1365d0a",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "4k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_4k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "54d3cbaca8a3fb7b4e7a5c91185fa600322090ab828a0ae50a0efd52ee1a6db1",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "8k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_8k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "a8d992236fe901c8c747a1fe02eb5060f1d860fba73470df5d44ef7b3510a22c",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "16k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_16k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "33627689622d5ea15ab790c1b0244fdfa0cca75275cbcbfe6b8fa81cb9618ecb",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "32k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_32k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "50a234badb98be9ed34477b5720c470167a90ed44c206240f0786a4f0517542d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "64k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_64k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "0096ca2b45935cf502c353d437ea77662a1930059d63a6fa7f3768d653288067",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "128k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_128k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "53a89bb03bbcc2fe29788d80a0f83fe42f6c153a743d272d5d9319604518ed0d",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "256k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_256k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "585a8f805b354d1a4626254500ea5966c4592811c838046bf2e1ee593d1e9bf6",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "512k",
+      "n": 100,
+      "correct": 99,
+      "accuracy_pct": 99.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_512k_cfgv1_yes.csv",
+      "sha256": "9cd306f11cb9aea663edb3f0f985a3979c7b8bcffa79eac6c547d6d93712881c",
+      "dataset_file_sha256": "e61fa6f9bb913fd61f6f2b573f160feeb825e30520d029f557dd58155ee6bdc4",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    },
+    {
+      "task": "qa10",
+      "length": "1M",
+      "n": 100,
+      "correct": 98,
+      "accuracy_pct": 98.0,
+      "prediction_file": "babilong_evals/hina-dixit/Kiran-10M/qa10_1M_cfgv1_yes.csv",
+      "sha256": "8562a764a1e61ba8acf2ca70ca71fc2c67bca58df39bcfc1f06f77a707a27702",
+      "dataset_file_sha256": "cdc1964dcadb1dbabbab1dddd67d75b99e94560e3ab5d77735862c4f4a427145",
+      "dataset_row_indices": {
+        "first": 0,
+        "last": 99
+      }
+    }
+  ],
+  "sample_index_semantics": "Zero-based exported CSV row, reconciled to the campaign-recorded index; not a full-context hash."
+}
